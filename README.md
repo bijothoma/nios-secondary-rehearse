@@ -28,9 +28,16 @@ python tools/convert_lesson.py --subject malayalam --lesson 17 \
 This writes `data/<subject>/lesson-<n>.json` and lists it in `data/subjects.json`.
 Fix any `WARNING` lines it prints before committing.
 
+Questions taken from old NIOS papers are kept separately in
+`data/<subject>/past/lesson-<n>.json` and merged in on every conversion:
+`refs` adds exam tags (e.g. `"April 2022"`) to existing question ids, and `add`
+appends extra questions to a section. Answers marked `"drafted": true` were written
+for the app rather than taken from an answer key.
+
 ## Layout
 
 - `index.html`, `app.js`, `style.css`: the app (no build step)
 - `data/subjects.json`: subjects and their lessons
-- `data/<subject>/lesson-<n>.json`: questions and answers for one lesson
+- `data/<subject>/lesson-<n>.json`: questions and answers for one lesson (generated)
+- `data/<subject>/past/lesson-<n>.json`: additions from old question papers
 - `tools/convert_lesson.py`: Word → JSON converter

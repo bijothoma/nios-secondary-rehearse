@@ -5,6 +5,8 @@ Usage:
       --questions "path/to/question paper.docx" --answers "path/to/answer key.docx"
 
 Writes data/<subject>/lesson-<n>.json and registers the lesson in data/subjects.json.
+Questions and exam references gathered from old question papers live in
+data/<subject>/past/lesson-<n>.json and are merged in on every run.
 """
 import argparse
 import json
@@ -85,14 +87,40 @@ def parse_header(paper, header):
     paper['meta'] = ' · '.join(m.rstrip(':') for m in meta)
 
 
+MONTHS = {
+    'january': 'January', 'ജനുവരി': 'January',
+    'march': 'March', 'മാർച്ച്': 'March',
+    'april': 'April', 'ഏപ്രിൽ': 'April',
+    'october': 'October', 'ഒക്ടോബർ': 'October',
+    'november': 'November', 'നവംബർ': 'November',
+}
+MONTH_ORDER = ['January', 'March', 'April', 'October', 'November']
+PAST_PAPER = 'Past paper'  # a ★ question whose exam is not named yet
+
+
+def english_year(raw):
+    """'2025 ഏപ്രിൽ, ചോ. 1.1' or '2025 April' → 'April 2025'."""
+    year = re.search(r'\d{4}', raw)
+    month = next((m for k, m in MONTHS.items() if k in raw.lower()), None)
+    if not year:
+        return raw.strip()
+    return f'{month} {year[0]}' if month else year[0]
+
+
+def year_key(label):
+    parts = label.split()
+    month = MONTH_ORDER.index(parts[0]) if parts[0] in MONTH_ORDER else 0
+    return (int(parts[-1]) if parts[-1].isdigit() else 0, month)
+
+
 def new_question(qid, text):
     q = {'id': qid}
     year = YEAR_RE.search(text)
     if year:
-        q['year'] = year[1] or year[2]
+        q['years'] = [english_year(year[1] or year[2])]
         text = YEAR_RE.sub('', text).strip()
     if text.startswith('★'):
-        q.setdefault('year', 'മുൻവർഷ ചോദ്യം')
+        q.setdefault('years', [PAST_PAPER])
         text = text.lstrip('★ ')
     return q, text
 
@@ -272,6 +300,39 @@ def merge(paper, answers, notes, sec_notes):
     return problems
 
 
+def merge_past(paper, past):
+    """Add questions and exam references collected from old question papers.
+
+    past = {"refs": {"<id>": ["April 2022", ...]},
+            "add": [{"section": 9, "type": "open", "q": ..., "answer": ..., "years": [...]}, ...]}
+    """
+    problems = []
+    by_id = {q['id']: q for s in paper['sections'] for q in s['questions']}
+    for qid, years in past.get('refs', {}).items():
+        q = by_id.get(qid)
+        if not q:
+            problems.append(f'past refs: no question {qid}')
+            continue
+        q['years'] = [y for y in q.get('years', []) if y != PAST_PAPER] + years
+    sections = {s['no']: s for s in paper['sections']}
+    for item in past.get('add', []):
+        sec = sections.get(item['section'])
+        if not sec:
+            problems.append(f"past add: no section {item['section']}")
+            continue
+        q = {'id': f"{sec['no']}.{len(sec['questions']) + 1}",
+             **{k: v for k, v in item.items() if k != 'section'}}
+        if q['type'] == 'mcq' and q.get('answer') not in [chr(65 + i) for i in range(len(q['options']))]:
+            problems.append(f"past add: bad answer for {q['q'][:40]}")
+        sec['questions'].append(q)
+        types = {x['type'] for x in sec['questions']}
+        sec['type'] = types.pop() if len(types) == 1 else 'mixed'
+    for q in (q for s in paper['sections'] for q in s['questions']):
+        if 'years' in q:
+            q['years'] = sorted(dict.fromkeys(q['years']), key=year_key, reverse=True)
+    return problems
+
+
 def register(subject, lesson_no, title, rel_path):
     path = APP_DIR / 'data' / 'subjects.json'
     data = json.loads(path.read_text(encoding='utf-8'))
@@ -295,6 +356,9 @@ def main():
     paper = parse_paper(docx_lines(args.questions))
     answers, notes, sec_notes = parse_answers(docx_lines(args.answers))
     problems = merge(paper, answers, notes, sec_notes)
+    past_file = APP_DIR / 'data' / args.subject / 'past' / f'lesson-{args.lesson}.json'
+    if past_file.exists():
+        problems += merge_past(paper, json.loads(past_file.read_text(encoding='utf-8')))
     paper = {'subject': args.subject, 'lesson': args.lesson, **paper}
 
     rel = f'data/{args.subject}/lesson-{args.lesson}.json'

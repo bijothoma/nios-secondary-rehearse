@@ -190,21 +190,24 @@ function renderSection(sec) {
       var num = sec.no + '.' + (i + 1);
       if (q.type === 'mcq') {
         var correct = q.options[LETTERS.indexOf(q.answer)];
-        return renderChoice(num, q.q, q.year, q.options, correct, q.note);
+        return renderChoice(num, q.q, q.years, q.options, correct, q.note);
       }
       if (q.type === 'match') {
-        return renderChoice(num, q.left + ' — ?', q.year, matchPool, q.right);
+        return renderChoice(num, q.left + ' — ?', q.years, matchPool, q.right);
       }
       return renderOpen(num, q);
     })
   );
 }
 
-function questionText(num, text, year) {
+// years: the exams this question was asked in, e.g. ["April 2025", "October 2019"]
+function questionText(num, text, years) {
   return el('p', { 'class': 'q-text' },
     el('span', { 'class': 'q-num' }, num),
     text,
-    year ? el('span', { 'class': 'year', title: 'Asked in this exam' }, year) : null
+    (years || []).map(function (y) {
+      return el('span', { 'class': 'year', title: 'Asked in this exam' }, y);
+    })
   );
 }
 
@@ -215,7 +218,7 @@ function markOption(button, kind) {
   button.appendChild(el('span', { 'class': 'mark' }, kind === 'correct' ? '✓' : '✗'));
 }
 
-function renderChoice(num, text, year, options, correct, note) {
+function renderChoice(num, text, years, options, correct, note) {
   score.total++;
   var firstTry = true;
   var finished = false;
@@ -270,7 +273,7 @@ function renderChoice(num, text, year, options, correct, note) {
   }
 
   return el('div', { 'class': 'q' },
-    questionText(num, text, year),
+    questionText(num, text, years),
     el('div', { 'class': 'options' }, buttons),
     feedback,
     noteEl,
@@ -293,7 +296,7 @@ function renderOpen(num, q) {
     }
   }, 'Show answer');
 
-  return el('div', { 'class': 'q' }, questionText(num, q.q, q.year), btn, answer);
+  return el('div', { 'class': 'q' }, questionText(num, q.q, q.years), btn, answer);
 }
 
 // ---------- routing ----------
