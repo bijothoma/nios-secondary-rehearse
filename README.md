@@ -28,6 +28,13 @@ python tools/convert_lesson.py --subject malayalam --lesson 17 \
 This writes `data/<subject>/lesson-<n>.json` and lists it in `data/subjects.json`.
 Fix any `WARNING` lines it prints before committing.
 
+Lessons without a Word paper are written in short form in `data/<subject>/src/lesson-<n>.json`
+and built in the April 2026 exam layout with:
+
+```
+python tools/build_lesson.py data/malayalam/src/lesson-10.json
+```
+
 Questions taken from old NIOS papers are kept separately in
 `data/<subject>/past/lesson-<n>.json` and merged in on every conversion:
 `refs` adds exam tags (e.g. `"April 2022"`) to existing question ids, and `add`

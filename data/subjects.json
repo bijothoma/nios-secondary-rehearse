@@ -6,6 +6,26 @@
       "label": "മലയാളം",
       "lessons": [
         {
+          "no": 3,
+          "title": "പ്രിയനെത്തേടി",
+          "file": "data/malayalam/lesson-3.json"
+        },
+        {
+          "no": 5,
+          "title": "കുഞ്ഞുണ്ണിക്കവിതകൾ",
+          "file": "data/malayalam/lesson-5.json"
+        },
+        {
+          "no": 7,
+          "title": "സീതാസ്വയംവരം",
+          "file": "data/malayalam/lesson-7.json"
+        },
+        {
+          "no": 10,
+          "title": "വാസവദത്ത",
+          "file": "data/malayalam/lesson-10.json"
+        },
+        {
           "no": 14,
           "title": "ഉൾനാടിലെ ഒരുത്സവം",
           "file": "data/malayalam/lesson-14.json"
