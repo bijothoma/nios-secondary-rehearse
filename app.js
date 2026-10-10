@@ -95,12 +95,6 @@ function updateScore() {
   scoreEl.textContent = 'Score: ' + score.right + ' / ' + score.total;
 }
 
-// Marks per question, e.g. "10 × 2 = 20" → 2
-function marksEach(section) {
-  var m = section.marks.match(/[×x]\s*(\d+)/);
-  return m ? Number(m[1]) : 1;
-}
-
 // ---------- pages ----------
 
 function renderHome() {
@@ -160,7 +154,7 @@ function renderPaper(subject, lessonMeta) {
       )
     );
 
-    var sections = paper.sections.map(function (sec) { return renderSection(sec, paper); });
+    var sections = paper.sections.map(renderSection);
     var summary = el('div', { 'class': 'summary' },
       el('p', { id: 'summary-text' }),
       el('button', { 'class': 'btn primary', onclick: restart }, 'Try again with a new shuffle')
@@ -182,13 +176,12 @@ function updateSummary() {
     : '';
 }
 
-function renderSection(sec, paper) {
+function renderSection(sec) {
   var qs = shuffle(sec.questions);
   // Options for a "match" section are all the right-hand items of that section.
   var matchPool = sec.questions
     .filter(function (q) { return q.type === 'match'; })
     .map(function (q) { return q.right; });
-  var each = marksEach(sec);
 
   return el('div', { 'class': 'section' },
     el('h2', {}, el('span', {}, sec.no + '. ' + sec.title), el('span', { 'class': 'marks' }, sec.marks)),
@@ -202,7 +195,7 @@ function renderSection(sec, paper) {
       if (q.type === 'match') {
         return renderChoice(num, q.left + ' — ?', q.year, matchPool, q.right);
       }
-      return renderOpen(num, q, each > 1 ? paper.answerNote : null);
+      return renderOpen(num, q);
     })
   );
 }
@@ -285,11 +278,10 @@ function renderChoice(num, text, year, options, correct, note) {
   );
 }
 
-function renderOpen(num, q, note) {
+function renderOpen(num, q) {
   var answer = el('div', { 'class': 'answer' },
     q.answer.split('\n').map(function (p) { return el('p', {}, p); }),
-    q.note ? el('p', { 'class': 'note' }, q.note) : null,
-    note ? el('p', { 'class': 'note' }, note) : null
+    q.note ? el('p', { 'class': 'note' }, q.note) : null
   );
   setHidden(answer, true);
 

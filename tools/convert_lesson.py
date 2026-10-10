@@ -176,9 +176,8 @@ def split_inline_answers(lines):
 
 
 def parse_answers(lines):
-    answers, notes, sec_notes, cur, note = {}, {}, {}, None, None
+    answers, notes, sec_notes, cur = {}, {}, {}, None
     sec_no = None
-    seen_section = False
     for line in split_inline_answers(lines[1:]):
         if line.startswith('കുറിപ്പ്:') and sec_no:
             # A remark for the whole section, e.g. on spelling conventions.
@@ -186,8 +185,7 @@ def parse_answers(lines):
             cur = None
             continue
         if line.startswith('അധ്യാപകർക്കുള്ള കുറിപ്പ്'):
-            note = line.split(':', 1)[-1].strip()
-            cur = None
+            cur = None  # general remark to teachers; not shown in the app
             continue
         if line.startswith('ശ്രദ്ധിക്കുക:'):
             # A remark about a specific question, e.g. "ശ്രദ്ധിക്കുക: 1.2-ലെ ഓപ്ഷനുകൾ …"
@@ -206,13 +204,12 @@ def parse_answers(lines):
             cur = answers[f'{m_q[1]}.{m_q[2]}'] = {'inline': m_q[3], 'more': []}
         elif re.match(r'^\d+\.\s', line):
             cur = None  # section heading
-            seen_section = True
             sec_no = int(line.split('.', 1)[0])
         elif cur:
             cur['more'].append(line)
-        elif not seen_section and 'മാർക്ക്:' not in line:
-            note = line  # intro remark above the first section, e.g. "answers are models"
-    return answers, notes, sec_notes, note
+        # Anything else above the first section (e.g. "answers are only models") is a
+        # general remark about the key and is left out.
+    return answers, notes, sec_notes
 
 
 TRUE_FALSE = ['ശരി', 'തെറ്റ്']
@@ -230,7 +227,7 @@ def as_true_false(q, text):
     return True
 
 
-def merge(paper, answers, notes, sec_notes, note):
+def merge(paper, answers, notes, sec_notes):
     problems = []
     for sec in paper['sections']:
         if sec['no'] in sec_notes:
@@ -272,8 +269,6 @@ def merge(paper, answers, notes, sec_notes, note):
                 q['answer'] = text
         types = {q['type'] for q in sec['questions']}
         sec['type'] = types.pop() if len(types) == 1 else 'mixed'
-    if note:
-        paper['answerNote'] = note
     return problems
 
 
@@ -298,8 +293,8 @@ def main():
     args = ap.parse_args()
 
     paper = parse_paper(docx_lines(args.questions))
-    answers, notes, sec_notes, note = parse_answers(docx_lines(args.answers))
-    problems = merge(paper, answers, notes, sec_notes, note)
+    answers, notes, sec_notes = parse_answers(docx_lines(args.answers))
+    problems = merge(paper, answers, notes, sec_notes)
     paper = {'subject': args.subject, 'lesson': args.lesson, **paper}
 
     rel = f'data/{args.subject}/lesson-{args.lesson}.json'
