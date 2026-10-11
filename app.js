@@ -135,13 +135,61 @@ function renderSubject(subject) {
   );
 }
 
+function lessonHash(subject, lessonMeta) {
+  return '#/' + subject.id + '/' + lessonMeta.no;
+}
+
+function renderLessonMenu(subject, lessonMeta) {
+  setHidden(scoreEl, true);
+  var base = lessonHash(subject, lessonMeta);
+  setChildren(app,
+    el('div', { 'class': 'crumbs' }, el('a', { href: '#/' + subject.id }, '« ' + (subject.label || subject.name))),
+    el('div', { 'class': 'muted' }, 'Lesson ' + lessonMeta.no),
+    el('h1', {}, lessonMeta.title),
+    el('div', { 'class': 'tiles' },
+      el('a', { 'class': 'tile', href: base + '/text' },
+        el('span', {}, 'Read'), el('strong', {}, 'Lesson')),
+      el('a', { 'class': 'tile', href: base + '/translation' },
+        el('span', {}, 'Read with English'), el('strong', {}, 'Lesson with translation')),
+      el('a', { 'class': 'tile', href: base + '/paper' },
+        el('span', {}, 'Practise'), el('strong', {}, 'Model question paper'))
+    )
+  );
+}
+
+function renderText(subject, lessonMeta, withEnglish) {
+  setHidden(scoreEl, true);
+  loadJSON(lessonMeta.text, function (doc) {
+    var blocks = [];
+    doc.blocks.forEach(function (b) {
+      var parts = b.parts.filter(function (p) { return withEnglish || p[0] !== 'en'; });
+      if (!parts.length) return;
+      var tag = b.type === 'title' ? 'h1' : b.type === 'heading' ? 'h2' : 'p';
+      blocks.push(el(tag, { 'class': 'text-' + b.type },
+        parts.map(function (p) { return el('span', { 'class': p[0] }, p[1]); })));
+    });
+    setChildren(app,
+      el('div', { 'class': 'crumbs' }, el('a', { href: lessonHash(subject, lessonMeta) }, '« Lesson ' + lessonMeta.no)),
+      el('div', { 'class': 'lesson-text' + (withEnglish ? ' with-en' : '') }, blocks),
+      el('div', { 'class': 'actions' },
+        el('a', { 'class': 'btn', href: lessonHash(subject, lessonMeta) + (withEnglish ? '/text' : '/translation') },
+          withEnglish ? 'Hide English' : 'Show English'),
+        ' ',
+        el('a', { 'class': 'btn primary', href: lessonHash(subject, lessonMeta) + '/paper' }, 'Model question paper'))
+    );
+    window.scrollTo(0, 0);
+  }, showError);
+}
+
 function renderPaper(subject, lessonMeta) {
   loadJSON(lessonMeta.file, function (paper) {
     score = { right: 0, done: 0, total: 0 };
     var restart = function () { renderPaper(subject, lessonMeta); };
 
     var head = el('div', { 'class': 'paper-head' },
-      el('div', { 'class': 'crumbs' }, el('a', { href: '#/' + subject.id }, '« ' + (subject.label || subject.name))),
+      el('div', { 'class': 'crumbs' }, lessonMeta.text
+        ? el('a', { href: lessonHash(subject, lessonMeta) }, '« Lesson ' + lessonMeta.no)
+        : el('a', { href: '#/' + subject.id }, '« ' + (subject.label || subject.name))),
       el('div', { 'class': 'muted' }, 'Lesson ' + paper.lesson),
       el('h1', {}, paper.title),
       paper.author ? el('div', {}, paper.author) : null,
@@ -307,9 +355,14 @@ function route() {
   var lesson = subject && parts[1]
     ? find(subject.lessons, function (l) { return String(l.no) === parts[1]; })
     : null;
+  var view = parts[2];
   if (!subject) renderHome();
-  else if (lesson) return renderPaper(subject, lesson); // scrolls once loaded
-  else renderSubject(subject);
+  else if (!lesson) renderSubject(subject);
+  // Lessons with a text file get a menu; the views scroll once loaded.
+  else if (lesson.text && view === 'text') return renderText(subject, lesson, false);
+  else if (lesson.text && view === 'translation') return renderText(subject, lesson, true);
+  else if (lesson.text && view !== 'paper') renderLessonMenu(subject, lesson);
+  else return renderPaper(subject, lesson);
   window.scrollTo(0, 0);
 }
 

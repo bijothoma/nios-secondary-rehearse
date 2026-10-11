@@ -41,6 +41,15 @@ Questions taken from old NIOS papers are kept separately in
 appends extra questions to a section. Answers marked `"drafted": true` were written
 for the app rather than taken from an answer key.
 
+A lesson's text with its English translation (in brackets after each sentence, or as
+separate English paragraphs) is added from a Word file with:
+
+```
+python tools/convert_text.py --subject malayalam --lesson 16 --docx "path/to/lesson.docx"
+```
+
+The lesson then opens with a menu: Lesson, Lesson with translation, and the model question paper.
+
 ## Layout
 
 - `index.html`, `app.js`, `style.css`: the app (no build step)

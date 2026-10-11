@@ -76,6 +76,22 @@ a { color: #3b5bdb; color: var(--accent); }
 
 .crumbs { margin-bottom: 8px; font-size: .95em; }
 
+/* Lesson text */
+.lesson-text {
+  background: #ffffff; background: var(--card);
+  border: 1px solid #dde1ea; border: 1px solid var(--border);
+  border-radius: 14px; padding: 18px 20px; line-height: 1.8;
+}
+.lesson-text span { display: block; white-space: pre-line; }
+.lesson-text .en { color: #667085; color: var(--muted); font-style: italic; font-size: .92em; margin: 2px 0 8px; }
+.lesson-text .ml + .ml { margin-top: 6px; }
+.lesson-text .text-author { font-weight: 600; }
+.lesson-text h2 { font-size: 1.1em; margin: 22px 0 6px; }
+.lesson-text .text-page { color: #667085; color: var(--muted); font-size: .85em; text-align: right; margin: 4px 0; }
+.lesson-text p { margin: 0 0 14px; }
+.with-en p { padding-bottom: 6px; border-bottom: 1px dotted #dde1ea; border-bottom: 1px dotted var(--border); }
+a.btn { display: inline-block; text-decoration: none; }
+
 /* Paper */
 .paper-head {
   background: #ffffff; background: var(--card);
@@ -171,7 +187,8 @@ a { color: #3b5bdb; color: var(--accent); }
 /* Greyscale screens (e-ink): pure black on white for best contrast. */
 @media (monochrome) {
   body, .topbar, .tile, .paper-head, .q, .summary, .opt, .answer, .year { background: #fff; color: #000; }
-  .muted, .note, .marks, .tile span, .paper-head ul, .q-num, .opt .letter { color: #333; }
+  .muted, .note, .marks, .tile span, .paper-head ul, .q-num, .opt .letter, .lesson-text .en, .text-page { color: #333; }
+  .lesson-text { background: #fff; color: #000; border-color: #000; }
   .tile, .paper-head, .q, .summary, .opt { border-color: #000; }
   .opt.correct { border: 4px solid #000; }
   .opt.wrong { border: 2px dashed #000; opacity: 1; }
