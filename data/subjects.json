@@ -6,6 +6,11 @@
       "label": "മലയാളം",
       "lessons": [
         {
+          "no": 2,
+          "title": "കച്ചട്ടിസ്വാമിയാരുടെ കഥ",
+          "file": "data/malayalam/lesson-2.json"
+        },
+        {
           "no": 3,
           "title": "പ്രിയനെത്തേടി",
           "file": "data/malayalam/lesson-3.json"
@@ -19,6 +24,11 @@
           "no": 7,
           "title": "സീതാസ്വയംവരം",
           "file": "data/malayalam/lesson-7.json"
+        },
+        {
+          "no": 8,
+          "title": "കുടുംബജീവിതം",
+          "file": "data/malayalam/lesson-8.json"
         },
         {
           "no": 10,
@@ -39,6 +49,16 @@
           "no": 16,
           "title": "കണ്ണീരും കിനാവും",
           "file": "data/malayalam/lesson-16.json"
+        },
+        {
+          "no": 18,
+          "title": "പെങ്ങൾ",
+          "file": "data/malayalam/lesson-18.json"
+        },
+        {
+          "no": 19,
+          "title": "നെയ്പ്പായസം",
+          "file": "data/malayalam/lesson-19.json"
         }
       ]
     },
