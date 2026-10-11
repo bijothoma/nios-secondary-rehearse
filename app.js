@@ -377,10 +377,23 @@ function route() {
   window.scrollTo(0, 0);
 }
 
+// Lesson texts kept only on this computer (local/ is not in git) are listed in local/texts.json.
+function addLocalTexts(local) {
+  subjects.forEach(function (s) {
+    var texts = local[s.id] || {};
+    s.lessons.forEach(function (l) {
+      if (!l.text && texts[l.no]) l.text = texts[l.no];
+    });
+  });
+}
+
 loadJSON('data/subjects.json', function (data) {
   subjects = data.subjects;
-  window.addEventListener('hashchange', route, false);
-  route();
+  var start = function () {
+    window.addEventListener('hashchange', route, false);
+    route();
+  };
+  loadJSON('local/texts.json', function (local) { addLocalTexts(local); start(); }, start);
 }, function () {
   showError(new Error('Could not load the question data. Open the app with start.bat (it needs a local web server).'));
 });

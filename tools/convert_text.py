@@ -12,6 +12,8 @@ The translation may be given as whole English paragraphs, or inline in (round) o
 [square] brackets after each sentence. Each paragraph is stored as a list of parts,
 ["ml", text] or ["en", text], so the app can show the lesson with or without English.
 Writes data/<subject>/text/lesson-<n>.json and links it from data/subjects.json.
+With --local it writes local/<subject>/text/lesson-<n>.json and lists it in
+local/texts.json instead; local/ is not committed, so the text stays on this computer.
 """
 import argparse
 import json
@@ -128,22 +130,28 @@ def main():
     src = ap.add_mutually_exclusive_group(required=True)
     src.add_argument('--docx')
     src.add_argument('--txt')
+    ap.add_argument('--local', action='store_true', help='keep the text out of git (copyrighted lessons)')
     args = ap.parse_args()
 
     blocks = convert(args.docx) if args.docx else convert_txt(args.txt)
-    rel = f'data/{args.subject}/text/lesson-{args.lesson}.json'
+    rel = f'{"local" if args.local else "data"}/{args.subject}/text/lesson-{args.lesson}.json'
     out = APP_DIR / rel
     out.parent.mkdir(parents=True, exist_ok=True)
     out.write_text(json.dumps({'subject': args.subject, 'lesson': args.lesson, 'blocks': blocks},
                               ensure_ascii=False, indent=1) + '\n', encoding='utf-8')
 
-    path = APP_DIR / 'data' / 'subjects.json'
-    data = json.loads(path.read_text(encoding='utf-8'))
-    subj = next(s for s in data['subjects'] if s['id'] == args.subject)
-    lesson = next((l for l in subj['lessons'] if l['no'] == args.lesson), None)
-    if lesson is None:
-        sys.exit(f'Lesson {args.lesson} is not in data/subjects.json yet; add its question paper first.')
-    lesson['text'] = rel
+    if args.local:
+        path = APP_DIR / 'local' / 'texts.json'
+        data = json.loads(path.read_text(encoding='utf-8')) if path.exists() else {}
+        data.setdefault(args.subject, {})[str(args.lesson)] = rel
+    else:
+        path = APP_DIR / 'data' / 'subjects.json'
+        data = json.loads(path.read_text(encoding='utf-8'))
+        subj = next(s for s in data['subjects'] if s['id'] == args.subject)
+        lesson = next((l for l in subj['lessons'] if l['no'] == args.lesson), None)
+        if lesson is None:
+            sys.exit(f'Lesson {args.lesson} is not in data/subjects.json yet; add its question paper first.')
+        lesson['text'] = rel
     path.write_text(json.dumps(data, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
 
     sys.stdout.reconfigure(encoding='utf-8')
