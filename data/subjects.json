@@ -8,12 +8,14 @@
         {
           "no": 2,
           "title": "കച്ചട്ടിസ്വാമിയാരുടെ കഥ",
-          "file": "data/malayalam/lesson-2.json"
+          "file": "data/malayalam/lesson-2.json",
+          "text": "data/malayalam/text/lesson-2.json"
         },
         {
           "no": 3,
           "title": "പ്രിയനെത്തേടി",
-          "file": "data/malayalam/lesson-3.json"
+          "file": "data/malayalam/lesson-3.json",
+          "text": "data/malayalam/text/lesson-3.json"
         },
         {
           "no": 5,
@@ -23,7 +25,8 @@
         {
           "no": 7,
           "title": "സീതാസ്വയംവരം",
-          "file": "data/malayalam/lesson-7.json"
+          "file": "data/malayalam/lesson-7.json",
+          "text": "data/malayalam/text/lesson-7.json"
         },
         {
           "no": 8,
@@ -33,7 +36,8 @@
         {
           "no": 10,
           "title": "വാസവദത്ത",
-          "file": "data/malayalam/lesson-10.json"
+          "file": "data/malayalam/lesson-10.json",
+          "text": "data/malayalam/text/lesson-10.json"
         },
         {
           "no": 14,
@@ -71,7 +75,8 @@
         {
           "no": 22,
           "title": "മനസ്വിനി",
-          "file": "data/malayalam/lesson-22.json"
+          "file": "data/malayalam/lesson-22.json",
+          "text": "data/malayalam/text/lesson-22.json"
         },
         {
           "no": 23,
@@ -81,7 +86,8 @@
         {
           "no": 24,
           "title": "രാവണൻ പിടിച്ച പുലിവാല്",
-          "file": "data/malayalam/lesson-24.json"
+          "file": "data/malayalam/lesson-24.json",
+          "text": "data/malayalam/text/lesson-24.json"
         },
         {
           "no": 26,

@@ -162,7 +162,18 @@ function renderText(subject, lessonMeta, withEnglish) {
   loadJSON(lessonMeta.text, function (doc) {
     var blocks = [];
     doc.blocks.forEach(function (b) {
-      var parts = b.parts.filter(function (p) { return withEnglish || p[0] !== 'en'; });
+      var parts = [];
+      b.parts.forEach(function (p) {
+        if (!withEnglish && p[0] === 'en') return;
+        var last = parts[parts.length - 1];
+        // Without English, sentences rejoin into one paragraph; poem lines keep their breaks.
+        if (!withEnglish && last) {
+          var poem = last[1].indexOf('\n') >= 0 || p[1].indexOf('\n') >= 0;
+          parts[parts.length - 1] = ['ml', last[1] + (poem ? '\n' : ' ') + p[1]];
+        } else {
+          parts.push(p);
+        }
+      });
       if (!parts.length) return;
       var tag = b.type === 'title' ? 'h1' : b.type === 'heading' ? 'h2' : 'p';
       blocks.push(el(tag, { 'class': 'text-' + b.type },

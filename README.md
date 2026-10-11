@@ -48,6 +48,9 @@ separate English paragraphs) is added from a Word file with:
 python tools/convert_text.py --subject malayalam --lesson 16 --docx "path/to/lesson.docx"
 ```
 
+Lessons typed from the textbook are kept as plain text in `data/<subject>/src/text-<n>.txt`
+(see the format at the top of `tools/convert_text.py`) and converted with `--txt` instead of `--docx`.
+
 The lesson then opens with a menu: Lesson, Lesson with translation, and the model question paper.
 
 ## Layout

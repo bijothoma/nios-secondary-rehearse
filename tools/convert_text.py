@@ -2,6 +2,11 @@
 
 Usage:
   python tools/convert_text.py --subject malayalam --lesson 16 --docx "path/to/lesson.docx"
+  python tools/convert_text.py --subject malayalam --lesson 2 --txt data/malayalam/src/text-2.txt
+
+A .txt source has blocks separated by blank lines. "# ml | en" is the title,
+"@ ml | en" the author and "## ml | en" a heading. In other blocks, lines starting
+with "> " are English and the rest Malayalam (line breaks are kept for poems).
 
 The translation may be given as whole English paragraphs, or inline in (round) or
 [square] brackets after each sentence. Each paragraph is stored as a list of parts,
@@ -94,14 +99,38 @@ def convert(path):
     return blocks
 
 
+def convert_txt(path):
+    blocks = []
+    kinds = {'#': 'title', '@': 'author', '##': 'heading'}
+    for chunk in re.split(r'\n\s*\n', Path(path).read_text(encoding='utf-8').strip()):
+        lines = [l.rstrip() for l in chunk.strip().split('\n')]
+        mark, _, rest = lines[0].partition(' ')
+        if mark in kinds and len(lines) == 1:
+            ml, _, en = rest.partition(' | ')
+            parts = [['ml', ml.strip()]] + ([['en', en.strip()]] if en.strip() else [])
+            blocks.append({'type': kinds[mark], 'parts': parts})
+            continue
+        parts = []
+        for line in lines:
+            kind, text = ('en', line[2:]) if line.startswith('> ') else ('ml', line)
+            if parts and parts[-1][0] == kind:
+                parts[-1][1] += '\n' + text
+            else:
+                parts.append([kind, text])
+        blocks.append({'type': 'para', 'parts': parts})
+    return blocks
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument('--subject', required=True)
     ap.add_argument('--lesson', required=True, type=int)
-    ap.add_argument('--docx', required=True)
+    src = ap.add_mutually_exclusive_group(required=True)
+    src.add_argument('--docx')
+    src.add_argument('--txt')
     args = ap.parse_args()
 
-    blocks = convert(args.docx)
+    blocks = convert(args.docx) if args.docx else convert_txt(args.txt)
     rel = f'data/{args.subject}/text/lesson-{args.lesson}.json'
     out = APP_DIR / rel
     out.parent.mkdir(parents=True, exist_ok=True)
