@@ -55,6 +55,9 @@ Lessons whose text is still under copyright are converted with `--local`: the fi
 `local/` (not committed) and are listed in `local/texts.json`, so their text shows only when
 the app runs on this computer. On the public site those lessons open the question paper directly.
 
+Summaries are added the same way with `--summary` (a .docx with the Malayalam summary
+followed by its English translation, or `data/<subject>/src/summary-<n>.txt`).
+
 The lesson then opens with a menu: Lesson, Lesson with translation, and the model question paper.
 
 ## Layout

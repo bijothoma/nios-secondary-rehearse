@@ -14,6 +14,10 @@ The translation may be given as whole English paragraphs, or inline in (round) o
 Writes data/<subject>/text/lesson-<n>.json and links it from data/subjects.json.
 With --local it writes local/<subject>/text/lesson-<n>.json and lists it in
 local/texts.json instead; local/ is not committed, so the text stays on this computer.
+
+With --summary the file is the lesson's summary, written to data/<subject>/summary/.
+A summary .docx has the Malayalam paragraphs under one heading and their English
+translation under a second heading; a summary .txt uses the format above.
 """
 import argparse
 import json
@@ -123,6 +127,33 @@ def convert_txt(path):
     return blocks
 
 
+def convert_summary_docx(path):
+    """A summary .docx: a Malayalam heading and paragraphs, then an 'English' heading and
+    the same paragraphs in English. Paragraph i of each half are paired into one block."""
+    ml, en, title_ml, title_en = [], [], '', ''
+    for text, style, bold in paragraphs(path):
+        heading = style.startswith('Heading')
+        if heading and not title_ml:
+            title_ml = re.sub(r'\s*[-—–]\s*സംക്ഷിപ്തം$', '', text)
+        elif heading:
+            if not title_en or title_en == 'English Translation':
+                title_en = re.sub(r'^English Translation\s*[—–-]\s*', '', text)
+        elif en or title_en:
+            en.append(text)
+        else:
+            ml.append(text)
+    # Some files repeat the lesson title at the end of every paragraph (a copy-paste leftover).
+    ml = [re.sub(r'\s*' + re.escape(title_ml) + r'$', '', p) for p in ml]
+    if len(ml) != len(en):
+        print(f'WARNING: {len(ml)} Malayalam and {len(en)} English paragraphs; pairing in order')
+    blocks = [{'type': 'title', 'parts': [['ml', title_ml + ' — സംക്ഷിപ്തം'],
+                                          ['en', re.sub(r'\s*[—–-]\s*Summary$', '', title_en) + ' — Summary']]}]
+    for i in range(max(len(ml), len(en))):
+        parts = ([['ml', ml[i]]] if i < len(ml) else []) + ([['en', en[i]]] if i < len(en) else [])
+        blocks.append({'type': 'para', 'parts': parts})
+    return blocks
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument('--subject', required=True)
@@ -131,10 +162,15 @@ def main():
     src.add_argument('--docx')
     src.add_argument('--txt')
     ap.add_argument('--local', action='store_true', help='keep the text out of git (copyrighted lessons)')
+    ap.add_argument('--summary', action='store_true', help='the file is the lesson summary')
     args = ap.parse_args()
 
-    blocks = convert(args.docx) if args.docx else convert_txt(args.txt)
-    rel = f'{"local" if args.local else "data"}/{args.subject}/text/lesson-{args.lesson}.json'
+    kind = 'summary' if args.summary else 'text'
+    if args.docx:
+        blocks = convert_summary_docx(args.docx) if args.summary else convert(args.docx)
+    else:
+        blocks = convert_txt(args.txt)
+    rel = f'{"local" if args.local else "data"}/{args.subject}/{kind}/lesson-{args.lesson}.json'
     out = APP_DIR / rel
     out.parent.mkdir(parents=True, exist_ok=True)
     out.write_text(json.dumps({'subject': args.subject, 'lesson': args.lesson, 'blocks': blocks},
@@ -143,6 +179,8 @@ def main():
     if args.local:
         path = APP_DIR / 'local' / 'texts.json'
         data = json.loads(path.read_text(encoding='utf-8')) if path.exists() else {}
+        if args.summary:
+            sys.exit('--local is only for lesson texts')
         data.setdefault(args.subject, {})[str(args.lesson)] = rel
     else:
         path = APP_DIR / 'data' / 'subjects.json'
@@ -151,7 +189,7 @@ def main():
         lesson = next((l for l in subj['lessons'] if l['no'] == args.lesson), None)
         if lesson is None:
             sys.exit(f'Lesson {args.lesson} is not in data/subjects.json yet; add its question paper first.')
-        lesson['text'] = rel
+        lesson[kind] = rel
     path.write_text(json.dumps(data, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
 
     sys.stdout.reconfigure(encoding='utf-8')

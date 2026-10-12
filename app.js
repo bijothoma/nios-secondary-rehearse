@@ -147,19 +147,23 @@ function renderLessonMenu(subject, lessonMeta) {
     el('div', { 'class': 'muted' }, 'Lesson ' + lessonMeta.no),
     el('h1', {}, lessonMeta.title),
     el('div', { 'class': 'tiles' },
-      el('a', { 'class': 'tile', href: base + '/text' },
-        el('span', {}, 'Read'), el('strong', {}, 'Lesson')),
-      el('a', { 'class': 'tile', href: base + '/translation' },
-        el('span', {}, 'Read with English'), el('strong', {}, 'Lesson with translation')),
+      lessonMeta.text ? el('a', { 'class': 'tile', href: base + '/text' },
+        el('span', {}, 'Read'), el('strong', {}, 'Lesson')) : null,
+      lessonMeta.text ? el('a', { 'class': 'tile', href: base + '/translation' },
+        el('span', {}, 'Read with English'), el('strong', {}, 'Lesson with translation')) : null,
+      lessonMeta.summary ? el('a', { 'class': 'tile', href: base + '/summary' },
+        el('span', {}, 'Revise'), el('strong', {}, 'Summary')) : null,
       el('a', { 'class': 'tile', href: base + '/paper' },
         el('span', {}, 'Practise'), el('strong', {}, 'Model question paper'))
     )
   );
 }
 
-function renderText(subject, lessonMeta, withEnglish) {
+// kind is 'text' (the lesson) or 'summary'; both files use the same block format.
+function renderText(subject, lessonMeta, kind, withEnglish) {
   setHidden(scoreEl, true);
-  loadJSON(lessonMeta.text, function (doc) {
+  var views = kind === 'summary' ? ['/summary', '/summary-en'] : ['/text', '/translation'];
+  loadJSON(lessonMeta[kind], function (doc) {
     var blocks = [];
     doc.blocks.forEach(function (b) {
       var parts = [];
@@ -183,7 +187,7 @@ function renderText(subject, lessonMeta, withEnglish) {
       el('div', { 'class': 'crumbs' }, el('a', { href: lessonHash(subject, lessonMeta) }, '« Lesson ' + lessonMeta.no)),
       el('div', { 'class': 'lesson-text' + (withEnglish ? ' with-en' : '') }, blocks),
       el('div', { 'class': 'actions' },
-        el('a', { 'class': 'btn', href: lessonHash(subject, lessonMeta) + (withEnglish ? '/text' : '/translation') },
+        el('a', { 'class': 'btn', href: lessonHash(subject, lessonMeta) + views[withEnglish ? 0 : 1] },
           withEnglish ? 'Hide English' : 'Show English'),
         ' ',
         el('a', { 'class': 'btn primary', href: lessonHash(subject, lessonMeta) + '/paper' }, 'Model question paper'))
@@ -198,7 +202,7 @@ function renderPaper(subject, lessonMeta) {
     var restart = function () { renderPaper(subject, lessonMeta); };
 
     var head = el('div', { 'class': 'paper-head' },
-      el('div', { 'class': 'crumbs' }, lessonMeta.text
+      el('div', { 'class': 'crumbs' }, lessonMeta.text || lessonMeta.summary
         ? el('a', { href: lessonHash(subject, lessonMeta) }, '« Lesson ' + lessonMeta.no)
         : el('a', { href: '#/' + subject.id }, '« ' + (subject.label || subject.name))),
       el('div', { 'class': 'muted' }, 'Lesson ' + paper.lesson),
@@ -370,9 +374,11 @@ function route() {
   if (!subject) renderHome();
   else if (!lesson) renderSubject(subject);
   // Lessons with a text file get a menu; the views scroll once loaded.
-  else if (lesson.text && view === 'text') return renderText(subject, lesson, false);
-  else if (lesson.text && view === 'translation') return renderText(subject, lesson, true);
-  else if (lesson.text && view !== 'paper') renderLessonMenu(subject, lesson);
+  else if (lesson.text && view === 'text') return renderText(subject, lesson, 'text', false);
+  else if (lesson.text && view === 'translation') return renderText(subject, lesson, 'text', true);
+  else if (lesson.summary && view === 'summary') return renderText(subject, lesson, 'summary', false);
+  else if (lesson.summary && view === 'summary-en') return renderText(subject, lesson, 'summary', true);
+  else if ((lesson.text || lesson.summary) && view !== 'paper') renderLessonMenu(subject, lesson);
   else return renderPaper(subject, lesson);
   window.scrollTo(0, 0);
 }
