@@ -128,7 +128,7 @@ function renderSubject(subject) {
           subject.lessons.map(function (l) {
             return el('a', { 'class': 'tile', href: '#/' + subject.id + '/' + l.no },
               el('span', {}, 'Lesson ' + l.no),
-              el('strong', {}, l.title)
+              el('strong', {}, l.button || l.title)
             );
           })
         )
