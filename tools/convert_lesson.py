@@ -339,8 +339,10 @@ def register(subject, lesson_no, title, rel_path):
     subj = next((s for s in data['subjects'] if s['id'] == subject), None)
     if subj is None:
         sys.exit(f"Unknown subject '{subject}'. Add it to data/subjects.json first.")
+    old = next((l for l in subj['lessons'] if l['no'] == lesson_no), {})
     subj['lessons'] = [l for l in subj['lessons'] if l['no'] != lesson_no]
-    subj['lessons'].append({'no': lesson_no, 'title': title, 'file': rel_path})
+    # Keep links added by other tools (lesson text, summary).
+    subj['lessons'].append(dict(old, no=lesson_no, title=title, file=rel_path))
     subj['lessons'].sort(key=lambda l: l['no'])
     path.write_text(json.dumps(data, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
 
