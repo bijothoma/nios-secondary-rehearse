@@ -1,0 +1,682 @@
+{
+  "subject": "social-science",
+  "lesson": 901,
+  "title": "Model Question Paper 1",
+  "meta": "Time: 3 hours · Maximum marks: 100 · Modelled on the April 2026 NIOS paper",
+  "instructions": [
+    "All questions are compulsory. Where a question has OR, answer either one.",
+    "Section A: questions 1–20 carry 1 mark each; questions 21–35 carry 2 marks each.",
+    "Section B: 2-mark answers in 30–50 words, 3-mark answers in 50–80 words, 6-mark answers in 80–120 words. Map questions carry 4 marks.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "20 × 1 = 20",
+      "type": "mcq",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "What was the main consequence of Vasco da Gama's discovery of the sea route to India in 1498?",
+          "options": [
+            "European powers like the English, French, Portuguese and Dutch came to India for trade and missionary work",
+            "Dutch came to India for spices",
+            "India became a Portuguese colony",
+            "Vasco da Gama ruled India for the Portuguese"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Chapter 3."
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "In which year was the British passenger ship Lusitania sunk by German U-boats, killing 128 US civilians?",
+          "options": [
+            "1915",
+            "1815",
+            "1715",
+            "1515"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2024"
+          ],
+          "note": "Chapter 4."
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "Where was the Permanent Settlement started by Lord Cornwallis in 1793?",
+          "options": [
+            "Bengal and Bihar",
+            "Haryana and Punjab",
+            "Rajasthan and Madhya Pradesh",
+            "Karnataka and Andhra Pradesh"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Chapter 5."
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "The Mohammadan Anglo-Oriental College at Aligarh (1875) was founded by —",
+          "options": [
+            "Abdul Latif",
+            "Sir Syed Ahmed Khan",
+            "Mirza Ghulam Ahmed",
+            "Muhammad Iqbal"
+          ],
+          "answer": "B",
+          "note": "Chapter 6."
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "Kunwar Singh led the Revolt of 1857 at —",
+          "options": [
+            "Kanpur",
+            "Arrah",
+            "Bareilly",
+            "Jhansi"
+          ],
+          "answer": "B",
+          "note": "Chapter 7."
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "Where did Gandhiji inspire the peasants to struggle against the oppressive plantation system?",
+          "options": [
+            "Kheda in Gujarat",
+            "Champaran in Bihar",
+            "Ahmedabad in Gujarat",
+            "Dandi"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Chapter 8."
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "On the given outline map of India, identify the mountain peak marked at Point A.",
+          "options": [
+            "Makalu",
+            "Trisul",
+            "Kanchenjunga",
+            "Annapurna"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2026"
+          ],
+          "image": "data/social-science/maps/apr2026-q8-peak.png",
+          "note": "Chapter 9."
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "Identify the peak of the Himalaya marked 'A' on the map.",
+          "options": [
+            "Namcha Barwa",
+            "Mt. Everest",
+            "Nanda Devi",
+            "Garo"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2024"
+          ],
+          "image": "data/social-science/maps/oct2024-q7-physical.png",
+          "note": "Chapter 9."
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "Generally, at what height do upper-air currents or jet streams blow?",
+          "options": [
+            "6,000 m above sea level",
+            "8,000 m above sea level",
+            "10,000 m above sea level",
+            "12,000 m above sea level"
+          ],
+          "answer": "D",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Chapter 10."
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "Which mountain range acts as a barrier in the path of the Arabian Sea branch of the monsoon?",
+          "options": [
+            "Aravallis",
+            "Eastern Ghats",
+            "Western Ghats",
+            "Rajmahal Hills"
+          ],
+          "answer": "C",
+          "note": "Chapter 10."
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "The Golden Quadrilateral connects —",
+          "options": [
+            "Delhi, Mumbai, Chennai and Kolkata",
+            "Srinagar and Kanyakumari",
+            "Silchar and Porbandar",
+            "Delhi, Agra, Jaipur and Lucknow"
+          ],
+          "answer": "A",
+          "note": "Chapter 13."
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "When was the Right to Education Act passed by Parliament?",
+          "options": [
+            "2009",
+            "2008",
+            "2007",
+            "2006"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2024",
+            "April 2019",
+            "October 2017"
+          ],
+          "note": "Chapter 16."
+        },
+        {
+          "id": "1.13",
+          "type": "mcq",
+          "q": "Which freedom is NOT provided in the Indian Constitution?",
+          "options": [
+            "Freedom of speech and expression",
+            "Freedom to form associations and unions",
+            "Freedom to move freely across the world",
+            "Freedom to reside and settle in any part of India"
+          ],
+          "answer": "C",
+          "years": [
+            "October 2021"
+          ],
+          "note": "Chapter 16."
+        },
+        {
+          "id": "1.14",
+          "type": "mcq",
+          "q": "When did the Government of Nagaland start the process of communitisation in all elementary schools?",
+          "options": [
+            "2002",
+            "2005",
+            "2006",
+            "2008"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2024"
+          ],
+          "note": "Chapter 19."
+        },
+        {
+          "id": "1.15",
+          "type": "mcq",
+          "q": "What is the minimum age to become a member of a State Legislative Assembly?",
+          "options": [
+            "18 years",
+            "21 years",
+            "25 years",
+            "30 years"
+          ],
+          "answer": "C",
+          "note": "Chapter 19."
+        },
+        {
+          "id": "1.16",
+          "type": "mcq",
+          "q": "What is the retirement age of Supreme Court judges in India?",
+          "options": [
+            "65 years",
+            "60 years",
+            "58 years",
+            "62 years"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2024"
+          ],
+          "note": "Chapter 20."
+        },
+        {
+          "id": "1.17",
+          "type": "mcq",
+          "q": "Who is the leader of the civil society organisation related to the Narmada Bachao Andolan?",
+          "options": [
+            "Aruna Roy",
+            "Medha Patkar",
+            "Anna Hazare",
+            "Ela Bhatt"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2024"
+          ],
+          "note": "Chapter 21."
+        },
+        {
+          "id": "1.18",
+          "type": "mcq",
+          "q": "Which is correct about the challenges posed by the caste system to Indian democracy?",
+          "options": [
+            "The caste system strengthens democratic values by promoting equality and justice.",
+            "The mixing of caste and politics has reduced socio-economic inequalities.",
+            "The politicisation of caste and continued socio-economic inequalities hinder the ideals of democracy.",
+            "Caste-based practices have no impact on the functioning of democracy."
+          ],
+          "answer": "C",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Chapter 23."
+        },
+        {
+          "id": "1.19",
+          "type": "mcq",
+          "q": "Which one of the following is NOT a dimension of the Human Development Index?",
+          "options": [
+            "A long and healthy life",
+            "Knowledge",
+            "A decent standard of living",
+            "Military strength"
+          ],
+          "answer": "D",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Chapter 25."
+        },
+        {
+          "id": "1.20",
+          "type": "mcq",
+          "q": "Which one of the following is a threat in the new (non-traditional) notion of security but NOT in the traditional notion?",
+          "options": [
+            "Military attack by another country",
+            "Health epidemics",
+            "Border war",
+            "Occupation of territory"
+          ],
+          "answer": "B",
+          "note": "Chapter 27."
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions (2 parts of 1 mark, or 4 parts of ½ mark).",
+      "marks": "15 × 2 = 30",
+      "type": "open",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "mcq",
+          "q": "The literal meaning of Renaissance is ____; it started in ____ around the 14th century A.D.",
+          "options": [
+            "Origin, France",
+            "Rebirth, Italy",
+            "Rebirth, England",
+            "Reorigin, Germany"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2024"
+          ],
+          "note": "Chapter 3."
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Fill in the blanks: In ____ Austria annexed two Slav states, Bosnia and Herzegovina, leading to hostility between ____ and Austria.",
+          "answer": "1908; Serbia",
+          "years": [
+            "October 2024"
+          ],
+          "note": "Chapter 4."
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "Answer in one word each: (a) Which Despatch of 1854 asked the government to take responsibility for mass education? (b) What did nationalist leaders call the collapse of the Indian handloom industry?",
+          "answer": "(a) Wood's Despatch (b) De-industrialisation",
+          "note": "Chapter 5."
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Match: (a) Ahmadiya Movement (b) Mohammedan Literary Society (c) Aligarh (M.A.O.) College (d) Hindu Widow Remarriage Act — (i) 1856 (ii) 1875 (iii) 1899 (iv) 1863",
+          "answer": "(a) – (iii) 1899; (b) – (iv) 1863; (c) – (ii) 1875; (d) – (i) 1856",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Chapter 6."
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "Match: (a) Rani Lakshmi Bai (b) Khan Bahadur Khan (c) Bahadur Shah Zafar (d) Wahabi Movement — (i) Delhi (ii) Syed Ahmed Barelvi (iii) Jhansi (iv) Bareilly",
+          "answer": "(a) – (iii) Jhansi; (b) – (iv) Bareilly; (c) – (i) Delhi; (d) – (ii) Syed Ahmed Barelvi",
+          "note": "Chapter 7."
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "Complete the sentences with one word: (I) A natural gap or route between ridges or hills is called a ____. (II) A large landmass consisting of mountains, ridges and peaks is called a ____.",
+          "answer": "(I) pass (II) range",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Chapter 9."
+        },
+        {
+          "id": "2.7",
+          "type": "open",
+          "q": "Answer in one word: (I) Which longitude has been selected as the central (standard) meridian for determining time in India? (II) What are the longitudinal valleys between the Himachal and the Shiwaliks called?",
+          "answer": "(I) 82°30′ East (II) Duns",
+          "years": [
+            "October 2024"
+          ],
+          "note": "Chapter 9."
+        },
+        {
+          "id": "2.8",
+          "type": "open",
+          "q": "Answer in one word: (I) As the monsoon winds come from the south-west, which state do they strike first? (II) What is the hot, humid weather in the northern plains in October called?",
+          "answer": "(I) Kerala (II) October heat",
+          "years": [
+            "October 2024"
+          ],
+          "note": "Chapter 10."
+        },
+        {
+          "id": "2.9",
+          "type": "open",
+          "q": "Fill in the blanks: Indian Railways started in 1853 from ____ to ____ covering a distance of 34 km.",
+          "answer": "Bombay (Mumbai); Thane",
+          "years": [
+            "October 2024"
+          ],
+          "note": "Chapter 13."
+        },
+        {
+          "id": "2.10",
+          "type": "open",
+          "q": "Fill in the blanks: (a) A practice where a person is compelled to serve without any payment is called ____. (b) No bill can become a law unless it is signed by the ____.",
+          "answer": "(a) begar (forced labour) (b) President",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Chapter 16."
+        },
+        {
+          "id": "2.11",
+          "type": "open",
+          "q": "Complete the sentence: The Indian Constitution provides legal remedies for the protection of our fundamental rights. This is called the Right to ____, given in Article ____ of the Constitution.",
+          "answer": "Constitutional Remedies; 32",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Chapter 16."
+        },
+        {
+          "id": "2.12",
+          "type": "open",
+          "q": "Complete the sentence: In India the Chief Justice and Judges of High Courts are appointed by the ____. For the appointment of the Chief Justice of each High Court, the President takes the advice of the Chief Justice of ____.",
+          "answer": "President; the Supreme Court (India)",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Chapter 19."
+        },
+        {
+          "id": "2.13",
+          "type": "open",
+          "q": "Complete the sentence: The ____, headed by the Prime Minister, plays an important role in the proclamation of emergency. The President can issue a proclamation only when such a decision has been communicated to him/her in writing by the Union Cabinet headed by the ____.",
+          "answer": "Union Cabinet; Prime Minister",
+          "years": [
+            "October 2025",
+            "April 2024"
+          ],
+          "note": "Chapter 20."
+        },
+        {
+          "id": "2.14",
+          "type": "open",
+          "q": "Name the group as per the definitions: (1) An organised group of people which seeks to promote its specific interests. (2) A group which exerts influence/pressure in a strong, determined way to produce a particular result.",
+          "answer": "(1) Interest group (2) Pressure group",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Chapter 21."
+        },
+        {
+          "id": "2.15",
+          "type": "open",
+          "q": "Fill in the blanks: According to the 2011 Census, the overall literacy rate was ____ per cent while female literacy was ____ per cent.",
+          "answer": "74.04; 65.46",
+          "note": "Chapter 23."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "6 × 2 = 12",
+      "type": "open",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "Why was the Glorious Revolution of 1688 called 'glorious'? Why did King James II lose the support of his countrymen?",
+          "answer": "It was called glorious because no blood was shed. James II lost support because of his harsh attitude, the expensive standing army he created and his increasing employment of Roman Catholics in government, army and universities. Parliament replaced him with Mary II and William III.",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Chapter 3."
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "Why did Europeans want to trade with the East during the Industrial Revolution?",
+          "answer": "Factories needed a steady supply of raw materials and new markets to sell their machine-made goods, and capitalists needed places to invest surplus capital. The East was rich in resources and had large populations, so trade there was very profitable.",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Chapter 4."
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "Why has untouchability been made a punishable offence under law in India? Explain.",
+          "answer": "Untouchability denied millions of people equal status and dignity because of their caste or occupation. To uplift them socially and establish equality, the Constitution abolished it (Article 17) and made its practice in any form a punishable offence.",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Chapter 16."
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "Explain any two qualifications for a Governor of an Indian State.",
+          "answer": "(1) He/she must be a citizen of India and at least 35 years old. (2) He/she must not hold any office of profit; a member of Parliament, a State Legislature or a Council of Ministers who becomes Governor must give up that seat.",
+          "years": [
+            "April 2024"
+          ],
+          "or": {
+            "q": "Explain any two powers of the Chief Minister of a State.",
+            "answer": "(1) He/she forms the Council of Ministers by advising the Governor and allocates and can change portfolios. (2) He/she guides policy-making, presides over cabinet meetings and is the link between the Governor and the Council of Ministers."
+          },
+          "note": "Chapter 19."
+        },
+        {
+          "id": "3.5",
+          "type": "open",
+          "q": "Explain any two essential conditions for democracy.",
+          "answer": "(1) A Constitution that vests supreme power in the people and protects rights, with universal adult franchise and regular free elections. (2) Social and economic equality — education for all, social security and the fruits of development reaching the poor; also a responsible government and a free press.",
+          "years": [
+            "April 2019"
+          ],
+          "note": "Chapter 23."
+        },
+        {
+          "id": "3.6",
+          "type": "open",
+          "q": "Mention any two indicators of socio-economic development.",
+          "answer": "Any two: per capita income / GDP; literacy rate; life expectancy; level of employment; infant mortality; access to health care.",
+          "years": [
+            "April 2024",
+            "April 2025"
+          ],
+          "note": "Chapter 25."
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "6 × 3 = 18",
+      "type": "open",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "Describe the condition of Italy on the eve of the Renaissance in the 14th century.",
+          "answer": "Italy was divided into small city-states, many built on the ruins of Roman buildings. Cities like Venice were great centres of trade and intellectual crossroads. The new political and social organisation gave freedom and a good atmosphere for academic and artistic advancement. Trade brought wealth, and people had more leisure for study.",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Chapter 3."
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "Explain any three consequences of the Second World War.",
+          "answer": "(1) It caused unprecedented loss of life and property; Jews were sent to concentration camps, and atomic bombs destroyed Hiroshima and Nagasaki, raising the danger of nuclear war. (2) Germany was divided into four zones and Japan was put under US supervision; imperialism weakened and colonies in Asia and Africa became independent. (3) The USA and USSR emerged as superpowers, the Cold War began, and the United Nations was founded.",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Chapter 4."
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "Explain any three features of the Central Highlands of India.",
+          "answer": "(1) They lie north of the Narmada, between the river and the Northern Plains. (2) They include the Aravalli range (highest peak Gurushikhar near Mt. Abu), the Malwa plateau (drained by the Betwa, Chambal and Ken) and the Chhota Nagpur plateau (Mahadeo, Kaimur and Maikal hills). (3) The Narmada flows west in a rift valley between the Vindhya and Satpura ranges.",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Chapter 9."
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "Describe any three factors affecting the climate of India.",
+          "answer": "(1) Latitude: the Tropic of Cancer divides India into a hotter tropical south and a sub-tropical north. (2) Distance from the sea: coastal places have an equable climate, interior places an extreme climate. (3) Mountains: the Himalayas block cold Central Asian winds and trap the monsoon; the Western Ghats cause heavy rain on their windward side. (Altitude, surface winds and jet streams also matter.)",
+          "years": [
+            "October 2024",
+            "October 2022",
+            "April 2022"
+          ],
+          "note": "Chapter 10."
+        },
+        {
+          "id": "4.5",
+          "type": "open",
+          "q": "How is casteism a challenge to Indian democracy? Explain in three points.",
+          "answer": "(1) Untouchability and caste discrimination persist despite the constitutional ban, denying Dalits dignity and opportunities. (2) Politicisation of caste and 'casteisation of politics' — parties use caste as vote-banks for narrow gains, weakening issues-based politics. (3) It keeps socio-economic inequalities alive and sometimes causes caste violence, against the democratic ideals of equality and fraternity.",
+          "years": [
+            "April 2025"
+          ],
+          "or": {
+            "q": "How is criminalisation of politics a challenge to Indian democracy? Explain in three points.",
+            "answer": "(1) People with criminal records contest and win elections using money and muscle power, negating democratic values. (2) Violence and intimidation stop voters from voting freely and spoil free and fair elections. (3) Criminals in power protect lawbreakers, increase corruption and reduce public trust; courts and alert voters must reject such candidates."
+          },
+          "note": "Chapter 23."
+        },
+        {
+          "id": "4.6",
+          "type": "open",
+          "q": "Explain any three measures taken by the government for the economic and social empowerment of women.",
+          "answer": "(1) Poverty eradication and training programmes addressed to women's needs, especially in agriculture. (2) Labour laws, social security and support services such as crèches to help women work in industry. (3) Equal access to education, health and nutrition and elimination of violence against women; politically, one-third reservation in local bodies.",
+          "years": [
+            "April 2024",
+            "October 2025"
+          ],
+          "or": {
+            "q": "What is the role of the National Rural Health Mission? Mention any two other health programmes for women and children.",
+            "answer": "Medical facilities are concentrated in cities, so NRHM was launched to provide accessible, affordable health care in rural areas, reducing the rural–urban gap. Other programmes: Janani Suraksha Yojana, Balika Samridhi Yojana, Kishori Shakti Yojana (any two)."
+          },
+          "note": "Chapter 25."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Map-based questions (skill).",
+      "marks": "2 × 4 = 8",
+      "type": "open",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "Identify the four peaks marked A, B, C and D on the given outline map and write their names.",
+          "answer": "A — K2 (Godwin Austen), Karakoram; B — Kanchenjunga (highest peak in India); C — Anaimudi (highest peak of the Western Ghats); D — Gurushikhar near Mt. Abu (highest peak of the Aravallis).",
+          "image": "data/social-science/maps/ch9-peaks.png",
+          "note": "Chapter 9."
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "Identify the four places marked A, B, C and D on the given outline map with the help of the clues: (A) a place in Meghalaya receiving very heavy rainfall; (B) a desert town receiving the least rainfall; (C) the state capital near which the monsoon arrives first; (D) a coastal city receiving rain in winter from the north-east winds.",
+          "answer": "A — Mawsynram (or Cherrapunji), Meghalaya; B — Jaisalmer, western Rajasthan; C — Thiruvananthapuram, Kerala; D — Chennai, Tamil Nadu.",
+          "image": "data/social-science/maps/ch10-rainfall.png",
+          "note": "Chapter 10."
+        }
+      ]
+    },
+    {
+      "no": 6,
+      "title": "Long answer questions. Answer in 80–120 words.",
+      "marks": "2 × 6 = 12",
+      "type": "open",
+      "questions": [
+        {
+          "id": "6.1",
+          "type": "open",
+          "q": "How did the French Revolution influence the world? Explain its causes and impact.",
+          "answer": "Causes: (1) French society was divided into three estates; the clergy and nobility enjoyed privileges while the Third Estate (peasants, workers, middle class) bore heavy taxes. (2) Louis XVI and Marie Antoinette's luxury emptied the treasury. (3) In 1789 the Third Estate declared itself the National Assembly. (4) Thinkers like Voltaire, Montesquieu and Rousseau inspired people. Impact: (5) The Declaration of the Rights of Man and Citizen asserted equality, sovereignty of the people and rights to liberty, property and free speech; France became a republic. (6) Its ideals of Liberty, Equality and Fraternity, liberalism and nationalism spread across the world and inspired the unification of Italy.",
+          "note": "Chapter 3."
+        },
+        {
+          "id": "6.2",
+          "type": "open",
+          "q": "Explain the six Fundamental Rights guaranteed by the Indian Constitution.",
+          "answer": "(1) Right to Equality (Art. 14–18): equality before law, no discrimination, equal opportunity in jobs, abolition of untouchability and titles. (2) Right to Freedom (Art. 19–22): six freedoms, protection in conviction, life and personal liberty, safeguards on arrest; Article 21A gives free education to 6–14-year-olds. (3) Right against Exploitation (Art. 23–24): no trafficking, begar or child labour. (4) Right to Freedom of Religion (Art. 25–28). (5) Cultural and Educational Rights (Art. 29–30): minorities may conserve culture and run institutions. (6) Right to Constitutional Remedies (Art. 32): approach the Supreme Court if rights are violated. They are justiciable but subject to reasonable restrictions.",
+          "note": "Chapter 16."
+        }
+      ]
+    }
+  ]
+}

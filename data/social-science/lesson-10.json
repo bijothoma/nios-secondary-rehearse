@@ -1,0 +1,407 @@
+{
+  "subject": "social-science",
+  "lesson": 10,
+  "title": "Climate",
+  "meta": "Chapter practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this chapter in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "12 × 1 = 12",
+      "type": "mcq",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "Due to the arrival of monsoon winds from the south-west, which state receives rainfall first?",
+          "options": [
+            "Tamil Nadu",
+            "Karnataka",
+            "Kerala",
+            "Maharashtra"
+          ],
+          "answer": "C",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "In the Bay of Bengal, tropical cyclones usually occur during which season?",
+          "options": [
+            "Hot weather season",
+            "Cold weather season",
+            "Retreating monsoon season",
+            "Advancing south-west monsoon season"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "Generally, at what height do upper-air currents or jet streams blow?",
+          "options": [
+            "6,000 m above sea level",
+            "8,000 m above sea level",
+            "10,000 m above sea level",
+            "12,000 m above sea level"
+          ],
+          "answer": "D",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "The word 'Monsoon' has been derived from which language?",
+          "options": [
+            "Arabic",
+            "Latin",
+            "Greek",
+            "English"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2022"
+          ]
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "What happens to temperature as one moves towards the equator?",
+          "options": [
+            "It increases",
+            "It decreases",
+            "It remains stable",
+            "It fluctuates"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2017"
+          ]
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "The hot and dry winds that blow over the northern plains in summer are called —",
+          "options": [
+            "Kaal Baisakhi",
+            "Loo",
+            "Trade winds",
+            "Mango showers"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "Which mountain range acts as a barrier in the path of the Arabian Sea branch of the monsoon?",
+          "options": [
+            "Aravallis",
+            "Eastern Ghats",
+            "Western Ghats",
+            "Rajmahal Hills"
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "The pre-monsoon showers in Kerala and Karnataka that help mangoes ripen are called —",
+          "options": [
+            "Kaal Baisakhi",
+            "Mango showers",
+            "Western disturbances",
+            "Loo"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "Which part of India receives rainfall in winter from the north-east trade winds?",
+          "options": [
+            "Punjab",
+            "Rajasthan",
+            "Tamil Nadu coast",
+            "Gujarat"
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "The monsoon trough in summer lies between —",
+          "options": [
+            "Jaisalmer and Balasore",
+            "Mumbai and Kolkata",
+            "Delhi and Chennai",
+            "Leh and Shillong"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "Identify the place marked A, in the Meghalaya hills, which receives very heavy rainfall (over 200 cm).",
+          "options": [
+            "Jaisalmer",
+            "Mawsynram",
+            "Chennai",
+            "Delhi"
+          ],
+          "answer": "B",
+          "image": "data/social-science/maps/ch10-rainfall.png"
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "Identify the place marked D on the map, which receives rain in winter (October–December) from the north-east monsoon.",
+          "options": [
+            "Thiruvananthapuram",
+            "Mumbai",
+            "Chennai",
+            "Kolkata"
+          ],
+          "answer": "C",
+          "image": "data/social-science/maps/ch10-rainfall.png"
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions (2 parts of 1 mark, or 4 parts of ½ mark).",
+      "marks": "6 × 2 = 12",
+      "type": "open",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "Complete the sentence: Monsoons are not equally distributed. Coastal areas like Kerala, West Bengal and Odisha receive ____ rainfall, whereas interior regions like Haryana and Madhya Pradesh receive ____ rainfall.",
+          "answer": "heavy; less (low)",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Complete the sentence: The word 'Monsoon' is derived from the Arabic word ____, which means ____.",
+          "answer": "Mausim; season",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "Answer in one word: (I) As the monsoon winds come from the south-west, which state do they strike first? (II) What is the hot, humid weather in the northern plains in October called?",
+          "answer": "(I) Kerala (II) October heat",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Answer briefly: (a) Why does Meghalaya receive more than 200 cm of rainfall per year? (b) Why does Rajasthan receive less than 60 cm of rainfall per year?",
+          "answer": "(a) The moist Bay of Bengal branch of the monsoon is trapped by the funnel-shaped Garo, Khasi and Jaintia hills and forced to rise, giving very heavy rain. (b) The Arabian Sea branch blows parallel to the Aravallis, so nothing makes it rise, and the Bay branch is nearly dry by the time it reaches Rajasthan.",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "Fill in the blanks: The violent thunderstorms of West Bengal in the hot season are called ____, and the crops sown with the arrival of the monsoon are called ____ crops.",
+          "answer": "Kaal Baisakhi; kharif"
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "True or False: (a) In winter the winds blow from land to sea, so most of India is dry. (b) The Deccan plateau east of the Western Ghats receives heavy rainfall from the Arabian Sea branch.",
+          "answer": "(a) True (b) False — it is a rain-shadow area and receives less rain."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "5 × 2 = 10",
+      "type": "open",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "Explain the meaning of 'mango showers'.",
+          "answer": "Mango showers are pre-monsoon showers towards the end of the hot season, especially in Kerala and Karnataka. They help in the early ripening of mangoes, hence the name.",
+          "years": [
+            "April 2019"
+          ]
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "Explain any two features of the monsoon in India.",
+          "answer": "(1) Monsoons are irregular — they may come early or late and are affected by regional conditions. (2) Rainfall is unequal — coastal areas like Kerala and West Bengal get heavy rain while interior regions get less; the sudden heavy onset is called the 'burst of the monsoon'.",
+          "years": [
+            "October 2019"
+          ]
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "Differentiate between weather and climate.",
+          "answer": "Weather is the state of the atmosphere over a small area at a particular time and can change within a day. Climate is the average weather of a large area over a long period (over 30 years) and generally does not change."
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "What are jet streams? How are they significant for change of weather in India?",
+          "answer": "Jet streams are narrow belts of very fast upper-air winds at about 12,000 m. In winter they bring western disturbances (from the Mediterranean) that give rain to north-west India; in summer they shift north over Central Asia, which helps the onset of the monsoon.",
+          "years": [
+            "April 2017"
+          ]
+        },
+        {
+          "id": "3.5",
+          "type": "open",
+          "q": "What type of weather prevails during October in different parts of India?",
+          "answer": "October is the retreating monsoon season. In the northern plains the weather is hot and humid ('October heat') but nights become pleasant by the end of the month; on the east coast cyclones from the Bay of Bengal bring heavy rain to Odisha, Andhra Pradesh and Tamil Nadu.",
+          "years": [
+            "April 2016"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "6 × 3 = 18",
+      "type": "open",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "What makes the Indian monsoon unique? Mention any three features.",
+          "answer": "(1) It is a seasonal reversal of winds — south-west in summer and north-east in winter. (2) It is irregular: its arrival, amount and withdrawal vary, and it has 'breaks' with wet and dry spells. (3) It begins with a sudden 'burst' on the Kerala coast and is unequally distributed, giving 80–90% of India's rain in four months (June–September).",
+          "years": [
+            "April 2026",
+            "October 2021"
+          ]
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "Why does the Tamil Nadu coast receive rainfall during winter while most of India remains dry? Explain two reasons.",
+          "answer": "(1) In winter the north-east trade winds blow from land to sea, so they are dry over most of India. (2) But a part of these winds blows over the Bay of Bengal, gathers moisture and then strikes the Tamil Nadu coast, giving it winter rainfall. (Tamil Nadu also lies in the rain-shadow of the south-west monsoon, so most of its rain comes in this season.)",
+          "years": [
+            "April 2026"
+          ],
+          "or": {
+            "q": "How does the wind system influence the climate of India during different seasons?",
+            "answer": "(1) In winter, north-east winds blow from land to sea, so they are cold and dry and most of India has a dry season (except the Tamil Nadu coast). (2) In summer, low pressure over the land draws moist south-west winds from the sea, which bring widespread rain from June to September. (3) Jet streams bring western disturbances in winter, and land–sea breezes and local winds like the loo affect daily weather."
+          }
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "Describe any three factors affecting the climate of India.",
+          "answer": "(1) Latitude: the Tropic of Cancer divides India into a hotter tropical south and a sub-tropical north. (2) Distance from the sea: coastal places have an equable climate, interior places an extreme climate. (3) Mountains: the Himalayas block cold Central Asian winds and trap the monsoon; the Western Ghats cause heavy rain on their windward side. (Altitude, surface winds and jet streams also matter.)",
+          "years": [
+            "October 2024",
+            "October 2022",
+            "April 2022"
+          ]
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "Explain any three reasons for the uneven distribution of rainfall in India.",
+          "answer": "(1) Relief: the Western Ghats and north-eastern hills force winds to rise and give heavy rain on windward sides, while leeward areas like the Deccan are rain-shadow areas. (2) Distance from the sea: rain decreases from the coast to the interior and from east to west along the northern plains as winds lose moisture. (3) The Aravallis lie parallel to the Arabian Sea branch, so western Rajasthan gets very little rain.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "4.5",
+          "type": "open",
+          "q": "Describe any three main features of the hot weather season in India.",
+          "answer": "(1) From March to May temperatures rise in the plains, west and central India, and a low-pressure monsoon trough forms from Jaisalmer to Odisha. (2) Hot, dry winds called 'loo' blow over the northern plains and dust storms occur in the north-west. (3) Local thunderstorms — Kaal Baisakhi in West Bengal — and pre-monsoon mango showers in Kerala and Karnataka occur.",
+          "years": [
+            "April 2021",
+            "October 2016"
+          ]
+        },
+        {
+          "id": "4.6",
+          "type": "open",
+          "q": "Describe any three characteristics of the cold weather season in India.",
+          "answer": "(1) It lasts from December to February; temperature decreases from south to north and frost occurs in the north-west. (2) North-east trade winds blow from land to sea, so it is mostly dry with clear skies — except the Tamil Nadu coast, which gets winter rain. (3) Western disturbances give light rain in the north-west, useful for rabi crops, and snowfall on the Himalayas.",
+          "years": [
+            "April 2019"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Map-based questions (skill).",
+      "marks": "2 × 4 = 8",
+      "type": "open",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "Identify the four places marked A, B, C and D on the given outline map with the help of the clues: (A) a place in Meghalaya receiving very heavy rainfall; (B) a desert town receiving the least rainfall; (C) the state capital near which the monsoon arrives first; (D) a coastal city receiving rain in winter from the north-east winds.",
+          "answer": "A — Mawsynram (or Cherrapunji), Meghalaya; B — Jaisalmer, western Rajasthan; C — Thiruvananthapuram, Kerala; D — Chennai, Tamil Nadu.",
+          "image": "data/social-science/maps/ch10-rainfall.png"
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "On the given outline map of India, mark and shade: (A) an area receiving above 200 cm rainfall on the west coast (B) the area of Gujarat receiving less than 60 cm rainfall per annum (C) the Garo, Khasi and Jaintia hills (D) the region of the Bay of Bengal where cyclones occur in October–November.",
+          "answer": "(A) The narrow strip along the Western Ghats/west coast from south Gujarat to Kerala (Konkan and Malabar coasts). (B) Kachchh and northern Saurashtra in western Gujarat. (C) Meghalaya, south of Assam. (D) The northern and western Bay of Bengal off the coasts of Odisha, Andhra Pradesh and Tamil Nadu (Mahanadi, Godavari and Krishna deltas).",
+          "years": [
+            "April 2024",
+            "April 2022"
+          ],
+          "image": "data/social-science/maps/blank-outline.png"
+        }
+      ]
+    },
+    {
+      "no": 6,
+      "title": "Long answer questions. Answer in 80–120 words.",
+      "marks": "2 × 6 = 12",
+      "type": "open",
+      "questions": [
+        {
+          "id": "6.1",
+          "type": "open",
+          "q": "Explain the mechanism of the monsoon and describe the advancing south-west monsoon season.",
+          "answer": "Mechanism: (1) In summer north-west India becomes very hot, creating a low-pressure monsoon trough from Jaisalmer to Balasore, while the Indian Ocean is cooler with high pressure. (2) Winds therefore blow from the ocean to the land from the south-west — a reversal of the winter north-east winds — carrying moisture. Advancing monsoon: (3) The winds reach the Andaman and Nicobar Islands in late May and Kerala in the first week of June with a 'burst'. (4) The Arabian Sea branch gives heavy rain on the western slopes of the Western Ghats, reaches Mumbai by 10 June, and leaves the Deccan in rain-shadow. (5) The Bay of Bengal branch strikes the north-east and West Bengal and turns west along the plains, rain decreasing westwards (Kolkata 120 cm, Delhi 56 cm). (6) The whole country is covered by mid-July; there are wet and dry spells, floods and droughts.",
+          "years": [
+            "October 2021"
+          ]
+        },
+        {
+          "id": "6.2",
+          "type": "open",
+          "q": "How are the seasons related to the socio-cultural and economic life of India? What is the impact of global warming?",
+          "answer": "(1) India's agro-based economy follows the seasons — kharif crops with the monsoon, rabi in winter, zaid at the end of winter. (2) Diet and clothing change with seasons — woollens and calorie-rich food in winter, juicy fruits and drinks in summer. (3) Festivals coincide with seasons and harvests: Makar Sankranti, Lohri, Pongal, Basant Panchami, Holi, Baisakhi, Onam, Dussehra, Durga Puja and Diwali. (4) Floods and droughts in the monsoon hamper the economy. (5) Global warming — caused by CO2 and CFCs from industry, vehicles and deforestation — is disturbing the cycle of seasons. (6) Since about 70% of Indians depend on agriculture, rising temperatures and irregular rain can seriously harm food production and livelihoods."
+        }
+      ]
+    }
+  ]
+}

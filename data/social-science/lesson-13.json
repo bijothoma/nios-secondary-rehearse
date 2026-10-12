@@ -1,0 +1,453 @@
+{
+  "subject": "social-science",
+  "lesson": 13,
+  "title": "Transport and Communication",
+  "meta": "Chapter practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this chapter in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "13 × 1 = 13",
+      "type": "mcq",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "Which one of the following state agencies constructs and maintains state highways connecting the state capital with district headquarters?",
+          "options": [
+            "Zila Parishad",
+            "State Public Works Department",
+            "National Highways Authority of India",
+            "Border Roads Organisation"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "In which year did radio transmission start in India?",
+          "options": [
+            "1925",
+            "1927",
+            "1929",
+            "1931"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2016"
+          ]
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "Indian Railways started in 1853 between —",
+          "options": [
+            "Delhi and Agra",
+            "Bombay and Thane",
+            "Calcutta and Hooghly",
+            "Madras and Arcot"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "The Golden Quadrilateral connects —",
+          "options": [
+            "Delhi, Mumbai, Chennai and Kolkata",
+            "Srinagar and Kanyakumari",
+            "Silchar and Porbandar",
+            "Delhi, Agra, Jaipur and Lucknow"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "The East–West Corridor connects Silchar in the east with —",
+          "options": [
+            "Kandla",
+            "Porbandar",
+            "Mumbai",
+            "Jaisalmer"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "National Waterway 1 runs on the river —",
+          "options": [
+            "Brahmaputra",
+            "Ganga",
+            "Godavari",
+            "Krishna"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "Paradip port is located in —",
+          "options": [
+            "West Bengal",
+            "Odisha",
+            "Andhra Pradesh",
+            "Tamil Nadu"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "Which organisation builds roads along the borders of India?",
+          "options": [
+            "NHAI",
+            "Border Roads Organisation",
+            "State PWD",
+            "Zila Parishad"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "Which is the fastest means of communication and almost free?",
+          "options": [
+            "Telegram",
+            "E-mail",
+            "Postal service",
+            "Fax"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "Which is the main drawback of air transport?",
+          "options": [
+            "It is slow",
+            "It cannot cross mountains",
+            "It is costly",
+            "It cannot carry perishable goods"
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "Identify the port marked B on the map.",
+          "options": [
+            "Haldia",
+            "Paradip",
+            "Visakhapatnam",
+            "Chennai"
+          ],
+          "answer": "B",
+          "image": "data/social-science/maps/ch13-ports.png"
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "Identify the international airport marked B on the map (in Karnataka).",
+          "options": [
+            "Rajiv Gandhi International Airport",
+            "Kempe Gowda International Airport",
+            "Chennai International Airport",
+            "Cochin International Airport"
+          ],
+          "answer": "B",
+          "image": "data/social-science/maps/ch13-airports.png"
+        },
+        {
+          "id": "1.13",
+          "type": "mcq",
+          "q": "Identify the city marked D on the map, where the North–South and East–West corridors intersect.",
+          "options": [
+            "Nagpur",
+            "Jhansi",
+            "Bhopal",
+            "Agra"
+          ],
+          "answer": "B",
+          "image": "data/social-science/maps/ch13-corridors.png"
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions (2 parts of 1 mark, or 4 parts of ½ mark).",
+      "marks": "7 × 2 = 14",
+      "type": "open",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "Fill in the blanks: Today computer (Information Technology) has become the basis of ____ and ____ as it is used everywhere in homes, offices, airports and banks.",
+          "answer": "communication; economic development",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Answer in one word each: (I) Which state agency constructs and maintains state highways connecting the state capital with district headquarters? (II) Which department of the Government of India constructs and maintains the North–South Corridor?",
+          "answer": "(I) State Public Works Department (II) National Highways Authority of India",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "Fill in the blanks: The national television transmission service of India started in ____ and is one of the biggest ____ organisations of the world.",
+          "answer": "1959; (ground) transmission",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Fill in the blanks: Indian Railways started in 1853 from ____ to ____ covering a distance of 34 km.",
+          "answer": "Bombay (Mumbai); Thane",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "Fill in the blanks: Border roads are constructed along the ____ areas of the country for easy accessibility of goods and other requirements of ____ personnel during war and emergency.",
+          "answer": "bordering; defence",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "Mention any two advantages of railways.",
+          "answer": "(1) They are the cheapest way for large numbers of people to travel long distances, with classes for every income group. (2) They carry bulky goods like coal, cement, food grains and petroleum over long distances.",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "2.7",
+          "type": "open",
+          "q": "Complete the statements: (a) The East–West corridor links ____ and ____. (b) National Waterway 2 runs on the Brahmaputra from ____ to Dhubri.",
+          "answer": "(a) Silchar; Porbandar (b) Sadiya"
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "5 × 2 = 10",
+      "type": "open",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "Explain two main factors affecting the density of railways.",
+          "answer": "(1) Relief: railways are easy and cheap to build on flat land, so the Gangetic plain has a dense network, while mountains, deserts and marshes have few lines. (2) Economic activity and population: areas with more agriculture, mining, industries, cities and dense population (UP, Punjab, West Bengal) have more railways.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "How are 'rail roko' protests (train blockades) harmful for the nation and individuals?",
+          "answer": "They stop the movement of passengers and goods, causing great inconvenience, loss of business and loss of millions of rupees; burning coaches destroys public property built with years of effort and taxpayers' money.",
+          "years": [
+            "October 2022"
+          ]
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "What is the function of Pawan Hans Helicopters Limited? What is the drawback of air transport?",
+          "answer": "Pawan Hans, a government undertaking, provides helicopter services to ONGC and Indian Oil and to the north-eastern states. The drawback of air transport is its high cost, which keeps it out of reach of the common man.",
+          "years": [
+            "October 2016"
+          ]
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "Differentiate between personal communication and mass communication.",
+          "answer": "Personal communication is between individuals — letters, telephone, mobile, e-mail. Mass communication reaches a very large number of people at the same time — radio, television, newspapers, cinema and the internet."
+        },
+        {
+          "id": "3.5",
+          "type": "open",
+          "q": "Why are some states of India poorly connected by railways?",
+          "answer": "States like Sikkim and Arunachal Pradesh have high mountains, rugged terrain, dense forests and heavy rain, which make railway construction very difficult and costly; low population and little industry also make it uneconomical."
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "6 × 3 = 18",
+      "type": "open",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "Analyse any three characteristics of road transport in India.",
+          "answer": "(1) Roads provide door-to-door service and link villages to towns, railway stations, airports and ports. (2) They are cheaper to build and maintain and are the most convenient for a few people and small loads over short distances, especially perishables. (3) They can be built in all terrains; they are classified by material (metalled/unmetalled) and authority (village, district, state, national highways, border roads).",
+          "years": [
+            "October 2024"
+          ],
+          "or": {
+            "q": "Analyse any three characteristics of rail transport in India.",
+            "answer": "(1) It is the cheapest means for thousands of people to travel long distances, with coaches for every income group and berths for night journeys. (2) It carries bulky goods like coal, cement, food grains and petroleum. (3) It is the largest network in Asia (over 64,000 km), the largest government undertaking, divided into 16 zones, with modern facilities like e-tickets and electric locomotives."
+          }
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "Analyse any three aspects of village roads.",
+          "answer": "(1) They link villages with each other and with main roads; they are built under the Pradhan Mantri Gram Sadak Yojana. (2) They form about 80% of India's total road length. (3) They help farmers take produce to markets, give access to schools and hospitals and support rural development; many are still kuchcha and get damaged in rain.",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "How do roads contribute to the social and economic growth of a country? Explain three reasons.",
+          "answer": "(1) They connect rural areas with urban markets, helping farmers sell produce and perishables quickly. (2) They give access to schools, hospitals and jobs, and to railway stations, airports and ports. (3) They support trade, industry and tourism, and national highways and corridors speed up the movement of goods between big cities, saving time and fuel.",
+          "years": [
+            "April 2022"
+          ]
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "Why is there a dense rail network in the Gangetic plain but not in hilly and desert areas? Explain.",
+          "answer": "(1) The Gangetic plain is level, so railways are easy and cheap to build; hills and deserts make construction difficult and costly. (2) The plain is the food bowl of India and densely populated, so there is heavy movement of goods and people. (3) It has many large cities and industries, while deserts and hills have few people and little economic activity.",
+          "years": [
+            "April 2021",
+            "October 2017"
+          ]
+        },
+        {
+          "id": "4.5",
+          "type": "open",
+          "q": "'From olden days till now waterways have been an important means of transportation.' Examine.",
+          "answer": "(1) It is the cheapest means as there is no construction cost except maintenance. (2) It is best for heavy and bulky goods — a ship carries lakhs of tonnes — and for importing petroleum. (3) It is fuel-efficient and eco-friendly; inland waterways (NW-1, NW-2, NW-3) reduce traffic on roads and ocean routes carry most of India's foreign trade.",
+          "years": [
+            "October 2021"
+          ]
+        },
+        {
+          "id": "4.6",
+          "type": "open",
+          "q": "Explain the importance of communication in our day-to-day life.",
+          "answer": "(1) It lets us exchange thoughts, ideas and information and share joys and sorrows with family and friends. (2) Radio, television, newspapers and the internet keep us informed about world events and help education and entertainment. (3) Mobile phones, e-mail, e-commerce, video conferencing and tele-medicine help business, banking and emergencies, making the world a global village.",
+          "years": [
+            "April 2017"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Map-based questions (skill).",
+      "marks": "5 × 4 = 20",
+      "type": "open",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "The four places related to transport marked (A), (B), (C) and (D) on the given political map of India: (A) a major port on the eastern coast; (B) the northernmost international airport; (C) the western terminal of the East–West Corridor; (D) the city where the North–South and East–West corridors intersect. Identify them.",
+          "answer": "A — Paradip (Odisha); B — Srinagar (Jammu & Kashmir); C — Porbandar (Gujarat); D — Jhansi (Uttar Pradesh).",
+          "years": [
+            "April 2026"
+          ],
+          "image": "data/social-science/maps/apr2026-q48-transport.png",
+          "note": "Visually impaired version asks the same, with (C) as the eastern terminal of the East–West Corridor — Silchar (Assam)."
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "Identify and write the names of the four major sea ports marked 1, 2, 3 and 4 on the given outline map of India.",
+          "answer": "1 — Kandla (Gujarat); 2 — Tuticorin (Tamil Nadu); 3 — Visakhapatnam (Andhra Pradesh); 4 — New Mangalore (Karnataka).",
+          "years": [
+            "October 2024"
+          ],
+          "image": "data/social-science/maps/oct2024-q48-ports.png"
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "Identify the four places marked A, B, C and D: (A) the northernmost terminal of the North–South Corridor; (B) the western terminal of the East–West Corridor; (C) the eastern terminal of the East–West Corridor; (D) the city where the two corridors cross.",
+          "answer": "A — Srinagar; B — Porbandar; C — Silchar; D — Jhansi.",
+          "years": [
+            "October 2025",
+            "April 2025"
+          ],
+          "image": "data/social-science/maps/ch13-corridors.png"
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "Identify the four international airports marked A, B, C and D on the map.",
+          "answer": "A — Indira Gandhi International Airport, Delhi; B — Kempe Gowda International Airport, Bengaluru; C — Rajiv Gandhi International Airport, Hyderabad; D — Netaji Subhas Chandra Bose International Airport, Kolkata.",
+          "years": [
+            "April 2023",
+            "October 2025",
+            "April 2025"
+          ],
+          "image": "data/social-science/maps/ch13-airports.png"
+        },
+        {
+          "id": "5.5",
+          "type": "open",
+          "q": "On the given outline map of India, mark and label: (A) a port in West Bengal (B) Kempe Gowda International Airport (C) a major port in Odisha (D) the westernmost terminal city of the Golden Quadrilateral.",
+          "answer": "(A) Haldia (or Kolkata) — on the Hugli near its mouth. (B) Bengaluru, Karnataka. (C) Paradip — on the Odisha coast near the Mahanadi delta. (D) Mumbai, Maharashtra.",
+          "years": [
+            "April 2026",
+            "October 2025",
+            "April 2025"
+          ],
+          "image": "data/social-science/maps/blank-outline.png",
+          "note": "Visually impaired version: name each place."
+        }
+      ]
+    },
+    {
+      "no": 6,
+      "title": "Long answer questions. Answer in 80–120 words.",
+      "marks": "2 × 6 = 12",
+      "type": "open",
+      "questions": [
+        {
+          "id": "6.1",
+          "type": "open",
+          "q": "Why are transport and communication called the lifelines of a country? Explain in six points.",
+          "answer": "(1) Transport carries raw materials to factories and finished goods to markets, helping agriculture, industry and trade. (2) It moves goods from surplus to deficit areas, especially perishables and food during shortages. (3) It lets people travel for jobs, education, health and tourism. (4) Roads, railways, waterways and airways together integrate the country and help defence and disaster relief. (5) Communication — post, telephone, radio, TV, internet — keeps people informed and connected and supports business, banking and governance. (6) Modern technologies (e-commerce, video conferencing, tele-medicine) speed up development and make the world a global village."
+        },
+        {
+          "id": "6.2",
+          "type": "open",
+          "q": "Explain the importance of air transport and of water transport for India.",
+          "answer": "Air: (1) the fastest means, covering hundreds of km in hours; (2) free from surface obstacles like mountains, forests and floods, so ideal for the north-east and remote areas; (3) vital for defence and disaster relief, and carries perishable and high-value goods; its drawback is high cost. Water: (4) the cheapest means with no construction cost; (5) best for heavy, bulky goods and petroleum imports and for most foreign trade through 12 major ports; (6) fuel-efficient and eco-friendly, and national waterways on the Ganga, Brahmaputra and Kerala canals reduce road traffic."
+        }
+      ]
+    }
+  ]
+}

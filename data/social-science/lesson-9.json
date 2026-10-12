@@ -1,0 +1,757 @@
+{
+  "subject": "social-science",
+  "lesson": 9,
+  "title": "Physiography of India",
+  "meta": "Chapter practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this chapter in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "30 × 1 = 30",
+      "type": "mcq",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "Which one of the following statements is NOT true about water harvesting and river conservation efforts in India?",
+          "options": [
+            "Water harvesting helps to retain monsoon water in river basins.",
+            "People's movements have shown no interest in water-related issues.",
+            "Civic organisations are spreading awareness about polluted rivers.",
+            "There is growing concern about the critical condition of rivers in India."
+          ],
+          "answer": "B",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "On the given outline map of India, identify the mountain peak marked at Point A.",
+          "options": [
+            "Makalu",
+            "Trisul",
+            "Kanchenjunga",
+            "Annapurna"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2026"
+          ],
+          "image": "data/social-science/maps/apr2026-q8-peak.png"
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "On the outline map of India, identify the river marked at Point R.",
+          "options": [
+            "Ganga",
+            "Yamuna",
+            "Godavari",
+            "Kaveri"
+          ],
+          "answer": "D",
+          "years": [
+            "April 2026"
+          ],
+          "image": "data/social-science/maps/apr2026-q9-river.png"
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "Which of the following hill ranges is located in Maharashtra and is part of the Western Ghats?",
+          "options": [
+            "Satmala Hills",
+            "Anamalai Hills",
+            "Cardamom Hills",
+            "Patkoi Hills"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "The mountain range marked M on the given outline map lies in western India. Identify this range.",
+          "options": [
+            "Gir Range",
+            "Satpura Range",
+            "Rajmahal Hills",
+            "Ajanta Range"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2026"
+          ],
+          "image": "data/social-science/maps/apr2026-q11-range.png"
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "Identify the peak of the Himalaya marked 'A' on the map.",
+          "options": [
+            "Namcha Barwa",
+            "Mt. Everest",
+            "Nanda Devi",
+            "Garo"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2024"
+          ],
+          "image": "data/social-science/maps/oct2024-q7-physical.png"
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "Identify the hills marked 'B' on the map.",
+          "options": [
+            "Gir Hills",
+            "Mishmi Hills",
+            "Khasi Hills",
+            "Jaintia Hills"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2024"
+          ],
+          "image": "data/social-science/maps/oct2024-q7-physical.png"
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "Identify the mountain range marked 'D' on the map.",
+          "options": [
+            "Satpura",
+            "Aravali",
+            "Vindhyachal",
+            "Balaghat"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2024"
+          ],
+          "image": "data/social-science/maps/oct2024-q7-physical.png"
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "Which is the outermost range of the Himalayas?",
+          "options": [
+            "Karakoram Range",
+            "Ladakh Range",
+            "Shiwalik Range",
+            "Zaskar Range"
+          ],
+          "answer": "C",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "Which is the highest peak of the Aravalli mountains?",
+          "options": [
+            "Gurushikhar",
+            "Mahendragiri",
+            "Anaimudi",
+            "Dodabetta"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "Which line divides India into two almost equal parts?",
+          "options": [
+            "Tropic of Cancer",
+            "Tropic of Capricorn",
+            "Prime Meridian",
+            "Equator"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "Which is the highest peak of the Western Ghats?",
+          "options": [
+            "Anaimudi",
+            "Makurti",
+            "Dodabetta",
+            "Mahendragiri"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "1.13",
+          "type": "mcq",
+          "q": "Which famous lagoon (lake) is located on the Malabar Coast?",
+          "options": [
+            "Vembanad",
+            "Sambhar",
+            "Chilka",
+            "Pulicat"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2025",
+            "October 2024"
+          ]
+        },
+        {
+          "id": "1.14",
+          "type": "mcq",
+          "q": "Which of the following rivers is NOT a tributary of the Brahmaputra?",
+          "options": [
+            "Dibang",
+            "Kosi",
+            "Lohit",
+            "Tista"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "1.15",
+          "type": "mcq",
+          "q": "Guwahati is situated on which river?",
+          "options": [
+            "Meghna",
+            "Brahmaputra",
+            "Ganga",
+            "Godavari"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "1.16",
+          "type": "mcq",
+          "q": "Which of the following rivers flows into the Arabian Sea?",
+          "options": [
+            "Kaveri",
+            "Brahmaputra",
+            "Narmada",
+            "Godavari"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "1.17",
+          "type": "mcq",
+          "q": "Which is the longest river of southern (peninsular) India?",
+          "options": [
+            "Kaveri",
+            "Luni",
+            "Narmada",
+            "Godavari"
+          ],
+          "answer": "D",
+          "years": [
+            "April 2025",
+            "October 2024"
+          ]
+        },
+        {
+          "id": "1.18",
+          "type": "mcq",
+          "q": "Which longitude marks the easternmost extent of India?",
+          "options": [
+            "23°25′ E",
+            "8°4′ E",
+            "97°25′ E",
+            "37°6′ E"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "1.19",
+          "type": "mcq",
+          "q": "The Standard Meridian of India passes through —",
+          "options": [
+            "Nagpur",
+            "Guwahati",
+            "Ambala",
+            "Mirzapur"
+          ],
+          "answer": "D",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "1.20",
+          "type": "mcq",
+          "q": "Which order of the Trans-Himalayan ranges from north to south is correct?",
+          "options": [
+            "Karakoram, Zaskar, Ladakh",
+            "Karakoram, Ladakh, Zaskar",
+            "Ladakh, Zaskar, Karakoram",
+            "Zaskar, Ladakh, Karakoram"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "1.21",
+          "type": "mcq",
+          "q": "Yamuna, Ghaghara, Gomti, Gandak and Kosi are tributaries of which river system?",
+          "options": [
+            "Brahmaputra",
+            "Indus",
+            "Godavari",
+            "Ganga"
+          ],
+          "answer": "D",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "1.22",
+          "type": "mcq",
+          "q": "Which mountain range runs parallel to the Bay of Bengal?",
+          "options": [
+            "Satpura Range",
+            "Aravalli Range",
+            "Eastern Ghats",
+            "Western Ghats"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "1.23",
+          "type": "mcq",
+          "q": "Which two rivers flow eastwards through the Eastern Ghats?",
+          "options": [
+            "Mahanadi and Krishna",
+            "Brahmaputra and Hugli",
+            "Son and Kosi",
+            "Narmada and Tapti"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "1.24",
+          "type": "mcq",
+          "q": "Which plateau is a part of the Central Highlands?",
+          "options": [
+            "Tibet Plateau",
+            "Deccan Plateau",
+            "Malwa Plateau",
+            "Meghalaya Plateau"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "1.25",
+          "type": "mcq",
+          "q": "The southernmost point of the Indian mainland is —",
+          "options": [
+            "Thiruvananthapuram",
+            "Indira Point",
+            "Kanyakumari",
+            "Tuticorin"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2021"
+          ]
+        },
+        {
+          "id": "1.26",
+          "type": "mcq",
+          "q": "Identify the peak marked A on the map.",
+          "options": [
+            "Nanga Parbat",
+            "K2",
+            "Nanda Devi",
+            "Kanchenjunga"
+          ],
+          "answer": "B",
+          "image": "data/social-science/maps/ch9-peaks.png"
+        },
+        {
+          "id": "1.27",
+          "type": "mcq",
+          "q": "Identify the peak marked C on the map.",
+          "options": [
+            "Anaimudi",
+            "Mahendragiri",
+            "Doda Betta",
+            "Gurushikhar"
+          ],
+          "answer": "A",
+          "image": "data/social-science/maps/ch9-peaks.png"
+        },
+        {
+          "id": "1.28",
+          "type": "mcq",
+          "q": "Identify the mountain range shown by the line marked C on the map.",
+          "options": [
+            "Eastern Ghats",
+            "Western Ghats",
+            "Satpura",
+            "Aravalli"
+          ],
+          "answer": "B",
+          "image": "data/social-science/maps/ch9-ranges.png"
+        },
+        {
+          "id": "1.29",
+          "type": "mcq",
+          "q": "Identify the water body marked A on the map — the largest salt-water lake in India.",
+          "options": [
+            "Vembanad",
+            "Chilka",
+            "Pulicat",
+            "Sambhar"
+          ],
+          "answer": "B",
+          "image": "data/social-science/maps/ch9-water.png"
+        },
+        {
+          "id": "1.30",
+          "type": "mcq",
+          "q": "Identify the island marked D on the map, which has an active volcano.",
+          "options": [
+            "Kavaratti",
+            "Barren Island",
+            "Minicoy",
+            "Car Nicobar"
+          ],
+          "answer": "B",
+          "image": "data/social-science/maps/ch9-water.png"
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions (2 parts of 1 mark, or 4 parts of ½ mark).",
+      "marks": "8 × 2 = 16",
+      "type": "open",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "Answer in one word each: (I) What is the system of flow of surface water mainly through rivers called? (II) What is the highest point or tip of a mountain range called?",
+          "answer": "(I) Drainage system (II) Peak",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Complete the sentences with one word: (I) A natural gap or route between ridges or hills is called a ____. (II) A large landmass consisting of mountains, ridges and peaks is called a ____.",
+          "answer": "(I) pass (II) range",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "2.3",
+          "type": "mcq",
+          "q": "In the Trans-Himalayan ranges, the Indus River flows between the ____ and ____ ranges.",
+          "options": [
+            "Zaskar, Ladakh",
+            "Aravalli, Satpura",
+            "Karakoram, Vindhya",
+            "Nilgiri, Eastern Ghats"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Complete the sentence: India can be divided into six physical divisions: the Northern Mountains, the Northern Plain, ____, the Indian Desert, and the ____ and Islands.",
+          "answer": "the Peninsular Plateau; Coastal Plains",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "2.5",
+          "type": "mcq",
+          "q": "India accounts for ____ of the total world land area and the ____ latitude passes through almost the centre of the country.",
+          "options": [
+            "4.42%, 33°30′ North",
+            "4.24%, 33°30′ South",
+            "2.42%, 23°30′ North",
+            "2.42%, 23°30′ South"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "Answer in one word: (I) Which longitude has been selected as the central (standard) meridian for determining time in India? (II) What are the longitudinal valleys between the Himachal and the Shiwaliks called?",
+          "answer": "(I) 82°30′ East (II) Duns",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "2.7",
+          "type": "open",
+          "q": "Fill in the blanks: The highest peak of the Eastern Ghats is ____ and the ____ hills join the Western and Eastern Ghats in the south.",
+          "answer": "Mahendragiri; Nilgiri"
+        },
+        {
+          "id": "2.8",
+          "type": "open",
+          "q": "True or False: (a) The Western Ghats are continuous while the Eastern Ghats are discontinuous. (b) The Narmada and Tapi flow eastward into the Bay of Bengal.",
+          "answer": "(a) True (b) False — they flow westward into the Arabian Sea."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "6 × 2 = 12",
+      "type": "open",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "Why are mountain passes important?",
+          "answer": "Passes are natural gaps through mountain ranges. Passes like Nathu La, Shipki La, Zoji La and Jelep La provided routes for trade, travellers and the exchange of ideas and culture between India and Tibet/Central Asia, and they are also strategically important.",
+          "years": [
+            "April 2024"
+          ],
+          "or": {
+            "q": "Why does India have good trade relations with many countries across the sea?",
+            "answer": "India lies at the centre of the Indian Ocean, surrounded by sea on three sides, and commands the sea routes between Europe and Africa on one side and South-East Asia, East Asia and Oceania on the other. So it has traded with many countries since ancient times."
+          }
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "Find the minimum number of states you need to cross if you travel from Gujarat to Assam by road.",
+          "answer": "Gujarat → Madhya Pradesh (or Rajasthan) → Uttar Pradesh → Bihar → West Bengal → Assam. You must cross at least four states (e.g. Madhya Pradesh/Rajasthan, Uttar Pradesh, Bihar and West Bengal) before entering Assam.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "Mention any two features of the Western Ghats.",
+          "answer": "(1) They run continuously for about 1,600 km parallel to the west coast with an average height of 1,000 m, and can be crossed only through passes like Pal Ghat, Thal Ghat and Bhor Ghat. (2) Their highest peak is Anaimudi (2,695 m); rivers flowing west form rapids and waterfalls such as Jog Falls.",
+          "years": [
+            "April 2021"
+          ]
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "Explain any two characteristics of the Northern Plains of India.",
+          "answer": "(1) They are formed by alluvial deposits of the Indus, Ganga and Brahmaputra and are among the most fertile plains in the world. (2) They are about 2,400 km long and level, with good irrigation, so wheat, rice, sugarcane and jute are grown; they are densely populated.",
+          "years": [
+            "October 2017"
+          ]
+        },
+        {
+          "id": "3.5",
+          "type": "open",
+          "q": "Name two Purvanchal hills and mention the countries in which the Greater Himalaya is situated.",
+          "answer": "Purvanchal hills: Patkai and Mizo (also Mishmi, Naga). The Greater Himalaya lies in India, Nepal and Bhutan.",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "3.6",
+          "type": "open",
+          "q": "What is a pass? Name any two passes situated in the Greater Himalaya.",
+          "answer": "A pass is a natural gap or route through a range of mountains or hills. Passes in the Greater Himalaya: Shipki La, Nathu La (also Zoji La, Bara Lacha La, Bomdi La).",
+          "years": [
+            "October 2016"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "6 × 3 = 18",
+      "type": "open",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "Explain any three differences between the Himalayan and the Peninsular drainage systems.",
+          "answer": "(1) Himalayan rivers are perennial, fed by glaciers and rain; Peninsular rivers are seasonal and rain-fed. (2) Himalayan rivers erode deep valleys and have long, meandering courses that shift; Peninsular rivers flow in shallow, fixed valleys and form waterfalls and rapids. (3) Himalayan rivers flow through fertile plains and are ideal for irrigation and navigation; Peninsular rivers are better for hydro-power. (Most Peninsular rivers flow east to the Bay of Bengal; only the Narmada and Tapi flow west.)",
+          "years": [
+            "October 2025"
+          ],
+          "or": {
+            "q": "Explain any three main characteristics of the Western Ghats.",
+            "answer": "(1) They lie along the western edge of the Deccan plateau and run parallel to the west coast for about 1,600 km. (2) They are continuous and higher than the Eastern Ghats (average 1,000 m); Anaimudi (2,695 m) is the highest peak, with Doda Betta and Makurti. (3) They can be crossed only through passes (Pal, Thal, Bhor Ghat); the Godavari, Bhima and Krishna rise here and flow east, while short west-flowing streams form waterfalls like Jog Falls."
+          }
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "Explain any three features of the Central Highlands of India.",
+          "answer": "(1) They lie north of the Narmada, between the river and the Northern Plains. (2) They include the Aravalli range (highest peak Gurushikhar near Mt. Abu), the Malwa plateau (drained by the Betwa, Chambal and Ken) and the Chhota Nagpur plateau (Mahadeo, Kaimur and Maikal hills). (3) The Narmada flows west in a rift valley between the Vindhya and Satpura ranges.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "'India has a unique geographical location.' Support the statement.",
+          "answer": "(1) It lies in the northern and eastern hemispheres between 8°4′N–37°6′N and 68°7′E–97°25′E, with the Tropic of Cancer passing through the middle. (2) It is surrounded by sea on three sides and lies at the centre of the Indian Ocean, commanding sea routes between Europe/Africa and East Asia, which helps trade. (3) The Himalayas form a natural barrier in the north, while passes link it with neighbours for trade and cultural exchange.",
+          "years": [
+            "October 2022"
+          ]
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "Explain the main features of the Himadri (Greater Himalaya) range.",
+          "answer": "(1) It is the northernmost and most continuous range, with an average height of 6,000 m and width of 120–190 km. (2) It is snow-bound and many glaciers descend from it; the Ganga and Yamuna originate here. (3) It has the highest peaks — Mt. Everest (8,848 m), Kanchenjunga, Makalu, Dhaulagiri, Nanga Parbat — and high passes like Shipki La, Nathu La and Zoji La.",
+          "years": [
+            "April 2017"
+          ]
+        },
+        {
+          "id": "4.5",
+          "type": "open",
+          "q": "What are the two divisions of the Northern Plains of India? Write two features of each.",
+          "answer": "(1) The Western Plain: formed by the Indus system rivers (Satluj, Beas, Ravi), lies west of the Aravallis, and has doabs — fertile land between two rivers. (2) The Ganga–Brahmaputra Plain: formed by the Ganga and Brahmaputra, very fertile and densely populated; early civilisations grew in such river valleys because of fertile land and water.",
+          "years": [
+            "April 2023"
+          ]
+        },
+        {
+          "id": "4.6",
+          "type": "open",
+          "q": "Why are rivers important for life? Explain.",
+          "answer": "(1) They supply fresh water for drinking, irrigation and industries and maintain the water table. (2) They carry fertile sediments, remove excess water and are used for navigation, hydro-power and tourism (boating, rafting). (3) Many cities and holy places grew on their banks — Delhi on the Yamuna, Patna on the Ganga, Guwahati on the Brahmaputra — so they are called lifelines.",
+          "years": [
+            "October 2019"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Map-based questions (skill).",
+      "marks": "4 × 4 = 16",
+      "type": "open",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "Identify the four mountain ranges shown by lines A, B, C and D on the given outline map of India and write their names.",
+          "answer": "A — Aravalli Range; B — Satpura Range; C — Western Ghats (Sahyadri); D — Eastern Ghats.",
+          "image": "data/social-science/maps/ch9-ranges.png",
+          "note": "Visually impaired version: name the range of Rajasthan, the range south of the Narmada, the range along the west coast and the range along the east coast."
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "Identify the four peaks marked A, B, C and D on the given outline map and write their names.",
+          "answer": "A — K2 (Godwin Austen), Karakoram; B — Kanchenjunga (highest peak in India); C — Anaimudi (highest peak of the Western Ghats); D — Gurushikhar near Mt. Abu (highest peak of the Aravallis).",
+          "image": "data/social-science/maps/ch9-peaks.png"
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "On the given outline map of India, mark and label: (A) Shimla, a tourist place in the Middle Himalaya (B) Western Ghats (C) River Krishna (D) Gir Range.",
+          "answer": "(A) Shimla — in Himachal Pradesh, about 31°N, 77°E, in the Lesser Himalaya (Himachal). (B) Western Ghats — a continuous line along the west coast from the Tapi (Maharashtra/Gujarat border) south to Kanyakumari. (C) Krishna — rises in the Western Ghats near Mahabaleshwar, flows east through Maharashtra, Karnataka and Andhra Pradesh to the Bay of Bengal. (D) Gir Range — in the Kathiawar (Saurashtra) peninsula of Gujarat.",
+          "years": [
+            "April 2026",
+            "October 2024"
+          ],
+          "image": "data/social-science/maps/blank-outline.png",
+          "note": "Visually impaired version (April 2026): explain India's location with reference to surrounding water bodies, neighbouring countries and southernmost points."
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "On the given outline map of India, locate and label: (A) River Kaveri (B) Cardamom Hills (C) Chhota Nagpur Plateau (D) Nilgiri Hills.",
+          "answer": "(A) Kaveri — rises in the Western Ghats in Karnataka (Coorg), flows south-east through Karnataka and Tamil Nadu into the Bay of Bengal. (B) Cardamom Hills — southern Western Ghats on the Kerala–Tamil Nadu border. (C) Chhota Nagpur Plateau — Jharkhand and adjoining Chhattisgarh/West Bengal. (D) Nilgiri Hills — where the Western and Eastern Ghats meet, on the Tamil Nadu–Kerala–Karnataka border.",
+          "years": [
+            "April 2024",
+            "April 2025"
+          ],
+          "image": "data/social-science/maps/blank-outline.png",
+          "note": "Visually impaired version (April 2024): write any four features of the Eastern Ghats."
+        }
+      ]
+    },
+    {
+      "no": 6,
+      "title": "Long answer questions. Answer in 80–120 words.",
+      "marks": "2 × 6 = 12",
+      "type": "open",
+      "questions": [
+        {
+          "id": "6.1",
+          "type": "open",
+          "q": "Explain India's geographical location with reference to its surrounding water bodies, neighbouring countries and southernmost points.",
+          "answer": "(1) The mainland extends from 8°4′N to 37°6′N and 68°7′E to 97°25′E; the Tropic of Cancer divides it into two halves and 82°30′E is the Standard Meridian. (2) Water bodies: the Arabian Sea in the west, the Bay of Bengal in the east and the Indian Ocean in the south. (3) Neighbours: Pakistan and Afghanistan (north-west); China, Nepal and Bhutan (north); Bangladesh and Myanmar (east); Sri Lanka across the Palk Strait and the Maldives (south). (4) Southernmost points: Kanyakumari (8°4′N) on the mainland and Indira Point (Nicobar Islands) for the whole country. (5) Its central position in the Indian Ocean gives it command over sea routes. (6) The Himalayas protect it in the north while passes connect it with neighbours.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "6.2",
+          "type": "open",
+          "q": "Describe the six physical divisions of India.",
+          "answer": "(1) Northern Mountains — Himalayas (Himadri, Himachal, Shiwaliks), Trans-Himalaya (Karakoram, Ladakh, Zaskar) and Purvanchal hills. (2) Northern Plains — fertile alluvial plains of the Indus, Ganga and Brahmaputra from Punjab to Assam. (3) Peninsular Plateau — triangular, ancient; Central Highlands and Deccan Plateau, with the Western and Eastern Ghats. (4) Indian (Thar) Desert — west of the Aravallis, under 150 mm rain, sand dunes. (5) Coastal Plains — narrow western (Konkan, Karnataka, Malabar) and wider eastern (Northern Circars, Coromandel) with deltas. (6) Islands — Andaman & Nicobar in the Bay of Bengal and coral Lakshadweep in the Arabian Sea."
+        }
+      ]
+    }
+  ]
+}

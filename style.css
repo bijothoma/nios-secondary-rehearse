@@ -112,6 +112,8 @@ a.btn { display: inline-block; text-decoration: none; }
   border-radius: 12px; padding: 14px 16px; margin-bottom: 10px;
 }
 .q-text { margin: 0 0 10px; font-weight: 600; }
+.q-img { display: block; max-width: 100%; height: auto; margin: 0 0 12px; border: 1px solid #d0d5dd; border-radius: 6px; }
+.or { margin: 6px 0; font-weight: 700; text-align: center; letter-spacing: .1em; }
 .q-num { color: #3b5bdb; color: var(--accent); margin-right: 6px; }
 .year {
   display: inline-block; margin-left: 6px; padding: 0 8px; border-radius: 999px;

@@ -67,3 +67,7 @@ The lesson then opens with a menu: Lesson, Lesson with translation, and the mode
 - `data/<subject>/lesson-<n>.json`: questions and answers for one lesson (generated)
 - `data/<subject>/past/lesson-<n>.json`: additions from old question papers
 - `tools/convert_lesson.py`: Word → JSON converter
+- `tools/build_ss.py`: builds Social Science from `data/social-science/src/lesson-<n>.json`
+  (summary, chapter practice set and three full papers in the April 2026 layout).
+  Run `python tools/build_ss.py` after editing a source file. Map pictures live in
+  `data/social-science/maps/`.

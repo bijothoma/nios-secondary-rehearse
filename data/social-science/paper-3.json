@@ -1,0 +1,678 @@
+{
+  "subject": "social-science",
+  "lesson": 903,
+  "title": "Model Question Paper 3",
+  "meta": "Time: 3 hours · Maximum marks: 100 · Modelled on the April 2026 NIOS paper",
+  "instructions": [
+    "All questions are compulsory. Where a question has OR, answer either one.",
+    "Section A: questions 1–20 carry 1 mark each; questions 21–35 carry 2 marks each.",
+    "Section B: 2-mark answers in 30–50 words, 3-mark answers in 50–80 words, 6-mark answers in 80–120 words. Map questions carry 4 marks.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "20 × 1 = 20",
+      "type": "mcq",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "Who was the first explorer to lead an expedition around the world?",
+          "options": [
+            "Bartholomew Diaz",
+            "Christopher Columbus",
+            "Ferdinand Magellan",
+            "Vasco da Gama"
+          ],
+          "answer": "C",
+          "note": "Chapter 3."
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "The Meiji Restoration took place in —",
+          "options": [
+            "China",
+            "Japan",
+            "Sri Lanka",
+            "Cambodia"
+          ],
+          "answer": "B",
+          "note": "Chapter 4."
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "The Peshwa is related to which of the following wars?",
+          "options": [
+            "Anglo-Maratha War",
+            "Anglo-Sikh War",
+            "Anglo-Awadh War",
+            "Anglo-Mysore War"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Chapter 5."
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "The Mukti Mission at Pune, a refuge for deserted young widows, was started by —",
+          "options": [
+            "Savitribai Phule",
+            "Annie Besant",
+            "Pandita Ramabai",
+            "Sarojini Naidu"
+          ],
+          "answer": "C",
+          "note": "Chapter 6."
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "The Mappila uprisings took place in —",
+          "options": [
+            "Malabar",
+            "Khandesh",
+            "Singhbhum",
+            "Bengal"
+          ],
+          "answer": "A",
+          "note": "Chapter 7."
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "The demand for Purna Swaraj was committed in which session of the Congress?",
+          "options": [
+            "Nagpur, December 1920",
+            "Chennai, 1927",
+            "Kolkata, September 1920",
+            "Lahore, 1929"
+          ],
+          "answer": "D",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Chapter 8."
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "Which order of the Trans-Himalayan ranges from north to south is correct?",
+          "options": [
+            "Karakoram, Zaskar, Ladakh",
+            "Karakoram, Ladakh, Zaskar",
+            "Ladakh, Zaskar, Karakoram",
+            "Zaskar, Ladakh, Karakoram"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Chapter 9."
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "Which plateau is a part of the Central Highlands?",
+          "options": [
+            "Tibet Plateau",
+            "Deccan Plateau",
+            "Malwa Plateau",
+            "Meghalaya Plateau"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Chapter 9."
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "In the Bay of Bengal, tropical cyclones usually occur during which season?",
+          "options": [
+            "Hot weather season",
+            "Cold weather season",
+            "Retreating monsoon season",
+            "Advancing south-west monsoon season"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Chapter 10."
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "Which organisation builds roads along the borders of India?",
+          "options": [
+            "NHAI",
+            "Border Roads Organisation",
+            "State PWD",
+            "Zila Parishad"
+          ],
+          "answer": "B",
+          "note": "Chapter 13."
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "Which one of the following state agencies constructs and maintains state highways connecting the state capital with district headquarters?",
+          "options": [
+            "Zila Parishad",
+            "State Public Works Department",
+            "National Highways Authority of India",
+            "Border Roads Organisation"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2024"
+          ],
+          "note": "Chapter 13."
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "An arrested person must be produced before the nearest magistrate within —",
+          "options": [
+            "12 hours",
+            "24 hours",
+            "48 hours",
+            "3 months"
+          ],
+          "answer": "B",
+          "note": "Chapter 16."
+        },
+        {
+          "id": "1.13",
+          "type": "mcq",
+          "q": "Appointment of the Advocate General comes under which powers of a Governor?",
+          "options": [
+            "Executive powers",
+            "Legislative powers",
+            "Financial powers",
+            "Discretionary powers"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Chapter 19."
+        },
+        {
+          "id": "1.14",
+          "type": "mcq",
+          "q": "How many members can the President nominate to the Rajya Sabha?",
+          "options": [
+            "2",
+            "10",
+            "12",
+            "20"
+          ],
+          "answer": "C",
+          "note": "Chapter 20."
+        },
+        {
+          "id": "1.15",
+          "type": "mcq",
+          "q": "Disputes between two or more States in India fall under which jurisdiction of the Supreme Court?",
+          "options": [
+            "Appellate Jurisdiction",
+            "Advisory Jurisdiction",
+            "Judicial Review",
+            "Original Jurisdiction"
+          ],
+          "answer": "D",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Chapter 20."
+        },
+        {
+          "id": "1.16",
+          "type": "mcq",
+          "q": "The Bahujan Samaj Party was founded in 1984 by —",
+          "options": [
+            "Mayawati",
+            "Kanshi Ram",
+            "Sharad Pawar",
+            "Lalu Prasad Yadav"
+          ],
+          "answer": "B",
+          "note": "Chapter 21."
+        },
+        {
+          "id": "1.17",
+          "type": "mcq",
+          "q": "Which party system does India follow?",
+          "options": [
+            "One-party system",
+            "Two-party system",
+            "Multi-party system",
+            "No-party system"
+          ],
+          "answer": "C",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Chapter 21."
+        },
+        {
+          "id": "1.18",
+          "type": "mcq",
+          "q": "Which of the following is NOT a must for a democracy?",
+          "options": [
+            "Participation of the people",
+            "Compulsory military service",
+            "People's satisfaction",
+            "Political and social equality"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Chapter 23."
+        },
+        {
+          "id": "1.19",
+          "type": "mcq",
+          "q": "The National Policy on Education which envisaged free and compulsory education for all children up to 14 years was adopted in —",
+          "options": [
+            "1968",
+            "1986",
+            "1992",
+            "2002"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2017"
+          ],
+          "note": "Chapter 25."
+        },
+        {
+          "id": "1.20",
+          "type": "mcq",
+          "q": "The terrorist attack on Mumbai, popularly known as 26/11, took place in —",
+          "options": [
+            "2001",
+            "2006",
+            "2008",
+            "2011"
+          ],
+          "answer": "C",
+          "note": "Chapter 27."
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions (2 parts of 1 mark, or 4 parts of ½ mark).",
+      "marks": "15 × 2 = 30",
+      "type": "open",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "mcq",
+          "q": "The first great ____ sculptor was ____ who made the statue 'David'.",
+          "options": [
+            "renaissance, Martin Luther",
+            "democracy, Titian",
+            "renaissance, Donatello",
+            "democracy, Leonardo"
+          ],
+          "answer": "C",
+          "years": [
+            "October 2024"
+          ],
+          "note": "Chapter 3."
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Match: (a) Widow Remarriage Act (b) Charter Act (c) Sanskrit College, Banaras (d) Fort William College — (i) 1813 (ii) 1856 (iii) 1800 (iv) 1794",
+          "answer": "(a) – (ii) 1856; (b) – (i) 1813; (c) – (iv) 1794; (d) – (iii) 1800",
+          "note": "Chapter 5."
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "Complete the sentence: In September 1873 ____ Phule along with his followers formed the ____.",
+          "answer": "Jyotirao (Jyotiba); Satya Shodhak Samaj",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Chapter 6."
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Answer in one word each: (a) Which tribal leader died in prison in 1900? (b) Which Act of 1908 gave tribals some land ownership rights and banned bonded labour?",
+          "answer": "(a) Birsa Munda (b) The Chhotanagpur Tenancy Act",
+          "note": "Chapter 7."
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "Fill in the blanks: (a) Netaji ____ promised independence to Indians saying, 'Tum mujhe khoon do, main tumhe azadi dunga'. (b) The watchwords of the ____ Revolution — liberty, equality and fraternity — inspired the whole world.",
+          "answer": "(a) Subhas Chandra Bose (b) French",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Chapter 8."
+        },
+        {
+          "id": "2.6",
+          "type": "mcq",
+          "q": "In the Trans-Himalayan ranges, the Indus River flows between the ____ and ____ ranges.",
+          "options": [
+            "Zaskar, Ladakh",
+            "Aravalli, Satpura",
+            "Karakoram, Vindhya",
+            "Nilgiri, Eastern Ghats"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Chapter 9."
+        },
+        {
+          "id": "2.7",
+          "type": "open",
+          "q": "Answer briefly: (a) Why does Meghalaya receive more than 200 cm of rainfall per year? (b) Why does Rajasthan receive less than 60 cm of rainfall per year?",
+          "answer": "(a) The moist Bay of Bengal branch of the monsoon is trapped by the funnel-shaped Garo, Khasi and Jaintia hills and forced to rise, giving very heavy rain. (b) The Arabian Sea branch blows parallel to the Aravallis, so nothing makes it rise, and the Bay branch is nearly dry by the time it reaches Rajasthan.",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Chapter 10."
+        },
+        {
+          "id": "2.8",
+          "type": "open",
+          "q": "Fill in the blanks: Today computer (Information Technology) has become the basis of ____ and ____ as it is used everywhere in homes, offices, airports and banks.",
+          "answer": "communication; economic development",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Chapter 13."
+        },
+        {
+          "id": "2.9",
+          "type": "open",
+          "q": "Mention any two advantages of railways.",
+          "answer": "(1) They are the cheapest way for large numbers of people to travel long distances, with classes for every income group. (2) They carry bulky goods like coal, cement, food grains and petroleum over long distances.",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Chapter 13."
+        },
+        {
+          "id": "2.10",
+          "type": "open",
+          "q": "True or False: (a) Fundamental Duties are justiciable. (b) No child below 14 years can be employed in a factory, mine or hazardous work.",
+          "answer": "(a) False — they are non-justiciable. (b) True",
+          "note": "Chapter 16."
+        },
+        {
+          "id": "2.11",
+          "type": "open",
+          "q": "Answer in one word: (I) What is the term of the Legislative Assembly in India? (II) What is the age fixed for the right to vote in India?",
+          "answer": "(I) Five years (II) 18 years",
+          "years": [
+            "October 2024"
+          ],
+          "note": "Chapter 19."
+        },
+        {
+          "id": "2.12",
+          "type": "open",
+          "q": "Complete the sentences: (I) Judges of the Supreme Court hold office till they attain the age of ____. (II) The Lok Sabha is presided over by the ____.",
+          "answer": "(I) 65 years (II) Speaker",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Chapter 20."
+        },
+        {
+          "id": "2.13",
+          "type": "open",
+          "q": "Complete the sentence: The President is indirectly elected by an ____, which consists of the ____ members of the two Houses of Parliament as well as of the State Legislative Assemblies.",
+          "answer": "Electoral College; elected",
+          "years": [
+            "October 2025",
+            "April 2024"
+          ],
+          "note": "Chapter 20."
+        },
+        {
+          "id": "2.14",
+          "type": "open",
+          "q": "True or False: (a) The Rashtriya Janata Dal was formed by Lalu Prasad Yadav in 1997. (b) The Shiv Sena is a political party of Tamil Nadu.",
+          "answer": "(a) True (b) False — it is a party of Maharashtra.",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Chapter 21."
+        },
+        {
+          "id": "2.15",
+          "type": "open",
+          "q": "Fill in the blanks: Insurgency in India is of two types — movements with ____ motives and movements for social and ____ justice.",
+          "answer": "political; economic",
+          "note": "Chapter 27."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "6 × 2 = 12",
+      "type": "open",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "Why did the British pressurise Indian farmers to cultivate indigo?",
+          "answer": "Indigo was needed in England as a dye for cloth produced in British mills. Farmers were forced to grow it on 3/20th of their land and sell it on terms dictated by British planters.",
+          "years": [
+            "April 2022"
+          ],
+          "note": "Chapter 5."
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "Mention any two reforms brought by Swami Dayanand Saraswati in the field of education.",
+          "answer": "(1) He preached in Hindi so that ideas reached ordinary people of North India. (2) His followers started the D.A.V. (Dayanand Anglo-Vedic) schools and colleges which taught English and modern science along with Sanskrit and Vedic learning.",
+          "years": [
+            "April 2021"
+          ],
+          "note": "Chapter 6."
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "Explain the number of judges, including the Chief Justice, in the Supreme Court of India.",
+          "answer": "The Constitution provides a Chief Justice and other judges whose number is fixed by Parliament by law. In 1950 there was a Chief Justice and 7 judges; the number has been increased with need — the textbook gives a Chief Justice and 30 judges.",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Chapter 20."
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "How do political parties help in running democratic processes?",
+          "answer": "They nominate candidates and contest elections, offer policy choices through manifestos, form the government or a responsible opposition, educate voters and shape public opinion, and link people with the government — without them elections and representative government would hardly be possible.",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Chapter 21."
+        },
+        {
+          "id": "3.5",
+          "type": "open",
+          "q": "How does illiteracy affect the working of democracy?",
+          "answer": "Illiterate citizens may not understand issues, rights and policies, so they cannot vote meaningfully or ensure that representatives truly represent their interests; they are easily misled. Literacy makes people aware of liberty and equality and helps them participate actively.",
+          "note": "Chapter 23."
+        },
+        {
+          "id": "3.6",
+          "type": "open",
+          "q": "'Peace and security are inseparable.' Explain.",
+          "answer": "Peace cannot exist where people live under threat, and security is meaningless without harmony. Together they create a condition where individuals, institutions, nations and the world move ahead without threat; conflict creates fear and hampers progress.",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Chapter 27."
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "6 × 3 = 18",
+      "type": "open",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "How did the British use political power, trade policies and education to strengthen their control over India? Analyse.",
+          "answer": "(1) Political power: through wars (Plassey, Buxar), the Subsidiary Alliance and the Doctrine of Lapse they annexed Indian states and ruled directly. (2) Trade policies: they monopolised trade, bought raw materials cheap, let British goods in duty-free and taxed Indian goods, ruining Indian industry and making India a supplier of raw materials and a market. (3) Education: English education produced cheap, loyal clerks and a class that admired British culture and helped run the administration.",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Chapter 5."
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "Why was Jyotirao Govindrao Phule considered an eminent reformer?",
+          "answer": "(1) He fought for equal rights for peasants and lower castes. (2) With Savitribai Phule he started schools for girls and educated women and the masses. (3) He promoted widow remarriage. (4) He founded the Satya Shodhak Samaj (1873) to protect lower castes from exploitation and atrocities.",
+          "years": [
+            "April 2017"
+          ],
+          "note": "Chapter 6."
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "'India has a unique geographical location.' Support the statement.",
+          "answer": "(1) It lies in the northern and eastern hemispheres between 8°4′N–37°6′N and 68°7′E–97°25′E, with the Tropic of Cancer passing through the middle. (2) It is surrounded by sea on three sides and lies at the centre of the Indian Ocean, commanding sea routes between Europe/Africa and East Asia, which helps trade. (3) The Himalayas form a natural barrier in the north, while passes link it with neighbours for trade and cultural exchange.",
+          "years": [
+            "October 2022"
+          ],
+          "note": "Chapter 9."
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "Analyse any three characteristics of road transport in India.",
+          "answer": "(1) Roads provide door-to-door service and link villages to towns, railway stations, airports and ports. (2) They are cheaper to build and maintain and are the most convenient for a few people and small loads over short distances, especially perishables. (3) They can be built in all terrains; they are classified by material (metalled/unmetalled) and authority (village, district, state, national highways, border roads).",
+          "years": [
+            "October 2024"
+          ],
+          "or": {
+            "q": "Analyse any three characteristics of rail transport in India.",
+            "answer": "(1) It is the cheapest means for thousands of people to travel long distances, with coaches for every income group and berths for night journeys. (2) It carries bulky goods like coal, cement, food grains and petroleum. (3) It is the largest network in Asia (over 64,000 km), the largest government undertaking, divided into 16 zones, with modern facilities like e-tickets and electric locomotives."
+          },
+          "note": "Chapter 13."
+        },
+        {
+          "id": "4.5",
+          "type": "open",
+          "q": "Suggest any three corrective measures for universal literacy (education for all).",
+          "answer": "(1) Free and compulsory education for all children of 6–14 years under the RTE Act 2009 and Sarva Shiksha Abhiyan. (2) Adult literacy through the National Literacy Mission and Saakshar Bharat (functional literacy for those above 15). (3) Special attention to girls and disadvantaged groups — scholarships, mid-day meals, more schools in remote areas.",
+          "years": [
+            "April 2025",
+            "October 2017"
+          ],
+          "note": "Chapter 23."
+        },
+        {
+          "id": "4.6",
+          "type": "open",
+          "q": "Why are peace and security essential for the progress of individuals, nations and the world? Explain.",
+          "answer": "(1) Development needs peace — no economic or social progress is possible amid violence or war; resources go to defence instead. (2) Democracy needs peace — elections, democratic institutions and people's participation can work only in peaceful conditions. (3) Individuals can live with dignity, free from fear, enjoy rights and plan their lives; at world level, peace allows trade and cooperation.",
+          "years": [
+            "April 2026",
+            "October 2024"
+          ],
+          "note": "Chapter 27."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Map-based questions (skill).",
+      "marks": "2 × 4 = 8",
+      "type": "open",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "On the given outline map of India, mark and label: (A) Shimla, a tourist place in the Middle Himalaya (B) Western Ghats (C) River Krishna (D) Gir Range.",
+          "answer": "(A) Shimla — in Himachal Pradesh, about 31°N, 77°E, in the Lesser Himalaya (Himachal). (B) Western Ghats — a continuous line along the west coast from the Tapi (Maharashtra/Gujarat border) south to Kanyakumari. (C) Krishna — rises in the Western Ghats near Mahabaleshwar, flows east through Maharashtra, Karnataka and Andhra Pradesh to the Bay of Bengal. (D) Gir Range — in the Kathiawar (Saurashtra) peninsula of Gujarat.",
+          "years": [
+            "April 2026",
+            "October 2024"
+          ],
+          "image": "data/social-science/maps/blank-outline.png",
+          "note": "Visually impaired version (April 2026): explain India's location with reference to surrounding water bodies, neighbouring countries and southernmost points. Chapter 9."
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "Identify the four international airports marked A, B, C and D on the map.",
+          "answer": "A — Indira Gandhi International Airport, Delhi; B — Kempe Gowda International Airport, Bengaluru; C — Rajiv Gandhi International Airport, Hyderabad; D — Netaji Subhas Chandra Bose International Airport, Kolkata.",
+          "years": [
+            "April 2023",
+            "October 2025",
+            "April 2025"
+          ],
+          "image": "data/social-science/maps/ch13-airports.png",
+          "note": "Chapter 13."
+        }
+      ]
+    },
+    {
+      "no": 6,
+      "title": "Long answer questions. Answer in 80–120 words.",
+      "marks": "2 × 6 = 12",
+      "type": "open",
+      "questions": [
+        {
+          "id": "6.1",
+          "type": "open",
+          "q": "Highlight the impact of the British on Indian society and culture in the 19th century.",
+          "answer": "(1) Western ideas of liberty, equality and human rights reached India and inspired reformers like Raja Ram Mohan Roy. (2) Laws were passed against sati (1829), for widow remarriage (1856), inter-caste marriage (1872) and against child marriage (Sharda Act 1929). (3) English education created a new middle class and a link language. (4) Orientalists founded the Asiatic Society and Fort William College, reviving interest in India's past. (5) The press, literature and theatre spread national consciousness. (6) But Indians were excluded from high posts, justice was costly and discriminatory, and the Divide and Rule policy harmed Hindu–Muslim relations.",
+          "years": [
+            "April 2021"
+          ],
+          "note": "Chapter 5."
+        },
+        {
+          "id": "6.2",
+          "type": "open",
+          "q": "Explain any six legislative powers of the President.",
+          "answer": "(1) The President is an integral part of Parliament. (2) Summons and prorogues the sessions of both Houses. (3) Dissolves the Lok Sabha on the advice of the Council of Ministers. (4) Addresses Parliament at the first session each year and after each general election. (5) No bill becomes law without his/her assent; he/she may return a bill for reconsideration. (6) Calls a joint sitting to resolve deadlocks, issues ordinances when Parliament is not in session, and nominates 12 members to the Rajya Sabha.",
+          "years": [
+            "April 2026"
+          ],
+          "or": {
+            "q": "Explain the meaning of the Electoral College in the Indian Presidential election. What qualifications are required for a person to be elected President of India?",
+            "answer": "Electoral College: the body that elects the President indirectly — the elected members of both Houses of Parliament and of the State Legislative Assemblies (including Delhi and Puducherry). Voting is by secret ballot using proportional representation by single transferable vote. Qualifications: (1) citizen of India; (2) at least 35 years old; (3) qualified to be elected to the Lok Sabha; (4) not holding any office of profit under the Union, a State or local authority. The term is five years, with re-election allowed."
+          },
+          "note": "Chapter 20."
+        }
+      ]
+    }
+  ]
+}

@@ -120,10 +120,125 @@
       ]
     },
     {
-      "id": "social-studies",
-      "name": "Social Studies",
-      "label": "",
-      "lessons": []
+      "id": "social-science",
+      "name": "Social Science",
+      "label": "Social Science",
+      "lessons": [
+        {
+          "no": 3,
+          "title": "Modern World – I",
+          "file": "data/social-science/lesson-3.json",
+          "summary": "data/social-science/summary/lesson-3.json"
+        },
+        {
+          "no": 4,
+          "title": "Modern World – II",
+          "file": "data/social-science/lesson-4.json",
+          "summary": "data/social-science/summary/lesson-4.json"
+        },
+        {
+          "no": 5,
+          "title": "Impact of British Rule on India: Economic, Social and Cultural (1757–1857)",
+          "file": "data/social-science/lesson-5.json",
+          "summary": "data/social-science/summary/lesson-5.json"
+        },
+        {
+          "no": 6,
+          "title": "Religious and Social Awakening in Colonial India",
+          "file": "data/social-science/lesson-6.json",
+          "summary": "data/social-science/summary/lesson-6.json"
+        },
+        {
+          "no": 7,
+          "title": "Popular Resistance to the British Rule",
+          "file": "data/social-science/lesson-7.json",
+          "summary": "data/social-science/summary/lesson-7.json"
+        },
+        {
+          "no": 8,
+          "title": "Indian National Movement",
+          "file": "data/social-science/lesson-8.json",
+          "summary": "data/social-science/summary/lesson-8.json"
+        },
+        {
+          "no": 9,
+          "title": "Physiography of India",
+          "file": "data/social-science/lesson-9.json",
+          "summary": "data/social-science/summary/lesson-9.json"
+        },
+        {
+          "no": 10,
+          "title": "Climate",
+          "file": "data/social-science/lesson-10.json",
+          "summary": "data/social-science/summary/lesson-10.json"
+        },
+        {
+          "no": 13,
+          "title": "Transport and Communication",
+          "file": "data/social-science/lesson-13.json",
+          "summary": "data/social-science/summary/lesson-13.json"
+        },
+        {
+          "no": 16,
+          "title": "Fundamental Rights and Fundamental Duties",
+          "file": "data/social-science/lesson-16.json",
+          "summary": "data/social-science/summary/lesson-16.json"
+        },
+        {
+          "no": 19,
+          "title": "Governance at the State Level",
+          "file": "data/social-science/lesson-19.json",
+          "summary": "data/social-science/summary/lesson-19.json"
+        },
+        {
+          "no": 20,
+          "title": "Governance at the Union Level",
+          "file": "data/social-science/lesson-20.json",
+          "summary": "data/social-science/summary/lesson-20.json"
+        },
+        {
+          "no": 21,
+          "title": "Political Parties and Pressure Groups",
+          "file": "data/social-science/lesson-21.json",
+          "summary": "data/social-science/summary/lesson-21.json"
+        },
+        {
+          "no": 23,
+          "title": "Challenges to Indian Democracy",
+          "file": "data/social-science/lesson-23.json",
+          "summary": "data/social-science/summary/lesson-23.json"
+        },
+        {
+          "no": 25,
+          "title": "Socio-Economic Development and Empowerment of Disadvantaged Groups",
+          "file": "data/social-science/lesson-25.json",
+          "summary": "data/social-science/summary/lesson-25.json"
+        },
+        {
+          "no": 27,
+          "title": "Peace and Security",
+          "file": "data/social-science/lesson-27.json",
+          "summary": "data/social-science/summary/lesson-27.json"
+        },
+        {
+          "no": 901,
+          "tag": "Full paper",
+          "title": "Model Question Paper 1",
+          "file": "data/social-science/paper-1.json"
+        },
+        {
+          "no": 902,
+          "tag": "Full paper",
+          "title": "Model Question Paper 2",
+          "file": "data/social-science/paper-2.json"
+        },
+        {
+          "no": 903,
+          "tag": "Full paper",
+          "title": "Model Question Paper 3",
+          "file": "data/social-science/paper-3.json"
+        }
+      ]
     },
     {
       "id": "data-entry",

@@ -127,12 +127,17 @@ function renderSubject(subject) {
       : el('div', { 'class': 'tiles' },
           subject.lessons.map(function (l) {
             return el('a', { 'class': 'tile', href: '#/' + subject.id + '/' + l.no },
-              el('span', {}, 'Lesson ' + l.no),
+              el('span', {}, lessonLabel(l)),
               el('strong', {}, l.button || l.title)
             );
           })
         )
   );
+}
+
+// Full model papers carry a tag instead of a lesson number.
+function lessonLabel(l) {
+  return l.tag || 'Lesson ' + l.no;
 }
 
 function lessonHash(subject, lessonMeta) {
@@ -144,7 +149,7 @@ function renderLessonMenu(subject, lessonMeta) {
   var base = lessonHash(subject, lessonMeta);
   setChildren(app,
     el('div', { 'class': 'crumbs' }, el('a', { href: '#/' + subject.id }, '« ' + (subject.label || subject.name))),
-    el('div', { 'class': 'muted' }, 'Lesson ' + lessonMeta.no),
+    el('div', { 'class': 'muted' }, lessonLabel(lessonMeta)),
     el('h1', {}, lessonMeta.title),
     el('div', { 'class': 'tiles' },
       lessonMeta.text ? el('a', { 'class': 'tile', href: base + '/text' },
@@ -165,7 +170,9 @@ function renderText(subject, lessonMeta, kind, withEnglish) {
   var views = kind === 'summary' ? ['/summary', '/summary-en'] : ['/text', '/translation'];
   loadJSON(lessonMeta[kind], function (doc) {
     var blocks = [];
+    var hasEnglish = false;
     doc.blocks.forEach(function (b) {
+      b.parts.forEach(function (p) { if (p[0] === 'en') hasEnglish = true; });
       var parts = [];
       b.parts.forEach(function (p) {
         if (!withEnglish && p[0] === 'en') return;
@@ -187,8 +194,8 @@ function renderText(subject, lessonMeta, kind, withEnglish) {
       el('div', { 'class': 'crumbs' }, el('a', { href: lessonHash(subject, lessonMeta) }, '« Lesson ' + lessonMeta.no)),
       el('div', { 'class': 'lesson-text' + (withEnglish ? ' with-en' : '') }, blocks),
       el('div', { 'class': 'actions' },
-        el('a', { 'class': 'btn', href: lessonHash(subject, lessonMeta) + views[withEnglish ? 0 : 1] },
-          withEnglish ? 'Hide English' : 'Show English'),
+        hasEnglish ? el('a', { 'class': 'btn', href: lessonHash(subject, lessonMeta) + views[withEnglish ? 0 : 1] },
+          withEnglish ? 'Hide English' : 'Show English') : null,
         ' ',
         el('a', { 'class': 'btn primary', href: lessonHash(subject, lessonMeta) + '/paper' }, 'Model question paper'))
     );
@@ -205,7 +212,7 @@ function renderPaper(subject, lessonMeta) {
       el('div', { 'class': 'crumbs' }, lessonMeta.text || lessonMeta.summary
         ? el('a', { href: lessonHash(subject, lessonMeta) }, '« Lesson ' + lessonMeta.no)
         : el('a', { href: '#/' + subject.id }, '« ' + (subject.label || subject.name))),
-      el('div', { 'class': 'muted' }, 'Lesson ' + paper.lesson),
+      el('div', { 'class': 'muted' }, lessonLabel(lessonMeta)),
       el('h1', {}, paper.title),
       paper.author ? el('div', {}, paper.author) : null,
       paper.meta ? el('div', { 'class': 'muted' }, paper.meta) : null,
@@ -253,7 +260,7 @@ function renderSection(sec) {
       var num = sec.no + '.' + (i + 1);
       if (q.type === 'mcq') {
         var correct = q.options[LETTERS.indexOf(q.answer)];
-        return renderChoice(num, q.q, q.years, q.options, correct, q.note);
+        return renderChoice(num, q.q, q.years, q.options, correct, q.note, q.image);
       }
       if (q.type === 'match') {
         return renderChoice(num, q.left + ' — ?', q.years, matchPool, q.right);
@@ -264,14 +271,16 @@ function renderSection(sec) {
 }
 
 // years: the exams this question was asked in, e.g. ["April 2025", "October 2019"]
-function questionText(num, text, years) {
-  return el('p', { 'class': 'q-text' },
+// image: an optional picture (e.g. a map) shown under the question.
+function questionText(num, text, years, image) {
+  var p = el('p', { 'class': 'q-text' },
     el('span', { 'class': 'q-num' }, num),
     text,
     (years || []).map(function (y) {
       return el('span', { 'class': 'year', title: 'Asked in this exam' }, y);
     })
   );
+  return image ? [p, el('img', { 'class': 'q-img', src: image, alt: 'Map for question ' + num })] : p;
 }
 
 // Marks an option as right or wrong with a symbol as well as a style, so it reads
@@ -281,7 +290,7 @@ function markOption(button, kind) {
   button.appendChild(el('span', { 'class': 'mark' }, kind === 'correct' ? '✓' : '✗'));
 }
 
-function renderChoice(num, text, years, options, correct, note) {
+function renderChoice(num, text, years, options, correct, note, image) {
   score.total++;
   var firstTry = true;
   var finished = false;
@@ -336,7 +345,7 @@ function renderChoice(num, text, years, options, correct, note) {
   }
 
   return el('div', { 'class': 'q' },
-    questionText(num, text, years),
+    questionText(num, text, years, image),
     el('div', { 'class': 'options' }, buttons),
     feedback,
     noteEl,
@@ -344,9 +353,15 @@ function renderChoice(num, text, years, options, correct, note) {
   );
 }
 
+function answerParas(text) {
+  return text.split('\n').map(function (p) { return el('p', {}, p); });
+}
+
+// q.or is an internal choice: { q, answer } asked as an alternative to the main question.
 function renderOpen(num, q) {
   var answer = el('div', { 'class': 'answer' },
-    q.answer.split('\n').map(function (p) { return el('p', {}, p); }),
+    answerParas(q.answer),
+    q.or ? [el('p', { 'class': 'or' }, 'OR'), answerParas(q.or.answer)] : null,
     q.note ? el('p', { 'class': 'note' }, q.note) : null
   );
   setHidden(answer, true);
@@ -359,7 +374,10 @@ function renderOpen(num, q) {
     }
   }, 'Show answer');
 
-  return el('div', { 'class': 'q' }, questionText(num, q.q, q.years), btn, answer);
+  return el('div', { 'class': 'q' },
+    questionText(num, q.q, q.years, q.image),
+    q.or ? [el('p', { 'class': 'or' }, 'OR'), el('p', { 'class': 'q-text' }, q.or.q)] : null,
+    btn, answer);
 }
 
 // ---------- routing ----------
