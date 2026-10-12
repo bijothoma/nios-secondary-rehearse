@@ -1,0 +1,278 @@
+{
+  "subject": "english",
+  "lesson": 6,
+  "title": "A Tiger Comes to Town (II)",
+  "author": "R.K. Narayan",
+  "meta": "Story · Literature practice set",
+  "instructions": [
+    "Literature practice for this lesson in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Identify the following sentences as True or False.",
+      "marks": "6 × 1 = 6",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "The tiger roared because he wanted to frighten the Headmaster.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "note": "He roared 'for no particular reason except that he felt alive'.",
+          "fixed": true
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "The Master asked for a ladder to help the Headmaster come down.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "fixed": true
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "The Chairman of the Tiger Committee happily allowed the Master to enter.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "fixed": true
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "The Master wrote the affidavit in Sanskrit.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "fixed": true
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "The Master said that human beings are timid creatures.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "fixed": true
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "The police called the Magistrate to stop the Master.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2024"
+          ],
+          "fixed": true
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Match the character (or speaker) with the description.",
+      "marks": "3 × 1 = 3",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "match",
+          "left": "The Chairman of the Tiger Committee",
+          "right": "the second Honorary Magistrate who demanded an affidavit",
+          "answer": "The Chairman of the Tiger Committee — the second Honorary Magistrate who demanded an affidavit"
+        },
+        {
+          "id": "2.2",
+          "type": "match",
+          "left": "The circus Master",
+          "right": "wrote the affidavit in Sanskrit",
+          "answer": "The circus Master — wrote the affidavit in Sanskrit"
+        },
+        {
+          "id": "2.3",
+          "type": "match",
+          "left": "The Headmaster",
+          "right": "was cowering in the attic",
+          "answer": "The Headmaster — was cowering in the attic"
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Read the passage and fill in the blanks.",
+      "marks": "3 × 1 = 3",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "The Chairman was visibly confused and ________.",
+          "answer": "bewildered",
+          "years": [
+            "April 2021"
+          ]
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "The Master had to sign an ________.",
+          "answer": "affidavit",
+          "years": [
+            "April 2021"
+          ]
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "The Magistrate took a sheet of paper out of his ________.",
+          "answer": "briefcase",
+          "years": [
+            "April 2021"
+          ]
+        }
+      ],
+      "passage": "The Chairman was visibly confused and bewildered. 'In that case you will have to sign an affidavit absolving us from all responsibilities for your life or death'. 'All right, give me a piece of paper and tell me what to write.' The Magistrate took out a sheet of paper from his briefcase and gave it to my Master."
+    },
+    {
+      "no": 4,
+      "title": "Read the passage and fill in the blanks.",
+      "marks": "3 × 1 = 3",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "The Master said that human beings are ________ creatures.",
+          "answer": "timid"
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "People are likely to ________ when they see the tiger.",
+          "answer": "panic"
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "Not looking at them is the only way to maintain one's peace of ________.",
+          "answer": "mind"
+        }
+      ],
+      "passage": "'Let us go now,' said my Master. 'You must realise that human beings, for all their bluster are timid creatures. They are likely to panic when they see you. Don't look at them. That's the only way to maintain one's peace of mind.'"
+    },
+    {
+      "no": 5,
+      "title": "Complete the following sentences.",
+      "marks": "4 × 1 = 4",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "When the tiger woke up, he saw the Headmaster cowering in the ________.",
+          "answer": "attic"
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "The Chairman gave notice using his powers as the second Honorary ________.",
+          "answer": "Magistrate"
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "The officials said it was unlawful to commit ________.",
+          "answer": "suicide"
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "The Master knew ten other languages including ________.",
+          "answer": "Japanese"
+        }
+      ]
+    },
+    {
+      "no": 6,
+      "title": "Answer in one or two sentences (about 30 words).",
+      "marks": "5 × 2 = 10",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "6.1",
+          "type": "open",
+          "q": "Why did the teachers and officials refuse to let the circus master enter the Headmaster's room?",
+          "answer": "They believed the tiger was a ferocious beast and that going near it was suicide; they also wanted to avoid responsibility if anything happened to him.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "6.2",
+          "type": "open",
+          "q": "Why did the Master have to sign an affidavit before he was allowed to enter the room?",
+          "answer": "The Chairman wanted to absolve himself and everyone present from all responsibility for the Master's life or death.",
+          "years": [
+            "April 2021"
+          ]
+        },
+        {
+          "id": "6.3",
+          "type": "open",
+          "q": "Why did the Chairman refuse to accept the affidavit?",
+          "answer": "It was written in Sanskrit, a language he did not know, so he could not read what the Master had written."
+        },
+        {
+          "id": "6.4",
+          "type": "open",
+          "q": "What advice did the Master give the tiger at the end?",
+          "answer": "He told the tiger that human beings are timid creatures likely to panic, so the tiger should not look at them — that is the only way to keep one's peace of mind."
+        },
+        {
+          "id": "6.5",
+          "type": "open",
+          "q": "What did the Master mean by 'You are exercising unnecessary authority'?",
+          "answer": "He meant that the Chairman was using his official power without need, since the Master was willing to risk his own life and the affidavit was uncalled for and irrelevant."
+        }
+      ]
+    },
+    {
+      "no": 7,
+      "title": "Answer in about 40 words.",
+      "marks": "1 × 3 = 3",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "7.1",
+          "type": "open",
+          "q": "Describe the argument between the Master and the Chairman of the Tiger Committee.",
+          "answer": "The Chairman forbade the Master to enter the room, saying it was unlawful to commit suicide. The Master asked which law stopped a man from approaching a tiger, as circus people did it all the time, and said he was risking only his own life. The Chairman then made him sign an affidavit, but refused it because it was in Sanskrit. The Master simply unlocked the door.",
+          "or": {
+            "q": "What qualities of the circus Master do you find in the story?",
+            "answer": "He is calm, fearless and confident that he can tame the tiger. He respects animals and objects to words like 'brute'. He is witty and scholarly — he writes only Sanskrit and knows ten languages — and he has no patience with foolish authority."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,284 @@
+{
+  "subject": "english",
+  "lesson": 8,
+  "title": "A Birthday Letter",
+  "author": "Jawaharlal Nehru",
+  "meta": "Letter · Literature practice set",
+  "instructions": [
+    "Literature practice for this lesson in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Identify the following sentences as True or False.",
+      "marks": "6 × 1 = 6",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "Indira wrote a letter to her father on his birthday.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2026"
+          ],
+          "fixed": true
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "Nehru, her father, was in prison.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2026"
+          ],
+          "fixed": true
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "Bapuji's message did not have any effect on Indians.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2026"
+          ],
+          "fixed": true
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "Nehru likes giving sermons and good advice.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "fixed": true
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "The letter was written from Naini Prison in 1930.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2021"
+          ],
+          "fixed": true
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "Nehru asked Indira never to do anything in secret.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "fixed": true
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Match the character (or speaker) with the description.",
+      "marks": "4 × 1 = 4",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "match",
+          "left": "Jawaharlal Nehru",
+          "right": "wrote a letter from Naini Prison",
+          "answer": "Jawaharlal Nehru — wrote a letter from Naini Prison"
+        },
+        {
+          "id": "2.2",
+          "type": "match",
+          "left": "Indira",
+          "right": "received the letter on her 13th birthday",
+          "answer": "Indira — received the letter on her 13th birthday"
+        },
+        {
+          "id": "2.3",
+          "type": "match",
+          "left": "Jeanne d'Arc",
+          "right": "the heroine Indira wanted to be like",
+          "answer": "Jeanne d'Arc — the heroine Indira wanted to be like"
+        },
+        {
+          "id": "2.4",
+          "type": "match",
+          "left": "Bapuji",
+          "right": "the leader whose message stole the hearts of millions",
+          "answer": "Bapuji — the leader whose message stole the hearts of millions"
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Read the passage and fill in the blanks.",
+      "marks": "3 × 1 = 3",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "The magic of Bapuji's message has stolen the hearts of India's ________.",
+          "answer": "millions"
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "Even little children come out of their little ________.",
+          "answer": "shells"
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "They become India's soldiers of ________.",
+          "answer": "freedom"
+        }
+      ],
+      "passage": "Bapuji is in prison, but the magic of his message has stolen the hearts of India's millions. Men and women, and even little children, come out of their little shells and become India's soldiers of freedom. In India today we are making history, and you and I are fortunate to see this happening before our eyes and to take some part ourselves in this great drama."
+    },
+    {
+      "no": 4,
+      "title": "Read the passage and fill in the blanks.",
+      "marks": "3 × 1 = 3",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "Nehru asks Indira never to do anything in ________.",
+          "answer": "secret"
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "The desire to hide anything means that you are ________.",
+          "answer": "afraid"
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "Be ________, and all the rest follows.",
+          "answer": "brave"
+        }
+      ],
+      "passage": "Never do anything in secret or anything that you would wish to hide. For the desire to hide anything means that you are afraid, and fear is a bad thing and unworthy of you. Be brave, and all the rest follows."
+    },
+    {
+      "no": 5,
+      "title": "Complete the following sentences.",
+      "marks": "4 × 1 = 4",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "Nehru wrote the letter on Indira's ________ birthday.",
+          "answer": "13th"
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "Nehru's presents could only be of the mind and ________.",
+          "answer": "spirit"
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "Indira had been fascinated by the story of ________.",
+          "answer": "Jeanne d'Arc (Joan of Arc)"
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "Nehru hoped Indira would grow up into a brave ________ in India's service.",
+          "answer": "soldier"
+        }
+      ]
+    },
+    {
+      "no": 6,
+      "title": "Answer in one or two sentences (about 30 words).",
+      "marks": "5 × 2 = 10",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "6.1",
+          "type": "open",
+          "q": "Why was Pandit Nehru not able to send a gift to Indira on her birthday?",
+          "answer": "He was imprisoned in Naini Prison by the British, so he could not send any material present; he could only send presents of the mind and spirit through his letter.",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "6.2",
+          "type": "open",
+          "q": "Why does Nehru dislike sermonising?",
+          "answer": "He believes that the best way to find out what is right and wrong is by talking and discussing, because truth comes out of discussion, not out of lectures."
+        },
+        {
+          "id": "6.3",
+          "type": "open",
+          "q": "What 'little test' does Nehru ask Indira to apply when she is in doubt?",
+          "answer": "Never to do anything in secret or anything she would wish to hide, because the desire to hide shows fear, and fear is unworthy of her."
+        },
+        {
+          "id": "6.4",
+          "type": "open",
+          "q": "What qualities of a soldier did Nehru want his daughter to have?",
+          "answer": "He wanted her to be brave and fearless, honest and open, to respect India's honour as a sacred trust and to serve the country.",
+          "years": [
+            "October 2022"
+          ]
+        },
+        {
+          "id": "6.5",
+          "type": "open",
+          "q": "How does history make ordinary people heroes, according to Nehru?",
+          "answer": "When a whole people become interested in a great cause, history helps even simple, ordinary men and women to become heroes, inspired by great leaders."
+        }
+      ]
+    },
+    {
+      "no": 7,
+      "title": "Answer in about 40 words.",
+      "marks": "1 × 3 = 3",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "7.1",
+          "type": "open",
+          "q": "What message does Nehru give Indira in 'A Birthday Letter'?",
+          "answer": "He tells her to learn by discussion, not sermons; to remember that great causes turn ordinary people into heroes, as Bapuji's message has done in India; and to do nothing in secret, because fear is unworthy of her. He wants her to be brave, work in the light and grow up a brave soldier in India's service.",
+          "or": {
+            "q": "Why does Nehru call the freedom struggle a 'great drama'? What part does he want Indira to play?",
+            "answer": "India is 'making history' as millions, inspired by Bapuji, become soldiers of freedom — it is like a great drama unfolding before their eyes. Nehru wants Indira to take part in it as a brave, honest soldier who respects India's honour and does nothing in secret."
+          }
+        }
+      ]
+    }
+  ]
+}

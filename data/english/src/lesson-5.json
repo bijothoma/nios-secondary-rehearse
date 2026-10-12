@@ -1,0 +1,60 @@
+{
+  "lesson": 5,
+  "title": "A Tiger Comes to Town (I)",
+  "kind": "Story",
+  "author": "R.K. Narayan",
+  "summary": [
+    "## About the story",
+    "This extract from R.K. Narayan's story is told by a runaway circus tiger. Through the tiger's eyes we see how foolish and fearful human beings can be, and how wrongly they judge animals. The story asks us to treat animals with compassion and to understand that animals too have feelings.",
+    "## In the town",
+    "When the tiger enters Market Road, people run for their lives: shutters are pulled down and people hide in drains, on trees and behind pillars — 'the population was melting out of sight'. At the circus the tiger had seen people sitting calmly while he cowered before the Captain's whip, so he had thought humans were strong and fearless. Now they run from him 'like a herd of deer', though he has no intention of attacking them.",
+    "A tailor abandons his machine and shuts himself in a cupboard, wailing 'Won't someone shoot that tiger?' A prisoner escapes when his two constables flee, leaving him in handcuffs. The tiger tears a horse from a jutka and enjoys the passengers spilling out. Sheer hopelessness seizes the townspeople: all doors and windows are shut, bolted and sealed; some think he is an extraordinary creature who might pass through walls. The tiger wonders why a simple tiger should have any interest in them, 'either to destroy or to safeguard'.",
+    "At a restaurant the coffee drinkers and tiffin-eaters sit still, moaning; the cashier hugs his cash box, afraid even to breathe. The tiger wants to assure them, 'Don't fear, I am not out to trouble you.' He is eleven feet from tip to tail and is not hungry — he had found a 'green pasture full of food' on the way. 'Tigers attack only when they feel hungry, unlike human beings who kill one another without purpose or hunger.'",
+    "## At the school",
+    "Schools close hurriedly; children run 'helter-skelter', delighted — 'No school, no school. Tiger, Tiger!' The tiger follows them into the school, walks into the Headmaster's room — the dignified Headmaster jumps on the table and heaves himself into the attic — and lies down on the cool stone floor with his head under the desk to sleep. While he sleeps, the room is locked and watched.",
+    "When a teacher calls him a 'brute', his Master pushes through the crowd and scolds them: 'Never use the words beast or brute. They're ugly words coined by man in his arrogance.' When someone asks, 'Who are you?', the Master replies that it is a profound question — he has been trying to find out who he is all his life: 'Are you sure you know who you are?'",
+    "## Themes",
+    "Humans judge animals by fixed ideas and panic needlessly; animals are not cruel without reason; humans can be more violent than animals; the Master stands for respect and compassion for all creatures. The story is full of gentle humour and irony."
+  ],
+  "tf": [
+    ["The story is narrated by the tiger.", true],
+    ["At the circus the tiger thought that human beings were weak and timid.", false],
+    ["The tiger wanted to attack the people in the restaurant.", false],
+    ["Children were delighted when the schools were closed.", true],
+    ["The Headmaster hid in the attic.", true],
+    ["The Master liked the teachers calling the tiger a 'brute'.", false]
+  ],
+  "characters": [
+    ["The tiger", "the narrator who ran away from the circus"],
+    ["The Headmaster", "jumped on his table and hid in the attic"],
+    ["The Master", "the tiger's trainer who objected to the word 'brute'"],
+    ["The tailor", "shut himself in a cupboard"]
+  ],
+  "extracts": [
+    {"passage": "Sheer hopelessness seemed to have seized the townspeople. They withdrew into their homes and even there remained nervous. All doors and windows everywhere were shut, bolted and sealed. Some even thought that I was some extraordinary creature who might pass through the walls and lie in wait on the roof or in the basement. Why should an ordinary, simple tiger have any interest in them, either to destroy or to safeguard?",
+     "items": [["All doors and windows everywhere were shut, ________ and sealed.", "bolted"], ["Some thought the tiger might pass through the ________.", "walls"], ["A simple tiger has no interest in them, either to ________ or to safeguard.", "destroy"]],
+     "years": ["April 2026", "October 2019", "October 2017"]},
+    {"passage": "At the circus I had no chance to study human beings. They had sat in their seats peacefully while I cowered before captain's whip. I got a totally wrong idea of human beings at that angle. I had thought that they were strong and fearless. But now I found them running from me like a herd of deer, although I had no intention of attacking them.",
+     "items": [["At the circus the tiger cowered before the captain's ________.", "whip"], ["He had thought that human beings were strong and ________.", "fearless"], ["Now people ran from him like a herd of ________.", "deer"]],
+     "years": ["April 2023"]}
+  ],
+  "complete": [
+    ["When the tiger entered the ________ Road, people ran for their lives.", "Market"],
+    ["The tiger was ________ feet long from tip to tail.", "eleven"],
+    ["Tigers attack only when they feel ________.", "hungry"],
+    ["The tiger lay down on the cool ________ floor of the Headmaster's room.", "stone"],
+    ["The Master said that 'beast' and 'brute' were ugly words coined by man in his ________.", "arrogance"]
+  ],
+  "sa2": [
+    ["Why did the Master scold the crowd for using the words 'beast' and 'brute'?", "He said they were ugly words coined by man in his arrogance; humans think all other creatures are 'beasts', which is wrong and disrespectful.", ["October 2024", "April 2024"]],
+    ["What wrong idea had the tiger formed about human beings at the circus?", "At the circus people sat calmly in their seats while he cowered before the whip, so he thought humans were strong and fearless. In the town he found them running away like a herd of deer."],
+    ["Why did the tiger not attack anyone in the town?", "He was not hungry — he had eaten well in a 'green pasture full of food' and would not need food for days. Tigers attack only when hungry."],
+    ["How did the townspeople react on seeing the tiger?", "They ran for their lives, pulled down shutters and hid in drains, on trees and behind pillars; they shut, bolted and sealed their doors and windows and stayed nervous even at home."],
+    ["Why were the children happy when the tiger came to town?", "Schools were hurriedly closed, so they ran about shouting joyfully, 'No school, no school. Tiger, Tiger!' They even enjoyed being scared."],
+    ["How does the tiger compare tigers with human beings?", "He says tigers attack only when they feel hungry, unlike human beings who kill one another without purpose or hunger."]
+  ],
+  "sa3": [
+    ["What was the tiger's view about human beings? How did it change?", "At the circus, seeing people sit calmly while he cowered before the whip, he thought humans were strong and fearless. In the town he saw them run like deer, hide in drains and cupboards and even abandon a prisoner; he found them timid, foolish and cowardly, and also more violent than tigers since they kill without hunger.", ["April 2016"], {"or": ["How did the arrival of the tiger affect life at the school?", "Schools were closed in a hurry and children ran about joyfully. The tiger followed them in and walked into the Headmaster's room; the Headmaster jumped on the table and hid in the attic. The tiger slept on the cool floor, and the room was locked and watched while the teachers argued about what to do."]}],
+    ["Describe the humour in the scenes of panic in the town.", "The tailor locks himself in a cupboard wailing for someone to shoot the tiger; the constables run away leaving their handcuffed prisoner free; the cashier hugs his cash box, afraid to breathe; the dignified Headmaster heaves himself into the attic. The tiger, who only wants to rest, watches them all with amusement."]
+  ]
+}

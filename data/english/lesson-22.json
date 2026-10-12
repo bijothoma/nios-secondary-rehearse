@@ -1,0 +1,258 @@
+{
+  "subject": "english",
+  "lesson": 22,
+  "title": "The Truth",
+  "author": "Barrie Wade",
+  "meta": "Poem · Literature practice set",
+  "instructions": [
+    "Literature practice for this lesson in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Identify the following sentences as True or False.",
+      "marks": "6 × 1 = 6",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "The poem 'The Truth' is written by Barrie Wade.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2025"
+          ],
+          "fixed": true
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "According to the poet, sticks and stones can hurt us emotionally.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2025"
+          ],
+          "fixed": true
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "Unkind words can cause long-lasting emotional pain.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2025"
+          ],
+          "fixed": true
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "The poet says words are ghosts that haunt us.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "fixed": true
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "Cuts and bruises leave a scar on the heart forever.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "fixed": true
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "The lines 'Words can confer strength…' are from the Atharva Veda.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2023"
+          ],
+          "fixed": true
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Read the passage and fill in the blanks.",
+      "marks": "3 × 1 = 3",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "Sticks and stones may break my ________.",
+          "answer": "bones",
+          "years": [
+            "October 2022"
+          ]
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Stones and sticks break only ________.",
+          "answer": "skin",
+          "years": [
+            "October 2022"
+          ]
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "Words are ________ that haunt me.",
+          "answer": "ghosts",
+          "years": [
+            "October 2022"
+          ]
+        }
+      ],
+      "passage": "Sticks and stones may break my bones\nBut words can also hurt me.\nStones and sticks break only skin\nWhile words are ghosts that haunt me."
+    },
+    {
+      "no": 3,
+      "title": "Read the passage and fill in the blanks.",
+      "marks": "3 × 1 = 3",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "Pain from words has left its ________.",
+          "answer": "scar"
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "The scar is on the mind and heart that are ________.",
+          "answer": "tender"
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "Cuts and bruises have healed, but the poet remembers the ________.",
+          "answer": "words"
+        }
+      ],
+      "passage": "Pain from words has left its scar\nOn mind and heart that's tender.\nCuts and bruises now have healed;\nIt's words that I remember."
+    },
+    {
+      "no": 4,
+      "title": "Complete the following sentences.",
+      "marks": "3 × 1 = 3",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "Slant and curved the word ________ fall.",
+          "answer": "swords"
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "Bats and bricks may ache through bones, but words can ________ me.",
+          "answer": "mortify"
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "The Atharva Veda advises us to make our words sweet, soft and ________.",
+          "answer": "pleasant"
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Answer in one or two sentences (about 30 words).",
+      "marks": "5 × 2 = 10",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "How is the mental pain inflicted on us different from the physical pain?",
+          "answer": "Physical pain from sticks and stones affects only the skin and bones and heals in time, but mental pain from words haunts us and leaves a lasting scar on the mind and heart.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "Why are words referred to as ghosts in the poem 'The Truth'?",
+          "answer": "Because hurtful words keep coming back to the mind again and again and haunt us long after they are spoken, like ghosts.",
+          "years": [
+            "October 2024",
+            "April 2024"
+          ]
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "What does 'But words can mortify me' mean?",
+          "answer": "It means that unkind words can hurt and humiliate us deeply.",
+          "years": [
+            "April 2016"
+          ]
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "Why are words compared to swords?",
+          "answer": "Harsh words pierce and stick inside us like sharp, curved swords, causing deep inner wounds."
+        },
+        {
+          "id": "5.5",
+          "type": "open",
+          "q": "What damage does the poet describe in 'The Truth'?",
+          "answer": "Sticks, stones, bats and bricks break skin and bones, but words haunt, pierce and mortify, leaving scars on the tender mind and heart.",
+          "years": [
+            "October 2021"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 6,
+      "title": "Answer in about 40 words.",
+      "marks": "1 × 3 = 3",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "6.1",
+          "type": "open",
+          "q": "What is the central idea of the poem 'The Truth'?",
+          "answer": "Physical injuries from sticks and stones heal, but words can hurt more deeply and for longer; they haunt us like ghosts, pierce like swords and leave scars on the mind and heart. So we should be careful about what we say and use kind, pleasant words.",
+          "or": {
+            "q": "How does the poet change the old saying 'Sticks and stones may break my bones'?",
+            "answer": "The usual saying ends 'but words will never hurt me'. The poet changes it to 'But words can also hurt me', showing that words hurt even more than physical blows because their pain lasts long after cuts and bruises have healed."
+          }
+        }
+      ]
+    }
+  ]
+}

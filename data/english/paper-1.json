@@ -1,0 +1,1019 @@
+{
+  "subject": "english",
+  "lesson": 901,
+  "title": "Model Question Paper 1",
+  "meta": "Time: 3 hours · Maximum marks: 100 · Modelled on the April 2026 NIOS paper",
+  "instructions": [
+    "There are 35 questions in two parts. All questions are compulsory; where there is an OR, answer one.",
+    "Part A (questions 1–16) and questions 24–28: objective questions of 1 mark each.",
+    "Questions 17–20, 23 and 30–35: 2 marks each, up to 30 words. Question 29: 3 marks, up to 40 words. Question 22: 4 marks, about 100 words. Question 21: 6 marks, 150–200 words.",
+    "Literature questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "PART A · Section A: Reading. Answer in ONE word.",
+      "marks": "3 × 1 = 3",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "open",
+          "q": "What kind of water can we drink?",
+          "answer": "Fresh (water)"
+        },
+        {
+          "id": "1.2",
+          "type": "open",
+          "q": "What becomes the only hope when wells dry up?",
+          "answer": "Tankers"
+        },
+        {
+          "id": "1.3",
+          "type": "open",
+          "q": "Where should rainwater from rooftops be sent back?",
+          "answer": "(Into the) ground"
+        }
+      ],
+      "passage": "Water covers most of our planet, yet only a tiny part of it is fresh water that we can drink. Rivers, lakes and underground water are shared by people, animals and plants. In many Indian towns, women and children still walk long distances every morning to fetch a few pots of water. During summer the wells dry up and tankers become the only hope.\nMuch of this shortage is caused by our own carelessness. Taps are left running, pipes leak for weeks and rainwater simply flows away into drains. Factories pour waste into rivers and make the water unfit for use. Farmers often grow crops that need a great deal of water even in dry regions.\nThe good news is that simple steps can make a big difference. Rainwater harvesting allows us to collect the rain from rooftops and send it back into the ground. Repairing leaks, closing taps while brushing and reusing the water used for washing vegetables to water plants can save hundreds of litres every week. If every family saves a little, the whole community will have enough."
+    },
+    {
+      "no": 2,
+      "title": "Choose the correct option (from the passage above).",
+      "marks": "1 × 1 = 1",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "mcq",
+          "q": "Choose a word from the passage which means 'lack of enough':",
+          "options": [
+            "harvesting",
+            "shortage",
+            "carelessness",
+            "community"
+          ],
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Based on the passage above, write True or False.",
+      "marks": "3 × 1 = 3",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "mcq",
+          "q": "Most of the water on our planet is fresh water.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "fixed": true
+        },
+        {
+          "id": "3.2",
+          "type": "mcq",
+          "q": "Leaking pipes and running taps waste water.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "fixed": true
+        },
+        {
+          "id": "3.3",
+          "type": "mcq",
+          "q": "Water used for washing vegetables can be reused to water plants.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "fixed": true
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Section B: Writing (notice). Answer the questions with reference to the context.",
+      "marks": "4 × 1 = 4",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "mcq",
+          "q": "The notice must begin with —",
+          "options": [
+            "the name of the school and the word NOTICE",
+            "a poem on science",
+            "the list of models",
+            "the principal's signature"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "4.2",
+          "type": "mcq",
+          "q": "Which title suits the notice best?",
+          "options": [
+            "Sports Day",
+            "Science Exhibition",
+            "Annual Fees",
+            "Picnic"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "4.3",
+          "type": "mcq",
+          "q": "Which detail is NOT needed in this notice?",
+          "options": [
+            "the date and venue",
+            "the last date for giving names",
+            "the Head Boy's home address",
+            "whom to contact"
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "4.4",
+          "type": "mcq",
+          "q": "A notice should be written in about —",
+          "options": [
+            "50 words",
+            "300 words",
+            "500 words",
+            "1000 words"
+          ],
+          "answer": "A"
+        }
+      ],
+      "passage": "You are Arjun, Head Boy of Green Valley School. Write a notice informing students about a Science Exhibition to be held in the school auditorium on 15 August. Students who wish to display models must give their names by 5 August."
+    },
+    {
+      "no": 5,
+      "title": "Section B: Writing (article). Answer the questions with reference to the context.",
+      "marks": "4 × 1 = 4",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "mcq",
+          "q": "Which is the most suitable order of ideas for the article?",
+          "options": [
+            "Introduction, Harmful effects, Solutions, Conclusion",
+            "Conclusion, Solutions, Introduction, Effects",
+            "Solutions, Introduction, Conclusion, Effects",
+            "Effects, Conclusion, Introduction, Solutions"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "5.2",
+          "type": "mcq",
+          "q": "Which title suits the article best?",
+          "options": [
+            "Say No to Plastic",
+            "All is Well",
+            "Slow and Steady",
+            "Eat, Sleep, Repeat"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "5.3",
+          "type": "mcq",
+          "q": "Which point should NOT appear in the article?",
+          "options": [
+            "Plastic chokes drains",
+            "Animals swallow plastic bags",
+            "Cloth bags are a good choice",
+            "The price of gold in the market"
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "5.4",
+          "type": "mcq",
+          "q": "The by-line of the article will be —",
+          "options": [
+            "Plastic: A Threat",
+            "By Neha",
+            "Thank you",
+            "Dear readers"
+          ],
+          "answer": "B"
+        }
+      ],
+      "passage": "You are Neha. Write an article on 'Plastic: A Threat to Our Environment', explaining the harm caused by plastic and suggesting ways to reduce its use."
+    },
+    {
+      "no": 6,
+      "title": "Section B: Writing (letter). Answer the questions with reference to the context.",
+      "marks": "5 × 1 = 5",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "6.1",
+          "type": "mcq",
+          "q": "This letter is a/an —",
+          "options": [
+            "formal letter",
+            "informal letter",
+            "business letter",
+            "letter to the editor"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "6.2",
+          "type": "mcq",
+          "q": "The correct salutation is —",
+          "options": [
+            "Dear Sir",
+            "My dear Riya",
+            "Respected Madam",
+            "To whom it may concern"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "6.3",
+          "type": "mcq",
+          "q": "The letter should focus on —",
+          "options": [
+            "benefits of exercise and healthy eating",
+            "the latest films",
+            "prices of vegetables",
+            "Rohan's office work"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "6.4",
+          "type": "mcq",
+          "q": "Which should be left out of the letter?",
+          "options": [
+            "morning walks",
+            "fruits and vegetables",
+            "junk food habits",
+            "the stock market"
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "6.5",
+          "type": "mcq",
+          "q": "Which proverb suits this letter?",
+          "options": [
+            "Health is wealth",
+            "Too many cooks spoil the broth",
+            "All that glitters is not gold",
+            "A bird in hand"
+          ],
+          "answer": "A"
+        }
+      ],
+      "passage": "You are Rohan. Write a letter to your younger sister advising her to take regular exercise and eat healthy food."
+    },
+    {
+      "no": 7,
+      "title": "Section C: Grammar. Choose the correct option to complete the note.",
+      "marks": "3 × 1 = 3",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "7.1",
+          "type": "mcq",
+          "q": "(i)",
+          "options": [
+            "are",
+            "is",
+            "were",
+            "be"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "7.2",
+          "type": "mcq",
+          "q": "(ii)",
+          "options": [
+            "is",
+            "are",
+            "have",
+            "were"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "7.3",
+          "type": "mcq",
+          "q": "(iii)",
+          "options": [
+            "is",
+            "was",
+            "are",
+            "has"
+          ],
+          "answer": "C"
+        }
+      ],
+      "passage": "Honesty (i) ______ the best policy. An honest person (ii) ______ trusted by everyone, and people (iii) ______ always ready to help him."
+    },
+    {
+      "no": 8,
+      "title": "Fill in the blanks with the correct form of the verbs given in brackets.",
+      "marks": "3 × 1 = 3",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "8.1",
+          "type": "open",
+          "q": "(i) go",
+          "answer": "went"
+        },
+        {
+          "id": "8.2",
+          "type": "open",
+          "q": "(ii) see",
+          "answer": "saw"
+        },
+        {
+          "id": "8.3",
+          "type": "open",
+          "q": "(iii) talk",
+          "answer": "has been talking"
+        }
+      ],
+      "passage": "Last Sunday Meena (i) ______ (go) to the zoo with her parents. She (ii) ______ (see) a white tiger for the first time. Since then she (iii) ______ (talk) about it every day."
+    },
+    {
+      "no": 9,
+      "title": "Choose the correct option to fill in the blanks.",
+      "marks": "3 × 1 = 3",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "9.1",
+          "type": "mcq",
+          "q": "______ (Can/May) you lift this heavy box?",
+          "options": [
+            "Can",
+            "May"
+          ],
+          "answer": "A",
+          "fixed": true
+        },
+        {
+          "id": "9.2",
+          "type": "mcq",
+          "q": "You are coming with us, ______ (aren't/don't) you?",
+          "options": [
+            "aren't",
+            "don't"
+          ],
+          "answer": "A",
+          "fixed": true
+        },
+        {
+          "id": "9.3",
+          "type": "mcq",
+          "q": "She ______ (has lived/is living) here since 2015.",
+          "options": [
+            "has lived",
+            "is living"
+          ],
+          "answer": "A",
+          "fixed": true
+        }
+      ]
+    },
+    {
+      "no": 10,
+      "title": "Fill in the blanks with the correct prepositions.",
+      "marks": "4 × 1 = 4",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "10.1",
+          "type": "open",
+          "q": "The cat is hiding ______ the bed.",
+          "answer": "under"
+        },
+        {
+          "id": "10.2",
+          "type": "open",
+          "q": "We will meet ______ 5 o'clock.",
+          "answer": "at"
+        },
+        {
+          "id": "10.3",
+          "type": "open",
+          "q": "He was born ______ 2010.",
+          "answer": "in"
+        },
+        {
+          "id": "10.4",
+          "type": "open",
+          "q": "She divided the sweets ______ the two children.",
+          "answer": "between"
+        }
+      ]
+    },
+    {
+      "no": 11,
+      "title": "Fill in the blanks with the correct conjunctions.",
+      "marks": "2 × 1 = 2",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "11.1",
+          "type": "open",
+          "q": "He was tired, ______ he kept working.",
+          "answer": "but (yet)"
+        },
+        {
+          "id": "11.2",
+          "type": "open",
+          "q": "Wait here ______ I come back.",
+          "answer": "until (till)"
+        }
+      ]
+    },
+    {
+      "no": 12,
+      "title": "Section D: Literature. Identify the sentences as True or False (A Prayer for Healing).",
+      "marks": "3 × 1 = 3",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "12.1",
+          "type": "mcq",
+          "q": "The poem 'A Prayer For Healing' is about saving life on earth.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2026"
+          ],
+          "fixed": true
+        },
+        {
+          "id": "12.2",
+          "type": "mcq",
+          "q": "Earth is a home only for humans.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2026"
+          ],
+          "fixed": true
+        },
+        {
+          "id": "12.3",
+          "type": "mcq",
+          "q": "Healing of earth renews life.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2026"
+          ],
+          "fixed": true
+        }
+      ]
+    },
+    {
+      "no": 13,
+      "title": "Identify the sentences as True or False (A Birthday Letter).",
+      "marks": "3 × 1 = 3",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "13.1",
+          "type": "mcq",
+          "q": "Indira wrote a letter to her father on his birthday.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2026"
+          ],
+          "fixed": true
+        },
+        {
+          "id": "13.2",
+          "type": "mcq",
+          "q": "Nehru, her father, was in prison.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2026"
+          ],
+          "fixed": true
+        },
+        {
+          "id": "13.3",
+          "type": "mcq",
+          "q": "Bapuji's message did not have any effect on Indians.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2026"
+          ],
+          "fixed": true
+        }
+      ]
+    },
+    {
+      "no": 14,
+      "title": "Match the characters with the story.",
+      "marks": "3 × 1 = 3",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "14.1",
+          "type": "match",
+          "left": "Verghese Kurien",
+          "right": "Co-operate and Prosper",
+          "answer": "Verghese Kurien — Co-operate and Prosper"
+        },
+        {
+          "id": "14.2",
+          "type": "match",
+          "left": "Jijabai",
+          "right": "The Return of the Lion",
+          "answer": "Jijabai — The Return of the Lion"
+        },
+        {
+          "id": "14.3",
+          "type": "match",
+          "left": "Raja",
+          "right": "Snake Bite",
+          "answer": "Raja — Snake Bite"
+        }
+      ]
+    },
+    {
+      "no": 15,
+      "title": "Read the passage and fill in the blanks (A Tiger Comes to Town (I)).",
+      "marks": "3 × 1 = 3",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "15.1",
+          "type": "open",
+          "q": "All doors and windows everywhere were shut, ________ and sealed.",
+          "answer": "bolted",
+          "years": [
+            "April 2026",
+            "October 2019",
+            "October 2017"
+          ]
+        },
+        {
+          "id": "15.2",
+          "type": "open",
+          "q": "Some thought the tiger might pass through the ________.",
+          "answer": "walls",
+          "years": [
+            "April 2026",
+            "October 2019",
+            "October 2017"
+          ]
+        },
+        {
+          "id": "15.3",
+          "type": "open",
+          "q": "A simple tiger has no interest in them, either to ________ or to safeguard.",
+          "answer": "destroy",
+          "years": [
+            "April 2026",
+            "October 2019",
+            "October 2017"
+          ]
+        }
+      ],
+      "passage": "Sheer hopelessness seemed to have seized the townspeople. They withdrew into their homes and even there remained nervous. All doors and windows everywhere were shut, bolted and sealed. Some even thought that I was some extraordinary creature who might pass through the walls and lie in wait on the roof or in the basement. Why should an ordinary, simple tiger have any interest in them, either to destroy or to safeguard?"
+    },
+    {
+      "no": 16,
+      "title": "Complete the following sentences (Ustad Bismillah Khan).",
+      "marks": "3 × 1 = 3",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "16.1",
+          "type": "open",
+          "q": "Khan received India's highest civilian award, the ________, in 2001.",
+          "answer": "Bharat Ratna",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "16.2",
+          "type": "open",
+          "q": "Khan started learning to play the shehnai from his ________.",
+          "answer": "maternal uncle, Ali Baksh",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "16.3",
+          "type": "open",
+          "q": "His favourite mode of transport was the ________.",
+          "answer": "cycle rickshaw",
+          "years": [
+            "April 2026"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 17,
+      "title": "PART B · Section A: Reading. Find words from the passage.",
+      "marks": "1 × 2 = 2",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "17.1",
+          "type": "open",
+          "q": "Find words from the passage that mean: (a) not enough (b) surprised",
+          "answer": "(a) scarce (b) amazed"
+        }
+      ],
+      "passage": "Every year thousands of migratory birds travel to India from cold countries such as Siberia and Central Asia. When winter covers their homes with ice and snow, food becomes scarce, so they fly thousands of kilometres to warmer lands. Wetlands like Bharatpur in Rajasthan and Chilika Lake in Odisha become lively with flamingos, cranes, ducks and pelicans.\nScientists are still amazed at how these birds find their way. They seem to use the position of the sun and stars, the earth's magnetic field and familiar landmarks such as rivers and mountains. Many of them fly in a V-shape, which saves energy because each bird is helped by the air moving off the wings of the bird ahead.\nSadly, these visitors face many dangers. Wetlands are being drained for buildings and farms, lakes are polluted, and some birds are hunted illegally. Power lines and tall towers also cause deaths. Protecting wetlands and creating awareness among local people can ensure that our winged guests keep returning every year."
+    },
+    {
+      "no": 18,
+      "title": "Answer the question (passage above).",
+      "marks": "1 × 2 = 2",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "18.1",
+          "type": "open",
+          "q": "Why do migratory birds come to India every year?",
+          "answer": "Winter covers their homes in cold countries like Siberia with ice and snow and food becomes scarce, so they fly to warmer lands like India."
+        }
+      ]
+    },
+    {
+      "no": 19,
+      "title": "Answer the question (passage above).",
+      "marks": "1 × 2 = 2",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "19.1",
+          "type": "open",
+          "q": "How do migratory birds find their way?",
+          "answer": "They seem to use the position of the sun and stars, the earth's magnetic field and landmarks such as rivers and mountains."
+        }
+      ]
+    },
+    {
+      "no": 20,
+      "title": "Answer the question (passage above).",
+      "marks": "1 × 2 = 2",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "20.1",
+          "type": "open",
+          "q": "What dangers do migratory birds face?",
+          "answer": "Wetlands are drained for buildings and farms, lakes are polluted, some birds are hunted illegally, and power lines and towers cause deaths."
+        }
+      ]
+    },
+    {
+      "no": 21,
+      "title": "Section B: Writing. Answer in 150–200 words.",
+      "marks": "1 × 6 = 6",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "21.1",
+          "type": "open",
+          "q": "You are Aman of Class X. Write an article (150–200 words) for your school magazine on 'The Importance of Reading Books'. Use these clues: knowledge and imagination — vocabulary and language — good habits and values — books as friends — reducing screen time — libraries.",
+          "answer": "Points for a good answer: title and by-line; introduction (books open the world to us); body — books increase knowledge and imagination, improve vocabulary and language, teach values through stories and lives of great people, are faithful friends that relax and comfort us, and offer a healthy break from mobile screens; suggest reading daily, visiting libraries and sharing books; conclusion (make reading a lifelong habit). Write in 3–4 paragraphs within 150–200 words.",
+          "or": {
+            "q": "You are Kavya of Class X. Write a report (150–200 words) for your school magazine on the Tree Plantation Drive organised by your school's Eco Club.",
+            "answer": "Points: heading, by-line, date and place; who organised it and when; chief guest; number and kinds of saplings planted; participation of students, teachers and parents; slogans and awareness talk on the importance of trees; promise to look after the plants; conclusion on the success of the drive. Use the past tense and passive voice where suitable."
+          }
+        }
+      ]
+    },
+    {
+      "no": 22,
+      "title": "Answer in about 100 words.",
+      "marks": "1 × 4 = 4",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "22.1",
+          "type": "open",
+          "q": "You are Priya of 24, Lake Road, Bhopal. Write a letter (about 100 words) to the Editor of a national daily about the poor condition of roads in your area.",
+          "answer": "Format: sender's address, date, The Editor, newspaper name and address, subject (Poor condition of roads in Lake Road area), salutation 'Sir/Madam'. Body: potholes and broken roads; accidents and traffic jams; problems in the rainy season; request to the authorities through the newspaper to repair the roads quickly. Closing 'Yours faithfully, Priya'.",
+          "or": {
+            "q": "You are Sameer. Write an email (about 100 words) to your friend inviting him to your sister's wedding.",
+            "answer": "Include: To, Subject (Invitation to my sister's wedding); greeting; date, time and venue; how much you want him to come; any arrangements (stay, travel); closing with your name. Keep it friendly and informal."
+          }
+        }
+      ]
+    },
+    {
+      "no": 23,
+      "title": "Write the message (about 40 words).",
+      "marks": "1 × 2 = 2",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "23.1",
+          "type": "open",
+          "q": "Read the conversation:\nMr Sharma: Hello, is Dr Mehta there?\nReceptionist: He is with a patient. Can I take a message?\nMr Sharma: Please tell him that my son's test reports are ready and I will bring them tomorrow at 10 a.m. If the time is not convenient, he may call me at 98765 43210.\nReceptionist: I'll tell him.\nAs the receptionist, write a message for Dr Mehta (about 40 words).",
+          "answer": "Message — date and time; To: Dr Mehta. Mr Sharma called to say that his son's test reports are ready. He will bring them tomorrow at 10 a.m. If this time is not convenient, please call him on 98765 43210. — Receptionist"
+        }
+      ]
+    },
+    {
+      "no": 24,
+      "title": "Section C: Grammar. Change into reported speech.",
+      "marks": "3 × 1 = 3",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "24.1",
+          "type": "open",
+          "q": "Rahul said, \"I am very busy today.\"",
+          "answer": "Rahul said that he was very busy that day."
+        },
+        {
+          "id": "24.2",
+          "type": "open",
+          "q": "The teacher said to us, \"Open your books.\"",
+          "answer": "The teacher told us to open our books."
+        },
+        {
+          "id": "24.3",
+          "type": "open",
+          "q": "She asked me, \"Where do you live?\"",
+          "answer": "She asked me where I lived."
+        }
+      ]
+    },
+    {
+      "no": 25,
+      "title": "Fill in the blanks with appropriate prepositions.",
+      "marks": "2 × 1 = 2",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "25.1",
+          "type": "open",
+          "q": "The plane flew ______ the clouds.",
+          "answer": "above (over)"
+        },
+        {
+          "id": "25.2",
+          "type": "open",
+          "q": "He jumped ______ the river.",
+          "answer": "into"
+        }
+      ]
+    },
+    {
+      "no": 26,
+      "title": "Complete the dialogue with suitable words.",
+      "marks": "2 × 1 = 2",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "26.1",
+          "type": "open",
+          "q": "(i)",
+          "answer": "can"
+        },
+        {
+          "id": "26.2",
+          "type": "open",
+          "q": "(ii)",
+          "answer": "is"
+        }
+      ],
+      "passage": "Shopkeeper: Good morning! What (i) ______ I do for you?\nCustomer: I want a pen. How much (ii) ______ this one?"
+    },
+    {
+      "no": 27,
+      "title": "Fill in the blanks with the correct form of the verbs.",
+      "marks": "4 × 1 = 4",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "27.1",
+          "type": "open",
+          "q": "The children ______ (play) in the park now.",
+          "answer": "are playing"
+        },
+        {
+          "id": "27.2",
+          "type": "open",
+          "q": "She ______ (write) a letter yesterday.",
+          "answer": "wrote"
+        },
+        {
+          "id": "27.3",
+          "type": "open",
+          "q": "We ______ (finish) our homework already.",
+          "answer": "have finished"
+        },
+        {
+          "id": "27.4",
+          "type": "open",
+          "q": "The sun ______ (rise) in the east.",
+          "answer": "rises"
+        }
+      ]
+    },
+    {
+      "no": 28,
+      "title": "Complete the sentences using proper conjunctions.",
+      "marks": "4 × 1 = 4",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "28.1",
+          "type": "open",
+          "q": "I like tea ______ my brother likes coffee.",
+          "answer": "but (while)"
+        },
+        {
+          "id": "28.2",
+          "type": "open",
+          "q": "Work hard ______ you will fail.",
+          "answer": "or (otherwise)"
+        },
+        {
+          "id": "28.3",
+          "type": "open",
+          "q": "He could not come ______ he was ill.",
+          "answer": "because (as)"
+        },
+        {
+          "id": "28.4",
+          "type": "open",
+          "q": "Neither Ram ______ Shyam was present.",
+          "answer": "nor"
+        }
+      ]
+    },
+    {
+      "no": 29,
+      "title": "Section D: Literature. Answer in about 40 words.",
+      "marks": "1 × 3 = 3",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "29.1",
+          "type": "open",
+          "q": "How did the old man treat the boy for snake bite? (Snake Bite)",
+          "answer": "He made Raja sit still on Grandfather's lap, took water in a small brass vessel and recited mantras. After a few minutes he washed Raja's finger, gave him water to drink and asked him to keep quiet. Then he declared that Raja was out of danger.",
+          "years": [
+            "April 2026",
+            "October 2022"
+          ],
+          "or": {
+            "q": "What was the 'magic cure' that the grey-haired old man performed on Raja? Was it really a cure?",
+            "answer": "He recited mantras over water in a brass vessel, then washed Raja's finger and gave him water to drink. It was not a real cure — Raja had only been stung by a bee and the pain had already stopped; the 'cure' was superstition."
+          }
+        }
+      ]
+    },
+    {
+      "no": 30,
+      "title": "Answer in one or two sentences (about 30 words).",
+      "marks": "1 × 2 = 2",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "30.1",
+          "type": "open",
+          "q": "How is the mental pain inflicted on us different from the physical pain? (The Truth)",
+          "answer": "Physical pain from sticks and stones affects only the skin and bones and heals in time, but mental pain from words haunts us and leaves a lasting scar on the mind and heart.",
+          "years": [
+            "April 2026"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 31,
+      "title": "Answer in one or two sentences (about 30 words).",
+      "marks": "1 × 2 = 2",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "31.1",
+          "type": "open",
+          "q": "How did Salim surprise his master? (The Last Stone Mason)",
+          "answer": "While the old man lay unconscious, Salim carved the face of the statue himself. He had secretly been practising sculpture in the quarry for two years.",
+          "years": [
+            "April 2026"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 32,
+      "title": "Answer in one or two sentences (about 30 words).",
+      "marks": "1 × 2 = 2",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "32.1",
+          "type": "open",
+          "q": "How did the third sadhu surprise Jijabai? (The Return of the Lion)",
+          "answer": "He did not speak or bless her; when she said he might curse her instead, he fell at her feet, and she recognised him as her son Shivaji in disguise.",
+          "years": [
+            "April 2026"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 33,
+      "title": "Answer in one or two sentences (about 30 words).",
+      "marks": "1 × 2 = 2",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "33.1",
+          "type": "open",
+          "q": "Why did Gandhiji and his relative decide to commit suicide? (Stealing and Atonement)",
+          "answer": "They were upset by their lack of independence — they could not do anything without their elders' permission — so in sheer disgust they decided to commit suicide.",
+          "years": [
+            "April 2026"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 34,
+      "title": "Answer in one or two sentences (about 30 words).",
+      "marks": "1 × 2 = 2",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "34.1",
+          "type": "open",
+          "q": "Why did Kondiba take to begging even though he hated it? (Kondiba — A Hero)",
+          "answer": "The famine drove him to Mumbai in search of bread. He tried selling brooms but had little luck, and he found that Mumbai was generous to blind beggars, so he had to beg to survive.",
+          "years": [
+            "April 2025",
+            "April 2024"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 35,
+      "title": "Answer in one or two sentences (about 30 words).",
+      "marks": "1 × 2 = 2",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "35.1",
+          "type": "open",
+          "q": "For whom do the weavers weave at break of day and in the moonlight chill? (Indian Weavers)",
+          "answer": "At break of day they weave robes for a new-born child; in the moonlight chill they weave a funeral shroud for a dead man.",
+          "years": [
+            "April 2026"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "lesson": 24,
+  "title": "Co-operate and Prosper",
+  "kind": "Biographical prose",
+  "author": "",
+  "summary": [
+    "## About the lesson",
+    "India is one of the largest milk producers, yet in the past the cattle farmers stayed poor. This lesson tells how Sardar Vallabhbhai Patel, Tribhuvandas Patel and Dr Verghese Kurien organised the farmers of Gujarat into a co-operative — the Amul Dairy — which changed their lives and led to the White Revolution.",
+    "## Sardar Patel's dream",
+    "The people of Gujarat were mostly farmers who reared cattle but remained poor despite hard work. Their plight moved the heart of the 'Iron Man of India', Sardar Vallabhbhai Patel, a freedom fighter and the first Deputy Prime Minister. He was determined to bring prosperity into their lives by organising them into a co-operative force and giving them a steady source of income. He assigned this task to Mr Tribhuvandas Patel, who united the disorganised farmers and started a co-operative dairy unit. This eliminated the middlemen who harassed and exploited the ignorant farmers. But it was hard to compete with a British dairy in Mumbai.",
+    "## Dr Verghese Kurien",
+    "'Kind providence' brought a young, energetic engineer trained in America to the dairy research institute at Anand — Verghese Kurien. Born in Calicut on 26 November 1921, he studied physics and mechanical engineering (Madras), and earned an M.S. with distinction in the USA on a scholarship; he was also good at cricket, tennis and boxing. He joined the Government Dairy at Anand as a dairy engineer, but the job was not challenging, so he agreed to help Tribhuvandas Patel set up a milk processing plant. Thus Amul was born.",
+    "He developed Amul into the largest co-operative dairy in India; poor milk producers were protected from exploitation and learnt co-operation and marketing skills. He distributed half the profits to the producers as dividend, improving the rural economy — 'The woman who owns a buffalo celebrates Diwali every day.' He made India the largest milk producer in the world, set up the National Dairy Development Board (NDDB) and designed 'Operation Flood'. He is called the 'Architect of the Modern Dairy Industry' and the 'Father of the White Revolution'. He received the Padma Shri, Padma Bhushan and the Ramon Magsaysay Award for community leadership. He 'kept the wolf from the doors' of farmers (saved them from poverty).",
+    "## Message",
+    "Co-operation brings prosperity; self-governance and working together protect people from exploitation; good leadership and dedicated individuals can transform society. Amul's mascot is the longest-running advertising mascot, with lines like 'Utterly Butterly Delicious'."
+  ],
+  "tf": [
+    ["The farmers of Gujarat were rich before the co-operative was formed.", false],
+    ["Sardar Patel assigned the task of organising the farmers to Tribhuvandas Patel.", true],
+    ["The co-operative eliminated the middlemen who exploited the farmers.", true],
+    ["Dr Kurien was born in Anand.", false, null, {"note": "He was born in Calicut on 26 November 1921."}],
+    ["Dr Kurien is called the 'Father of the White Revolution'.", true],
+    ["Dr Kurien received the Ramon Magsaysay Award for community leadership.", true]
+  ],
+  "characters": [
+    ["Verghese Kurien", "the 'Father of the White Revolution'"],
+    ["Sardar Vallabhbhai Patel", "the 'Iron Man of India'"],
+    ["Tribhuvandas Patel", "organised the farmers into a co-operative dairy"]
+  ],
+  "extracts": [
+    {"passage": "When he returned to India, he joined the Government Dairy at Anand in Gujarat as a Dairy Engineer. But he felt it was not a challenging job for him. So he agreed to help Mr. Tribhuvandas Patel in setting up a milk processing plant. This was how the Amul Dairy came into existence in Gujarat.",
+     "items": [["When Dr Kurien returned to India he joined the Government Dairy at ________.", "Anand"], ["He felt the job was not ________ enough.", "challenging"], ["He agreed to help Mr Tribhuvandas Patel set up a ________.", "milk processing plant"]],
+     "years": ["April 2024"]},
+    {"passage": "He was determined to bring prosperity into their lives. So, he decided to organise them into a co-operative force and provide them with a steady source of income. This task was assigned to Mr. Tribhuvandas Patel.",
+     "items": [["Sardar Patel was determined to bring ________ into the farmers' lives.", "prosperity"], ["He decided to organise them into a ________ force.", "co-operative"], ["He wanted to give them a ________ source of income.", "steady"]],
+     "years": ["October 2021"]}
+  ],
+  "complete": [
+    ["Dr Kurien was born in ________ on 26 November 1921.", "Calicut"],
+    ["Dr Kurien made India the largest ________ producer of the world.", "milk", ["October 2019"]],
+    ["Dr Kurien established the NDDB and designed '________'.", "Operation Flood"],
+    ["Sardar Vallabhbhai Patel is known as the ________ of India.", "Iron Man"]
+  ],
+  "sa2": [
+    ["What is Dr Kurien rightly called?", "He is rightly called the 'Architect of the Modern Dairy Industry' and the 'Father of the White Revolution'.", ["April 2025"]],
+    ["What task was assigned to Mr Tribhuvandas Patel?", "Sardar Patel asked him to unite the poor, disorganised cattle farmers of Gujarat into a co-operative and start a co-operative dairy unit.", ["October 2024"]],
+    ["What did Sardar Vallabhbhai Patel determine to bring into the lives of the farmers of Gujarat and why?", "He was determined to bring prosperity, because the farmers worked hard rearing cattle but remained poor and were exploited by middlemen.", ["April 2024"]],
+    ["Why did Dr Kurien give up his government job?", "He felt that the job at the Government Dairy at Anand was not challenging enough, so he agreed to help Tribhuvandas Patel set up a milk processing plant.", ["April 2021"]],
+    ["How did the co-operative help the farmers?", "It eliminated the middlemen who exploited them, gave them a steady income and half the profits as dividend, and taught them co-operation and marketing skills."]
+  ],
+  "sa3": [
+    ["What moved the heart of the Iron Man of India, Sardar Vallabhbhai Patel? What did he do?", "The poor plight of the cattle farmers of Gujarat, who worked hard but remained poor and were exploited by middlemen, moved his heart. He decided to organise them into a co-operative to give them a steady income, and assigned the task to Tribhuvandas Patel, which led to the Amul Dairy.", ["April 2026"], {"or": ["Who were the three people involved in uplifting the cattle farmers? What were their contributions?", "Sardar Vallabhbhai Patel dreamt of the farmers' prosperity and planned the co-operative. Tribhuvandas Patel united the farmers and started the co-operative dairy, removing middlemen. Dr Verghese Kurien set up the processing plant, built Amul into India's largest co-operative dairy, founded NDDB and Operation Flood and made India the largest milk producer."]}],
+    ["Write a short note on Dr Verghese Kurien's achievements.", "He helped set up Amul and developed it into India's largest co-operative dairy, protecting milk producers from exploitation and giving them half the profits. He founded the National Dairy Development Board, designed Operation Flood and made India the world's largest milk producer. He received the Padma Shri, Padma Bhushan and the Ramon Magsaysay Award, and is called the Father of the White Revolution."]
+  ]
+}

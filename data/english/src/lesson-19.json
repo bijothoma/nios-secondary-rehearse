@@ -1,0 +1,49 @@
+{
+  "lesson": 19,
+  "title": "A Prayer for Healing",
+  "kind": "Poem",
+  "author": "",
+  "summary": [
+    "## About the poem",
+    "Since ancient times people have prayed to the sun, moon, earth, wind, water, plants and animals because they knew how important nature is. The earth is our only home, but we have not taken good care of it. 'A Prayer for Healing' is an appeal to all people around the globe to make a collective effort to heal the earth and renew all life.",
+    "## The prayer",
+    "Each stanza begins with the refrain 'We join with the earth and with each other' — we unite with nature and with all people.",
+    "Stanza 1: to bring new life to the land, restore the waters and refresh the air (clean the polluted land, water and air). Stanza 2: to renew the forests, care for the plants and protect the creatures (stop cutting trees, protect plants and animals). Stanza 3: to celebrate the seas, rejoice in the sunlight and sing the song of the stars (enjoy and be grateful for nature's gifts). Stanza 4: to recreate the human community, promote justice and peace and remember our children (build a fair, peaceful society and keep the earth safe for future generations). Stanza 5: we join together as many and diverse expressions of 'one loving mystery' — all people and creatures are part of one creation — for the healing of the earth and the renewal of all life.",
+    "## Theme and style",
+    "Environmental protection; unity of humans and nature; collective responsibility; concern for future generations. The earth is home not only to humans but to all creatures. Devices: the refrain (repeated line) gives the poem the feel of a prayer or song; parallel phrases with 'To…' (to restore, to refresh, to renew…); free verse."
+  ],
+  "tf": [
+    ["The poem 'A Prayer For Healing' is about saving life on earth.", true, ["April 2026"]],
+    ["Earth is a home only for humans.", false, ["April 2026"]],
+    ["Healing of earth renews life.", true, ["April 2026"]],
+    ["The refrain of the poem is 'We join with the earth and with each other'.", true],
+    ["The poet asks us to cut down forests to build more homes.", false],
+    ["The poet wants us to promote justice and peace.", true, ["April 2021"]]
+  ],
+  "characters": [
+    ["The speaker ('we')", "all people joining together to heal the earth"]
+  ],
+  "extracts": [
+    {"passage": "We join with the earth and with each other\nTo bring new life to the land\nTo restore the waters\nTo refresh the air",
+     "items": [["We join with the earth and with each ________.", "other"], ["We bring new life to the ________.", "land"], ["We restore the waters and refresh the ________.", "air"]],
+     "years": ["October 2019"]},
+    {"passage": "We join with the earth and with each other\nTo renew the forests\nTo care for the plants\nTo protect the creatures",
+     "items": [["We join together to renew the ________.", "forests"], ["We care for the ________.", "plants"], ["We protect the ________.", "creatures"]]}
+  ],
+  "complete": [
+    ["We must bring new life to the land by not polluting the ________.", "water and air (land)", ["April 2025"]],
+    ["We must not cut down ________.", "trees (forests)", ["April 2025"]],
+    ["We must work together for ________.", "the healing of the earth", ["April 2025"]],
+    ["To recreate the human community, we must promote justice and ________.", "peace"]
+  ],
+  "sa2": [
+    ["What should humans do to make the world a better place to live in?", "They should join with the earth and each other to clean the land, water and air, renew forests, protect plants and creatures, and promote justice and peace.", ["April 2024"]],
+    ["What must we do if we want fresh air and water in the future?", "We must stop polluting, restore the waters, refresh the air and renew the forests by working together to heal the earth.", ["October 2024"]],
+    ["What does the poet want us to do to water, air and plants?", "To restore the waters, refresh the air and care for the plants.", ["April 2022"]],
+    ["What is the refrain in the poem and why is it used?", "'We join with the earth and with each other.' It is repeated at the start of every stanza to stress unity and collective effort and to give the poem the rhythm of a prayer."],
+    ["What does 'to remember our children' mean in the poem?", "It means we must protect the earth for future generations so that our children inherit a healthy, peaceful world."]
+  ],
+  "sa3": [
+    ["What is the central idea of 'A Prayer for Healing'?", "The earth is our only home and we have harmed it. The poem is an appeal to all people to join together with the earth and with each other to clean the land, water and air, renew forests, protect creatures, enjoy nature's gifts and promote justice and peace, so that the earth is healed and all life renewed for our children.", null, {"or": ["Why is the poem called a 'prayer'?", "Like a prayer it is said together by many people, with a repeated refrain and a humble, hopeful tone. It asks for the healing of the earth and the renewal of all life, and calls all people, as parts of 'one loving mystery', to work together."]}]
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "lesson": 13,
+  "title": "The Last Stone Mason",
+  "kind": "Story",
+  "author": "Sigrun Srivastava (adapted)",
+  "summary": [
+    "## About the story",
+    "Our traditional arts and crafts are dying because they do not pay well and young artisans prefer mass production. This story of an old stone mason (sculptor), his son Gopal and his servant boy Salim shows the conflict between tradition and money, and how true art comes from deep inside a person.",
+    "## The quarrel",
+    "Gopal throws down his hammer and chisel and tells his father he is leaving him and his work: 'Look what it has brought us — nothing!' — a small, congested dark room, slabs of stone in a corner, a cot heaped with used clothes, peeling whitewash. 'This kind of work just doesn't pay.' The father gently replies, 'It is not the money alone that matters, son. It is the service, our service to God.' Gopal says times have changed; he must mass produce candle stands, paper-weights, ashtrays and plates for tourists in Agra, where there is more money. The father had hoped Gopal would continue the family tradition kept up for hundreds of years. Gopal walks out angrily.",
+    "## The old man and Salim",
+    "The old man sits before the half-finished marble statue of Radha and Krishna and prays. Salim, the orphaned servant boy, brings him tea. The old man says he will soon be 'the last stone mason' here, as everyone has gone to Agra; he has little strength but must finish the statue. He works for days without rest until his hands tremble, his shoulders ache and his eyes fail. He tells Salim that even if Gopal were there it would have been different, though Gopal was not a good sculptor — he had difficulty carving faces and hands; 'something' was missing in his fingers that cannot be taught. Salim says, 'Because it comes from somewhere deep inside you.' Praying for strength and for his son, the old man works into the night until he faints.",
+    "## The surprise",
+    "He wakes on his cot and hears the chisel at work. Thinking Gopal has returned, he walks to the door — and sees Salim carving the face of the statue. Anger gives way to admiration: 'Hai Ram.' Salim confesses he has been practising secretly in the quarry for almost two years and asks to be taught. The old man hugs him: 'There is nothing I can teach you, my son… you have it in your heart. I know you will be one of the best stone masons India will ever have.'",
+    "## Themes",
+    "Tradition versus money and mass production; dedication to one's art as a service to God; true talent and passion come from within and cannot be taught; an urge to learn helps master a skill; art has no barriers of birth or religion (Salim, an orphan servant, becomes the heir of the craft); communication and understanding in families."
+  ],
+  "tf": [
+    ["Gopal left his father because the work did not pay enough.", true, ["April 2021"]],
+    ["The old man wanted to move to Agra and make ashtrays.", false],
+    ["The old man was carving a statue of Radha and Krishna.", true],
+    ["Gopal was very good at carving faces and hands.", false],
+    ["Salim had been practising secretly in the quarry for almost two years.", true],
+    ["The old man was angry with Salim and sent him away.", false]
+  ],
+  "characters": [
+    ["Salim", "the orphaned servant boy who completed the statue"],
+    ["Gopal", "the son who left for Agra to mass produce"],
+    ["The old stone mason", "carved temple statues as a service to God"]
+  ],
+  "extracts": [
+    {"passage": "When the old man opened his eyes he found himself on the cot in his bedroom covered by a light cotton blanket. From the workshop the chipping around of the chisel reached his ears. He listened. Had he heard correctly? He could hear it again, strong blow of the hammer on the top of a chisel. Gopal! He was back.",
+     "items": [["When the old man opened his eyes he found himself on the ________ in his bedroom.", "cot"], ["He thought that his son Gopal ________.", "had come back"], ["He heard the strong blows of the hammer on the top of a ________.", "chisel"]],
+     "years": ["October 2024"]},
+    {"passage": "The old man stared at his son. His voice, though trembling, had not lost its usual gentleness. \"It is not the money alone that matters, son. It is the service, our service to God.\"",
+     "items": [["The old man's voice was trembling but had not lost its usual ________.", "gentleness"], ["He said that it is not the ________ alone that matters.", "money"], ["For him the work was a service to ________.", "God"]]}
+  ],
+  "complete": [
+    ["Gopal wanted to go to ________ to mass produce items for tourists.", "Agra"],
+    ["Gopal had difficulty in carving the ________ and hands properly.", "face"],
+    ["Salim brought the old man a cup of ________.", "tea"],
+    ["The old man said Salim would be one of the best ________ India would ever have.", "stone masons"]
+  ],
+  "sa2": [
+    ["How did Salim surprise his master?", "While the old man lay unconscious, Salim carved the face of the statue himself. He had secretly been practising sculpture in the quarry for two years.", ["April 2026"]],
+    ["Why was Gopal not considered a good sculptor?", "He had difficulty carving the face and hands properly; something was missing in his fingers — the inner gift that cannot be taught.", ["April 2025"]],
+    ["Why did Gopal leave his father?", "He felt the work did not pay; they lived in poverty, and he wanted to earn more money by mass producing ashtrays and paper-weights for tourists in Agra.", ["April 2021"]],
+    ["Why did the old man call himself 'the last stone mason'?", "All the other stone masons, and even his son Gopal, had gone to Agra for mass production, so he was the only one left carving statues the traditional way."],
+    ["What did the old man mean by 'There is nothing I can teach you'?", "He saw that Salim already had the true gift of sculpture in his heart; the skill that comes from deep inside cannot be taught."]
+  ],
+  "sa3": [
+    ["What was the son's opinion about his father's work, and how did it differ from his father's view?", "Gopal thought the work was useless because it did not pay and had brought them only poverty; he wanted to mass produce goods for tourists. His father believed money alone did not matter — carving statues for temples was a service to God and a family tradition of hundreds of years.", ["October 2025"], {"or": ["Describe the character of the old stone mason.", "He was a dedicated, devout artist who saw his work as service to God. He was gentle even with his angry son, proud of his family tradition, hardworking — working till he fainted — and generous in recognising Salim's talent, calling him his son."]}],
+    ["How does the story show that true art comes from within?", "Gopal, the sculptor's own son, lacked the inner gift and could not carve faces and hands well. Salim, an orphaned servant, had a deep love for the art, practised secretly for two years and carved the statue's face so well that the old man said he could teach him nothing. Talent and passion come from the heart, not from birth."]
+  ]
+}

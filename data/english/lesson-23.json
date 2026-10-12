@@ -1,0 +1,287 @@
+{
+  "subject": "english",
+  "lesson": 23,
+  "title": "The Return of the Lion",
+  "author": null,
+  "meta": "Play · Literature practice set",
+  "instructions": [
+    "Literature practice for this lesson in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Identify the following sentences as True or False.",
+      "marks": "6 × 1 = 6",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "Jijabai believed that the letter about Shivaji's death was true.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "fixed": true
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "The letter about Shivaji's death came from Agra.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "fixed": true
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "Jijabai ordered the pay and rations of the soldiers to be raised.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "fixed": true
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "The third sadhu blessed Jijabai loudly.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "fixed": true
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "The third sadhu was Shivaji in disguise.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "fixed": true
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "Shivaji left his son Sambhaji in prison at Agra.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "note": "Sambhaji was safe with friends.",
+          "fixed": true
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Match the character (or speaker) with the description.",
+      "marks": "5 × 1 = 5",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "match",
+          "left": "Jijabai",
+          "right": "Shivaji's mother and Regent",
+          "answer": "Jijabai — Shivaji's mother and Regent"
+        },
+        {
+          "id": "2.2",
+          "type": "match",
+          "left": "Ram Das",
+          "right": "a poet, Shivaji's teacher and companion",
+          "answer": "Ram Das — a poet, Shivaji's teacher and companion"
+        },
+        {
+          "id": "2.3",
+          "type": "match",
+          "left": "Soyabai",
+          "right": "Shivaji's wife and Sambhaji's mother",
+          "answer": "Soyabai — Shivaji's wife and Sambhaji's mother"
+        },
+        {
+          "id": "2.4",
+          "type": "match",
+          "left": "Sachiv",
+          "right": "the secretary of Shivaji's court",
+          "answer": "Sachiv — the secretary of Shivaji's court"
+        },
+        {
+          "id": "2.5",
+          "type": "match",
+          "left": "Mantri",
+          "right": "Shivaji's chronicler",
+          "answer": "Mantri — Shivaji's chronicler"
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Read the passage and fill in the blanks.",
+      "marks": "3 × 1 = 3",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "Jijabai says that the letter is a ________.",
+          "answer": "hoax"
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "The letter has come from ________.",
+          "answer": "Agra"
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "Jijabai says that Aurangzeb never told the ________.",
+          "answer": "truth"
+        }
+      ],
+      "passage": "Jijabai : I can't believe that my son is dead. The letter is a hoax.\nRam Das : But the letter is from Agra.\nJijabai : And therefore it is a hoax. When did Aurangzeb ever tell the truth? Did he not make false promises to my son?"
+    },
+    {
+      "no": 4,
+      "title": "Read the passage and fill in the blanks.",
+      "marks": "3 × 1 = 3",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "The attendant thinks the holy men have heard of Jijabai's ________.",
+          "answer": "charity"
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "Their arms and faces are painted grey with ________.",
+          "answer": "ashes"
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "Jijabai lets them in because she needs their ________.",
+          "answer": "blessings"
+        }
+      ],
+      "passage": "Attendant : Perhaps they have come to beg from you. They must have heard of your charity. They are poor men in rags. Their heads are shaven and their arms and faces are painted grey with ashes.\nJijabai : They are holy men, and they have come from a far-off place. I cannot say no to them. I need their blessings. Let them come in."
+    },
+    {
+      "no": 5,
+      "title": "Complete the following sentences.",
+      "marks": "4 × 1 = 4",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "The play is set in the fort of ________ near Poona.",
+          "answer": "Rajgarh"
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "Jijabai would pray to their family goddess, ________.",
+          "answer": "Bhawani"
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "The first sadhu said that the third sadhu had taken a vow of ________.",
+          "answer": "silence"
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "Shivaji said he had escaped from the fox's den and the vulture's ________.",
+          "answer": "claws"
+        }
+      ]
+    },
+    {
+      "no": 6,
+      "title": "Answer in one or two sentences (about 30 words).",
+      "marks": "5 × 2 = 10",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "6.1",
+          "type": "open",
+          "q": "How did the third sadhu surprise Jijabai?",
+          "answer": "He did not speak or bless her; when she said he might curse her instead, he fell at her feet, and she recognised him as her son Shivaji in disguise.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "6.2",
+          "type": "open",
+          "q": "Why did Jijabai refuse to believe that her son was dead?",
+          "answer": "The letter came from Agra, and Aurangzeb had never told the truth and had made false promises before; she also had deep faith that her brave son would return.",
+          "years": [
+            "October 2025",
+            "April 2021"
+          ]
+        },
+        {
+          "id": "6.3",
+          "type": "open",
+          "q": "What message did the attendant give Rani Jijabai?",
+          "answer": "He told her that three holy men (bairagi sadhus) from the north were at the gate and wanted to see her.",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "6.4",
+          "type": "open",
+          "q": "What orders did Jijabai give the Mantri to keep the soldiers happy?",
+          "answer": "To raise their pay and rations, send useful gifts to their wives and sweets and toys to their children at her expense, and tell them the Raja was at Varanasi and would soon return."
+        },
+        {
+          "id": "6.5",
+          "type": "open",
+          "q": "Why did Shivaji return to Rajgarh disguised as a sadhu?",
+          "answer": "He had escaped from Aurangzeb's prison, so he disguised himself as a poor sadhu to travel safely without being recognised by enemies.",
+          "years": [
+            "October 2021"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 7,
+      "title": "Answer in about 40 words.",
+      "marks": "1 × 3 = 3",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "7.1",
+          "type": "open",
+          "q": "What qualities of a good leader does Jijabai show in the play?",
+          "answer": "She stays calm and firm and refuses to spread panic about the false letter. She wisely keeps the soldiers loyal by raising pay and rations and sending gifts to their families from her own purse, and she spreads hope that the Raja will return. She is kind to the poor and holy men and full of faith and love for her son.",
+          "or": {
+            "q": "What did Jijabai do when she received the so-called news of Shivaji's death?",
+            "answer": "She declared the letter a hoax and forbade people to speak of it. She ordered the Mantri to raise the soldiers' pay and rations, send gifts to their families and tell them the Raja was at Varanasi, and she asked everyone to help her live till her son returned."
+          }
+        }
+      ]
+    }
+  ]
+}

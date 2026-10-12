@@ -1,0 +1,55 @@
+{
+  "lesson": 9,
+  "title": "Nine Gold Medals",
+  "kind": "Poem",
+  "author": "David Roth",
+  "summary": [
+    "## About the poem",
+    "In this poem David Roth describes a hundred-yard race at the Special Olympics. When the smallest runner falls, the other eight turn back to help him, and all nine finish together holding hands. The poem shows that human values such as empathy, cooperation and kindness are more important than winning.",
+    "## Stanza by stanza",
+    "Athletes have come from all over the country to run for gold, silver and bronze after many weeks and months of training. Spectators gather around the old field to cheer the young men and women; the final event of the day — the hundred-yard dash — is approaching, and excitement grows.",
+    "Nine determined ('resolved') athletes stand behind the starting line, poised for the sound of the gun. The pistol explodes and the runners charge ahead, but the smallest among them stumbles, staggers and falls to the asphalt. He cries out in frustration and anguish; his dreams and efforts are 'dashed in the dirt'.",
+    "Then something wonderful happens: the eight other runners, who had trained so long to compete, pull up on their heels, turn around one by one, go back and bring the young boy to his feet. All nine join hands and continue; the dash becomes a walk. The banner above saying 'Special Olympics' could not have been 'more on the mark' (more fitting).",
+    "The race ends with nine gold medals: they reach the finish line still holding hands, to a standing ovation, and their nine beaming faces 'said more than these words ever will'.",
+    "## Message and devices",
+    "Winning is not everything; compassion, sharing and togetherness make everyone a winner. Sport teaches cooperation as well as competition. The title shows that all nine deserved gold for their humanity. Devices: alliteration ('stumbled and staggered'), metaphor ('dreams… dashed in the dirt'), word pairs ('frustration and anguish'), and a narrative, conversational style.",
+    "Special Olympics is an international organisation, founded by Eunice Shriver, that helps people with intellectual disabilities build confidence and social skills through sport."
+  ],
+  "tf": [
+    ["The athletes came from all over the country.", true, ["April 2024"]],
+    ["When the smallest athlete fell, none of the others even looked at him.", false, ["April 2024"]],
+    ["The hundred-yard race had eight winners.", false, ["April 2024"]],
+    ["The eight other runners turned around and went back to help the fallen boy.", true, ["April 2024"]],
+    ["The runners finished the race holding hands.", true],
+    ["The spectators were silent at the end of the race.", false, null, {"note": "They gave a standing ovation."}]
+  ],
+  "characters": [
+    ["The smallest runner", "stumbled and fell to the asphalt"],
+    ["The eight other runners", "turned back to help the fallen boy"],
+    ["The spectators", "gave a standing ovation"]
+  ],
+  "extracts": [
+    {"passage": "The signal was given, the pistol exploded\nAnd so did the runners all charging ahead\nBut the smallest among them, he stumbled and staggered\nAnd fell to the asphalt instead.",
+     "items": [["The race began when the ________ exploded.", "pistol"], ["The smallest runner stumbled and ________.", "staggered"], ["He fell to the ________.", "asphalt"]],
+     "years": ["April 2021"]},
+    {"passage": "That's how the race ended, with nine gold medals\nThey came to the finish line holding hands still\nAnd a standing ovation and nine beaming faces\nSaid more than these words ever will.",
+     "items": [["The race ended with nine ________ medals.", "gold"], ["They came to the finish line holding ________.", "hands"], ["The audience gave them a standing ________.", "ovation"]]}
+  ],
+  "complete": [
+    ["The final event of the day was the ________ dash.", "hundred-yard", ["April 2025"]],
+    ["There were ________ resolved athletes behind the starting line.", "nine"],
+    ["The banner above said ________.", "Special Olympics"],
+    ["The poem 'Nine Gold Medals' was written by ________.", "David Roth"]
+  ],
+  "sa2": [
+    ["How did the race in the poem 'Nine Gold Medals' end?", "All nine runners joined hands and walked to the finish line together. They all got gold medals and received a standing ovation.", ["April 2024"]],
+    ["The nine athletes were lined up to run which race?", "They were lined up for the hundred-yard dash, the final event of the day.", ["April 2025"]],
+    ["What made the eight runners suddenly stop?", "The smallest runner stumbled and fell to the asphalt. Seeing him cry out in frustration, the eight others stopped, turned back and helped him up.", ["April 2016"]],
+    ["Why did the authorities award gold medals to all nine athletes?", "All nine crossed the finish line together, holding hands, after the eight had helped the fallen runner; their kindness made them all winners.", ["October 2017"]],
+    ["How did the spectators react when all nine reached the finishing line?", "They gave the runners a standing ovation, and the nine faces were beaming with joy.", ["October 2022"]],
+    ["What message do we get from the poem 'Nine Gold Medals'?", "Human values such as empathy, cooperation and helping others are more important than winning; when we help each other, everyone wins.", ["October 2019"]]
+  ],
+  "sa3": [
+    ["Explain the significance of the title 'Nine Gold Medals'.", "Only one runner normally wins gold in a race, but here all nine finished together after the eight turned back to help the fallen boy. Each deserved gold for kindness and sportsmanship, so the title shows that compassion made all of them winners.", null, {"or": ["How did the hundred-yard race end with nine gold medals?", "The smallest runner fell; the other eight stopped, went back and helped him to his feet. Then all nine joined hands and walked to the finish line together, so all of them were given gold medals amid a standing ovation."]}]
+  ]
+}

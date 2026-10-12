@@ -1,0 +1,289 @@
+{
+  "subject": "english",
+  "lesson": 13,
+  "title": "The Last Stone Mason",
+  "author": "Sigrun Srivastava (adapted)",
+  "meta": "Story · Literature practice set",
+  "instructions": [
+    "Literature practice for this lesson in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Identify the following sentences as True or False.",
+      "marks": "6 × 1 = 6",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "Gopal left his father because the work did not pay enough.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2021"
+          ],
+          "fixed": true
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "The old man wanted to move to Agra and make ashtrays.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "fixed": true
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "The old man was carving a statue of Radha and Krishna.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "fixed": true
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "Gopal was very good at carving faces and hands.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "fixed": true
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "Salim had been practising secretly in the quarry for almost two years.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "fixed": true
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "The old man was angry with Salim and sent him away.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "fixed": true
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Match the character (or speaker) with the description.",
+      "marks": "3 × 1 = 3",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "match",
+          "left": "Salim",
+          "right": "the orphaned servant boy who completed the statue",
+          "answer": "Salim — the orphaned servant boy who completed the statue"
+        },
+        {
+          "id": "2.2",
+          "type": "match",
+          "left": "Gopal",
+          "right": "the son who left for Agra to mass produce",
+          "answer": "Gopal — the son who left for Agra to mass produce"
+        },
+        {
+          "id": "2.3",
+          "type": "match",
+          "left": "The old stone mason",
+          "right": "carved temple statues as a service to God",
+          "answer": "The old stone mason — carved temple statues as a service to God"
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Read the passage and fill in the blanks.",
+      "marks": "3 × 1 = 3",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "When the old man opened his eyes he found himself on the ________ in his bedroom.",
+          "answer": "cot",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "He thought that his son Gopal ________.",
+          "answer": "had come back",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "He heard the strong blows of the hammer on the top of a ________.",
+          "answer": "chisel",
+          "years": [
+            "October 2024"
+          ]
+        }
+      ],
+      "passage": "When the old man opened his eyes he found himself on the cot in his bedroom covered by a light cotton blanket. From the workshop the chipping around of the chisel reached his ears. He listened. Had he heard correctly? He could hear it again, strong blow of the hammer on the top of a chisel. Gopal! He was back."
+    },
+    {
+      "no": 4,
+      "title": "Read the passage and fill in the blanks.",
+      "marks": "3 × 1 = 3",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "The old man's voice was trembling but had not lost its usual ________.",
+          "answer": "gentleness"
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "He said that it is not the ________ alone that matters.",
+          "answer": "money"
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "For him the work was a service to ________.",
+          "answer": "God"
+        }
+      ],
+      "passage": "The old man stared at his son. His voice, though trembling, had not lost its usual gentleness. \"It is not the money alone that matters, son. It is the service, our service to God.\""
+    },
+    {
+      "no": 5,
+      "title": "Complete the following sentences.",
+      "marks": "4 × 1 = 4",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "Gopal wanted to go to ________ to mass produce items for tourists.",
+          "answer": "Agra"
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "Gopal had difficulty in carving the ________ and hands properly.",
+          "answer": "face"
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "Salim brought the old man a cup of ________.",
+          "answer": "tea"
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "The old man said Salim would be one of the best ________ India would ever have.",
+          "answer": "stone masons"
+        }
+      ]
+    },
+    {
+      "no": 6,
+      "title": "Answer in one or two sentences (about 30 words).",
+      "marks": "5 × 2 = 10",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "6.1",
+          "type": "open",
+          "q": "How did Salim surprise his master?",
+          "answer": "While the old man lay unconscious, Salim carved the face of the statue himself. He had secretly been practising sculpture in the quarry for two years.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "6.2",
+          "type": "open",
+          "q": "Why was Gopal not considered a good sculptor?",
+          "answer": "He had difficulty carving the face and hands properly; something was missing in his fingers — the inner gift that cannot be taught.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "6.3",
+          "type": "open",
+          "q": "Why did Gopal leave his father?",
+          "answer": "He felt the work did not pay; they lived in poverty, and he wanted to earn more money by mass producing ashtrays and paper-weights for tourists in Agra.",
+          "years": [
+            "April 2021"
+          ]
+        },
+        {
+          "id": "6.4",
+          "type": "open",
+          "q": "Why did the old man call himself 'the last stone mason'?",
+          "answer": "All the other stone masons, and even his son Gopal, had gone to Agra for mass production, so he was the only one left carving statues the traditional way."
+        },
+        {
+          "id": "6.5",
+          "type": "open",
+          "q": "What did the old man mean by 'There is nothing I can teach you'?",
+          "answer": "He saw that Salim already had the true gift of sculpture in his heart; the skill that comes from deep inside cannot be taught."
+        }
+      ]
+    },
+    {
+      "no": 7,
+      "title": "Answer in about 40 words.",
+      "marks": "2 × 3 = 6",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "7.1",
+          "type": "open",
+          "q": "What was the son's opinion about his father's work, and how did it differ from his father's view?",
+          "answer": "Gopal thought the work was useless because it did not pay and had brought them only poverty; he wanted to mass produce goods for tourists. His father believed money alone did not matter — carving statues for temples was a service to God and a family tradition of hundreds of years.",
+          "years": [
+            "October 2025"
+          ],
+          "or": {
+            "q": "Describe the character of the old stone mason.",
+            "answer": "He was a dedicated, devout artist who saw his work as service to God. He was gentle even with his angry son, proud of his family tradition, hardworking — working till he fainted — and generous in recognising Salim's talent, calling him his son."
+          }
+        },
+        {
+          "id": "7.2",
+          "type": "open",
+          "q": "How does the story show that true art comes from within?",
+          "answer": "Gopal, the sculptor's own son, lacked the inner gift and could not carve faces and hands well. Salim, an orphaned servant, had a deep love for the art, practised secretly for two years and carved the statue's face so well that the old man said he could teach him nothing. Talent and passion come from the heart, not from birth."
+        }
+      ]
+    }
+  ]
+}

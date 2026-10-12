@@ -1,0 +1,57 @@
+{
+  "lesson": 27,
+  "title": "The Parrot Who Wouldn't Talk",
+  "kind": "Story",
+  "author": "Ruskin Bond",
+  "summary": [
+    "## About the story",
+    "This humorous story by Ruskin Bond is told by a ten-year-old boy. His Aunt Ruby buys a parrot (parakeet) and tries to teach it to talk, but the bird dislikes her and refuses. In the end it does learn to talk — repeating Aunt Ruby's own rude words back to her. The story shows that pets need proper care and kindness, and that rudeness comes back to us.",
+    "## Aunt Ruby and the parrot",
+    "In those days almost everyone, Indian or European, kept a pet parrot or parakeet ('lovebird'). Some became great talkers or mimics, repeating mantras or advice such as 'Padho beta, padho!' or, for boys like the narrator, 'Don't be greedy!'. Aunt Ruby bought the parrot from a bird-catcher who sold caged birds door to door — budgerigars, munnias and even common sparrows dabbed with paint and passed off as exotic. Granny and Grandfather were not keen on caged birds, but Aunt Ruby threatened a tantrum, and her tantrums were 'dreadful to behold'.",
+    "The bird took an instant dislike to her and resisted all her sweet talk. When she cooed 'Kiss, kiss!', it backed away angrily, and once it lunged and knocked her spectacles off her nose. Then she became hostile, making faces and taunting it: 'You're no beauty! Can't talk, can't sing, can't dance!'",
+    "## Freedom",
+    "The narrator fed the parrot green chillies, ripe tomatoes and mango slices (eating a few mangoes himself). One afternoon, while everyone was having a siesta, he deliberately left the cage door open, and the bird flew to the mango orchard. He told Grandfather 'The door was quite loose.' Aunt Ruby was upset; they promised her goldfish — 'But goldfish don't talk!' — 'Well, neither did your bird,' said Grandfather, offering her a gramophone to listen to Clara Cluck instead.",
+    "## The parrot talks",
+    "A few days later the parrot, probably missing its green chillies, came back to the veranda railing; the boy unselfishly shared his mango. Aunt Ruby rushed out, crying that it had come back because it missed her. The parrot flew to a rose bush and shrieked in her own voice: 'You're no beauty! Can't talk, can't sing, can't dance!' Aunt Ruby went ruby-red and dashed indoors. It became a frequent visitor and said this every time it saw her. 'The parrot had learnt to talk after all!'",
+    "## Themes and humour",
+    "Kindness to animals and the love of freedom; caged birds suffer; we reap what we sow — Aunt Ruby's taunts came back to her. Humour comes from irony (the parrot learns exactly the words meant to insult it), the name pun ('went ruby-red') and the boy's gentle mischief."
+  ],
+  "tf": [
+    ["Aunt Ruby's parrot was very fond of Aunt Ruby.", false, ["April 2025"]],
+    ["The narrator deliberately set the parrot free.", true, ["April 2025"]],
+    ["Aunt Ruby's parrot used to talk a lot to everyone.", false, ["April 2025"]],
+    ["Granny and Grandfather were keen on keeping caged birds.", false],
+    ["The parrot knocked Aunt Ruby's spectacles off her nose.", true],
+    ["In the end the parrot repeated Aunt Ruby's own words.", true]
+  ],
+  "characters": [
+    ["Aunt Ruby", "taunted the parrot: 'Can't talk, can't sing, can't dance!'"],
+    ["A bird-catcher", "sold caged birds from house to house"],
+    ["The narrator", "a ten-year-old boy who set the parrot free"],
+    ["Grandfather", "offered Aunt Ruby a gramophone instead of a bird"]
+  ],
+  "extracts": [
+    {"passage": "He'd been bought by Aunt Ruby from a bird-catcher who'd visited all the houses on our road, selling caged birds ranging from colourful budgerigars to chirpy little munnias and even common sparrows that had been dabbed with paint and passed off as some exotic species. Neither Granny nor Grandfather were keen on keeping caged birds as pets, but Aunt Ruby threatened to throw a tantrum if she did not get her way — and Aunt Ruby's tantrums were dreadful to behold!",
+     "items": [["The parrot was bought by ________ from a bird-catcher.", "Aunt Ruby"], ["Granny and Grandfather weren't keen on keeping ________ birds as pets.", "caged"], ["Aunt Ruby's tantrums were ________ to behold.", "dreadful"]],
+     "years": ["October 2025"]},
+    {"passage": "One afternoon, while everyone was indoors enjoying a siesta, I gave the parrot its lunch and then deliberately left the cage door open. Seconds later, the bird was winging its way to the freedom of the mango orchard.",
+     "items": [["Everyone was indoors enjoying a ________.", "siesta"], ["The narrator ________ left the cage door open.", "deliberately"], ["The bird flew to the freedom of the mango ________.", "orchard"]],
+     "years": ["October 2017"]}
+  ],
+  "complete": [
+    ["The narrator fed the parrot green ________ and ripe tomatoes.", "chillies"],
+    ["Aunt Ruby used to say, 'You're no ________!'", "beauty"],
+    ["Grandfather offered to get Aunt Ruby a ________.", "gramophone"],
+    ["When the parrot repeated her words, Aunt Ruby went ________.", "ruby-red"]
+  ],
+  "sa2": [
+    ["What happens when the parrot returns and sees Aunt Ruby?", "It flies out of her reach to a rose bush and shrieks in her own voice, 'You're no beauty! Can't talk, can't sing, can't dance!'", ["October 2025"]],
+    ["How did the parrot escape its cage?", "The narrator deliberately left the cage door open after feeding it while everyone was having a siesta, and it flew away to the mango orchard.", ["April 2023", "October 2017"]],
+    ["Why did the parrot back away from Aunt Ruby?", "It disliked her and did not want to be kissed by her when she cooed 'Kiss, kiss!'", ["October 2022"]],
+    ["What made Aunt Ruby go ruby-red?", "The parrot she had taunted repeated her own insulting words back to her: 'You're no beauty! Can't talk, can't sing, can't dance!'", ["April 2024"]],
+    ["Why did the parrot come back a few days later?", "It probably missed the green chillies (and mangoes) the narrator used to feed it."]
+  ],
+  "sa3": [
+    ["What pets did Indians and Europeans keep in those days and what were the specialities of the birds?", "Almost everyone kept a pet parrot, parakeet or 'lovebird'. Some became great talkers or mimics and learnt to recite whole mantras or advice to the children of the house, like 'Padho beta, padho!' or 'Don't be greedy!', picked up after many repetitions.", ["October 2024", "October 2019"], {"or": ["How did the parrot finally 'learn to talk'? What is ironic about it?", "Aunt Ruby kept taunting it, 'You're no beauty! Can't talk, can't sing, can't dance!' The parrot picked up these very words, and after its escape it shouted them at her whenever it saw her. The irony is that the only words it learnt were the insults meant for it, now turned against Aunt Ruby."]}]
+  ]
+}

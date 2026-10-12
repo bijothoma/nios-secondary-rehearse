@@ -1,0 +1,297 @@
+{
+  "subject": "english",
+  "lesson": 14,
+  "title": "Stealing and Atonement",
+  "author": "M.K. Gandhi (adapted from 'My Experiments with Truth')",
+  "meta": "Autobiography · Literature practice set",
+  "instructions": [
+    "Literature practice for this lesson in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Identify the following sentences as True or False.",
+      "marks": "6 × 1 = 6",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "Gandhiji's grandfather had the habit of smoking.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2025"
+          ],
+          "note": "It was his uncle.",
+          "fixed": true
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "Gandhiji and his relative stole coins from the servant's pocket money to buy cigarettes.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2025"
+          ],
+          "fixed": true
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "Gandhiji handed the confession to his mother.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2025"
+          ],
+          "fixed": true
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "The boys swallowed only two or three dhatura seeds.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "fixed": true
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "Gandhiji's father beat him after reading the confession.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "fixed": true
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "Gandhiji stole a bit of gold from his brother's armlet.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "fixed": true
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Match the character (or speaker) with the description.",
+      "marks": "3 × 1 = 3",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "match",
+          "left": "Gandhiji",
+          "right": "confessed his theft in writing to his father",
+          "answer": "Gandhiji — confessed his theft in writing to his father"
+        },
+        {
+          "id": "2.2",
+          "type": "match",
+          "left": "Gandhiji's father",
+          "right": "tore up the confession with tears of love",
+          "answer": "Gandhiji's father — tore up the confession with tears of love"
+        },
+        {
+          "id": "2.3",
+          "type": "match",
+          "left": "Gandhiji's uncle",
+          "right": "threw away the cigarette stubs the boys smoked",
+          "answer": "Gandhiji's uncle — threw away the cigarette stubs the boys smoked"
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Read the passage and fill in the blanks.",
+      "marks": "3 × 1 = 3",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "Their want of ________ began to upset them.",
+          "answer": "independence",
+          "years": [
+            "April 2021"
+          ]
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "They could not do anything without the permission of their ________.",
+          "answer": "elders",
+          "years": [
+            "April 2021"
+          ]
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "In sheer disgust they decided to commit ________.",
+          "answer": "suicide",
+          "years": [
+            "April 2021"
+          ]
+        }
+      ],
+      "passage": "But we were far from being satisfied with such things as these. Our want of independence began to upset us. It was unbearable that we should be unable to do anything without the permission of our elders. At last, in sheer disgust, we decided to commit suicide!"
+    },
+    {
+      "no": 4,
+      "title": "Read the passage and fill in the blanks.",
+      "marks": "3 × 1 = 3",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "Tears trickled down the father's ________.",
+          "answer": "cheeks"
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "After reading the note he ________ it up.",
+          "answer": "tore"
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "Gandhiji could see his father's ________.",
+          "answer": "agony"
+        }
+      ],
+      "passage": "He read it through, and tears trickled down his cheeks, wetting the paper. For a moment he closed his eyes in thought and then tore up the note. He had sat up to read it. He lay down again. I also cried. I could see my father's agony."
+    },
+    {
+      "no": 5,
+      "title": "Complete the following sentences.",
+      "marks": "4 × 1 = 4",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "Gandhiji and his relative began smoking by collecting the ________ of cigarettes thrown away by his uncle.",
+          "answer": "stubs",
+          "years": [
+            "October 2022"
+          ]
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "They heard that ________ seeds were an effective poison.",
+          "answer": "dhatura"
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "The boys went to ________ Mandir to compose themselves.",
+          "answer": "Ramji",
+          "years": [
+            "April 2016"
+          ]
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "Gandhiji later understood that his father's forgiveness was pure ________.",
+          "answer": "Ahimsa"
+        }
+      ]
+    },
+    {
+      "no": 6,
+      "title": "Answer in one or two sentences (about 30 words).",
+      "marks": "5 × 2 = 10",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "6.1",
+          "type": "open",
+          "q": "Why did Gandhiji and his relative decide to commit suicide?",
+          "answer": "They were upset by their lack of independence — they could not do anything without their elders' permission — so in sheer disgust they decided to commit suicide.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "6.2",
+          "type": "open",
+          "q": "Why did Gandhiji and his relative steal money from the servant's pocket money?",
+          "answer": "Cigarette stubs were not always available and gave little smoke, so they stole coins from the servant's pocket money to buy Indian cigarettes.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "6.3",
+          "type": "open",
+          "q": "How did the author and his relative become fond of smoking?",
+          "answer": "They imagined some pleasure in blowing out clouds of smoke and copied his uncle, who smoked, by collecting and smoking the stubs he threw away.",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "6.4",
+          "type": "open",
+          "q": "Why was Gandhiji afraid to confess to his father?",
+          "answer": "Not because he feared a beating — his father never beat them — but because he was afraid of the pain his confession would cause his father."
+        },
+        {
+          "id": "6.5",
+          "type": "open",
+          "q": "What did Gandhiji write in his confession?",
+          "answer": "He confessed his guilt, asked for adequate punishment, requested his father not to punish himself for the offence, and pledged never to steal again."
+        }
+      ]
+    },
+    {
+      "no": 7,
+      "title": "Answer in about 40 words.",
+      "marks": "1 × 3 = 3",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "7.1",
+          "type": "open",
+          "q": "How did Gandhiji's father react to his confession? What lesson did Gandhiji learn from it?",
+          "answer": "His father read the note, tears ran down his cheeks, he closed his eyes in thought and tore it up without a harsh word. Gandhiji learnt that a clean confession with a promise not to repeat the wrong is the purest repentance, and that love and forgiveness (Ahimsa) have unlimited power to change a person.",
+          "years": [
+            "April 2021",
+            "October 2025"
+          ],
+          "or": {
+            "q": "What lesson did Gandhiji learn from the suicide attempt?",
+            "answer": "When they swallowed a few dhatura seeds their courage failed and they went to Ramji Mandir to calm down. He realised it was not as easy to commit suicide as to think about it, and it is better to bear one's difficulties. The episode made them give up smoking stubs and stealing coppers."
+          }
+        }
+      ]
+    }
+  ]
+}

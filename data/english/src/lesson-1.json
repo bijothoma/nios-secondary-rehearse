@@ -1,0 +1,59 @@
+{
+  "lesson": 1,
+  "title": "Snake Bite",
+  "kind": "Story",
+  "author": "Shankar (from 'Life with Grandfather')",
+  "summary": [
+    "## About the story",
+    "Raja, the narrator, is an innocent, adventurous young boy who likes to meddle with creatures like snakes and bees. His grandparents care deeply about his safety. The story shows how a small misunderstanding grows because Raja is not allowed to speak, and how people put blind faith in untrained 'medicine men'.",
+    "## What happens",
+    "One day Raja sees a small snake in the compound. When it sees him, it hides in a coconut shell. Raja closes the mouth of the shell with a stone and proudly runs to Grandmother: 'Look, Grandma, I have caught a snake.' Grandmother is shocked and cries for help. Grandfather snatches the shell and throws it away; the snake crawls into the bushes. He warns Raja never to go near a snake, because snakes are very dangerous.",
+    "In the evening Raja tries to catch a bee and it stings his finger. He runs to Grandmother saying he has been 'bitten'. She thinks a snake has bitten him and calls Grandfather. Seeing a blue mark on the finger, Grandfather, without a word, picks Raja up and runs across the garden and paddy fields to the house of an old grey-haired man who is believed to cure snake bite.",
+    "The old man makes Raja sit still, takes water in a small brass vessel and recites mantras. Raja wants to say that it was a bee, not a snake, but Grandfather holds him tight and does not let him talk. Grandmother and other people arrive and watch sadly and silently. By now the pain has stopped, but Raja still has to sit and be 'cured'. Finally the old man washes the finger, gives Raja water to drink and announces, 'Thank God, you brought Raja in time. He is out of danger now. It was indeed a poisonous snake that bit him.' Everyone thanks him for the 'magic cure', and Grandfather sends him gifts.",
+    "## Themes and message",
+    "(1) Timely and effective communication is important — silence is not always good; if Raja had been allowed to speak, the confusion would have been avoided. (2) We should think critically about superstitions and blind faith in untrained medicine men; in an emergency we should get proper medical help. (3) Not all snakes are dangerous; animals act out of fear and should not be teased. (4) The grandparents' love and concern for Raja is touching, even though their reaction is based on a misunderstanding.",
+    "## Characters",
+    "Raja — the narrator, an innocent, curious boy. Grandmother — loving and easily alarmed; thinks the bee sting is a snake bite. Grandfather — caring and quick to act; carries Raja to the medicine man but does not let him speak. The old grey-haired man — the 'medicine man' who recites mantras and claims to have cured a snake bite."
+  ],
+  "tf": [
+    ["Raja caught a small snake in a coconut shell.", true],
+    ["Grandfather kept the snake as a pet.", false],
+    ["A bee stung Raja on his finger.", true],
+    ["Grandmother knew that it was only a bee sting.", false],
+    ["Grandfather did not allow Raja to speak at the old man's house.", true, ["April 2016"]],
+    ["The old man used modern medicines to treat Raja.", false],
+    ["Grandfather sent gifts to the old man.", true, ["April 2025"]]
+  ],
+  "characters": [
+    ["Raja", "the narrator, an adventurous boy"],
+    ["The old grey-haired man", "believed to cure snake bite with mantras"],
+    ["Grandfather", "carried Raja to the medicine man"],
+    ["Grandmother", "thought Raja had been bitten by a snake"]
+  ],
+  "extracts": [
+    {"passage": "Later in the evening, I tried to catch a bee and it stung me on my finger. I felt a sharp pain. I ran to grandmother and told her that I had been bitten and wanted her to do something to stop the pain. Grandmother thought that I had been bitten by a snake. She called out to Grandfather, \"Come and see what has happened to Raja.\"",
+     "items": [["Raja tried to catch a ________ in the evening.", "bee"], ["It stung him on his ________.", "finger"], ["Grandmother thought that he had been bitten by a ________.", "snake"]],
+     "years": ["April 2022"]},
+    {"passage": "The old man then took some water in a small brass vessel, sat in front of us and started reciting some mantras. I wanted to tell him that it was a bee and not a snake that had bitten me. But Grandfather held me tight and did not allow me to talk.",
+     "items": [["The old man took water in a small ________ vessel.", "brass"], ["He started reciting some ________.", "mantras"], ["Raja could not talk because Grandfather held him ________.", "tight"]]}
+  ],
+  "complete": [
+    ["Raja's grandparents are concerned about his ________.", "well-being and safety", ["October 2025"]],
+    ["Raja's ________ throws the shell away.", "Grandfather", ["October 2025"]],
+    ["Raja's grandfather advises him never to go near a ________ again.", "snake", ["October 2025"]],
+    ["The snake hid itself in a ________.", "coconut shell"],
+    ["Grandfather ran across the garden and through the ________ fields.", "paddy"]
+  ],
+  "sa2": [
+    ["What bit Raja and what did Grandmother think?", "A bee stung Raja on his finger. Grandmother thought that he had been bitten by a snake.", ["April 2025"]],
+    ["Why did Grandfather throw away the coconut shell?", "Raja had trapped a snake in it. Grandfather believed all snakes were very dangerous, so he snatched the shell and threw it away to protect Raja."],
+    ["Why could Raja not tell the old man that a bee had stung him?", "Grandfather held him tight and did not allow him to talk; the old man had also told him to sit still and keep quiet.", ["April 2016"]],
+    ["What did the old man say after the 'treatment'?", "He said, 'Thank God, you brought Raja in time. He is out of danger now. It was indeed a poisonous snake that bit him.'"],
+    ["Why did Grandfather send gifts to the old man?", "Grandfather believed that the old man had saved Raja from a poisonous snake bite by his 'magic cure', so he sent him gifts out of gratitude.", ["April 2025"]],
+    ["What lesson do we learn from the story 'Snake Bite'?", "We learn that timely communication is important and silence is not always good, and that we should not put blind faith in untrained medicine men but seek proper treatment.", ["October 2021"]]
+  ],
+  "sa3": [
+    ["How did the old man treat the boy for snake bite?", "He made Raja sit still on Grandfather's lap, took water in a small brass vessel and recited mantras. After a few minutes he washed Raja's finger, gave him water to drink and asked him to keep quiet. Then he declared that Raja was out of danger.", ["April 2026", "October 2022"], {"or": ["What was the 'magic cure' that the grey-haired old man performed on Raja? Was it really a cure?", "He recited mantras over water in a brass vessel, then washed Raja's finger and gave him water to drink. It was not a real cure — Raja had only been stung by a bee and the pain had already stopped; the 'cure' was superstition."]}],
+    ["Do you approve of Grandfather not letting Raja speak? Give reasons.", "No. If Raja had been allowed to speak, he could have explained that a bee, not a snake, had stung him. The family would have been spared fear and worry, and the old man's false 'cure' would have been exposed. Children should be listened to, especially in an emergency."]
+  ]
+}

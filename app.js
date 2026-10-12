@@ -250,7 +250,8 @@ function updateSummary() {
 }
 
 function renderSection(sec) {
-  var qs = shuffle(sec.questions);
+  // fixed: keep the printed order (e.g. blanks (i), (ii), (iii) of a passage).
+  var qs = sec.fixed ? sec.questions : shuffle(sec.questions);
   // Options for a "match" section are all the right-hand items of that section.
   var matchPool = sec.questions
     .filter(function (q) { return q.type === 'match'; })
@@ -259,6 +260,7 @@ function renderSection(sec) {
   return el('div', { 'class': 'section' },
     el('h2', {}, el('span', {}, sec.no + '. ' + sec.title), el('span', { 'class': 'marks' }, sec.marks)),
     sec.note ? el('p', { 'class': 'note' }, sec.note) : null,
+    sec.passage ? el('div', { 'class': 'passage' }, sec.passage) : null,
     qs.map(function (q, i) {
       var num = sec.no + '.' + (i + 1);
       if (q.type === 'mcq') {

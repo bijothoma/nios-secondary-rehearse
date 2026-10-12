@@ -1,0 +1,58 @@
+{
+  "lesson": 26,
+  "title": "Ustad Bismillah Khan",
+  "kind": "Biography",
+  "author": "",
+  "summary": [
+    "## About the lesson",
+    "This biographical text tells the life of Ustad Bismillah Khan, the shehnai maestro who played for more than eight decades and spread peace and love through music. It shows that hard work is the key to success and that music has no caste or boundaries.",
+    "## Early life",
+    "He received the Bharat Ratna in 2001, having earlier received the Padma Shri, Padma Bhushan and Padma Vibhushan — all four top civilian awards. He was born on 21 March 1916 in Dumraon, Bihar, the second son of Paigambar Khan and Mitthan. His ancestors were court musicians of the princely state of Bhojpur, and his father was a musician in the court of Maharaja Keshav Prasad Singh of Dumraon. He was named Qamaruddin (to rhyme with his elder brother Shamsuddin), but his grandfather Rasool Baksh Khan exclaimed 'Bismillah' on seeing him as a baby, and the name stuck.",
+    "## Learning the shehnai",
+    "At six he moved to Varanasi, where his maternal uncle Ali Baksh 'Vilayatu' was the official shehnai player at the Vishwanath Temple. Noticing his keenness, Ali Baksh took him under his tutelage. Bismillah followed his uncle all day to the temples and practised for hours — without play time, school or sometimes even meals. He attained perfection quickly; the flowing waters of the Ganga inspired him to improvise and invent ragas earlier thought beyond the range of the shehnai. He often played at the Vishwanath Temple and was a devotee of Saraswati, goddess of wisdom and arts.",
+    "## Fame and simplicity",
+    "He was almost single-handedly responsible for making the shehnai famous and bringing it into mainstream Indian classical music. His concert at the All India Music Conference in Calcutta (1937) brought the shehnai into the limelight. Despite fame he remained simple: he never collected wealth, lived humbly in Varanasi, and his favourite transport was the cycle rickshaw. He loved his city and motherland so much that he declined an offer of permanent citizenship of the USA. He believed music would survive even if the world perished, believed in Hindu-Muslim unity and often said, 'Music has no caste.'",
+    "He played at the Red Fort on the eve of Independence in 1947 and thereafter every 15 August after the Prime Minister's speech. He performed in Afghanistan, the USA, Canada, Bangladesh, Europe, Iran, Iraq, West Africa, Japan and Hong Kong. After his wife died he called his shehnai 'begum'. He died of a cardiac arrest on 21 August 2006 at the age of ninety; the Government declared a day of national mourning, and he was buried with his shehnai under a neem tree in Varanasi with a 21-gun salute from the Indian Army.",
+    "## Values",
+    "Dedication and hard practice; simplicity; love for the country; communal harmony through music."
+  ],
+  "tf": [
+    ["Bismillah Khan religiously practised the violin to attain perfection.", false, ["April 2024"]],
+    ["The waters of the Ganga inspired him to invent ragas beyond the range of the shehnai.", true, ["April 2024"]],
+    ["Bismillah Khan often played the shehnai at the Hanuman Temple.", false, ["April 2024"]],
+    ["The Vishwanath Temple is on the banks of the Ganga.", true, ["April 2024"]],
+    ["Bismillah Khan accepted permanent citizenship of the USA.", false],
+    ["He called his shehnai 'begum' after his wife died.", true]
+  ],
+  "characters": [
+    ["Ali Baksh", "Bismillah Khan's maternal uncle and teacher"],
+    ["Rasool Baksh Khan", "the grandfather who uttered 'Bismillah'"],
+    ["Bismillah Khan", "the shehnai maestro who received the Bharat Ratna"]
+  ],
+  "extracts": [
+    {"passage": "Despite the fame that he got, Bismillah Khan always remained simple. He never accumulated wealth and other material possessions. He lived in humble surroundings in the holy city of Varanasi. His favourite mode of transport was the cycle rickshaw.",
+     "items": [["Despite his fame Bismillah Khan always remained ________.", "simple"], ["He lived in humble surroundings in the holy city of ________.", "Varanasi"], ["His favourite mode of transport was the ________.", "cycle rickshaw"]],
+     "years": ["April 2016"]},
+    {"passage": "Bismillah Khan religiously practised the shehnai and attained perfection in a very short time. The flowing waters of the River Ganga inspired him to improvise and invent 'ragas' that were earlier considered to be beyond the range of shehnai. He often played the shehnai at the Vishwanath Temple on the banks of River Ganga.",
+     "items": [["Bismillah Khan attained perfection in a very ________ time.", "short"], ["The flowing waters of the River ________ inspired him.", "Ganga"], ["He often played at the ________ Temple.", "Vishwanath"]],
+     "years": ["April 2024"]}
+  ],
+  "complete": [
+    ["Khan received India's highest civilian award, the ________, in 2001.", "Bharat Ratna", ["April 2026"]],
+    ["Khan started learning to play the shehnai from his ________.", "maternal uncle, Ali Baksh", ["April 2026"]],
+    ["His favourite mode of transport was the ________.", "cycle rickshaw", ["April 2026"]],
+    ["Bismillah Khan was earlier named ________.", "Qamaruddin", ["October 2024"]],
+    ["When his ________ saw him as a baby, he uttered the word 'Bismillah'.", "grandfather (Rasool Baksh Khan)", ["October 2024"]],
+    ["His father was a musician in the court of ________ of Dumraon.", "Maharaja Keshav Prasad Singh", ["October 2024"]]
+  ],
+  "sa2": [
+    ["How did Bismillah Khan get his name?", "He was named Qamaruddin, but when his grandfather Rasool Baksh Khan saw him as a baby, he exclaimed 'Bismillah', and he came to be known as Bismillah Khan."],
+    ["How was Ali Baksh a source of inspiration for Bismillah Khan?", "Ali Baksh, the official shehnai player at the Vishwanath Temple, noticed his keenness and taught him; Bismillah followed him all day and practised for hours under his guidance.", ["October 2019"]],
+    ["What was the importance of the 1937 concert in Calcutta?", "His concert at the All India Music Conference in Calcutta brought the shehnai into the limelight and was hugely appreciated by music lovers."],
+    ["What honour did Bismillah Khan have on the eve of Independence?", "He played the shehnai at the Red Fort in Delhi on the eve of Independence in 1947, and afterwards every year on 15 August after the Prime Minister's speech."],
+    ["How was Bismillah Khan honoured at his death?", "The Government declared a day of national mourning, and he was buried with his shehnai under a neem tree in Varanasi with a 21-gun salute from the Indian Army."]
+  ],
+  "sa3": [
+    ["How do we know that Bismillah Khan remained simple even after becoming famous?", "He never accumulated wealth or material possessions, lived in humble surroundings in Varanasi, used a cycle rickshaw as his favourite transport, and declined an offer of permanent US citizenship out of love for his city and country.", ["April 2025", "April 2016"], {"or": ["What was Bismillah Khan's contribution to music and to national unity?", "He made the shehnai famous and brought it into mainstream classical music, invented new ragas, and kept the legacy of classical music alive through his recitals. He believed in Hindu-Muslim unity, played at the Vishwanath Temple and often said 'Music has no caste', spreading brotherhood through music."]}]
+  ]
+}

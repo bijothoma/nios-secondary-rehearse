@@ -1,0 +1,335 @@
+{
+  "subject": "english",
+  "lesson": 1,
+  "title": "Snake Bite",
+  "author": "Shankar (from 'Life with Grandfather')",
+  "meta": "Story · Literature practice set",
+  "instructions": [
+    "Literature practice for this lesson in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Identify the following sentences as True or False.",
+      "marks": "7 × 1 = 7",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "Raja caught a small snake in a coconut shell.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "fixed": true
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "Grandfather kept the snake as a pet.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "fixed": true
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "A bee stung Raja on his finger.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "fixed": true
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "Grandmother knew that it was only a bee sting.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "fixed": true
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "Grandfather did not allow Raja to speak at the old man's house.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2016"
+          ],
+          "fixed": true
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "The old man used modern medicines to treat Raja.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "fixed": true
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "Grandfather sent gifts to the old man.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2025"
+          ],
+          "fixed": true
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Match the character (or speaker) with the description.",
+      "marks": "4 × 1 = 4",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "match",
+          "left": "Raja",
+          "right": "the narrator, an adventurous boy",
+          "answer": "Raja — the narrator, an adventurous boy"
+        },
+        {
+          "id": "2.2",
+          "type": "match",
+          "left": "The old grey-haired man",
+          "right": "believed to cure snake bite with mantras",
+          "answer": "The old grey-haired man — believed to cure snake bite with mantras"
+        },
+        {
+          "id": "2.3",
+          "type": "match",
+          "left": "Grandfather",
+          "right": "carried Raja to the medicine man",
+          "answer": "Grandfather — carried Raja to the medicine man"
+        },
+        {
+          "id": "2.4",
+          "type": "match",
+          "left": "Grandmother",
+          "right": "thought Raja had been bitten by a snake",
+          "answer": "Grandmother — thought Raja had been bitten by a snake"
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Read the passage and fill in the blanks.",
+      "marks": "3 × 1 = 3",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "Raja tried to catch a ________ in the evening.",
+          "answer": "bee",
+          "years": [
+            "April 2022"
+          ]
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "It stung him on his ________.",
+          "answer": "finger",
+          "years": [
+            "April 2022"
+          ]
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "Grandmother thought that he had been bitten by a ________.",
+          "answer": "snake",
+          "years": [
+            "April 2022"
+          ]
+        }
+      ],
+      "passage": "Later in the evening, I tried to catch a bee and it stung me on my finger. I felt a sharp pain. I ran to grandmother and told her that I had been bitten and wanted her to do something to stop the pain. Grandmother thought that I had been bitten by a snake. She called out to Grandfather, \"Come and see what has happened to Raja.\""
+    },
+    {
+      "no": 4,
+      "title": "Read the passage and fill in the blanks.",
+      "marks": "3 × 1 = 3",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "The old man took water in a small ________ vessel.",
+          "answer": "brass"
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "He started reciting some ________.",
+          "answer": "mantras"
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "Raja could not talk because Grandfather held him ________.",
+          "answer": "tight"
+        }
+      ],
+      "passage": "The old man then took some water in a small brass vessel, sat in front of us and started reciting some mantras. I wanted to tell him that it was a bee and not a snake that had bitten me. But Grandfather held me tight and did not allow me to talk."
+    },
+    {
+      "no": 5,
+      "title": "Complete the following sentences.",
+      "marks": "5 × 1 = 5",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "Raja's grandparents are concerned about his ________.",
+          "answer": "well-being and safety",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "Raja's ________ throws the shell away.",
+          "answer": "Grandfather",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "Raja's grandfather advises him never to go near a ________ again.",
+          "answer": "snake",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "The snake hid itself in a ________.",
+          "answer": "coconut shell"
+        },
+        {
+          "id": "5.5",
+          "type": "open",
+          "q": "Grandfather ran across the garden and through the ________ fields.",
+          "answer": "paddy"
+        }
+      ]
+    },
+    {
+      "no": 6,
+      "title": "Answer in one or two sentences (about 30 words).",
+      "marks": "6 × 2 = 12",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "6.1",
+          "type": "open",
+          "q": "What bit Raja and what did Grandmother think?",
+          "answer": "A bee stung Raja on his finger. Grandmother thought that he had been bitten by a snake.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "6.2",
+          "type": "open",
+          "q": "Why did Grandfather throw away the coconut shell?",
+          "answer": "Raja had trapped a snake in it. Grandfather believed all snakes were very dangerous, so he snatched the shell and threw it away to protect Raja."
+        },
+        {
+          "id": "6.3",
+          "type": "open",
+          "q": "Why could Raja not tell the old man that a bee had stung him?",
+          "answer": "Grandfather held him tight and did not allow him to talk; the old man had also told him to sit still and keep quiet.",
+          "years": [
+            "April 2016"
+          ]
+        },
+        {
+          "id": "6.4",
+          "type": "open",
+          "q": "What did the old man say after the 'treatment'?",
+          "answer": "He said, 'Thank God, you brought Raja in time. He is out of danger now. It was indeed a poisonous snake that bit him.'"
+        },
+        {
+          "id": "6.5",
+          "type": "open",
+          "q": "Why did Grandfather send gifts to the old man?",
+          "answer": "Grandfather believed that the old man had saved Raja from a poisonous snake bite by his 'magic cure', so he sent him gifts out of gratitude.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "6.6",
+          "type": "open",
+          "q": "What lesson do we learn from the story 'Snake Bite'?",
+          "answer": "We learn that timely communication is important and silence is not always good, and that we should not put blind faith in untrained medicine men but seek proper treatment.",
+          "years": [
+            "October 2021"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 7,
+      "title": "Answer in about 40 words.",
+      "marks": "2 × 3 = 6",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "7.1",
+          "type": "open",
+          "q": "How did the old man treat the boy for snake bite?",
+          "answer": "He made Raja sit still on Grandfather's lap, took water in a small brass vessel and recited mantras. After a few minutes he washed Raja's finger, gave him water to drink and asked him to keep quiet. Then he declared that Raja was out of danger.",
+          "years": [
+            "April 2026",
+            "October 2022"
+          ],
+          "or": {
+            "q": "What was the 'magic cure' that the grey-haired old man performed on Raja? Was it really a cure?",
+            "answer": "He recited mantras over water in a brass vessel, then washed Raja's finger and gave him water to drink. It was not a real cure — Raja had only been stung by a bee and the pain had already stopped; the 'cure' was superstition."
+          }
+        },
+        {
+          "id": "7.2",
+          "type": "open",
+          "q": "Do you approve of Grandfather not letting Raja speak? Give reasons.",
+          "answer": "No. If Raja had been allowed to speak, he could have explained that a bee, not a snake, had stung him. The family would have been spared fear and worry, and the old man's false 'cure' would have been exposed. Children should be listened to, especially in an emergency."
+        }
+      ]
+    }
+  ]
+}

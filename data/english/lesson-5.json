@@ -1,0 +1,315 @@
+{
+  "subject": "english",
+  "lesson": 5,
+  "title": "A Tiger Comes to Town (I)",
+  "author": "R.K. Narayan",
+  "meta": "Story · Literature practice set",
+  "instructions": [
+    "Literature practice for this lesson in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Identify the following sentences as True or False.",
+      "marks": "6 × 1 = 6",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "The story is narrated by the tiger.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "fixed": true
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "At the circus the tiger thought that human beings were weak and timid.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "fixed": true
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "The tiger wanted to attack the people in the restaurant.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "fixed": true
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "Children were delighted when the schools were closed.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "fixed": true
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "The Headmaster hid in the attic.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "fixed": true
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "The Master liked the teachers calling the tiger a 'brute'.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "fixed": true
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Match the character (or speaker) with the description.",
+      "marks": "4 × 1 = 4",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "match",
+          "left": "The tiger",
+          "right": "the narrator who ran away from the circus",
+          "answer": "The tiger — the narrator who ran away from the circus"
+        },
+        {
+          "id": "2.2",
+          "type": "match",
+          "left": "The Headmaster",
+          "right": "jumped on his table and hid in the attic",
+          "answer": "The Headmaster — jumped on his table and hid in the attic"
+        },
+        {
+          "id": "2.3",
+          "type": "match",
+          "left": "The Master",
+          "right": "the tiger's trainer who objected to the word 'brute'",
+          "answer": "The Master — the tiger's trainer who objected to the word 'brute'"
+        },
+        {
+          "id": "2.4",
+          "type": "match",
+          "left": "The tailor",
+          "right": "shut himself in a cupboard",
+          "answer": "The tailor — shut himself in a cupboard"
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Read the passage and fill in the blanks.",
+      "marks": "3 × 1 = 3",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "All doors and windows everywhere were shut, ________ and sealed.",
+          "answer": "bolted",
+          "years": [
+            "April 2026",
+            "October 2019",
+            "October 2017"
+          ]
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "Some thought the tiger might pass through the ________.",
+          "answer": "walls",
+          "years": [
+            "April 2026",
+            "October 2019",
+            "October 2017"
+          ]
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "A simple tiger has no interest in them, either to ________ or to safeguard.",
+          "answer": "destroy",
+          "years": [
+            "April 2026",
+            "October 2019",
+            "October 2017"
+          ]
+        }
+      ],
+      "passage": "Sheer hopelessness seemed to have seized the townspeople. They withdrew into their homes and even there remained nervous. All doors and windows everywhere were shut, bolted and sealed. Some even thought that I was some extraordinary creature who might pass through the walls and lie in wait on the roof or in the basement. Why should an ordinary, simple tiger have any interest in them, either to destroy or to safeguard?"
+    },
+    {
+      "no": 4,
+      "title": "Read the passage and fill in the blanks.",
+      "marks": "3 × 1 = 3",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "At the circus the tiger cowered before the captain's ________.",
+          "answer": "whip",
+          "years": [
+            "April 2023"
+          ]
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "He had thought that human beings were strong and ________.",
+          "answer": "fearless",
+          "years": [
+            "April 2023"
+          ]
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "Now people ran from him like a herd of ________.",
+          "answer": "deer",
+          "years": [
+            "April 2023"
+          ]
+        }
+      ],
+      "passage": "At the circus I had no chance to study human beings. They had sat in their seats peacefully while I cowered before captain's whip. I got a totally wrong idea of human beings at that angle. I had thought that they were strong and fearless. But now I found them running from me like a herd of deer, although I had no intention of attacking them."
+    },
+    {
+      "no": 5,
+      "title": "Complete the following sentences.",
+      "marks": "5 × 1 = 5",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "When the tiger entered the ________ Road, people ran for their lives.",
+          "answer": "Market"
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "The tiger was ________ feet long from tip to tail.",
+          "answer": "eleven"
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "Tigers attack only when they feel ________.",
+          "answer": "hungry"
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "The tiger lay down on the cool ________ floor of the Headmaster's room.",
+          "answer": "stone"
+        },
+        {
+          "id": "5.5",
+          "type": "open",
+          "q": "The Master said that 'beast' and 'brute' were ugly words coined by man in his ________.",
+          "answer": "arrogance"
+        }
+      ]
+    },
+    {
+      "no": 6,
+      "title": "Answer in one or two sentences (about 30 words).",
+      "marks": "6 × 2 = 12",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "6.1",
+          "type": "open",
+          "q": "Why did the Master scold the crowd for using the words 'beast' and 'brute'?",
+          "answer": "He said they were ugly words coined by man in his arrogance; humans think all other creatures are 'beasts', which is wrong and disrespectful.",
+          "years": [
+            "October 2024",
+            "April 2024"
+          ]
+        },
+        {
+          "id": "6.2",
+          "type": "open",
+          "q": "What wrong idea had the tiger formed about human beings at the circus?",
+          "answer": "At the circus people sat calmly in their seats while he cowered before the whip, so he thought humans were strong and fearless. In the town he found them running away like a herd of deer."
+        },
+        {
+          "id": "6.3",
+          "type": "open",
+          "q": "Why did the tiger not attack anyone in the town?",
+          "answer": "He was not hungry — he had eaten well in a 'green pasture full of food' and would not need food for days. Tigers attack only when hungry."
+        },
+        {
+          "id": "6.4",
+          "type": "open",
+          "q": "How did the townspeople react on seeing the tiger?",
+          "answer": "They ran for their lives, pulled down shutters and hid in drains, on trees and behind pillars; they shut, bolted and sealed their doors and windows and stayed nervous even at home."
+        },
+        {
+          "id": "6.5",
+          "type": "open",
+          "q": "Why were the children happy when the tiger came to town?",
+          "answer": "Schools were hurriedly closed, so they ran about shouting joyfully, 'No school, no school. Tiger, Tiger!' They even enjoyed being scared."
+        },
+        {
+          "id": "6.6",
+          "type": "open",
+          "q": "How does the tiger compare tigers with human beings?",
+          "answer": "He says tigers attack only when they feel hungry, unlike human beings who kill one another without purpose or hunger."
+        }
+      ]
+    },
+    {
+      "no": 7,
+      "title": "Answer in about 40 words.",
+      "marks": "2 × 3 = 6",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "7.1",
+          "type": "open",
+          "q": "What was the tiger's view about human beings? How did it change?",
+          "answer": "At the circus, seeing people sit calmly while he cowered before the whip, he thought humans were strong and fearless. In the town he saw them run like deer, hide in drains and cupboards and even abandon a prisoner; he found them timid, foolish and cowardly, and also more violent than tigers since they kill without hunger.",
+          "years": [
+            "April 2016"
+          ],
+          "or": {
+            "q": "How did the arrival of the tiger affect life at the school?",
+            "answer": "Schools were closed in a hurry and children ran about joyfully. The tiger followed them in and walked into the Headmaster's room; the Headmaster jumped on the table and hid in the attic. The tiger slept on the cool floor, and the room was locked and watched while the teachers argued about what to do."
+          }
+        },
+        {
+          "id": "7.2",
+          "type": "open",
+          "q": "Describe the humour in the scenes of panic in the town.",
+          "answer": "The tailor locks himself in a cupboard wailing for someone to shoot the tiger; the constables run away leaving their handcuffed prisoner free; the cashier hugs his cash box, afraid to breathe; the dignified Headmaster heaves himself into the attic. The tiger, who only wants to rest, watches them all with amusement."
+        }
+      ]
+    }
+  ]
+}

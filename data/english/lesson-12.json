@@ -1,0 +1,281 @@
+{
+  "subject": "english",
+  "lesson": 12,
+  "title": "Indian Weavers",
+  "author": "Sarojini Naidu",
+  "meta": "Poem · Literature practice set",
+  "instructions": [
+    "Literature practice for this lesson in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Identify the following sentences as True or False.",
+      "marks": "6 × 1 = 6",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "At break of day the weavers weave the robes of a new-born child.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "fixed": true
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "The robes of the new-born child are as white as a cloud.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "fixed": true
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "At fall of night the weavers weave the marriage veils of a queen.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "fixed": true
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "The marriage veils are purple and green like the plumes of a peacock.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "fixed": true
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "In the moonlight chill the weavers are joyful and noisy.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "fixed": true
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "The funeral shroud is white as a feather and white as a cloud.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "fixed": true
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Match the character (or speaker) with the description.",
+      "marks": "2 × 1 = 2",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "match",
+          "left": "The weavers",
+          "right": "weave garments for birth, marriage and death",
+          "answer": "The weavers — weave garments for birth, marriage and death"
+        },
+        {
+          "id": "2.2",
+          "type": "match",
+          "left": "The poet",
+          "right": "asks the weavers what they are weaving",
+          "answer": "The poet — asks the weavers what they are weaving"
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Read the passage and fill in the blanks.",
+      "marks": "3 × 1 = 3",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "The weavers are weaving at ________ of day.",
+          "answer": "break",
+          "years": [
+            "April 2024",
+            "October 2017",
+            "April 2016"
+          ]
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "The garment is blue like the wing of a ________.",
+          "answer": "halcyon (kingfisher)",
+          "years": [
+            "April 2024",
+            "October 2017",
+            "April 2016"
+          ]
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "They are weaving the robes of a ________ child.",
+          "answer": "new-born",
+          "years": [
+            "April 2024",
+            "October 2017",
+            "April 2016"
+          ]
+        }
+      ],
+      "passage": "Weavers, weaving at break of day,\nWhy do you weave a garment so gay?\nBlue as the wing of halcyon wild\nWe weave the robes of a new-born child."
+    },
+    {
+      "no": 4,
+      "title": "Read the passage and fill in the blanks.",
+      "marks": "3 × 1 = 3",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "The weavers are weaving solemn and ________.",
+          "answer": "still"
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "They weave in the moonlight ________.",
+          "answer": "chill"
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "They are weaving a dead man's funeral ________.",
+          "answer": "shroud"
+        }
+      ],
+      "passage": "Weavers, weaving solemn and still\nWhat do you weave in the moonlight chill?\nWhite as a feather and white as a cloud\nWe weave a dead man's funeral shroud."
+    },
+    {
+      "no": 5,
+      "title": "Complete the following sentences.",
+      "marks": "4 × 1 = 4",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "The poem 'Indian Weavers' was written by ________.",
+          "answer": "Sarojini Naidu"
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "The garment woven at break of day is blue in ________.",
+          "answer": "colour",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "The marriage veils are like the plumes of a ________.",
+          "answer": "peacock"
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "At fall of night the weavers weave the marriage veils of a ________.",
+          "answer": "queen"
+        }
+      ]
+    },
+    {
+      "no": 6,
+      "title": "Answer in one or two sentences (about 30 words).",
+      "marks": "5 × 2 = 10",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "6.1",
+          "type": "open",
+          "q": "For whom do the weavers weave at break of day and in the moonlight chill?",
+          "answer": "At break of day they weave robes for a new-born child; in the moonlight chill they weave a funeral shroud for a dead man.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "6.2",
+          "type": "open",
+          "q": "What are the weavers weaving at break of day?",
+          "answer": "They are weaving the bright blue robes of a new-born child, blue as the wing of a wild halcyon.",
+          "years": [
+            "October 2025",
+            "April 2022"
+          ]
+        },
+        {
+          "id": "6.3",
+          "type": "open",
+          "q": "What is the similarity between 'break of day' and 'a new-born child'?",
+          "answer": "Both stand for a beginning: dawn is the beginning of the day and birth is the beginning of life; both are fresh and full of hope.",
+          "years": [
+            "October 2017",
+            "April 2016"
+          ]
+        },
+        {
+          "id": "6.4",
+          "type": "open",
+          "q": "Why are the weavers 'solemn and still' at night?",
+          "answer": "They are weaving a funeral shroud for a dead man; death is a sad, serious occasion, so their mood is quiet and solemn."
+        },
+        {
+          "id": "6.5",
+          "type": "open",
+          "q": "What three stages of life are shown in the poem?",
+          "answer": "Birth (robes of a new-born child), youth/marriage (marriage veils of a queen) and death (a dead man's funeral shroud)."
+        }
+      ]
+    },
+    {
+      "no": 7,
+      "title": "Answer in about 40 words.",
+      "marks": "1 × 3 = 3",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "7.1",
+          "type": "open",
+          "q": "How does the poet link the time of day, colour and occasion in 'Indian Weavers'?",
+          "answer": "At break of day (beginning) the weavers weave blue robes for a new-born child (birth). At fall of night they weave bright purple and green marriage veils for a queen (youth and joy). In the moonlight chill they weave a white funeral shroud (death). Time, colour and mood together show the cycle of life.",
+          "or": {
+            "q": "Pick out the similes in 'Indian Weavers' and explain any two.",
+            "answer": "'Blue as the wing of halcyon wild', 'like the plumes of a peacock, purple and green', 'white as a feather and white as a cloud'. The first compares the child's robe to the bright blue kingfisher's wing, suggesting freshness; the last compares the shroud's whiteness to a feather and a cloud, suggesting peace, purity and lightness of the departing soul."
+          }
+        }
+      ]
+    }
+  ]
+}

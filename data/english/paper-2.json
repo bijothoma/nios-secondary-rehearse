@@ -1,0 +1,1008 @@
+{
+  "subject": "english",
+  "lesson": 902,
+  "title": "Model Question Paper 2",
+  "meta": "Time: 3 hours · Maximum marks: 100 · Modelled on the April 2026 NIOS paper",
+  "instructions": [
+    "There are 35 questions in two parts. All questions are compulsory; where there is an OR, answer one.",
+    "Part A (questions 1–16) and questions 24–28: objective questions of 1 mark each.",
+    "Questions 17–20, 23 and 30–35: 2 marks each, up to 30 words. Question 29: 3 marks, up to 40 words. Question 22: 4 marks, about 100 words. Question 21: 6 marks, 150–200 words.",
+    "Literature questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "PART A · Section A: Reading. Answer in ONE word.",
+      "marks": "3 × 1 = 3",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "open",
+          "q": "Where, according to Gandhiji, does the real India live?",
+          "answer": "(In its) villages"
+        },
+        {
+          "id": "1.2",
+          "type": "open",
+          "q": "On what did Gandhiji encourage people to spin khadi?",
+          "answer": "Charkha"
+        },
+        {
+          "id": "1.3",
+          "type": "open",
+          "q": "What must education build, according to Gandhiji?",
+          "answer": "Character"
+        }
+      ],
+      "passage": "Mahatma Gandhi believed that the real India lives in its villages. He dreamt of villages that were clean, self-reliant and full of cottage industries. He encouraged people to spin khadi on the charkha so that every home could earn some money and depend less on foreign goods.\nGandhiji also stressed cleanliness. He himself cleaned toilets in his ashram and taught others that no work is low or dirty. He felt that a clean village would also be a healthy village, free from many diseases.\nEducation was another of his concerns. His idea of 'basic education' meant that children should learn through useful crafts like weaving, gardening and carpentry, and should also learn to respect manual labour. He believed that education must build character, not just fill the mind with facts.\nToday many of these ideas are coming back in new forms. Campaigns for cleanliness, skill training and support for local products show that Gandhiji's vision of a self-reliant India is still alive."
+    },
+    {
+      "no": 2,
+      "title": "Choose the correct option (from the passage above).",
+      "marks": "1 × 1 = 1",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "mcq",
+          "q": "Choose a word from the passage which means 'able to depend on oneself':",
+          "options": [
+            "self-reliant",
+            "manual",
+            "foreign",
+            "basic"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Based on the passage above, write True or False.",
+      "marks": "3 × 1 = 3",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "mcq",
+          "q": "Gandhiji wanted villages to depend on foreign goods.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "fixed": true
+        },
+        {
+          "id": "3.2",
+          "type": "mcq",
+          "q": "Gandhiji himself cleaned toilets in his ashram.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "fixed": true
+        },
+        {
+          "id": "3.3",
+          "type": "mcq",
+          "q": "'Basic education' meant learning only from books.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "fixed": true
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Section B: Writing (notice). Answer the questions with reference to the context.",
+      "marks": "4 × 1 = 4",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "mcq",
+          "q": "Who should sign the notice?",
+          "options": [
+            "Sana, Secretary, Literary Club",
+            "The Principal's driver",
+            "A parent",
+            "The newspaper editor"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "4.2",
+          "type": "mcq",
+          "q": "Which title suits the notice best?",
+          "options": [
+            "Inter-House Debate Competition",
+            "Lost and Found",
+            "Holiday Homework",
+            "Fee Reminder"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "4.3",
+          "type": "mcq",
+          "q": "Which detail must the notice include?",
+          "options": [
+            "topic, date, time and venue",
+            "the menu of the canteen",
+            "Sana's favourite books",
+            "results of last year's exams"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "4.4",
+          "type": "mcq",
+          "q": "Which line would suit the end of the notice?",
+          "options": [
+            "Interested students may give their names to the undersigned by 5 July.",
+            "Once upon a time there lived a king.",
+            "Yours lovingly",
+            "Dear diary"
+          ],
+          "answer": "A"
+        }
+      ],
+      "passage": "You are Sana, Secretary of the Literary Club of Sunrise Public School. Write a notice inviting students to take part in an Inter-House Debate Competition on 'Online Classes vs Classroom Teaching' to be held on 10 July."
+    },
+    {
+      "no": 5,
+      "title": "Section B: Writing (article). Answer the questions with reference to the context.",
+      "marks": "4 × 1 = 4",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "mcq",
+          "q": "Which title suits the article best?",
+          "options": [
+            "A Sound Mind in a Sound Body",
+            "Haste Makes Waste",
+            "Silence is Golden",
+            "No Pain, No Gain in Business"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "5.2",
+          "type": "mcq",
+          "q": "Which point is LEAST relevant to the article?",
+          "options": [
+            "Sports keep us fit",
+            "Games teach teamwork",
+            "Sports build discipline",
+            "How to bake a cake"
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "5.3",
+          "type": "mcq",
+          "q": "The paragraphs of the article should be in the order —",
+          "options": [
+            "Introduction, Benefits, Suggestions, Conclusion",
+            "Suggestions, Conclusion, Benefits, Introduction",
+            "Conclusion, Introduction, Suggestions, Benefits",
+            "Benefits, Conclusion, Introduction, Suggestions"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "5.4",
+          "type": "mcq",
+          "q": "The writer's name written below the title is called the —",
+          "options": [
+            "by-line",
+            "headline",
+            "salutation",
+            "subject"
+          ],
+          "answer": "A"
+        }
+      ],
+      "passage": "You are Vikram. Write an article on 'The Importance of Games and Sports in Student Life'."
+    },
+    {
+      "no": 6,
+      "title": "Section B: Writing (letter). Answer the questions with reference to the context.",
+      "marks": "5 × 1 = 5",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "6.1",
+          "type": "mcq",
+          "q": "This letter is a/an —",
+          "options": [
+            "informal letter",
+            "formal letter",
+            "diary entry",
+            "advertisement"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "6.2",
+          "type": "mcq",
+          "q": "The correct salutation is —",
+          "options": [
+            "Dear friend",
+            "Respected Sir/Madam",
+            "Hi Principal",
+            "My dear"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "6.3",
+          "type": "mcq",
+          "q": "The subject line should be —",
+          "options": [
+            "Request for three days' leave",
+            "My cousin is beautiful",
+            "Complaint about the canteen",
+            "Invitation to a party"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "6.4",
+          "type": "mcq",
+          "q": "Which should be mentioned in the letter?",
+          "options": [
+            "the dates of leave and the reason",
+            "the wedding menu",
+            "the bride's clothes",
+            "the cost of the hall"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "6.5",
+          "type": "mcq",
+          "q": "The correct closing is —",
+          "options": [
+            "Yours obediently / Yours sincerely",
+            "With love and kisses",
+            "Your best buddy",
+            "Cheers"
+          ],
+          "answer": "A"
+        }
+      ],
+      "passage": "You are Anjali of 15, Park Street, Kolkata. Write a letter to the Principal of your school requesting leave for three days to attend your cousin's wedding."
+    },
+    {
+      "no": 7,
+      "title": "Section C: Grammar. Choose the correct option to complete the note.",
+      "marks": "3 × 1 = 3",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "7.1",
+          "type": "mcq",
+          "q": "(i)",
+          "options": [
+            "is",
+            "are",
+            "was",
+            "has"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "7.2",
+          "type": "mcq",
+          "q": "(ii)",
+          "options": [
+            "give",
+            "gives",
+            "giving",
+            "given"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "7.3",
+          "type": "mcq",
+          "q": "(iii)",
+          "options": [
+            "should",
+            "has",
+            "is",
+            "was"
+          ],
+          "answer": "A"
+        }
+      ],
+      "passage": "Trees (i) ______ very useful to us. A tree (ii) ______ us shade and fruit. We (iii) ______ plant more trees."
+    },
+    {
+      "no": 8,
+      "title": "Fill in the blanks with the correct form of the verbs given in brackets.",
+      "marks": "3 × 1 = 3",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "8.1",
+          "type": "open",
+          "q": "(i) reach",
+          "answer": "reached"
+        },
+        {
+          "id": "8.2",
+          "type": "open",
+          "q": "(ii) leave",
+          "answer": "had left"
+        },
+        {
+          "id": "8.3",
+          "type": "open",
+          "q": "(iii) wait",
+          "answer": "waited"
+        }
+      ],
+      "passage": "When I (i) ______ (reach) the station, the train (ii) ______ (leave) already. So I (iii) ______ (wait) for the next train."
+    },
+    {
+      "no": 9,
+      "title": "Choose the correct option to fill in the blanks.",
+      "marks": "3 × 1 = 3",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "9.1",
+          "type": "mcq",
+          "q": "______ (Shall/Will) I open the window?",
+          "options": [
+            "Shall",
+            "Will"
+          ],
+          "answer": "A",
+          "fixed": true
+        },
+        {
+          "id": "9.2",
+          "type": "mcq",
+          "q": "He doesn't like milk, ______ (does/doesn't) he?",
+          "options": [
+            "does",
+            "doesn't"
+          ],
+          "answer": "A",
+          "fixed": true
+        },
+        {
+          "id": "9.3",
+          "type": "mcq",
+          "q": "The baby ______ (is sleeping/sleeps) right now.",
+          "options": [
+            "is sleeping",
+            "sleeps"
+          ],
+          "answer": "A",
+          "fixed": true
+        }
+      ]
+    },
+    {
+      "no": 10,
+      "title": "Fill in the blanks with the correct prepositions.",
+      "marks": "4 × 1 = 4",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "10.1",
+          "type": "open",
+          "q": "The book is ______ the table.",
+          "answer": "on"
+        },
+        {
+          "id": "10.2",
+          "type": "open",
+          "q": "He has been ill ______ Monday.",
+          "answer": "since"
+        },
+        {
+          "id": "10.3",
+          "type": "open",
+          "q": "She is fond ______ music.",
+          "answer": "of"
+        },
+        {
+          "id": "10.4",
+          "type": "open",
+          "q": "The dog ran ______ the road.",
+          "answer": "across"
+        }
+      ]
+    },
+    {
+      "no": 11,
+      "title": "Fill in the blanks with the correct conjunctions.",
+      "marks": "2 × 1 = 2",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "11.1",
+          "type": "open",
+          "q": "Take an umbrella ______ it may rain.",
+          "answer": "as (because, in case)"
+        },
+        {
+          "id": "11.2",
+          "type": "open",
+          "q": "______ he is poor, he is honest.",
+          "answer": "Though (Although)"
+        }
+      ]
+    },
+    {
+      "no": 12,
+      "title": "Section D: Literature. Identify the sentences as True or False (My Only Cry).",
+      "marks": "3 × 1 = 3",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "12.1",
+          "type": "mcq",
+          "q": "The poem 'My Only Cry' is written by Leila Ibrahim Semaan.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2024"
+          ],
+          "fixed": true
+        },
+        {
+          "id": "12.2",
+          "type": "mcq",
+          "q": "Children cannot rebuild what the adults destroy.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2025"
+          ],
+          "fixed": true
+        },
+        {
+          "id": "12.3",
+          "type": "mcq",
+          "q": "Right-wing and left-wing politics matter a lot to children.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2025",
+            "October 2024"
+          ],
+          "fixed": true
+        }
+      ]
+    },
+    {
+      "no": 13,
+      "title": "Identify the sentences as True or False (Stealing and Atonement).",
+      "marks": "3 × 1 = 3",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "13.1",
+          "type": "mcq",
+          "q": "Gandhiji's grandfather had the habit of smoking.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2025"
+          ],
+          "note": "It was his uncle.",
+          "fixed": true
+        },
+        {
+          "id": "13.2",
+          "type": "mcq",
+          "q": "Gandhiji and his relative stole coins from the servant's pocket money to buy cigarettes.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2025"
+          ],
+          "fixed": true
+        },
+        {
+          "id": "13.3",
+          "type": "mcq",
+          "q": "Gandhiji handed the confession to his mother.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2025"
+          ],
+          "fixed": true
+        }
+      ]
+    },
+    {
+      "no": 14,
+      "title": "Match the characters with the story.",
+      "marks": "3 × 1 = 3",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "14.1",
+          "type": "match",
+          "left": "Salim",
+          "right": "The Last Stone Mason",
+          "answer": "Salim — The Last Stone Mason"
+        },
+        {
+          "id": "14.2",
+          "type": "match",
+          "left": "Ali Baksh",
+          "right": "Ustad Bismillah Khan",
+          "answer": "Ali Baksh — Ustad Bismillah Khan"
+        },
+        {
+          "id": "14.3",
+          "type": "match",
+          "left": "Aunt Ruby",
+          "right": "The Parrot Who Wouldn't Talk",
+          "answer": "Aunt Ruby — The Parrot Who Wouldn't Talk"
+        }
+      ]
+    },
+    {
+      "no": 15,
+      "title": "Read the passage and fill in the blanks (Kondiba — A Hero).",
+      "marks": "3 × 1 = 3",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "15.1",
+          "type": "open",
+          "q": "Kondiba lived in ________, a slum colony in Ghatkopar.",
+          "answer": "Golibar",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "15.2",
+          "type": "open",
+          "q": "He lived there with Tukaram and ________.",
+          "answer": "Tukaram's wife, Yelanbai",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "15.3",
+          "type": "open",
+          "q": "The colony well was full of ________ water.",
+          "answer": "blackish-green",
+          "years": [
+            "April 2025"
+          ]
+        }
+      ],
+      "passage": "It was a cloudy day in 'Golibar', the large slum colony in Ghatkopar, north-east of Mumbai. Kondiba lived here with Tukaram and Tukaram's wife, Yelanbai. It was the end of the monsoon. In the middle of an open area, in the colony there was a well. It was full of blackish-green water. Nothing could be seen more than a few centimetres below the surface."
+    },
+    {
+      "no": 16,
+      "title": "Complete the following sentences (Co-operate and Prosper).",
+      "marks": "3 × 1 = 3",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "16.1",
+          "type": "open",
+          "q": "Dr Kurien was born in ________ on 26 November 1921.",
+          "answer": "Calicut"
+        },
+        {
+          "id": "16.2",
+          "type": "open",
+          "q": "Dr Kurien made India the largest ________ producer of the world.",
+          "answer": "milk",
+          "years": [
+            "October 2019"
+          ]
+        },
+        {
+          "id": "16.3",
+          "type": "open",
+          "q": "Dr Kurien established the NDDB and designed '________'.",
+          "answer": "Operation Flood"
+        }
+      ]
+    },
+    {
+      "no": 17,
+      "title": "PART B · Section A: Reading. Find words from the passage.",
+      "marks": "1 × 2 = 2",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "17.1",
+          "type": "open",
+          "q": "Find words from the passage opposite in meaning to: (a) stiff (b) excites",
+          "answer": "(a) flexible (b) calms"
+        }
+      ],
+      "passage": "Yoga is an ancient Indian practice that joins the body, mind and breath. The word 'yoga' comes from the Sanskrit word 'yuj', which means 'to unite'. Today people all over the world practise it, and since 2015 the United Nations has celebrated 21 June as International Day of Yoga.\nRegular yoga makes the body flexible and strong. Asanas, or postures, stretch the muscles and improve balance. Pranayama, or breathing exercises, increases the supply of oxygen and calms the nerves. Meditation helps people concentrate and reduces stress, anger and anxiety.\nDoctors say that yoga can help people with problems like back pain, high blood pressure and sleeplessness. Students who practise yoga often find that they remember lessons better and feel less nervous before examinations.\nHowever, yoga should be learnt from a trained teacher. Some postures can cause injury if done wrongly or too quickly. Yoga is best done on an empty stomach, in fresh air, and with patience, because its benefits grow slowly over time."
+    },
+    {
+      "no": 18,
+      "title": "Answer the question (passage above).",
+      "marks": "1 × 2 = 2",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "18.1",
+          "type": "open",
+          "q": "What is the meaning of 'yoga' and where does the word come from?",
+          "answer": "The word comes from the Sanskrit word 'yuj', which means 'to unite'; yoga unites the body, mind and breath."
+        }
+      ]
+    },
+    {
+      "no": 19,
+      "title": "Answer the question (passage above).",
+      "marks": "1 × 2 = 2",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "19.1",
+          "type": "open",
+          "q": "How does yoga help students?",
+          "answer": "It helps them remember lessons better, concentrate, and feel less nervous and stressed before examinations."
+        }
+      ]
+    },
+    {
+      "no": 20,
+      "title": "Answer the question (passage above).",
+      "marks": "1 × 2 = 2",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "20.1",
+          "type": "open",
+          "q": "What precautions should be taken while doing yoga?",
+          "answer": "It should be learnt from a trained teacher, postures should not be done wrongly or too fast, and it should be done on an empty stomach in fresh air, with patience."
+        }
+      ]
+    },
+    {
+      "no": 21,
+      "title": "Section B: Writing. Answer in 150–200 words.",
+      "marks": "1 × 6 = 6",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "21.1",
+          "type": "open",
+          "q": "You are Riya of Class X. Write an article (150–200 words) on 'Mobile Phones: A Boon or a Bane for Students'. Clues: easy communication — online learning — information at fingertips — addiction and wasted time — effects on eyes and sleep — cyber dangers — balanced use.",
+          "answer": "Points: title and by-line; introduction; boon — contact with family, online classes and study material, quick information, safety; bane — addiction, less study and outdoor play, eye strain and poor sleep, harmful content and cyber crime; conclusion — a mobile is a good servant but a bad master; use it wisely with limits and parental guidance. 150–200 words in paragraphs.",
+          "or": {
+            "q": "You are Arif. Write a report (150–200 words) for your school magazine on the Annual Sports Day held in your school.",
+            "answer": "Points: heading, by-line, date and venue; chief guest and inauguration (lighting of the torch, march past); main events — races, relay, long jump, tug of war; winners and the champion house; cultural items; prize distribution and speech; conclusion on the spirit of sportsmanship. Past tense, factual style."
+          }
+        }
+      ]
+    },
+    {
+      "no": 22,
+      "title": "Answer in about 100 words.",
+      "marks": "1 × 4 = 4",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "22.1",
+          "type": "open",
+          "q": "You are Nikhil of 8, Civil Lines, Jaipur. Write a letter (about 100 words) to your friend congratulating him on winning the first prize in a state-level painting competition.",
+          "answer": "Format: address, date, 'Dear Rahul'. Body: joy on hearing the news; praise for his talent and hard work; recalling his love of painting; wishing him greater success; asking about the prize-winning painting. Closing 'Yours lovingly, Nikhil'. Informal and warm.",
+          "or": {
+            "q": "You are Meera of 3, Hill View, Shimla. Write a letter (about 100 words) to the Manager, City Book Store, Delhi, placing an order for some English story books for your school library.",
+            "answer": "Format of a formal letter: sender's address, date, receiver's address, subject (Order for story books), 'Sir/Madam'. Body: list of books with authors and number of copies; mode of payment; request for timely delivery and discount. Closing 'Yours faithfully, Meera, Librarian/Student Secretary'."
+          }
+        }
+      ]
+    },
+    {
+      "no": 23,
+      "title": "Write the message (about 40 words).",
+      "marks": "1 × 2 = 2",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "23.1",
+          "type": "open",
+          "q": "Read the conversation:\nRavi: Hello, may I speak to Anil?\nAnil's mother: He has gone to the market. Is there a message?\nRavi: Please tell him the school picnic has been postponed from Friday to Monday because of heavy rain. He must bring Rs 200 and his lunch.\nAnil's mother: I will tell him.\nAs Anil's mother, write a message for Anil (about 40 words).",
+          "answer": "Message — date, time. Anil, your friend Ravi called. The school picnic has been postponed from Friday to Monday due to heavy rain. Please take Rs 200 and your lunch with you. — Mother"
+        }
+      ]
+    },
+    {
+      "no": 24,
+      "title": "Section C: Grammar. Change into reported speech.",
+      "marks": "3 × 1 = 3",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "24.1",
+          "type": "open",
+          "q": "Mother said, \"I will bake a cake tomorrow.\"",
+          "answer": "Mother said that she would bake a cake the next day."
+        },
+        {
+          "id": "24.2",
+          "type": "open",
+          "q": "He said to me, \"Please help me.\"",
+          "answer": "He requested me to help him."
+        },
+        {
+          "id": "24.3",
+          "type": "open",
+          "q": "The boy asked, \"Can I go out to play?\"",
+          "answer": "The boy asked if he could go out to play."
+        }
+      ]
+    },
+    {
+      "no": 25,
+      "title": "Fill in the blanks with appropriate prepositions.",
+      "marks": "2 × 1 = 2",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "25.1",
+          "type": "open",
+          "q": "The thief jumped ______ the wall.",
+          "answer": "over"
+        },
+        {
+          "id": "25.2",
+          "type": "open",
+          "q": "She is good ______ mathematics.",
+          "answer": "at"
+        }
+      ]
+    },
+    {
+      "no": 26,
+      "title": "Complete the dialogue with suitable words.",
+      "marks": "2 × 1 = 2",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "26.1",
+          "type": "open",
+          "q": "(i)",
+          "answer": "are (were)"
+        },
+        {
+          "id": "26.2",
+          "type": "open",
+          "q": "(ii)",
+          "answer": "missed"
+        }
+      ],
+      "passage": "Teacher: Why (i) ______ you late today?\nStudent: Sorry, madam. I (ii) ______ the bus."
+    },
+    {
+      "no": 27,
+      "title": "Fill in the blanks with the correct form of the verbs.",
+      "marks": "4 × 1 = 4",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "27.1",
+          "type": "open",
+          "q": "They ______ (visit) Agra last year.",
+          "answer": "visited"
+        },
+        {
+          "id": "27.2",
+          "type": "open",
+          "q": "Look! It ______ (rain).",
+          "answer": "is raining"
+        },
+        {
+          "id": "27.3",
+          "type": "open",
+          "q": "I ______ (know) him for ten years.",
+          "answer": "have known"
+        },
+        {
+          "id": "27.4",
+          "type": "open",
+          "q": "She ______ (go) to school by bus every day.",
+          "answer": "goes"
+        }
+      ]
+    },
+    {
+      "no": 28,
+      "title": "Complete the sentences using proper conjunctions.",
+      "marks": "4 × 1 = 4",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "28.1",
+          "type": "open",
+          "q": "He ran fast ______ he could not win.",
+          "answer": "but"
+        },
+        {
+          "id": "28.2",
+          "type": "open",
+          "q": "You can have tea ______ coffee.",
+          "answer": "or"
+        },
+        {
+          "id": "28.3",
+          "type": "open",
+          "q": "I will go out ______ the rain stops.",
+          "answer": "when (after, once)"
+        },
+        {
+          "id": "28.4",
+          "type": "open",
+          "q": "She is not only beautiful ______ also intelligent.",
+          "answer": "but"
+        }
+      ]
+    },
+    {
+      "no": 29,
+      "title": "Section D: Literature. Answer in about 40 words.",
+      "marks": "1 × 3 = 3",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "29.1",
+          "type": "open",
+          "q": "What was the son's opinion about his father's work, and how did it differ from his father's view? (The Last Stone Mason)",
+          "answer": "Gopal thought the work was useless because it did not pay and had brought them only poverty; he wanted to mass produce goods for tourists. His father believed money alone did not matter — carving statues for temples was a service to God and a family tradition of hundreds of years.",
+          "years": [
+            "October 2025"
+          ],
+          "or": {
+            "q": "Describe the character of the old stone mason.",
+            "answer": "He was a dedicated, devout artist who saw his work as service to God. He was gentle even with his angry son, proud of his family tradition, hardworking — working till he fainted — and generous in recognising Salim's talent, calling him his son."
+          }
+        }
+      ]
+    },
+    {
+      "no": 30,
+      "title": "Answer in one or two sentences (about 30 words).",
+      "marks": "1 × 2 = 2",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "30.1",
+          "type": "open",
+          "q": "How did the race in the poem 'Nine Gold Medals' end? (Nine Gold Medals)",
+          "answer": "All nine runners joined hands and walked to the finish line together. They all got gold medals and received a standing ovation.",
+          "years": [
+            "April 2024"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 31,
+      "title": "Answer in one or two sentences (about 30 words).",
+      "marks": "1 × 2 = 2",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "31.1",
+          "type": "open",
+          "q": "Why did the teachers and officials refuse to let the circus master enter the Headmaster's room? (A Tiger Comes to Town (II))",
+          "answer": "They believed the tiger was a ferocious beast and that going near it was suicide; they also wanted to avoid responsibility if anything happened to him.",
+          "years": [
+            "October 2025"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 32,
+      "title": "Answer in one or two sentences (about 30 words).",
+      "marks": "1 × 2 = 2",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "32.1",
+          "type": "open",
+          "q": "Why did the Master scold the crowd for using the words 'beast' and 'brute'? (A Tiger Comes to Town (I))",
+          "answer": "He said they were ugly words coined by man in his arrogance; humans think all other creatures are 'beasts', which is wrong and disrespectful.",
+          "years": [
+            "October 2024",
+            "April 2024"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 33,
+      "title": "Answer in one or two sentences (about 30 words).",
+      "marks": "1 × 2 = 2",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "33.1",
+          "type": "open",
+          "q": "Why was Pandit Nehru not able to send a gift to Indira on her birthday? (A Birthday Letter)",
+          "answer": "He was imprisoned in Naini Prison by the British, so he could not send any material present; he could only send presents of the mind and spirit through his letter.",
+          "years": [
+            "October 2024"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 34,
+      "title": "Answer in one or two sentences (about 30 words).",
+      "marks": "1 × 2 = 2",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "34.1",
+          "type": "open",
+          "q": "What happens when the parrot returns and sees Aunt Ruby? (The Parrot Who Wouldn't Talk)",
+          "answer": "It flies out of her reach to a rose bush and shrieks in her own voice, 'You're no beauty! Can't talk, can't sing, can't dance!'",
+          "years": [
+            "October 2025"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 35,
+      "title": "Answer in one or two sentences (about 30 words).",
+      "marks": "1 × 2 = 2",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "35.1",
+          "type": "open",
+          "q": "What should humans do to make the world a better place to live in? (A Prayer for Healing)",
+          "answer": "They should join with the earth and each other to clean the land, water and air, renew forests, protect plants and creatures, and promote justice and peace.",
+          "years": [
+            "April 2024"
+          ]
+        }
+      ]
+    }
+  ]
+}

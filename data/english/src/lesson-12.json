@@ -1,0 +1,53 @@
+{
+  "lesson": 12,
+  "title": "Indian Weavers",
+  "kind": "Poem",
+  "author": "Sarojini Naidu",
+  "summary": [
+    "## About the poem",
+    "In this short lyric Sarojini Naidu, the 'Nightingale of India', shows weavers weaving cloth for three stages of human life — birth, marriage (youth) and death. Each stanza matches a time of day, a colour and an occasion, so the poem is about the whole cycle of life. It is written as questions and answers between the poet and the weavers.",
+    "## Stanza 1 — birth",
+    "At 'break of day' (dawn) the poet asks why they weave a garment so 'gay' (bright and cheerful). The weavers say they weave the robes of a new-born child, blue as the wing of a wild halcyon (kingfisher). Morning, the beginning of the day, matches birth, the beginning of life; blue suggests freshness and hope.",
+    "## Stanza 2 — marriage",
+    "At 'fall of night' (evening) they weave a bright garment like the plumes (feathers) of a peacock, purple and green — the marriage veils of a queen. Evening matches youth and the joy of marriage; purple and green suggest royalty and celebration.",
+    "## Stanza 3 — death",
+    "Now the weavers work 'solemn and still' in the 'moonlight chill'. The poet asks what they weave; they reply that they weave a dead man's funeral shroud, white as a feather and white as a cloud. The cold, silent night matches the end of life; white stands for peace and purity.",
+    "## Devices and theme",
+    "Similes: 'blue as the wing of halcyon wild', 'like the plumes of a peacock', 'white as a feather and white as a cloud'. Imagery of colour and time; rhyme in couplets (day/gay, wild/child, night/bright, green/queen, still/chill, cloud/shroud). The mood changes from joyful to solemn. The poem celebrates the skill of Indian weavers and shows the cycle of life — birth, youth and death."
+  ],
+  "tf": [
+    ["At break of day the weavers weave the robes of a new-born child.", true],
+    ["The robes of the new-born child are as white as a cloud.", false],
+    ["At fall of night the weavers weave the marriage veils of a queen.", true],
+    ["The marriage veils are purple and green like the plumes of a peacock.", true],
+    ["In the moonlight chill the weavers are joyful and noisy.", false],
+    ["The funeral shroud is white as a feather and white as a cloud.", true]
+  ],
+  "characters": [
+    ["The weavers", "weave garments for birth, marriage and death"],
+    ["The poet", "asks the weavers what they are weaving"]
+  ],
+  "extracts": [
+    {"passage": "Weavers, weaving at break of day,\nWhy do you weave a garment so gay?\nBlue as the wing of halcyon wild\nWe weave the robes of a new-born child.",
+     "items": [["The weavers are weaving at ________ of day.", "break"], ["The garment is blue like the wing of a ________.", "halcyon (kingfisher)"], ["They are weaving the robes of a ________ child.", "new-born"]],
+     "years": ["April 2024", "October 2017", "April 2016"]},
+    {"passage": "Weavers, weaving solemn and still\nWhat do you weave in the moonlight chill?\nWhite as a feather and white as a cloud\nWe weave a dead man's funeral shroud.",
+     "items": [["The weavers are weaving solemn and ________.", "still"], ["They weave in the moonlight ________.", "chill"], ["They are weaving a dead man's funeral ________.", "shroud"]]}
+  ],
+  "complete": [
+    ["The poem 'Indian Weavers' was written by ________.", "Sarojini Naidu"],
+    ["The garment woven at break of day is blue in ________.", "colour", ["April 2024"]],
+    ["The marriage veils are like the plumes of a ________.", "peacock"],
+    ["At fall of night the weavers weave the marriage veils of a ________.", "queen"]
+  ],
+  "sa2": [
+    ["For whom do the weavers weave at break of day and in the moonlight chill?", "At break of day they weave robes for a new-born child; in the moonlight chill they weave a funeral shroud for a dead man.", ["April 2026"]],
+    ["What are the weavers weaving at break of day?", "They are weaving the bright blue robes of a new-born child, blue as the wing of a wild halcyon.", ["October 2025", "April 2022"]],
+    ["What is the similarity between 'break of day' and 'a new-born child'?", "Both stand for a beginning: dawn is the beginning of the day and birth is the beginning of life; both are fresh and full of hope.", ["October 2017", "April 2016"]],
+    ["Why are the weavers 'solemn and still' at night?", "They are weaving a funeral shroud for a dead man; death is a sad, serious occasion, so their mood is quiet and solemn."],
+    ["What three stages of life are shown in the poem?", "Birth (robes of a new-born child), youth/marriage (marriage veils of a queen) and death (a dead man's funeral shroud)."]
+  ],
+  "sa3": [
+    ["How does the poet link the time of day, colour and occasion in 'Indian Weavers'?", "At break of day (beginning) the weavers weave blue robes for a new-born child (birth). At fall of night they weave bright purple and green marriage veils for a queen (youth and joy). In the moonlight chill they weave a white funeral shroud (death). Time, colour and mood together show the cycle of life.", null, {"or": ["Pick out the similes in 'Indian Weavers' and explain any two.", "'Blue as the wing of halcyon wild', 'like the plumes of a peacock, purple and green', 'white as a feather and white as a cloud'. The first compares the child's robe to the bright blue kingfisher's wing, suggesting freshness; the last compares the shroud's whiteness to a feather and a cloud, suggesting peace, purity and lightness of the departing soul."]}]
+  ]
+}

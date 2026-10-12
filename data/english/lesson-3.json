@@ -1,0 +1,303 @@
+{
+  "subject": "english",
+  "lesson": 3,
+  "title": "Kondiba — A Hero",
+  "author": null,
+  "meta": "Story · Literature practice set",
+  "instructions": [
+    "Literature practice for this lesson in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Identify the following sentences as True or False.",
+      "marks": "6 × 1 = 6",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "Kondiba was born blind.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "note": "He became blind with small-pox at the age of eight.",
+          "fixed": true
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "Kondiba liked begging because Mumbai was generous to blind beggars.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "fixed": true
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "The well in Golibar had no wall around it.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "fixed": true
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "Kondiba found Arvind in his very first dive.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "fixed": true
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "Kondiba pulled Arvind up by holding his belt.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "fixed": true
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "Kondiba now runs a small business in Jalna.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "fixed": true
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Match the character (or speaker) with the description.",
+      "marks": "3 × 1 = 3",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "match",
+          "left": "Kondiba Gaikwad",
+          "right": "a blind beggar who saved a drowning boy",
+          "answer": "Kondiba Gaikwad — a blind beggar who saved a drowning boy"
+        },
+        {
+          "id": "2.2",
+          "type": "match",
+          "left": "Arvind",
+          "right": "the boy who fell into the well",
+          "answer": "Arvind — the boy who fell into the well"
+        },
+        {
+          "id": "2.3",
+          "type": "match",
+          "left": "Yelanbai",
+          "right": "Tukaram's wife, who cooked for Kondiba",
+          "answer": "Yelanbai — Tukaram's wife, who cooked for Kondiba"
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Read the passage and fill in the blanks.",
+      "marks": "3 × 1 = 3",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "Kondiba lived in ________, a slum colony in Ghatkopar.",
+          "answer": "Golibar",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "He lived there with Tukaram and ________.",
+          "answer": "Tukaram's wife, Yelanbai",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "The colony well was full of ________ water.",
+          "answer": "blackish-green",
+          "years": [
+            "April 2025"
+          ]
+        }
+      ],
+      "passage": "It was a cloudy day in 'Golibar', the large slum colony in Ghatkopar, north-east of Mumbai. Kondiba lived here with Tukaram and Tukaram's wife, Yelanbai. It was the end of the monsoon. In the middle of an open area, in the colony there was a well. It was full of blackish-green water. Nothing could be seen more than a few centimetres below the surface."
+    },
+    {
+      "no": 4,
+      "title": "Read the passage and fill in the blanks.",
+      "marks": "3 × 1 = 3",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "Kondiba felt his way along the ________ on the side of the well.",
+          "answer": "rocks"
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "At the bottom his feet sank into the soft ________.",
+          "answer": "mud"
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "He came to the surface because his ________ was running out.",
+          "answer": "breath"
+        }
+      ],
+      "passage": "Kondiba floated on the surface for a moment, then took a deep breath and dived. Carefully feeling his way along the rocks on the side of the well, he reached the bottom; his feet sank into the soft mud. He felt nothing but the mud and the slippery weeds. Tired, and with his breath running out, he came to the surface."
+    },
+    {
+      "no": 5,
+      "title": "Complete the following sentences.",
+      "marks": "5 × 1 = 5",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "The famine of 1972–73 drove Kondiba from his home in ________ to Mumbai.",
+          "answer": "Aurangabad"
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "Kondiba became blind with ________ at the age of eight.",
+          "answer": "small-pox"
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "Arvind fell into the well while drawing ________.",
+          "answer": "water"
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "Kondiba received rewards totalling Rs ________.",
+          "answer": "12,970"
+        },
+        {
+          "id": "5.5",
+          "type": "open",
+          "q": "In the Home for the Blind he learnt bottling and ________ chair seats.",
+          "answer": "weaving"
+        }
+      ]
+    },
+    {
+      "no": 6,
+      "title": "Answer in one or two sentences (about 30 words).",
+      "marks": "6 × 2 = 12",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "6.1",
+          "type": "open",
+          "q": "Why did Kondiba take to begging even though he hated it?",
+          "answer": "The famine drove him to Mumbai in search of bread. He tried selling brooms but had little luck, and he found that Mumbai was generous to blind beggars, so he had to beg to survive.",
+          "years": [
+            "April 2025",
+            "April 2024"
+          ]
+        },
+        {
+          "id": "6.2",
+          "type": "open",
+          "q": "The well in the colony was useful but also dangerous. Explain.",
+          "answer": "It was useful because the single tap was not enough for the growing slum. It was dangerous because it had no wall, its mouth kept widening, and its narrow bottom was full of mud and weeds.",
+          "years": [
+            "October 2017"
+          ]
+        },
+        {
+          "id": "6.3",
+          "type": "open",
+          "q": "What rewards did Kondiba receive for his daring rescue of a drowning boy?",
+          "answer": "He was praised by the Governor and the Chief Minister of Maharashtra, received rewards totalling Rs 12,970, and was given a home for a few months in a Home for the Blind, where he learnt new skills.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "6.4",
+          "type": "open",
+          "q": "Who was Kondiba Gaikwad? How did he become a hero?",
+          "answer": "Kondiba Gaikwad was a blind beggar from Aurangabad living in a Mumbai slum. He became a hero by diving three times into a dark, muddy well and saving the life of a drowning boy, Arvind.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "6.5",
+          "type": "open",
+          "q": "Why did Kondiba miss his eyesight so much during the rescue?",
+          "answer": "He felt that if he could see, he might find the drowning boy quickly. He did not know that even normal eyes could not have seen anything in the muddy water."
+        },
+        {
+          "id": "6.6",
+          "type": "open",
+          "q": "How did Arvind show his gratitude to Kondiba?",
+          "answer": "The next afternoon Arvind returned from the hospital and at once went to Kondiba and touched his feet in gratitude, while his aunt watched with tears in her eyes."
+        }
+      ]
+    },
+    {
+      "no": 7,
+      "title": "Answer in about 40 words.",
+      "marks": "2 × 3 = 6",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "7.1",
+          "type": "open",
+          "q": "How did Kondiba suddenly become a hero?",
+          "answer": "When Arvind fell into the slum well, Kondiba, though blind and weak, dived in three times, searched the muddy bottom with his hands and pulled the boy out by his belt just in time. Newspapers published his story and picture; he was praised by the Governor and the Chief Minister and rewarded, and so he became a hero.",
+          "years": [
+            "October 2024"
+          ],
+          "or": {
+            "q": "How did Kondiba's life change from a beggar to a small businessman?",
+            "answer": "After the rescue, rewards of Rs 12,970 and praise from the Governor and Chief Minister came to him. He lived for a few months in a Home for the Blind and learnt bottling and chair-seat weaving. He then settled in Jalna, married a local girl and started a small business — he never had to beg again."
+          }
+        },
+        {
+          "id": "7.2",
+          "type": "open",
+          "q": "What qualities of Kondiba make him a real hero?",
+          "answer": "(1) Courage — though blind and weak he dived into a dark, dangerous well. (2) Determination — he did not give up after two failed dives. (3) Presence of mind and selflessness — he left his meal at once to help a stranger. He also had self-respect, hating to beg."
+        }
+      ]
+    }
+  ]
+}

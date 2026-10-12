@@ -1,0 +1,308 @@
+{
+  "subject": "english",
+  "lesson": 9,
+  "title": "Nine Gold Medals",
+  "author": "David Roth",
+  "meta": "Poem · Literature practice set",
+  "instructions": [
+    "Literature practice for this lesson in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Identify the following sentences as True or False.",
+      "marks": "6 × 1 = 6",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "The athletes came from all over the country.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2024"
+          ],
+          "fixed": true
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "When the smallest athlete fell, none of the others even looked at him.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2024"
+          ],
+          "fixed": true
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "The hundred-yard race had eight winners.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2024"
+          ],
+          "fixed": true
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "The eight other runners turned around and went back to help the fallen boy.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2024"
+          ],
+          "fixed": true
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "The runners finished the race holding hands.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "fixed": true
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "The spectators were silent at the end of the race.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "note": "They gave a standing ovation.",
+          "fixed": true
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Match the character (or speaker) with the description.",
+      "marks": "3 × 1 = 3",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "match",
+          "left": "The smallest runner",
+          "right": "stumbled and fell to the asphalt",
+          "answer": "The smallest runner — stumbled and fell to the asphalt"
+        },
+        {
+          "id": "2.2",
+          "type": "match",
+          "left": "The eight other runners",
+          "right": "turned back to help the fallen boy",
+          "answer": "The eight other runners — turned back to help the fallen boy"
+        },
+        {
+          "id": "2.3",
+          "type": "match",
+          "left": "The spectators",
+          "right": "gave a standing ovation",
+          "answer": "The spectators — gave a standing ovation"
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Read the passage and fill in the blanks.",
+      "marks": "3 × 1 = 3",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "The race began when the ________ exploded.",
+          "answer": "pistol",
+          "years": [
+            "April 2021"
+          ]
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "The smallest runner stumbled and ________.",
+          "answer": "staggered",
+          "years": [
+            "April 2021"
+          ]
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "He fell to the ________.",
+          "answer": "asphalt",
+          "years": [
+            "April 2021"
+          ]
+        }
+      ],
+      "passage": "The signal was given, the pistol exploded\nAnd so did the runners all charging ahead\nBut the smallest among them, he stumbled and staggered\nAnd fell to the asphalt instead."
+    },
+    {
+      "no": 4,
+      "title": "Read the passage and fill in the blanks.",
+      "marks": "3 × 1 = 3",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "The race ended with nine ________ medals.",
+          "answer": "gold"
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "They came to the finish line holding ________.",
+          "answer": "hands"
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "The audience gave them a standing ________.",
+          "answer": "ovation"
+        }
+      ],
+      "passage": "That's how the race ended, with nine gold medals\nThey came to the finish line holding hands still\nAnd a standing ovation and nine beaming faces\nSaid more than these words ever will."
+    },
+    {
+      "no": 5,
+      "title": "Complete the following sentences.",
+      "marks": "4 × 1 = 4",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "The final event of the day was the ________ dash.",
+          "answer": "hundred-yard",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "There were ________ resolved athletes behind the starting line.",
+          "answer": "nine"
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "The banner above said ________.",
+          "answer": "Special Olympics"
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "The poem 'Nine Gold Medals' was written by ________.",
+          "answer": "David Roth"
+        }
+      ]
+    },
+    {
+      "no": 6,
+      "title": "Answer in one or two sentences (about 30 words).",
+      "marks": "6 × 2 = 12",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "6.1",
+          "type": "open",
+          "q": "How did the race in the poem 'Nine Gold Medals' end?",
+          "answer": "All nine runners joined hands and walked to the finish line together. They all got gold medals and received a standing ovation.",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "6.2",
+          "type": "open",
+          "q": "The nine athletes were lined up to run which race?",
+          "answer": "They were lined up for the hundred-yard dash, the final event of the day.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "6.3",
+          "type": "open",
+          "q": "What made the eight runners suddenly stop?",
+          "answer": "The smallest runner stumbled and fell to the asphalt. Seeing him cry out in frustration, the eight others stopped, turned back and helped him up.",
+          "years": [
+            "April 2016"
+          ]
+        },
+        {
+          "id": "6.4",
+          "type": "open",
+          "q": "Why did the authorities award gold medals to all nine athletes?",
+          "answer": "All nine crossed the finish line together, holding hands, after the eight had helped the fallen runner; their kindness made them all winners.",
+          "years": [
+            "October 2017"
+          ]
+        },
+        {
+          "id": "6.5",
+          "type": "open",
+          "q": "How did the spectators react when all nine reached the finishing line?",
+          "answer": "They gave the runners a standing ovation, and the nine faces were beaming with joy.",
+          "years": [
+            "October 2022"
+          ]
+        },
+        {
+          "id": "6.6",
+          "type": "open",
+          "q": "What message do we get from the poem 'Nine Gold Medals'?",
+          "answer": "Human values such as empathy, cooperation and helping others are more important than winning; when we help each other, everyone wins.",
+          "years": [
+            "October 2019"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 7,
+      "title": "Answer in about 40 words.",
+      "marks": "1 × 3 = 3",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "7.1",
+          "type": "open",
+          "q": "Explain the significance of the title 'Nine Gold Medals'.",
+          "answer": "Only one runner normally wins gold in a race, but here all nine finished together after the eight turned back to help the fallen boy. Each deserved gold for kindness and sportsmanship, so the title shows that compassion made all of them winners.",
+          "or": {
+            "q": "How did the hundred-yard race end with nine gold medals?",
+            "answer": "The smallest runner fell; the other eight stopped, went back and helped him to his feet. Then all nine joined hands and walked to the finish line together, so all of them were given gold medals amid a standing ovation."
+          }
+        }
+      ]
+    }
+  ]
+}

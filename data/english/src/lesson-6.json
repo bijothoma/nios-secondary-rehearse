@@ -1,0 +1,53 @@
+{
+  "lesson": 6,
+  "title": "A Tiger Comes to Town (II)",
+  "kind": "Story",
+  "author": "R.K. Narayan",
+  "summary": [
+    "## About this part",
+    "Part II continues R.K. Narayan's story. A small problem becomes complicated because people act on fixed ideas instead of understanding the situation. The tiger is locked in the Headmaster's room, and officials refuse to let the circus Master go in, though he is the only one who can lead the tiger out peacefully.",
+    "## What happens",
+    "The tiger wakes after a good sleep, sees the Headmaster cowering in the attic, stretches and roars — just because he feels alive — and scratches the wall and growls softly, which makes the Headmaster even more nervous. Outside, his Master tells the crowd that the tiger will come out and walk away with him, and asks someone to take a ladder in to help the Headmaster down.",
+    "The people ask if he will go in without arms or protection. The Chairman of the 'Tiger Committee', using his powers as second Honorary Magistrate, forbids him to open or enter the room. When the Master asks why, they say 'It's unlawful to commit suicide.' The Master asks which law says a man should not approach a tiger — circus people do it all the time — and says, 'I can tame a tiger. It's after all my life that I'm risking.'",
+    "The confused Chairman insists he sign an affidavit absolving everyone of all responsibility for his life or death. The Master writes what the Chairman dictates and signs it 'just to respect your magistracy', though he thinks it unnecessary — 'You are exercising unnecessary authority.' The Chairman then objects that it is written in a language he does not know. The Master explains that it is in Sanskrit, the language of the scriptures and of the gods; he writes only Sanskrit, though he knows ten other languages including Japanese. Without further ado he unlocks the door.",
+    "He tells the tiger: 'Human beings, for all their bluster, are timid creatures. They are likely to panic when they see you. Don't look at them. That's the only way to maintain one's peace of mind.'",
+    "## Themes",
+    "The story laughs at foolish officials, needless red tape and people's fear of animals. The Master is calm, wise and fearless, and he understands and respects the tiger. Proper knowledge and communication can solve problems that fear and fixed ideas make worse."
+  ],
+  "tf": [
+    ["The tiger roared because he wanted to frighten the Headmaster.", false, null, {"note": "He roared 'for no particular reason except that he felt alive'."}],
+    ["The Master asked for a ladder to help the Headmaster come down.", true],
+    ["The Chairman of the Tiger Committee happily allowed the Master to enter.", false],
+    ["The Master wrote the affidavit in Sanskrit.", true],
+    ["The Master said that human beings are timid creatures.", true],
+    ["The police called the Magistrate to stop the Master.", false, ["October 2024"]]
+  ],
+  "characters": [
+    ["The Chairman of the Tiger Committee", "the second Honorary Magistrate who demanded an affidavit"],
+    ["The circus Master", "wrote the affidavit in Sanskrit"],
+    ["The Headmaster", "was cowering in the attic"]
+  ],
+  "extracts": [
+    {"passage": "The Chairman was visibly confused and bewildered. 'In that case you will have to sign an affidavit absolving us from all responsibilities for your life or death'. 'All right, give me a piece of paper and tell me what to write.' The Magistrate took out a sheet of paper from his briefcase and gave it to my Master.",
+     "items": [["The Chairman was visibly confused and ________.", "bewildered"], ["The Master had to sign an ________.", "affidavit"], ["The Magistrate took a sheet of paper out of his ________.", "briefcase"]],
+     "years": ["April 2021"]},
+    {"passage": "'Let us go now,' said my Master. 'You must realise that human beings, for all their bluster are timid creatures. They are likely to panic when they see you. Don't look at them. That's the only way to maintain one's peace of mind.'",
+     "items": [["The Master said that human beings are ________ creatures.", "timid"], ["People are likely to ________ when they see the tiger.", "panic"], ["Not looking at them is the only way to maintain one's peace of ________.", "mind"]]}
+  ],
+  "complete": [
+    ["When the tiger woke up, he saw the Headmaster cowering in the ________.", "attic"],
+    ["The Chairman gave notice using his powers as the second Honorary ________.", "Magistrate"],
+    ["The officials said it was unlawful to commit ________.", "suicide"],
+    ["The Master knew ten other languages including ________.", "Japanese"]
+  ],
+  "sa2": [
+    ["Why did the teachers and officials refuse to let the circus master enter the Headmaster's room?", "They believed the tiger was a ferocious beast and that going near it was suicide; they also wanted to avoid responsibility if anything happened to him.", ["October 2025"]],
+    ["Why did the Master have to sign an affidavit before he was allowed to enter the room?", "The Chairman wanted to absolve himself and everyone present from all responsibility for the Master's life or death.", ["April 2021"]],
+    ["Why did the Chairman refuse to accept the affidavit?", "It was written in Sanskrit, a language he did not know, so he could not read what the Master had written."],
+    ["What advice did the Master give the tiger at the end?", "He told the tiger that human beings are timid creatures likely to panic, so the tiger should not look at them — that is the only way to keep one's peace of mind."],
+    ["What did the Master mean by 'You are exercising unnecessary authority'?", "He meant that the Chairman was using his official power without need, since the Master was willing to risk his own life and the affidavit was uncalled for and irrelevant."]
+  ],
+  "sa3": [
+    ["Describe the argument between the Master and the Chairman of the Tiger Committee.", "The Chairman forbade the Master to enter the room, saying it was unlawful to commit suicide. The Master asked which law stopped a man from approaching a tiger, as circus people did it all the time, and said he was risking only his own life. The Chairman then made him sign an affidavit, but refused it because it was in Sanskrit. The Master simply unlocked the door.", null, {"or": ["What qualities of the circus Master do you find in the story?", "He is calm, fearless and confident that he can tame the tiger. He respects animals and objects to words like 'brute'. He is witty and scholarly — he writes only Sanskrit and knows ten languages — and he has no patience with foolish authority."]}]
+  ]
+}

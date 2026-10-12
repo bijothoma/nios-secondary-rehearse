@@ -76,3 +76,6 @@ The lesson then opens with a menu: Lesson, Lesson with translation, and the mode
   Re-run it after changing a lesson paper.
 - `tools/build_deo.py`: builds Data Entry Operations from `data/data-entry/src/lesson-<n>.json`
   (summary, chapter practice set and three full papers in the April 2026 layout: 25 questions, 40 marks).
+- `tools/build_english.py`: builds English from `data/english/src/lesson-<n>.json` (summary and literature
+  practice set per lesson) and `data/english/src/papers.json` (reading, writing and grammar of three full
+  papers in the April 2026 layout: 35 questions, 100 marks).

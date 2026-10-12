@@ -1,0 +1,326 @@
+{
+  "subject": "english",
+  "lesson": 26,
+  "title": "Ustad Bismillah Khan",
+  "author": null,
+  "meta": "Biography · Literature practice set",
+  "instructions": [
+    "Literature practice for this lesson in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Identify the following sentences as True or False.",
+      "marks": "6 × 1 = 6",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "Bismillah Khan religiously practised the violin to attain perfection.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2024"
+          ],
+          "fixed": true
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "The waters of the Ganga inspired him to invent ragas beyond the range of the shehnai.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2024"
+          ],
+          "fixed": true
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "Bismillah Khan often played the shehnai at the Hanuman Temple.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2024"
+          ],
+          "fixed": true
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "The Vishwanath Temple is on the banks of the Ganga.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2024"
+          ],
+          "fixed": true
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "Bismillah Khan accepted permanent citizenship of the USA.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "fixed": true
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "He called his shehnai 'begum' after his wife died.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "fixed": true
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Match the character (or speaker) with the description.",
+      "marks": "3 × 1 = 3",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "match",
+          "left": "Ali Baksh",
+          "right": "Bismillah Khan's maternal uncle and teacher",
+          "answer": "Ali Baksh — Bismillah Khan's maternal uncle and teacher"
+        },
+        {
+          "id": "2.2",
+          "type": "match",
+          "left": "Rasool Baksh Khan",
+          "right": "the grandfather who uttered 'Bismillah'",
+          "answer": "Rasool Baksh Khan — the grandfather who uttered 'Bismillah'"
+        },
+        {
+          "id": "2.3",
+          "type": "match",
+          "left": "Bismillah Khan",
+          "right": "the shehnai maestro who received the Bharat Ratna",
+          "answer": "Bismillah Khan — the shehnai maestro who received the Bharat Ratna"
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Read the passage and fill in the blanks.",
+      "marks": "3 × 1 = 3",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "Despite his fame Bismillah Khan always remained ________.",
+          "answer": "simple",
+          "years": [
+            "April 2016"
+          ]
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "He lived in humble surroundings in the holy city of ________.",
+          "answer": "Varanasi",
+          "years": [
+            "April 2016"
+          ]
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "His favourite mode of transport was the ________.",
+          "answer": "cycle rickshaw",
+          "years": [
+            "April 2016"
+          ]
+        }
+      ],
+      "passage": "Despite the fame that he got, Bismillah Khan always remained simple. He never accumulated wealth and other material possessions. He lived in humble surroundings in the holy city of Varanasi. His favourite mode of transport was the cycle rickshaw."
+    },
+    {
+      "no": 4,
+      "title": "Read the passage and fill in the blanks.",
+      "marks": "3 × 1 = 3",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "Bismillah Khan attained perfection in a very ________ time.",
+          "answer": "short",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "The flowing waters of the River ________ inspired him.",
+          "answer": "Ganga",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "He often played at the ________ Temple.",
+          "answer": "Vishwanath",
+          "years": [
+            "April 2024"
+          ]
+        }
+      ],
+      "passage": "Bismillah Khan religiously practised the shehnai and attained perfection in a very short time. The flowing waters of the River Ganga inspired him to improvise and invent 'ragas' that were earlier considered to be beyond the range of shehnai. He often played the shehnai at the Vishwanath Temple on the banks of River Ganga."
+    },
+    {
+      "no": 5,
+      "title": "Complete the following sentences.",
+      "marks": "6 × 1 = 6",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "Khan received India's highest civilian award, the ________, in 2001.",
+          "answer": "Bharat Ratna",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "Khan started learning to play the shehnai from his ________.",
+          "answer": "maternal uncle, Ali Baksh",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "His favourite mode of transport was the ________.",
+          "answer": "cycle rickshaw",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "Bismillah Khan was earlier named ________.",
+          "answer": "Qamaruddin",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "5.5",
+          "type": "open",
+          "q": "When his ________ saw him as a baby, he uttered the word 'Bismillah'.",
+          "answer": "grandfather (Rasool Baksh Khan)",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "5.6",
+          "type": "open",
+          "q": "His father was a musician in the court of ________ of Dumraon.",
+          "answer": "Maharaja Keshav Prasad Singh",
+          "years": [
+            "October 2024"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 6,
+      "title": "Answer in one or two sentences (about 30 words).",
+      "marks": "5 × 2 = 10",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "6.1",
+          "type": "open",
+          "q": "How did Bismillah Khan get his name?",
+          "answer": "He was named Qamaruddin, but when his grandfather Rasool Baksh Khan saw him as a baby, he exclaimed 'Bismillah', and he came to be known as Bismillah Khan."
+        },
+        {
+          "id": "6.2",
+          "type": "open",
+          "q": "How was Ali Baksh a source of inspiration for Bismillah Khan?",
+          "answer": "Ali Baksh, the official shehnai player at the Vishwanath Temple, noticed his keenness and taught him; Bismillah followed him all day and practised for hours under his guidance.",
+          "years": [
+            "October 2019"
+          ]
+        },
+        {
+          "id": "6.3",
+          "type": "open",
+          "q": "What was the importance of the 1937 concert in Calcutta?",
+          "answer": "His concert at the All India Music Conference in Calcutta brought the shehnai into the limelight and was hugely appreciated by music lovers."
+        },
+        {
+          "id": "6.4",
+          "type": "open",
+          "q": "What honour did Bismillah Khan have on the eve of Independence?",
+          "answer": "He played the shehnai at the Red Fort in Delhi on the eve of Independence in 1947, and afterwards every year on 15 August after the Prime Minister's speech."
+        },
+        {
+          "id": "6.5",
+          "type": "open",
+          "q": "How was Bismillah Khan honoured at his death?",
+          "answer": "The Government declared a day of national mourning, and he was buried with his shehnai under a neem tree in Varanasi with a 21-gun salute from the Indian Army."
+        }
+      ]
+    },
+    {
+      "no": 7,
+      "title": "Answer in about 40 words.",
+      "marks": "1 × 3 = 3",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "7.1",
+          "type": "open",
+          "q": "How do we know that Bismillah Khan remained simple even after becoming famous?",
+          "answer": "He never accumulated wealth or material possessions, lived in humble surroundings in Varanasi, used a cycle rickshaw as his favourite transport, and declined an offer of permanent US citizenship out of love for his city and country.",
+          "years": [
+            "April 2025",
+            "April 2016"
+          ],
+          "or": {
+            "q": "What was Bismillah Khan's contribution to music and to national unity?",
+            "answer": "He made the shehnai famous and brought it into mainstream classical music, invented new ragas, and kept the legacy of classical music alive through his recitals. He believed in Hindu-Muslim unity, played at the Vishwanath Temple and often said 'Music has no caste', spreading brotherhood through music."
+          }
+        }
+      ]
+    }
+  ]
+}

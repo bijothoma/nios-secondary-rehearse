@@ -1,0 +1,54 @@
+{
+  "lesson": 8,
+  "title": "A Birthday Letter",
+  "kind": "Letter",
+  "author": "Jawaharlal Nehru",
+  "summary": [
+    "## About the letter",
+    "In 1930, when India was not free, Pandit Jawaharlal Nehru was in Naini Prison. He wrote this letter to his daughter Indira on her 13th birthday. Since he could not send any material present from prison, he sent her gifts 'of the mind and spirit' — thoughts and advice that 'even the high walls of prison cannot stop'.",
+    "## Key ideas",
+    "No sermons: Nehru dislikes sermonising and giving advice. He believes the best way to find out what is right is by talking and discussing, because 'out of discussion sometimes a little bit of truth comes out'. A letter is a one-sided affair, so he asks Indira to treat his suggestions as if they were talking together. The world is wide and full of wonders, so nobody should ever be bored or think they have learnt everything.",
+    "Heroes in history: he reminds Indira how fascinated she was by the story of Jeanne d'Arc (Joan of Arc) and wanted to be like her. Ordinary people usually think of bread and butter and household worries, but when a whole people become interested in a great cause, history helps even ordinary men and women become heroes. Great leaders inspire people to great deeds.",
+    "Bapuji (Gandhiji): a great leader full of love for all who suffer has inspired Indians to great actions and noble sacrifice and helped make the starving, poor and oppressed free and happy. Bapuji is in prison, but the magic of his message has stolen the hearts of millions; men, women and even children come out of their 'little shells' to become India's soldiers of freedom. India is 'making history', and they are fortunate to see it and take part in this great drama.",
+    "The test of right and wrong: to be India's soldiers we must respect India's honour, a sacred trust. Nehru gives one test for times of doubt: 'Never do anything in secret or anything that you would wish to hide.' The wish to hide means fear, and fear is bad and unworthy of her. 'Be brave, and all the rest follows.' In the freedom movement under Bapuji there is no secrecy; 'we work in the sun and in the light'. If she does the same in private life she will grow up 'a child of the light, unafraid and serene and unruffled'.",
+    "He ends by wishing her to grow up into 'a brave soldier in India's service', signing 'Your loving father, Jawaharlal Nehru'.",
+    "## Values",
+    "Courage, honesty and openness; love of the country; respect for discussion rather than sermons; the power of a letter as a means of communication."
+  ],
+  "tf": [
+    ["Indira wrote a letter to her father on his birthday.", false, ["April 2026"]],
+    ["Nehru, her father, was in prison.", true, ["April 2026"]],
+    ["Bapuji's message did not have any effect on Indians.", false, ["April 2026"]],
+    ["Nehru likes giving sermons and good advice.", false],
+    ["The letter was written from Naini Prison in 1930.", true, ["October 2021"]],
+    ["Nehru asked Indira never to do anything in secret.", true]
+  ],
+  "characters": [
+    ["Jawaharlal Nehru", "wrote a letter from Naini Prison"],
+    ["Indira", "received the letter on her 13th birthday"],
+    ["Jeanne d'Arc", "the heroine Indira wanted to be like"],
+    ["Bapuji", "the leader whose message stole the hearts of millions"]
+  ],
+  "extracts": [
+    {"passage": "Bapuji is in prison, but the magic of his message has stolen the hearts of India's millions. Men and women, and even little children, come out of their little shells and become India's soldiers of freedom. In India today we are making history, and you and I are fortunate to see this happening before our eyes and to take some part ourselves in this great drama.",
+     "items": [["The magic of Bapuji's message has stolen the hearts of India's ________.", "millions"], ["Even little children come out of their little ________.", "shells"], ["They become India's soldiers of ________.", "freedom"]]},
+    {"passage": "Never do anything in secret or anything that you would wish to hide. For the desire to hide anything means that you are afraid, and fear is a bad thing and unworthy of you. Be brave, and all the rest follows.",
+     "items": [["Nehru asks Indira never to do anything in ________.", "secret"], ["The desire to hide anything means that you are ________.", "afraid"], ["Be ________, and all the rest follows.", "brave"]]}
+  ],
+  "complete": [
+    ["Nehru wrote the letter on Indira's ________ birthday.", "13th"],
+    ["Nehru's presents could only be of the mind and ________.", "spirit"],
+    ["Indira had been fascinated by the story of ________.", "Jeanne d'Arc (Joan of Arc)"],
+    ["Nehru hoped Indira would grow up into a brave ________ in India's service.", "soldier"]
+  ],
+  "sa2": [
+    ["Why was Pandit Nehru not able to send a gift to Indira on her birthday?", "He was imprisoned in Naini Prison by the British, so he could not send any material present; he could only send presents of the mind and spirit through his letter.", ["October 2024"]],
+    ["Why does Nehru dislike sermonising?", "He believes that the best way to find out what is right and wrong is by talking and discussing, because truth comes out of discussion, not out of lectures."],
+    ["What 'little test' does Nehru ask Indira to apply when she is in doubt?", "Never to do anything in secret or anything she would wish to hide, because the desire to hide shows fear, and fear is unworthy of her."],
+    ["What qualities of a soldier did Nehru want his daughter to have?", "He wanted her to be brave and fearless, honest and open, to respect India's honour as a sacred trust and to serve the country.", ["October 2022"]],
+    ["How does history make ordinary people heroes, according to Nehru?", "When a whole people become interested in a great cause, history helps even simple, ordinary men and women to become heroes, inspired by great leaders."]
+  ],
+  "sa3": [
+    ["What message does Nehru give Indira in 'A Birthday Letter'?", "He tells her to learn by discussion, not sermons; to remember that great causes turn ordinary people into heroes, as Bapuji's message has done in India; and to do nothing in secret, because fear is unworthy of her. He wants her to be brave, work in the light and grow up a brave soldier in India's service.", null, {"or": ["Why does Nehru call the freedom struggle a 'great drama'? What part does he want Indira to play?", "India is 'making history' as millions, inspired by Bapuji, become soldiers of freedom — it is like a great drama unfolding before their eyes. Nehru wants Indira to take part in it as a brave, honest soldier who respects India's honour and does nothing in secret."]}]
+  ]
+}

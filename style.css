@@ -113,6 +113,7 @@ a.btn { display: inline-block; text-decoration: none; }
 }
 .q-text { margin: 0 0 10px; font-weight: 600; }
 .q-img { display: block; max-width: 100%; height: auto; margin: 0 0 12px; border: 1px solid #d0d5dd; border-radius: 6px; }
+.passage { white-space: pre-line; margin: 0 0 14px; padding: 12px 14px; border-left: 4px solid #d0d5dd; background: #f2f4f7; background: rgba(127,127,127,.08); border-radius: 6px; line-height: 1.6; }
 .or { margin: 6px 0; font-weight: 700; text-align: center; letter-spacing: .1em; }
 .q-num { color: #3b5bdb; color: var(--accent); margin-right: 6px; }
 .year {

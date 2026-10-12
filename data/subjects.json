@@ -323,7 +323,122 @@
       "id": "english",
       "name": "English",
       "label": "",
-      "lessons": []
+      "lessons": [
+        {
+          "no": 1,
+          "title": "Snake Bite",
+          "file": "data/english/lesson-1.json",
+          "summary": "data/english/summary/lesson-1.json"
+        },
+        {
+          "no": 3,
+          "title": "Kondiba — A Hero",
+          "file": "data/english/lesson-3.json",
+          "summary": "data/english/summary/lesson-3.json"
+        },
+        {
+          "no": 5,
+          "title": "A Tiger Comes to Town (I)",
+          "file": "data/english/lesson-5.json",
+          "summary": "data/english/summary/lesson-5.json"
+        },
+        {
+          "no": 6,
+          "title": "A Tiger Comes to Town (II)",
+          "file": "data/english/lesson-6.json",
+          "summary": "data/english/summary/lesson-6.json"
+        },
+        {
+          "no": 8,
+          "title": "A Birthday Letter",
+          "file": "data/english/lesson-8.json",
+          "summary": "data/english/summary/lesson-8.json"
+        },
+        {
+          "no": 9,
+          "title": "Nine Gold Medals",
+          "file": "data/english/lesson-9.json",
+          "summary": "data/english/summary/lesson-9.json"
+        },
+        {
+          "no": 12,
+          "title": "Indian Weavers",
+          "file": "data/english/lesson-12.json",
+          "summary": "data/english/summary/lesson-12.json"
+        },
+        {
+          "no": 13,
+          "title": "The Last Stone Mason",
+          "file": "data/english/lesson-13.json",
+          "summary": "data/english/summary/lesson-13.json"
+        },
+        {
+          "no": 14,
+          "title": "Stealing and Atonement",
+          "file": "data/english/lesson-14.json",
+          "summary": "data/english/summary/lesson-14.json"
+        },
+        {
+          "no": 16,
+          "title": "My Only Cry",
+          "file": "data/english/lesson-16.json",
+          "summary": "data/english/summary/lesson-16.json"
+        },
+        {
+          "no": 19,
+          "title": "A Prayer for Healing",
+          "file": "data/english/lesson-19.json",
+          "summary": "data/english/summary/lesson-19.json"
+        },
+        {
+          "no": 22,
+          "title": "The Truth",
+          "file": "data/english/lesson-22.json",
+          "summary": "data/english/summary/lesson-22.json"
+        },
+        {
+          "no": 23,
+          "title": "The Return of the Lion",
+          "file": "data/english/lesson-23.json",
+          "summary": "data/english/summary/lesson-23.json"
+        },
+        {
+          "no": 24,
+          "title": "Co-operate and Prosper",
+          "file": "data/english/lesson-24.json",
+          "summary": "data/english/summary/lesson-24.json"
+        },
+        {
+          "no": 26,
+          "title": "Ustad Bismillah Khan",
+          "file": "data/english/lesson-26.json",
+          "summary": "data/english/summary/lesson-26.json"
+        },
+        {
+          "no": 27,
+          "title": "The Parrot Who Wouldn't Talk",
+          "file": "data/english/lesson-27.json",
+          "summary": "data/english/summary/lesson-27.json"
+        },
+        {
+          "no": 901,
+          "tag": "Full paper",
+          "title": "Model Question Paper 1",
+          "file": "data/english/paper-1.json"
+        },
+        {
+          "no": 902,
+          "tag": "Full paper",
+          "title": "Model Question Paper 2",
+          "file": "data/english/paper-2.json"
+        },
+        {
+          "no": 903,
+          "tag": "Full paper",
+          "title": "Model Question Paper 3",
+          "file": "data/english/paper-3.json"
+        }
+      ]
     }
   ]
 }

@@ -1,0 +1,48 @@
+{
+  "lesson": 22,
+  "title": "The Truth",
+  "kind": "Poem",
+  "author": "Barrie Wade",
+  "summary": [
+    "## Introduction",
+    "Our scriptures teach us to control strong emotions like anger and jealousy. Lines from the Atharva Veda say words can confer strength or drown it, gain friends or turn them into enemies, elevate or lower a person — so we must make our words 'sweet, soft and pleasant'. (The Atharva Veda is one of the four Vedas: Rig, Yajur, Sama and Atharva.)",
+    "## The poem",
+    "The poem begins with the old saying 'Sticks and stones may break my bones' but changes its ending: 'But words can also hurt me.' Stones and sticks break only skin, while words are 'ghosts that haunt me' — they keep coming back to the mind.",
+    "Harsh words are like swords, 'slant and curved', that pierce and stick inside us. Bats and bricks may cause aches in the bones, but words can 'mortify' (deeply hurt and humiliate) us. The pain from words leaves a scar on the tender mind and heart. Cuts and bruises have healed, 'it's words that I remember'.",
+    "## Message and devices",
+    "Physical injuries heal in time, but the emotional pain caused by unkind words lasts long. We should think before we speak and use kind, polite words, because words can build or destroy relationships. Devices: metaphors (words are ghosts, word swords), contrast between physical and mental pain, alliteration ('sticks and stones', 'bats and bricks'), rhyme (me/me, inside me/mortify me, tender/remember)."
+  ],
+  "tf": [
+    ["The poem 'The Truth' is written by Barrie Wade.", true, ["October 2025"]],
+    ["According to the poet, sticks and stones can hurt us emotionally.", false, ["October 2025"]],
+    ["Unkind words can cause long-lasting emotional pain.", true, ["October 2025"]],
+    ["The poet says words are ghosts that haunt us.", true],
+    ["Cuts and bruises leave a scar on the heart forever.", false],
+    ["The lines 'Words can confer strength…' are from the Atharva Veda.", true, ["April 2023"]]
+  ],
+  "characters": [
+    ["The speaker", "remembers hurtful words long after cuts have healed"]
+  ],
+  "extracts": [
+    {"passage": "Sticks and stones may break my bones\nBut words can also hurt me.\nStones and sticks break only skin\nWhile words are ghosts that haunt me.",
+     "items": [["Sticks and stones may break my ________.", "bones"], ["Stones and sticks break only ________.", "skin"], ["Words are ________ that haunt me.", "ghosts"]],
+     "years": ["October 2022"]},
+    {"passage": "Pain from words has left its scar\nOn mind and heart that's tender.\nCuts and bruises now have healed;\nIt's words that I remember.",
+     "items": [["Pain from words has left its ________.", "scar"], ["The scar is on the mind and heart that are ________.", "tender"], ["Cuts and bruises have healed, but the poet remembers the ________.", "words"]]}
+  ],
+  "complete": [
+    ["Slant and curved the word ________ fall.", "swords"],
+    ["Bats and bricks may ache through bones, but words can ________ me.", "mortify"],
+    ["The Atharva Veda advises us to make our words sweet, soft and ________.", "pleasant"]
+  ],
+  "sa2": [
+    ["How is the mental pain inflicted on us different from the physical pain?", "Physical pain from sticks and stones affects only the skin and bones and heals in time, but mental pain from words haunts us and leaves a lasting scar on the mind and heart.", ["April 2026"]],
+    ["Why are words referred to as ghosts in the poem 'The Truth'?", "Because hurtful words keep coming back to the mind again and again and haunt us long after they are spoken, like ghosts.", ["October 2024", "April 2024"]],
+    ["What does 'But words can mortify me' mean?", "It means that unkind words can hurt and humiliate us deeply.", ["April 2016"]],
+    ["Why are words compared to swords?", "Harsh words pierce and stick inside us like sharp, curved swords, causing deep inner wounds."],
+    ["What damage does the poet describe in 'The Truth'?", "Sticks, stones, bats and bricks break skin and bones, but words haunt, pierce and mortify, leaving scars on the tender mind and heart.", ["October 2021"]]
+  ],
+  "sa3": [
+    ["What is the central idea of the poem 'The Truth'?", "Physical injuries from sticks and stones heal, but words can hurt more deeply and for longer; they haunt us like ghosts, pierce like swords and leave scars on the mind and heart. So we should be careful about what we say and use kind, pleasant words.", null, {"or": ["How does the poet change the old saying 'Sticks and stones may break my bones'?", "The usual saying ends 'but words will never hurt me'. The poet changes it to 'But words can also hurt me', showing that words hurt even more than physical blows because their pain lasts long after cuts and bruises have healed."]}]
+  ]
+}

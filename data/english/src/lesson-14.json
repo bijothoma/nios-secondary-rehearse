@@ -1,0 +1,55 @@
+{
+  "lesson": 14,
+  "title": "Stealing and Atonement",
+  "kind": "Autobiography",
+  "author": "M.K. Gandhi (adapted from 'My Experiments with Truth')",
+  "summary": [
+    "## About the lesson",
+    "These extracts from Gandhiji's autobiography tell how, as a boy, he smoked and stole, and how a clean confession to his father cleansed him. It shows that children learn by imitating others, that they can resist negative influences, and that a sincere confession with a promise never to repeat the wrong is the purest repentance.",
+    "## Smoking and stealing coppers",
+    "Gandhiji and a relative became fond of smoking — not because they liked it, but because they imagined some pleasure in blowing out clouds of smoke. They copied his uncle, collecting the stubs of cigarettes he threw away. As stubs were not always available, they stole coins (coppers) from the servant's pocket money to buy Indian cigarettes, and also smoked the porous stalks of a plant.",
+    "## The suicide attempt",
+    "Unhappy that they could do nothing without their elders' permission, in sheer disgust they decided to commit suicide. They collected dhatura seeds (a poison) from the jungle, went to Kedarjee Mandir in the evening, put ghee in the temple lamp and had darshan. But their courage failed — what if they did not die instantly? They swallowed only two or three seeds and went to Ramji Mandir to compose themselves. Gandhiji realised it is not as easy to commit suicide as to think about it. The episode made them give up smoking stubs and stealing. Later in life he always considered smoking barbarous, dirty and harmful.",
+    "## The gold theft and confession",
+    "At fifteen he committed a more serious theft: his brother owed about twenty-five rupees, so Gandhiji clipped a bit of gold from his brother's solid-gold armlet and the debt was cleared. The guilt became unbearable. He resolved never to steal again and decided to confess to his father — not out of fear of being beaten (his father never beat them) but fear of the pain he would cause him. He wrote out the confession on a slip of paper, asked for adequate punishment, asked his father not to punish himself for the offence, and pledged never to steal again.",
+    "Trembling, he handed it to his father, who was ill and lying on a plain wooden plank. His father read it, tears trickled down his cheeks and wet the paper; he closed his eyes in thought and tore up the note. Gandhiji also cried. 'Those tears of love cleansed my heart, and washed my sin away.' Later he understood it was pure Ahimsa (non-violence), which changes everything it touches. His father's sublime forgiveness was unexpected; Gandhiji believed it was due to his clean confession, which made his father feel safe about him and increased his affection.",
+    "## Message",
+    "Admitting our mistakes honestly, asking for punishment and promising not to repeat them is true atonement. Love and forgiveness (Ahimsa) have unlimited power to reform people."
+  ],
+  "tf": [
+    ["Gandhiji's grandfather had the habit of smoking.", false, ["October 2025"], {"note": "It was his uncle."}],
+    ["Gandhiji and his relative stole coins from the servant's pocket money to buy cigarettes.", true, ["October 2025"]],
+    ["Gandhiji handed the confession to his mother.", false, ["October 2025"]],
+    ["The boys swallowed only two or three dhatura seeds.", true],
+    ["Gandhiji's father beat him after reading the confession.", false],
+    ["Gandhiji stole a bit of gold from his brother's armlet.", true]
+  ],
+  "characters": [
+    ["Gandhiji", "confessed his theft in writing to his father"],
+    ["Gandhiji's father", "tore up the confession with tears of love"],
+    ["Gandhiji's uncle", "threw away the cigarette stubs the boys smoked"]
+  ],
+  "extracts": [
+    {"passage": "But we were far from being satisfied with such things as these. Our want of independence began to upset us. It was unbearable that we should be unable to do anything without the permission of our elders. At last, in sheer disgust, we decided to commit suicide!",
+     "items": [["Their want of ________ began to upset them.", "independence"], ["They could not do anything without the permission of their ________.", "elders"], ["In sheer disgust they decided to commit ________.", "suicide"]],
+     "years": ["April 2021"]},
+    {"passage": "He read it through, and tears trickled down his cheeks, wetting the paper. For a moment he closed his eyes in thought and then tore up the note. He had sat up to read it. He lay down again. I also cried. I could see my father's agony.",
+     "items": [["Tears trickled down the father's ________.", "cheeks"], ["After reading the note he ________ it up.", "tore"], ["Gandhiji could see his father's ________.", "agony"]]}
+  ],
+  "complete": [
+    ["Gandhiji and his relative began smoking by collecting the ________ of cigarettes thrown away by his uncle.", "stubs", ["October 2022"]],
+    ["They heard that ________ seeds were an effective poison.", "dhatura"],
+    ["The boys went to ________ Mandir to compose themselves.", "Ramji", ["April 2016"]],
+    ["Gandhiji later understood that his father's forgiveness was pure ________.", "Ahimsa"]
+  ],
+  "sa2": [
+    ["Why did Gandhiji and his relative decide to commit suicide?", "They were upset by their lack of independence — they could not do anything without their elders' permission — so in sheer disgust they decided to commit suicide.", ["April 2026"]],
+    ["Why did Gandhiji and his relative steal money from the servant's pocket money?", "Cigarette stubs were not always available and gave little smoke, so they stole coins from the servant's pocket money to buy Indian cigarettes.", ["April 2025"]],
+    ["How did the author and his relative become fond of smoking?", "They imagined some pleasure in blowing out clouds of smoke and copied his uncle, who smoked, by collecting and smoking the stubs he threw away.", ["October 2024"]],
+    ["Why was Gandhiji afraid to confess to his father?", "Not because he feared a beating — his father never beat them — but because he was afraid of the pain his confession would cause his father."],
+    ["What did Gandhiji write in his confession?", "He confessed his guilt, asked for adequate punishment, requested his father not to punish himself for the offence, and pledged never to steal again."]
+  ],
+  "sa3": [
+    ["How did Gandhiji's father react to his confession? What lesson did Gandhiji learn from it?", "His father read the note, tears ran down his cheeks, he closed his eyes in thought and tore it up without a harsh word. Gandhiji learnt that a clean confession with a promise not to repeat the wrong is the purest repentance, and that love and forgiveness (Ahimsa) have unlimited power to change a person.", ["April 2021", "October 2025"], {"or": ["What lesson did Gandhiji learn from the suicide attempt?", "When they swallowed a few dhatura seeds their courage failed and they went to Ramji Mandir to calm down. He realised it was not as easy to commit suicide as to think about it, and it is better to bear one's difficulties. The episode made them give up smoking stubs and stealing coppers."]}]
+  ]
+}

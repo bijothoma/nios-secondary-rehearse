@@ -1,0 +1,1010 @@
+{
+  "subject": "english",
+  "lesson": 903,
+  "title": "Model Question Paper 3",
+  "meta": "Time: 3 hours · Maximum marks: 100 · Modelled on the April 2026 NIOS paper",
+  "instructions": [
+    "There are 35 questions in two parts. All questions are compulsory; where there is an OR, answer one.",
+    "Part A (questions 1–16) and questions 24–28: objective questions of 1 mark each.",
+    "Questions 17–20, 23 and 30–35: 2 marks each, up to 30 words. Question 29: 3 marks, up to 40 words. Question 22: 4 marks, about 100 words. Question 21: 6 marks, 150–200 words.",
+    "Literature questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "PART A · Section A: Reading. Answer in ONE word.",
+      "marks": "3 × 1 = 3",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "open",
+          "q": "In which state was Kalpana Chawla born?",
+          "answer": "Haryana"
+        },
+        {
+          "id": "1.2",
+          "type": "open",
+          "q": "Which organisation selected her as an astronaut?",
+          "answer": "NASA"
+        },
+        {
+          "id": "1.3",
+          "type": "open",
+          "q": "What was the name of the space shuttle on her second mission?",
+          "answer": "Columbia"
+        }
+      ],
+      "passage": "Kalpana Chawla was born in Karnal, Haryana, in 1962. As a little girl she loved to watch aeroplanes flying over her town and often drew pictures of them. Her teachers remembered her as a curious student who asked many questions.\nAfter studying aeronautical engineering in Chandigarh, she went to the United States for higher studies and earned a doctorate. In 1994 she was selected by NASA as an astronaut. In 1997 she became the first woman of Indian origin to go into space, travelling more than ten million kilometres around the earth.\nIn 2003 she flew on her second mission aboard the space shuttle Columbia. Sadly, on its return journey the shuttle broke apart just minutes before landing, and all seven crew members lost their lives.\nKalpana's life continues to inspire young people, especially girls from small towns. She showed that with hard work, courage and a big dream, nothing is impossible. Schools, hostels and even a satellite have been named after her."
+    },
+    {
+      "no": 2,
+      "title": "Choose the correct option (from the passage above).",
+      "marks": "1 × 1 = 1",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "mcq",
+          "q": "Choose a word from the passage which means 'eager to know':",
+          "options": [
+            "curious",
+            "impossible",
+            "sadly",
+            "higher"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Based on the passage above, write True or False.",
+      "marks": "3 × 1 = 3",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "mcq",
+          "q": "Kalpana Chawla loved watching aeroplanes as a child.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "fixed": true
+        },
+        {
+          "id": "3.2",
+          "type": "mcq",
+          "q": "She was the first woman of Indian origin to go into space.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "fixed": true
+        },
+        {
+          "id": "3.3",
+          "type": "mcq",
+          "q": "Columbia landed safely after her second mission.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "fixed": true
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Section B: Writing (notice). Answer the questions with reference to the context.",
+      "marks": "4 × 1 = 4",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "mcq",
+          "q": "Which date should appear on the notice?",
+          "options": [
+            "the date of writing the notice",
+            "Deepak's birthday",
+            "the date of the final exam",
+            "no date at all"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "4.2",
+          "type": "mcq",
+          "q": "Which title suits the notice best?",
+          "options": [
+            "Clean Campus, Green Campus",
+            "Lost Wallet",
+            "Cricket Match",
+            "Library Fine"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "4.3",
+          "type": "mcq",
+          "q": "Which instruction suits this notice?",
+          "options": [
+            "Bring gloves and a cloth bag.",
+            "Bring your favourite toy.",
+            "Wear your party dress.",
+            "Bring a mobile phone."
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "4.4",
+          "type": "mcq",
+          "q": "A notice is usually written in a —",
+          "options": [
+            "box",
+            "circle",
+            "triangle",
+            "speech bubble"
+          ],
+          "answer": "A"
+        }
+      ],
+      "passage": "You are Deepak, Secretary of the Eco Club of Modern School. Write a notice about a 'Cleanliness Drive' in the school campus on Saturday, 20 September."
+    },
+    {
+      "no": 5,
+      "title": "Section B: Writing (article). Answer the questions with reference to the context.",
+      "marks": "4 × 1 = 4",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "mcq",
+          "q": "Which title suits the article best?",
+          "options": [
+            "Every Drop Counts",
+            "Time is Money",
+            "Practice Makes Perfect",
+            "Early to Bed"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "5.2",
+          "type": "mcq",
+          "q": "Which point should be included?",
+          "options": [
+            "rainwater harvesting",
+            "the history of cricket",
+            "fashion trends",
+            "film reviews"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "5.3",
+          "type": "mcq",
+          "q": "The conclusion of the article should —",
+          "options": [
+            "appeal to readers to save water",
+            "introduce a new topic",
+            "list the writer's hobbies",
+            "give the date of birth"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "5.4",
+          "type": "mcq",
+          "q": "Which is NOT a part of an article?",
+          "options": [
+            "title",
+            "by-line",
+            "body",
+            "salutation like 'Dear Sir'"
+          ],
+          "answer": "D"
+        }
+      ],
+      "passage": "You are Sneha. Write an article on 'Save Water, Save Life'."
+    },
+    {
+      "no": 6,
+      "title": "Section B: Writing (letter). Answer the questions with reference to the context.",
+      "marks": "5 × 1 = 5",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "6.1",
+          "type": "mcq",
+          "q": "This letter is a/an —",
+          "options": [
+            "informal letter",
+            "formal letter",
+            "notice",
+            "report"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "6.2",
+          "type": "mcq",
+          "q": "The correct salutation is —",
+          "options": [
+            "Dear Sir",
+            "Respected Father / Dear Papa",
+            "To the Editor",
+            "Respected Manager"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "6.3",
+          "type": "mcq",
+          "q": "What should the letter mainly talk about?",
+          "options": [
+            "the study timetable and revision",
+            "the neighbour's new car",
+            "the weather in Paris",
+            "cricket scores"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "6.4",
+          "type": "mcq",
+          "q": "Which should be left out?",
+          "options": [
+            "subjects revised",
+            "practice of sample papers",
+            "health and sleep",
+            "a long story about a film"
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "6.5",
+          "type": "mcq",
+          "q": "The correct closing is —",
+          "options": [
+            "Your loving son, Tarun",
+            "Yours faithfully",
+            "Yours obediently, Principal",
+            "Regards, Manager"
+          ],
+          "answer": "A"
+        }
+      ],
+      "passage": "You are Tarun. Write a letter to your father telling him about your preparation for the board examinations."
+    },
+    {
+      "no": 7,
+      "title": "Section C: Grammar. Choose the correct option to complete the note.",
+      "marks": "3 × 1 = 3",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "7.1",
+          "type": "mcq",
+          "q": "(i)",
+          "options": [
+            "were",
+            "was",
+            "are",
+            "have"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "7.2",
+          "type": "mcq",
+          "q": "(ii)",
+          "options": [
+            "is",
+            "was",
+            "were",
+            "has"
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "7.3",
+          "type": "mcq",
+          "q": "(iii)",
+          "options": [
+            "were",
+            "are",
+            "was",
+            "have"
+          ],
+          "answer": "C"
+        }
+      ],
+      "passage": "Each of the students (i) ______ given a book. The books (ii) ______ new. Every child (iii) ______ happy."
+    },
+    {
+      "no": 8,
+      "title": "Fill in the blanks with the correct form of the verbs given in brackets.",
+      "marks": "3 × 1 = 3",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "8.1",
+          "type": "open",
+          "q": "(i) study",
+          "answer": "has been studying"
+        },
+        {
+          "id": "8.2",
+          "type": "open",
+          "q": "(ii) join",
+          "answer": "will join"
+        },
+        {
+          "id": "8.3",
+          "type": "open",
+          "q": "(iii) be",
+          "answer": "are"
+        }
+      ],
+      "passage": "Raju (i) ______ (study) in this school for five years. Next year he (ii) ______ (join) college. His parents (iii) ______ (be) proud of him."
+    },
+    {
+      "no": 9,
+      "title": "Choose the correct option to fill in the blanks.",
+      "marks": "3 × 1 = 3",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "9.1",
+          "type": "mcq",
+          "q": "You ______ (must/might) obey traffic rules.",
+          "options": [
+            "must",
+            "might"
+          ],
+          "answer": "A",
+          "fixed": true
+        },
+        {
+          "id": "9.2",
+          "type": "mcq",
+          "q": "Let's go for a walk, ______ (shall/will) we?",
+          "options": [
+            "shall",
+            "will"
+          ],
+          "answer": "A",
+          "fixed": true
+        },
+        {
+          "id": "9.3",
+          "type": "mcq",
+          "q": "I ______ (was reading/read) when the phone rang.",
+          "options": [
+            "was reading",
+            "read"
+          ],
+          "answer": "A",
+          "fixed": true
+        }
+      ]
+    },
+    {
+      "no": 10,
+      "title": "Fill in the blanks with the correct prepositions.",
+      "marks": "4 × 1 = 4",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "10.1",
+          "type": "open",
+          "q": "She is afraid ______ the dark.",
+          "answer": "of"
+        },
+        {
+          "id": "10.2",
+          "type": "open",
+          "q": "Put the money ______ your pocket.",
+          "answer": "in (into)"
+        },
+        {
+          "id": "10.3",
+          "type": "open",
+          "q": "We walked ______ the river bank.",
+          "answer": "along"
+        },
+        {
+          "id": "10.4",
+          "type": "open",
+          "q": "He will return ______ a week.",
+          "answer": "in (within)"
+        }
+      ]
+    },
+    {
+      "no": 11,
+      "title": "Fill in the blanks with the correct conjunctions.",
+      "marks": "2 × 1 = 2",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "11.1",
+          "type": "open",
+          "q": "Hurry up, ______ you will miss the bus.",
+          "answer": "or"
+        },
+        {
+          "id": "11.2",
+          "type": "open",
+          "q": "I stayed at home ______ I was not well.",
+          "answer": "because (as, since)"
+        }
+      ]
+    },
+    {
+      "no": 12,
+      "title": "Section D: Literature. Identify the sentences as True or False (The Truth).",
+      "marks": "3 × 1 = 3",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "12.1",
+          "type": "mcq",
+          "q": "The poem 'The Truth' is written by Barrie Wade.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2025"
+          ],
+          "fixed": true
+        },
+        {
+          "id": "12.2",
+          "type": "mcq",
+          "q": "According to the poet, sticks and stones can hurt us emotionally.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2025"
+          ],
+          "fixed": true
+        },
+        {
+          "id": "12.3",
+          "type": "mcq",
+          "q": "Unkind words can cause long-lasting emotional pain.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2025"
+          ],
+          "fixed": true
+        }
+      ]
+    },
+    {
+      "no": 13,
+      "title": "Identify the sentences as True or False (The Parrot Who Wouldn't Talk).",
+      "marks": "3 × 1 = 3",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "13.1",
+          "type": "mcq",
+          "q": "Aunt Ruby's parrot was very fond of Aunt Ruby.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2025"
+          ],
+          "fixed": true
+        },
+        {
+          "id": "13.2",
+          "type": "mcq",
+          "q": "The narrator deliberately set the parrot free.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2025"
+          ],
+          "fixed": true
+        },
+        {
+          "id": "13.3",
+          "type": "mcq",
+          "q": "Aunt Ruby's parrot used to talk a lot to everyone.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2025"
+          ],
+          "fixed": true
+        }
+      ]
+    },
+    {
+      "no": 14,
+      "title": "Match the characters with the story.",
+      "marks": "3 × 1 = 3",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "14.1",
+          "type": "match",
+          "left": "Kondiba Gaikwad",
+          "right": "Kondiba — A Hero",
+          "answer": "Kondiba Gaikwad — Kondiba — A Hero"
+        },
+        {
+          "id": "14.2",
+          "type": "match",
+          "left": "The tiger",
+          "right": "A Tiger Comes to Town (I)",
+          "answer": "The tiger — A Tiger Comes to Town (I)"
+        },
+        {
+          "id": "14.3",
+          "type": "match",
+          "left": "Jawaharlal Nehru",
+          "right": "A Birthday Letter",
+          "answer": "Jawaharlal Nehru — A Birthday Letter"
+        }
+      ]
+    },
+    {
+      "no": 15,
+      "title": "Read the passage and fill in the blanks (The Last Stone Mason).",
+      "marks": "3 × 1 = 3",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "15.1",
+          "type": "open",
+          "q": "When the old man opened his eyes he found himself on the ________ in his bedroom.",
+          "answer": "cot",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "15.2",
+          "type": "open",
+          "q": "He thought that his son Gopal ________.",
+          "answer": "had come back",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "15.3",
+          "type": "open",
+          "q": "He heard the strong blows of the hammer on the top of a ________.",
+          "answer": "chisel",
+          "years": [
+            "October 2024"
+          ]
+        }
+      ],
+      "passage": "When the old man opened his eyes he found himself on the cot in his bedroom covered by a light cotton blanket. From the workshop the chipping around of the chisel reached his ears. He listened. Had he heard correctly? He could hear it again, strong blow of the hammer on the top of a chisel. Gopal! He was back."
+    },
+    {
+      "no": 16,
+      "title": "Complete the following sentences (Snake Bite).",
+      "marks": "3 × 1 = 3",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "16.1",
+          "type": "open",
+          "q": "Raja's grandparents are concerned about his ________.",
+          "answer": "well-being and safety",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "16.2",
+          "type": "open",
+          "q": "Raja's ________ throws the shell away.",
+          "answer": "Grandfather",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "16.3",
+          "type": "open",
+          "q": "Raja's grandfather advises him never to go near a ________ again.",
+          "answer": "snake",
+          "years": [
+            "October 2025"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 17,
+      "title": "PART B · Section A: Reading. Find words from the passage.",
+      "marks": "1 × 2 = 2",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "17.1",
+          "type": "open",
+          "q": "Find words from the passage that mean: (a) protect (b) expensive",
+          "answer": "(a) guard (b) costly"
+        }
+      ],
+      "passage": "Honey bees are among the most useful insects on earth. A single colony can have up to fifty thousand bees, and every bee has a job. The queen lays eggs, the drones mate with the queen, and the worker bees — all female — collect nectar, make honey, clean the hive and guard it.\nBees are famous for honey, but their greatest service is pollination. As a bee moves from flower to flower, pollen sticks to its body and is carried to other flowers, helping plants form fruits and seeds. About one-third of the food we eat, including apples, almonds and many vegetables, depends on pollinators like bees.\nUnfortunately bee populations are falling in many countries. The heavy use of pesticides, the loss of wild flowers, pollution and changes in climate are the main causes. Without bees, farmers would harvest much less, and food would become costly.\nWe can help by growing flowering plants, avoiding harmful chemicals in our gardens and buying honey from local beekeepers."
+    },
+    {
+      "no": 18,
+      "title": "Answer the question (passage above).",
+      "marks": "1 × 2 = 2",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "18.1",
+          "type": "open",
+          "q": "What are the duties of the worker bees?",
+          "answer": "The worker bees, all female, collect nectar, make honey, clean the hive and guard it."
+        }
+      ]
+    },
+    {
+      "no": 19,
+      "title": "Answer the question (passage above).",
+      "marks": "1 × 2 = 2",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "19.1",
+          "type": "open",
+          "q": "Why is pollination called the bees' greatest service?",
+          "answer": "Bees carry pollen from flower to flower, helping plants form fruits and seeds; about one-third of our food depends on pollinators like bees."
+        }
+      ]
+    },
+    {
+      "no": 20,
+      "title": "Answer the question (passage above).",
+      "marks": "1 × 2 = 2",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "20.1",
+          "type": "open",
+          "q": "Why are bee populations falling and how can we help?",
+          "answer": "Heavy use of pesticides, loss of wild flowers, pollution and climate change. We can grow flowering plants, avoid harmful chemicals and buy honey from local beekeepers."
+        }
+      ]
+    },
+    {
+      "no": 21,
+      "title": "Section B: Writing. Answer in 150–200 words.",
+      "marks": "1 × 6 = 6",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "21.1",
+          "type": "open",
+          "q": "You are Farhan of Class X. Write an article (150–200 words) on 'Junk Food and Our Health'. Clues: tasty and easily available — too much salt, sugar and fat — obesity and diseases — poor concentration — advertisements — healthy home food — role of parents and schools.",
+          "answer": "Points: title and by-line; introduction (popularity of burgers, chips, cold drinks); harmful effects — obesity, diabetes, heart problems, tooth decay, tiredness and poor concentration; why children choose it — taste, advertisements, convenience; solutions — fruits, home-cooked meals, healthy canteen menus, awareness by parents and schools; conclusion — 'we are what we eat'. 150–200 words.",
+          "or": {
+            "q": "You are Ritu. Write a report (150–200 words) for your school magazine on the 'Blood Donation Camp' organised by your school.",
+            "answer": "Points: heading, by-line; date, venue and organisers (school with a hospital/Red Cross); inauguration by the chief guest; number of donors (teachers, parents, staff), medical check-up, refreshments and certificates; awareness talk on the importance of blood donation; conclusion on the success and appeal to donate regularly."
+          }
+        }
+      ]
+    },
+    {
+      "no": 22,
+      "title": "Answer in about 100 words.",
+      "marks": "1 × 4 = 4",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "22.1",
+          "type": "open",
+          "q": "You are Sunita of 10, Gandhi Nagar, Lucknow. Write a letter (about 100 words) to the Municipal Commissioner complaining about the garbage dumped near your colony.",
+          "answer": "Format: sender's address, date, The Municipal Commissioner with address, subject (Garbage dumped near Gandhi Nagar), 'Sir/Madam'. Body: heaps of garbage not cleared for weeks; foul smell, flies and mosquitoes; danger of diseases; request to clear it regularly and place dustbins. Closing 'Yours faithfully, Sunita'.",
+          "or": {
+            "q": "You are Ajay. Write an email (about 100 words) to your cousin describing the new school you have joined.",
+            "answer": "Include: To, Subject (My new school); greeting; the building, classrooms, library and playground; friendly teachers and new friends; activities and clubs; how you feel; asking about his/her school; closing with your name."
+          }
+        }
+      ]
+    },
+    {
+      "no": 23,
+      "title": "Write the message (about 40 words).",
+      "marks": "1 × 2 = 2",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "23.1",
+          "type": "open",
+          "q": "Read the conversation:\nPriya: Hello, is Neha there?\nNeha's brother: She has gone for her tuition. Any message?\nPriya: Yes. Tell her that the project on pollution must be submitted on Wednesday, not Friday. She should bring her charts to school tomorrow.\nNeha's brother: OK, I'll tell her.\nAs Neha's brother, write a message for Neha (about 40 words).",
+          "answer": "Message — date, time. Neha, Priya called. The pollution project must be submitted on Wednesday instead of Friday. Please take your charts to school tomorrow. — Brother"
+        }
+      ]
+    },
+    {
+      "no": 24,
+      "title": "Section C: Grammar. Change into reported speech.",
+      "marks": "3 × 1 = 3",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "24.1",
+          "type": "open",
+          "q": "Sita said, \"I have finished my work.\"",
+          "answer": "Sita said that she had finished her work."
+        },
+        {
+          "id": "24.2",
+          "type": "open",
+          "q": "The coach said to the players, \"Don't waste time.\"",
+          "answer": "The coach told the players not to waste time."
+        },
+        {
+          "id": "24.3",
+          "type": "open",
+          "q": "He asked her, \"Are you coming to the party?\"",
+          "answer": "He asked her whether she was coming to the party."
+        }
+      ]
+    },
+    {
+      "no": 25,
+      "title": "Fill in the blanks with appropriate prepositions.",
+      "marks": "2 × 1 = 2",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "25.1",
+          "type": "open",
+          "q": "The children ran ______ the ground.",
+          "answer": "across (around)"
+        },
+        {
+          "id": "25.2",
+          "type": "open",
+          "q": "He sat ______ his friends.",
+          "answer": "among (between)"
+        }
+      ]
+    },
+    {
+      "no": 26,
+      "title": "Complete the dialogue with suitable words.",
+      "marks": "2 × 1 = 2",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "26.1",
+          "type": "open",
+          "q": "(i)",
+          "answer": "have had"
+        },
+        {
+          "id": "26.2",
+          "type": "open",
+          "q": "(ii)",
+          "answer": "should (must)"
+        }
+      ],
+      "passage": "Doctor: What is your problem?\nPatient: I (i) ______ a bad cold since yesterday.\nDoctor: Don't worry. You (ii) ______ take this medicine twice a day."
+    },
+    {
+      "no": 27,
+      "title": "Fill in the blanks with the correct form of the verbs.",
+      "marks": "4 × 1 = 4",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "27.1",
+          "type": "open",
+          "q": "Water ______ (boil) at 100 degrees Celsius.",
+          "answer": "boils"
+        },
+        {
+          "id": "27.2",
+          "type": "open",
+          "q": "When I reached home, mother ______ (cook) dinner.",
+          "answer": "was cooking"
+        },
+        {
+          "id": "27.3",
+          "type": "open",
+          "q": "They ______ (not finish) the work yet.",
+          "answer": "have not finished"
+        },
+        {
+          "id": "27.4",
+          "type": "open",
+          "q": "I ______ (meet) her tomorrow.",
+          "answer": "will meet"
+        }
+      ]
+    },
+    {
+      "no": 28,
+      "title": "Complete the sentences using proper conjunctions.",
+      "marks": "4 × 1 = 4",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "28.1",
+          "type": "open",
+          "q": "She sang ______ danced at the party.",
+          "answer": "and"
+        },
+        {
+          "id": "28.2",
+          "type": "open",
+          "q": "Read carefully ______ you will make mistakes.",
+          "answer": "otherwise (or)"
+        },
+        {
+          "id": "28.3",
+          "type": "open",
+          "q": "He is weak ______ he is very brave.",
+          "answer": "but (yet)"
+        },
+        {
+          "id": "28.4",
+          "type": "open",
+          "q": "Either you ______ your sister must go.",
+          "answer": "or"
+        }
+      ]
+    },
+    {
+      "no": 29,
+      "title": "Section D: Literature. Answer in about 40 words.",
+      "marks": "1 × 3 = 3",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "29.1",
+          "type": "open",
+          "q": "What moved the heart of the Iron Man of India, Sardar Vallabhbhai Patel? What did he do? (Co-operate and Prosper)",
+          "answer": "The poor plight of the cattle farmers of Gujarat, who worked hard but remained poor and were exploited by middlemen, moved his heart. He decided to organise them into a co-operative to give them a steady income, and assigned the task to Tribhuvandas Patel, which led to the Amul Dairy.",
+          "years": [
+            "April 2026"
+          ],
+          "or": {
+            "q": "Who were the three people involved in uplifting the cattle farmers? What were their contributions?",
+            "answer": "Sardar Vallabhbhai Patel dreamt of the farmers' prosperity and planned the co-operative. Tribhuvandas Patel united the farmers and started the co-operative dairy, removing middlemen. Dr Verghese Kurien set up the processing plant, built Amul into India's largest co-operative dairy, founded NDDB and Operation Flood and made India the largest milk producer."
+          }
+        }
+      ]
+    },
+    {
+      "no": 30,
+      "title": "Answer in one or two sentences (about 30 words).",
+      "marks": "1 × 2 = 2",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "30.1",
+          "type": "open",
+          "q": "What can't the children rebuild? (My Only Cry)",
+          "answer": "The children cannot rebuild what the adults destroy through wars and weapons.",
+          "years": [
+            "April 2024"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 31,
+      "title": "Answer in one or two sentences (about 30 words).",
+      "marks": "1 × 2 = 2",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "31.1",
+          "type": "open",
+          "q": "What bit Raja and what did Grandmother think? (Snake Bite)",
+          "answer": "A bee stung Raja on his finger. Grandmother thought that he had been bitten by a snake.",
+          "years": [
+            "April 2025"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 32,
+      "title": "Answer in one or two sentences (about 30 words).",
+      "marks": "1 × 2 = 2",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "32.1",
+          "type": "open",
+          "q": "How did Bismillah Khan get his name? (Ustad Bismillah Khan)",
+          "answer": "He was named Qamaruddin, but when his grandfather Rasool Baksh Khan saw him as a baby, he exclaimed 'Bismillah', and he came to be known as Bismillah Khan."
+        }
+      ]
+    },
+    {
+      "no": 33,
+      "title": "Answer in one or two sentences (about 30 words).",
+      "marks": "1 × 2 = 2",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "33.1",
+          "type": "open",
+          "q": "What is Dr Kurien rightly called? (Co-operate and Prosper)",
+          "answer": "He is rightly called the 'Architect of the Modern Dairy Industry' and the 'Father of the White Revolution'.",
+          "years": [
+            "April 2025"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 34,
+      "title": "Answer in one or two sentences (about 30 words).",
+      "marks": "1 × 2 = 2",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "34.1",
+          "type": "open",
+          "q": "Why did Jijabai refuse to believe that her son was dead? (The Return of the Lion)",
+          "answer": "The letter came from Agra, and Aurangzeb had never told the truth and had made false promises before; she also had deep faith that her brave son would return.",
+          "years": [
+            "October 2025",
+            "April 2021"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 35,
+      "title": "Answer in one or two sentences (about 30 words).",
+      "marks": "1 × 2 = 2",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "35.1",
+          "type": "open",
+          "q": "What are the weavers weaving at break of day? (Indian Weavers)",
+          "answer": "They are weaving the bright blue robes of a new-born child, blue as the wing of a wild halcyon.",
+          "years": [
+            "October 2025",
+            "April 2022"
+          ]
+        }
+      ]
+    }
+  ]
+}

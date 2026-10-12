@@ -1,0 +1,60 @@
+{
+  "lesson": 3,
+  "title": "Kondiba — A Hero",
+  "kind": "Story",
+  "author": "",
+  "summary": [
+    "## About the story",
+    "This is the true story of Kondiba Gaikwad, a visually challenged man who hated begging. In spite of his own difficulties he risked his life to save a drowning boy. His courage made him a hero and changed his life. The story shows that differently-abled people can be brave, self-reliant and economically independent.",
+    "## Kondiba's life",
+    "The famine in Maharashtra in 1972–73 drove Kondiba from his home in Aurangabad to Mumbai in search of bread. He first tried selling brooms but had little luck. He soon learnt that Mumbai is generous to beggars, especially blind beggars, so he took to begging though he hated it. He had become blind with small-pox at the age of eight and was now 25. He lived in 'Golibar', a large slum colony in Ghatkopar, north-east Mumbai, with Tukaram and Tukaram's wife Yelanbai.",
+    "## The well",
+    "In the middle of the colony was a well dug two years earlier because the single water tap was not enough. It had no wall; its mouth had widened as soil and rocks fell in; the bottom was narrow, muddy and full of weeds, and the water was blackish-green. It was useful but dangerous.",
+    "## The rescue",
+    "One cloudy day at the end of the monsoon, while Kondiba was eating, a woman cried that someone had fallen into the well. Kondiba set aside his meal, asked to be led there, pulled off his shirt and slipped into the water. Young Arvind had fallen off a tree trunk while drawing water; two boys were paddling about but could not dive. As a boy Kondiba had been a good swimmer and diver, but years of poverty had made him weak.",
+    "He dived once and found only mud and weeds. On his second dive he searched longer but still did not find the boy; the crowd sighed in disappointment. Never had he missed his sight so much — though even normal eyes could not have seen in that muddy water. Knowing he was Arvind's only hope, he dived a third time and, as his breath was running out, felt cloth among the weeds, then the boy's legs, and finally his belt. Holding the belt, he pulled Arvind free and struggled up six metres to the surface. Others lifted the boy out and gave him artificial respiration; he vomited water and revived and was taken to hospital. Kondiba finished his half-eaten meal and fell asleep.",
+    "## The reward",
+    "A police officer told him the boy would be all right — a little longer in the well and Arvind's brain would have been damaged. Next day Arvind touched Kondiba's feet in gratitude. Kondiba went back to begging, but newspapers published his story and picture. He was praised by the Governor and the Chief Minister of Maharashtra and received rewards totalling Rs 12,970. He stayed for a few months in a Home for the Blind and learnt skills like bottling and weaving chair seats. Today he lives in Jalna, near his native village, is married and runs a small business. 'The beggar who hated begging need never beg again.'",
+    "## Message",
+    "Real heroes help others in spite of their own difficulties. Courage, determination and presence of mind can change one's life. Society should respect and support differently-abled people."
+  ],
+  "tf": [
+    ["Kondiba was born blind.", false, null, {"note": "He became blind with small-pox at the age of eight."}],
+    ["Kondiba liked begging because Mumbai was generous to blind beggars.", false],
+    ["The well in Golibar had no wall around it.", true],
+    ["Kondiba found Arvind in his very first dive.", false],
+    ["Kondiba pulled Arvind up by holding his belt.", true],
+    ["Kondiba now runs a small business in Jalna.", true]
+  ],
+  "characters": [
+    ["Kondiba Gaikwad", "a blind beggar who saved a drowning boy"],
+    ["Arvind", "the boy who fell into the well"],
+    ["Yelanbai", "Tukaram's wife, who cooked for Kondiba"]
+  ],
+  "extracts": [
+    {"passage": "It was a cloudy day in 'Golibar', the large slum colony in Ghatkopar, north-east of Mumbai. Kondiba lived here with Tukaram and Tukaram's wife, Yelanbai. It was the end of the monsoon. In the middle of an open area, in the colony there was a well. It was full of blackish-green water. Nothing could be seen more than a few centimetres below the surface.",
+     "items": [["Kondiba lived in ________, a slum colony in Ghatkopar.", "Golibar"], ["He lived there with Tukaram and ________.", "Tukaram's wife, Yelanbai"], ["The colony well was full of ________ water.", "blackish-green"]],
+     "years": ["April 2025"]},
+    {"passage": "Kondiba floated on the surface for a moment, then took a deep breath and dived. Carefully feeling his way along the rocks on the side of the well, he reached the bottom; his feet sank into the soft mud. He felt nothing but the mud and the slippery weeds. Tired, and with his breath running out, he came to the surface.",
+     "items": [["Kondiba felt his way along the ________ on the side of the well.", "rocks"], ["At the bottom his feet sank into the soft ________.", "mud"], ["He came to the surface because his ________ was running out.", "breath"]]}
+  ],
+  "complete": [
+    ["The famine of 1972–73 drove Kondiba from his home in ________ to Mumbai.", "Aurangabad"],
+    ["Kondiba became blind with ________ at the age of eight.", "small-pox"],
+    ["Arvind fell into the well while drawing ________.", "water"],
+    ["Kondiba received rewards totalling Rs ________.", "12,970"],
+    ["In the Home for the Blind he learnt bottling and ________ chair seats.", "weaving"]
+  ],
+  "sa2": [
+    ["Why did Kondiba take to begging even though he hated it?", "The famine drove him to Mumbai in search of bread. He tried selling brooms but had little luck, and he found that Mumbai was generous to blind beggars, so he had to beg to survive.", ["April 2025", "April 2024"]],
+    ["The well in the colony was useful but also dangerous. Explain.", "It was useful because the single tap was not enough for the growing slum. It was dangerous because it had no wall, its mouth kept widening, and its narrow bottom was full of mud and weeds.", ["October 2017"]],
+    ["What rewards did Kondiba receive for his daring rescue of a drowning boy?", "He was praised by the Governor and the Chief Minister of Maharashtra, received rewards totalling Rs 12,970, and was given a home for a few months in a Home for the Blind, where he learnt new skills.", ["April 2026"]],
+    ["Who was Kondiba Gaikwad? How did he become a hero?", "Kondiba Gaikwad was a blind beggar from Aurangabad living in a Mumbai slum. He became a hero by diving three times into a dark, muddy well and saving the life of a drowning boy, Arvind.", ["October 2025"]],
+    ["Why did Kondiba miss his eyesight so much during the rescue?", "He felt that if he could see, he might find the drowning boy quickly. He did not know that even normal eyes could not have seen anything in the muddy water."],
+    ["How did Arvind show his gratitude to Kondiba?", "The next afternoon Arvind returned from the hospital and at once went to Kondiba and touched his feet in gratitude, while his aunt watched with tears in her eyes."]
+  ],
+  "sa3": [
+    ["How did Kondiba suddenly become a hero?", "When Arvind fell into the slum well, Kondiba, though blind and weak, dived in three times, searched the muddy bottom with his hands and pulled the boy out by his belt just in time. Newspapers published his story and picture; he was praised by the Governor and the Chief Minister and rewarded, and so he became a hero.", ["October 2024"], {"or": ["How did Kondiba's life change from a beggar to a small businessman?", "After the rescue, rewards of Rs 12,970 and praise from the Governor and Chief Minister came to him. He lived for a few months in a Home for the Blind and learnt bottling and chair-seat weaving. He then settled in Jalna, married a local girl and started a small business — he never had to beg again."]}],
+    ["What qualities of Kondiba make him a real hero?", "(1) Courage — though blind and weak he dived into a dark, dangerous well. (2) Determination — he did not give up after two failed dives. (3) Presence of mind and selflessness — he left his meal at once to help a stranger. He also had self-respect, hating to beg."]
+  ]
+}

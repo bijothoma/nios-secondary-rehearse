@@ -1,0 +1,57 @@
+{
+  "lesson": 23,
+  "title": "The Return of the Lion",
+  "kind": "Play",
+  "author": "",
+  "summary": [
+    "## About the play",
+    "Shivaji, the brave Maratha king, has been imprisoned by the Mughal emperor Aurangzeb at Agra. This one-act play shows how his mother Jijabai, ruling as Regent, holds the kingdom together with courage and wisdom, and how Shivaji returns disguised as a sadhu. It shows a mother's love, good leadership and how war affects ordinary people.",
+    "## Characters",
+    "Shivaji — ruler of the Marathas; Jijabai — his mother and Regent; Mantri — the chronicler; Sachiv — the secretary; Ram Das — a poet, Shivaji's teacher and companion; Soyabai — Shivaji's wife and Sambhaji's mother; Pandit Rao and Sambhaji's foster-mother; an attendant; three sadhus.",
+    "## Section I — the letter",
+    "In the fort of Rajgarh near Poona, Ram Das holds a letter from Agra saying Shivaji is dead. Jijabai refuses to believe it: 'The letter is a hoax' — because it comes from Agra, and Aurangzeb has never told the truth; even Jai Singh's promises were really Aurangzeb's ('the slave spoke for the master'). The Mantri warns of dangers: Aurangzeb has laid traps, Bijapur is about to strike, and discontent is spreading among the soldiers, who may revolt. The Sachiv notes that the letter does not say how Shivaji died.",
+    "Jijabai, as Regent, orders that the letter not be spoken of. She tells Soyabai, who worries about her son Sambhaji, that 'the lion and his cub' will soon return from 'the fox's den'. Wisely, she orders the Mantri to raise the soldiers' pay and rations, send useful gifts to their wives and sweets and toys to their children from her own purse, and tell them the Raja is at Varanasi and that astrologers say he will become lord of all Maharashtra. Then she asks them to help her live till her son returns. All promise to pray for his safe return; she will pray to their family goddess Bhawani.",
+    "## Section II — the sadhus",
+    "An attendant announces three bairagi sadhus from the north, poor men in rags with shaven heads and ash-smeared faces. Jijabai lets them in, hoping for news. Two bless the household; the third, a small man who keeps his eyes on the ground, says nothing — the first sadhu says he has taken a vow of silence. They report that a Brahman at Varanasi told them Shivaji had gone to Agra, and horsemen said Aurangzeb had imprisoned him. Jijabai says the lion won't stay long in that 'dirty den'. When the third sadhu still does not bless her, she says, 'If you don't want to bless me, you may curse me and I'll die cheerfully. I can't live without my son.' He falls at her feet; she passes her hand over his face and recognises him — 'It's my son! Shivaji has come back! The lion has come back from the fox's den.'",
+    "Shivaji says he has escaped from 'the fox's den and the vulture's claws'. He assures Soyabai that Sambhaji is safe with friends, asks Ram Das to guide him again, and orders a feast for the poor, torches on the hill-tops, illumination of the palace and firing of guns. All shout 'Long live Shivaji! Long live Jijabai! Long live Maharashtra!'",
+    "## Themes",
+    "A mother's faith and love; Jijabai's courage and wise administration (keeping soldiers loyal, not spreading panic); a good leader's responsibility for his people; Shivaji compared to a lion and Aurangzeb to a fox, vulture and spider (metaphors)."
+  ],
+  "tf": [
+    ["Jijabai believed that the letter about Shivaji's death was true.", false],
+    ["The letter about Shivaji's death came from Agra.", true],
+    ["Jijabai ordered the pay and rations of the soldiers to be raised.", true],
+    ["The third sadhu blessed Jijabai loudly.", false],
+    ["The third sadhu was Shivaji in disguise.", true],
+    ["Shivaji left his son Sambhaji in prison at Agra.", false, null, {"note": "Sambhaji was safe with friends."}]
+  ],
+  "characters": [
+    ["Jijabai", "Shivaji's mother and Regent"],
+    ["Ram Das", "a poet, Shivaji's teacher and companion"],
+    ["Soyabai", "Shivaji's wife and Sambhaji's mother"],
+    ["Sachiv", "the secretary of Shivaji's court"],
+    ["Mantri", "Shivaji's chronicler"]
+  ],
+  "extracts": [
+    {"passage": "Jijabai : I can't believe that my son is dead. The letter is a hoax.\nRam Das : But the letter is from Agra.\nJijabai : And therefore it is a hoax. When did Aurangzeb ever tell the truth? Did he not make false promises to my son?",
+     "items": [["Jijabai says that the letter is a ________.", "hoax"], ["The letter has come from ________.", "Agra"], ["Jijabai says that Aurangzeb never told the ________.", "truth"]]},
+    {"passage": "Attendant : Perhaps they have come to beg from you. They must have heard of your charity. They are poor men in rags. Their heads are shaven and their arms and faces are painted grey with ashes.\nJijabai : They are holy men, and they have come from a far-off place. I cannot say no to them. I need their blessings. Let them come in.",
+     "items": [["The attendant thinks the holy men have heard of Jijabai's ________.", "charity"], ["Their arms and faces are painted grey with ________.", "ashes"], ["Jijabai lets them in because she needs their ________.", "blessings"]]}
+  ],
+  "complete": [
+    ["The play is set in the fort of ________ near Poona.", "Rajgarh"],
+    ["Jijabai would pray to their family goddess, ________.", "Bhawani"],
+    ["The first sadhu said that the third sadhu had taken a vow of ________.", "silence"],
+    ["Shivaji said he had escaped from the fox's den and the vulture's ________.", "claws"]
+  ],
+  "sa2": [
+    ["How did the third sadhu surprise Jijabai?", "He did not speak or bless her; when she said he might curse her instead, he fell at her feet, and she recognised him as her son Shivaji in disguise.", ["April 2026"]],
+    ["Why did Jijabai refuse to believe that her son was dead?", "The letter came from Agra, and Aurangzeb had never told the truth and had made false promises before; she also had deep faith that her brave son would return.", ["October 2025", "April 2021"]],
+    ["What message did the attendant give Rani Jijabai?", "He told her that three holy men (bairagi sadhus) from the north were at the gate and wanted to see her.", ["April 2024"]],
+    ["What orders did Jijabai give the Mantri to keep the soldiers happy?", "To raise their pay and rations, send useful gifts to their wives and sweets and toys to their children at her expense, and tell them the Raja was at Varanasi and would soon return."],
+    ["Why did Shivaji return to Rajgarh disguised as a sadhu?", "He had escaped from Aurangzeb's prison, so he disguised himself as a poor sadhu to travel safely without being recognised by enemies.", ["October 2021"]]
+  ],
+  "sa3": [
+    ["What qualities of a good leader does Jijabai show in the play?", "She stays calm and firm and refuses to spread panic about the false letter. She wisely keeps the soldiers loyal by raising pay and rations and sending gifts to their families from her own purse, and she spreads hope that the Raja will return. She is kind to the poor and holy men and full of faith and love for her son.", null, {"or": ["What did Jijabai do when she received the so-called news of Shivaji's death?", "She declared the letter a hoax and forbade people to speak of it. She ordered the Mantri to raise the soldiers' pay and rations, send gifts to their families and tell them the Raja was at Varanasi, and she asked everyone to help her live till her son returned."]}]
+  ]
+}
