@@ -1,0 +1,404 @@
+{
+  "subject": "data-entry",
+  "lesson": 902,
+  "title": "Model Question Paper 2",
+  "meta": "Time: 2 hours · Maximum marks: 40 · Modelled on the April 2026 NIOS paper",
+  "instructions": [
+    "All questions are compulsory. Where a question has OR, answer either one.",
+    "Section A: questions 1–7 are MCQs (1 mark each); questions 8–10 have two parts of 1 mark each (assertion–reason, fill in the blanks, true/false); questions 11–17 carry 1 mark each.",
+    "Section B: 2-mark answers in 30–50 words, 3-mark answers in 50–80 words, the 4-mark answer in 80–120 words.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "7 × 1 = 7",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "Flat bed and drum are two types of —",
+          "options": [
+            "printers",
+            "plotters",
+            "monitors",
+            "scanners"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2016",
+            "October 2019"
+          ],
+          "note": "Lesson 1."
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "How can you apply formatting to multiple selections of text using the Format Painter?",
+          "options": [
+            "Single-click the Format Painter button",
+            "Double-click the Format Painter button",
+            "Right-click the Format Painter button",
+            "Hold Ctrl and click the Format Painter button"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2024"
+          ],
+          "note": "Lesson 4."
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "The file that contains the names and addresses that change in each copy is the —",
+          "options": [
+            "main document",
+            "data source",
+            "merge document",
+            "envelope"
+          ],
+          "answer": "B",
+          "note": "Lesson 5."
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "How does AutoFit help improve Excel spreadsheets?",
+          "options": [
+            "It ensures data is fully visible within the column width and row height",
+            "It sorts data in alphabetical order",
+            "It removes duplicate data",
+            "It merges cells to fit the content"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 7."
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "The SUMIF function ignores blank and ________ values.",
+          "options": [
+            "text",
+            "number",
+            "zero",
+            "negative"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 8."
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "If A1 = 3, B1 = 5 and C1 = 7, what is the result of =(A1*B1)+C1?",
+          "options": [
+            "15",
+            "22",
+            "35",
+            "105"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2017"
+          ],
+          "note": "Lesson 8."
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "Which key starts a slide show?",
+          "options": [
+            "F1",
+            "F5",
+            "F7",
+            "F10"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2021"
+          ],
+          "note": "Lesson 9."
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Assertion (A) and Reason (R): choose the correct option.",
+      "marks": "2 × 1 = 2",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "mcq",
+          "q": "Assertion (A): A computer follows the Input–Process–Output (IPO) cycle. — Reason (R): A computer receives data, processes it and then produces information as output.",
+          "options": [
+            "Both A and R are true and R is the correct explanation of A.",
+            "Both A and R are true but R is not the correct explanation of A.",
+            "A is true but R is false.",
+            "A is false but R is true."
+          ],
+          "answer": "A",
+          "years": [
+            "October 2025"
+          ],
+          "fixed": true,
+          "note": "Lesson 1."
+        },
+        {
+          "id": "2.2",
+          "type": "mcq",
+          "q": "Assertion (A): A hidden slide is deleted from the presentation. — Reason (R): A hidden slide does not appear in the slide show but can be unhidden later.",
+          "options": [
+            "Both A and R are true and R is the correct explanation of A.",
+            "Both A and R are true but R is not the correct explanation of A.",
+            "A is true but R is false.",
+            "A is false but R is true."
+          ],
+          "answer": "D",
+          "fixed": true,
+          "note": "Lesson 9."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Fill in the blanks.",
+      "marks": "2 × 1 = 2",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "(a) A standard keyboard generally has ________ keys. (b) The most common keyboard layout is the ________ keyboard.",
+          "answer": "(a) 104 (b) QWERTY",
+          "years": [
+            "October 2019"
+          ],
+          "note": "Lesson 1."
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "(a) Slides can easily be ordered and sorted using ________ view. (b) Notes are added to slides in ________ view.",
+          "answer": "(a) Slide Sorter (b) Normal",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Lesson 9."
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "State True or False.",
+      "marks": "2 × 1 = 2",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "mcq",
+          "q": "C is an object-oriented programming language.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2016"
+          ],
+          "note": "C is a structured language; C++ is object-oriented. Lesson 1.",
+          "fixed": true
+        },
+        {
+          "id": "4.2",
+          "type": "mcq",
+          "q": "Using contrasting colours for text and background is not a good practice.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "fixed": true,
+          "note": "Lesson 9."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Fill in the blank or answer in one word.",
+      "marks": "7 × 1 = 7",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "________ is an input device that moves the pointer and selects objects by pointing directly at the screen with a pen.",
+          "answer": "Light pen",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Lesson 1."
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "Name the tab that lets you adjust page margins, orientation and size in MS Word.",
+          "answer": "Page Layout",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Lesson 4."
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "The block of merge fields that inserts a complete address is called the ________.",
+          "answer": "Address Block",
+          "note": "Lesson 5."
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "The ________ style adds a currency symbol, commas and two decimal places.",
+          "answer": "Currency",
+          "note": "Lesson 7."
+        },
+        {
+          "id": "5.5",
+          "type": "open",
+          "q": "The AutoSum button is found on the ________ tab in Excel.",
+          "answer": "Formulas (also Home)",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 8."
+        },
+        {
+          "id": "5.6",
+          "type": "open",
+          "q": "To find the highest value in a range, use the ________ function.",
+          "answer": "MAX",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 8."
+        },
+        {
+          "id": "5.7",
+          "type": "open",
+          "q": "The effect seen when one slide changes to the next during a show is called a ________.",
+          "answer": "transition",
+          "note": "Lesson 9."
+        }
+      ]
+    },
+    {
+      "no": 6,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "5 × 2 = 10",
+      "questions": [
+        {
+          "id": "6.1",
+          "type": "open",
+          "q": "Give the difference between a mouse and a track ball.",
+          "answer": "A mouse is moved across a flat surface to move the pointer. A track ball is like a mouse lying on its back: it stays still and the ball is rolled with the thumb or fingers, so it needs little space and can be used on any surface — popular on portable computers.",
+          "years": [
+            "April 2025"
+          ],
+          "or": {
+            "q": "Differentiate between a plotter and a printer.",
+            "answer": "A printer gives hard copies of documents and pictures on normal paper sizes. A plotter is designed to draw large drawings such as building plans and blueprints using pens moved by a robotic arm; it draws curves as many short straight lines."
+          },
+          "note": "Lesson 1."
+        },
+        {
+          "id": "6.2",
+          "type": "open",
+          "q": "What is a font face? Mention any two font families.",
+          "answer": "A font face is the basic typeface (design of letters) in which text is displayed. Each family shapes letters in its own way. Examples: Times New Roman and Arial (also Calibri, Verdana).",
+          "years": [
+            "April 2021",
+            "October 2016"
+          ],
+          "note": "Lesson 4."
+        },
+        {
+          "id": "6.3",
+          "type": "open",
+          "q": "What is the role (purpose) of the main document in mail merge?",
+          "answer": "The main document contains the text and graphics that remain the same in every copy, such as the body of a form letter and the return address. Merge fields are inserted in it, and they are filled with data from the data source to make personalised copies.",
+          "years": [
+            "October 2025",
+            "April 2025",
+            "April 2024"
+          ],
+          "note": "Lesson 5."
+        },
+        {
+          "id": "6.4",
+          "type": "open",
+          "q": "What is the SUMIF() function? Give its syntax.",
+          "answer": "SUMIF adds only those cells that meet a given condition. Syntax: SUMIF(range, criteria, sum_range). Example: =SUMIF(B3:E3, \">99\") adds only the values greater than 99; blank and text cells are ignored.",
+          "years": [
+            "April 2023"
+          ],
+          "note": "Lesson 8."
+        },
+        {
+          "id": "6.5",
+          "type": "open",
+          "q": "What is Normal view in PowerPoint?",
+          "answer": "Normal view is the main editing view. It divides the screen into three parts: the slide pane showing the current slide, the outline/slides pane on the left, and the notes pane at the bottom for speaker notes.",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 9."
+        }
+      ]
+    },
+    {
+      "no": 7,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "2 × 3 = 6",
+      "questions": [
+        {
+          "id": "7.1",
+          "type": "open",
+          "q": "How do you set line spacing in a paragraph? What are the common line spacing values?",
+          "answer": "(1) Select the paragraph. (2) Home → Paragraph dialog launcher (or Line Spacing button). (3) In Indents and Spacing, choose Line spacing: Single, 1.5 lines, Double, etc., and click OK. Single spacing gives 12-point spacing, 1½ gives 18 points and double gives 24 points.",
+          "years": [
+            "April 2021"
+          ],
+          "note": "Lesson 4."
+        },
+        {
+          "id": "7.2",
+          "type": "open",
+          "q": "Explain any five components of a chart.",
+          "answer": "(1) Chart title — the title of the whole chart. (2) Axis titles — names of the X-axis and Y-axis data. (3) X-axis categories and Y-axis values — the categories plotted and the value scale. (4) Legend — colour or pattern used for each data series. (5) Data labels — the values of the data plotted. Also tick marks (scale of axes) and gridlines (lines at major intervals).",
+          "note": "Lesson 8."
+        }
+      ]
+    },
+    {
+      "no": 8,
+      "title": "Long answer question. Answer in 80–120 words.",
+      "marks": "1 × 4 = 4",
+      "questions": [
+        {
+          "id": "8.1",
+          "type": "open",
+          "q": "What is PowerPoint? Explain the different ways of creating a presentation and the views available.",
+          "answer": "PowerPoint is presentation software used to create slides and slide shows with text, pictures, sound and charts. Ways to create (Office Button → New): (1) Installed Templates — ready-made presentations; (2) Installed Themes / design templates — backgrounds and fonts to start with; (3) Blank Presentation — start from scratch. Views: Normal view (slide, outline and notes panes; main working view), Slide Sorter view (thumbnails for ordering and transitions) and Slide Show view (full-screen presentation with all effects; F5).",
+          "or": {
+            "q": "Explain any four slide layouts and how to insert, duplicate and hide slides.",
+            "answer": "Layouts: Title Slide (title and subtitle, to begin), Title and Content (heading with a list), Two Content (two text or picture areas), Comparison (pro/con), Title Only, Blank, Section Header, Content/Picture with Caption. Insert: Home → New Slide → choose a layout. Duplicate: select the slide → Home → New Slide → Duplicate Selected Slides or Ctrl+Shift+D. Hide: right-click the slide in the slides pane → Hide Slide; it stays in the file but is not shown."
+          },
+          "note": "Lesson 9."
+        }
+      ]
+    }
+  ]
+}

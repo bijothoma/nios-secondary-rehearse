@@ -1,0 +1,436 @@
+{
+  "subject": "data-entry",
+  "lesson": 7,
+  "title": "Formatting Worksheets",
+  "meta": "Chapter practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this chapter in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "10 × 1 = 10",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "Worksheet formatting is used to —",
+          "options": [
+            "delete data",
+            "improve the appearance of data",
+            "change formulas",
+            "print worksheets only"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "How does AutoFit help improve Excel spreadsheets?",
+          "options": [
+            "It ensures data is fully visible within the column width and row height",
+            "It sorts data in alphabetical order",
+            "It removes duplicate data",
+            "It merges cells to fit the content"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "________ sets the number format to Comma style rounded to a whole number, without decimal places.",
+          "options": [
+            "Comma [0]",
+            "Comma",
+            "Currency",
+            "Currency [0]"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "The ________ toolbar in MS Excel can be used to bold, italicise and underline cell entries.",
+          "options": [
+            "Formatting",
+            "Standard",
+            "Drawing",
+            "Review"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "In Excel, which tab lets you change the orientation of the text in a cell?",
+          "options": [
+            "Home",
+            "Page Layout",
+            "Font",
+            "Insert"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2024"
+          ],
+          "note": "Home → Alignment → Orientation."
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "Which tab (category) of the Format Cells dialog box is used to enter a date in a desired format?",
+          "options": [
+            "Home",
+            "Insert",
+            "Data",
+            "Number"
+          ],
+          "answer": "D",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "The shortcut key to open the Format Cells dialog box is —",
+          "options": [
+            "Ctrl+1",
+            "Ctrl+F",
+            "Ctrl+P",
+            "Ctrl+9"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "Hiding columns or rows helps to —",
+          "options": [
+            "delete data",
+            "prevent unwanted changes",
+            "add formulas",
+            "print faster"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "Which option joins selected cells into one larger cell?",
+          "options": [
+            "Wrap Text",
+            "Merge & Center",
+            "AutoFit",
+            "Format Painter"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "Which cell style changes a number to a percentage and adds a % sign?",
+          "options": [
+            "Comma",
+            "Currency",
+            "Percent",
+            "Normal"
+          ],
+          "answer": "C"
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Assertion (A) and Reason (R): choose the correct option.",
+      "marks": "3 × 1 = 3",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "mcq",
+          "q": "Assertion (A): The Format Cells dialog box offers more options than the alignment buttons on the toolbar. — Reason (R): In the Format Cells dialog box you can change the orientation of text.",
+          "options": [
+            "Both A and R are true and R is the correct explanation of A.",
+            "Both A and R are true but R is not the correct explanation of A.",
+            "A is true but R is false.",
+            "A is false but R is true."
+          ],
+          "answer": "A",
+          "fixed": true
+        },
+        {
+          "id": "2.2",
+          "type": "mcq",
+          "q": "Assertion (A): Hiding a column deletes the data in it. — Reason (R): A hidden column can be shown again with Unhide.",
+          "options": [
+            "Both A and R are true and R is the correct explanation of A.",
+            "Both A and R are true but R is not the correct explanation of A.",
+            "A is true but R is false.",
+            "A is false but R is true."
+          ],
+          "answer": "D",
+          "fixed": true
+        },
+        {
+          "id": "2.3",
+          "type": "mcq",
+          "q": "Assertion (A): A protected worksheet cannot be edited until it is unprotected. — Reason (R): Unprotecting needs the same password that was used to protect the sheet.",
+          "options": [
+            "Both A and R are true and R is the correct explanation of A.",
+            "Both A and R are true but R is not the correct explanation of A.",
+            "A is true but R is false.",
+            "A is false but R is true."
+          ],
+          "answer": "B",
+          "fixed": true
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Fill in the blanks.",
+      "marks": "2 × 1 = 2",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "(a) In Excel all styles are ________ styles. (b) Hiding columns or rows helps you to ________ unwanted changes.",
+          "answer": "(a) cell (b) prevent"
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "(a) The Format Cells dialog box can be opened by pressing Ctrl + ________. (b) To change the date format, select the ________ tab in the Format Cells window.",
+          "answer": "(a) 1 (b) Number"
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "State True or False.",
+      "marks": "5 × 1 = 5",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "mcq",
+          "q": "In Excel, all styles are cell styles.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "fixed": true
+        },
+        {
+          "id": "4.2",
+          "type": "mcq",
+          "q": "To unhide a column, select the columns on both sides of it, right-click and choose Unhide.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "fixed": true
+        },
+        {
+          "id": "4.3",
+          "type": "mcq",
+          "q": "In an Excel worksheet, columns are designated by numbers.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2022"
+          ],
+          "note": "Columns are lettered (A, B, C…); rows are numbered.",
+          "fixed": true
+        },
+        {
+          "id": "4.4",
+          "type": "mcq",
+          "q": "Double-clicking Format Painter keeps it active until Esc is pressed.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "fixed": true
+        },
+        {
+          "id": "4.5",
+          "type": "mcq",
+          "q": "Excel automatically recognises 'January 1, 2001' as a date.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "fixed": true
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Fill in the blank or answer in one word.",
+      "marks": "5 × 1 = 5",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "Name the tab and group where you find options to protect worksheets in MS Excel.",
+          "answer": "Home tab → Cells group (Format → Protect Sheet); also the Review tab → Changes group",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "The feature that adjusts column width to fit its contents is called ________.",
+          "answer": "AutoFit",
+          "years": [
+            "October 2022"
+          ]
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "The predefined table formats in Excel 2007 are applied with ________ in the Styles group.",
+          "answer": "Format as Table"
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "The ________ style adds a currency symbol, commas and two decimal places.",
+          "answer": "Currency"
+        },
+        {
+          "id": "5.5",
+          "type": "open",
+          "q": "Right-click a sheet tab and choose ________ to make the sheet invisible.",
+          "answer": "Hide"
+        }
+      ]
+    },
+    {
+      "no": 6,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "6 × 2 = 12",
+      "questions": [
+        {
+          "id": "6.1",
+          "type": "open",
+          "q": "What is Merge Cells in Excel?",
+          "answer": "Merge Cells joins two or more selected adjacent cells into one larger cell. With Merge & Center the contents are also centred, which is useful for a heading spread over several columns.",
+          "years": [
+            "April 2026"
+          ],
+          "or": {
+            "q": "Why do we use Merge Cells?",
+            "answer": "We merge cells to make a title or heading span several columns or rows, to give the worksheet a neat, organised look and to make it easier to read."
+          }
+        },
+        {
+          "id": "6.2",
+          "type": "open",
+          "q": "What are the different tabs available in the Format Cells dialog box?",
+          "answer": "Number (data type such as number, currency, date), Alignment (position and orientation of text), Font (face, size, style, effects), Border (cell borders), Fill/Patterns (background colour) and Protection (locking and hiding cells)."
+        },
+        {
+          "id": "6.3",
+          "type": "open",
+          "q": "Write the steps to AutoFit rows (or columns) in a spreadsheet.",
+          "answer": "(1) Select the row (or column), or a cell in it. (2) Home tab → Format in the Cells group. (3) Click AutoFit Row Height (or AutoFit Column Width). Or double-click the bottom edge of the row header (right edge of the column header).",
+          "years": [
+            "October 2022"
+          ]
+        },
+        {
+          "id": "6.4",
+          "type": "open",
+          "q": "What is Format Painter? When is it useful in Excel?",
+          "answer": "Format Painter copies the formatting (font, number format, border, colour) of one cell and applies it to other cells. It is useful when many cells must look the same, saving the effort of formatting each one; double-click to apply it to many ranges."
+        },
+        {
+          "id": "6.5",
+          "type": "open",
+          "q": "Differentiate between Format Painter and AutoFormat in worksheets.",
+          "answer": "Format Painter copies the format of a selected cell to other cells chosen by you. AutoFormat (Format as Table) applies a complete predefined table style — fonts, borders, shading, number formats — to a whole range at once.",
+          "years": [
+            "October 2021"
+          ]
+        },
+        {
+          "id": "6.6",
+          "type": "open",
+          "q": "How do you hide and unhide a worksheet?",
+          "answer": "Hide: right-click the sheet tab and choose Hide. Unhide: right-click any visible sheet tab, choose Unhide, select the hidden sheet from the list and click OK."
+        }
+      ]
+    },
+    {
+      "no": 7,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "3 × 3 = 9",
+      "questions": [
+        {
+          "id": "7.1",
+          "type": "open",
+          "q": "Write the steps to protect a worksheet using a password. How do you unprotect it?",
+          "answer": "Protect: (1) Home tab → Format (Cells group). (2) Choose Protect Sheet. (3) Type a password and click OK. (4) Re-enter the same password to confirm. Now any change shows a warning. Unprotect: Home → Format → Unprotect Sheet → type the same password → OK.",
+          "years": [
+            "April 2023",
+            "October 2019",
+            "April 2022"
+          ]
+        },
+        {
+          "id": "7.2",
+          "type": "open",
+          "q": "Explain the different preset cell styles available in Excel.",
+          "answer": "(1) Comma — adds commas and two decimal places. (2) Comma [0] — comma style rounded to a whole number. (3) Currency — currency symbol, commas and two decimals. (4) Currency [0] — currency rounded to a whole number. (5) Percent — changes the number to a percentage with a % sign. (6) Normal — returns to the general format. Other styles include Heading 1, Good, Bad and Neutral."
+        },
+        {
+          "id": "7.3",
+          "type": "open",
+          "q": "How do you hide and unhide a column in Excel?",
+          "answer": "Hide: (1) Click the column header to select it. (2) Right-click and choose Hide; the column disappears but its data remains. Unhide: (1) Select the columns on both sides of the hidden column. (2) Right-click and choose Unhide; the column becomes visible again. Rows are hidden and unhidden the same way."
+        }
+      ]
+    },
+    {
+      "no": 8,
+      "title": "Long answer question. Answer in 80–120 words.",
+      "marks": "1 × 4 = 4",
+      "questions": [
+        {
+          "id": "8.1",
+          "type": "open",
+          "q": "Explain the three places where formatting tools are available in Excel 2007, and the tabs of the Format Cells dialog box.",
+          "answer": "(1) Home tab — Font, Alignment and Number groups for the most common formatting. (2) Mini toolbar — appears on right-clicking a cell: font, size, bold, italic, colours, borders, Merge & Center, number styles, Format Painter. (3) Format Cells dialog box — opened with Ctrl+1, the dialog launcher or right-click → Format Cells. Its tabs: Number (General, Number, Currency, Date, Time, Percentage), Alignment (position, orientation, wrap, merge), Font, Border, Fill/Patterns and Protection.",
+          "or": {
+            "q": "How do you apply AutoFormat (Format as Table) and cell styles to a worksheet?",
+            "answer": "Format as Table: (1) Select the cells. (2) Home → Styles → Format as Table. (3) Choose a style from Light, Medium or Dark. (4) Tick 'My table has headers' and click OK; change the style from Table Tools → Design. Cell styles: (1) Select the cells. (2) Home → Styles → Cell Styles. (3) Choose a style such as Heading 1, Comma, Currency or Percent. (4) Right-click a style → Delete to remove it."
+          }
+        }
+      ]
+    }
+  ]
+}

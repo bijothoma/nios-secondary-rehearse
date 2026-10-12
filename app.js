@@ -113,8 +113,11 @@ function renderHome() {
 }
 
 function lessonCount(s) {
-  var n = s.lessons.length;
-  return n === 0 ? 'Coming soon' : n + ' lesson' + (n > 1 ? 's' : '');
+  var n = s.lessons.filter(function (l) { return !l.tag; }).length;
+  var papers = s.lessons.length - n;
+  if (!s.lessons.length) return 'Coming soon';
+  return n + ' lesson' + (n > 1 ? 's' : '') +
+    (papers ? ' · ' + papers + ' full paper' + (papers > 1 ? 's' : '') : '');
 }
 
 function renderSubject(subject) {
@@ -260,7 +263,7 @@ function renderSection(sec) {
       var num = sec.no + '.' + (i + 1);
       if (q.type === 'mcq') {
         var correct = q.options[LETTERS.indexOf(q.answer)];
-        return renderChoice(num, q.q, q.years, q.options, correct, q.note, q.image);
+        return renderChoice(num, q.q, q.years, q.options, correct, q.note, q.image, q.fixed);
       }
       if (q.type === 'match') {
         return renderChoice(num, q.left + ' — ?', q.years, matchPool, q.right);
@@ -290,7 +293,8 @@ function markOption(button, kind) {
   button.appendChild(el('span', { 'class': 'mark' }, kind === 'correct' ? '✓' : '✗'));
 }
 
-function renderChoice(num, text, years, options, correct, note, image) {
+// fixed: keep the options in their printed order (assertion–reason, true/false).
+function renderChoice(num, text, years, options, correct, note, image, fixed) {
   score.total++;
   var firstTry = true;
   var finished = false;
@@ -301,7 +305,7 @@ function renderChoice(num, text, years, options, correct, note, image) {
   var noteEl = note ? el('p', { 'class': 'note' }, note) : null;
   if (noteEl) setHidden(noteEl, true);
 
-  var shown = shuffle(options);
+  var shown = fixed ? options.slice() : shuffle(options);
   var buttons = shown.map(function (opt, i) {
     return el('button', { 'class': 'opt', onclick: function () { choose(i); } },
       el('span', { 'class': 'letter' }, '(' + LETTERS.charAt(i) + ')'),

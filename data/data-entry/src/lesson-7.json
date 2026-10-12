@@ -1,0 +1,74 @@
+{
+  "lesson": 7,
+  "title": "Formatting Worksheets",
+  "summary": [
+    "## Why format a worksheet?",
+    "Formatting makes a worksheet presentable and helps the reader understand it easily. Excel can change the size, colour and angle of fonts, add borders and background colours to cells, and change formats based on values. Many formatting features are the same as in MS Word.",
+    "## Where the formatting tools are",
+    "Excel 2007 formatting tools are in three places: (1) the Home tab — Font, Alignment and Number groups (small arrows open drop-down lists); (2) the Mini toolbar that appears with the shortcut menu when you right-click a cell or range — font type and size, increase/decrease font, Accounting number format, Comma style, Percent style, font colour, fill colour, Format Painter, bold, italic, centre, borders, Merge and Center, increase/decrease decimal; (3) the Format Cells dialog box.",
+    "Opening the Format Cells dialog box: press Ctrl+1; click the dialog box launcher (small arrow) in Home → Font, Alignment or Number; right-click → Format Cells; or choose More Number Formats from a drop-down. It has tabs: Number, Alignment, Font, Border, Fill (Patterns) and Protection.",
+    "## Format Cells tabs",
+    "Number tab — choose the data type: General (no specific format), Number (integers or decimals with a set number of decimal places), Currency, Date, Time, Percentage and more. Dates: typing 'January 1, 2001' is recognised as a date and shown as 1-Jan-01; choose another type under Number → Date (or Time). Alignment tab — position of data in the cell and orientation (angle) of the text, wrap text, merge cells. Font tab — font face, size, style and effects. Border and Fill (Patterns) tabs — choose None, Outline or Inside presets, line style and colour for borders, and a background colour and pattern for cells.",
+    "Merge cells: select adjacent cells and click Merge & Center to join them into one bigger cell — used for headings that span several columns.",
+    "## Columns and rows",
+    "AutoFit makes a column wide enough (or a row tall enough) to show its full contents: select the column/row → Home → Format (Cells group) → AutoFit Column Width / AutoFit Row Height. Best fit: double-click the right edge of the column header (pointer becomes a double-headed arrow) or the bottom edge of a row header.",
+    "Hide a column/row: select it, right-click → Hide; the data is still there but not shown, which helps prevent unwanted changes. Unhide: select the columns on both sides of the hidden one, right-click → Unhide.",
+    "## Cell styles",
+    "Home → Styles → Cell Styles applies predefined styles (all styles in Excel are cell styles) such as Heading 1, Good, Bad, Neutral. Number styles: Comma — adds commas and two decimal places; Comma [0] — comma style rounded to a whole number; Currency — currency symbol, commas and two decimals; Currency [0] — rounded to a whole number; Normal — back to the general format; Percent — multiplies by 100 and adds a % sign. Delete a style by right-clicking it → Delete.",
+    "## Format Painter and AutoFormat",
+    "Format Painter (Home → Clipboard) copies the formatting of one cell to other cells: select the formatted cell, click Format Painter and drag over the target cells; double-click it to use it many times and press Esc to stop. AutoFormat in Excel 2007 is 'Format as Table' (Home → Styles): select the cells, choose a predefined table style (Light, Medium, Dark), tick 'My table has headers' and click OK; the Table Tools Design tab lets you change the style.",
+    "## Hiding and protecting worksheets",
+    "Hide a worksheet: right-click the sheet tab → Hide. Unhide: right-click any sheet tab → Unhide → choose the sheet. Protect a worksheet against unauthorised editing: Home → Format (Cells group) → Protect Sheet → enter a password → confirm it. Any change then shows a warning. Unprotect: Home → Format → Unprotect Sheet → type the same password → OK. (Protection options are also in the Review tab, Changes group.)"
+  ],
+  "mcq": [
+    ["Worksheet formatting is used to —", ["delete data", "improve the appearance of data", "change formulas", "print worksheets only"], "B", ["April 2026"]],
+    ["How does AutoFit help improve Excel spreadsheets?", ["It ensures data is fully visible within the column width and row height", "It sorts data in alphabetical order", "It removes duplicate data", "It merges cells to fit the content"], "A", ["April 2025"]],
+    ["________ sets the number format to Comma style rounded to a whole number, without decimal places.", ["Comma [0]", "Comma", "Currency", "Currency [0]"], "A", ["April 2024"]],
+    ["The ________ toolbar in MS Excel can be used to bold, italicise and underline cell entries.", ["Formatting", "Standard", "Drawing", "Review"], "A", ["October 2024"]],
+    ["In Excel, which tab lets you change the orientation of the text in a cell?", ["Home", "Page Layout", "Font", "Insert"], "A", ["October 2024"], {"note": "Home → Alignment → Orientation."}],
+    ["Which tab (category) of the Format Cells dialog box is used to enter a date in a desired format?", ["Home", "Insert", "Data", "Number"], "D", ["April 2025"]],
+    ["The shortcut key to open the Format Cells dialog box is —", ["Ctrl+1", "Ctrl+F", "Ctrl+P", "Ctrl+9"], "A"],
+    ["Hiding columns or rows helps to —", ["delete data", "prevent unwanted changes", "add formulas", "print faster"], "B"],
+    ["Which option joins selected cells into one larger cell?", ["Wrap Text", "Merge & Center", "AutoFit", "Format Painter"], "B"],
+    ["Which cell style changes a number to a percentage and adds a % sign?", ["Comma", "Currency", "Percent", "Normal"], "C"]
+  ],
+  "ar": [
+    ["The Format Cells dialog box offers more options than the alignment buttons on the toolbar.", "In the Format Cells dialog box you can change the orientation of text.", "A"],
+    ["Hiding a column deletes the data in it.", "A hidden column can be shown again with Unhide.", "D"],
+    ["A protected worksheet cannot be edited until it is unprotected.", "Unprotecting needs the same password that was used to protect the sheet.", "B"]
+  ],
+  "tf": [
+    ["In Excel, all styles are cell styles.", true],
+    ["To unhide a column, select the columns on both sides of it, right-click and choose Unhide.", true],
+    ["In an Excel worksheet, columns are designated by numbers.", false, ["October 2022"], {"note": "Columns are lettered (A, B, C…); rows are numbered."}],
+    ["Double-clicking Format Painter keeps it active until Esc is pressed.", true],
+    ["Excel automatically recognises 'January 1, 2001' as a date.", true]
+  ],
+  "fill2": [
+    ["(a) In Excel all styles are ________ styles. (b) Hiding columns or rows helps you to ________ unwanted changes.", "(a) cell (b) prevent"],
+    ["(a) The Format Cells dialog box can be opened by pressing Ctrl + ________. (b) To change the date format, select the ________ tab in the Format Cells window.", "(a) 1 (b) Number"]
+  ],
+  "oneword": [
+    ["Name the tab and group where you find options to protect worksheets in MS Excel.", "Home tab → Cells group (Format → Protect Sheet); also the Review tab → Changes group", ["April 2024"]],
+    ["The feature that adjusts column width to fit its contents is called ________.", "AutoFit", ["October 2022"]],
+    ["The predefined table formats in Excel 2007 are applied with ________ in the Styles group.", "Format as Table"],
+    ["The ________ style adds a currency symbol, commas and two decimal places.", "Currency"],
+    ["Right-click a sheet tab and choose ________ to make the sheet invisible.", "Hide"]
+  ],
+  "vsa": [
+    ["What is Merge Cells in Excel?", "Merge Cells joins two or more selected adjacent cells into one larger cell. With Merge & Center the contents are also centred, which is useful for a heading spread over several columns.", ["April 2026"], {"or": ["Why do we use Merge Cells?", "We merge cells to make a title or heading span several columns or rows, to give the worksheet a neat, organised look and to make it easier to read."]}],
+    ["What are the different tabs available in the Format Cells dialog box?", "Number (data type such as number, currency, date), Alignment (position and orientation of text), Font (face, size, style, effects), Border (cell borders), Fill/Patterns (background colour) and Protection (locking and hiding cells)."],
+    ["Write the steps to AutoFit rows (or columns) in a spreadsheet.", "(1) Select the row (or column), or a cell in it. (2) Home tab → Format in the Cells group. (3) Click AutoFit Row Height (or AutoFit Column Width). Or double-click the bottom edge of the row header (right edge of the column header).", ["October 2022"]],
+    ["What is Format Painter? When is it useful in Excel?", "Format Painter copies the formatting (font, number format, border, colour) of one cell and applies it to other cells. It is useful when many cells must look the same, saving the effort of formatting each one; double-click to apply it to many ranges."],
+    ["Differentiate between Format Painter and AutoFormat in worksheets.", "Format Painter copies the format of a selected cell to other cells chosen by you. AutoFormat (Format as Table) applies a complete predefined table style — fonts, borders, shading, number formats — to a whole range at once.", ["October 2021"]],
+    ["How do you hide and unhide a worksheet?", "Hide: right-click the sheet tab and choose Hide. Unhide: right-click any visible sheet tab, choose Unhide, select the hidden sheet from the list and click OK."]
+  ],
+  "sa": [
+    ["Write the steps to protect a worksheet using a password. How do you unprotect it?", "Protect: (1) Home tab → Format (Cells group). (2) Choose Protect Sheet. (3) Type a password and click OK. (4) Re-enter the same password to confirm. Now any change shows a warning. Unprotect: Home → Format → Unprotect Sheet → type the same password → OK.", ["April 2023", "October 2019", "April 2022"]],
+    ["Explain the different preset cell styles available in Excel.", "(1) Comma — adds commas and two decimal places. (2) Comma [0] — comma style rounded to a whole number. (3) Currency — currency symbol, commas and two decimals. (4) Currency [0] — currency rounded to a whole number. (5) Percent — changes the number to a percentage with a % sign. (6) Normal — returns to the general format. Other styles include Heading 1, Good, Bad and Neutral."],
+    ["How do you hide and unhide a column in Excel?", "Hide: (1) Click the column header to select it. (2) Right-click and choose Hide; the column disappears but its data remains. Unhide: (1) Select the columns on both sides of the hidden column. (2) Right-click and choose Unhide; the column becomes visible again. Rows are hidden and unhidden the same way."]
+  ],
+  "la": [
+    ["Explain the three places where formatting tools are available in Excel 2007, and the tabs of the Format Cells dialog box.", "(1) Home tab — Font, Alignment and Number groups for the most common formatting. (2) Mini toolbar — appears on right-clicking a cell: font, size, bold, italic, colours, borders, Merge & Center, number styles, Format Painter. (3) Format Cells dialog box — opened with Ctrl+1, the dialog launcher or right-click → Format Cells. Its tabs: Number (General, Number, Currency, Date, Time, Percentage), Alignment (position, orientation, wrap, merge), Font, Border, Fill/Patterns and Protection.", null, {"or": ["How do you apply AutoFormat (Format as Table) and cell styles to a worksheet?", "Format as Table: (1) Select the cells. (2) Home → Styles → Format as Table. (3) Choose a style from Light, Medium or Dark. (4) Tick 'My table has headers' and click OK; change the style from Table Tools → Design. Cell styles: (1) Select the cells. (2) Home → Styles → Cell Styles. (3) Choose a style such as Heading 1, Comma, Currency or Percent. (4) Right-click a style → Delete to remove it."]}]
+  ]
+}

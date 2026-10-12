@@ -1,0 +1,704 @@
+{
+  "subject": "data-entry",
+  "lesson": 1,
+  "title": "Basics of Computer",
+  "meta": "Chapter practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this chapter in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "14 × 1 = 14",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "Logic and comparison operations are performed in the ________ unit of a computer.",
+          "options": [
+            "ALU",
+            "CU",
+            "Memory",
+            "Input"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "Which of the following devices are connected to the computer externally?",
+          "options": [
+            "CPU",
+            "Peripheral devices",
+            "CU",
+            "RAM"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "A touch screen is an ________ device.",
+          "options": [
+            "input",
+            "output",
+            "storage",
+            "processing"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2025",
+            "October 2025"
+          ]
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "Which of the following is an example of system software?",
+          "options": [
+            "MS Word",
+            "ORACLE",
+            "Windows",
+            "Adobe Photoshop"
+          ],
+          "answer": "C",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "Which of the following best describes customized packages?",
+          "options": [
+            "Pre-installed software for general use",
+            "Applications developed to meet specific organisational needs",
+            "System software used for hardware management",
+            "Default applications in an operating system"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "Select the odd one out.",
+          "options": [
+            "Compress (zip) files software",
+            "Anti-virus software",
+            "Join files software",
+            "Windows software"
+          ],
+          "answer": "D",
+          "years": [
+            "October 2024"
+          ],
+          "note": "The other three are utility programs; Windows is an operating system."
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "Which of the following is considered an important feature of a trackball?",
+          "options": [
+            "Output device",
+            "Pointing device",
+            "Storage device",
+            "Display device"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "The ALU and CU of a computer are jointly known as the —",
+          "options": [
+            "RAM",
+            "ROM",
+            "CPU",
+            "Monitor"
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "The speed of a dot matrix printer is measured in —",
+          "options": [
+            "pages per minute",
+            "lines per minute",
+            "characters per second",
+            "dots per inch"
+          ],
+          "answer": "C",
+          "years": [
+            "October 2016"
+          ]
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "Flat bed and drum are two types of —",
+          "options": [
+            "printers",
+            "plotters",
+            "monitors",
+            "scanners"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2016",
+            "October 2019"
+          ]
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "Which language is used mainly for solving mathematical and scientific problems?",
+          "options": [
+            "COBOL",
+            "FORTRAN",
+            "BASIC",
+            "C++"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2022"
+          ]
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "The software that translates a high-level language program into machine language is called a —",
+          "options": [
+            "compiler",
+            "assembler",
+            "operating system",
+            "utility"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.13",
+          "type": "mcq",
+          "q": "Which of these is an example of a customized package?",
+          "options": [
+            "MS-Excel",
+            "Payroll package",
+            "MS-PowerPoint",
+            "Adobe Photoshop"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2019"
+          ]
+        },
+        {
+          "id": "1.14",
+          "type": "mcq",
+          "q": "Symbolic codes called mnemonics are used in —",
+          "options": [
+            "machine language",
+            "assembly language",
+            "high-level language",
+            "natural language"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2025"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Assertion (A) and Reason (R): choose the correct option.",
+      "marks": "5 × 1 = 5",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "mcq",
+          "q": "Assertion (A): Input devices are used to enter data into the computer. — Reason (R): Keyboard and mouse are input devices.",
+          "options": [
+            "Both A and R are true and R is the correct explanation of A.",
+            "Both A and R are true but R is not the correct explanation of A.",
+            "A is true but R is false.",
+            "A is false but R is true."
+          ],
+          "answer": "B",
+          "years": [
+            "April 2026"
+          ],
+          "fixed": true
+        },
+        {
+          "id": "2.2",
+          "type": "mcq",
+          "q": "Assertion (A): A keyboard is an input device. — Reason (R): It is used to type letters, numbers and symbols.",
+          "options": [
+            "Both A and R are true and R is the correct explanation of A.",
+            "Both A and R are true but R is not the correct explanation of A.",
+            "A is true but R is false.",
+            "A is false but R is true."
+          ],
+          "answer": "A",
+          "years": [
+            "April 2026"
+          ],
+          "fixed": true
+        },
+        {
+          "id": "2.3",
+          "type": "mcq",
+          "q": "Assertion (A): A computer follows the Input–Process–Output (IPO) cycle. — Reason (R): A computer receives data, processes it and then produces information as output.",
+          "options": [
+            "Both A and R are true and R is the correct explanation of A.",
+            "Both A and R are true but R is not the correct explanation of A.",
+            "A is true but R is false.",
+            "A is false but R is true."
+          ],
+          "answer": "A",
+          "years": [
+            "October 2025"
+          ],
+          "fixed": true
+        },
+        {
+          "id": "2.4",
+          "type": "mcq",
+          "q": "Assertion (A): Printer is an output device. — Reason (R): A printer prints a hard copy of the document created in the computer.",
+          "options": [
+            "Both A and R are true and R is the correct explanation of A.",
+            "Both A and R are true but R is not the correct explanation of A.",
+            "A is true but R is false.",
+            "A is false but R is true."
+          ],
+          "answer": "A",
+          "years": [
+            "October 2025"
+          ],
+          "fixed": true
+        },
+        {
+          "id": "2.5",
+          "type": "mcq",
+          "q": "Assertion (A): Assembly language is easier to program than machine language. — Reason (R): Assembly language is machine independent.",
+          "options": [
+            "Both A and R are true and R is the correct explanation of A.",
+            "Both A and R are true but R is not the correct explanation of A.",
+            "A is true but R is false.",
+            "A is false but R is true."
+          ],
+          "answer": "C",
+          "fixed": true
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Fill in the blanks.",
+      "marks": "3 × 1 = 3",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "(a) The ________ unit stores data and instructions. (b) Output devices return processed data, that is ________, to the user.",
+          "answer": "(a) Memory (b) information"
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "(a) A standard keyboard generally has ________ keys. (b) The most common keyboard layout is the ________ keyboard.",
+          "answer": "(a) 104 (b) QWERTY",
+          "years": [
+            "October 2019"
+          ]
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "(a) The program generated by the compiler after translation is called the ________ program. (b) Every computer language is bound by rules known as its ________.",
+          "answer": "(a) object (b) syntax"
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "State True or False.",
+      "marks": "8 × 1 = 8",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "mcq",
+          "q": "Speakers are used to hear sound from the computer.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2026"
+          ],
+          "fixed": true
+        },
+        {
+          "id": "4.2",
+          "type": "mcq",
+          "q": "A monitor displays text, pictures and videos.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2026"
+          ],
+          "fixed": true
+        },
+        {
+          "id": "4.3",
+          "type": "mcq",
+          "q": "System software manages the hardware and basic system operations.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2025"
+          ],
+          "fixed": true
+        },
+        {
+          "id": "4.4",
+          "type": "mcq",
+          "q": "An antivirus program is considered system software.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Antivirus is a utility program, and utilities are a type of system software.",
+          "fixed": true
+        },
+        {
+          "id": "4.5",
+          "type": "mcq",
+          "q": "A mouse is an output device.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "fixed": true
+        },
+        {
+          "id": "4.6",
+          "type": "mcq",
+          "q": "CRT monitors are flat panel monitors.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2017"
+          ],
+          "note": "LCD monitors are flat panel monitors; CRT monitors use a large vacuum tube.",
+          "fixed": true
+        },
+        {
+          "id": "4.7",
+          "type": "mcq",
+          "q": "The program written by the programmer in a high-level language is called the object program.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2022"
+          ],
+          "note": "It is the source program; the compiler produces the object program.",
+          "fixed": true
+        },
+        {
+          "id": "4.8",
+          "type": "mcq",
+          "q": "C is an object-oriented programming language.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2016"
+          ],
+          "note": "C is a structured language; C++ is object-oriented.",
+          "fixed": true
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Fill in the blank or answer in one word.",
+      "marks": "8 × 1 = 8",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "The set of programs in ROM which are executed when a computer is switched on and which activate its different units is called ________.",
+          "answer": "System software",
+          "years": [
+            "April 2024",
+            "April 2025"
+          ]
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "________ is an input device that moves the pointer and selects objects by pointing directly at the screen with a pen.",
+          "answer": "Light pen",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "________ type of monitors use a large vacuum tube.",
+          "answer": "CRT (Cathode Ray Tube)",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "Software is a set of ________ used to operate computers and perform specific tasks.",
+          "answer": "programs",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "5.5",
+          "type": "open",
+          "q": "Symbolic codes or mnemonics are used in ________ language to improve programming structure.",
+          "answer": "assembly",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "5.6",
+          "type": "open",
+          "q": "________ printers are used in publishing because they give high-quality, fast and quiet printing.",
+          "answer": "Laser"
+        },
+        {
+          "id": "5.7",
+          "type": "open",
+          "q": "The device used by banks to convert a scanned printed page into editable text is called ________.",
+          "answer": "OCR (Optical Character Recognition) device"
+        },
+        {
+          "id": "5.8",
+          "type": "open",
+          "q": "The ALU and the CU together are called the ________.",
+          "answer": "Central Processing Unit (CPU)"
+        }
+      ]
+    },
+    {
+      "no": 6,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "8 × 2 = 16",
+      "questions": [
+        {
+          "id": "6.1",
+          "type": "open",
+          "q": "What is a memory unit? What does it do?",
+          "answer": "The memory unit is the part of the computer that stores data and instructions. It holds the data before and after processing so that the CPU can use it, and results can be retrieved whenever required.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "6.2",
+          "type": "open",
+          "q": "What is computer organisation?",
+          "answer": "Computer organisation is the way the parts of a computer are arranged to work together. A computer has an input unit, a memory unit, a control unit, an arithmetic logic unit and an output unit; it accepts input, stores and processes it under the control unit and gives output.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "6.3",
+          "type": "open",
+          "q": "What are hardware and software?",
+          "answer": "Hardware is the physical machine and its connected devices, such as the monitor, keyboard and mouse. Software is a set of programs that makes the hardware perform tasks in a particular order, for example Windows or MS-Word.",
+          "years": [
+            "October 2025"
+          ],
+          "or": {
+            "q": "What is the function of a mouse?",
+            "answer": "A mouse is a hand-held pointing device. It moves the pointer on the screen and is used to select menu commands, move icons, resize windows, start programs and choose options by 'point and click'."
+          }
+        },
+        {
+          "id": "6.4",
+          "type": "open",
+          "q": "Give the difference between a mouse and a track ball.",
+          "answer": "A mouse is moved across a flat surface to move the pointer. A track ball is like a mouse lying on its back: it stays still and the ball is rolled with the thumb or fingers, so it needs little space and can be used on any surface — popular on portable computers.",
+          "years": [
+            "April 2025"
+          ],
+          "or": {
+            "q": "Differentiate between a plotter and a printer.",
+            "answer": "A printer gives hard copies of documents and pictures on normal paper sizes. A plotter is designed to draw large drawings such as building plans and blueprints using pens moved by a robotic arm; it draws curves as many short straight lines."
+          }
+        },
+        {
+          "id": "6.5",
+          "type": "open",
+          "q": "What are utility software? Give examples.",
+          "answer": "Utilities are system software that bridge the gap between the operating system and the needs of users. Examples: compress (zip)/uncompress (unzip) software, antivirus software, and split and join files software.",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "6.6",
+          "type": "open",
+          "q": "What are the programs stored in ROM known as? When are they executed?",
+          "answer": "They are system software. They are executed when the computer is switched on; they activate the different units of the computer and make it ready for use.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "6.7",
+          "type": "open",
+          "q": "Write in brief about the dot matrix printer.",
+          "answer": "In a dot matrix printer the print head hits the paper through an ink ribbon and forms characters and images with combinations of dots. It is cheap and versatile, but noisy, slow and of lower print quality. Its speed is measured in characters per second (CPS).",
+          "years": [
+            "October 2024",
+            "April 2021"
+          ]
+        },
+        {
+          "id": "6.8",
+          "type": "open",
+          "q": "What is a plotter? Name its two types.",
+          "answer": "A plotter is an output device that produces large drawings or images, such as building plans and machine blueprints, using coloured pens moved by a robotic arm. Its two types are flat bed plotters and drum plotters.",
+          "years": [
+            "April 2024",
+            "October 2021"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 7,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "5 × 3 = 15",
+      "questions": [
+        {
+          "id": "7.1",
+          "type": "open",
+          "q": "What is a keyboard? Describe its various types of keys.",
+          "answer": "A keyboard is the most common input device, used to type letters, numbers and symbols; the common layout is QWERTY with about 104 keys. Types of keys: (1) alphanumeric (typing) keys — letters, numbers and symbols; (2) function keys F1–F12 for special tasks; (3) cursor control (arrow) keys plus Home, End, Page Up and Page Down; (4) the numeric keypad; (5) special keys such as Enter, Shift, Ctrl, Alt, Tab, Backspace, Delete and Esc.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "7.2",
+          "type": "open",
+          "q": "What is the difference between system software and application software? Give examples.",
+          "answer": "System software runs and controls the computer and manages its resources; it works in the background and supports other programs — e.g. operating systems (Windows, Linux, UNIX) and utilities (antivirus, zip). Application software is written to do a specific task for the user — e.g. MS-Word for documents, MS-Excel for calculations, or a payroll package. Application software needs system software to run.",
+          "years": [
+            "October 2025",
+            "April 2024"
+          ],
+          "or": {
+            "q": "Differentiate between low-level and high-level languages with examples.",
+            "answer": "Low-level languages are close to the machine: machine language (0s and 1s) and assembly language (mnemonics). They are machine dependent and hard to learn. High-level languages use English-like statements, are machine independent and easy to program, e.g. BASIC, COBOL, FORTRAN, C and C++. High-level programs need a compiler to be translated into machine language."
+          }
+        },
+        {
+          "id": "7.3",
+          "type": "open",
+          "q": "What are compilers? Why are they needed? What are the programs before and after translation called?",
+          "answer": "A compiler is software that reads a program written in a high-level language and translates it into an equivalent program in machine language. It is needed because the computer understands only machine language (0s and 1s). The program written by the programmer is the source program; the program produced after translation is the object program.",
+          "years": [
+            "October 2024",
+            "April 2024"
+          ]
+        },
+        {
+          "id": "7.4",
+          "type": "open",
+          "q": "What is application software? Explain its types with examples.",
+          "answer": "Application software is a set of programs written to perform specific tasks for users. (1) Generalized packages cater to general needs: word processing (MS-Word), spreadsheets (MS-Excel), presentations (PowerPoint), databases (MS-Access, ORACLE) and graphics (Adobe Photoshop). (2) Customized packages are developed for the specific needs of an organisation, such as payroll, inventory control or student information systems.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "7.5",
+          "type": "open",
+          "q": "What are optical scanners? Briefly describe bar-code readers and OCR devices.",
+          "answer": "Optical scanners collect data automatically and remove manual typing; an image scanner translates printed images into electronic form that can be stored and edited. A bar-code reader is a special scanner that reads bar codes on products. An OCR (Optical Character Recognition) device, used by banks, converts the scanned image of a typed or printed page into text that can be edited.",
+          "years": [
+            "April 2025",
+            "October 2022"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 8,
+      "title": "Long answer question. Answer in 80–120 words.",
+      "marks": "2 × 4 = 8",
+      "questions": [
+        {
+          "id": "8.1",
+          "type": "open",
+          "q": "What is a computer? Draw/describe the block diagram of a computer and explain the functions of its units.",
+          "answer": "A computer is a device that transforms data into meaningful information; it accepts, stores, processes and retrieves data and gives results. Block diagram: Input unit → Memory unit ↔ ALU, all under the Control Unit → Output unit. (1) Input unit — enters data and instructions (keyboard, mouse). (2) Memory unit — stores data and instructions. (3) ALU — arithmetic (add, subtract, multiply, divide), logic and comparison. (4) Control Unit — supervises all operations step by step; decides when to start and stop receiving data and where to store it. (5) Output unit — gives the results as useful information (monitor, printer). ALU + CU = CPU, the brain of the computer.",
+          "or": {
+            "q": "What is an input device? Describe any four input devices.",
+            "answer": "Input devices accept data and instructions from the user. (1) Keyboard — the most common, QWERTY layout, about 104 keys. (2) Mouse — hand-held pointing device to select, move and open items by point and click. (3) Light pen — selects objects by pointing directly at the screen. (4) Scanner — converts printed pages and pictures into electronic form; bar-code readers and OCR are scanners. Also touch screen, microphone and track ball."
+          }
+        },
+        {
+          "id": "8.2",
+          "type": "open",
+          "q": "What is software? Discuss its categories.",
+          "answer": "Software is a set of programs that makes the hardware perform tasks in a particular order. (1) System software runs the computer and manages its resources: the operating system (Windows, Linux, UNIX) provides the user interface and manages hardware and files; utilities (antivirus, zip, split/join) fill the gap between the OS and users' needs. (2) Application software does specific jobs: generalized packages (MS-Word, MS-Excel, PowerPoint, MS-Access, Photoshop) and customized packages made for an organisation (payroll, inventory, student information). Software is written in computer languages and translated by compilers and assemblers.",
+          "years": [
+            "October 2025"
+          ]
+        }
+      ]
+    }
+  ]
+}

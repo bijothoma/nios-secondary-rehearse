@@ -74,3 +74,5 @@ The lesson then opens with a menu: Lesson, Lesson with translation, and the mode
 - `tools/build_ml_papers.py`: mixes questions from all Malayalam lesson papers into three
   full model papers (`data/malayalam/paper-1..3.json`) in the April 2026 layout.
   Re-run it after changing a lesson paper.
+- `tools/build_deo.py`: builds Data Entry Operations from `data/data-entry/src/lesson-<n>.json`
+  (summary, chapter practice set and three full papers in the April 2026 layout: 25 questions, 40 marks).

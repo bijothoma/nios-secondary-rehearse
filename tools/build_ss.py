@@ -166,7 +166,7 @@ def register(sources):
     path = APP_DIR / 'data' / 'subjects.json'
     data = json.loads(path.read_text(encoding='utf-8'))
     subj = next(s for s in data['subjects'] if s['id'] in (SUBJECT, 'social-studies'))
-    subj.update(id=SUBJECT, name='Social Science', label='Social Science')
+    subj.update(id=SUBJECT, name='Social Science', label='')
     lessons = [{'no': s['lesson'], 'title': s['title'], 'file': f'data/{SUBJECT}/lesson-{s["lesson"]}.json',
                 'summary': f'data/{SUBJECT}/summary/lesson-{s["lesson"]}.json'} for s in sources]
     for p in range(FULL_PAPERS):

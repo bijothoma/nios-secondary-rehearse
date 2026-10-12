@@ -1,0 +1,168 @@
+{
+  "subject": "data-entry",
+  "lesson": 7,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 7: Formatting Worksheets — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Why format a worksheet?"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Formatting makes a worksheet presentable and helps the reader understand it easily. Excel can change the size, colour and angle of fonts, add borders and background colours to cells, and change formats based on values. Many formatting features are the same as in MS Word."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Where the formatting tools are"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Excel 2007 formatting tools are in three places: (1) the Home tab — Font, Alignment and Number groups (small arrows open drop-down lists); (2) the Mini toolbar that appears with the shortcut menu when you right-click a cell or range — font type and size, increase/decrease font, Accounting number format, Comma style, Percent style, font colour, fill colour, Format Painter, bold, italic, centre, borders, Merge and Center, increase/decrease decimal; (3) the Format Cells dialog box."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Opening the Format Cells dialog box: press Ctrl+1; click the dialog box launcher (small arrow) in Home → Font, Alignment or Number; right-click → Format Cells; or choose More Number Formats from a drop-down. It has tabs: Number, Alignment, Font, Border, Fill (Patterns) and Protection."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Format Cells tabs"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Number tab — choose the data type: General (no specific format), Number (integers or decimals with a set number of decimal places), Currency, Date, Time, Percentage and more. Dates: typing 'January 1, 2001' is recognised as a date and shown as 1-Jan-01; choose another type under Number → Date (or Time). Alignment tab — position of data in the cell and orientation (angle) of the text, wrap text, merge cells. Font tab — font face, size, style and effects. Border and Fill (Patterns) tabs — choose None, Outline or Inside presets, line style and colour for borders, and a background colour and pattern for cells."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Merge cells: select adjacent cells and click Merge & Center to join them into one bigger cell — used for headings that span several columns."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Columns and rows"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "AutoFit makes a column wide enough (or a row tall enough) to show its full contents: select the column/row → Home → Format (Cells group) → AutoFit Column Width / AutoFit Row Height. Best fit: double-click the right edge of the column header (pointer becomes a double-headed arrow) or the bottom edge of a row header."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Hide a column/row: select it, right-click → Hide; the data is still there but not shown, which helps prevent unwanted changes. Unhide: select the columns on both sides of the hidden one, right-click → Unhide."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Cell styles"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Home → Styles → Cell Styles applies predefined styles (all styles in Excel are cell styles) such as Heading 1, Good, Bad, Neutral. Number styles: Comma — adds commas and two decimal places; Comma [0] — comma style rounded to a whole number; Currency — currency symbol, commas and two decimals; Currency [0] — rounded to a whole number; Normal — back to the general format; Percent — multiplies by 100 and adds a % sign. Delete a style by right-clicking it → Delete."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Format Painter and AutoFormat"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Format Painter (Home → Clipboard) copies the formatting of one cell to other cells: select the formatted cell, click Format Painter and drag over the target cells; double-click it to use it many times and press Esc to stop. AutoFormat in Excel 2007 is 'Format as Table' (Home → Styles): select the cells, choose a predefined table style (Light, Medium, Dark), tick 'My table has headers' and click OK; the Table Tools Design tab lets you change the style."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Hiding and protecting worksheets"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Hide a worksheet: right-click the sheet tab → Hide. Unhide: right-click any sheet tab → Unhide → choose the sheet. Protect a worksheet against unauthorised editing: Home → Format (Cells group) → Protect Sheet → enter a password → confirm it. Any change then shows a warning. Unprotect: Home → Format → Unprotect Sheet → type the same password → OK. (Protection options are also in the Review tab, Changes group.)"
+        ]
+      ]
+    }
+  ]
+}

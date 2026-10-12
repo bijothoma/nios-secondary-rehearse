@@ -1,0 +1,622 @@
+{
+  "subject": "data-entry",
+  "lesson": 9,
+  "title": "Creating Presentation",
+  "meta": "Chapter practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this chapter in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "11 × 1 = 11",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "Which tab is used to add a new slide in PowerPoint?",
+          "options": [
+            "Insert",
+            "Design",
+            "Home",
+            "View"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Home → New Slide (Insert also has New Slide in later versions)."
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "What is MS PowerPoint?",
+          "options": [
+            "A video editing software",
+            "A spreadsheet software",
+            "A word processing software",
+            "A presentation software"
+          ],
+          "answer": "D",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "Which view is used to preview your presentation?",
+          "options": [
+            "Outline",
+            "Normal",
+            "Slide Show",
+            "Slide Sorter"
+          ],
+          "answer": "C",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "Which view is most useful for adding notes to slides?",
+          "options": [
+            "Slide Sorter view",
+            "Normal view",
+            "Reading view",
+            "Slide Show view"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "Installed templates (designs) in PowerPoint are accessible through which menu option?",
+          "options": [
+            "Insert",
+            "View",
+            "Design",
+            "Format"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Design themes are on the Design tab; the full list of installed templates is under Office Button → New."
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "How many slide layouts are available in the New Slide dialog box?",
+          "options": [
+            "7",
+            "9",
+            "14",
+            "17"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "Which view shows small images of all slides so they can be reordered easily?",
+          "options": [
+            "Normal",
+            "Slide Sorter",
+            "Slide Show",
+            "Notes Page"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2023",
+            "October 2022"
+          ]
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "The basic purpose of any presentation is —",
+          "options": [
+            "communication",
+            "appreciation",
+            "comparison",
+            "calculation"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2019"
+          ]
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "Which key starts a slide show?",
+          "options": [
+            "F1",
+            "F5",
+            "F7",
+            "F10"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2021"
+          ]
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "Which change-case option makes the first letter of every word lowercase and the rest capital?",
+          "options": [
+            "Sentence case",
+            "Title case",
+            "Toggle case",
+            "UPPERCASE"
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "The shortcut to duplicate the selected slide is —",
+          "options": [
+            "Ctrl+D",
+            "Ctrl+Shift+D",
+            "Ctrl+M",
+            "Ctrl+N"
+          ],
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Assertion (A) and Reason (R): choose the correct option.",
+      "marks": "4 × 1 = 4",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "mcq",
+          "q": "Assertion (A): Slide Show view is used when delivering a presentation to an audience. — Reason (R): In Slide Show view all sounds, animations and transitions work.",
+          "options": [
+            "Both A and R are true and R is the correct explanation of A.",
+            "Both A and R are true but R is not the correct explanation of A.",
+            "A is true but R is false.",
+            "A is false but R is true."
+          ],
+          "answer": "A",
+          "fixed": true
+        },
+        {
+          "id": "2.2",
+          "type": "mcq",
+          "q": "Assertion (A): Using contrasting colours for the text and background is a good practice. — Reason (R): Contrasting colours make the text easy to read.",
+          "options": [
+            "Both A and R are true and R is the correct explanation of A.",
+            "Both A and R are true but R is not the correct explanation of A.",
+            "A is true but R is false.",
+            "A is false but R is true."
+          ],
+          "answer": "A",
+          "fixed": true
+        },
+        {
+          "id": "2.3",
+          "type": "mcq",
+          "q": "Assertion (A): A hidden slide is deleted from the presentation. — Reason (R): A hidden slide does not appear in the slide show but can be unhidden later.",
+          "options": [
+            "Both A and R are true and R is the correct explanation of A.",
+            "Both A and R are true but R is not the correct explanation of A.",
+            "A is true but R is false.",
+            "A is false but R is true."
+          ],
+          "answer": "D",
+          "fixed": true
+        },
+        {
+          "id": "2.4",
+          "type": "mcq",
+          "q": "Assertion (A): A presentation can be saved as a web page. — Reason (R): Visitors can then view it in a browser even if they do not have PowerPoint.",
+          "options": [
+            "Both A and R are true and R is the correct explanation of A.",
+            "Both A and R are true but R is not the correct explanation of A.",
+            "A is true but R is false.",
+            "A is false but R is true."
+          ],
+          "answer": "A",
+          "years": [
+            "October 2022"
+          ],
+          "fixed": true
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Fill in the blanks.",
+      "marks": "2 × 1 = 2",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "(a) Slides can easily be ordered and sorted using ________ view. (b) Notes are added to slides in ________ view.",
+          "answer": "(a) Slide Sorter (b) Normal",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "(a) A font size of ________ points or larger is recommended for slides. (b) The bar below the title bar in PowerPoint 2007 is called the ________.",
+          "answer": "(a) 24 (b) Ribbon"
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "State True or False.",
+      "marks": "8 × 1 = 8",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "mcq",
+          "q": "While preparing slides, you should use short phrases and sentences to convey your message.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2016"
+          ],
+          "fixed": true
+        },
+        {
+          "id": "4.2",
+          "type": "mcq",
+          "q": "A design template is not a predesigned presentation theme.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2017"
+          ],
+          "fixed": true
+        },
+        {
+          "id": "4.3",
+          "type": "mcq",
+          "q": "We can save a presentation as a web page.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2022"
+          ],
+          "fixed": true
+        },
+        {
+          "id": "4.4",
+          "type": "mcq",
+          "q": "Slide Show view is used to rearrange the slides.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2021"
+          ],
+          "note": "Slides are rearranged in Slide Sorter view.",
+          "fixed": true
+        },
+        {
+          "id": "4.5",
+          "type": "mcq",
+          "q": "A slide show can be started with the F5 key.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2021"
+          ],
+          "fixed": true
+        },
+        {
+          "id": "4.6",
+          "type": "mcq",
+          "q": "Normal, Slide Sorter and Slide Show are three different slide layouts.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2017"
+          ],
+          "note": "They are views, not layouts.",
+          "fixed": true
+        },
+        {
+          "id": "4.7",
+          "type": "mcq",
+          "q": "Using contrasting colours for text and background is not a good practice.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "fixed": true
+        },
+        {
+          "id": "4.8",
+          "type": "mcq",
+          "q": "There are fifteen different slide layouts to choose from.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2019"
+          ],
+          "note": "There are nine.",
+          "fixed": true
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Fill in the blank or answer in one word.",
+      "marks": "6 × 1 = 6",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "Slides can easily be ordered and sorted using ________ view.",
+          "answer": "Slide Sorter",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "In PowerPoint 2007, the ________ button replaces the File menu.",
+          "answer": "Office"
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "The effect seen when one slide changes to the next during a show is called a ________.",
+          "answer": "transition"
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "The layout useful for beginning a presentation, with a title and subtitle, is the ________ slide.",
+          "answer": "Title"
+        },
+        {
+          "id": "5.5",
+          "type": "open",
+          "q": "The Print What option that prints several slides on each page is ________.",
+          "answer": "Handouts"
+        },
+        {
+          "id": "5.6",
+          "type": "open",
+          "q": "Ravi wants to track expenses and analyse costs over months. Which Office application should he use?",
+          "answer": "MS Excel (spreadsheet)",
+          "years": [
+            "October 2024"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 6,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "9 × 2 = 18",
+      "questions": [
+        {
+          "id": "6.1",
+          "type": "open",
+          "q": "Write the definition of a presentation. Name any two presentation software.",
+          "answer": "A presentation is the act of putting your ideas before an audience — a speech, lecture or conference — usually with slides, to communicate a message simply and interestingly. Presentation software: MS PowerPoint and OpenOffice.org Impress (also Google Slides, Apple Keynote).",
+          "years": [
+            "April 2026"
+          ],
+          "or": {
+            "q": "Explain any two features of Normal view.",
+            "answer": "(1) It shows the current slide in the main window with the outline/slides pane on the left and the notes pane at the bottom, so most of the work is done here. (2) Each pane can be resized by dragging its border, and speaker notes can be typed in the notes pane."
+          }
+        },
+        {
+          "id": "6.2",
+          "type": "open",
+          "q": "What is Normal view in PowerPoint?",
+          "answer": "Normal view is the main editing view. It divides the screen into three parts: the slide pane showing the current slide, the outline/slides pane on the left, and the notes pane at the bottom for speaker notes.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "6.3",
+          "type": "open",
+          "q": "Name any two views available in PowerPoint and explain briefly.",
+          "answer": "Normal view — the main working view with slide, outline and notes panes. Slide Sorter view — shows small images of all slides so they can be reordered and transitions added. (Slide Show view shows the presentation full screen to the audience.)",
+          "years": [
+            "October 2025",
+            "April 2023"
+          ]
+        },
+        {
+          "id": "6.4",
+          "type": "open",
+          "q": "What is the importance of a slide in a presentation?",
+          "answer": "Slides are the building blocks of a presentation. Each slide presents one idea with text, pictures, charts or media, helping the speaker present points in order and helping the audience understand and remember the message.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "6.5",
+          "type": "open",
+          "q": "What is the use of animations in a presentation?",
+          "answer": "Animations make text, pictures and other objects on a slide appear, move or disappear with effects. They draw the audience's attention to key points and let the speaker reveal information step by step.",
+          "years": [
+            "October 2025"
+          ],
+          "or": {
+            "q": "What is a transition effect?",
+            "answer": "A transition is the visual effect seen when one slide changes to the next in a slide show, such as fade, wipe or dissolve. Transitions are added in Slide Sorter view; simple transitions should be used so the audience is not distracted."
+          }
+        },
+        {
+          "id": "6.6",
+          "type": "open",
+          "q": "Explain the purpose of Slide Sorter view in MS PowerPoint.",
+          "answer": "Slide Sorter view shows a small image of every slide. It is used to see the whole presentation at a glance, reorder slides by dragging, delete or duplicate slides and add transitions between slides.",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "6.7",
+          "type": "open",
+          "q": "Explain the difference between 'Save as file' and 'Save as Web Page' in PowerPoint.",
+          "answer": "Save As file stores the presentation as a PowerPoint file in a folder, to be opened and edited in PowerPoint. Save as Web Page stores it in web format so it can be posted on the Internet and viewed in a browser even by people without PowerPoint.",
+          "years": [
+            "April 2025",
+            "April 2024"
+          ]
+        },
+        {
+          "id": "6.8",
+          "type": "open",
+          "q": "Differentiate between the Title Only layout and the Title Slide layout.",
+          "answer": "Title Slide has a title and a subtitle box, used to begin a presentation. Title Only has only a title box with no subtitle or content box, leaving the rest of the slide free for your own items.",
+          "years": [
+            "October 2024",
+            "April 2025"
+          ],
+          "or": {
+            "q": "Write the steps to change the line spacing from single to double in PowerPoint.",
+            "answer": "(1) Select the text or text box. (2) Home tab → Paragraph group → Line Spacing button. (3) Choose 2.0 (or Line Spacing Options → Line Spacing: Double) and click OK."
+          }
+        },
+        {
+          "id": "6.9",
+          "type": "open",
+          "q": "Why do you need to hide a slide? Write the steps to hide a slide.",
+          "answer": "A slide is hidden when it should not appear in the slide show but should be kept for later use. Steps: right-click the slide in the slides pane (or Slide Sorter view) and choose Hide Slide; repeat to unhide.",
+          "years": [
+            "April 2025",
+            "April 2024"
+          ],
+          "or": {
+            "q": "Give two methods to reorder slides in PowerPoint.",
+            "answer": "(1) In Slide Sorter view, click a slide and drag it to the new position. (2) In Normal view, drag the slide thumbnail in the slides/outline pane to a new place (or cut and paste the slide)."
+          }
+        }
+      ]
+    },
+    {
+      "no": 7,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "5 × 3 = 15",
+      "questions": [
+        {
+          "id": "7.1",
+          "type": "open",
+          "q": "What is an installed template in a presentation? Describe its features.",
+          "answer": "Installed templates are ready-made presentations supplied with PowerPoint (Office Button → New → Installed Templates) for purposes such as albums, quizzes or reports. Features: (1) they already have a design, layout and sample content; (2) you replace the sample text with your own, saving time; (3) they give a consistent, professional look to all slides.",
+          "years": [
+            "April 2026"
+          ],
+          "or": {
+            "q": "Write the steps to apply a design template. What are the benefits of using a design template?",
+            "answer": "Steps: (1) Open the presentation. (2) Click the Design tab. (3) Point to the themes to preview and click the one you want (right-click to apply it to selected slides only). Benefits: consistent background, colours and fonts on all slides; a professional look without designing each slide; saves time and can be changed any time."
+          }
+        },
+        {
+          "id": "7.2",
+          "type": "open",
+          "q": "Write the steps for changing the layout of a slide in PowerPoint.",
+          "answer": "(1) Select the slide in the slides pane. (2) Home tab → Slides group → Layout (or right-click the slide → Layout). (3) The nine layouts appear as thumbnails. (4) Click the required layout (Title Slide, Title and Content, Two Content, etc.); the slide changes.",
+          "years": [
+            "October 2025"
+          ],
+          "or": {
+            "q": "What is a blank presentation in MS PowerPoint? Explain its features.",
+            "answer": "A blank presentation starts with plain white slides without any design or sample text (Office Button → New → Blank Presentation). Features: complete freedom to create your own design; you choose layouts, backgrounds, fonts and colours; useful when no template suits your needs; a design can be applied later from the Design tab."
+          }
+        },
+        {
+          "id": "7.3",
+          "type": "open",
+          "q": "Explain the purpose of Slides, Handouts and Notes Pages in the 'Print What' option of the Print dialog box.",
+          "answer": "Slides — prints one full-page slide on each page, e.g. for display. Handouts — prints several slides (2, 3, 6…) on each page to give the audience a summary. Notes Pages — prints one slide with its speaker notes on each page, for the speaker's use. (Outline View prints only the text outline.)",
+          "years": [
+            "April 2025",
+            "October 2024",
+            "April 2024"
+          ],
+          "or": {
+            "q": "Explain Sentence case, Title case and Toggle case in the Change Case option.",
+            "answer": "Sentence case — capitalises the first letter of the first word in each sentence. Title case (Capitalize Each Word) — capitalises the first letter of every word and makes the rest lowercase. Toggle case — the opposite of Title case: the first letter of every word lowercase and the remaining letters capital."
+          }
+        },
+        {
+          "id": "7.4",
+          "type": "open",
+          "q": "Give three important tips to create effective slides in PowerPoint.",
+          "answer": "(1) Use contrasting colours for text and background and a font size of 24 points or more so text is easy to read. (2) Use short phrases and avoid cluttering slides with too much text or graphics. (3) Use simple, consistent transitions and few text effects so the audience is not distracted.",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "7.5",
+          "type": "open",
+          "q": "Write the steps to create a numbered list in a text box starting with a chosen number.",
+          "answer": "(1) Insert → Text Box and draw the box. (2) Select the text box. (3) Home → Paragraph → Numbering → Bullets and Numbering. (4) On the Numbered tab, choose a style, size and colour. (5) Type the required number in 'Start at' and click OK.",
+          "years": [
+            "April 2025"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 8,
+      "title": "Long answer question. Answer in 80–120 words.",
+      "marks": "1 × 4 = 4",
+      "questions": [
+        {
+          "id": "8.1",
+          "type": "open",
+          "q": "What is PowerPoint? Explain the different ways of creating a presentation and the views available.",
+          "answer": "PowerPoint is presentation software used to create slides and slide shows with text, pictures, sound and charts. Ways to create (Office Button → New): (1) Installed Templates — ready-made presentations; (2) Installed Themes / design templates — backgrounds and fonts to start with; (3) Blank Presentation — start from scratch. Views: Normal view (slide, outline and notes panes; main working view), Slide Sorter view (thumbnails for ordering and transitions) and Slide Show view (full-screen presentation with all effects; F5).",
+          "or": {
+            "q": "Explain any four slide layouts and how to insert, duplicate and hide slides.",
+            "answer": "Layouts: Title Slide (title and subtitle, to begin), Title and Content (heading with a list), Two Content (two text or picture areas), Comparison (pro/con), Title Only, Blank, Section Header, Content/Picture with Caption. Insert: Home → New Slide → choose a layout. Duplicate: select the slide → Home → New Slide → Duplicate Selected Slides or Ctrl+Shift+D. Hide: right-click the slide in the slides pane → Hide Slide; it stays in the file but is not shown."
+          }
+        }
+      ]
+    }
+  ]
+}

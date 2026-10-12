@@ -1,0 +1,76 @@
+{
+  "lesson": 5,
+  "title": "Mail Merge",
+  "summary": [
+    "## What is mail merge?",
+    "Mail merge combines a list of names and addresses (or other information) with a single document, so that one letter can be sent to many people, each copy carrying that person's name and address. Uses: (1) merge an address list into one form letter for many people; (2) create letters with variable fields in the body, or labels; (3) produce directory lists, invoices, address lists, and print addresses on envelopes and mailing labels; the merged result can also be sent by e-mail (needs an internet connection) or fax.",
+    "## Types of documents in mail merge",
+    "(a) Main document — the personalised document (letter, envelope or label) with the text and graphics that stay the same in every copy, e.g. the return address and body of a form letter. (b) Data source — a file containing the names, addresses or other information that change in each copy, e.g. a list of clients. (c) Merge document — the third document produced when the main document is merged with the data source; it contains one personalised copy per record. It can be sent to the screen (a new document), directly to the printer, or saved for later. Merge fields such as «City» in the main document are replaced by the data, e.g. 'New Delhi'.",
+    "In Word 2007 the Mailings tab holds the groups Create, Start Mail Merge, Write & Insert Fields, Preview Results and Finish & Merge.",
+    "## The Mail Merge Wizard (6 steps)",
+    "Mailings → Start Mail Merge → Step by Step Mail Merge Wizard. (1) Select document type — Letters, E-mail messages, Envelopes, Labels or Directory; Letters is the most common. (2) Select starting document — Use the current document, Start from a template, or Start from existing document. Leave 6–7 blank lines for the address, type and save the letter body. (3) Select recipients — Use an existing list, Select from Outlook contacts, or Type a new list. (4) Write your letter — insert the Address Block, Greeting Line or individual merge fields where needed. (5) Preview your letters — use the << and >> buttons to see each copy. (6) Complete the merge — print or edit individual letters.",
+    "## Creating a data source",
+    "(a) With the wizard (Mail Merge Helper): in step 3 choose 'Type a new list' → Create. The New Address List dialog has fields such as Title, First Name, Last Name, Company Name, Address Line 1, City, State, PIN code. Type the records; click Customize Columns to add, delete or rename fields; click OK, choose a folder and file name and Save. The list is saved as a Microsoft Office Address List (.mdb database).",
+    "(b) Editing existing data records: in step 3 choose 'Use an existing list' → Browse → select the data file (Access, Excel, Word, RTF etc.) → Open. Click Edit Recipient List, move to the record (arrow buttons, record number or Find), change it and save.",
+    "(c) Using a Word table: Insert → Table; type the field names in the top row and the records from the second row; save it as a Word document — the data source is ready.",
+    "(d) Using an Excel worksheet: type the field names in the first row and records below, save; or select and copy the data, paste it into a new Word document as a table and save it.",
+    "## Merging",
+    "Click in the main document where the address should go and choose Address Block (or Insert Merge Field) to insert merge fields; save the main document. Preview Results shows the letters with real data; Finish & Merge → Edit Individual Documents, Print Documents or Send E-mail Messages completes the merge.",
+    "## Mailing labels and envelopes",
+    "Labels: Mailings → Start Mail Merge → Labels → Label Options (choose printer type and label product, or New Label for a custom size) → Select Recipients (Type New List / Use Existing List / Outlook Contacts) → Edit Recipient List if needed → Insert Merge Field for each address field → Preview Results → Finish & Merge → Print Documents.",
+    "Envelopes: printing addresses directly on envelopes instead of sticking printed labels. Mailings → Start Mail Merge → Envelopes → Envelope Options (choose envelope size or Custom size, address font and position; Printing Options for the feed) → select recipients → insert merge fields → Preview Results → Finish & Merge → Print Documents."
+  ],
+  "mcq": [
+    ["In mail merge, the document whose text stays the same in every copy is called the —", ["data source", "main document", "merge document", "template"], "B"],
+    ["The file that contains the names and addresses that change in each copy is the —", ["main document", "data source", "merge document", "envelope"], "B"],
+    ["The document produced after merging the main document with the data source is the —", ["merge document", "main document", "data source", "address list"], "A"],
+    ["Mail merge features are found on which tab of Word 2007?", ["Home", "Insert", "Mailings", "Review"], "C"],
+    ["How many steps does the Mail Merge Wizard have?", ["4", "5", "6", "8"], "C"],
+    ["The most commonly used document type in mail merge is —", ["Letters", "Labels", "Directory", "Envelopes"], "A"],
+    ["A data source created with the Mail Merge Wizard is saved with the extension —", [".docx", ".mdb", ".xlsx", ".pptx"], "B"],
+    ["Which of these can be used as a data source for mail merge?", ["An Excel worksheet", "A Word table", "An Access database", "All of these"], "D"],
+    ["To send merged documents as e-mail, your computer needs —", ["a fax machine", "an internet connection", "a plotter", "a scanner"], "B"]
+  ],
+  "ar": [
+    ["Mail merge can produce one letter for many people, each with their own name and address.", "The data source supplies the details that change in each copy of the main document.", "A"],
+    ["Data records created in an Excel worksheet cannot be used as a data source for mail merge.", "Word can use Access, Excel, Word and RTF files as data sources.", "D"],
+    ["The merge document is the same as the main document.", "The merge document is produced by combining the main document with the data source.", "D"]
+  ],
+  "tf": [
+    ["Using mail merge you can merge an address list into a single letter, but you cannot insert variable fields in the body of the letter.", false],
+    ["The data source contains the text that stays the same in every merged letter.", false, null, {"note": "That is the main document; the data source holds the changing information."}],
+    ["Mail merge can be used to print addresses directly on envelopes.", true],
+    ["Preview Results lets you see the merged letters with real data before printing.", true],
+    ["A data source can be created by typing a table in Word.", true, ["October 2016", "April 2022"]]
+  ],
+  "fill2": [
+    ["(a) In mail merge, a data source can be created using the Mail Merge Wizard or a Word ________. (b) Merged documents can be sent to a new document or to the ________.", "(a) table (b) printer"],
+    ["(a) The three documents of mail merge are the main document, the data source and the ________ document. (b) A merge field such as «City» is replaced by data from the ________.", "(a) merge (b) data source"]
+  ],
+  "oneword": [
+    ["The ________ tab in Word 2007 contains the mail merge tools.", "Mailings"],
+    ["In step 3 of the Mail Merge Wizard, choose '________ a new list' to create a new data source.", "Type"],
+    ["The ________ button in Preview Results shows each merged copy in turn.", "<< / >> (next and previous record)"],
+    ["To print merged labels, click Finish & Merge and then ________.", "Print Documents"],
+    ["Name the dialog box where you choose the label product and size.", "Label Options"],
+    ["The block of merge fields that inserts a complete address is called the ________.", "Address Block"]
+  ],
+  "vsa": [
+    ["What is the role (purpose) of the main document in mail merge?", "The main document contains the text and graphics that remain the same in every copy, such as the body of a form letter and the return address. Merge fields are inserted in it, and they are filled with data from the data source to make personalised copies.", ["October 2025", "April 2025", "April 2024"]],
+    ["Explain the purpose of the merge document in mail merge.", "The merge document is the result of merging the main document with the data source. It contains one personalised copy for each record (each letter with its own name and address) and can be viewed on screen, printed or saved for later use.", ["October 2024"]],
+    ["Explain the purpose of creating envelopes using mail merge.", "Envelopes made with mail merge print each recipient's address directly on an envelope from the data source, instead of writing or sticking labels by hand. It saves time and avoids mistakes when many letters must be posted.", ["April 2025"]],
+    ["Differentiate between the main document and the data source.", "The main document holds the fixed text (the letter body) with merge fields. The data source is a separate file (Word table, Excel sheet or address list) holding the changing information such as names and addresses, one record per person.", ["October 2022", "April 2023"]],
+    ["What is a data source in mail merge?", "A data source is a file containing the names, addresses or other information that vary in each copy of a merged document, arranged as fields (columns) and records (rows). It can be an address list, a Word table, an Excel worksheet or an Access database.", ["October 2017", "October 2016"]],
+    ["Differentiate between the main document and the merge document.", "The main document is the original letter with fixed text and merge fields. The merge document is produced after merging; it has a separate, filled-in copy of the letter for each person in the data source.", ["April 2022", "October 2021"]]
+  ],
+  "sa": [
+    ["Write the steps to create a data source using a Word table.", "(1) Open a new document and choose Insert → Table; make a table with as many columns as fields. (2) Type the field names (Name, Address, City, PIN) in the top row. (3) Type each person's details in the following rows, one record per row. (4) Save the document — the data source is ready to be used in mail merge.", ["April 2022", "October 2016"]],
+    ["Write the steps to create a data source using an Excel worksheet.", "(1) Start Excel and open a worksheet. (2) Type the field names in the first row. (3) Type the records from the second row. (4) Save the worksheet; it can be selected through 'Use an existing list'. (5) Or select the data, copy it, paste it into a new Word document as a table and save it.", ["April 2025"]],
+    ["Write the steps to edit existing data records in mail merge.", "(1) In step 3 of the wizard choose 'Use an existing list' and click Browse. (2) Select the data file and click Open. (3) Click Edit Recipient List. (4) Move to the record using the arrow buttons, record number or Find. (5) Change the entries and save the changes.", ["October 2024"]],
+    ["Write the main uses of mail merge.", "(1) Sending the same letter to many people, each with their own name and address. (2) Inserting variable information in the body of the letter. (3) Printing mailing labels and envelopes, and making directories, invoices and address lists; merged documents can also be e-mailed.", ["April 2023", "April 2019"]]
+  ],
+  "la": [
+    ["What is mail merge in word processing? What types of documents can be generated with mail merge?", "Mail merge combines a main document with a data source to produce personalised copies. Main document — fixed text (letter body). Data source — changing details (names, addresses). Merge document — the result with one copy per record. Documents that can be generated: (1) form letters; (2) e-mail messages; (3) envelopes with printed addresses; (4) mailing labels; (5) directories (lists), invoices and address lists. Steps: select document type, starting document, recipients, write the letter with merge fields, preview and complete the merge.", ["April 2026"], {"or": ["What is mail merge? Discuss the various components of mail merge.", "Mail merge is a Word feature that merges a list of names and addresses into one document so that each person gets a personalised copy. Components: (1) Main document — text and graphics that stay the same, with merge fields such as «Name». (2) Data source — a file (address list, Word table, Excel sheet, Access database) holding the data that changes, as fields and records. (3) Merge fields — placeholders replaced by data. (4) Merge document — the final result, sent to a new document, printer or e-mail."]}],
+    ["What types of documents are required for mail merge? Write the steps for creating a data source in MS Word for mail merge.", "Required documents: main document (fixed text), data source (changing information) and the merge document produced after merging. Steps to create a data source with the wizard: (1) Mailings → Start Mail Merge → Step by Step Mail Merge Wizard. (2) In step 3 (Select recipients) choose 'Type a new list' → Create. (3) Type the details in fields such as Title, First Name, Last Name, Address, City. (4) Click New Entry for each record; use Customize Columns to add, delete or rename fields. (5) Click OK, give a file name and Save (.mdb).", ["October 2025", "October 2024"], {"or": ["What is mail merge? Explain its uses and write the steps to merge a letter with a data source.", "Mail merge produces personalised copies of a document for many people. Uses: form letters, labels, envelopes, directories, e-mails. Steps: (1) Mailings → Start Mail Merge → Letters. (2) Type the letter, leaving space for the address. (3) Select Recipients → Use Existing List (or Type New List). (4) Insert Address Block / merge fields. (5) Preview Results. (6) Finish & Merge → Print Documents or Edit Individual Documents."]}]
+  ]
+}

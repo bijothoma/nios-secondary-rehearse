@@ -140,7 +140,7 @@
     {
       "id": "social-science",
       "name": "Social Science",
-      "label": "Social Science",
+      "label": "",
       "lessons": [
         {
           "no": 3,
@@ -260,9 +260,64 @@
     },
     {
       "id": "data-entry",
-      "name": "Data Entry",
+      "name": "Data Entry Operations",
       "label": "",
-      "lessons": []
+      "lessons": [
+        {
+          "no": 1,
+          "title": "Basics of Computer",
+          "file": "data/data-entry/lesson-1.json",
+          "summary": "data/data-entry/summary/lesson-1.json"
+        },
+        {
+          "no": 4,
+          "title": "Formatting Documents",
+          "file": "data/data-entry/lesson-4.json",
+          "summary": "data/data-entry/summary/lesson-4.json"
+        },
+        {
+          "no": 5,
+          "title": "Mail Merge",
+          "file": "data/data-entry/lesson-5.json",
+          "summary": "data/data-entry/summary/lesson-5.json"
+        },
+        {
+          "no": 7,
+          "title": "Formatting Worksheets",
+          "file": "data/data-entry/lesson-7.json",
+          "summary": "data/data-entry/summary/lesson-7.json"
+        },
+        {
+          "no": 8,
+          "title": "Formulas, Functions and Charts",
+          "file": "data/data-entry/lesson-8.json",
+          "summary": "data/data-entry/summary/lesson-8.json"
+        },
+        {
+          "no": 9,
+          "title": "Creating Presentation",
+          "file": "data/data-entry/lesson-9.json",
+          "summary": "data/data-entry/summary/lesson-9.json"
+        },
+        {
+          "no": 901,
+          "tag": "Full paper",
+          "title": "Model Question Paper 1",
+          "file": "data/data-entry/paper-1.json"
+        },
+        {
+          "no": 902,
+          "tag": "Full paper",
+          "title": "Model Question Paper 2",
+          "file": "data/data-entry/paper-2.json"
+        },
+        {
+          "no": 903,
+          "tag": "Full paper",
+          "title": "Model Question Paper 3",
+          "file": "data/data-entry/paper-3.json"
+        }
+      ]
     },
     {
       "id": "english",

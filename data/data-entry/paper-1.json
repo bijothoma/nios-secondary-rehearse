@@ -1,0 +1,424 @@
+{
+  "subject": "data-entry",
+  "lesson": 901,
+  "title": "Model Question Paper 1",
+  "meta": "Time: 2 hours · Maximum marks: 40 · Modelled on the April 2026 NIOS paper",
+  "instructions": [
+    "All questions are compulsory. Where a question has OR, answer either one.",
+    "Section A: questions 1–7 are MCQs (1 mark each); questions 8–10 have two parts of 1 mark each (assertion–reason, fill in the blanks, true/false); questions 11–17 carry 1 mark each.",
+    "Section B: 2-mark answers in 30–50 words, 3-mark answers in 50–80 words, the 4-mark answer in 80–120 words.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "7 × 1 = 7",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "Which of the following best describes customized packages?",
+          "options": [
+            "Pre-installed software for general use",
+            "Applications developed to meet specific organisational needs",
+            "System software used for hardware management",
+            "Default applications in an operating system"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 1."
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "Which option removes text from its original position?",
+          "options": [
+            "Copy",
+            "Paste",
+            "Cut",
+            "Undo"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 4."
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "Which of the following is NOT a way to indent text in MS Word?",
+          "options": [
+            "Tab stops",
+            "Hanging indent",
+            "Decrease Indent button",
+            "Space bar"
+          ],
+          "answer": "D",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 4."
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "A data source created with the Mail Merge Wizard is saved with the extension —",
+          "options": [
+            ".docx",
+            ".mdb",
+            ".xlsx",
+            ".pptx"
+          ],
+          "answer": "B",
+          "note": "Lesson 5."
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "Which tab (category) of the Format Cells dialog box is used to enter a date in a desired format?",
+          "options": [
+            "Home",
+            "Insert",
+            "Data",
+            "Number"
+          ],
+          "answer": "D",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 7."
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "A formula in MS Excel starts with the ________ sign.",
+          "options": [
+            "@",
+            "#",
+            "*",
+            "="
+          ],
+          "answer": "D",
+          "years": [
+            "October 2024",
+            "October 2019"
+          ],
+          "note": "Lesson 8."
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "Which view is most useful for adding notes to slides?",
+          "options": [
+            "Slide Sorter view",
+            "Normal view",
+            "Reading view",
+            "Slide Show view"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 9."
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Assertion (A) and Reason (R): choose the correct option.",
+      "marks": "2 × 1 = 2",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "mcq",
+          "q": "Assertion (A): The Ctrl+Z shortcut in MS Word is used to undo the last action, including the insertion of bullets or numbering. — Reason (R): Ctrl+Z is the undo command, which reverts the document to its previous state.",
+          "options": [
+            "Both A and R are true and R is the correct explanation of A.",
+            "Both A and R are true but R is not the correct explanation of A.",
+            "A is true but R is false.",
+            "A is false but R is true."
+          ],
+          "answer": "A",
+          "years": [
+            "April 2024",
+            "April 2025"
+          ],
+          "fixed": true,
+          "note": "Lesson 4."
+        },
+        {
+          "id": "2.2",
+          "type": "mcq",
+          "q": "Assertion (A): =SUM(A10, A20) adds all the cells from A10 to A20. — Reason (R): A range of cells is written with a colon, as in A10:A20.",
+          "options": [
+            "Both A and R are true and R is the correct explanation of A.",
+            "Both A and R are true but R is not the correct explanation of A.",
+            "A is true but R is false.",
+            "A is false but R is true."
+          ],
+          "answer": "D",
+          "years": [
+            "October 2024"
+          ],
+          "note": "=SUM(A10, A20) adds only the two cells A10 and A20. Lesson 8.",
+          "fixed": true
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Fill in the blanks.",
+      "marks": "2 × 1 = 2",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "(a) To select all content in a document, press Ctrl + ________. (b) The key for deleting text towards the left of the cursor is called ________.",
+          "answer": "(a) A (b) Backspace",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 4."
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "(a) To copy a formula, drag the ________ down to the required cells. (b) The AVERAGE function returns the ________ value of its arguments.",
+          "answer": "(a) fill handle (b) average (arithmetic mean)",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 8."
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "State True or False.",
+      "marks": "2 × 1 = 2",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "mcq",
+          "q": "While typing in a Word document you need not press Enter at the end of each line.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2016"
+          ],
+          "fixed": true,
+          "note": "Lesson 4."
+        },
+        {
+          "id": "4.2",
+          "type": "mcq",
+          "q": "Pie charts are used to compare values across categories.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2021"
+          ],
+          "note": "Column charts compare values across categories. Lesson 8.",
+          "fixed": true
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Fill in the blank or answer in one word.",
+      "marks": "7 × 1 = 7",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "Symbolic codes or mnemonics are used in ________ language to improve programming structure.",
+          "answer": "assembly",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 1."
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "The alignment that places text in the centre of the page is ________ alignment.",
+          "answer": "centre (center)",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 4."
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "Hold down the ________ key while using the arrow keys to highlight text in MS Word.",
+          "answer": "Shift",
+          "years": [
+            "October 2024",
+            "April 2025"
+          ],
+          "note": "Lesson 4."
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "The ________ tab in Word 2007 contains the mail merge tools.",
+          "answer": "Mailings",
+          "note": "Lesson 5."
+        },
+        {
+          "id": "5.5",
+          "type": "open",
+          "q": "Name the tab and group where you find options to protect worksheets in MS Excel.",
+          "answer": "Home tab → Cells group (Format → Protect Sheet); also the Review tab → Changes group",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Lesson 7."
+        },
+        {
+          "id": "5.6",
+          "type": "open",
+          "q": "Formulas are used to perform ________ on data.",
+          "answer": "calculations",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 8."
+        },
+        {
+          "id": "5.7",
+          "type": "open",
+          "q": "The layout useful for beginning a presentation, with a title and subtitle, is the ________ slide.",
+          "answer": "Title",
+          "note": "Lesson 9."
+        }
+      ]
+    },
+    {
+      "no": 6,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "5 × 2 = 10",
+      "questions": [
+        {
+          "id": "6.1",
+          "type": "open",
+          "q": "What are utility software? Give examples.",
+          "answer": "Utilities are system software that bridge the gap between the operating system and the needs of users. Examples: compress (zip)/uncompress (unzip) software, antivirus software, and split and join files software.",
+          "years": [
+            "October 2024"
+          ],
+          "note": "Lesson 1."
+        },
+        {
+          "id": "6.2",
+          "type": "open",
+          "q": "Differentiate between copying text and moving text.",
+          "answer": "Copying makes a copy of the selected text and puts it in another place, leaving the original unchanged (Ctrl+C, Ctrl+V). Moving (cutting) removes the selected text from its place and inserts it in another place (Ctrl+X, Ctrl+V).",
+          "or": {
+            "q": "Write the steps to move a line of text from one place to another.",
+            "answer": "(1) Select the line of text. (2) Click Cut in Home → Clipboard or press Ctrl+X. (3) Place the cursor where the text should go. (4) Click Paste or press Ctrl+V. (Or drag the selection with the mouse and drop it in the new place.)"
+          },
+          "note": "Lesson 4."
+        },
+        {
+          "id": "6.3",
+          "type": "open",
+          "q": "How do you hide and unhide a worksheet?",
+          "answer": "Hide: right-click the sheet tab and choose Hide. Unhide: right-click any visible sheet tab, choose Unhide, select the hidden sheet from the list and click OK.",
+          "note": "Lesson 7."
+        },
+        {
+          "id": "6.4",
+          "type": "open",
+          "q": "Differentiate between formulas and functions.",
+          "answer": "A formula is an expression written by the user, starting with =, using operators and cell references, e.g. =B3+C3+D3. A function is a built-in formula with a name, to which you give arguments in parentheses, e.g. =SUM(B3:D3) or =AVERAGE(B3:D3).",
+          "years": [
+            "April 2017"
+          ],
+          "note": "Lesson 8."
+        },
+        {
+          "id": "6.5",
+          "type": "open",
+          "q": "What is the importance of a slide in a presentation?",
+          "answer": "Slides are the building blocks of a presentation. Each slide presents one idea with text, pictures, charts or media, helping the speaker present points in order and helping the audience understand and remember the message.",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 9."
+        }
+      ]
+    },
+    {
+      "no": 7,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "2 × 3 = 6",
+      "questions": [
+        {
+          "id": "7.1",
+          "type": "open",
+          "q": "What is the difference between system software and application software? Give examples.",
+          "answer": "System software runs and controls the computer and manages its resources; it works in the background and supports other programs — e.g. operating systems (Windows, Linux, UNIX) and utilities (antivirus, zip). Application software is written to do a specific task for the user — e.g. MS-Word for documents, MS-Excel for calculations, or a payroll package. Application software needs system software to run.",
+          "years": [
+            "October 2025",
+            "April 2024"
+          ],
+          "or": {
+            "q": "Differentiate between low-level and high-level languages with examples.",
+            "answer": "Low-level languages are close to the machine: machine language (0s and 1s) and assembly language (mnemonics). They are machine dependent and hard to learn. High-level languages use English-like statements, are machine independent and easy to program, e.g. BASIC, COBOL, FORTRAN, C and C++. High-level programs need a compiler to be translated into machine language."
+          },
+          "note": "Lesson 1."
+        },
+        {
+          "id": "7.2",
+          "type": "open",
+          "q": "Explain the purpose of Slides, Handouts and Notes Pages in the 'Print What' option of the Print dialog box.",
+          "answer": "Slides — prints one full-page slide on each page, e.g. for display. Handouts — prints several slides (2, 3, 6…) on each page to give the audience a summary. Notes Pages — prints one slide with its speaker notes on each page, for the speaker's use. (Outline View prints only the text outline.)",
+          "years": [
+            "April 2025",
+            "October 2024",
+            "April 2024"
+          ],
+          "or": {
+            "q": "Explain Sentence case, Title case and Toggle case in the Change Case option.",
+            "answer": "Sentence case — capitalises the first letter of the first word in each sentence. Title case (Capitalize Each Word) — capitalises the first letter of every word and makes the rest lowercase. Toggle case — the opposite of Title case: the first letter of every word lowercase and the remaining letters capital."
+          },
+          "note": "Lesson 9."
+        }
+      ]
+    },
+    {
+      "no": 8,
+      "title": "Long answer question. Answer in 80–120 words.",
+      "marks": "1 × 4 = 4",
+      "questions": [
+        {
+          "id": "8.1",
+          "type": "open",
+          "q": "What types of documents are required for mail merge? Write the steps for creating a data source in MS Word for mail merge.",
+          "answer": "Required documents: main document (fixed text), data source (changing information) and the merge document produced after merging. Steps to create a data source with the wizard: (1) Mailings → Start Mail Merge → Step by Step Mail Merge Wizard. (2) In step 3 (Select recipients) choose 'Type a new list' → Create. (3) Type the details in fields such as Title, First Name, Last Name, Address, City. (4) Click New Entry for each record; use Customize Columns to add, delete or rename fields. (5) Click OK, give a file name and Save (.mdb).",
+          "years": [
+            "October 2025",
+            "October 2024"
+          ],
+          "or": {
+            "q": "What is mail merge? Explain its uses and write the steps to merge a letter with a data source.",
+            "answer": "Mail merge produces personalised copies of a document for many people. Uses: form letters, labels, envelopes, directories, e-mails. Steps: (1) Mailings → Start Mail Merge → Letters. (2) Type the letter, leaving space for the address. (3) Select Recipients → Use Existing List (or Type New List). (4) Insert Address Block / merge fields. (5) Preview Results. (6) Finish & Merge → Print Documents or Edit Individual Documents."
+          },
+          "note": "Lesson 5."
+        }
+      ]
+    }
+  ]
+}

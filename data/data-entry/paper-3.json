@@ -1,0 +1,388 @@
+{
+  "subject": "data-entry",
+  "lesson": 903,
+  "title": "Model Question Paper 3",
+  "meta": "Time: 2 hours · Maximum marks: 40 · Modelled on the April 2026 NIOS paper",
+  "instructions": [
+    "All questions are compulsory. Where a question has OR, answer either one.",
+    "Section A: questions 1–7 are MCQs (1 mark each); questions 8–10 have two parts of 1 mark each (assertion–reason, fill in the blanks, true/false); questions 11–17 carry 1 mark each.",
+    "Section B: 2-mark answers in 30–50 words, 3-mark answers in 50–80 words, the 4-mark answer in 80–120 words.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "7 × 1 = 7",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "Logic and comparison operations are performed in the ________ unit of a computer.",
+          "options": [
+            "ALU",
+            "CU",
+            "Memory",
+            "Input"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 1."
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "Which key is used to delete text to the left of the cursor?",
+          "options": [
+            "Delete",
+            "Backspace",
+            "Enter",
+            "Shift"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 4."
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "In mail merge, the document whose text stays the same in every copy is called the —",
+          "options": [
+            "data source",
+            "main document",
+            "merge document",
+            "template"
+          ],
+          "answer": "B",
+          "note": "Lesson 5."
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "Hiding columns or rows helps to —",
+          "options": [
+            "delete data",
+            "prevent unwanted changes",
+            "add formulas",
+            "print faster"
+          ],
+          "answer": "B",
+          "note": "Lesson 7."
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "Which tab lets you create charts and graphs in MS Excel?",
+          "options": [
+            "Insert",
+            "Formulas",
+            "Data",
+            "View"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2024"
+          ],
+          "note": "Lesson 8."
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "Which view is used to preview your presentation?",
+          "options": [
+            "Outline",
+            "Normal",
+            "Slide Show",
+            "Slide Sorter"
+          ],
+          "answer": "C",
+          "years": [
+            "October 2024"
+          ],
+          "note": "Lesson 9."
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "What is MS PowerPoint?",
+          "options": [
+            "A video editing software",
+            "A spreadsheet software",
+            "A word processing software",
+            "A presentation software"
+          ],
+          "answer": "D",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 9."
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Assertion (A) and Reason (R): choose the correct option.",
+      "marks": "2 × 1 = 2",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "mcq",
+          "q": "Assertion (A): Mail merge can produce one letter for many people, each with their own name and address. — Reason (R): The data source supplies the details that change in each copy of the main document.",
+          "options": [
+            "Both A and R are true and R is the correct explanation of A.",
+            "Both A and R are true but R is not the correct explanation of A.",
+            "A is true but R is false.",
+            "A is false but R is true."
+          ],
+          "answer": "A",
+          "fixed": true,
+          "note": "Lesson 5."
+        },
+        {
+          "id": "2.2",
+          "type": "mcq",
+          "q": "Assertion (A): A protected worksheet cannot be edited until it is unprotected. — Reason (R): Unprotecting needs the same password that was used to protect the sheet.",
+          "options": [
+            "Both A and R are true and R is the correct explanation of A.",
+            "Both A and R are true but R is not the correct explanation of A.",
+            "A is true but R is false.",
+            "A is false but R is true."
+          ],
+          "answer": "B",
+          "fixed": true,
+          "note": "Lesson 7."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Fill in the blanks.",
+      "marks": "2 × 1 = 2",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "(a) In mail merge, a data source can be created using the Mail Merge Wizard or a Word ________. (b) Merged documents can be sent to a new document or to the ________.",
+          "answer": "(a) table (b) printer",
+          "note": "Lesson 5."
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "(a) The Format Cells dialog box can be opened by pressing Ctrl + ________. (b) To change the date format, select the ________ tab in the Format Cells window.",
+          "answer": "(a) 1 (b) Number",
+          "note": "Lesson 7."
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "State True or False.",
+      "marks": "2 × 1 = 2",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "mcq",
+          "q": "Mail merge can be used to print addresses directly on envelopes.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "fixed": true,
+          "note": "Lesson 5."
+        },
+        {
+          "id": "4.2",
+          "type": "mcq",
+          "q": "To unhide a column, select the columns on both sides of it, right-click and choose Unhide.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "fixed": true,
+          "note": "Lesson 7."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Fill in the blank or answer in one word.",
+      "marks": "7 × 1 = 7",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "The set of programs in ROM which are executed when a computer is switched on and which activate its different units is called ________.",
+          "answer": "System software",
+          "years": [
+            "April 2024",
+            "April 2025"
+          ],
+          "note": "Lesson 1."
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "The feature used to create a list and bring main points to a reader's attention is called ________.",
+          "answer": "bulleted (or numbered) list",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 4."
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "To print merged labels, click Finish & Merge and then ________.",
+          "answer": "Print Documents",
+          "note": "Lesson 5."
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "The predefined table formats in Excel 2007 are applied with ________ in the Styles group.",
+          "answer": "Format as Table",
+          "note": "Lesson 7."
+        },
+        {
+          "id": "5.5",
+          "type": "open",
+          "q": "The function used to add values in a range of cells is ________.",
+          "answer": "SUM",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 8."
+        },
+        {
+          "id": "5.6",
+          "type": "open",
+          "q": "Ravi wants to track expenses and analyse costs over months. Which Office application should he use?",
+          "answer": "MS Excel (spreadsheet)",
+          "years": [
+            "October 2024"
+          ],
+          "note": "Lesson 9."
+        },
+        {
+          "id": "5.7",
+          "type": "open",
+          "q": "The Print What option that prints several slides on each page is ________.",
+          "answer": "Handouts",
+          "note": "Lesson 9."
+        }
+      ]
+    },
+    {
+      "no": 6,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "5 × 2 = 10",
+      "questions": [
+        {
+          "id": "6.1",
+          "type": "open",
+          "q": "Write any two advantages of using the paragraph spacing command.",
+          "answer": "(1) Spacing before and after a paragraph does not change the size of the text, and precise adjustments can be made between headings and body text. (2) If the paragraph is moved or deleted its spacing goes with it, leaving no extra blank lines; spacing can also be included in styles.",
+          "years": [
+            "April 2023"
+          ],
+          "note": "Lesson 4."
+        },
+        {
+          "id": "6.2",
+          "type": "open",
+          "q": "Explain the purpose of creating envelopes using mail merge.",
+          "answer": "Envelopes made with mail merge print each recipient's address directly on an envelope from the data source, instead of writing or sticking labels by hand. It saves time and avoids mistakes when many letters must be posted.",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 5."
+        },
+        {
+          "id": "6.3",
+          "type": "open",
+          "q": "Write the steps to AutoFit rows (or columns) in a spreadsheet.",
+          "answer": "(1) Select the row (or column), or a cell in it. (2) Home tab → Format in the Cells group. (3) Click AutoFit Row Height (or AutoFit Column Width). Or double-click the bottom edge of the row header (right edge of the column header).",
+          "years": [
+            "October 2022"
+          ],
+          "note": "Lesson 7."
+        },
+        {
+          "id": "6.4",
+          "type": "open",
+          "q": "What is a legend in a chart?",
+          "answer": "A legend is the chart component that shows the colour, symbol or pattern used to mark each data series, so the reader knows which bar, line or slice stands for which data.",
+          "years": [
+            "April 2023"
+          ],
+          "note": "Lesson 8."
+        },
+        {
+          "id": "6.5",
+          "type": "open",
+          "q": "Name any two views available in PowerPoint and explain briefly.",
+          "answer": "Normal view — the main working view with slide, outline and notes panes. Slide Sorter view — shows small images of all slides so they can be reordered and transitions added. (Slide Show view shows the presentation full screen to the audience.)",
+          "years": [
+            "October 2025",
+            "April 2023"
+          ],
+          "note": "Lesson 9."
+        }
+      ]
+    },
+    {
+      "no": 7,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "2 × 3 = 6",
+      "questions": [
+        {
+          "id": "7.1",
+          "type": "open",
+          "q": "Write the main uses of mail merge.",
+          "answer": "(1) Sending the same letter to many people, each with their own name and address. (2) Inserting variable information in the body of the letter. (3) Printing mailing labels and envelopes, and making directories, invoices and address lists; merged documents can also be e-mailed.",
+          "years": [
+            "April 2023",
+            "April 2019"
+          ],
+          "note": "Lesson 5."
+        },
+        {
+          "id": "7.2",
+          "type": "open",
+          "q": "Write the steps to protect a worksheet using a password. How do you unprotect it?",
+          "answer": "Protect: (1) Home tab → Format (Cells group). (2) Choose Protect Sheet. (3) Type a password and click OK. (4) Re-enter the same password to confirm. Now any change shows a warning. Unprotect: Home → Format → Unprotect Sheet → type the same password → OK.",
+          "years": [
+            "April 2023",
+            "October 2019",
+            "April 2022"
+          ],
+          "note": "Lesson 7."
+        }
+      ]
+    },
+    {
+      "no": 8,
+      "title": "Long answer question. Answer in 80–120 words.",
+      "marks": "1 × 4 = 4",
+      "questions": [
+        {
+          "id": "8.1",
+          "type": "open",
+          "q": "Explain the SUM, SUMIF, AVERAGE, MAX, MIN and COUNT functions with examples.",
+          "answer": "SUM adds numbers: =SUM(B2:B6). SUMIF adds cells meeting a condition: =SUMIF(B2:B6, \">50\"). AVERAGE gives the arithmetic mean: =AVERAGE(B2:B6). MAX gives the largest value: =MAX(B2:B6). MIN gives the smallest value: =MIN(B2:B6). COUNT counts cells with numbers: =COUNT(B2:B6) (COUNTA counts non-empty cells, COUNTBLANK empty ones, COUNTIF cells meeting a condition). Each function takes up to 255 arguments, written in parentheses after the name, starting with =.",
+          "years": [
+            "October 2016"
+          ],
+          "note": "Lesson 8."
+        }
+      ]
+    }
+  ]
+}

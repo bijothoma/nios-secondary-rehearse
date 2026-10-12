@@ -1,0 +1,132 @@
+{
+  "subject": "data-entry",
+  "lesson": 8,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 8: Formulas, Functions and Charts — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Formulas"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Formulas calculate results from worksheet data and update automatically when the data changes. Elements of a formula: it must begin with the equal to (=) sign; mathematical operators (+ − * /) and logical operators (<, >); cell references (including named ranges); text or values; worksheet functions such as SUM or AVERAGE. The cell shows the result; the formula itself appears in the formula bar when the cell is selected. The Formulas tab holds the function library."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Example: in F3 type =B3+C3+D3+E3 to add four subjects' marks. If A1=2, B1=3, C1=4, D1=5: =B1*C1 gives 12; =A1*B1−C1+D1 gives 7; =((A1*B1)+C1)/D1 gives 2."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Copying a formula: drag the fill handle (small square at the bottom-right of the cell) down or across; the formula is copied and its cell references adjust to each row (relative references). Copying formulas saves time and reduces errors. A $ sign (e.g. $A$1) makes a reference absolute so it does not change when copied."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "AutoSum: click the cell, Formulas (or Home) tab → AutoSum → Sum → Enter; or type =SUM(B3:E3)."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Functions"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Functions are built-in formulas; you give the cell references (arguments) inside parentheses. SUM(number1, number2, …) adds numbers (up to 255 arguments); a range is written with a colon, e.g. =SUM(A10:A20). SUMIF(range, criteria, sum_range) adds only the cells that meet a condition, such as \">99\"; blank and text values are ignored. AVERAGE() returns the arithmetic mean; MIN() returns the smallest value; MAX() returns the largest value. COUNT() counts cells containing numbers; COUNTA() counts non-empty cells; COUNTBLANK() counts empty cells; COUNTIF() counts cells meeting a condition. More functions: AutoSum → More Functions (Insert Function dialog)."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Charts"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Charts present worksheet data visually; a chart is a visual representation of data. Types: Column — compares values across categories; Line — shows trends over time at equal intervals; Pie — shows the proportion of each part to the whole; only one data series and preferably 5–6 slices, all positive; Bar — compares individual items (horizontal bars); Area — highlights the degree of change over time and the total value; XY (Scatter) — both axes show values; shows the relationship between two variables; Stock — shows fluctuations in stock prices (High-Low-Close) or temperatures; Surface — finds optimum combinations between two sets of numeric data, coloured like a topographic map; Doughnut — like a pie (parts of a whole) but can have more than one series; Bubble — x values, y values and bubble sizes; Radar — compares aggregate values of several data series."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Components of a chart: chart title; X-axis and Y-axis titles; X-axis categories (from the first column/row of the data); Y-axis values; data labels (the values plotted); legend (colour, symbol or pattern for each data series); tick marks (show the scaling of the axes); gridlines (lines at major intervals)."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Drawing a chart in Excel 2007: (1) enter the data; (2) select the data range; (3) Insert tab → Charts group → choose the chart type; (4) choose the sub-type; (5) Chart Tools → Layout → Chart Title, then type the title; (6) Layout → Axis Titles → Primary Horizontal/Vertical Axis Title. Editing: Layout → Legend (position), Data Labels, Data Table, Gridlines. Resize by dragging the handles (corner handles keep proportion); move by dragging the border. Copy the chart and paste it into Word or PowerPoint. Chart Tools add three tabs: Design, Layout and Format."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Graphics"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "AutoShapes (Insert → Illustrations → Shapes): lines, connectors (to join flow-chart elements), basic shapes, block arrows, flowchart shapes, stars and banners, callouts. SmartArt (Insert → SmartArt) is a visual representation of information and ideas; choose a type (List, Process, Cycle, Hierarchy, Relationship…) and a layout, then type the text; the Design tab applies effects. Clip Art (Insert → Clip Art) inserts a media file — picture, sound, animation or movie. Picture from file: Insert → Picture → choose the file → Insert; the Format tab (Adjust, Picture Styles, Arrange, Size) edits it."
+        ]
+      ]
+    }
+  ]
+}

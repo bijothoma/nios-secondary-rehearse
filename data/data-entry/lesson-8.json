@@ -1,0 +1,734 @@
+{
+  "subject": "data-entry",
+  "lesson": 8,
+  "title": "Formulas, Functions and Charts",
+  "meta": "Chapter practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this chapter in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "17 × 1 = 17",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "Copying formulas in Excel helps to —",
+          "options": [
+            "increase file size",
+            "save time and reduce errors",
+            "delete data",
+            "change formatting"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "Which symbol makes a cell reference absolute in Excel?",
+          "options": [
+            "@",
+            "#",
+            "$",
+            "&"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "A formula in MS Excel starts with the ________ sign.",
+          "options": [
+            "@",
+            "#",
+            "*",
+            "="
+          ],
+          "answer": "D",
+          "years": [
+            "October 2024",
+            "October 2019"
+          ]
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "Which tab lets you create charts and graphs in MS Excel?",
+          "options": [
+            "Insert",
+            "Formulas",
+            "Data",
+            "View"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "________ help us to see the fluctuations of stock market prices.",
+          "options": [
+            "Stock charts",
+            "Radar charts",
+            "Area charts",
+            "Line charts"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "Which function adds the cells that meet a given criterion?",
+          "options": [
+            "SUM()",
+            "AUTOSUM()",
+            "SUMIF()",
+            "Criteria function"
+          ],
+          "answer": "C",
+          "years": [
+            "October 2025",
+            "April 2024"
+          ]
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "Which function counts the number of cells containing numerical values in a range?",
+          "options": [
+            "COUNT()",
+            "COUNTBLANK()",
+            "COUNTIF()",
+            "COUNTA()"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "The SUMIF function ignores blank and ________ values.",
+          "options": [
+            "text",
+            "number",
+            "zero",
+            "negative"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "Which chart type would you use to show trends over time?",
+          "options": [
+            "Pie chart",
+            "Bar chart",
+            "Line chart",
+            "Scatter chart"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "________ indicate the scaling of the X-axis and Y-axis in a chart.",
+          "options": [
+            "Data labels",
+            "Tick marks",
+            "Legends",
+            "Chart title"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "When would you use a surface chart?",
+          "options": [
+            "To compare individual categories",
+            "To show changes over time",
+            "To show relationships between two variables",
+            "To analyse two sets of numeric data for optimum combinations"
+          ],
+          "answer": "D",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "________ allow you to present data entered in the worksheet in a visual format.",
+          "options": [
+            "Tables",
+            "Charts",
+            "Formulas",
+            "Filters"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "1.13",
+          "type": "mcq",
+          "q": "What is the result of =SUM(A1:A5) if A1 to A5 contain 5, 10, 15, 20 and 25?",
+          "options": [
+            "25",
+            "50",
+            "75",
+            "100"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "1.14",
+          "type": "mcq",
+          "q": "What is the result of =MAX(A1:A5) if A1 to A5 contain 5, 10, 15, 20 and 25?",
+          "options": [
+            "5",
+            "15",
+            "25",
+            "75"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "1.15",
+          "type": "mcq",
+          "q": "If A1 = 3, B1 = 5 and C1 = 7, what is the result of =(A1*B1)+C1?",
+          "options": [
+            "15",
+            "22",
+            "35",
+            "105"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2017"
+          ]
+        },
+        {
+          "id": "1.16",
+          "type": "mcq",
+          "q": "Which chart shows the proportion of each part to the whole?",
+          "options": [
+            "Line",
+            "Pie",
+            "Scatter",
+            "Stock"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2021"
+          ]
+        },
+        {
+          "id": "1.17",
+          "type": "mcq",
+          "q": "Visual representation of information and ideas such as process, cycle or hierarchy diagrams is called —",
+          "options": [
+            "Clip Art",
+            "SmartArt",
+            "AutoShapes",
+            "WordArt"
+          ],
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Assertion (A) and Reason (R): choose the correct option.",
+      "marks": "4 × 1 = 4",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "mcq",
+          "q": "Assertion (A): A formula in Excel updates its result automatically when the data changes. — Reason (R): A formula uses cell references instead of fixed values.",
+          "options": [
+            "Both A and R are true and R is the correct explanation of A.",
+            "Both A and R are true but R is not the correct explanation of A.",
+            "A is true but R is false.",
+            "A is false but R is true."
+          ],
+          "answer": "A",
+          "fixed": true
+        },
+        {
+          "id": "2.2",
+          "type": "mcq",
+          "q": "Assertion (A): A pie chart can show more than one data series. — Reason (R): A doughnut chart, like a pie chart, shows parts of a whole and can have more than one data series.",
+          "options": [
+            "Both A and R are true and R is the correct explanation of A.",
+            "Both A and R are true but R is not the correct explanation of A.",
+            "A is true but R is false.",
+            "A is false but R is true."
+          ],
+          "answer": "D",
+          "fixed": true
+        },
+        {
+          "id": "2.3",
+          "type": "mcq",
+          "q": "Assertion (A): =SUM(A10, A20) adds all the cells from A10 to A20. — Reason (R): A range of cells is written with a colon, as in A10:A20.",
+          "options": [
+            "Both A and R are true and R is the correct explanation of A.",
+            "Both A and R are true but R is not the correct explanation of A.",
+            "A is true but R is false.",
+            "A is false but R is true."
+          ],
+          "answer": "D",
+          "years": [
+            "October 2024"
+          ],
+          "note": "=SUM(A10, A20) adds only the two cells A10 and A20.",
+          "fixed": true
+        },
+        {
+          "id": "2.4",
+          "type": "mcq",
+          "q": "Assertion (A): Line charts are best for showing trends over equal intervals of time. — Reason (R): In a line chart the categories are on the horizontal axis and values are spread evenly on the vertical axis.",
+          "options": [
+            "Both A and R are true and R is the correct explanation of A.",
+            "Both A and R are true but R is not the correct explanation of A.",
+            "A is true but R is false.",
+            "A is false but R is true."
+          ],
+          "answer": "A",
+          "fixed": true
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Fill in the blanks.",
+      "marks": "3 × 1 = 3",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "(a) The function used to add values in a range of cells is ________. (b) A function in Excel always begins with the ________ sign.",
+          "answer": "(a) SUM (b) = (equal to)",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "(a) ________ shows the colour or pattern used for each data series in a chart. (b) The ________ function returns the smallest number in a set of values.",
+          "answer": "(a) Legend (b) MIN"
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "(a) To copy a formula, drag the ________ down to the required cells. (b) The AVERAGE function returns the ________ value of its arguments.",
+          "answer": "(a) fill handle (b) average (arithmetic mean)",
+          "years": [
+            "October 2025"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "State True or False.",
+      "marks": "6 × 1 = 6",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "mcq",
+          "q": "Pie charts are useful for comparing trends over time.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "note": "Line charts show trends; pie charts show parts of a whole.",
+          "fixed": true
+        },
+        {
+          "id": "4.2",
+          "type": "mcq",
+          "q": "Line charts show the proportion of each component to the total value.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "fixed": true
+        },
+        {
+          "id": "4.3",
+          "type": "mcq",
+          "q": "Pie charts are used to compare values across categories.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2021"
+          ],
+          "note": "Column charts compare values across categories.",
+          "fixed": true
+        },
+        {
+          "id": "4.4",
+          "type": "mcq",
+          "q": "The SUM function can take up to 255 arguments.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "fixed": true
+        },
+        {
+          "id": "4.5",
+          "type": "mcq",
+          "q": "In XY (scatter) charts both axes display values.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "fixed": true
+        },
+        {
+          "id": "4.6",
+          "type": "mcq",
+          "q": "Arrows, flowchart elements, stars and geometrical shapes are called AutoShapes.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2019"
+          ],
+          "fixed": true
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Fill in the blank or answer in one word.",
+      "marks": "11 × 1 = 11",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "The function used to add values in a range of cells is ________.",
+          "answer": "SUM",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "A function in Excel always begins with the ________ sign.",
+          "answer": "= (equal to)",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "Formulas are used to perform ________ on data.",
+          "answer": "calculations",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "A ________ is used to perform calculations in a spreadsheet.",
+          "answer": "formula",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "5.5",
+          "type": "open",
+          "q": "To find the highest value in a range, use the ________ function.",
+          "answer": "MAX",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "5.6",
+          "type": "open",
+          "q": "A ________ chart is useful for comparing data across categories.",
+          "answer": "column (or bar)",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "5.7",
+          "type": "open",
+          "q": "A ________ is a visual representation of data.",
+          "answer": "chart",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "5.8",
+          "type": "open",
+          "q": "The AutoSum button is found on the ________ tab in Excel.",
+          "answer": "Formulas (also Home)",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "5.9",
+          "type": "open",
+          "q": "Which function would you use to calculate the minimum of a range of numbers?",
+          "answer": "MIN()",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "5.10",
+          "type": "open",
+          "q": "Which function calculates the average of a range of numbers?",
+          "answer": "AVERAGE()",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "5.11",
+          "type": "open",
+          "q": "Rajat used =SUM(A10, A20) to add cells A10 to A20. Write the correct formula.",
+          "answer": "=SUM(A10:A20)",
+          "years": [
+            "October 2024"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 6,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "8 × 2 = 16",
+      "questions": [
+        {
+          "id": "6.1",
+          "type": "open",
+          "q": "Differentiate between the MIN() and MAX() functions.",
+          "answer": "MIN() returns the smallest number in a set of values, e.g. =MIN(B2:B6) gives the lowest mark. MAX() returns the largest number, e.g. =MAX(B2:B6) gives the highest mark. Both accept up to 255 arguments.",
+          "years": [
+            "October 2019"
+          ]
+        },
+        {
+          "id": "6.2",
+          "type": "open",
+          "q": "What is the SUMIF() function? Give its syntax.",
+          "answer": "SUMIF adds only those cells that meet a given condition. Syntax: SUMIF(range, criteria, sum_range). Example: =SUMIF(B3:E3, \">99\") adds only the values greater than 99; blank and text cells are ignored.",
+          "years": [
+            "April 2023"
+          ]
+        },
+        {
+          "id": "6.3",
+          "type": "open",
+          "q": "Differentiate between formulas and functions.",
+          "answer": "A formula is an expression written by the user, starting with =, using operators and cell references, e.g. =B3+C3+D3. A function is a built-in formula with a name, to which you give arguments in parentheses, e.g. =SUM(B3:D3) or =AVERAGE(B3:D3).",
+          "years": [
+            "April 2017"
+          ]
+        },
+        {
+          "id": "6.4",
+          "type": "open",
+          "q": "What are the elements of a formula in an Excel spreadsheet?",
+          "answer": "A formula must begin with the = sign and can contain mathematical operators (+, −, *, /) and logical operators (<, >), cell references (including named ranges), text or values, and worksheet functions such as SUM and AVERAGE.",
+          "years": [
+            "October 2022",
+            "April 2016"
+          ]
+        },
+        {
+          "id": "6.5",
+          "type": "open",
+          "q": "What is a legend in a chart?",
+          "answer": "A legend is the chart component that shows the colour, symbol or pattern used to mark each data series, so the reader knows which bar, line or slice stands for which data.",
+          "years": [
+            "April 2023"
+          ]
+        },
+        {
+          "id": "6.6",
+          "type": "open",
+          "q": "What is SmartArt? Write the steps to create a SmartArt graphic.",
+          "answer": "SmartArt is a visual representation of information and ideas (list, process, cycle, hierarchy, relationship). Steps: Insert tab → Illustrations → SmartArt → choose a category and layout → OK → click each shape and type the text.",
+          "years": [
+            "October 2019",
+            "October 2017"
+          ]
+        },
+        {
+          "id": "6.7",
+          "type": "open",
+          "q": "Differentiate between AutoShapes and SmartArt graphics.",
+          "answer": "AutoShapes are ready-made shapes — lines, arrows, basic shapes, flowchart symbols, stars and callouts — drawn one by one. SmartArt creates a complete diagram of ideas, such as a process or hierarchy, from a chosen layout into which text is typed.",
+          "years": [
+            "October 2021"
+          ]
+        },
+        {
+          "id": "6.8",
+          "type": "open",
+          "q": "Differentiate between a bar chart and an area chart.",
+          "answer": "A bar chart uses horizontal bars to compare individual items. An area chart plots data as a filled area to highlight the degree of change over time and draw attention to the total value across a trend.",
+          "years": [
+            "April 2021"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 7,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "7 × 3 = 21",
+      "questions": [
+        {
+          "id": "7.1",
+          "type": "open",
+          "q": "Explain any five components of a chart.",
+          "answer": "(1) Chart title — the title of the whole chart. (2) Axis titles — names of the X-axis and Y-axis data. (3) X-axis categories and Y-axis values — the categories plotted and the value scale. (4) Legend — colour or pattern used for each data series. (5) Data labels — the values of the data plotted. Also tick marks (scale of axes) and gridlines (lines at major intervals)."
+        },
+        {
+          "id": "7.2",
+          "type": "open",
+          "q": "Write the steps to plot a pie chart with the title 'First Quarter Sales' for given sales data.",
+          "answer": "(1) Enter the item names in column A and sales percentages in column B. (2) Select the data range A1:B6. (3) Insert tab → Charts group → Pie → choose a sub-type (2-D Pie). (4) Click the chart → Chart Tools Layout → Chart Title → Above Chart. (5) Type 'First Quarter Sales'. (6) Add data labels from Layout → Data Labels if needed.",
+          "years": [
+            "April 2022",
+            "October 2019",
+            "April 2019",
+            "April 2017",
+            "October 2016",
+            "April 2016"
+          ]
+        },
+        {
+          "id": "7.3",
+          "type": "open",
+          "q": "A table shows marks in 5 subjects. Write the steps to create a line chart titled 'Performance Analysis' with X-axis 'Subject' and Y-axis 'Score'.",
+          "answer": "(1) Enter subjects in column A and marks in column B; select the range. (2) Insert → Charts → Line → choose a sub-type. (3) Layout → Chart Title → type 'Performance Analysis'. (4) Layout → Axis Titles → Primary Horizontal Axis Title → type 'Subject'. (5) Layout → Axis Titles → Primary Vertical Axis Title → type 'Score'.",
+          "years": [
+            "October 2022"
+          ]
+        },
+        {
+          "id": "7.4",
+          "type": "open",
+          "q": "Rainfall of five states is in B2:B6. Write formulas for the total in B7, the maximum in B8, the average in B9 and the minimum in B10.",
+          "answer": "B7: =SUM(B2:B6). B8: =MAX(B2:B6). B9: =AVERAGE(B2:B6). B10: =MIN(B2:B6).",
+          "years": [
+            "October 2022"
+          ]
+        },
+        {
+          "id": "7.5",
+          "type": "open",
+          "q": "Marks of four schools' toppers in Maths, Physics, Chemistry and English are in B2:E5. Write formulas for: total of row 4 in F4; maximum of all totals in F6; minimum Maths marks in B6; total of row 2 in F2.",
+          "answer": "F4: =SUM(B4:E4). F6: =MAX(F2:F5). B6: =MIN(B2:B5). F2: =SUM(B2:E2).",
+          "years": [
+            "October 2021"
+          ]
+        },
+        {
+          "id": "7.6",
+          "type": "open",
+          "q": "Pay is in B2:B6, allowance in C2:C6 and tax in D2:D6. Write formulas for: net pay of row 3 in E3, net pay of row 4 in E4, total tax in D7 and average pay in B7.",
+          "answer": "E3: =B3+C3-D3. E4: =B4+C4-D4. D7: =SUM(D2:D6). B7: =AVERAGE(B2:B6).",
+          "years": [
+            "April 2021"
+          ]
+        },
+        {
+          "id": "7.7",
+          "type": "open",
+          "q": "Showroom prices are in C2:C5. Write formulas for: road tax at 7% of the price in D2; net price (price + road tax) in E2; total road tax in D6; maximum showroom price in C6.",
+          "answer": "D2: =C2*7/100 (or =C2*7%). E2: =C2+D2. D6: =SUM(D2:D5). C6: =MAX(C2:C5).",
+          "years": [
+            "April 2023"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 8,
+      "title": "Long answer question. Answer in 80–120 words.",
+      "marks": "2 × 4 = 8",
+      "questions": [
+        {
+          "id": "8.1",
+          "type": "open",
+          "q": "What is a chart? Explain any four types of charts available in Excel.",
+          "answer": "A chart is a visual representation of worksheet data that makes comparisons and trends easy to see. (1) Column chart — vertical bars compare values across categories. (2) Line chart — shows trends over equal intervals of time. (3) Pie chart — shows the proportion of each part to the whole; one data series, best with 5–6 slices. (4) Bar chart — horizontal bars compare individual items. Others: Area (change over time and total), XY Scatter (relationship between two variables), Stock (price fluctuations), Surface, Doughnut, Bubble and Radar.",
+          "or": {
+            "q": "Write the steps to draw a chart in Excel 2007 and give it titles.",
+            "answer": "(1) Enter the data in the worksheet. (2) Select the data range with the mouse. (3) Insert tab → Charts group → choose a chart type. (4) Choose the sub-type; the chart appears. (5) Click the chart → Chart Tools Layout → Chart Title → type a title. (6) Layout → Axis Titles → Primary Horizontal Axis Title and Primary Vertical Axis Title → type them. (7) Use Legend, Data Labels and Gridlines in the Layout tab to edit; drag handles to resize and the border to move."
+          }
+        },
+        {
+          "id": "8.2",
+          "type": "open",
+          "q": "Explain the SUM, SUMIF, AVERAGE, MAX, MIN and COUNT functions with examples.",
+          "answer": "SUM adds numbers: =SUM(B2:B6). SUMIF adds cells meeting a condition: =SUMIF(B2:B6, \">50\"). AVERAGE gives the arithmetic mean: =AVERAGE(B2:B6). MAX gives the largest value: =MAX(B2:B6). MIN gives the smallest value: =MIN(B2:B6). COUNT counts cells with numbers: =COUNT(B2:B6) (COUNTA counts non-empty cells, COUNTBLANK empty ones, COUNTIF cells meeting a condition). Each function takes up to 255 arguments, written in parentheses after the name, starting with =.",
+          "years": [
+            "October 2016"
+          ]
+        }
+      ]
+    }
+  ]
+}

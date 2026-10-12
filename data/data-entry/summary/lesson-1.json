@@ -1,0 +1,186 @@
+{
+  "subject": "data-entry",
+  "lesson": 1,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 1: Basics of Computer — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "What is a computer?"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "A computer is a device that transforms data into meaningful information. It can accept data, store data, process data as desired, retrieve stored data when required and print the result in the desired format. Its major characteristics are high speed, accuracy, diligence, versatility and storage. Computer components are of two kinds: hardware (the machine and its connected devices) and software (the programs that make the hardware work)."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Computer organisation"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Every computer performs five basic operations: input, storage, processing, output and control (the Input–Process–Output cycle). (1) Input unit — enters data and programs into the computer. (2) Control Unit (CU) — supervises input, output, processing and storage; decides when to start and stop receiving data and where to store it; takes care of step-by-step processing. (3) Memory unit — stores data and instructions. (4) Arithmetic Logic Unit (ALU) — performs addition, subtraction, multiplication, division, logic and comparison. (5) Output unit — produces results from the data as useful information. The ALU and CU together form the Central Processing Unit (CPU), the 'brain' of the computer."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Peripheral devices"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Peripheral devices are connected to the computer externally to perform specific functions: input devices, output devices and other peripherals."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Input devices accept data and instructions from the user. Keyboard — the most common input device; the usual layout is QWERTY and a standard keyboard has 104 keys (cursor keys are duplicated on the numeric pad). Mouse — an electro-mechanical hand-held pointing device used to select menu commands, move icons, resize windows, start programs ('point and click'); older mice use a ball, newer ones are optical/laser. Light pen — a light-sensitive pointer used to select objects by pointing directly at the screen. Optical scanner — automatic data collection that removes manual input; a bar-code reader is a special image scanner; an OCR (Optical Character Recognition) device, used by banks, converts a scanned printed page into editable text. Touch screen — input given by touching buttons on the screen. Microphone — takes voice as input; desktop and hand-held types. Track ball — a 'mouse lying on its back'; the ball is rolled with the thumb or fingers; it is stationary, needs little space and is popular on portable computers."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Output devices return processed data (information) to the user. Monitor (Visual Display Unit) — the most important output device. CRT (Cathode Ray Tube) monitors use a large vacuum tube like an old TV; LCD (Liquid Crystal Display) monitors are flat panel monitors and are popular today. Resolution is measured in pixels (800 × 600, 1024 × 768, 1280 × 1024)."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Printers give a hard copy (printout). Laser printer — high quality, very fast and quiet, used in publishing; up to 200 pages per minute in black and white and 100 in colour. Ink-jet printer — sprays ink through up to 64 tiny nozzles; good quality, quiet, not very fast; costs about half a laser printer. Dot matrix printer — the print head hits the paper through a ribbon and forms characters with dots; cheap and versatile but noisy, slow and lower quality; speed is measured in characters per second (CPS). Line printer — used with large computers for text reports; 100 to 3800 lines per minute."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Plotter — produces large drawings such as building plans and machine blueprints using coloured pens moved by a robotic arm; it draws curves as many short straight lines. Two designs: flat bed (small, kept on a table, limited paper size) and drum (big, uses rolls of paper of unlimited length). Speakers — output devices that let you listen to music and voice."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Software"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "A program is a set of instructions given in a particular sequence; software is a set of programs that makes the hardware perform tasks in a particular order. Software is of two main types: system software and application software."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "System software runs the computer, controls its operations and manages its resources. When the computer is switched on, the programs stored in ROM are executed and make the computer ready to work — this set of programs is system software. The operating system (OS) is system software that provides an interface between the user and the computer, manages hardware devices and disk file systems and supports application programs; examples are UNIX, Windows and Linux. Utilities are system software that bridge the gap between the OS and users' needs — compress (zip)/uncompress files, antivirus, split and join files."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Application software is a set of programs written for specific tasks, such as a library information system or a student information system. (a) Generalized packages are user-friendly software for general needs: word processing (WordPerfect, MS-Word, OpenOffice.org Writer), spreadsheets (Lotus Smart Suite, MS-Excel, OpenOffice.org Calc, Apple Numbers), presentations (MS-PowerPoint, OpenOffice.org Impress), databases (MS-Access, MS-SQL Server, ORACLE) and graphics (Paint Shop Pro, Adobe Photoshop). (b) Customized packages are developed for the specific needs of an organisation, such as payroll, inventory control or student details, using high-level languages."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Computer languages"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Every computer language has rules called its SYNTAX. Low-level languages are close to the machine: (a) machine language — 0s and 1s (binary), understood directly by the computer, machine dependent and difficult to write; (b) assembly language — uses symbolic codes called mnemonics instead of 0s and 1s; easier than machine language but still machine dependent."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "High-level languages use English-like statements, are machine independent and easy to program: BASIC (Beginners All-purpose Symbolic Instruction Code — easy, general purpose), COBOL (Common Business Oriented Language — commercial applications), FORTRAN (Formula Translation — mathematical and scientific problems), C (structured programming for all purposes) and C++ (object-oriented, general purpose)."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Compiler and assembler"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "A compiler is software that reads a program written in a high-level language and translates it into an equivalent machine-language program. The programmer's program is called the source program and the translated program produced by the compiler is the object program. An assembler translates a program written in assembly language into machine language."
+        ]
+      ]
+    }
+  ]
+}
