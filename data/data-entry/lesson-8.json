@@ -259,14 +259,14 @@
         {
           "id": "1.17",
           "type": "mcq",
-          "q": "Visual representation of information and ideas such as process, cycle or hierarchy diagrams is called —",
+          "q": "In Excel, the intersection of a row and a column is called a —",
           "options": [
-            "Clip Art",
-            "SmartArt",
-            "AutoShapes",
-            "WordArt"
+            "cell",
+            "range",
+            "sheet",
+            "workbook"
           ],
-          "answer": "B"
+          "answer": "A"
         }
       ]
     },
@@ -350,8 +350,8 @@
         {
           "id": "3.2",
           "type": "open",
-          "q": "(a) ________ shows the colour or pattern used for each data series in a chart. (b) The ________ function returns the smallest number in a set of values.",
-          "answer": "(a) Legend (b) MIN"
+          "q": "(a) ________ shows the colour or pattern used for each data series in a chart. (b) A ________ chart plots values as horizontal bars.",
+          "answer": "(a) Legend (b) bar"
         },
         {
           "id": "3.3",
@@ -453,20 +453,14 @@
         {
           "id": "5.1",
           "type": "open",
-          "q": "The function used to add values in a range of cells is ________.",
-          "answer": "SUM",
-          "years": [
-            "April 2026"
-          ]
+          "q": "A reference such as $A$1, which does not change when the formula is copied, is called an ________ reference.",
+          "answer": "absolute"
         },
         {
           "id": "5.2",
           "type": "open",
-          "q": "A function in Excel always begins with the ________ sign.",
-          "answer": "= (equal to)",
-          "years": [
-            "April 2026"
-          ]
+          "q": "In =SUM(B2:B6), B2:B6 is called a ________ of cells.",
+          "answer": "range"
         },
         {
           "id": "5.3",

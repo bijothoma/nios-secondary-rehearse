@@ -33,7 +33,7 @@
     ["What is the result of =MAX(A1:A5) if A1 to A5 contain 5, 10, 15, 20 and 25?", ["5", "15", "25", "75"], "C", ["April 2024"]],
     ["If A1 = 3, B1 = 5 and C1 = 7, what is the result of =(A1*B1)+C1?", ["15", "22", "35", "105"], "B", ["April 2017"]],
     ["Which chart shows the proportion of each part to the whole?", ["Line", "Pie", "Scatter", "Stock"], "B", ["April 2021"]],
-    ["Visual representation of information and ideas such as process, cycle or hierarchy diagrams is called —", ["Clip Art", "SmartArt", "AutoShapes", "WordArt"], "B"]
+    ["In Excel, the intersection of a row and a column is called a —", ["cell", "range", "sheet", "workbook"], "A"]
   ],
   "ar": [
     ["A formula in Excel updates its result automatically when the data changes.", "A formula uses cell references instead of fixed values.", "A"],
@@ -51,12 +51,12 @@
   ],
   "fill2": [
     ["(a) The function used to add values in a range of cells is ________. (b) A function in Excel always begins with the ________ sign.", "(a) SUM (b) = (equal to)", ["April 2026"]],
-    ["(a) ________ shows the colour or pattern used for each data series in a chart. (b) The ________ function returns the smallest number in a set of values.", "(a) Legend (b) MIN"],
+    ["(a) ________ shows the colour or pattern used for each data series in a chart. (b) A ________ chart plots values as horizontal bars.", "(a) Legend (b) bar"],
     ["(a) To copy a formula, drag the ________ down to the required cells. (b) The AVERAGE function returns the ________ value of its arguments.", "(a) fill handle (b) average (arithmetic mean)", ["October 2025"]]
   ],
   "oneword": [
-    ["The function used to add values in a range of cells is ________.", "SUM", ["April 2026"]],
-    ["A function in Excel always begins with the ________ sign.", "= (equal to)", ["April 2026"]],
+    ["A reference such as $A$1, which does not change when the formula is copied, is called an ________ reference.", "absolute"],
+    ["In =SUM(B2:B6), B2:B6 is called a ________ of cells.", "range"],
     ["Formulas are used to perform ________ on data.", "calculations", ["April 2026"]],
     ["A ________ is used to perform calculations in a spreadsheet.", "formula", ["October 2025"]],
     ["To find the highest value in a range, use the ________ function.", "MAX", ["October 2025"]],

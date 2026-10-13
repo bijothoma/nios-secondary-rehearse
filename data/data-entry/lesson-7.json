@@ -132,14 +132,14 @@
         {
           "id": "1.9",
           "type": "mcq",
-          "q": "Which option joins selected cells into one larger cell?",
+          "q": "Which group of the Home tab contains the Wrap Text and Merge & Center buttons?",
           "options": [
-            "Wrap Text",
-            "Merge & Center",
-            "AutoFit",
-            "Format Painter"
+            "Alignment",
+            "Font",
+            "Number",
+            "Cells"
           ],
-          "answer": "B"
+          "answer": "A"
         },
         {
           "id": "1.10",
@@ -228,7 +228,7 @@
         {
           "id": "4.1",
           "type": "mcq",
-          "q": "In Excel, all styles are cell styles.",
+          "q": "Wrap Text displays long text on several lines within the same cell.",
           "options": [
             "True",
             "False"

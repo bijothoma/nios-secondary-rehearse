@@ -353,12 +353,12 @@
         {
           "id": "4.7",
           "type": "mcq",
-          "q": "Using contrasting colours for text and background is not a good practice.",
+          "q": "A slide show can be ended at any time by pressing the Esc key.",
           "options": [
             "True",
             "False"
           ],
-          "answer": "B",
+          "answer": "A",
           "fixed": true
         },
         {
@@ -386,11 +386,8 @@
         {
           "id": "5.1",
           "type": "open",
-          "q": "Slides can easily be ordered and sorted using ________ view.",
-          "answer": "Slide Sorter",
-          "years": [
-            "April 2024"
-          ]
+          "q": "The keyboard shortcut to start the slide show from the current slide is ________.",
+          "answer": "Shift+F5"
         },
         {
           "id": "5.2",

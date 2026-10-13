@@ -17,36 +17,36 @@
         {
           "id": "1.1",
           "type": "mcq",
-          "q": "In mail merge, the document whose text stays the same in every copy is called the —",
+          "q": "Which button on the Mailings tab begins the mail merge process?",
           "options": [
-            "data source",
-            "main document",
-            "merge document",
-            "template"
+            "Start Mail Merge",
+            "Finish & Merge",
+            "Preview Results",
+            "Insert Merge Field"
           ],
-          "answer": "B"
+          "answer": "A"
         },
         {
           "id": "1.2",
           "type": "mcq",
-          "q": "The file that contains the names and addresses that change in each copy is the —",
+          "q": "Which button inserts a single field such as «City» into the main document?",
           "options": [
-            "main document",
-            "data source",
-            "merge document",
-            "envelope"
+            "Insert Merge Field",
+            "Address Block",
+            "Select Recipients",
+            "Match Fields"
           ],
-          "answer": "B"
+          "answer": "A"
         },
         {
           "id": "1.3",
           "type": "mcq",
-          "q": "The document produced after merging the main document with the data source is the —",
+          "q": "Which button lets you choose the recipient list (data source) for a mail merge?",
           "options": [
-            "merge document",
-            "main document",
-            "data source",
-            "address list"
+            "Select Recipients",
+            "Start Mail Merge",
+            "Greeting Line",
+            "Preview Results"
           ],
           "answer": "A"
         },
@@ -264,8 +264,8 @@
         {
           "id": "5.1",
           "type": "open",
-          "q": "The ________ tab in Word 2007 contains the mail merge tools.",
-          "answer": "Mailings"
+          "q": "The ________ Line field inserts a salutation such as 'Dear Mr Sharma' in a merged letter.",
+          "answer": "Greeting"
         },
         {
           "id": "5.2",

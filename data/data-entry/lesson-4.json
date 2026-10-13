@@ -812,8 +812,8 @@
         {
           "id": "6.8",
           "type": "open",
-          "q": "Write the steps to apply borders and shading to a paragraph.",
-          "answer": "(1) Select the paragraph. (2) Home → Paragraph → Borders and Shading. (3) On the Borders tab choose a border setting, style and colour; on the Shading tab choose a fill colour. (4) Select 'Paragraph' in Apply to and click OK."
+          "q": "Differentiate between portrait and landscape orientation of a page.",
+          "answer": "In portrait orientation (the default) the page is taller than it is wide; it is used for letters and most documents. In landscape orientation the page is wider than it is tall; it is used for wide tables, charts and certificates. Orientation is changed from Page Layout → Orientation."
         }
       ]
     },
@@ -864,8 +864,8 @@
         {
           "id": "7.5",
           "type": "open",
-          "q": "What is the Format Painter? How is it used?",
-          "answer": "Format Painter copies formatting (font, size, style, colour) from one piece of text to another. (1) Place the cursor in the text whose format you want. (2) Click Format Painter in Home → Clipboard; the pointer shows a paintbrush. (3) Drag over the text to format. Double-click the button to format many places and press Esc to turn it off."
+          "q": "Write the steps to create a bulleted list and change its bullet symbol.",
+          "answer": "(1) Select the paragraphs, or place the cursor where the list should begin. (2) Home tab → Paragraph group → click the Bullets button. (3) To change the symbol, click the arrow next to Bullets and choose a bullet from the Bullet Library, or choose Define New Bullet → Symbol (or Picture), select one and click OK. (4) Press Enter after each item; press Enter twice to end the list."
         }
       ]
     },

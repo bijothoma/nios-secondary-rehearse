@@ -51,14 +51,14 @@
         {
           "id": "1.3",
           "type": "mcq",
-          "q": "The file that contains the names and addresses that change in each copy is the —",
+          "q": "Which button inserts a single field such as «City» into the main document?",
           "options": [
-            "main document",
-            "data source",
-            "merge document",
-            "envelope"
+            "Insert Merge Field",
+            "Address Block",
+            "Select Recipients",
+            "Match Fields"
           ],
-          "answer": "B",
+          "answer": "A",
           "note": "Lesson 5."
         },
         {
@@ -215,12 +215,12 @@
         {
           "id": "4.2",
           "type": "mcq",
-          "q": "Using contrasting colours for text and background is not a good practice.",
+          "q": "A slide show can be ended at any time by pressing the Esc key.",
           "options": [
             "True",
             "False"
           ],
-          "answer": "B",
+          "answer": "A",
           "fixed": true,
           "note": "Lesson 9."
         }

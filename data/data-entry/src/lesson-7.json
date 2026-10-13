@@ -29,7 +29,7 @@
     ["Which tab (category) of the Format Cells dialog box is used to enter a date in a desired format?", ["Home", "Insert", "Data", "Number"], "D", ["April 2025"]],
     ["The shortcut key to open the Format Cells dialog box is —", ["Ctrl+1", "Ctrl+F", "Ctrl+P", "Ctrl+9"], "A"],
     ["Hiding columns or rows helps to —", ["delete data", "prevent unwanted changes", "add formulas", "print faster"], "B"],
-    ["Which option joins selected cells into one larger cell?", ["Wrap Text", "Merge & Center", "AutoFit", "Format Painter"], "B"],
+    ["Which group of the Home tab contains the Wrap Text and Merge & Center buttons?", ["Alignment", "Font", "Number", "Cells"], "A"],
     ["Which cell style changes a number to a percentage and adds a % sign?", ["Comma", "Currency", "Percent", "Normal"], "C"]
   ],
   "ar": [
@@ -38,7 +38,7 @@
     ["A protected worksheet cannot be edited until it is unprotected.", "Unprotecting needs the same password that was used to protect the sheet.", "B"]
   ],
   "tf": [
-    ["In Excel, all styles are cell styles.", true],
+    ["Wrap Text displays long text on several lines within the same cell.", true],
     ["To unhide a column, select the columns on both sides of it, right-click and choose Unhide.", true],
     ["In an Excel worksheet, columns are designated by numbers.", false, ["October 2022"], {"note": "Columns are lettered (A, B, C…); rows are numbered."}],
     ["Double-clicking Format Painter keeps it active until Esc is pressed.", true],

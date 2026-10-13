@@ -21,9 +21,9 @@
     "Envelopes: printing addresses directly on envelopes instead of sticking printed labels. Mailings → Start Mail Merge → Envelopes → Envelope Options (choose envelope size or Custom size, address font and position; Printing Options for the feed) → select recipients → insert merge fields → Preview Results → Finish & Merge → Print Documents."
   ],
   "mcq": [
-    ["In mail merge, the document whose text stays the same in every copy is called the —", ["data source", "main document", "merge document", "template"], "B"],
-    ["The file that contains the names and addresses that change in each copy is the —", ["main document", "data source", "merge document", "envelope"], "B"],
-    ["The document produced after merging the main document with the data source is the —", ["merge document", "main document", "data source", "address list"], "A"],
+    ["Which button on the Mailings tab begins the mail merge process?", ["Start Mail Merge", "Finish & Merge", "Preview Results", "Insert Merge Field"], "A"],
+    ["Which button inserts a single field such as «City» into the main document?", ["Insert Merge Field", "Address Block", "Select Recipients", "Match Fields"], "A"],
+    ["Which button lets you choose the recipient list (data source) for a mail merge?", ["Select Recipients", "Start Mail Merge", "Greeting Line", "Preview Results"], "A"],
     ["Mail merge features are found on which tab of Word 2007?", ["Home", "Insert", "Mailings", "Review"], "C"],
     ["How many steps does the Mail Merge Wizard have?", ["4", "5", "6", "8"], "C"],
     ["The most commonly used document type in mail merge is —", ["Letters", "Labels", "Directory", "Envelopes"], "A"],
@@ -48,7 +48,7 @@
     ["(a) The three documents of mail merge are the main document, the data source and the ________ document. (b) A merge field such as «City» is replaced by data from the ________.", "(a) merge (b) data source"]
   ],
   "oneword": [
-    ["The ________ tab in Word 2007 contains the mail merge tools.", "Mailings"],
+    ["The ________ Line field inserts a salutation such as 'Dear Mr Sharma' in a merged letter.", "Greeting"],
     ["In step 3 of the Mail Merge Wizard, choose '________ a new list' to create a new data source.", "Type"],
     ["The ________ button in Preview Results shows each merged copy in turn.", "<< / >> (next and previous record)"],
     ["To print merged labels, click Finish & Merge and then ________.", "Print Documents"],
