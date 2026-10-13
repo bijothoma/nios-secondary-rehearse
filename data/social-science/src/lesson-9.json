@@ -45,9 +45,9 @@
     ["Which two rivers flow eastwards through the Eastern Ghats?", ["Mahanadi and Krishna", "Brahmaputra and Hugli", "Son and Kosi", "Narmada and Tapti"], "A", ["April 2024"]],
     ["Which plateau is a part of the Central Highlands?", ["Tibet Plateau", "Deccan Plateau", "Malwa Plateau", "Meghalaya Plateau"], "C", ["April 2024"]],
     ["The southernmost point of the Indian mainland is —", ["Thiruvananthapuram", "Indira Point", "Kanyakumari", "Tuticorin"], "C", ["April 2021"]],
-    ["Identify the peak marked A on the map.", ["Nanga Parbat", "K2", "Nanda Devi", "Kanchenjunga"], "B", null, {"image": "data/social-science/maps/ch9-peaks.png"}],
-    ["Identify the peak marked C on the map.", ["Anaimudi", "Mahendragiri", "Doda Betta", "Gurushikhar"], "A", null, {"image": "data/social-science/maps/ch9-peaks.png"}],
-    ["Identify the mountain range shown by the line marked C on the map.", ["Eastern Ghats", "Western Ghats", "Satpura", "Aravalli"], "B", null, {"image": "data/social-science/maps/ch9-ranges.png"}],
+    ["The new alluvium of the Northern Plains that is flooded every year is called —", ["Khadar", "Bhangar", "Doab", "Bhabar"], "A"],
+    ["Jog Falls in the Western Ghats lies on which river?", ["Sharavati", "Kaveri", "Krishna", "Narmada"], "A"],
+    ["What is the capital of Lakshadweep?", ["Kavaratti", "Port Blair", "Minicoy", "Agatti"], "A"],
     ["Identify the water body marked A on the map — the largest salt-water lake in India.", ["Vembanad", "Chilka", "Pulicat", "Sambhar"], "B", null, {"image": "data/social-science/maps/ch9-water.png"}],
     ["Identify the island marked D on the map, which has an active volcano.", ["Kavaratti", "Barren Island", "Minicoy", "Car Nicobar"], "B", null, {"image": "data/social-science/maps/ch9-water.png"}]
   ],

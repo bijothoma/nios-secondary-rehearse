@@ -25,13 +25,13 @@
     ["The Golden Quadrilateral connects —", ["Delhi, Mumbai, Chennai and Kolkata", "Srinagar and Kanyakumari", "Silchar and Porbandar", "Delhi, Agra, Jaipur and Lucknow"], "A"],
     ["The East–West Corridor connects Silchar in the east with —", ["Kandla", "Porbandar", "Mumbai", "Jaisalmer"], "B"],
     ["National Waterway 1 runs on the river —", ["Brahmaputra", "Ganga", "Godavari", "Krishna"], "B"],
-    ["Paradip port is located in —", ["West Bengal", "Odisha", "Andhra Pradesh", "Tamil Nadu"], "B"],
+    ["Who built the Grand Trunk Road, the oldest and longest road of India?", ["Sher Shah Suri", "Akbar", "Ashoka", "Lord Dalhousie"], "A"],
     ["Which organisation builds roads along the borders of India?", ["NHAI", "Border Roads Organisation", "State PWD", "Zila Parishad"], "B"],
     ["Which is the fastest means of communication and almost free?", ["Telegram", "E-mail", "Postal service", "Fax"], "B"],
-    ["Which is the main drawback of air transport?", ["It is slow", "It cannot cross mountains", "It is costly", "It cannot carry perishable goods"], "C"],
-    ["Identify the port marked B on the map.", ["Haldia", "Paradip", "Visakhapatnam", "Chennai"], "B", null, {"image": "data/social-science/maps/ch13-ports.png"}],
-    ["Identify the international airport marked B on the map (in Karnataka).", ["Rajiv Gandhi International Airport", "Kempe Gowda International Airport", "Chennai International Airport", "Cochin International Airport"], "B", null, {"image": "data/social-science/maps/ch13-airports.png"}],
-    ["Identify the city marked D on the map, where the North–South and East–West corridors intersect.", ["Nagpur", "Jhansi", "Bhopal", "Agra"], "B", null, {"image": "data/social-science/maps/ch13-corridors.png"}]
+    ["National Highways form only about 2% of the road length of India but carry about — of road traffic.", ["40%", "10%", "80%", "2%"], "A"],
+    ["Which body manages the National Waterways of India?", ["Inland Waterways Authority of India", "National Highways Authority of India", "Border Roads Organisation", "Pawan Hans Helicopters Ltd."], "A"],
+    ["In which year did air transport begin in India?", ["1911", "1853", "1927", "1959"], "A"],
+    ["Village roads are built mainly under which scheme?", ["Pradhan Mantri Gram Sadak Yojana", "Golden Quadrilateral", "East–West Corridor", "National River Conservation Plan"], "A"]
   ],
   "objective": [
     ["Fill in the blanks: Today computer (Information Technology) has become the basis of ____ and ____ as it is used everywhere in homes, offices, airports and banks.", "communication; economic development", ["April 2026"]],

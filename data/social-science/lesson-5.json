@@ -63,17 +63,14 @@
         {
           "id": "1.4",
           "type": "mcq",
-          "q": "Where was the Permanent Settlement started by Lord Cornwallis in 1793?",
+          "q": "Where was the first factory of the East India Company set up in 1613?",
           "options": [
-            "Bengal and Bihar",
-            "Haryana and Punjab",
-            "Rajasthan and Madhya Pradesh",
-            "Karnataka and Andhra Pradesh"
+            "Surat",
+            "Madras",
+            "Calcutta",
+            "Bombay"
           ],
-          "answer": "A",
-          "years": [
-            "October 2025"
-          ]
+          "answer": "A"
         },
         {
           "id": "1.5",
@@ -117,9 +114,11 @@
           ],
           "answer": "C",
           "years": [
+            "October 2025",
             "April 2025",
             "April 2024"
-          ]
+          ],
+          "note": "October 2025 asked the same fact the other way round: where did Lord Cornwallis start the Permanent Settlement in 1793? — Bengal and Bihar."
         },
         {
           "id": "1.8",

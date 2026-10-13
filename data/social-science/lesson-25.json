@@ -18,17 +18,14 @@
         {
           "id": "1.1",
           "type": "mcq",
-          "q": "Which one of the following is NOT an indicator of the Human Development Index?",
+          "q": "In which year was the Human Development Index developed?",
           "options": [
-            "Life expectancy",
-            "Adult literacy",
-            "Topography",
-            "Per capita income (PPP)"
+            "1990",
+            "1978",
+            "2001",
+            "1986"
           ],
-          "answer": "C",
-          "years": [
-            "October 2016"
-          ]
+          "answer": "A"
         },
         {
           "id": "1.2",
@@ -57,8 +54,10 @@
           ],
           "answer": "D",
           "years": [
-            "April 2024"
-          ]
+            "April 2024",
+            "October 2016"
+          ],
+          "note": "October 2016 asked the same idea: which is NOT an indicator of HDI? — Topography."
         },
         {
           "id": "1.4",
@@ -233,8 +232,8 @@
         {
           "id": "2.6",
           "type": "open",
-          "q": "Fill in the blanks: The 73rd and 74th Amendments reserved ____ of seats for women in ____ and urban local bodies.",
-          "answer": "one-third (33.3%); rural (panchayats)"
+          "q": "Fill in the blanks: India launched the world's first ____ Programme in 1951, and 'Health for All by 2000' was declared at ____ in 1978.",
+          "answer": "Family Planning; Alma Ata"
         }
       ]
     },

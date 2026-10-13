@@ -401,41 +401,38 @@
         {
           "id": "1.26",
           "type": "mcq",
-          "q": "Identify the peak marked A on the map.",
+          "q": "The new alluvium of the Northern Plains that is flooded every year is called —",
           "options": [
-            "Nanga Parbat",
-            "K2",
-            "Nanda Devi",
-            "Kanchenjunga"
+            "Khadar",
+            "Bhangar",
+            "Doab",
+            "Bhabar"
           ],
-          "answer": "B",
-          "image": "data/social-science/maps/ch9-peaks.png"
+          "answer": "A"
         },
         {
           "id": "1.27",
           "type": "mcq",
-          "q": "Identify the peak marked C on the map.",
+          "q": "Jog Falls in the Western Ghats lies on which river?",
           "options": [
-            "Anaimudi",
-            "Mahendragiri",
-            "Doda Betta",
-            "Gurushikhar"
+            "Sharavati",
+            "Kaveri",
+            "Krishna",
+            "Narmada"
           ],
-          "answer": "A",
-          "image": "data/social-science/maps/ch9-peaks.png"
+          "answer": "A"
         },
         {
           "id": "1.28",
           "type": "mcq",
-          "q": "Identify the mountain range shown by the line marked C on the map.",
+          "q": "What is the capital of Lakshadweep?",
           "options": [
-            "Eastern Ghats",
-            "Western Ghats",
-            "Satpura",
-            "Aravalli"
+            "Kavaratti",
+            "Port Blair",
+            "Minicoy",
+            "Agatti"
           ],
-          "answer": "B",
-          "image": "data/social-science/maps/ch9-ranges.png"
+          "answer": "A"
         },
         {
           "id": "1.29",

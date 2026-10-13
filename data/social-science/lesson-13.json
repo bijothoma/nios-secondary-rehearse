@@ -96,14 +96,14 @@
         {
           "id": "1.7",
           "type": "mcq",
-          "q": "Paradip port is located in —",
+          "q": "Who built the Grand Trunk Road, the oldest and longest road of India?",
           "options": [
-            "West Bengal",
-            "Odisha",
-            "Andhra Pradesh",
-            "Tamil Nadu"
+            "Sher Shah Suri",
+            "Akbar",
+            "Ashoka",
+            "Lord Dalhousie"
           ],
-          "answer": "B"
+          "answer": "A"
         },
         {
           "id": "1.8",
@@ -132,53 +132,50 @@
         {
           "id": "1.10",
           "type": "mcq",
-          "q": "Which is the main drawback of air transport?",
+          "q": "National Highways form only about 2% of the road length of India but carry about — of road traffic.",
           "options": [
-            "It is slow",
-            "It cannot cross mountains",
-            "It is costly",
-            "It cannot carry perishable goods"
+            "40%",
+            "10%",
+            "80%",
+            "2%"
           ],
-          "answer": "C"
+          "answer": "A"
         },
         {
           "id": "1.11",
           "type": "mcq",
-          "q": "Identify the port marked B on the map.",
+          "q": "Which body manages the National Waterways of India?",
           "options": [
-            "Haldia",
-            "Paradip",
-            "Visakhapatnam",
-            "Chennai"
+            "Inland Waterways Authority of India",
+            "National Highways Authority of India",
+            "Border Roads Organisation",
+            "Pawan Hans Helicopters Ltd."
           ],
-          "answer": "B",
-          "image": "data/social-science/maps/ch13-ports.png"
+          "answer": "A"
         },
         {
           "id": "1.12",
           "type": "mcq",
-          "q": "Identify the international airport marked B on the map (in Karnataka).",
+          "q": "In which year did air transport begin in India?",
           "options": [
-            "Rajiv Gandhi International Airport",
-            "Kempe Gowda International Airport",
-            "Chennai International Airport",
-            "Cochin International Airport"
+            "1911",
+            "1853",
+            "1927",
+            "1959"
           ],
-          "answer": "B",
-          "image": "data/social-science/maps/ch13-airports.png"
+          "answer": "A"
         },
         {
           "id": "1.13",
           "type": "mcq",
-          "q": "Identify the city marked D on the map, where the North–South and East–West corridors intersect.",
+          "q": "Village roads are built mainly under which scheme?",
           "options": [
-            "Nagpur",
-            "Jhansi",
-            "Bhopal",
-            "Agra"
+            "Pradhan Mantri Gram Sadak Yojana",
+            "Golden Quadrilateral",
+            "East–West Corridor",
+            "National River Conservation Plan"
           ],
-          "answer": "B",
-          "image": "data/social-science/maps/ch13-corridors.png"
+          "answer": "A"
         }
       ]
     },

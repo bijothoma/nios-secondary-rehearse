@@ -51,30 +51,27 @@
         {
           "id": "1.3",
           "type": "mcq",
-          "q": "Where was the Permanent Settlement started by Lord Cornwallis in 1793?",
+          "q": "Where was the first factory of the East India Company set up in 1613?",
           "options": [
-            "Bengal and Bihar",
-            "Haryana and Punjab",
-            "Rajasthan and Madhya Pradesh",
-            "Karnataka and Andhra Pradesh"
+            "Surat",
+            "Madras",
+            "Calcutta",
+            "Bombay"
           ],
           "answer": "A",
-          "years": [
-            "October 2025"
-          ],
           "note": "Chapter 5."
         },
         {
           "id": "1.4",
           "type": "mcq",
-          "q": "The Mohammadan Anglo-Oriental College at Aligarh (1875) was founded by —",
+          "q": "Who wrote the song 'Saare jahan se achcha'?",
           "options": [
-            "Abdul Latif",
-            "Sir Syed Ahmed Khan",
-            "Mirza Ghulam Ahmed",
-            "Muhammad Iqbal"
+            "Rabindranath Tagore",
+            "Bankim Chandra Chatterji",
+            "Muhammad Iqbal",
+            "Sarojini Naidu"
           ],
-          "answer": "B",
+          "answer": "C",
           "note": "Chapter 6."
         },
         {
@@ -305,9 +302,10 @@
           ],
           "answer": "D",
           "years": [
-            "April 2024"
+            "April 2024",
+            "October 2016"
           ],
-          "note": "Chapter 25."
+          "note": "October 2016 asked the same idea: which is NOT an indicator of HDI? — Topography. Chapter 25."
         },
         {
           "id": "1.20",

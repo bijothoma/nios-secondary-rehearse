@@ -117,26 +117,26 @@
         {
           "id": "1.8",
           "type": "mcq",
-          "q": "The pre-monsoon showers in Kerala and Karnataka that help mangoes ripen are called —",
+          "q": "The sudden onset of heavy monsoon rain, mainly on the Kerala coast, is called —",
           "options": [
-            "Kaal Baisakhi",
-            "Mango showers",
-            "Western disturbances",
-            "Loo"
+            "the burst of the monsoon",
+            "the break of the monsoon",
+            "mango showers",
+            "Kaal Baisakhi"
           ],
-          "answer": "B"
+          "answer": "A"
         },
         {
           "id": "1.9",
           "type": "mcq",
-          "q": "Which part of India receives rainfall in winter from the north-east trade winds?",
+          "q": "Which winds bring light winter rain to north-west India that helps the rabi crops?",
           "options": [
-            "Punjab",
-            "Rajasthan",
-            "Tamil Nadu coast",
-            "Gujarat"
+            "Western disturbances",
+            "Loo",
+            "South-west monsoon winds",
+            "Kaal Baisakhi"
           ],
-          "answer": "C"
+          "answer": "A"
         },
         {
           "id": "1.10",
@@ -153,28 +153,26 @@
         {
           "id": "1.11",
           "type": "mcq",
-          "q": "Identify the place marked A, in the Meghalaya hills, which receives very heavy rainfall (over 200 cm).",
+          "q": "In the northern plains, rainfall decreases from —",
           "options": [
-            "Jaisalmer",
-            "Mawsynram",
-            "Chennai",
-            "Delhi"
+            "east to west",
+            "west to east",
+            "north to south",
+            "south to north"
           ],
-          "answer": "B",
-          "image": "data/social-science/maps/ch10-rainfall.png"
+          "answer": "A"
         },
         {
           "id": "1.12",
           "type": "mcq",
-          "q": "Identify the place marked D on the map, which receives rain in winter (October–December) from the north-east monsoon.",
+          "q": "Which gases trapping heat in the atmosphere are named as causes of global warming?",
           "options": [
-            "Thiruvananthapuram",
-            "Mumbai",
-            "Chennai",
-            "Kolkata"
+            "Carbon dioxide and CFCs",
+            "Oxygen and nitrogen",
+            "Hydrogen and helium",
+            "Argon and neon"
           ],
-          "answer": "C",
-          "image": "data/social-science/maps/ch10-rainfall.png"
+          "answer": "A"
         }
       ]
     },

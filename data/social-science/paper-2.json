@@ -123,15 +123,14 @@
         {
           "id": "1.8",
           "type": "mcq",
-          "q": "Identify the place marked A, in the Meghalaya hills, which receives very heavy rainfall (over 200 cm).",
+          "q": "In the northern plains, rainfall decreases from —",
           "options": [
-            "Jaisalmer",
-            "Mawsynram",
-            "Chennai",
-            "Delhi"
+            "east to west",
+            "west to east",
+            "north to south",
+            "south to north"
           ],
-          "answer": "B",
-          "image": "data/social-science/maps/ch10-rainfall.png",
+          "answer": "A",
           "note": "Chapter 10."
         },
         {
@@ -153,15 +152,14 @@
         {
           "id": "1.10",
           "type": "mcq",
-          "q": "Identify the port marked B on the map.",
+          "q": "Which body manages the National Waterways of India?",
           "options": [
-            "Haldia",
-            "Paradip",
-            "Visakhapatnam",
-            "Chennai"
+            "Inland Waterways Authority of India",
+            "National Highways Authority of India",
+            "Border Roads Organisation",
+            "Pawan Hans Helicopters Ltd."
           ],
-          "answer": "B",
-          "image": "data/social-science/maps/ch13-ports.png",
+          "answer": "A",
           "note": "Chapter 13."
         },
         {
@@ -228,14 +226,14 @@
         {
           "id": "1.15",
           "type": "mcq",
-          "q": "Who was the first woman President of India?",
+          "q": "What is the minimum age to become a member of the Rajya Sabha?",
           "options": [
-            "Indira Gandhi",
-            "Pratibha Patil",
-            "Sarojini Naidu",
-            "Sucheta Kripalani"
+            "30 years",
+            "25 years",
+            "35 years",
+            "18 years"
           ],
-          "answer": "B",
+          "answer": "A",
           "note": "Chapter 20."
         },
         {

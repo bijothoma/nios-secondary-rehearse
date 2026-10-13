@@ -28,9 +28,9 @@
     "India launched the world's first Family Planning Programme (1951). 'Health for All by 2000' was declared at Alma Ata (1978). Since health facilities are concentrated in cities, the National Rural Health Mission (NRHM) was started to provide health care in rural areas, along with Janani Suraksha Yojana, Balika Samridhi Yojana and Kishori Shakti Yojana; the National Urban Health Mission followed. Achievements: death rate 27.4 → 8.5 per thousand, infant mortality 134 → 71, life expectancy 32 → 65 years (1947–2001)."
   ],
   "mcq": [
-    ["Which one of the following is NOT an indicator of the Human Development Index?", ["Life expectancy", "Adult literacy", "Topography", "Per capita income (PPP)"], "C", ["October 2016"]],
+    ["In which year was the Human Development Index developed?", ["1990", "1978", "2001", "1986"], "A"],
     ["The Human Development Report is published every year by —", ["UNDP", "UNESCO", "WHO", "World Bank"], "A", ["April 2025"]],
-    ["Which one of the following is NOT a dimension of the Human Development Index?", ["A long and healthy life", "Knowledge", "A decent standard of living", "Military strength"], "D", ["April 2024"]],
+    ["Which one of the following is NOT a dimension of the Human Development Index?", ["A long and healthy life", "Knowledge", "A decent standard of living", "Military strength"], "D", ["April 2024", "October 2016"], {"note": "October 2016 asked the same idea: which is NOT an indicator of HDI? — Topography."}],
     ["Which State had the lowest per capita income among the following?", ["Punjab", "Haryana", "Bihar", "Maharashtra"], "C", ["April 2023"]],
     ["The concept of human development was introduced by —", ["Amartya Sen", "Mahbub ul Haq", "Jawaharlal Nehru", "Gro Harlem Brundtland"], "B"],
     ["Which one of the following States can be grouped under economically developed States?", ["Bihar", "Orissa", "Arunachal Pradesh", "Haryana"], "D"],
@@ -48,7 +48,7 @@
     ["True or False: (a) Per capita income shows how equally income is distributed among people. (b) Sustainable development takes care of the needs of future generations.", "(a) False (b) True"],
     ["Fill in the blanks: According to the 2001 Census, literacy was highest in ____ and lowest in ____.", "Kerala; Bihar"],
     ["Answer in one word each: (a) Which Constitutional Amendment of 2002 made elementary education a Fundamental Right? (b) Where was the 1990 'Education for All' conference held?", "(a) The 86th Amendment (b) Jomtien, Thailand"],
-    ["Fill in the blanks: The 73rd and 74th Amendments reserved ____ of seats for women in ____ and urban local bodies.", "one-third (33.3%); rural (panchayats)"]
+    ["Fill in the blanks: India launched the world's first ____ Programme in 1951, and 'Health for All by 2000' was declared at ____ in 1978.", "Family Planning; Alma Ata"]
   ],
   "vsa": [
     ["Why do GDP and per capita income not effectively measure the quality of people's life?", "GDP ignores leisure, environmental quality, freedom, social justice and gender equality. Per capita income is only an average and does not show inequality of income, so it cannot tell whether the benefits of development reach the poor and disadvantaged."],

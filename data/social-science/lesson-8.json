@@ -72,8 +72,10 @@
           ],
           "answer": "B",
           "years": [
-            "October 2025"
-          ]
+            "October 2025",
+            "October 2016"
+          ],
+          "note": "October 2016 asked why Gandhi suspended the movement — because of the violence at Chauri Chaura (5 February 1922)."
         },
         {
           "id": "1.5",
@@ -168,27 +170,24 @@
         {
           "id": "1.11",
           "type": "mcq",
-          "q": "Why did Gandhi suspend his Non-Cooperation Movement?",
+          "q": "Where did Gandhiji lead a satyagraha of peasants hit by crop failure in 1918?",
           "options": [
-            "The British accepted all his demands",
-            "Differences among Congress leaders",
-            "Gandhiji was arrested during the movement",
-            "Violence that erupted at Chauri Chaura"
+            "Kheda",
+            "Champaran",
+            "Bardoli",
+            "Ahmedabad"
           ],
-          "answer": "D",
-          "years": [
-            "October 2016"
-          ]
+          "answer": "A"
         },
         {
           "id": "1.12",
           "type": "mcq",
-          "q": "Who announced the Partition of Bengal in 1905?",
+          "q": "Who was chosen as the first individual satyagrahi in 1940?",
           "options": [
-            "Lord Curzon",
-            "Lord Minto",
-            "Lord Dufferin",
-            "Lord Irwin"
+            "Vinoba Bhave",
+            "Jawaharlal Nehru",
+            "Sardar Patel",
+            "Rajendra Prasad"
           ],
           "answer": "A"
         },
