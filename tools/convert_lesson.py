@@ -308,6 +308,18 @@ def merge_past(paper, past):
     """
     problems = []
     by_id = {q['id']: q for s in paper['sections'] for q in s['questions']}
+    # "fix": {"<id>": {"answer": ..., "options": [...], "note": null}} corrects the Word answer key;
+    # a null value removes the field.
+    for qid, fields in past.get('fix', {}).items():
+        q = by_id.get(qid)
+        if not q:
+            problems.append(f'past fix: no question {qid}')
+            continue
+        for k, v in fields.items():
+            if v is None:
+                q.pop(k, None)
+            else:
+                q[k] = v
     for qid, years in past.get('refs', {}).items():
         q = by_id.get(qid)
         if not q:
