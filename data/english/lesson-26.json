@@ -106,22 +106,22 @@
           "id": "2.1",
           "type": "match",
           "left": "Ali Baksh",
-          "right": "Bismillah Khan's maternal uncle and teacher",
-          "answer": "Ali Baksh — Bismillah Khan's maternal uncle and teacher"
+          "right": "the official shehnai player at the Vishwanath Temple",
+          "answer": "Ali Baksh — the official shehnai player at the Vishwanath Temple"
         },
         {
           "id": "2.2",
           "type": "match",
-          "left": "Rasool Baksh Khan",
-          "right": "the grandfather who uttered 'Bismillah'",
-          "answer": "Rasool Baksh Khan — the grandfather who uttered 'Bismillah'"
+          "left": "Shamsuddin",
+          "right": "Bismillah Khan's elder brother",
+          "answer": "Shamsuddin — Bismillah Khan's elder brother"
         },
         {
           "id": "2.3",
           "type": "match",
           "left": "Bismillah Khan",
-          "right": "the shehnai maestro who received the Bharat Ratna",
-          "answer": "Bismillah Khan — the shehnai maestro who received the Bharat Ratna"
+          "right": "declined an offer of permanent citizenship of the USA",
+          "answer": "Bismillah Khan — declined an offer of permanent citizenship of the USA"
         }
       ]
     },
@@ -152,8 +152,8 @@
         {
           "id": "3.3",
           "type": "open",
-          "q": "His favourite mode of transport was the ________.",
-          "answer": "cycle rickshaw",
+          "q": "He never accumulated ________ and other material possessions.",
+          "answer": "wealth",
           "years": [
             "April 2016"
           ]
@@ -227,8 +227,10 @@
           "q": "His favourite mode of transport was the ________.",
           "answer": "cycle rickshaw",
           "years": [
-            "April 2026"
-          ]
+            "April 2026",
+            "April 2016"
+          ],
+          "note": "April 2016 asked this as a passage fill-in."
         },
         {
           "id": "5.4",

@@ -25,13 +25,13 @@
     ["He called his shehnai 'begum' after his wife died.", true]
   ],
   "characters": [
-    ["Ali Baksh", "Bismillah Khan's maternal uncle and teacher"],
-    ["Rasool Baksh Khan", "the grandfather who uttered 'Bismillah'"],
-    ["Bismillah Khan", "the shehnai maestro who received the Bharat Ratna"]
+    ["Ali Baksh", "the official shehnai player at the Vishwanath Temple"],
+    ["Shamsuddin", "Bismillah Khan's elder brother"],
+    ["Bismillah Khan", "declined an offer of permanent citizenship of the USA"]
   ],
   "extracts": [
     {"passage": "Despite the fame that he got, Bismillah Khan always remained simple. He never accumulated wealth and other material possessions. He lived in humble surroundings in the holy city of Varanasi. His favourite mode of transport was the cycle rickshaw.",
-     "items": [["Despite his fame Bismillah Khan always remained ________.", "simple"], ["He lived in humble surroundings in the holy city of ________.", "Varanasi"], ["His favourite mode of transport was the ________.", "cycle rickshaw"]],
+     "items": [["Despite his fame Bismillah Khan always remained ________.", "simple"], ["He lived in humble surroundings in the holy city of ________.", "Varanasi"], ["He never accumulated ________ and other material possessions.", "wealth"]],
      "years": ["April 2016"]},
     {"passage": "Bismillah Khan religiously practised the shehnai and attained perfection in a very short time. The flowing waters of the River Ganga inspired him to improvise and invent 'ragas' that were earlier considered to be beyond the range of shehnai. He often played the shehnai at the Vishwanath Temple on the banks of River Ganga.",
      "items": [["Bismillah Khan attained perfection in a very ________ time.", "short"], ["The flowing waters of the River ________ inspired him.", "Ganga"], ["He often played at the ________ Temple.", "Vishwanath"]],
@@ -40,7 +40,7 @@
   "complete": [
     ["Khan received India's highest civilian award, the ________, in 2001.", "Bharat Ratna", ["April 2026"]],
     ["Khan started learning to play the shehnai from his ________.", "maternal uncle, Ali Baksh", ["April 2026"]],
-    ["His favourite mode of transport was the ________.", "cycle rickshaw", ["April 2026"]],
+    ["His favourite mode of transport was the ________.", "cycle rickshaw", ["April 2026", "April 2016"], {"note": "April 2016 asked this as a passage fill-in."}],
     ["Bismillah Khan was earlier named ________.", "Qamaruddin", ["October 2024"]],
     ["When his ________ saw him as a baby, he uttered the word 'Bismillah'.", "grandfather (Rasool Baksh Khan)", ["October 2024"]],
     ["His father was a musician in the court of ________ of Dumraon.", "Maharaja Keshav Prasad Singh", ["October 2024"]]

@@ -111,8 +111,8 @@
           "id": "2.3",
           "type": "match",
           "left": "The old stone mason",
-          "right": "carved temple statues as a service to God",
-          "answer": "The old stone mason — carved temple statues as a service to God"
+          "right": "worked for days to finish the marble statue of Radha and Krishna",
+          "answer": "The old stone mason — worked for days to finish the marble statue of Radha and Krishna"
         }
       ]
     },
@@ -188,8 +188,8 @@
         {
           "id": "5.1",
           "type": "open",
-          "q": "Gopal wanted to go to ________ to mass produce items for tourists.",
-          "answer": "Agra"
+          "q": "Gopal wanted to mass produce candle stands, paper-weights, ashtrays and ________ for tourists.",
+          "answer": "plates"
         },
         {
           "id": "5.2",
