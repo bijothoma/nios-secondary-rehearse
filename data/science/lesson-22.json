@@ -1,0 +1,545 @@
+{
+  "subject": "science",
+  "lesson": 22,
+  "title": "Life Processes – I: Nutrition, Transportation, Respiration and Excretion",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "17 × 1 = 17",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "Which gas is essential for photosynthesis?",
+          "options": [
+            "Nitrogen",
+            "Oxygen",
+            "Argon",
+            "Carbon dioxide"
+          ],
+          "answer": "D",
+          "years": [
+            "April 2016"
+          ]
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "Which equation correctly represents photosynthesis?",
+          "options": [
+            "6CO2 + 12H2O → C6H12O6 + 6O2 + 6H2O",
+            "C6H12O6 + 6O2 → 6CO2 + 6H2O",
+            "6O2 + 6H2O → 6CO2 + C6H12O6",
+            "3CO2 + 12H2O → C6H12O6 + 6O2 + 3H2O"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "Which of the following is NOT a heterotroph?",
+          "options": [
+            "Bed bug",
+            "Frog",
+            "Bread mould",
+            "Algae"
+          ],
+          "answer": "D",
+          "years": [
+            "October 2017"
+          ]
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "The pancreatic juice does NOT contain the enzyme —",
+          "options": [
+            "trypsin",
+            "amylase",
+            "lipase",
+            "pepsin"
+          ],
+          "answer": "D",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "Which of the following is NOT a digestive gland?",
+          "options": [
+            "Liver",
+            "Gastric gland",
+            "Pancreatic islets",
+            "Wall of intestine"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "Which blood group is the universal donor?",
+          "options": [
+            "A",
+            "B",
+            "AB",
+            "O"
+          ],
+          "answer": "D",
+          "years": [
+            "April 2024",
+            "October 2016"
+          ],
+          "note": "October 2016 asked for the safest blood for an accident victim of unknown group: O, Rh negative."
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "A heart attack occurs due to —",
+          "options": [
+            "blockage of an artery",
+            "weak heart muscles",
+            "low blood pressure",
+            "high white blood cell count"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "Rickets is primarily caused by a deficiency of —",
+          "options": [
+            "vitamin C",
+            "vitamin D",
+            "calcium",
+            "iron"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "Which of the following is a symptom of kwashiorkor?",
+          "options": [
+            "Gain of muscles",
+            "Body develops loose folds of skin",
+            "Ribs become prominent",
+            "Retardation of physical and mental growth"
+          ],
+          "answer": "D",
+          "years": [
+            "October 2024"
+          ],
+          "note": "Loose folds of skin and prominent ribs are signs of marasmus."
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "Transport of food from the leaves to other parts of a plant is called —",
+          "options": [
+            "ascent of sap",
+            "translocation",
+            "transpiration",
+            "osmosis"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "Proteins are broken into peptones in the stomach by the enzyme —",
+          "options": [
+            "amylase",
+            "pepsin",
+            "lipase",
+            "trypsin"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "The structural and functional unit of the kidney is the —",
+          "options": [
+            "neuron",
+            "nephron",
+            "alveolus",
+            "villus"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "1.13",
+          "type": "mcq",
+          "q": "In human beings, exchange of gases between the air and the blood takes place in the —",
+          "options": [
+            "larynx",
+            "bronchi",
+            "alveoli",
+            "trachea"
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "1.14",
+          "type": "mcq",
+          "q": "The vitamin that helps in the clotting of blood is —",
+          "options": [
+            "vitamin A",
+            "vitamin D",
+            "vitamin E",
+            "vitamin K"
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "1.15",
+          "type": "mcq",
+          "q": "One gram of a nutrient gave about 9 kcal of energy on oxidation. The nutrient was a —",
+          "options": [
+            "carbohydrate",
+            "fat",
+            "vitamin",
+            "protein"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "1.16",
+          "type": "mcq",
+          "q": "Blood vessels that carry blood away from the heart are —",
+          "options": [
+            "veins",
+            "arteries",
+            "capillaries",
+            "lymph vessels"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "1.17",
+          "type": "mcq",
+          "q": "Normal blood pressure of a healthy young adult is about —",
+          "options": [
+            "80/120 mm Hg",
+            "120/80 mm Hg",
+            "140/100 mm Hg",
+            "100/60 mm Hg"
+          ],
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark (fill in the blanks, match the columns, true/false or a short passage).",
+      "marks": "7 × 2 = 14",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "Read the passage and answer: 'The human circulatory system consists of a centrally located muscular pump called the heart and tube-like blood vessels connected to it — arteries, veins and capillaries.' (i) Blood vessels that carry blood from the heart are called ________ and those that bring blood to the heart are called ________. (ii) Name the thin vessels that allow exchange of materials between blood and tissues.",
+          "answer": "(i) arteries; veins (ii) capillaries",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Match the donor blood group (Column I) with the correct recipient blood groups (Column II): (A) Blood group A (B) Blood group O — (1) A, B, AB and O (2) A and AB (3) B and AB (4) AB only",
+          "answer": "(A) Blood group A – (2) A and AB; (B) Blood group O – (1) A, B, AB and O",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "Fill in the blanks: The upward movement of water in plants is called ________ and it is mainly due to ________ pull.",
+          "answer": "ascent of sap; transpiration"
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Write True (T) or False (F): (1) Bile contains digestive enzymes that break down fats. (2) Villi increase the surface area for absorption in the small intestine.",
+          "answer": "(1) False — bile has no enzymes; it emulsifies fats and makes the medium alkaline. (2) True"
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "Match: (1) Vitamin C (2) Vitamin A — (a) rickets (b) night blindness (c) scurvy (d) beri-beri",
+          "answer": "(1) Vitamin C – (c) scurvy; (2) Vitamin A – (b) night blindness"
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "Write True (T) or False (F): (1) The pulmonary vein carries oxygenated blood. (2) Red blood cells have a nucleus.",
+          "answer": "(1) True (2) False — mature RBCs have no nucleus."
+        },
+        {
+          "id": "2.7",
+          "type": "open",
+          "q": "Fill in the blanks: Blood is filtered in the ________ of the nephron, and the knot of capillaries inside it is called the ________.",
+          "answer": "Bowman's capsule; glomerulus"
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Read the passage and answer the questions that follow.",
+      "marks": "5 × 1 = 5",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "mcq",
+          "q": "Starch digestion begins in the —",
+          "options": [
+            "mouth",
+            "stomach",
+            "large intestine",
+            "rectum"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "3.2",
+          "type": "mcq",
+          "q": "The enzyme in pancreatic juice that digests fats is —",
+          "options": [
+            "trypsin",
+            "amylase",
+            "lipase",
+            "pepsin"
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "3.3",
+          "type": "mcq",
+          "q": "Bile is produced by the —",
+          "options": [
+            "pancreas",
+            "liver",
+            "gall bladder",
+            "stomach"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "3.4",
+          "type": "mcq",
+          "q": "The end products of protein digestion are —",
+          "options": [
+            "fatty acids",
+            "amino acids",
+            "glucose",
+            "glycerol"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "3.5",
+          "type": "mcq",
+          "q": "Villi help in —",
+          "options": [
+            "absorption of digested food",
+            "secretion of acid",
+            "storage of bile",
+            "absorption of water from faeces"
+          ],
+          "answer": "A"
+        }
+      ],
+      "fixed": true,
+      "passage": "In the human body food is digested step by step. Saliva begins the digestion of starch in the mouth. In the stomach, hydrochloric acid and pepsin act on proteins. In the small intestine, bile from the liver breaks fats into tiny droplets, and pancreatic juice supplies trypsin, amylase and lipase. Digestion is completed here, and the finger-like villi absorb the products into the blood. The large intestine absorbs water from the undigested food."
+    },
+    {
+      "no": 4,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "7 × 2 = 14",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "Define the terms (i) osmoregulation and (ii) dialysis.",
+          "answer": "(i) Osmoregulation is the maintenance of the correct amount of water and mineral ions in the blood and body. (ii) Dialysis is the removal of waste from the blood of a person whose kidneys have failed, using an artificial kidney in which blood flows past a membrane bathed in dialysis fluid.",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "Name two deficiency diseases caused by protein-energy malnutrition. State the symptoms of any one.",
+          "answer": "Marasmus and kwashiorkor. Marasmus (infants deprived of mother's milk): wasting of muscles, loose folds of skin, prominent ribs, slow growth. (Kwashiorkor: swelling, enlarged liver, dark scaly skin, reddish-brown hair, thin legs, retarded growth.)",
+          "years": [
+            "October 2019"
+          ]
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "Why is hypertension considered a disorder of the circulatory system? Write any two of its symptoms.",
+          "answer": "Hypertension is high blood pressure — blood pushes too hard against the walls of the arteries, straining the heart and blood vessels. Symptoms: headache, dizziness, fatigue.",
+          "years": [
+            "October 2022"
+          ]
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "Why are we advised to chew our food well?",
+          "answer": "Chewing breaks food into small pieces and mixes it with saliva, whose amylase starts digesting starch; the moist, small pieces are easy to swallow and give enzymes a larger surface to act on in the stomach and intestine."
+        },
+        {
+          "id": "4.5",
+          "type": "open",
+          "q": "Why does the trachea not collapse during exhalation?",
+          "answer": "The trachea is supported by rings of cartilage, which keep it open even when there is little air in it."
+        },
+        {
+          "id": "4.6",
+          "type": "open",
+          "q": "What is the difference between breathing and respiration?",
+          "answer": "Breathing is the physical process of taking in air and giving out carbon dioxide (exchange of gases in the lungs). Respiration is the oxidation of food (glucose) in the cells to release energy, with production of carbon dioxide and water."
+        },
+        {
+          "id": "4.7",
+          "type": "open",
+          "q": "Classify living organisms on the basis of their mode of nutrition.",
+          "answer": "Autotrophs make their own food by photosynthesis (green plants, algae). Heterotrophs depend on others: holozoic (Amoeba, humans), parasitic (head louse, Cuscuta) and saprotrophic (mushroom, yeast).",
+          "years": [
+            "October 2025"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "6 × 3 = 18",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "A patient's kidneys stop working properly. Explain how dialysis helps in such a situation and why it is important.",
+          "answer": "In dialysis a tube from an artery takes the patient's blood to an artificial kidney. The blood flows through a tube with a thin membrane surrounded by dialysis fluid; urea and other wastes diffuse out of the blood into the fluid, while blood cells and proteins stay in. The cleaned blood is returned to a vein. It is important because without it nitrogenous wastes and excess water and salts would accumulate in the blood and poison the body; it keeps the patient alive until a kidney transplant.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "Describe the processes of transport of water and of food in plants.",
+          "answer": "Water and minerals absorbed by root hairs move up through the xylem (tracheids and vessels) to the leaves; this ascent of sap is driven by transpiration pull — water evaporating from the stomata pulls the water column up. Food (sugar) made in the leaves is carried by the sieve tubes of the phloem to other parts of the plant (translocation) and stored in roots, stems or fruits.",
+          "years": [
+            "April 2023"
+          ]
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "What is meant by a balanced diet? What are its main constituents? Why should raw vegetables and fruits be regular components of meals?",
+          "answer": "A balanced diet contains all the essential nutrients in the right amounts and proportion for a person's age, sex and work. Constituents: carbohydrates, fats, proteins, vitamins, minerals, water and roughage. Raw vegetables and fruits supply vitamins and minerals and give roughage (fibre) that helps bowel movement and prevents constipation.",
+          "years": [
+            "October 2021"
+          ]
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "What are enzymes? List three pancreatic enzymes and state their functions.",
+          "answer": "Enzymes are biological catalysts, mostly proteins, that speed up chemical reactions in the body without being used up. Pancreatic enzymes: trypsin — digests proteins (peptones to peptides); amylase — digests starch into maltose; lipase — digests fats into fatty acids and glycerol.",
+          "years": [
+            "October 2016"
+          ]
+        },
+        {
+          "id": "5.5",
+          "type": "open",
+          "q": "Explain the mechanism of breathing in humans.",
+          "answer": "Inhalation: the diaphragm contracts and flattens and the rib muscles lift the ribs up and out; the chest cavity enlarges, the pressure inside falls and air rushes into the lungs. Exhalation: the diaphragm relaxes and arches up, the ribs move down and in; the chest cavity becomes smaller, the pressure rises and air is pushed out through the trachea and nose.",
+          "years": [
+            "April 2017"
+          ]
+        },
+        {
+          "id": "5.6",
+          "type": "open",
+          "q": "Draw a diagram of the human respiratory system and label the glottis, trachea, lungs and bronchioles.",
+          "answer": "Diagram: nostrils → nasal cavity → pharynx; the glottis is the opening of the pharynx into the larynx/trachea; the trachea (with cartilage rings) runs down the neck and divides into two bronchi entering the two lungs; inside the lungs the bronchi branch into fine bronchioles ending in alveoli; the diaphragm lies below the lungs.",
+          "years": [
+            "April 2022"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 6,
+      "title": "Long answer questions. Answer in 80–120 words.",
+      "marks": "4 × 5 = 20",
+      "questions": [
+        {
+          "id": "6.1",
+          "type": "open",
+          "q": "What is photosynthesis? Explain the raw materials required for photosynthesis and how plants obtain them.",
+          "answer": "Photosynthesis is the process by which green plants make glucose from carbon dioxide and water in the presence of sunlight and chlorophyll, releasing oxygen: 6CO2 + 12H2O → C6H12O6 + 6H2O + 6O2. Raw materials: (1) carbon dioxide — taken from the air through the stomata of leaves; (2) water — absorbed from the soil by root hairs and carried up the xylem to the leaves; (3) sunlight — the source of energy, absorbed by the leaves; (4) chlorophyll — the green pigment in the chloroplasts of leaf cells, which traps light energy. The glucose formed is used or stored as starch and oxygen is released through the stomata.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "6.2",
+          "type": "open",
+          "q": "Explain the digestion of carbohydrates, proteins and fats in human beings.",
+          "answer": "Carbohydrates: in the mouth salivary amylase converts starch into sugar; in the small intestine pancreatic amylase changes starch to maltose and digestion is completed to glucose. Proteins: in the stomach, hydrochloric acid activates pepsin, which breaks proteins into peptones; in the small intestine trypsin of pancreatic juice breaks them further, and they are finally digested into amino acids. Fats: in the small intestine bile from the liver emulsifies fats into droplets and gives an alkaline medium; lipase of pancreatic juice changes them into fatty acids and glycerol. The end products are absorbed by the villi into the blood.",
+          "years": [
+            "April 2016",
+            "April 2019"
+          ],
+          "note": "April 2019 asked: what are enzymes, which enzymes digest nutrients, their sources in the digestive system and the function of each."
+        },
+        {
+          "id": "6.3",
+          "type": "open",
+          "q": "(a) Draw a simple diagram of the human excretory system and label the kidney, ureters, bladder and urethra. (b) Write two important functions of the kidney. (c) What is a nephron?",
+          "answer": "(a) Two bean-shaped kidneys in the upper abdomen near the back; a ureter from each runs down to the urinary bladder; the urethra leads out from the bladder. (b) Kidneys remove nitrogenous wastes (urea) from the blood as urine, and regulate the water and mineral balance of the body (osmoregulation). (c) A nephron is the structural and functional unit of the kidney — a Bowman's capsule with a glomerulus, where blood is filtered, and a tubule, where useful substances and water are reabsorbed, leaving urine.",
+          "years": [
+            "October 2016"
+          ]
+        },
+        {
+          "id": "6.4",
+          "type": "open",
+          "q": "(a) Why is a balanced diet essential? Name the nutrients that must be part of it, with an example of each. (b) Deficiency of which nutrient causes anaemia, kwashiorkor and rickets? (c) Which nutrient will not be digested if the pancreas does not secrete lipase?",
+          "answer": "(a) A balanced diet gives energy, growth, repair and protection against disease. Nutrients: carbohydrates (rice, wheat), fats (ghee, oil), proteins (pulses, milk, eggs), vitamins (fruits, vegetables), minerals (green leafy vegetables, milk), water and roughage (raw vegetables). (b) Anaemia — iron; kwashiorkor — proteins; rickets — vitamin D (and calcium). (c) Fats, since lipase digests fats into fatty acids and glycerol.",
+          "years": [
+            "April 2021"
+          ]
+        }
+      ]
+    }
+  ]
+}

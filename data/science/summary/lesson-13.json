@@ -1,0 +1,150 @@
+{
+  "subject": "science",
+  "lesson": 13,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 13: Work and Energy — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Work"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "In science, work is done only when a force is applied on a body and the body moves through some distance in the direction of the force. No work is done when you push a wall that does not move; when a car moves at constant velocity with no net force; or when the force is perpendicular to the displacement — a person carrying a load on his head along a level road does no work against gravity, and a satellite in a circular orbit has no work done on it by gravity."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Work = force × displacement in the direction of the force (W = F × s). If force and displacement are at an angle, only the part of the displacement along the force counts. The SI unit of work is the newton-metre, called the joule (J): 1 J of work is done when a force of 1 N moves a body 1 m in its direction (e.g. 0.01 N over 100 m). Work is positive when the force and displacement are in the same direction, negative when opposite (friction), and zero when perpendicular."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Energy"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Energy is the capacity to do work; the energy of a body equals the total work it can do, and its unit is also the joule. We get tired after working because we have spent energy, and food restores it. Energy exists in many forms: mechanical (kinetic and potential), thermal (heat), light, electrical, magnetic, sound, chemical and nuclear energy (released by converting mass into energy in nuclear reactions)."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Potential energy"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Potential energy is the energy a body has because of its position or shape: a raised hammer can break clay when it falls; a stretched or compressed spring stores energy. A heavier body or a body raised higher has more potential energy: Ep = mgh (weight × height). Doubling the mass or the height doubles the potential energy."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Kinetic energy"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Kinetic energy is the energy a body has because of its motion: a rolling cell pushes a matchbox, and a heavier (torch) cell or a faster one pushes it farther. Ek = ½mv². Doubling the mass doubles the kinetic energy; doubling the speed makes it four times — so accidents at high speed are far worse. For two bodies of equal mass moving at u and 4u the ratio of kinetic energies is 1 : 16. The work done by a force on a body equals the increase in its kinetic energy (work–energy relation). Mechanical energy = kinetic + potential energy."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "As a body falls, its potential energy decreases and its kinetic energy increases. A body dropped from 100 m has more potential than kinetic energy after falling 25 m, and more kinetic than potential after falling 75 m; just before it hits the ground all of its potential energy mgh has become kinetic energy."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Energy transformation and conservation"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Energy changes from one form to another: in a hydroelectric plant the potential energy of stored water becomes kinetic energy, then rotational energy of a turbine, then electrical energy in a generator; a bulb changes electrical to light energy; an electric iron or heater, electrical to heat; a motor or fan, electrical to mechanical; a cell, chemical to electrical; a solar cell or solar panel, light (solar) to electrical; a thermocouple, heat to electrical; a microphone, sound to electrical; a loudspeaker, electrical to sound; a bicycle dynamo or generator, mechanical to electrical; a heat engine, heat to mechanical; photosynthesis, solar to chemical energy of food; fireworks, chemical to heat, light and sound; exercise, chemical energy of food to muscular (kinetic) energy; rubbing hands, work to heat."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Law of conservation of energy: energy can neither be created nor destroyed; it only changes from one form to another, and the total energy remains constant. In real machines some energy is always 'lost' as heat because of friction, so not all of it can be turned into useful work."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Power"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Power is the rate of doing work: power = work done / time taken. Its SI unit is the watt (W): 1 W = 1 J of work done in 1 s. Power is also measured in horse power: 1 H.P. = 746 W (so 1.5 H.P. ≈ 1119 W). Two people of equal weight climbing the same stairs do equal work, but the one who takes less time develops more power — which is why running up stairs tires us more. Lifting a 100 N stone through 1 m in 1 s needs 100 J of work and a power of 100 W."
+        ]
+      ]
+    }
+  ]
+}

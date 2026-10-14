@@ -1,0 +1,501 @@
+{
+  "subject": "science",
+  "lesson": 30,
+  "title": "Human Impact on Environment",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "15 × 1 = 15",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "Thermal inversion occurs when —",
+          "options": [
+            "cold air lies above warm air",
+            "warm air rises freely",
+            "warm air lies above cold air, trapping pollutants near the ground",
+            "wind sweeps away pollutants"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2026",
+            "April 2024"
+          ]
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "The main problem with non-biodegradable waste is that it —",
+          "options": [
+            "decomposes quickly",
+            "does not decompose easily",
+            "makes the soil fertile",
+            "is eaten by microbes"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "Eutrophication results in excessive growth of —",
+          "options": [
+            "fish",
+            "algae",
+            "bacteria only",
+            "trees"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "Which of these is NOT a natural environmental problem?",
+          "options": [
+            "Earthquake",
+            "Flood",
+            "Cyclone",
+            "Afforestation"
+          ],
+          "answer": "D",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "Among the following, the most devastating natural disaster for forests is —",
+          "options": [
+            "acid rain",
+            "forest fire",
+            "drought",
+            "smog"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "An earthquake is —",
+          "options": [
+            "a heavy rainfall",
+            "a strong wind",
+            "a sudden shaking of the earth's crust",
+            "a sea wave"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "People living near the Arctic and Antarctic suffer more from skin cancer because of —",
+          "options": [
+            "low temperature",
+            "higher ultraviolet radiation due to ozone depletion",
+            "polluted water",
+            "lack of food"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2021"
+          ]
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "Which of the following is NOT a cause of landslides?",
+          "options": [
+            "Heavy rain",
+            "Deforestation",
+            "Earthquakes",
+            "Lightning"
+          ],
+          "answer": "D",
+          "years": [
+            "October 2021"
+          ]
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "The main cause of deterioration of the white marble of the Taj Mahal is —",
+          "options": [
+            "global warming",
+            "smog",
+            "acid rain",
+            "noise"
+          ],
+          "answer": "C",
+          "years": [
+            "October 2022"
+          ]
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "The chemicals mainly responsible for ozone depletion are —",
+          "options": [
+            "carbon dioxide",
+            "chlorofluorocarbons",
+            "nitrogen",
+            "water vapour"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "A chemical found in high concentration in top consumers due to biomagnification is —",
+          "options": [
+            "nitrate",
+            "phosphate",
+            "DDT",
+            "vitamin"
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "The intensity of an earthquake is measured on the —",
+          "options": [
+            "Celsius scale",
+            "Richter scale",
+            "decibel scale",
+            "pH scale"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "1.13",
+          "type": "mcq",
+          "q": "Growing trees for forests is called —",
+          "options": [
+            "horticulture",
+            "silviculture",
+            "monoculture",
+            "agriculture"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "1.14",
+          "type": "mcq",
+          "q": "Which of the following is biodegradable?",
+          "options": [
+            "Aluminium foil",
+            "Plastic bottle",
+            "Grass",
+            "Glass"
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "1.15",
+          "type": "mcq",
+          "q": "Which gas mainly causes global warming?",
+          "options": [
+            "Oxygen",
+            "Nitrogen",
+            "Carbon dioxide",
+            "Argon"
+          ],
+          "answer": "C"
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark (fill in the blanks, match the columns, true/false or a short passage).",
+      "marks": "6 × 2 = 12",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "Fill in the blanks: (a) The biggest source of nitrogen is ________. (b) A tsunami is caused by ________ under the ocean.",
+          "answer": "(a) atmospheric nitrogen (b) earthquakes",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Write True (T) or False (F): (a) Ozone depletion is a natural disaster. (b) Heterotrophs are called decomposers.",
+          "answer": "(a) False — it is caused by human use of CFCs. (b) False — decomposers (saprotrophs) are one kind of heterotroph; heterotrophs are consumers.",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "Write True (T) or False (F): (a) Forest fires are caused by heat in litter during the rainy season. (b) Landslides are a hazard in hills, steep river banks and coasts.",
+          "answer": "(a) False — this happens in summer and the dry season. (b) True",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Fill in the blanks: Enrichment of water bodies with nutrients from fields is called ________, and the gases from refrigerators that damage the ozone layer are ________.",
+          "answer": "eutrophication; chlorofluorocarbons (CFCs)"
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "Match: (1) Seismograph (2) Chipko movement — (a) measures earthquakes (b) saving trees by hugging them (c) measures noise (d) cleaning rivers",
+          "answer": "(1) – (a); (2) – (b)"
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "Write True (T) or False (F): (a) Incineration of waste produces toxic gases. (b) Photochemical smog contains PAN and ozone.",
+          "answer": "(a) True (b) True"
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Read the passage and answer the questions that follow.",
+      "marks": "5 × 1 = 5",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "mcq",
+          "q": "The rapid growth of algae due to nutrients in water is called —",
+          "options": [
+            "biomagnification",
+            "eutrophication",
+            "acid rain",
+            "smog"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "3.2",
+          "type": "mcq",
+          "q": "The fish died mainly because —",
+          "options": [
+            "the water became too cold",
+            "decomposing algae used up the dissolved oxygen",
+            "algae ate the fish",
+            "the water became salty"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "3.3",
+          "type": "mcq",
+          "q": "The increase in DDT concentration at higher levels of the food chain is —",
+          "options": [
+            "biomagnification",
+            "nitrification",
+            "denitrification",
+            "eutrophication"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "3.4",
+          "type": "mcq",
+          "q": "DDT accumulates in organisms because it is —",
+          "options": [
+            "biodegradable",
+            "non-biodegradable",
+            "a nutrient",
+            "a gas"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "3.5",
+          "type": "mcq",
+          "q": "The organism with the highest concentration of DDT is the —",
+          "options": [
+            "algae",
+            "small fish",
+            "pelican (top consumer)",
+            "water"
+          ],
+          "answer": "C"
+        }
+      ],
+      "fixed": true,
+      "passage": "Farmers near a lake used large amounts of fertilisers and sprayed DDT on their crops. Rain washed the chemicals into the lake. Soon the lake was covered with a thick green layer of algae, and later many fish died. Scientists found that DDT was 0.2 ppm in the lake water but 1700 ppm in the fish-eating pelicans, whose eggs had very thin shells."
+    },
+    {
+      "no": 4,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "6 × 2 = 12",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "Name the scale used to measure the intensity of earthquakes and give three precautions during an earthquake.",
+          "answer": "Richter scale. Precautions: take cover under a strong table or bed and protect your head; keep away from glass windows, heavy furniture and electric poles; do not use lifts — stay on the same floor or move to an open space.",
+          "years": [
+            "April 2022",
+            "April 2019"
+          ],
+          "note": "April 2019 also asked the cause of an earthquake: the sudden release of energy when rocks inside the earth give way."
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "Write four steps to prevent damage due to floods.",
+          "answer": "No construction on river beds; timely desilting of drains and reservoirs; building houses and public buildings above past flood levels (flood-proof buildings); a ready evacuation plan and centre.",
+          "years": [
+            "April 2023"
+          ]
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "Name two major water pollutants and their sources.",
+          "answer": "Fertilisers and pesticides (agricultural run-off); sewage with disease-causing microbes (human and animal excreta); industrial waste such as acids and heavy metals (factories).",
+          "years": [
+            "April 2016"
+          ]
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "What is biomagnification? Explain with a food chain.",
+          "answer": "The increase in the concentration of a non-biodegradable chemical such as DDT at each higher level of a food chain. Water (0.2 ppm) → algae (77 ppm) → fish (500–600 ppm) → pelican (1700 ppm).",
+          "years": [
+            "April 2017"
+          ]
+        },
+        {
+          "id": "4.5",
+          "type": "open",
+          "q": "Differentiate between biodegradable and non-biodegradable waste with examples.",
+          "answer": "Biodegradable waste is broken down by microbes into harmless substances (vegetable peels, paper, dung). Non-biodegradable waste is not broken down easily and stays in the environment (plastic, glass, aluminium cans, DDT)."
+        },
+        {
+          "id": "4.6",
+          "type": "open",
+          "q": "What is the ozone hole? Name the chemicals responsible.",
+          "answer": "The thinning of the ozone layer, especially over the Arctic and Antarctic, letting more UV rays reach the earth. It is caused by chlorofluorocarbons (CFCs) from refrigerators, air conditioners and aerosol sprays."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "5 × 3 = 15",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "Write three serious consequences of the rise in global temperature in the last 100 years.",
+          "answer": "Any three: melting of glaciers and ice caps and rise in sea level; submerging of low coastal areas and islands such as the Maldives; unpredictable weather; early maturing of crops with smaller grains and low yields; disturbed hatching of fish eggs.",
+          "years": [
+            "October 2024",
+            "October 2016"
+          ],
+          "note": "October 2016 also asked what global warming means and its causes — rising average temperature of the earth due to greenhouse gases (CO₂, CH₄, N₂O) released by burning fossil fuels and deforestation."
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "Write three broad causes of forest fires.",
+          "answer": "(1) Natural causes such as lightning striking dry trees. (2) Heat built up in dry litter and biomass in summer and the dry season. (3) Human negligence — carelessly dropped lighted matches, cigarettes or bidis, or burning wood left behind.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "What is biomagnification? How did DDT reduce the population of pelican birds?",
+          "answer": "Biomagnification is the increase in concentration of a non-biodegradable chemical at each higher trophic level. DDT sprayed on crops reached the water (0.2 ppm) and passed through algae and fish into pelicans (1700 ppm). The high DDT in the birds made their egg shells thin, so the eggs broke before hatching and the population fell.",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "What are primary and secondary air pollutants? Give examples and describe two major primary pollutants.",
+          "answer": "Primary pollutants are released directly into the air (CO, SO₂, NO, SPM); secondary pollutants form in the air by reactions of primary pollutants (ozone, PAN, sulphuric acid). Carbon monoxide — from vehicle exhaust and incomplete burning; it combines with haemoglobin and reduces oxygen supply. Sulphur dioxide — from burning coal and oil; it irritates the lungs and causes acid rain.",
+          "years": [
+            "April 2023"
+          ],
+          "note": "October 2016 asked why VOCs and SPM are air pollutants: they come from vehicles, industries and burning fuels and cause breathing problems, smog and lung disease."
+        },
+        {
+          "id": "5.5",
+          "type": "open",
+          "q": "What is eutrophication? Write the sequence of events that kills aquatic animals.",
+          "answer": "Eutrophication is the enrichment of a water body with nutrients (nitrates and phosphates) from fertilisers and sewage. Sequence: nutrients reach the water → rapid growth of algae (algal bloom) → algae die → bacteria decompose them, using up dissolved oxygen → fish and other animals die from lack of oxygen.",
+          "years": [
+            "October 2017"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 6,
+      "title": "Long answer questions. Answer in 80–120 words.",
+      "marks": "4 × 5 = 20",
+      "questions": [
+        {
+          "id": "6.1",
+          "type": "open",
+          "q": "Explain eutrophication and biomagnification and their role in water pollution.",
+          "answer": "Eutrophication: run-off of fertilisers and sewage adds nitrates and phosphates to lakes and ponds, causing an algal bloom; the algae die and are decomposed by bacteria, which use up the dissolved oxygen, so fish and other aquatic animals die and the water becomes foul. Biomagnification: non-biodegradable pesticides like DDT washed into water are taken up by algae and pass along the food chain, becoming more concentrated at each level (water 0.2 ppm → algae → fish → birds 1700 ppm); top consumers suffer, e.g. birds lay thin-shelled eggs. Both make water unfit for life and show how farm chemicals pollute water.",
+          "years": [
+            "October 2019"
+          ]
+        },
+        {
+          "id": "6.2",
+          "type": "open",
+          "q": "What is global warming? Explain its causes, why it is a global problem, two other global environmental problems, and four consequences.",
+          "answer": "Global warming is the rise in the average temperature of the earth. Causes: greenhouse gases (CO₂, methane, N₂O) from burning fossil fuels, industries, vehicles and deforestation trap the heat radiated by the earth (greenhouse effect). It is global because gases released anywhere spread through the whole atmosphere and affect all countries. Other global problems: ozone depletion and acid rain (also photochemical smog). Consequences: melting glaciers and rising sea level; flooding of low coasts and islands; unpredictable weather and more extreme events; lower crop yields; disturbed breeding of fish and other animals.",
+          "years": [
+            "October 2016"
+          ]
+        },
+        {
+          "id": "6.3",
+          "type": "open",
+          "q": "Describe the causes, effects and prevention of deforestation.",
+          "answer": "Causes: clearing forests for agriculture, grazing, housing, roads and industry, and for wood and paper. Effects: loss of habitat and biodiversity; reduced rainfall and a lower water table; soil erosion and desertification; more CO₂ and global warming; floods and landslides. Prevention: laws against felling; reforestation and afforestation; Van Mahotsav planting; silviculture and social forestry; people's movements like Chipko; using less paper and wood."
+        },
+        {
+          "id": "6.4",
+          "type": "open",
+          "q": "What is an earthquake? How is its intensity measured? Describe the safety steps before, during and after an earthquake.",
+          "answer": "An earthquake is a sudden shaking of the earth's crust caused by the release of energy when rocks inside the earth give way. Its intensity is recorded by a seismograph and expressed on the Richter scale. Before: build earthquake-resistant structures and keep an emergency kit. During: take cover under a strong table or bed, protect the head, keep away from glass and heavy objects, do not use lifts, and outdoors move to open ground away from buildings, trees and wires. After: keep calm and follow radio instructions, expect aftershocks, keep away from beaches, clean up spilled flammable liquids, give first aid and inform rescue teams about trapped people.",
+          "years": [
+            "April 2019"
+          ]
+        }
+      ]
+    }
+  ]
+}

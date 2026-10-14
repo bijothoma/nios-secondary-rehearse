@@ -1,0 +1,177 @@
+{
+  "subject": "science",
+  "lesson": 1,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 1: Measurement in Science and Technology — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "What is measurement?"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Measurement is counting how many times a chosen scale (a standard) is used — for example, how many times a metre scale fits along a playground. It is needed in daily life (buying fruit, cooking, stitching), in trade, where both buyer and seller want a fair quantity, and in science and technology, where space missions depend on very accurate measurements."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "The standard used is called a unit. The value of a physical quantity = numerical value × unit, so both the number and the unit must always be stated (\"100\" alone means nothing — 100 cm, 100 ft or 100 m?). A good unit must be relevant to the quantity, convenient in size and well defined so that everyone understands it the same way."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Measurement in the past"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Early people used parts of the body: the digit (width of a finger), hand span, foot, cubit (length of the forearm) and fathom; the Romans used the pace, and a wheat grain was a unit of mass. Such units are arbitrary — they differ from person to person — so results could not be reproduced and led to disputes in trade."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Rulers tried to fix standards: the Egyptians (about 3000 BC) defined the standard cubit by the Pharaoh's arm and made measuring sticks of that length; Henry I of England fixed the yard; Elizabeth I declared a mile to be eight furlongs. These standards lasted only as long as the ruler, so by the eighteenth century many different units were in use."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "In India, bricks of Mohenjodaro had their sides in the fixed ratio 4 : 2 : 1. In the Chandragupta Maurya period (Kautilya's Arthashastra) the smallest unit of length was the parmanu (8 parmanus = 1 rajahkan … 8 yavamadhyas = 1 angul) and long distances were measured in yojans (about 10 km). Under Akbar the gaz (divided into 24 tassuj) measured length; it was used until the metric system came in 1956. In the British period inch, foot, yard, grain, ounce and pound were used, along with ratti (about 120 mg), masha, tola, chhatank, seer and maund."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Modern systems and SI units"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "After the French Revolution (1790) French scientists created the decimal metric system; standards of the metre and kilogram (platinum–iridium) are kept at Sèvres near Paris, and the Metre Convention of 1875 spread the system. The CGS system uses centimetre, gram and second; the MKS system uses metre, kilogram and second; the FPS system uses foot, pound and second."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "The International System of Units (SI, from the French 'Le Système International d'Unités') was adopted in 1960 at the 11th General Conference on Weights and Measures. It has seven base quantities with base units: length — metre (m); mass — kilogram (kg); time — second (s); electric current — ampere (A); thermodynamic temperature — kelvin (K); amount of substance — mole (mol); luminous intensity — candela (cd). Base units are independent of each other."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Today the metre is the distance light travels in vacuum in 1/299 792 458 of a second (1983); the second is the time of 9 192 631 770 vibrations of a caesium-133 atom (atomic clock); India's copy of the standard kilogram (No. 57) is kept at the National Physical Laboratory, New Delhi. Luminous intensity is the light given out by a point source per second in a given direction; one mole is the amount of a substance equal to its molecular mass in grams."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Derived units"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "All other quantities are measured in derived units, found by writing the quantity in terms of base quantities and putting in their units: area = length × length → m²; volume → m³; speed → m s⁻¹; acceleration → m s⁻²; density = mass/volume → kg m⁻³; force = mass × acceleration → kg m s⁻²; work = force × distance → kg m² s⁻². Some derived units have special names: frequency s⁻¹ = hertz (Hz); force kg m s⁻² = newton (N); pressure/stress kg m⁻¹ s⁻² = pascal (Pa); energy/work kg m² s⁻² = joule (J); power kg m² s⁻³ = watt (W)."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "SI prefixes"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Very large or very small values are written in scientific notation (powers of ten) and then with SI prefixes, chosen so that the number lies between 0.1 and 1000. Multiples: deca (da) 10¹, hecto (h) 10², kilo (k) 10³, mega (M) 10⁶, giga (G) 10⁹, tera (T) 10¹², peta (P) 10¹⁵, exa (E) 10¹⁸, zetta (Z) 10²¹, yotta (Y) 10²⁴. Sub-multiples: deci (d) 10⁻¹, centi (c) 10⁻², milli (m) 10⁻³, micro (μ) 10⁻⁶, nano (n) 10⁻⁹, pico (p) 10⁻¹², femto (f) 10⁻¹⁵, atto (a) 10⁻¹⁸, zepto (z) 10⁻²¹, yocto (y) 10⁻²⁴. Example: radius of the Sun 6.96 × 10⁸ m = 696 Mm."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Prefix rules: no space between prefix and unit (ng); a prefix is never used alone (10 μm, not 10 μ); only one prefix at a time (1 pg, not 1 mμg); no prefix with °C; a power applies to the whole prefixed unit (1 km² = 10⁶ m²)."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Rules for writing SI units"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Leave a space between the number and the unit (100 mg, not 100mg) but not before °C or the degree sign; do not make symbols plural (10 mg, not 10 mgs) or add a full stop except at the end of a sentence; leave a space between combined symbols (m s is metre second, ms is millisecond); write 0.928 g, not .928 g; symbols from people's names take a capital letter (J, N, Pa) but the full name does not (joule, not Joule) and is not made plural; avoid more than one solidus (J/K mol, not J/K/mol)."
+        ]
+      ]
+    }
+  ]
+}

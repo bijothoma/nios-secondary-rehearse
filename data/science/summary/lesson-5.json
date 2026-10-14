@@ -1,0 +1,204 @@
+{
+  "subject": "science",
+  "lesson": 5,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 5: Atomic Structure — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "The atom is divisible"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Dalton's atomic theory (1803) treated the atom as the smallest, indivisible particle; it explained the laws of conservation of mass, constant proportions and multiple proportions. Experiments at the end of the nineteenth century showed that atoms are made of still smaller subatomic particles — electrons (negative), protons (positive) and neutrons (no charge). Radioactivity also showed that atoms can break up."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Discovery of the electron"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "A cathode ray tube is a partly evacuated glass tube with two electrodes, the cathode (−) and anode (+), joined to a high voltage. At very high voltage the cathode gives out cathode rays that travel to the anode. J.J. Thomson (1897) showed that they are streams of negatively charged particles, later called electrons. Properties of cathode rays: they travel in straight lines; the particles have mass and kinetic energy but very small mass and high speed; they carry negative charge and bend towards the positive plate in an electric field; their nature and charge-to-mass ratio (e/m) are the same whatever the gas or the metal of the electrodes — so all atoms contain electrons."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Discovery of the proton"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Eugen Goldstein (1886) used a perforated cathode in a tube with gas at low pressure and saw a red glow behind the cathode, caused by anode rays (positive rays or canal rays) moving opposite to cathode rays. They travel in straight lines, are much heavier than electrons and carry positive charge in whole-number multiples of the electronic charge; their nature depends on the gas. They form when cathode rays knock electrons out of gas atoms. With hydrogen the particles were lightest with the highest e/m; Rutherford showed they are hydrogen ions and named them protons."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Thomson's model"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Thomson's 'plum pudding' model: the atom is a sphere of uniform positive charge in which negatively charged electrons are scattered, like seeds in a water-melon; the total positive and negative charges are equal, so the atom is neutral."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Rutherford's α-scattering experiment and model"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Geiger and Marsden (1910) directed α-particles (helium nuclei) at a very thin gold foil. Most α-particles went straight through, some were deflected by small angles, a few by large angles, and about 1 in 12 000 bounced back. Rutherford (1911) explained this with the nuclear model: a tiny, dense, positively charged nucleus at the centre contains all the positive charge and almost all the mass; the rest of the atom is mostly empty space in which the electrons move around the nucleus (like planets round the Sun). The nucleus is about 10 000 times smaller than the atom — like a fly in a cricket stadium."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Drawbacks: a revolving charged electron should lose energy continuously and spiral into the nucleus, so the model cannot explain the stability of the atom; it says nothing about how electrons are arranged; and it cannot explain why the atomic mass is more than the mass of the protons (e.g. helium is four times as heavy as hydrogen)."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Bohr's model (1913)"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Postulate 1: electrons move only in certain circular orbits of fixed energy (energy levels or stationary states) around the nucleus, and while in an orbit an electron does not radiate energy — this explains the stability of the atom. The orbits are later called shells, three-dimensional regions K, L, M, N (n = 1, 2, 3, 4), with energy increasing outwards. Postulate 2: an electron changes its level only by absorbing or emitting energy equal to the difference between the levels (E = hν = Ef − Ei)."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "The neutron"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "James Chadwick (1932) discovered the neutron — a neutral particle with a mass slightly more than a proton, present in the nucleus of every atom except ordinary hydrogen. It explains the 4 : 1 mass ratio of helium to hydrogen (2 protons + 2 neutrons). The electron's mass (9.1 × 10⁻³¹ kg) is about 1/1840 of a proton's; electron charge −1, proton +1, neutron 0. An α-particle contains 2 protons and 2 neutrons."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Atomic number and mass number"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Atomic number Z = number of protons = number of electrons in a neutral atom; it is what makes one element different from another. Protons and neutrons are called nucleons; mass number A = protons + neutrons. An element is written with A as a superscript and Z as a subscript, e.g. ¹²₆C has 6 protons, 6 electrons and 6 neutrons; ²³₁₁Na has 11 protons, 11 electrons, 12 neutrons; ⁴⁰₁₈Ar has 22 neutrons and ⁴⁰₁₉K has 21."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Electronic configuration"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Bohr–Bury rules: shells K, L, M, N (n = 1, 2, 3, 4) are filled in order of increasing energy; the maximum number of electrons in a shell is 2n² (K 2, L 8, M 18, N 32); a new shell is started only when the inner one is full (for the first 18 elements the outermost shell holds at most 8). Examples: H 1; He 2; Li 2,1; C 2,4; N 2,5; O 2,6; Ne 2,8; Na 2,8,1; Mg 2,8,2; Al 2,8,3; P 2,8,5; S 2,8,6; Cl 2,8,7; Ar 2,8,8; K 2,8,8,1; Ca 2,8,8,2."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Valency"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Electrons in the outermost shell are valence electrons; they decide the combining capacity (valency) — the number of bonds an atom forms with univalent atoms such as hydrogen (O in H2O is 2, N in NH3 is 3, C in CH4 is 4). Atoms with a full outer shell (He, Ne, Ar) have valency 0 and are unreactive. Valency = number of valence electrons if it is 4 or less; otherwise valency = 8 − number of valence electrons (octet rule). For example, O (2,6) has valency 2 and Cl (2,8,7) has valency 1."
+        ]
+      ]
+    }
+  ]
+}

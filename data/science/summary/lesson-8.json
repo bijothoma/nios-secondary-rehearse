@@ -1,0 +1,195 @@
+{
+  "subject": "science",
+  "lesson": 8,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 8: Acids, Bases and Salts — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Acids and bases"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Robert Boyle described acids as sour, corrosive to metals and turning blue litmus red; bases as bitter, soapy to touch and turning red litmus blue; each weakens the other on mixing. Svante Arrhenius explained this in terms of ions: an acid gives hydrogen ions (H⁺) in water (HCl → H⁺ + Cl⁻); a base gives hydroxide ions (OH⁻) in water (NaOH → Na⁺ + OH⁻). Water-soluble bases are called alkalis; all alkalis are bases but not all bases are alkalis. Not every hydrogen compound is an acid — alcohol and glucose give no H⁺."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Acids in daily life: hydrochloric acid in gastric juice; carbonic acid in soft drinks; citric and ascorbic acid (vitamin C) in lemon; acetic (ethanoic) acid in vinegar; tartaric acid in tamarind; lactic acid in sour milk; tannic acid in tea. Bases: sodium hydroxide (caustic soda) in washing soap; potassium hydroxide in bathing soap; calcium hydroxide (lime water) in whitewash; magnesium hydroxide (milk of magnesia) as an antacid; ammonium hydroxide in hair dyes."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Indicators"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Indicators show one colour in acid and another in base. Litmus (from lichens): red in acid, purple in neutral, blue in base. Phenolphthalein: colourless in acid and neutral, pink in base. Methyl orange: red in acid, orange in neutral, yellow in base. Turmeric turns red with soap (a base). A universal indicator (or pH paper) is a mixture of indicators that shows a different colour at each pH."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Properties of acids"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Acids conduct electricity in water because they dissociate into ions; H⁺ joins water to form the hydronium ion H3O⁺. Strong acids dissociate completely (HCl, HBr, HI, HNO3, H2SO4, HClO4, HClO3); weak acids only partly (acetic acid, HF, HCN, organic acids). Reactions: acid + metal → salt + hydrogen (Zn + H2SO4 → ZnSO4 + H2; the gas burns with a 'pop'); acid + metal carbonate or hydrogen carbonate → salt + water + carbon dioxide (Na2CO3 + 2HCl → 2NaCl + H2O + CO2; CO2 turns lime water milky as CaCO3 forms, and excess CO2 makes it clear again); acid + metal oxide → salt + water (CuO + 2HCl → CuCl2 + H2O, a bluish-green solution); acid + base → salt + water (neutralisation, HCl + NaOH → NaCl + H2O). Acids are corrosive; HF is weak but so corrosive that it dissolves glass."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Properties of bases"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Bases taste bitter and feel soapy. Strong bases dissociate completely (LiOH, NaOH, KOH, RbOH, CsOH, Ca(OH)2, Sr(OH)2, Ba(OH)2); weak bases such as NH4OH give few OH⁻ ions. Bases react with active metals to give hydrogen (Zn + 2NaOH → Na2ZnO2 + H2), with non-metal oxides to give salt and water (Ca(OH)2 + CO2 → CaCO3 + H2O) and with acids (neutralisation). Strong bases attack skin — caustic soda and caustic potash."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Role of water and pH"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Acids and bases show their properties only in water: dry HCl gas does not change dry blue litmus, but moist litmus turns red. Always add concentrated sulphuric acid slowly to water, never water to acid, because much heat is released. Water itself dissociates slightly: in pure water at 25 °C, [H⁺] = [OH⁻] = 1.0 × 10⁻⁷ mol L⁻¹, and the ionic product Kw = [H⁺][OH⁻] = 1.0 × 10⁻¹⁴. Neutral: [H⁺] = [OH⁻]; acidic: [H⁺] > 10⁻⁷; basic: [H⁺] < 10⁻⁷."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "pH (Sørensen, 1909) = −log[H⁺]; pOH = −log[OH⁻]; pH + pOH = 14 at 25 °C. On the pH scale (0–14) 7 is neutral, below 7 acidic and above 7 basic. Examples: 0.001 M HCl has pH 3; 1 × 10⁻⁴ M NaOH has pOH 4 and pH 10; [H⁺] = 10⁻⁹ gives pH 9; pOH 3 gives pH 11."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Importance of pH: our body works in a narrow range (7.0–7.8; blood 7.4); rain with pH below 5.6 is acid rain, harmful to aquatic life (and to buildings such as the Taj Mahal); plants need soil of suitable pH; excess stomach acid causes acidity, relieved by antacids such as milk of magnesia; a bee sting or nettle injects methanoic acid — rubbing baking soda (or dock leaves) gives relief; bacteria in the mouth make acids that lower pH below 5.5 and decay tooth enamel, so toothpaste is basic."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Salts"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "A salt is an ionic compound of a cation other than H⁺ (the basic radical, from the base) and an anion other than OH⁻ (the acid radical, from the acid). Salts form by neutralisation, by acids acting on metals, carbonates or oxides, and by bases acting on non-metal oxides. A salt of a strong acid and strong base is neutral (NaCl, pH 7); of a weak acid and strong base is basic (Na2CO3, pH > 7); of a strong acid and weak base is acidic (NH4Cl, pH < 7)."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Some useful salts"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Baking soda, sodium hydrogen carbonate NaHCO3, is made by Solvay's process from limestone (CaCO3), brine (NaCl) and ammonia: CaCO3 → CaO + CO2; NaCl + CO2 + NH3 + H2O → NaHCO3 + NH4Cl. On heating, 2NaHCO3 → Na2CO3 + H2O + CO2. Uses: cooking, baking powder (baking soda + tartaric acid; the CO2 makes cakes rise and the acid removes the bitter taste of sodium carbonate), antacids and effervescent drinks, soda-acid fire extinguishers."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Washing soda, Na2CO3·10H2O, is made by heating baking soda to get sodium carbonate and crystallising it from water. Uses: making caustic soda, glass, soap powder and paper; removing permanent hardness of water; cleaning."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Plaster of Paris, CaSO4·½H2O (calcium sulphate hemihydrate), is made by heating gypsum, CaSO4·2H2O, at 100 °C (373 K): CaSO4·2H2O → CaSO4·½H2O + 1½H2O. Above this temperature it loses all its water and becomes 'dead burnt' plaster that does not set. With water it sets into a hard mass of gypsum. Uses: plaster casts for broken bones, toys and statues, smooth walls and ceilings, decorations, chalk, fire-proof materials."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Bleaching powder, calcium oxychloride CaOCl2, is made in the Hasenclever plant by passing chlorine up through dry slaked lime moving down iron cylinders: Ca(OH)2 + Cl2 → CaOCl2 + H2O. Uses: bleaching cotton, linen and wood pulp; disinfecting drinking water; making wool unshrinkable; making chloroform; as an oxidising agent."
+        ]
+      ]
+    }
+  ]
+}

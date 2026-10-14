@@ -1,0 +1,510 @@
+{
+  "subject": "science",
+  "lesson": 27,
+  "title": "Metals and Non-metals",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "15 × 1 = 15",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "Metals are generally —",
+          "options": [
+            "hard",
+            "brittle",
+            "non-sonorous",
+            "poor conductors"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "Which of the following is NOT a property of metals?",
+          "options": [
+            "Malleability",
+            "Ductility",
+            "Non-sonorousness",
+            "Lustre"
+          ],
+          "answer": "C",
+          "years": [
+            "October 2021"
+          ]
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "An old copper coin develops a green layer because of —",
+          "options": [
+            "reduction to copper",
+            "oxidation, forming basic copper carbonate",
+            "formation of copper sulphate",
+            "deposition of dust"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2025",
+            "October 2016"
+          ]
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "A reddish-brown coating forms on an iron nail kept in a damp place because —",
+          "options": [
+            "iron reacts with nitrogen",
+            "iron reacts with oxygen and water to form iron oxide (rust)",
+            "iron reacts with carbon dioxide only",
+            "iron melts"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "The oxide formed on prolonged reaction of iron with steam is —",
+          "options": [
+            "FeO",
+            "Fe₂O₃",
+            "Fe₃O₄",
+            "Fe₂O₃ and Fe₃O₄"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2016"
+          ]
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "In the reaction Fe₂O₃ + 2Al → Al₂O₃ + 2Fe —",
+          "options": [
+            "Fe₂O₃ is oxidised",
+            "Al is oxidised and acts as the reducing agent",
+            "Al is reduced",
+            "Fe is the reducing agent"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2017"
+          ]
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "Which of the following is a property of non-metals?",
+          "options": [
+            "They are electropositive",
+            "Their hydrides are generally unstable",
+            "They form acidic oxides",
+            "They are generally hard solids"
+          ],
+          "answer": "C",
+          "years": [
+            "October 2017"
+          ]
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "Which of the following is an alloy?",
+          "options": [
+            "Galvanised iron sheet",
+            "18-carat gold",
+            "Cinnabar ore",
+            "Silver nitrate"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2021"
+          ]
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "Which oxide of nitrogen is neutral?",
+          "options": [
+            "N₂O",
+            "N₂O₃",
+            "N₂O₄",
+            "NO₂"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2022"
+          ]
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "The correct decreasing order of reactivity is —",
+          "options": [
+            "Ca > Zn > Pb > Cu",
+            "Cu > Pb > Zn > Ca",
+            "Zn > Ca > Cu > Pb",
+            "Pb > Cu > Ca > Zn"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2022"
+          ]
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "An element forms an oxide whose solution turns methyl orange red. The element is —",
+          "options": [
+            "sulphur",
+            "sodium",
+            "calcium",
+            "magnesium"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2019"
+          ]
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "The only metal that is liquid at room temperature is —",
+          "options": [
+            "bromine",
+            "mercury",
+            "gallium",
+            "sodium"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "1.13",
+          "type": "mcq",
+          "q": "Coating iron with zinc is called —",
+          "options": [
+            "alloying",
+            "galvanisation",
+            "electroplating with tin",
+            "calcination"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "1.14",
+          "type": "mcq",
+          "q": "Heating a carbonate ore in a limited supply of air is called —",
+          "options": [
+            "roasting",
+            "calcination",
+            "smelting",
+            "refining"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "1.15",
+          "type": "mcq",
+          "q": "Which of these oxides is amphoteric?",
+          "options": [
+            "Na₂O",
+            "Al₂O₃",
+            "SO₂",
+            "CO₂"
+          ],
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark (fill in the blanks, match the columns, true/false or a short passage).",
+      "marks": "6 × 2 = 12",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "Write True (T) or False (F): (1) Al₂O₃ and CO₂ both show acidic as well as basic properties. (2) Metals are electropositive and non-metals are electronegative.",
+          "answer": "(1) False — Al₂O₃ is amphoteric but CO₂ is acidic only. (2) True",
+          "years": [
+            "October 2024",
+            "April 2025"
+          ]
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Write True (T) or False (F): (1) Roasting is heating sulphide ores strongly in the presence of oxygen. (2) Calcination converts carbonate ores into oxides.",
+          "answer": "(1) True (2) True",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "Fill in the blanks: The chemical formula of rust is ________, and stainless steel is an alloy of iron with ________ and nickel.",
+          "answer": "Fe₂O₃·xH₂O; chromium"
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Match: (1) Cinnabar (2) Thermite process — (a) ore of zinc (b) ore of mercury (c) welding of railway tracks (d) extraction of sodium",
+          "answer": "(1) – (b); (2) – (c)"
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "Fill in the blanks: A mineral from which a metal can be extracted profitably is called an ________; the only non-metal that is liquid at room temperature is ________.",
+          "answer": "ore; bromine"
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "Write True (T) or False (F): (1) Silver displaces copper from copper sulphate solution. (2) Sodium can be cut with a knife.",
+          "answer": "(1) False — silver is less reactive than copper. (2) True"
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Read the passage and answer the questions that follow.",
+      "marks": "5 × 1 = 5",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "mcq",
+          "q": "The reddish-brown substance is —",
+          "options": [
+            "Fe₃O₄",
+            "Fe₂O₃·xH₂O",
+            "FeCl₃",
+            "FeSO₄"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "3.2",
+          "type": "mcq",
+          "q": "The nail in tube B did not rust because —",
+          "options": [
+            "there was no water",
+            "there was no air (oxygen)",
+            "oil reacts with iron",
+            "the water was hot"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "3.3",
+          "type": "mcq",
+          "q": "Anhydrous calcium chloride in tube C —",
+          "options": [
+            "supplies oxygen",
+            "absorbs moisture",
+            "adds salt to speed rusting",
+            "coats the nail"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "3.4",
+          "type": "mcq",
+          "q": "Galvanisation means coating iron with —",
+          "options": [
+            "tin",
+            "zinc",
+            "chromium",
+            "paint"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "3.5",
+          "type": "mcq",
+          "q": "The experiment shows that rusting needs —",
+          "options": [
+            "only oxygen",
+            "only water",
+            "both oxygen and water",
+            "neither"
+          ],
+          "answer": "C"
+        }
+      ],
+      "fixed": true,
+      "passage": "Neha placed three clean iron nails in test tubes. Tube A had some tap water so that the nail was partly in water and partly in air. Tube B had boiled water covered by a layer of oil. Tube C was dry and contained anhydrous calcium chloride. After a week, only the nail in tube A was covered with a flaky reddish-brown substance. Her teacher said that the iron gate at home is painted, and buckets are made of galvanised iron, for the same reason."
+    },
+    {
+      "no": 4,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "6 × 2 = 12",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "State two properties of gold that make it suitable for making ornaments.",
+          "answer": "Gold is very malleable and ductile, so it can be shaped into fine designs, and it is lustrous and does not corrode or tarnish (unreactive).",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "What is galvanisation? Give one use.",
+          "answer": "Galvanisation is coating iron or steel with a thin layer of zinc to prevent rusting. Galvanised iron sheets are used for roofs, buckets, drums and trunks.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "What is rust? Write two conditions necessary for rusting.",
+          "answer": "Rust is hydrated ferric oxide (Fe₂O₃·xH₂O), the reddish-brown flaky coating formed on iron. Rusting needs (1) oxygen (air) and (2) moisture (water).",
+          "years": [
+            "April 2024"
+          ],
+          "or": {
+            "q": "Write balanced equations: (a) sodium burns in oxygen to give sodium oxide; (b) iron reacts with steam.",
+            "answer": "(a) 4Na + O₂ → 2Na₂O (b) 3Fe + 4H₂O → Fe₃O₄ + 4H₂"
+          }
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "Write two ways to prevent rusting.",
+          "answer": "Any two: painting; oiling or greasing; galvanisation (zinc coating); alloying (stainless steel).",
+          "years": [
+            "October 2024"
+          ],
+          "or": {
+            "q": "Name (a) a metal soft enough to cut with a knife and the hardest non-metal; (b) a metal and a non-metal that are liquid at room temperature.",
+            "answer": "(a) Sodium (or potassium); diamond (carbon). (b) Mercury; bromine."
+          }
+        },
+        {
+          "id": "4.5",
+          "type": "open",
+          "q": "What is the reactivity series? Arrange Cu, Fe, Na, Mg, Ag and Pb in decreasing order of reactivity.",
+          "answer": "The arrangement of metals in decreasing order of their reactivity is the reactivity (activity) series. Na > Mg > Fe > Pb > Cu > Ag.",
+          "years": [
+            "April 2017",
+            "October 2021"
+          ]
+        },
+        {
+          "id": "4.6",
+          "type": "open",
+          "q": "A copper wire is dipped in silver nitrate solution. What will you observe? Write the reaction.",
+          "answer": "A shiny grey-white deposit of silver forms on the wire and the solution turns blue, because copper is more reactive than silver. Cu + 2AgNO₃ → Cu(NO₃)₂ + 2Ag.",
+          "years": [
+            "April 2025"
+          ],
+          "or": {
+            "q": "Write the names and formulae of the oxides of nitrogen.",
+            "answer": "Nitrous oxide N₂O, nitric oxide NO, dinitrogen trioxide N₂O₃, nitrogen dioxide NO₂, dinitrogen tetroxide N₂O₄, dinitrogen pentoxide N₂O₅."
+          }
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "5 × 3 = 15",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "What is the nature of non-metal oxides? Write the equation for the reaction of SO₃ with water.",
+          "answer": "Most non-metal oxides are acidic — they dissolve in water to form acids and react with bases to form salts and water (CO, N₂O and NO are neutral). SO₃ + H₂O → H₂SO₄ (sulphuric acid).",
+          "years": [
+            "April 2026"
+          ],
+          "or": {
+            "q": "Name the ore of mercury and write the equations for the extraction of mercury from it.",
+            "answer": "Cinnabar (HgS). It is roasted: 2HgS + 3O₂ → 2HgO + 2SO₂; on further heating the oxide decomposes: 2HgO → 2Hg + O₂."
+          }
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "What is the thermite process? Name the metal used, write the balanced equation and give one use.",
+          "answer": "In the thermite process aluminium powder reduces a metal oxide such as iron(III) oxide; the reaction gives so much heat that the iron formed is molten. Fe₂O₃ + 2Al → 2Fe + Al₂O₃. It is used to weld railway tracks and broken machine parts.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "Zinc ores A and B give CO₂ and SO₂ respectively when heated. Identify A and B and write the steps, with equations, to obtain zinc from them.",
+          "answer": "A is zinc carbonate (calamine, ZnCO₃) and B is zinc sulphide (zinc blende, ZnS). Calcination of A: ZnCO₃ → ZnO + CO₂. Roasting of B: 2ZnS + 3O₂ → 2ZnO + 2SO₂. Reduction of the oxide with carbon: ZnO + C → Zn + CO.",
+          "years": [
+            "April 2023",
+            "October 2022"
+          ],
+          "note": "October 2022 also asked why metals are electropositive and non-metals electronegative — metals lose valence electrons to form positive ions; non-metals gain electrons to form negative ions."
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "Write four chemical properties of metals with equations.",
+          "answer": "(1) With oxygen they form basic oxides: 2Mg + O₂ → 2MgO. (2) With water they form hydroxides or oxides and hydrogen: 2Na + 2H₂O → 2NaOH + H₂. (3) With dilute acids they give hydrogen: Zn + H₂SO₄ → ZnSO₄ + H₂. (4) A more reactive metal displaces a less reactive one from its salt: Fe + CuSO₄ → FeSO₄ + Cu.",
+          "years": [
+            "October 2019"
+          ]
+        },
+        {
+          "id": "5.5",
+          "type": "open",
+          "q": "A silver coin is put in copper sulphate solution and a copper coin in silver nitrate solution. What happens in each case and why?",
+          "answer": "Silver coin in CuSO₄: no reaction, because silver is less reactive than copper. Copper coin in AgNO₃: silver deposits on the coin and the solution turns blue, because copper is more reactive than silver and displaces it: Cu + 2AgNO₃ → Cu(NO₃)₂ + 2Ag.",
+          "years": [
+            "October 2016"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 6,
+      "title": "Long answer questions. Answer in 80–120 words.",
+      "marks": "3 × 5 = 15",
+      "questions": [
+        {
+          "id": "6.1",
+          "type": "open",
+          "q": "Distinguish between metals and non-metals on the basis of five physical properties. Name a metal and a non-metal that are exceptions to any two of these.",
+          "answer": "Metals are malleable and ductile, non-metals brittle; metals have lustre, non-metals generally do not; metals are sonorous, non-metals not; metals are good conductors of heat and electricity, non-metals poor; metals are usually hard with high density, non-metals soft with low density. Exceptions: mercury is a liquid metal; sodium is a soft metal; graphite is a non-metal that conducts electricity; iodine and graphite are lustrous; diamond is a very hard non-metal."
+        },
+        {
+          "id": "6.2",
+          "type": "open",
+          "q": "What is corrosion? Describe an activity to show that both air and moisture are needed for rusting. Describe four methods of preventing rusting.",
+          "answer": "Corrosion is the slow destruction of a metal by the action of air and moisture; the rusting of iron forms Fe₂O₃·xH₂O. Activity: nail A in a test tube with some water (air and water), nail B in boiled water covered with oil (no air), nail C with anhydrous calcium chloride (no moisture); after a few days only nail A rusts. Prevention: (1) painting; (2) oiling and greasing; (3) galvanisation — coating with zinc; (4) alloying — stainless steel (iron with chromium and nickel)."
+        },
+        {
+          "id": "6.3",
+          "type": "open",
+          "q": "How are metals of low, medium and high reactivity extracted from their ores? Give one example with equations for each.",
+          "answer": "Low reactivity — heating alone: cinnabar 2HgS + 3O₂ → 2HgO + 2SO₂; 2HgO → 2Hg + O₂. Medium reactivity — the sulphide or carbonate ore is roasted or calcined to the oxide and reduced with carbon: 2ZnS + 3O₂ → 2ZnO + 2SO₂; ZnCO₃ → ZnO + CO₂; ZnO + C → Zn + CO (or by aluminium in the thermite process). High reactivity — electrolysis of the molten compound: molten NaCl gives sodium at the cathode (Na⁺ + e⁻ → Na) and chlorine at the anode (2Cl⁻ → Cl₂ + 2e⁻)."
+        }
+      ]
+    }
+  ]
+}

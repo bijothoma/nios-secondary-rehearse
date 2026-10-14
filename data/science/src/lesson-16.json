@@ -1,0 +1,79 @@
+{
+  "lesson": 16,
+  "title": "Electrical Energy",
+  "module": 4,
+  "summary": [
+    "## Static electricity",
+    "A comb run through dry hair or a pen rubbed on a sweater attracts bits of paper: rubbing gives bodies an electric charge (frictional or static electricity). Thales noticed it with amber ('electrum'), and William Gilbert studied it systematically. There are two kinds of charge: a glass rod rubbed with silk becomes positive and an ebonite rod rubbed with fur becomes negative (names given by Benjamin Franklin). Like charges repel and unlike charges attract. Rubbing does not create charge — electrons are transferred: the body that loses electrons becomes positive and the one that gains them becomes negative. Charge is conserved: in an isolated system the total charge stays constant. Metals held in the hand cannot be charged by rubbing because the charge flows through the body to the earth.",
+    "## Coulomb's law",
+    "The force between two point charges is directly proportional to the product of the charges and inversely proportional to the square of the distance between them: F = kq1q2/r², with k = 9 × 10⁹ N m² C⁻² in vacuum or air. The SI unit of charge is the coulomb (C); the charge of an electron is 1.6 × 10⁻¹⁹ C, so 1 C = 6.25 × 10¹⁸ electrons. Doubling both charges makes the force four times; doubling the distance makes it one-fourth.",
+    "## Potential and potential difference",
+    "Electrostatic potential at a point is the work done in bringing a unit positive charge from infinity to that point; potential difference between two points is the work done in moving a unit charge from one to the other: V = W/q. Its unit is the volt: 1 V = 1 J/C. Example: moving 3 C across 24 V needs 72 J. Positive charge flows from higher to lower potential until both are at the same potential. Potential difference is measured by a voltmeter connected in parallel.",
+    "## Electric current",
+    "Electric current is the rate of flow of charge: I = Q/t. Its SI unit is the ampere: 1 A = 1 C/s (1 mA = 10⁻³ A, 1 μA = 10⁻⁶ A); it is measured by an ammeter connected in series. In a metal, free electrons drift from the negative to the positive terminal when a cell maintains a potential difference; the conventional current is taken from + to −. A cell changes chemical energy into electrical energy; several cells form a battery, a source of direct current (DC). Conductors (silver, copper, aluminium) let current flow easily; insulators (rubber, glass, mica, bakelite) do not.",
+    "## Ohm's law and resistance",
+    "Ohm's law: the current through a conductor is directly proportional to the potential difference across its ends, provided its temperature and other physical conditions stay the same: V = IR. The V–I graph is a straight line. R is the resistance, whose unit is the ohm (Ω): 1 Ω = 1 V/1 A. Resistance increases with length, decreases with cross-sectional area (thickness), depends on the material (copper less than iron) and increases with temperature. Resistance in transmission wires wastes energy as heat, but it is useful in bulbs and heaters.",
+    "## Combination of resistors",
+    "In series (end to end), the same current flows through each resistor and the potential differences add: Rs = R1 + R2 + R3 — the total is more than the largest. In parallel (between the same two points), the potential difference is the same across each and the currents add: 1/Rp = 1/R1 + 1/R2 + 1/R3 — the total is less than the smallest. Examples: 2 Ω and 6 Ω give 8 Ω in series and 1.5 Ω in parallel; five 10 Ω resistors in parallel give 2 Ω; a 48 Ω wire cut into four equal parts joined in parallel gives 3 Ω. Household appliances are joined in parallel so each gets the full voltage, works independently and stays on if another fails; decorative bulb strings are in series, so one fused bulb puts all of them off.",
+    "## Heating effect of current",
+    "Work done in moving charge Q through V is W = VQ = VIt; with V = IR the heat produced is H = I²Rt (Joule's law of heating): heat is proportional to the square of the current, the resistance and the time. Equivalent forms: H = VIt = V²t/R. Example: a 5 Ω resistor on 10 V for 2 minutes produces (10²/5) × 120 = 2400 J. Appliances using this effect: electric iron, kettle, immersion rod, geyser, toaster, oven, room heater, bulb filament; also fuses, electric welding and electric arcs. A fuse (or circuit breaker/MCB) melts or trips when the current becomes too large, protecting the circuit.",
+    "## Electric power and energy",
+    "Electric power is the rate at which electric energy is used: P = VI = I²R = V²/R; its unit is the watt (1 W = 1 V × 1 A), with kW, MW and horse power (1 hp = 746 W). An appliance marked 220 V, 1 kW has resistance V²/P = 48.4 Ω. Electrical energy = power × time; its commercial unit is the kilowatt hour (kWh), the 'unit' on the electricity bill: 1 kWh = 3.6 × 10⁶ J. Example: a 60 W lamp used 4 hours a day for 30 days uses 7.2 kWh. Power is generated in hydroelectric, thermal and nuclear power plants as AC at 50 Hz and stepped up by transformers for transmission. An electric tester (with a neon bulb) shows whether a point is live."
+  ],
+  "mcq": [
+    ["Two point charges are both doubled while the distance between them stays the same. The electrostatic force becomes —", ["half", "double", "four times", "unchanged"], "C", ["April 2026"]],
+    ["In a series circuit, the current passing through each resistor is —", ["different for each resistor", "the same through all resistors", "zero", "dependent on the potential difference across each resistor"], "B", ["April 2026"]],
+    ["Three resistors are connected in parallel. Their combined resistance will be —", ["less than the smallest resistance", "between the smallest and the largest", "greater than the largest", "equal to the sum of all three"], "A", ["April 2025"]],
+    ["You are given resistors of 2 Ω and 6 Ω. Combining them you can obtain —", ["8 Ω and 6 Ω", "8 Ω and 1.5 Ω", "2 Ω and 8 Ω", "6 Ω and 2 Ω"], "B", ["October 2024"]],
+    ["What is the minimum resistance that can be made using five resistors of 10 Ω each?", ["1 Ω", "2 Ω", "5 Ω", "50 Ω"], "B", ["October 2019"]],
+    ["A uniform wire of 48 Ω is cut into four equal parts. The equivalent resistance of their parallel combination is —", ["3 Ω", "9 Ω", "20 Ω", "36 Ω"], "A", ["April 2021"]],
+    ["Which of the following terms does NOT represent electric power?", ["VI", "I²R", "IR²", "V²/R"], "C", ["April 2023"]],
+    ["During a power surge, which component is most likely to prevent damage to your devices?", ["Switch", "Electric meter", "Earth wire", "Fuse or circuit breaker"], "D", ["October 2025"]],
+    ["In a bridge, resistors of 2 Ω and 4 Ω form the upper arm and another 2 Ω and 4 Ω the lower arm, and a wire joins the junctions of the 2 Ω and 4 Ω resistors of the two arms. The equivalent resistance between the ends A and B is —", ["3 Ω", "4 Ω", "6 Ω", "12 Ω"], "A", ["October 2016"], {"note": "The two 2 Ω resistors are in parallel (1 Ω) and so are the two 4 Ω resistors (2 Ω); together in series they give 3 Ω."}],
+    ["The SI unit of electric charge is —", ["ampere", "volt", "coulomb", "ohm"], "C"],
+    ["J C⁻¹ is the unit of —", ["current", "charge", "resistance", "potential"], "D"],
+    ["The commercial unit of electrical energy is —", ["joule", "watt", "kilowatt hour", "volt"], "C"],
+    ["An ammeter is connected in a circuit —", ["in series", "in parallel", "either way", "across the battery only"], "A"],
+    ["Which of the following is an electrical insulator?", ["Mica", "Copper", "Tungsten", "Iron"], "A"],
+    ["If the current through a conductor is doubled, the heat produced in a given time becomes —", ["double", "half", "four times", "the same"], "C"],
+    ["1 kWh is equal to —", ["3.6 × 10⁶ J", "3.6 × 10³ J", "1000 J", "3600 J"], "A"]
+  ],
+  "objective": [
+    ["Fill in the blanks: Strictly speaking, Coulomb's law is applicable only for ________ charges kept separated by a ________.", "point; distance (in vacuum or air)", ["October 2025"]],
+    ["Fill in the blanks: One ampere equals one ________ per ________.", "coulomb; second"],
+    ["Write True (T) or False (F): (1) A voltmeter is connected in parallel across the part of the circuit. (2) Household appliances are connected in series.", "(1) True (2) False — they are connected in parallel."],
+    ["Match: (1) Ohm (2) Volt — (a) unit of current (b) unit of resistance (c) unit of potential difference (d) unit of power", "(1) Ohm – (b) unit of resistance; (2) Volt – (c) unit of potential difference"],
+    ["Fill in the blanks: When current is passed through a conductor its temperature ________; of two wires of the same material and thickness, the longer one has ________ resistance.", "increases; more"],
+    ["Write True (T) or False (F): (1) Like charges attract each other. (2) Rubbing does not create charge; it only transfers electrons.", "(1) False — like charges repel. (2) True"]
+  ],
+  "case": {
+    "passage": "A circuit is set up to study the relationship between the potential difference across a resistor and the current through it. A cell, a key, an ammeter, a rheostat and the resistor are connected one after another in a loop, and a voltmeter is connected across the resistor. As the rheostat is adjusted, the voltmeter and ammeter readings increase in the same proportion, and the graph of V against I is a straight line. Fuses and miniature circuit breakers (MCBs) are added to household circuits for safety.",
+    "items": [
+      ["In the circuit the voltmeter is connected —", ["in series", "in parallel", "in a mixed combination", "in no particular combination"], "B"],
+      ["Which set includes devices used in electric circuits for their safety?", ["Switch, tester and fuse", "Tester, fuse and MCB", "Switch, fuse and MCB", "MCB, switch and tester"], "B"],
+      ["The straight-line V–I graph shows that —", ["V is directly proportional to I", "V is inversely proportional to I", "R changes with current", "I does not depend on V"], "A"],
+      ["If the voltmeter reads 3 V when the ammeter reads 0.5 A, the resistance is —", ["1.5 Ω", "6 Ω", "3.5 Ω", "0.17 Ω"], "B"],
+      ["Ohm's law holds only if the conductor's —", ["temperature remains the same", "length keeps changing", "current is zero", "voltage is zero"], "A"]
+    ],
+    "years": ["April 2024"]
+  },
+  "vsa": [
+    ["Find the currents flowing in 2 Ω, 4 Ω and 6 Ω resistors connected in parallel across a 24 V battery.", "In parallel each resistor has 24 V across it. I = V/R: 2 Ω — 12 A; 4 Ω — 6 A; 6 Ω — 4 A (total 22 A).", ["October 2021"]],
+    ["State Ohm's law. Define the unit of resistance.", "The current through a conductor is directly proportional to the potential difference across its ends, provided its temperature and other physical conditions remain the same (V = IR). One ohm is the resistance of a conductor through which 1 A flows when a potential difference of 1 V is applied across it."],
+    ["How many electrons make one coulomb of charge?", "Charge on one electron = 1.6 × 10⁻¹⁹ C. Number of electrons = 1/(1.6 × 10⁻¹⁹) = 6.25 × 10¹⁸."],
+    ["State two advantages of connecting household appliances in parallel rather than in series.", "(1) Each appliance gets the full mains voltage and draws the current it needs. (2) Each can be switched on or off independently, and if one fails the others keep working; the total resistance is also lower."],
+    ["Calculate the work done in moving a charge of 3 C across two points having a potential difference of 24 V.", "W = qV = 3 C × 24 V = 72 J."],
+    ["How many units of electricity will a 60 W lamp use in 30 days if it is lit for 4 hours daily?", "Energy = P × t = 60 W × 4 h × 30 = 7200 Wh = 7.2 kWh, i.e. 7.2 units."]
+  ],
+  "sa": [
+    ["State Joule's law of heating. A 5 Ω resistor is connected to a 10 V battery for 2 minutes. Calculate the heat produced in joules.", "The heat produced in a conductor is directly proportional to the square of the current, the resistance and the time for which current flows: H = I²Rt. I = V/R = 10/5 = 2 A; t = 120 s. H = 2² × 5 × 120 = 2400 J.", ["October 2025"]],
+    ["(a) An electric iron is marked 220 V–50 Hz and 1 kW. Explain these markings. Can it be used on both AC and DC? (b) Calculate the resistance of its heating element.", "(a) 220 V is the voltage at which it is designed to work; 50 Hz is the frequency of the AC mains; 1 kW is the power it uses at 220 V. Yes, it works on DC too, because the heating effect (I²R) does not depend on the direction of the current. (b) R = V²/P = 220²/1000 = 48.4 Ω.", ["October 2022"]],
+    ["Derive the expression for the equivalent resistance of three resistors in series. What is the total resistance of 2 Ω, 3 Ω and 6 Ω in series?", "In series the same current I flows through each, and V = V1 + V2 + V3 = IR1 + IR2 + IR3. If Rs is the equivalent resistance, V = IRs, so Rs = R1 + R2 + R3. For 2, 3 and 6 Ω: Rs = 11 Ω."],
+    ["An electric iron of resistance 25 Ω takes a current of 5 A. Calculate the heat developed in 1 minute.", "H = I²Rt = 5² × 25 × 60 = 37 500 J = 3.75 × 10⁴ J."],
+    ["How much time will a 2 kW immersion rod take to raise the temperature of 1 litre of water from 30 °C to 60 °C? (Specific heat of water = 4.18 × 10³ J kg⁻¹ °C⁻¹)", "Heat needed = mcθ = 1 × 4180 × 30 = 125 400 J. Heat supplied = Pt = 2000 × t. So t = 125 400/2000 = 62.7 s."]
+  ],
+  "la": [
+    ["(a) Derive the relation for the equivalent resistance of three resistors connected in parallel. (b) Resistors of 10 Ω, 15 Ω and 30 Ω are connected in parallel to a 12 V battery. Calculate (i) the total resistance of the circuit and (ii) the current through the 10 Ω resistor.", "(a) In parallel each resistor has the same potential difference V, and the total current is the sum of the branch currents: I = I1 + I2 + I3 = V/R1 + V/R2 + V/R3. If Rp is the equivalent resistance, I = V/Rp, so 1/Rp = 1/R1 + 1/R2 + 1/R3. (b) (i) 1/Rp = 1/10 + 1/15 + 1/30 = (3 + 2 + 1)/30 = 6/30, so Rp = 5 Ω. (ii) The 10 Ω resistor has 12 V across it: I = 12/10 = 1.2 A.", ["April 2022"]],
+    ["(a) Derive an expression for the heat produced in a conductor when current flows through it. (b) What is electric power? Derive its expression in terms of I and R. (c) A torch bulb is marked 3.0 V, 500 mA. Calculate its power and resistance.", "(a) Moving charge Q through a potential difference V needs work W = VQ = VIt (Q = It). By Ohm's law V = IR, so W = I²Rt, which appears as heat: H = I²Rt. (b) Electric power is the rate of using electrical energy: P = W/t = VI = (IR)I = I²R (also V²/R); unit watt. (c) P = VI = 3.0 × 0.5 = 1.5 W; R = V/I = 3.0/0.5 = 6 Ω.", ["April 2017"]]
+  ]
+}

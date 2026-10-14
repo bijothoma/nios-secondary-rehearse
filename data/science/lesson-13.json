@@ -1,0 +1,517 @@
+{
+  "subject": "science",
+  "lesson": 13,
+  "title": "Work and Energy",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "15 × 1 = 15",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "Work done by a force is zero when —",
+          "options": [
+            "force is applied in the direction of motion",
+            "force is applied in the opposite direction to motion",
+            "force applied is perpendicular to the displacement",
+            "displacement is along the force"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "Work done by a force will be zero if, on applying the force on a body —",
+          "options": [
+            "it is displaced at 60° to the force",
+            "the body remains at rest",
+            "it is displaced in the direction of the force",
+            "it is displaced opposite to the force"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "Work done by a force will be maximum if —",
+          "options": [
+            "the body remains at rest",
+            "the body is displaced at 30° to the force",
+            "the body is displaced in the direction of the force",
+            "the body is displaced opposite to the force"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "A stone at the top of a hill has maximum potential energy. This energy is converted to kinetic energy when —",
+          "options": [
+            "the stone is at rest",
+            "the stone is falling",
+            "the stone is tied to a tree",
+            "the stone is placed on the ground"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "A body falls from a height of 100 m. After it has fallen 75 m, it will possess —",
+          "options": [
+            "only kinetic energy",
+            "only potential energy",
+            "more potential and less kinetic energy",
+            "more kinetic and less potential energy"
+          ],
+          "answer": "D",
+          "years": [
+            "October 2019"
+          ]
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "A body is falling from a height of 100 m. After it has fallen 25 m from the top, it will possess —",
+          "options": [
+            "only potential energy",
+            "half potential and half kinetic energy",
+            "more potential and less kinetic energy",
+            "more kinetic and less potential energy"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2022"
+          ]
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "The potential energy of a body of mass m at height h is mgh. When dropped from this height, its kinetic energy on hitting the ground will be —",
+          "options": [
+            "mgh",
+            "2mgh",
+            "zero",
+            "mgh − mv²"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2021"
+          ]
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "How is kinetic energy affected when mass increases but speed remains the same?",
+          "options": [
+            "Decreases",
+            "Remains the same",
+            "Increases",
+            "Becomes zero"
+          ],
+          "answer": "C",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "Rate of doing work is called —",
+          "options": [
+            "force",
+            "displacement",
+            "power",
+            "motion"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "Which of the following energy transformations is INCORRECT?",
+          "options": [
+            "Photosynthesis: solar energy → chemical energy of food",
+            "Electric bulb: electrical energy → light energy",
+            "Microphone: electrical energy → sound energy",
+            "Physical exercise: chemical energy of food → kinetic energy"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2024"
+          ],
+          "note": "A microphone changes sound energy into electrical energy; a loudspeaker does the reverse."
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "The SI unit of work is —",
+          "options": [
+            "watt",
+            "joule",
+            "newton",
+            "pascal"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "1 J of work is done when a force of 0.01 N moves a body through —",
+          "options": [
+            "0.01 m",
+            "1 m",
+            "10 m",
+            "100 m"
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "1.13",
+          "type": "mcq",
+          "q": "If the speed of a body is doubled, its kinetic energy becomes —",
+          "options": [
+            "double",
+            "half",
+            "four times",
+            "the same"
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "1.14",
+          "type": "mcq",
+          "q": "1 horse power is equal to —",
+          "options": [
+            "746 W",
+            "1000 W",
+            "100 W",
+            "476 W"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.15",
+          "type": "mcq",
+          "q": "In which of the following is work done?",
+          "options": [
+            "A person climbing a staircase",
+            "A satellite moving in a circular orbit (by gravity)",
+            "Two equal teams in a tug-of-war",
+            "A person standing with a load on his head"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark (fill in the blanks, match the columns, true/false or a short passage).",
+      "marks": "6 × 2 = 12",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "Match the devices (Column A) with the energy conversions (Column B): (1) Solar panel (2) Bicycle dynamo — (a) Mechanical → Electrical (b) Electrical → Light and Heat (c) Solar → Electrical (d) Chemical → Mechanical",
+          "answer": "(1) Solar panel – (c) Solar → Electrical; (2) Bicycle dynamo – (a) Mechanical → Electrical",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Match Column I with Column II: (1) Unit of power (2) Unit of work — (a) newton (b) watt (c) joule (d) pascal",
+          "answer": "(1) – (b) watt; (2) – (c) joule"
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "Fill in the blanks: The energy possessed by a body because of its position is called ________ energy, and the energy possessed because of its motion is called ________ energy.",
+          "answer": "potential; kinetic"
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Write True (T) or False (F): (1) A person carrying a load on his head and walking on a level road does no work against gravity. (2) Energy can be created by a machine.",
+          "answer": "(1) True (2) False — energy can only be changed from one form to another (law of conservation of energy)."
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "Fill in the blanks: A microphone converts sound energy into ________ energy, and an electric heater converts electrical energy into ________ energy.",
+          "answer": "electrical; heat"
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "Write True (T) or False (F): (1) Kinetic energy = ½mv². (2) If the height of a body is doubled, its potential energy becomes four times.",
+          "answer": "(1) True (2) False — it becomes double (Ep = mgh)."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Read the passage and answer the questions that follow.",
+      "marks": "5 × 1 = 5",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "mcq",
+          "q": "How much work is done on a 100 N stone that you carry horizontally across a 10 m road?",
+          "options": [
+            "1000 J",
+            "100 J",
+            "0",
+            "10 N m"
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "3.2",
+          "type": "mcq",
+          "q": "Work done in a system is a measure of —",
+          "options": [
+            "force",
+            "useful work",
+            "displacement",
+            "energy change"
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "3.3",
+          "type": "mcq",
+          "q": "How much work is done on a 100 N stone when you lift it by 1 m?",
+          "options": [
+            "1000 J",
+            "100 J",
+            "0",
+            "100 kg"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "3.4",
+          "type": "mcq",
+          "q": "A force of 80 N acts on a body of mass 4 kg, which moves 2 m in the direction of the force. The work done is —",
+          "options": [
+            "40 N m",
+            "20 N m",
+            "160 N m",
+            "320 N m"
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "3.5",
+          "type": "mcq",
+          "q": "In which of these situations is no work done by the person?",
+          "options": [
+            "Pushing a wall that does not move",
+            "Lifting a bucket from a well",
+            "Climbing stairs",
+            "Kicking a football"
+          ],
+          "answer": "A"
+        }
+      ],
+      "fixed": true,
+      "passage": "Work done by a force acting on an object is equal to the magnitude of the force multiplied by the distance moved in the direction of the force. Work has magnitude but no direction. If a force F = 1 N moves an object s = 1 m in the direction of the force, the work done is 1 N m (1 joule). (April 2025)"
+    },
+    {
+      "no": 4,
+      "title": "Read the passage and answer the questions that follow.",
+      "marks": "5 × 1 = 5",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "mcq",
+          "q": "How much work is done on a stone weighing 100 N that you carry horizontally across a 10 m road?",
+          "options": [
+            "1000 J",
+            "100 J",
+            "0",
+            "10 N m⁻¹"
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "4.2",
+          "type": "mcq",
+          "q": "How much potential energy does the stone have on the other side of the road, compared with the start?",
+          "options": [
+            "Same as it had initially",
+            "100 J more",
+            "1000 J more",
+            "Zero"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "4.3",
+          "type": "mcq",
+          "q": "How much work is done on a stone weighing 100 N when you lift it by 1 m?",
+          "options": [
+            "1000 J",
+            "100 J",
+            "0",
+            "100 kg m"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "4.4",
+          "type": "mcq",
+          "q": "What power is spent if you lift the 100 N stone through 1 m in 1 s?",
+          "options": [
+            "1000 J",
+            "100 J",
+            "100 J s",
+            "100 W"
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "4.5",
+          "type": "mcq",
+          "q": "What is the potential energy of the stone in the lifted position relative to its starting position?",
+          "options": [
+            "100 J",
+            "1000 J",
+            "0",
+            "100 J s⁻¹"
+          ],
+          "answer": "A"
+        }
+      ],
+      "fixed": true,
+      "passage": "Mechanical energy is the capacity of doing work that a body possesses by virtue of its position (potential energy) or its motion (kinetic energy). Mechanical energy can be either in the form of kinetic energy or potential energy or the sum of the two. (October 2024)"
+    },
+    {
+      "no": 5,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "6 × 2 = 12",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "Define kinetic energy of an object. The kinetic energy of an object of mass m moving with a velocity of 4 m/s is 16 J. Find its kinetic energy when the velocity is doubled.",
+          "answer": "Kinetic energy is the energy a body has because of its motion, Ek = ½mv². Since Ek ∝ v², doubling the velocity makes the kinetic energy four times: 4 × 16 = 64 J.",
+          "years": [
+            "April 2023"
+          ]
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "Define power. Give its SI unit and express 1.5 H.P. in watts.",
+          "answer": "Power is the rate of doing work: power = work done/time taken. SI unit: watt (W) = 1 J/s. 1.5 H.P. = 1.5 × 746 = 1119 W ≈ 1.12 kW."
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "State the law of conservation of energy with one example.",
+          "answer": "Energy can neither be created nor destroyed; it can only be changed from one form to another, so the total energy stays constant. Example: when a body falls, its potential energy decreases and its kinetic energy increases by the same amount."
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "A body of mass 100 kg is lifted up by 10 m. Find (a) the work done and (b) its potential energy at that height. (g = 10 m s⁻²)",
+          "answer": "(a) Work done = mgh = 100 × 10 × 10 = 10 000 J. (b) Potential energy = mgh = 10 000 J (the work done is stored as potential energy)."
+        },
+        {
+          "id": "5.5",
+          "type": "open",
+          "q": "Why are road accidents at high speeds much worse than those at low speeds?",
+          "answer": "Kinetic energy = ½mv² is proportional to the square of the speed. At twice the speed a vehicle has four times the kinetic energy, so much more energy is released in the collision and the damage is much greater."
+        },
+        {
+          "id": "5.6",
+          "type": "open",
+          "q": "Kamya climbs a staircase in 5 minutes and Suraiya, of equal weight, climbs the same staircase in 3 minutes. Who does more work, and who spends more power?",
+          "answer": "Both do equal work, since they have equal weight and climb the same height. Suraiya spends more power because she does the same work in less time."
+        }
+      ]
+    },
+    {
+      "no": 6,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "4 × 3 = 12",
+      "questions": [
+        {
+          "id": "6.1",
+          "type": "open",
+          "q": "Define work and energy. Give the relation between work, force and displacement. In which cases is the work done by a force positive, negative or zero?",
+          "answer": "Work is done when a force moves a body in the direction of the force; energy is the capacity to do work. W = F × s (s = displacement in the direction of the force). Work is positive when the force and displacement are in the same direction (lifting a load), negative when they are opposite (friction on a sliding body), and zero when they are perpendicular (a load carried along a level road) or when there is no displacement.",
+          "years": [
+            "April 2017"
+          ]
+        },
+        {
+          "id": "6.2",
+          "type": "open",
+          "q": "A ball of mass 0.5 kg has 100 J of kinetic energy. What is its velocity?",
+          "answer": "Ek = ½mv² ⇒ 100 = ½ × 0.5 × v² ⇒ v² = 400 ⇒ v = 20 m/s."
+        },
+        {
+          "id": "6.3",
+          "type": "open",
+          "q": "List the energy transformations taking place in a hydroelectric power plant.",
+          "answer": "Water stored high in the dam has potential energy; as it falls it gains kinetic energy; the falling water turns the turbine, giving kinetic (rotational) energy to the turbine shaft; the generator coil turning in a magnetic field changes this mechanical energy into electrical energy."
+        },
+        {
+          "id": "6.4",
+          "type": "open",
+          "q": "Give one example each of the following energy transformations: (i) light → chemical (ii) chemical → electrical (iii) mechanical → electrical (iv) heat → electrical (v) light → electrical (vi) electrical → sound.",
+          "answer": "(i) Photosynthesis in green plants. (ii) An electric cell. (iii) A generator or bicycle dynamo. (iv) A thermocouple (or a thermal power plant). (v) A solar cell. (vi) A loudspeaker."
+        }
+      ]
+    },
+    {
+      "no": 7,
+      "title": "Long answer questions. Answer in 80–120 words.",
+      "marks": "2 × 5 = 10",
+      "questions": [
+        {
+          "id": "7.1",
+          "type": "open",
+          "q": "Define work. State the relation between work, force and displacement. Prove that the increase in the kinetic energy of a body is equal to the work done by the force acting on it.",
+          "answer": "Work is done when a force moves a body through a distance in the direction of the force; W = F × s. Let a constant force F act on a body of mass m and change its velocity from u to v while it moves a distance s. Then F = ma and v² = u² + 2as, so as = (v² − u²)/2. Work done W = F × s = ma × s = m(v² − u²)/2 = ½mv² − ½mu², which is the final kinetic energy minus the initial kinetic energy. So the work done equals the increase in kinetic energy.",
+          "years": [
+            "April 2016"
+          ]
+        },
+        {
+          "id": "7.2",
+          "type": "open",
+          "q": "What is meant by potential energy and kinetic energy? On what factors does each depend? Show that a body dropped from a height h reaches the ground with kinetic energy equal to its initial potential energy.",
+          "answer": "Potential energy is energy due to position or shape, Ep = mgh — it depends on the mass (weight) of the body and its height. Kinetic energy is energy due to motion, Ek = ½mv² — it depends on mass and speed. A body dropped from height h starts with Ep = mgh and Ek = 0. It falls with acceleration g, so on reaching the ground v² = 2gh and Ek = ½m(2gh) = mgh. All the potential energy has become kinetic energy — an example of the law of conservation of energy."
+        }
+      ]
+    }
+  ]
+}

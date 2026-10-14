@@ -1,0 +1,583 @@
+{
+  "subject": "science",
+  "lesson": 901,
+  "title": "Model Question Paper 1",
+  "meta": "Time: 2½ hours · Maximum marks: 85 · Modelled on the April 2026 NIOS paper",
+  "instructions": [
+    "All questions are compulsory. Where a question has OR, answer either one.",
+    "Section A: questions 1–17 are MCQs (1 mark each); questions 18–27 have two parts of 1 mark each; question 28 is a passage with five 1-mark questions.",
+    "Section B: 2-mark answers in 30–50 words, 3-mark answers in 50–80 words, 5-mark answers in 80–120 words.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "17 × 1 = 17",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "Which of the following is NOT a base SI unit?",
+          "options": [
+            "kelvin",
+            "newton",
+            "ampere",
+            "candela"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2019"
+          ],
+          "note": "Lesson 1."
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "Neutrons are found in the —",
+          "options": [
+            "electron cloud surrounding the nucleus",
+            "nucleus of an atom",
+            "crystal lattice of a solid",
+            "radiations emitted by a radioactive material"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 5."
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "Sodium is less metallic than potassium because —",
+          "options": [
+            "the size of the sodium atom is less than that of potassium",
+            "the tendency to lose an electron is more in potassium than in sodium",
+            "metallic character decreases down a group",
+            "the tendency to gain an electron is more in potassium"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2021"
+          ],
+          "note": "Lesson 6."
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "The number of covalent bonds between the two atoms in a nitrogen molecule is —",
+          "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer": "C",
+          "note": "Lesson 7."
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "The pOH of a solution is 9.5. The solution is —",
+          "options": [
+            "acidic",
+            "basic",
+            "neutral",
+            "partly acidic and partly basic"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2024"
+          ],
+          "note": "Lesson 8."
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "Mass of a body is a measure of its —",
+          "options": [
+            "inertia",
+            "momentum",
+            "weight",
+            "acceleration"
+          ],
+          "answer": "A",
+          "note": "Lesson 10."
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "The value of the universal gravitational constant G is —",
+          "options": [
+            "9.8 N m² kg⁻²",
+            "6.67 × 10⁻¹¹ N m² kg⁻²",
+            "6.67 × 10¹¹ N m² kg⁻²",
+            "1.6 × 10⁻¹⁹ N m² kg⁻²"
+          ],
+          "answer": "B",
+          "note": "Lesson 11."
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "Rate of doing work is called —",
+          "options": [
+            "force",
+            "displacement",
+            "power",
+            "motion"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Lesson 13."
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "The unit of power of a lens is —",
+          "options": [
+            "watt",
+            "dioptre",
+            "metre",
+            "joule"
+          ],
+          "answer": "B",
+          "note": "Lesson 15."
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "J C⁻¹ is the unit of —",
+          "options": [
+            "current",
+            "charge",
+            "resistance",
+            "potential"
+          ],
+          "answer": "D",
+          "note": "Lesson 16."
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "A device used to change AC into DC is a —",
+          "options": [
+            "transformer",
+            "rectifier",
+            "generator",
+            "motor"
+          ],
+          "answer": "B",
+          "note": "Lesson 17."
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "In human beings, exchange of gases between the air and the blood takes place in the —",
+          "options": [
+            "larynx",
+            "bronchi",
+            "alveoli",
+            "trachea"
+          ],
+          "answer": "C",
+          "note": "Lesson 22."
+        },
+        {
+          "id": "1.13",
+          "type": "mcq",
+          "q": "Simple goitre is caused by deficiency of —",
+          "options": [
+            "iron",
+            "calcium",
+            "iodine",
+            "vitamin D"
+          ],
+          "answer": "C",
+          "note": "Lesson 23."
+        },
+        {
+          "id": "1.14",
+          "type": "mcq",
+          "q": "The first menstrual bleeding in a girl is called —",
+          "options": [
+            "menopause",
+            "menarche",
+            "ovulation",
+            "puberty"
+          ],
+          "answer": "B",
+          "note": "Lesson 24."
+        },
+        {
+          "id": "1.15",
+          "type": "mcq",
+          "q": "The safest blood group (gene combination) for transfusion to an accident victim whose blood group is unknown is —",
+          "options": [
+            "IᴬIᴮ (AB)",
+            "Iᴬi (A)",
+            "ii (O)",
+            "Iᴮi (B)"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2019",
+            "April 2021"
+          ],
+          "note": "Lesson 25."
+        },
+        {
+          "id": "1.16",
+          "type": "mcq",
+          "q": "Which of the following is NOT a property of metals?",
+          "options": [
+            "Malleability",
+            "Ductility",
+            "Non-sonorousness",
+            "Lustre"
+          ],
+          "answer": "C",
+          "years": [
+            "October 2021"
+          ],
+          "note": "Lesson 27."
+        },
+        {
+          "id": "1.17",
+          "type": "mcq",
+          "q": "Buckminsterfullerene is an allotrope of —",
+          "options": [
+            "carbon",
+            "sulphur",
+            "phosphorus",
+            "silicon"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2023"
+          ],
+          "note": "Lesson 28."
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark (fill in the blanks, match the columns, true/false or a short passage).",
+      "marks": "10 × 2 = 20",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "Write True (T) or False (F): (a) A double bond is formed when two similar atoms share two pairs of electrons between them. (b) Covalent compounds conduct electricity and are good conductors.",
+          "answer": "(a) True (b) False",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 7."
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Write True (T) or False (F): (a) Sulphurous acid is called the king of chemicals. (b) Bases react with non-metal oxides to form salt and water.",
+          "answer": "(a) False — sulphuric acid (H2SO4) is the king of chemicals. (b) True",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 8."
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "Fill in the blanks: Newton's first law of motion is also called the law of ________, and momentum is the product of mass and ________.",
+          "answer": "inertia; velocity",
+          "note": "Lesson 10."
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Write True (T) or False (F): (1) A buoyant force acts on a body kept in a vacuum. (2) The mass of a body does not change from place to place.",
+          "answer": "(1) False — there is no fluid to displace. (2) True",
+          "note": "Lesson 11."
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "Write True (T) or False (F): (1) Kinetic energy = ½mv². (2) If the height of a body is doubled, its potential energy becomes four times.",
+          "answer": "(1) True (2) False — it becomes double (Ep = mgh).",
+          "note": "Lesson 13."
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "Write True (T) or False (F): (1) The image formed by a plane mirror is real and inverted. (2) The image formed by a plane mirror is behind the mirror at a distance equal to the distance of the object from the mirror.",
+          "answer": "(1) False — it is virtual and erect. (2) True",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 15."
+        },
+        {
+          "id": "2.7",
+          "type": "open",
+          "q": "Fill in the blanks: One ampere equals one ________ per ________.",
+          "answer": "coulomb; second",
+          "note": "Lesson 16."
+        },
+        {
+          "id": "2.8",
+          "type": "open",
+          "q": "Write True (T) or False (F): (1) The poles of a magnet can be separated by breaking it. (2) Like poles of magnets repel each other.",
+          "answer": "(1) False — each piece has both poles. (2) True",
+          "note": "Lesson 17."
+        },
+        {
+          "id": "2.9",
+          "type": "open",
+          "q": "Fill in the blanks: The upward movement of water in plants is called ________ and it is mainly due to ________ pull.",
+          "answer": "ascent of sap; transpiration",
+          "note": "Lesson 22."
+        },
+        {
+          "id": "2.10",
+          "type": "open",
+          "q": "Write True (T) or False (F): (1) Reflex actions are controlled by the cerebrum. (2) Hormones are carried to their target organs by the blood.",
+          "answer": "(1) False — they are controlled by the spinal cord. (2) True",
+          "note": "Lesson 23."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Read the passage and answer the questions that follow.",
+      "marks": "5 × 1 = 5",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "mcq",
+          "q": "The radius of the Sun, 6.96 × 10⁸ m, written with a suitable prefix is —",
+          "options": [
+            "696 Mm",
+            "6.96 km",
+            "69.6 Gm",
+            "6960 Mm"
+          ],
+          "answer": "A",
+          "note": "Lesson 1."
+        },
+        {
+          "id": "3.2",
+          "type": "mcq",
+          "q": "10⁻¹² g is correctly written as —",
+          "options": [
+            "1 pg",
+            "1 mμg",
+            "1 p g",
+            "1 nng"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "3.3",
+          "type": "mcq",
+          "q": "Which of these is written correctly?",
+          "options": [
+            "10 mg",
+            "10 mgs",
+            "10mg",
+            "10 Mg."
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "3.4",
+          "type": "mcq",
+          "q": "1 km² is equal to —",
+          "options": [
+            "10³ m²",
+            "10⁶ m²",
+            "10⁹ m²",
+            "10² m²"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "3.5",
+          "type": "mcq",
+          "q": "The symbol 'ms' stands for —",
+          "options": [
+            "metre second",
+            "millisecond",
+            "megasecond",
+            "metre per second"
+          ],
+          "answer": "B"
+        }
+      ],
+      "fixed": true,
+      "passage": "When a quantity is too large or too small compared with the base unit, it is first written in scientific notation and then with an SI prefix. The prefix is chosen so that the number lies between 0.1 and 1000; for example, the radius of the Sun, 6.96 × 10⁸ m, is written 696 Mm. There must be no space between the prefix and the unit symbol, only one prefix may be used at a time, and a power applies to the whole prefixed unit. While writing values, the number and the unit are separated by a space and unit symbols are never made plural."
+    },
+    {
+      "no": 4,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "6 × 2 = 12",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "Why did Thomson conclude that all atoms contain electrons?",
+          "answer": "The cathode rays produced in the discharge tube had the same nature and the same charge-to-mass ratio whatever gas was filled in the tube and whatever metal the electrodes were made of. So the negatively charged particles (electrons) must be present in the atoms of all substances.",
+          "note": "Lesson 5."
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "Why do passengers standing in a moving bus feel a forward jerk when the driver applies the brakes suddenly?",
+          "answer": "When the bus stops, the feet of the passengers stop with it, but the upper part of the body continues to move forward because of inertia of motion. So they lurch forward.",
+          "years": [
+            "October 2016"
+          ],
+          "note": "Lesson 10."
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "Draw a ray diagram to show the formation of an enlarged, erect image of a tiny object by a concave mirror.",
+          "answer": "Place the object between the pole P and the focus F. A ray parallel to the axis reflects through F; a ray from the object towards the mirror along the line from C reflects back on itself. The reflected rays diverge; extended behind the mirror they meet, giving a virtual, erect, enlarged image behind the mirror.",
+          "years": [
+            "October 2016"
+          ],
+          "note": "Lesson 15."
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "Why are we advised to chew our food well?",
+          "answer": "Chewing breaks food into small pieces and mixes it with saliva, whose amylase starts digesting starch; the moist, small pieces are easy to swallow and give enzymes a larger surface to act on in the stomach and intestine.",
+          "note": "Lesson 22."
+        },
+        {
+          "id": "4.5",
+          "type": "open",
+          "q": "What is DNA fingerprinting? Give one use.",
+          "answer": "Identifying a person from the unique pattern of their DNA. It is used to identify criminals from hair or blood left at a crime scene, or to settle disputed parentage.",
+          "note": "Lesson 25."
+        },
+        {
+          "id": "4.6",
+          "type": "open",
+          "q": "Differentiate between emigration and immigration and state their effect on population size.",
+          "answer": "Emigration is permanent movement of individuals out of a population — it decreases the population. Immigration is permanent movement into a population — it increases it.",
+          "years": [
+            "October 2022"
+          ],
+          "note": "Lesson 29."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "7 × 3 = 21",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "(a) An electric iron is marked 220 V–50 Hz and 1 kW. Explain these markings. Can it be used on both AC and DC? (b) Calculate the resistance of its heating element.",
+          "answer": "(a) 220 V is the voltage at which it is designed to work; 50 Hz is the frequency of the AC mains; 1 kW is the power it uses at 220 V. Yes, it works on DC too, because the heating effect (I²R) does not depend on the direction of the current. (b) R = V²/P = 220²/1000 = 48.4 Ω.",
+          "years": [
+            "October 2022"
+          ],
+          "note": "Lesson 16."
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "What is electromagnetic induction? Describe an activity to show it.",
+          "answer": "Electromagnetic induction is the production of current in a coil when the magnetic field linked with it changes. Activity: connect a coil of insulated copper wire to a galvanometer. Move a bar magnet quickly into the coil — the needle deflects; pull it out — it deflects the other way; hold it still — no deflection. Moving it faster gives a larger deflection.",
+          "note": "Lesson 17."
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "What are enzymes? List three pancreatic enzymes and state their functions.",
+          "answer": "Enzymes are biological catalysts, mostly proteins, that speed up chemical reactions in the body without being used up. Pancreatic enzymes: trypsin — digests proteins (peptones to peptides); amylase — digests starch into maltose; lipase — digests fats into fatty acids and glycerol.",
+          "years": [
+            "October 2016"
+          ],
+          "note": "Lesson 22."
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "Draw an outline of the human body and show the position of the glands that secrete (i) testosterone (ii) insulin (iii) the hormone whose malfunction causes severely stunted physical and mental growth (iv) the hormone whose malfunction causes dwarfism.",
+          "answer": "(i) Testes — in the scrotum below the abdomen. (ii) Pancreas — in the abdomen below the stomach. (iii) Thyroid — in the neck (cretinism). (iv) Pituitary — at the base of the brain (growth hormone).",
+          "years": [
+            "April 2019"
+          ],
+          "note": "Lesson 23."
+        },
+        {
+          "id": "5.5",
+          "type": "open",
+          "q": "Define oviparous, viviparous and hermaphrodite animals with an example of each.",
+          "answer": "Oviparous animals lay eggs and the young develop outside the mother's body (hen, frog). Viviparous animals give birth to young that develop inside the mother's womb (human, cow). Hermaphrodites have both male and female sex organs in the same individual (earthworm, tapeworm).",
+          "years": [
+            "April 2026",
+            "April 2025"
+          ],
+          "or": {
+            "q": "Define adolescence, puberty and menarche.",
+            "answer": "Adolescence is the stage of life (about 10–19 years) when physical, physiological and psychological changes take place as a child grows into an adult. Puberty is the period when the body undergoes changes that make it capable of reproduction. Menarche is the first menstrual bleeding in a girl."
+          },
+          "note": "Lesson 24."
+        },
+        {
+          "id": "5.6",
+          "type": "open",
+          "q": "Name three genetic disorders. On which chromosome are the genes of colour-blindness and haemophilia found, and why are these disorders more common in boys?",
+          "answer": "Thalassemia, haemophilia, colour-blindness. The genes are on the X chromosome. A boy has only one X (from his mother) and a Y; if that X carries the defective gene there is no normal gene to mask it, so he shows the disorder. A girl has two X chromosomes, and the normal gene on one usually masks the defective one.",
+          "years": [
+            "April 2022",
+            "April 2016"
+          ],
+          "note": "Lesson 25."
+        },
+        {
+          "id": "5.7",
+          "type": "open",
+          "q": "Zinc ores A and B give CO₂ and SO₂ respectively when heated. Identify A and B and write the steps, with equations, to obtain zinc from them.",
+          "answer": "A is zinc carbonate (calamine, ZnCO₃) and B is zinc sulphide (zinc blende, ZnS). Calcination of A: ZnCO₃ → ZnO + CO₂. Roasting of B: 2ZnS + 3O₂ → 2ZnO + 2SO₂. Reduction of the oxide with carbon: ZnO + C → Zn + CO.",
+          "years": [
+            "April 2023",
+            "October 2022"
+          ],
+          "note": "October 2022 also asked why metals are electropositive and non-metals electronegative — metals lose valence electrons to form positive ions; non-metals gain electrons to form negative ions. Lesson 27."
+        }
+      ]
+    },
+    {
+      "no": 6,
+      "title": "Long answer questions. Answer in 80–120 words.",
+      "marks": "2 × 5 = 10",
+      "questions": [
+        {
+          "id": "6.1",
+          "type": "open",
+          "q": "Name the human male and female reproductive organs and state the function of each.",
+          "answer": "Male: testes — produce sperms and testosterone; vasa deferentia — carry sperms from the testes to the ejaculatory duct; ejaculatory duct — common passage of urine and sperms; penis — transfers sperms into the female body. Female: ovaries — produce ova and oestrogen and progesterone; fallopian tubes — carry ova to the uterus and are the site of fertilisation; uterus — the womb in which the embryo develops; cervix — the opening of the uterus; vagina — the passage to the outside.",
+          "note": "Lesson 24."
+        },
+        {
+          "id": "6.2",
+          "type": "open",
+          "q": "What are the two oxides of carbon? How is each formed? Give two uses of each and explain why carbon monoxide is poisonous.",
+          "answer": "Carbon monoxide forms when carbon burns in a limited supply of air (2C + O₂ → 2CO); carbon dioxide in excess air (C + O₂ → CO₂), on heating carbonates (CaCO₃ → CaO + CO₂) and in fermentation. CO uses: reducing agent in the blast furnace (Fe₂O₃ + 3CO → 2Fe + 3CO₂), fuel, making methanol. CO₂ uses: dry ice as a refrigerant, soft drinks, making washing and baking soda, fire extinguishers. CO is poisonous because it combines with haemoglobin and reduces the oxygen-carrying capacity of blood.",
+          "note": "Lesson 28."
+        }
+      ]
+    }
+  ]
+}

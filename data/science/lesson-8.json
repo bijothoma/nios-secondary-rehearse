@@ -1,0 +1,578 @@
+{
+  "subject": "science",
+  "lesson": 8,
+  "title": "Acids, Bases and Salts",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "17 × 1 = 17",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "Which base is present in whitewash?",
+          "options": [
+            "Sodium hydroxide (NaOH)",
+            "Calcium hydroxide (Ca(OH)2)",
+            "Potassium hydroxide (KOH)",
+            "Ammonium hydroxide (NH4OH)"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "Methyl orange turns yellow in —",
+          "options": [
+            "acidic solution",
+            "neutral solution",
+            "basic solution",
+            "both acidic and basic solutions"
+          ],
+          "answer": "C",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "A test tube contains a solution in which [H⁺] is greater than [OH⁻]. On adding a few drops of methyl orange, the colour will be —",
+          "options": [
+            "blue",
+            "orange",
+            "red",
+            "yellow"
+          ],
+          "answer": "C",
+          "years": [
+            "October 2016"
+          ]
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "Litmus is an indicator. In basic solutions it turns —",
+          "options": [
+            "blue",
+            "yellow",
+            "purple",
+            "red"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "If the pOH of a solution is 3, its pH is —",
+          "options": [
+            "3",
+            "7",
+            "11",
+            "17"
+          ],
+          "answer": "C",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "The pOH of a solution is 9.5. The solution is —",
+          "options": [
+            "acidic",
+            "basic",
+            "neutral",
+            "partly acidic and partly basic"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "What is the pH of a solution in which the concentration of hydrogen ions is 1.0 × 10⁻⁹ mol L⁻¹?",
+          "options": [
+            "9",
+            "−9",
+            "5",
+            "1"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "The general equation for the reaction of bases with non-metal oxides is —",
+          "options": [
+            "Base + non-metal oxide → salt + water",
+            "Base + non-metal oxide → salt + acid",
+            "Base + non-metal oxide → element + water",
+            "Base + non-metal oxide → salt + metal oxide"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "We brush our teeth daily with toothpaste. The nature of toothpaste is generally —",
+          "options": [
+            "acidic",
+            "alkaline",
+            "corrosive",
+            "neutral"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2022"
+          ]
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "To prevent tooth decay you are advised to brush your teeth regularly to prevent —",
+          "options": [
+            "bacteria eating tooth enamel",
+            "formation of salt in the mouth",
+            "formation of acid in the mouth",
+            "pH going above 5.5 in the mouth"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2021"
+          ]
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "First aid for a friend who has an acid burn in the laboratory is to —",
+          "options": [
+            "apply medicine on the area",
+            "wash the area with a strong alkaline solution",
+            "flush the area with a large amount of water",
+            "cover it with cotton and rush to hospital"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2019"
+          ]
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "Which of the following is NOT a strong acid?",
+          "options": [
+            "HCl",
+            "HBr",
+            "HI",
+            "HF"
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "1.13",
+          "type": "mcq",
+          "q": "Lemon juice contains —",
+          "options": [
+            "tartaric acid",
+            "ascorbic acid",
+            "acetic acid",
+            "lactic acid"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "1.14",
+          "type": "mcq",
+          "q": "Which of the following is NOT a raw material for manufacturing washing soda?",
+          "options": [
+            "Limestone",
+            "Ammonia",
+            "Slaked lime",
+            "Sodium chloride"
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "1.15",
+          "type": "mcq",
+          "q": "The chemical formula of plaster of Paris is —",
+          "options": [
+            "CaSO4·2H2O",
+            "CaSO4·½H2O",
+            "CaOCl2",
+            "Na2CO3·10H2O"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "1.16",
+          "type": "mcq",
+          "q": "The gas that burns with a 'pop' sound, formed when zinc reacts with dilute sulphuric acid, is —",
+          "options": [
+            "oxygen",
+            "hydrogen",
+            "carbon dioxide",
+            "sulphur dioxide"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "1.17",
+          "type": "mcq",
+          "q": "Bee sting causes pain because it injects —",
+          "options": [
+            "methanoic acid",
+            "acetic acid",
+            "citric acid",
+            "hydrochloric acid"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark (fill in the blanks, match the columns, true/false or a short passage).",
+      "marks": "7 × 2 = 14",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "Match the substances (Column A) with the acids they contain (Column B): (1) Vinegar (2) Lemon juice — (A) Acetic acid (B) Citric acid (C) Hydrochloric acid (D) Sulphuric acid",
+          "answer": "(1) Vinegar – (A) Acetic acid; (2) Lemon juice – (B) Citric acid",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Match the formula with the right option: (i) H2SO4 (ii) NaOH — (P) Base (Q) Aqua regia (R) King of chemicals (S) Neutral salt",
+          "answer": "(i) H2SO4 – (R) King of chemicals; (ii) NaOH – (P) Base",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "Write True (T) or False (F): (a) Sulphurous acid is called the king of chemicals. (b) Bases react with non-metal oxides to form salt and water.",
+          "answer": "(a) False — sulphuric acid (H2SO4) is the king of chemicals. (b) True",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Fill in the blanks: Bleaching powder is chemically ________, and it is manufactured from slaked lime and ________.",
+          "answer": "calcium oxychloride (CaOCl2); chlorine"
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "Write True (T) or False (F): (1) Aqueous solutions of all salts are neutral. (2) Carbon dioxide turns lime water milky because calcium carbonate is formed.",
+          "answer": "(1) False — e.g. Na2CO3 solution is basic and NH4Cl solution is acidic. (2) True"
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "Fill in the blanks: Chemically, baking soda is ________, and the process used to manufacture it is ________ process.",
+          "answer": "sodium hydrogen carbonate (NaHCO3); Solvay's"
+        },
+        {
+          "id": "2.7",
+          "type": "open",
+          "q": "Fill in the blanks: Rain water with pH below ________ is called acid rain, and the reaction between an acid and a base is called ________.",
+          "answer": "5.6; neutralisation"
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Read the passage and answer the questions that follow.",
+      "marks": "5 × 1 = 5",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "mcq",
+          "q": "The chemical formula of baking soda is —",
+          "options": [
+            "Na2CO3",
+            "NaHCO3",
+            "NaOH",
+            "CaCO3"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "3.2",
+          "type": "mcq",
+          "q": "The gas that makes a cake rise is —",
+          "options": [
+            "oxygen",
+            "hydrogen",
+            "carbon dioxide",
+            "nitrogen"
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "3.3",
+          "type": "mcq",
+          "q": "The acid present in baking powder is —",
+          "options": [
+            "tartaric acid",
+            "sulphuric acid",
+            "hydrochloric acid",
+            "nitric acid"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "3.4",
+          "type": "mcq",
+          "q": "The raw material that supplies carbon dioxide in Solvay's process is —",
+          "options": [
+            "limestone",
+            "brine",
+            "ammonia",
+            "gypsum"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "3.5",
+          "type": "mcq",
+          "q": "Washing soda is used —",
+          "options": [
+            "to remove permanent hardness of water",
+            "to make plaster casts",
+            "to bleach wood pulp",
+            "as an antacid"
+          ],
+          "answer": "A"
+        }
+      ],
+      "fixed": true,
+      "passage": "Baking soda (sodium hydrogen carbonate) is made by Solvay's process from brine, ammonia and carbon dioxide obtained by heating limestone. On heating it gives sodium carbonate, water and carbon dioxide. Baking powder is a mixture of baking soda and a mild edible acid such as tartaric acid; the carbon dioxide produced makes cakes soft and spongy, while the acid neutralises the sodium carbonate that would otherwise taste bitter. Sodium carbonate crystallised from water is washing soda, Na2CO3·10H2O."
+    },
+    {
+      "no": 4,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "8 × 2 = 16",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "What are indicators? Name one natural indicator and the source from which it is obtained.",
+          "answer": "Indicators are substances that show one colour in an acidic solution and a different colour in a basic solution, e.g. litmus, phenolphthalein, methyl orange. Litmus is a natural indicator obtained from lichens (turmeric is another).",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "Name the acids present in (i) vinegar and (ii) tamarind.",
+          "answer": "(i) Vinegar — acetic (ethanoic) acid. (ii) Tamarind — tartaric acid.",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "Write the names of two strong acids.",
+          "answer": "Hydrochloric acid (HCl) and sulphuric acid (H2SO4) (also nitric acid, HNO3).",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "Explain how a person can get rid of 'acidity', i.e. irritation and occasional pain in the stomach.",
+          "answer": "Acidity is caused by too much hydrochloric acid in the stomach (e.g. after spicy food). Taking an antacid — a mild base such as milk of magnesia (magnesium hydroxide) or baking soda — neutralises the extra acid and gives relief.",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "4.5",
+          "type": "open",
+          "q": "What happens when dilute H2SO4 reacts with zinc? Give the equation.",
+          "answer": "Zinc displaces hydrogen from the acid; bubbles of hydrogen gas are given off (they burn with a pop) and zinc sulphate is formed: Zn + H2SO4 → ZnSO4 + H2.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "4.6",
+          "type": "open",
+          "q": "Name the raw materials required for the manufacture of bleaching powder. Write its chemical formula and one use.",
+          "answer": "Raw materials: dry slaked lime, Ca(OH)2, and chlorine gas, Cl2. Formula: CaOCl2 (calcium oxychloride). Use: disinfecting drinking water (or bleaching cotton, wood pulp).",
+          "years": [
+            "April 2019"
+          ]
+        },
+        {
+          "id": "4.7",
+          "type": "open",
+          "q": "Differentiate between strong and weak acids with one example each.",
+          "answer": "A strong acid dissociates completely in water, giving many H⁺ ions, e.g. HCl, HNO3. A weak acid dissociates only partly, giving few H⁺ ions and remaining mostly as molecules, e.g. acetic acid, HF."
+        },
+        {
+          "id": "4.8",
+          "type": "open",
+          "q": "Why should water never be added to concentrated sulphuric acid?",
+          "answer": "Dissolving sulphuric acid in water is highly exothermic. If water is added to the acid, the heat makes the mixture spatter and the acid can cause serious burns. So the acid is added slowly to water with constant stirring."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "8 × 3 = 24",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "Why does a cake swell on adding baking powder to the dough? Write the chemical equation of the reaction involved.",
+          "answer": "Baking powder contains baking soda (NaHCO3) and tartaric acid. On heating (or with water), sodium hydrogen carbonate gives carbon dioxide gas, which forms bubbles in the dough and makes the cake rise and become soft and spongy: 2NaHCO3 → Na2CO3 + H2O + CO2 (with tartaric acid, NaHCO3 + H⁺ → Na⁺ + H2O + CO2). The tartaric acid also removes the bitter taste of sodium carbonate.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "(a) Write the molecular formula and chemical name of bleaching powder. (b) Name the two materials used in its manufacture. (c) Write the equation for its manufacture in the Hasenclever plant.",
+          "answer": "(a) CaOCl2, calcium oxychloride. (b) Dry slaked lime, Ca(OH)2, and chlorine gas, Cl2. (c) Ca(OH)2 + Cl2 → CaOCl2 + H2O.",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "Name the constituents of baking powder. Why is baking powder and not baking soda used in bakery?",
+          "answer": "Baking powder is a mixture of baking soda (sodium hydrogen carbonate) and a mild edible acid such as tartaric acid. Baking soda alone leaves sodium carbonate after heating, which gives a bitter taste; in baking powder the tartaric acid neutralises it, so the cake rises with CO2 and does not taste bitter.",
+          "years": [
+            "April 2024",
+            "April 2022"
+          ],
+          "note": "April 2024 offered this as an OR to an activity on indicators and neutralisation."
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "A chemical compound becomes hard on mixing with the proper quantity of water. Name the compound and write its formula. Write the equation for what happens when water is added, and two uses.",
+          "answer": "Plaster of Paris, CaSO4·½H2O (calcium sulphate hemihydrate). With water it sets into hard gypsum: CaSO4·½H2O + 1½H2O → CaSO4·2H2O. Uses: plaster casts for fractured bones; making toys, statues and smooth walls/ceilings.",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "5.5",
+          "type": "open",
+          "q": "What are strong and weak bases? Give one example of each. Explain with an example the reaction of bases with acids.",
+          "answer": "A strong base dissociates completely in water giving many OH⁻ ions, e.g. NaOH, KOH. A weak base gives few OH⁻ ions, e.g. NH4OH. Bases react with acids to form salt and water — neutralisation: NaOH + HCl → NaCl + H2O.",
+          "years": [
+            "April 2023"
+          ]
+        },
+        {
+          "id": "5.6",
+          "type": "open",
+          "q": "What is the chemical name and formula of baking soda? Name the raw materials for its manufacture. What is baking powder and why is it used in cakes?",
+          "answer": "Sodium hydrogen carbonate, NaHCO3. Raw materials (Solvay's process): limestone (CaCO3), brine (NaCl solution) and ammonia (NH3). Baking powder is baking soda mixed with tartaric acid; it gives CO2 that makes the cake fluffy, while the acid prevents the bitter taste of sodium carbonate.",
+          "years": [
+            "October 2022"
+          ]
+        },
+        {
+          "id": "5.7",
+          "type": "open",
+          "q": "How is plaster of Paris prepared? Write the equation. Name the raw material and write three uses.",
+          "answer": "Gypsum (CaSO4·2H2O), the raw material, is heated at about 100 °C (373 K): CaSO4·2H2O → CaSO4·½H2O + 1½H2O. The temperature must not exceed 100 °C, or 'dead burnt' plaster that does not set is formed. Uses: casts for broken bones, toys and statues, decorative designs on walls and ceilings (also chalk and fire-proof materials).",
+          "years": [
+            "October 2021",
+            "October 2019"
+          ]
+        },
+        {
+          "id": "5.8",
+          "type": "open",
+          "q": "Describe the pH scale. Give examples to show the importance of pH in everyday life.",
+          "answer": "pH = −log[H⁺]; the scale runs from 0 to 14 — 7 is neutral, below 7 acidic, above 7 basic; the farther from 7, the stronger. Importance: (1) our body works at pH 7.0–7.8; (2) acid rain (pH < 5.6) harms aquatic life; (3) excess stomach acid is neutralised by antacids; (4) acids made by mouth bacteria (pH < 5.5) cause tooth decay; (5) bee sting (methanoic acid) is treated with baking soda; (6) plants need soil of suitable pH.",
+          "years": [
+            "April 2016"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 6,
+      "title": "Long answer questions. Answer in 80–120 words.",
+      "marks": "3 × 5 = 15",
+      "questions": [
+        {
+          "id": "6.1",
+          "type": "open",
+          "q": "Answer the following about washing soda: (a) What is washing soda? Write its chemical formula. (b) How is washing soda prepared from baking soda? (c) Mention two important uses of washing soda.",
+          "answer": "(a) Washing soda is sodium carbonate decahydrate, Na2CO3·10H2O, used for washing clothes. (b) Baking soda is heated strongly (calcination) to give sodium carbonate: 2NaHCO3 → Na2CO3 + H2O + CO2; sodium carbonate is then dissolved and recrystallised from water: Na2CO3 + 10H2O → Na2CO3·10H2O. (c) Removing permanent hardness of water; manufacture of glass, soap, caustic soda and paper; as a household cleaning agent.",
+          "years": [
+            "April 2026",
+            "April 2025"
+          ],
+          "or": {
+            "q": "Answer the following about bleaching powder: (a) What is bleaching powder? Write its chemical formula. (b) How is it prepared? Give the equation. (c) Mention two uses.",
+            "answer": "(a) Bleaching powder is calcium oxychloride, CaOCl2, a white powder that removes colour. (b) In the Hasenclever plant dry slaked lime is fed from the top of iron cylinders while chlorine gas enters from below; they react to give bleaching powder: Ca(OH)2 + Cl2 → CaOCl2 + H2O. (c) Disinfecting drinking water; bleaching cotton, linen and wood pulp (also making wool unshrinkable and preparing chloroform)."
+          }
+        },
+        {
+          "id": "6.2",
+          "type": "open",
+          "q": "Differentiate between strong and weak bases. Give the action of bases on two common indicators. How do acids and bases react with metals? What is a neutralisation reaction? Give two examples.",
+          "answer": "Strong bases (NaOH, KOH) dissociate completely in water; weak bases (NH4OH) give few OH⁻ ions. Bases turn red litmus blue and phenolphthalein pink (methyl orange yellow). Acids react with active metals to give a salt and hydrogen (Zn + H2SO4 → ZnSO4 + H2); strong bases also give hydrogen with metals like zinc (Zn + 2NaOH → Na2ZnO2 + H2). Neutralisation is the reaction of an acid with a base to give salt and water: HCl + NaOH → NaCl + H2O; H2SO4 + 2KOH → K2SO4 + 2H2O.",
+          "years": [
+            "April 2017"
+          ]
+        },
+        {
+          "id": "6.3",
+          "type": "open",
+          "q": "Identify the substance used in baking powder and in soda-acid fire extinguishers. Write its formula. Name the process of its manufacture and the raw materials, and describe the process with equations.",
+          "answer": "Sodium hydrogen carbonate (baking soda), NaHCO3. It is made by Solvay's process from limestone (CaCO3), brine (NaCl) and ammonia (NH3). Limestone is heated to give CO2: CaCO3 → CaO + CO2. The CO2 is passed through cold brine saturated with ammonia: NaCl + CO2 + NH3 + H2O → NaHCO3 + NH4Cl. Sodium hydrogen carbonate, being only slightly soluble, crystallises out and is filtered; ammonia is recovered from NH4Cl using lime.",
+          "years": [
+            "October 2017"
+          ]
+        }
+      ]
+    }
+  ]
+}

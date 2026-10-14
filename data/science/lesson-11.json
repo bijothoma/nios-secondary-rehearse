@@ -1,0 +1,471 @@
+{
+  "subject": "science",
+  "lesson": 11,
+  "title": "Gravitation",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "14 × 1 = 14",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "The value of g on the Moon is about —",
+          "options": [
+            "9.8 m/s²",
+            "one-sixth of the value of g on Earth",
+            "double the value of g on Earth",
+            "zero"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "If the radius of the Earth were doubled while its mass remained the same, the weight of an object on its surface would —",
+          "options": [
+            "double",
+            "halve",
+            "become one-fourth of its initial value",
+            "remain the same"
+          ],
+          "answer": "C",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "What is the weight of an object of mass 20 kg? (g = 9.8 m s⁻²)",
+          "options": [
+            "196 kg",
+            "19.6 kg",
+            "196 N",
+            "19.6 N"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "What is the mass of an object whose weight is 78.4 N? (g = 9.8 m s⁻²)",
+          "options": [
+            "8.0 N",
+            "0.8 kg",
+            "8.0 kg",
+            "0.8 N"
+          ],
+          "answer": "C",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "The SI unit of g is —",
+          "options": [
+            "N",
+            "m s⁻²",
+            "m s⁻¹",
+            "kg m s⁻²"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "A mango falls from a tree. If Fe is the force exerted by the earth on the mango and Fm the force exerted by the mango on the earth, then —",
+          "options": [
+            "Fe is very much greater than Fm",
+            "Fm is very much greater than Fe",
+            "Fe is only a little greater than Fm",
+            "Fe and Fm are equal"
+          ],
+          "answer": "D",
+          "years": [
+            "April 2022"
+          ]
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "An apple falls freely from a tree. The speed–time graph of its motion is —",
+          "options": [
+            "a horizontal straight line",
+            "a straight line rising from the origin",
+            "a straight line falling to zero",
+            "a curve rising more and more steeply"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2019",
+            "October 2016"
+          ],
+          "note": "October 2016 asked for the velocity–time graph of a body falling under gravity."
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "The value of the universal gravitational constant G is —",
+          "options": [
+            "9.8 N m² kg⁻²",
+            "6.67 × 10⁻¹¹ N m² kg⁻²",
+            "6.67 × 10¹¹ N m² kg⁻²",
+            "1.6 × 10⁻¹⁹ N m² kg⁻²"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "If the distance between two bodies is doubled, the gravitational force between them becomes —",
+          "options": [
+            "double",
+            "half",
+            "one-fourth",
+            "four times"
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "A body falling freely under gravity is —",
+          "options": [
+            "heavier",
+            "weightless",
+            "massless",
+            "at rest"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "The mass of a body on the moon compared with its mass on the earth is —",
+          "options": [
+            "one-sixth",
+            "six times",
+            "the same",
+            "zero"
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "Lactometers, which test the purity of milk, are based on —",
+          "options": [
+            "Newton's law of gravitation",
+            "Archimedes' principle",
+            "Newton's third law",
+            "law of conservation of momentum"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "1.13",
+          "type": "mcq",
+          "q": "A body weighs 3.5 N in air and 2 N in water. The buoyant force on it is —",
+          "options": [
+            "5.5 N",
+            "1.5 N",
+            "2 N",
+            "3.5 N"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "1.14",
+          "type": "mcq",
+          "q": "The buoyant force on a body in a liquid depends on —",
+          "options": [
+            "the density of the liquid and the volume of the body immersed",
+            "the mass of the body only",
+            "the colour of the liquid",
+            "the depth of the container only"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark (fill in the blanks, match the columns, true/false or a short passage).",
+      "marks": "6 × 2 = 12",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "Read the passage and answer: 'Archimedes' principle states that when an object is fully or partially immersed in a fluid, it experiences an upward buoyant force equal to the weight of the fluid displaced. Whether it sinks or floats depends on how its weight compares with the buoyant force.' (1) A stone sinks in water. Which statement explains this? (a) The stone displaces water weighing less than itself (b) The buoyant force is greater than its weight (c) Water pushes it up strongly (d) It weighs the same as the displaced water. (2) A wooden block floats on water. What does this tell you about the buoyant force on it? (a) less than its weight (b) equal to its weight (c) greater than its weight (d) no relation",
+          "answer": "(1) (a) — the water it displaces weighs less than the stone. (2) (b) — the buoyant force equals the weight of the block.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Read the passage on Newton's law of gravitation (F = G m1m2/r², where G is the universal gravitational constant) and answer: (1) How does the force change if the distance between two bodies is doubled? (2) Write the value of G in SI units.",
+          "answer": "(1) It becomes one-fourth (F ∝ 1/r²). (2) G = 6.67 × 10⁻¹¹ N m² kg⁻².",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "Fill in the blanks: The weight of an object is the product of its mass and ________, and it is measured with a ________ balance.",
+          "answer": "acceleration due to gravity (g); spring"
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Write True (T) or False (F): (1) A heavier stone falls faster than a lighter stone when air resistance is negligible. (2) The value of g is more at the poles than at the equator.",
+          "answer": "(1) False — both fall with the same acceleration g. (2) True"
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "Write True (T) or False (F): (1) A buoyant force acts on a body kept in a vacuum. (2) The mass of a body does not change from place to place.",
+          "answer": "(1) False — there is no fluid to displace. (2) True"
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "Match: (1) Mass (2) Weight — (a) measured with a spring balance, in newtons (b) measured in m s⁻² (c) measured with a pan balance, in kilograms (d) always zero",
+          "answer": "(1) Mass – (c); (2) Weight – (a)"
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Read the passage and answer the questions that follow.",
+      "marks": "5 × 1 = 5",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "mcq",
+          "q": "A stone is dropped from rest. Its speed after 2 s (g = 9.8 m s⁻²) is —",
+          "options": [
+            "4.9 m/s",
+            "9.8 m/s",
+            "19.6 m/s",
+            "39.2 m/s"
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "3.2",
+          "type": "mcq",
+          "q": "A ball thrown up at 49 m/s reaches its highest point after (g = 9.8 m s⁻²) —",
+          "options": [
+            "4.9 s",
+            "5 s",
+            "10 s",
+            "49 s"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "3.3",
+          "type": "mcq",
+          "q": "g does not depend on —",
+          "options": [
+            "the mass of the falling body",
+            "the mass of the earth",
+            "the radius of the earth",
+            "the distance from the centre of the earth"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "3.4",
+          "type": "mcq",
+          "q": "An astronaut has a mass of 60 kg on earth. On the moon her mass is —",
+          "options": [
+            "10 kg",
+            "60 kg",
+            "360 kg",
+            "zero"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "3.5",
+          "type": "mcq",
+          "q": "The weight of a body at the poles compared with that at the equator is —",
+          "options": [
+            "slightly more",
+            "slightly less",
+            "the same",
+            "zero"
+          ],
+          "answer": "A"
+        }
+      ],
+      "fixed": true,
+      "passage": "Every particle in the universe attracts every other particle. The earth's attraction gives every falling body the same acceleration, g, which near the earth's surface is about 9.8 m s⁻² and is given by g = GM/R², where M is the mass and R the radius of the earth. Because g is constant near the surface, the equations of uniformly accelerated motion can be used for falling bodies with a replaced by g. The weight of a body, W = mg, therefore depends on where the body is, while its mass does not."
+    },
+    {
+      "no": 4,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "6 × 2 = 12",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "State Newton's law of gravitation. How does the force of gravitation between two objects change when the distance between them is reduced to half?",
+          "answer": "Every particle in the universe attracts every other particle with a force directly proportional to the product of their masses and inversely proportional to the square of the distance between them (F = Gm1m2/r²). If the distance is halved, the force becomes 1/(½)² = 4 times.",
+          "years": [
+            "April 2016"
+          ]
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "Mass of an object is constant at all places but its weight varies from place to place. Explain.",
+          "answer": "Mass is the quantity of matter in a body, which does not change with place. Weight is the force of gravity on it, W = mg; since g varies from place to place (more at the poles, less at the equator, about one-sixth on the moon), the weight also varies.",
+          "years": [
+            "October 2017"
+          ]
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "State Archimedes' principle. Write two applications.",
+          "answer": "When a body is immersed fully or partly in a fluid, it experiences an upward force equal to the weight of the fluid displaced by it. Applications: designing ships and submarines; hydrometers and lactometers.",
+          "years": [
+            "April 2017"
+          ]
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "What is meant by buoyant force? State the factors on which the buoyant force acting on a body at a given place depends.",
+          "answer": "The upward force exerted by a fluid on a body immersed in it is the buoyant force (upthrust). It depends on (1) the density of the fluid and (2) the volume of the body immersed in the fluid.",
+          "years": [
+            "April 2023",
+            "October 2019"
+          ]
+        },
+        {
+          "id": "4.5",
+          "type": "open",
+          "q": "State Archimedes' principle. What is the condition for a body to float in a liquid?",
+          "answer": "A body immersed fully or partly in a fluid experiences an upward force equal to the weight of the fluid it displaces. A body floats when the weight of the liquid it displaces (the buoyant force) equals its own weight, i.e. its density is less than that of the liquid.",
+          "years": [
+            "April 2021"
+          ]
+        },
+        {
+          "id": "4.6",
+          "type": "open",
+          "q": "Why does a paratrooper use a parachute to descend slowly after jumping from a height?",
+          "answer": "Without a parachute he would fall freely with acceleration g and hit the ground at a dangerous speed. The large parachute meets a large air resistance (and upthrust of air), which balances most of his weight, so he comes down slowly and safely.",
+          "years": [
+            "October 2022"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "5 × 3 = 15",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "Calculate the value of the acceleration due to gravity, g, on the earth. (Mass of the earth = 6 × 10²⁴ kg, radius = 6.4 × 10⁶ m, G = 6.67 × 10⁻¹¹ N m² kg⁻²)",
+          "answer": "g = GM/R² = (6.67 × 10⁻¹¹ × 6 × 10²⁴)/(6.4 × 10⁶)² = (4.0 × 10¹⁴)/(4.1 × 10¹³) ≈ 9.8 m s⁻².",
+          "years": [
+            "April 2024"
+          ],
+          "or": {
+            "q": "An object falls from a height and reaches the ground in 0.5 s (g = 10 m s⁻²). (a) With what speed does it strike the ground? (b) What is its average speed during the 0.5 s? (c) From what height was it dropped?",
+            "answer": "(a) v = u + gt = 0 + 10 × 0.5 = 5 m/s. (b) Average speed = (0 + 5)/2 = 2.5 m/s. (c) h = ½gt² = ½ × 10 × 0.25 = 1.25 m."
+          }
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "What is the magnitude of the gravitational force between the earth and a 1 kg object on its surface? (Mass of the earth = 6 × 10²⁴ kg, radius = 6.4 × 10⁶ m)",
+          "answer": "F = GMm/R² = (6.67 × 10⁻¹¹ × 6 × 10²⁴ × 1)/(6.4 × 10⁶)² ≈ 9.8 N — which is the weight of the 1 kg object.",
+          "years": [
+            "October 2024",
+            "April 2025"
+          ],
+          "note": "April 2025 asked the same for a 5 kg object: F ≈ 49 N."
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "A stone is dropped from the top of a 40 m high tower. Calculate its speed after 2 s. Also find the speed with which it strikes the ground. (g = 9.8 m s⁻²)",
+          "answer": "After 2 s: v = u + gt = 0 + 9.8 × 2 = 19.6 m/s. On striking the ground: v² = u² + 2gh = 2 × 9.8 × 40 = 784, so v = 28 m/s.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "(a) State Archimedes' principle and two applications. (b) Explain why a paratrooper opens the parachute immediately after jumping from a flying aeroplane.",
+          "answer": "(a) A body immersed fully or partly in a fluid experiences an upthrust equal to the weight of the fluid displaced. Applications: ships and submarines; hydrometers and lactometers. (b) The open parachute meets a large air resistance, which reduces his acceleration so that he falls slowly and lands safely instead of hitting the ground at high speed.",
+          "years": [
+            "April 2019"
+          ]
+        },
+        {
+          "id": "5.5",
+          "type": "open",
+          "q": "(a) Two metal spheres, each of mass 200 g, have radii 4 cm and 10 cm. How will the ratio of their weights differ when weighed in water and in vacuum? (b) A cricket ball thrown vertically upward at 49 m/s is caught at the point of throw. Find the total time taken.",
+          "answer": "(a) In vacuum both weigh the same (ratio 1 : 1). In water the larger sphere displaces much more water, so it has a larger buoyant force and appears lighter; the smaller sphere appears heavier, so the ratio is no longer 1 : 1. (b) Time to rise: t = u/g = 49/9.8 = 5 s; it takes the same time to fall, so total time = 10 s.",
+          "years": [
+            "October 2016"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 6,
+      "title": "Long answer questions. Answer in 80–120 words.",
+      "marks": "2 × 5 = 10",
+      "questions": [
+        {
+          "id": "6.1",
+          "type": "open",
+          "q": "(a) State Archimedes' principle. (b) What are the two factors on which the buoyant force acting on a body depends? (c) Does the buoyant force act on a body kept in a vacuum? (d) A body weighs 5.0 N in air and 2.5 N when immersed in water. Find the buoyant force.",
+          "answer": "(a) When a body is immersed wholly or partly in a fluid, it experiences an upward force equal to the weight of the fluid displaced by it. (b) The density of the fluid and the volume of the body immersed in it. (c) No — there is no fluid to be displaced, so there is no upthrust. (d) Buoyant force = loss in weight = 5.0 − 2.5 = 2.5 N.",
+          "years": [
+            "October 2021"
+          ]
+        },
+        {
+          "id": "6.2",
+          "type": "open",
+          "q": "State Newton's law of gravitation. Derive an expression for the acceleration due to gravity on the earth's surface. Why do a heavy and a light object dropped together reach the ground at the same time?",
+          "answer": "Every particle attracts every other with a force F = Gm1m2/r². For a body of mass m on the earth's surface, the force of gravity is mg and also GMm/R², so mg = GMm/R², giving g = GM/R², where M and R are the earth's mass and radius. This expression does not contain m, so every body, heavy or light, falls with the same acceleration g (≈ 9.8 m s⁻²); they reach the ground together if air resistance is negligible (a coin and a feather fall together in a vacuum)."
+        }
+      ]
+    }
+  ]
+}

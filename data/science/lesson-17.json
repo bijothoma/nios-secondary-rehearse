@@ -1,0 +1,434 @@
+{
+  "subject": "science",
+  "lesson": 17,
+  "title": "Magnetic Effect of Electric Current",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "14 × 1 = 14",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "Full form of MRI is —",
+          "options": [
+            "Magnetic resonance imaging",
+            "Machine research impact",
+            "Machine resonance imaging",
+            "Magnetic resonance impact"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2021"
+          ]
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "The work of an electric generator is to change —",
+          "options": [
+            "chemical energy into electrical energy",
+            "mechanical energy into electrical energy",
+            "electrical energy into mechanical energy",
+            "electrical energy into chemical energy"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "Which appliance works on the principle of electromagnetic induction?",
+          "options": [
+            "Electric kettle",
+            "Electric bell",
+            "Electric lamp",
+            "Electric generator"
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "An electric fuse should have —",
+          "options": [
+            "high resistance and low melting point",
+            "low resistance and high melting point",
+            "high resistance and high melting point",
+            "low resistance and low melting point"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "The device that converts high voltage to low voltage is a —",
+          "options": [
+            "step-up transformer",
+            "step-down transformer",
+            "rectifier",
+            "amplifier"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "According to Fleming's left-hand rule, the force on a current-carrying conductor is —",
+          "options": [
+            "parallel to both field and current",
+            "perpendicular to both field and current",
+            "parallel to the field but perpendicular to the current",
+            "perpendicular to the field but parallel to the current"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "Which wire protects us from shocks due to leakage of current in an appliance?",
+          "options": [
+            "Live (phase) wire",
+            "Neutral wire",
+            "Earth wire",
+            "None of these"
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "Who first observed that an electric current produces a magnetic field?",
+          "options": [
+            "Faraday",
+            "Oersted",
+            "Fleming",
+            "Ohm"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "A soft iron core is put inside a solenoid to make an electromagnet because it —",
+          "options": [
+            "increases the strength of the magnetic field",
+            "reduces the current",
+            "makes the magnet permanent",
+            "stops the current"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "Magnetic lines of force outside a bar magnet —",
+          "options": [
+            "go from south pole to north pole",
+            "go from north pole to south pole",
+            "intersect near the poles",
+            "are far apart near the poles"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "The frequency of AC supply in India is —",
+          "options": [
+            "50 Hz",
+            "60 Hz",
+            "100 Hz",
+            "220 Hz"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "A device used to change AC into DC is a —",
+          "options": [
+            "transformer",
+            "rectifier",
+            "generator",
+            "motor"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "1.13",
+          "type": "mcq",
+          "q": "In a DC generator, the current in the external circuit flows in one direction because of the —",
+          "options": [
+            "slip rings",
+            "split-ring commutator",
+            "brushes only",
+            "strong magnet"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "1.14",
+          "type": "mcq",
+          "q": "The colour of insulation of the earth wire is usually —",
+          "options": [
+            "red",
+            "black",
+            "green",
+            "blue"
+          ],
+          "answer": "C"
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark (fill in the blanks, match the columns, true/false or a short passage).",
+      "marks": "6 × 2 = 12",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "Fill in the blanks: The production of an electric current by a changing magnetic field is called ________, and it was discovered by ________.",
+          "answer": "electromagnetic induction; Michael Faraday"
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Match the device with its principle: (1) Electric motor (2) Electric generator — (a) heating effect of current (b) force on a current-carrying conductor in a magnetic field (c) electromagnetic induction (d) chemical effect",
+          "answer": "(1) Electric motor – (b); (2) Electric generator – (c)"
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "Write True (T) or False (F): (1) The poles of a magnet can be separated by breaking it. (2) Like poles of magnets repel each other.",
+          "answer": "(1) False — each piece has both poles. (2) True"
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Write True (T) or False (F): (1) The poles of an electromagnet can be reversed by reversing the current. (2) Transformers work with DC.",
+          "answer": "(1) True (2) False — transformers work only with AC."
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "Fill in the blanks: Household appliances are connected in ________, and a fuse is connected in ________ with the live wire.",
+          "answer": "parallel; series"
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "Match: (1) Short circuit (2) Overloading — (a) too many appliances on one circuit (b) live and neutral wires touch (c) leakage through worn insulation (d) low voltage",
+          "answer": "(1) Short circuit – (b); (2) Overloading – (a)"
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Read the passage and answer the questions that follow.",
+      "marks": "5 × 1 = 5",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "mcq",
+          "q": "Why does the generator with slip rings give an alternating current?",
+          "options": [
+            "The coil is stationary",
+            "The induced current reverses periodically as the coil rotates, and slip rings pass it on unchanged",
+            "Slip rings keep the current in one direction",
+            "A battery inside reverses the current"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "3.2",
+          "type": "mcq",
+          "q": "A commutator in a DC generator —",
+          "options": [
+            "allows the coil to rotate",
+            "reverses the current periodically",
+            "maintains the current in a single direction in the outer circuit",
+            "measures the current"
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "3.3",
+          "type": "mcq",
+          "q": "Which generator is more suitable for charging a battery?",
+          "options": [
+            "AC generator",
+            "DC generator",
+            "Either AC or DC",
+            "None of these"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "3.4",
+          "type": "mcq",
+          "q": "The frequency of reversal of current in the AC generator depends on the —",
+          "options": [
+            "number of turns in the coil",
+            "rotation speed of the coil",
+            "resistance of the coil",
+            "type of commutator used"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "3.5",
+          "type": "mcq",
+          "q": "Why are AC generators preferred in power plants?",
+          "options": [
+            "AC voltage cannot be stepped up or down",
+            "AC voltage can easily be increased or decreased using transformers",
+            "AC never changes direction",
+            "AC generators are always smaller"
+          ],
+          "answer": "B"
+        }
+      ],
+      "fixed": true,
+      "passage": "During a physics lab, students used two types of generators. One had a rotating coil connected to slip rings; the other had a rotating coil connected to a commutator. With an ammeter they noticed that the current in the first generator reversed again and again, and that how often it reversed depended on the rotation speed of the coil. The instructor explained that the first is an AC (alternating current) generator and the second a DC (direct current) generator. (April 2026)"
+    },
+    {
+      "no": 4,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "6 × 2 = 12",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "What is a solenoid? Draw the magnetic field pattern of a current-carrying solenoid.",
+          "answer": "A solenoid is a long cylindrical coil of many turns of insulated wire. When current flows, its field is like that of a bar magnet: inside, the lines are straight, parallel and close together (a strong, uniform field); outside, they curve from one end (N) to the other (S).",
+          "years": [
+            "April 2024"
+          ],
+          "or": {
+            "q": "What is an electric generator? Name its two types.",
+            "answer": "A device that changes mechanical energy into electrical energy by electromagnetic induction. Types: AC generator and DC generator."
+          }
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "Write two differences between a bar magnet and an electromagnet.",
+          "answer": "(1) A bar magnet is permanent; an electromagnet is magnetic only while current flows. (2) A bar magnet's strength and poles are fixed; an electromagnet's strength can be changed by changing the current and its poles reversed by reversing the current (it can also be made much stronger)."
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "What is the function of the earth wire? Why should electrical appliances be earthed?",
+          "answer": "The earth wire connects the metal body of an appliance to the earth. If current leaks to the body, it flows through this low-resistance path into the ground instead of through a person touching it, preventing a dangerous shock."
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "State Fleming's left-hand rule.",
+          "answer": "Stretch the thumb, forefinger and middle finger of the left hand so that they are mutually perpendicular. If the forefinger points in the direction of the magnetic field and the middle finger in the direction of the current, the thumb points in the direction of the force (motion) on the conductor."
+        },
+        {
+          "id": "4.5",
+          "type": "open",
+          "q": "Name three causes of accidents due to electricity.",
+          "answer": "Leakage of current through damaged insulation, short circuit (live and neutral wires touching) and overloading of a circuit."
+        },
+        {
+          "id": "4.6",
+          "type": "open",
+          "q": "Two coils A and B are placed close to each other. If the current in coil A is changed, will a current be induced in coil B? Give reason.",
+          "answer": "Yes. Changing the current in A changes its magnetic field, so the field linked with coil B changes; this induces a current in B (electromagnetic induction)."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "5 × 3 = 15",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "Why is alternating current (AC) used more widely than direct current (DC) for industrial and domestic purposes? Give two reasons. Represent AC and DC graphically.",
+          "answer": "(1) AC voltage can be stepped up or down with transformers, so it can be transmitted over long distances at high voltage and low current with little loss. (2) AC machines (motors, generators) are simpler and more robust. Graphs: DC — a horizontal straight line (constant current against time); AC — a wave going above and below the time axis (current rising, falling and reversing regularly).",
+          "years": [
+            "October 2016"
+          ]
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "(a) Explain why AC is preferred to DC for transmission from a power plant to local distribution centres. (b) Name two processes that can take place with DC only.",
+          "answer": "(a) AC can be stepped up to a very high voltage by transformers, which lowers the current and therefore the heating loss in transmission lines; at the other end it is stepped down for use. DC cannot be transformed, so its losses would be large. (b) Electroplating/electrolysis and charging of batteries (also making electromagnets).",
+          "years": [
+            "October 2021"
+          ]
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "What is electromagnetic induction? Describe an activity to show it.",
+          "answer": "Electromagnetic induction is the production of current in a coil when the magnetic field linked with it changes. Activity: connect a coil of insulated copper wire to a galvanometer. Move a bar magnet quickly into the coil — the needle deflects; pull it out — it deflects the other way; hold it still — no deflection. Moving it faster gives a larger deflection."
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "How does an electric bell work?",
+          "answer": "It has a U-shaped electromagnet, a soft-iron armature with a hammer, a gong and a contact screw. Pressing the switch completes the circuit; the electromagnet attracts the armature and the hammer strikes the gong. The armature then leaves the contact screw, breaking the circuit, so the electromagnet loses its magnetism and a spring pulls the armature back, completing the circuit again. This repeats rapidly, and the bell rings while the switch is pressed."
+        },
+        {
+          "id": "5.5",
+          "type": "open",
+          "q": "(a) What does the direction of the thumb indicate in the right-hand thumb rule? How is this rule different from Fleming's left-hand rule? (b) Draw a labelled circuit diagram of a DC generator.",
+          "answer": "(a) Holding a straight current-carrying wire in the right hand, the thumb points in the direction of the current and the curled fingers give the direction of the magnetic field around it. Fleming's left-hand rule instead gives the direction of the force on a conductor placed in an external magnetic field (thumb = force, forefinger = field, middle finger = current). (b) A rectangular coil rotating between the N and S poles of a magnet, its ends joined to the two halves of a split-ring commutator, with two carbon brushes touching the halves and connected to an external circuit with a galvanometer/bulb.",
+          "years": [
+            "October 2024"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 6,
+      "title": "Long answer questions. Answer in 80–120 words.",
+      "marks": "3 × 5 = 15",
+      "questions": [
+        {
+          "id": "6.1",
+          "type": "open",
+          "q": "What is meant by electromagnetic induction? Describe an activity to show that a current is set up in a closed coil when the magnetic field passing through it changes. State the factors on which the induced current depends, and name two devices based on this principle.",
+          "answer": "Electromagnetic induction is the production of an electric current in a conductor when the magnetic field linked with it changes. Activity: wind many turns of insulated copper wire on a cardboard tube and join the ends to a galvanometer. Push a strong bar magnet into the coil — the galvanometer deflects; hold it still — no deflection; pull it out — it deflects the other way. Moving the magnet faster gives more deflection. The induced current depends on the rate of change of the magnetic field (speed of motion), the strength of the magnet and the number of turns in the coil. Devices: electric generator (dynamo) and transformer.",
+          "years": [
+            "October 2019"
+          ]
+        },
+        {
+          "id": "6.2",
+          "type": "open",
+          "q": "Explain the principle of an AC generator and draw a labelled diagram. On what factors does the current generated depend? What is meant by 220 V, 50 Hz AC?",
+          "answer": "Principle: electromagnetic induction — when a coil rotates in a magnetic field, the magnetic field through it changes continuously and a current is induced. Diagram: a rectangular coil ABCD on an axle between the N and S poles of a strong magnet, its ends joined to two slip rings with brushes connected to an external circuit. As the coil rotates, the induced current increases, decreases and reverses every half turn, so alternating current flows. The current depends on the number of turns, the strength of the magnetic field, the speed of rotation (and the area of the coil). 220 V, 50 Hz means the supply has a voltage of 220 V and completes 50 cycles each second (changing direction 100 times).",
+          "years": [
+            "April 2021",
+            "April 2019"
+          ]
+        },
+        {
+          "id": "6.3",
+          "type": "open",
+          "q": "(a) State the principle of a generator and draw a labelled diagram of a DC generator. (b) What changes should be made to increase the current it produces? (c) Why do we mention the frequency of AC but not of DC?",
+          "answer": "(a) Principle: electromagnetic induction. A DC generator has a rectangular coil rotating between the poles of a magnet; its ends are joined to the two halves of a split-ring commutator with brushes, which reverse the connections every half turn so the current in the external circuit always flows in one direction. (b) Use more turns in the coil, a stronger magnet, rotate the coil faster (and use a larger coil). (c) AC changes direction periodically, so it has a frequency (cycles per second, 50 Hz in India). DC flows steadily in one direction and does not reverse, so it has no frequency.",
+          "years": [
+            "October 2022"
+          ]
+        }
+      ]
+    }
+  ]
+}

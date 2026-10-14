@@ -1,0 +1,177 @@
+{
+  "subject": "science",
+  "lesson": 27,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 27: Metals and Non-metals — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Physical properties"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Metals are malleable (beaten into sheets) and ductile (drawn into wires), have metallic lustre, are generally hard, are sonorous (ring when struck), have high density and are good conductors of heat and electricity; they are solids except mercury, a liquid. Non-metals are neither malleable nor ductile (brittle), have no lustre, are softer, non-sonorous, of low density and poor conductors; they may be solid (carbon, sulphur), liquid (bromine, the only liquid non-metal) or gas."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Exceptions: sodium and potassium are soft enough to cut with a knife; gallium melts on the palm; gold and silver are the most malleable and ductile metals; graphite and iodine have lustre; graphite is the only non-metal that conducts electricity; diamond, the hardest natural substance, conducts heat better than copper but not electricity. Gold, silver, platinum and copper occur free (native) in nature because they are unreactive. Gold is used for ornaments because it is lustrous, very malleable and ductile, and does not corrode."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Metals are electropositive, non-metals electronegative"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Metals have 1, 2 or 3 valence electrons and lose them to form positive ions (cations) with a noble-gas configuration — Na (2,8,1) → Na⁺ (2,8); they are discharged at the cathode in electrolysis. Non-metals have 5, 6 or 7 valence electrons and gain electrons to form negative ions — Cl (2,8,7) + e⁻ → Cl⁻ (2,8,8)."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Chemical properties of metals"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "With oxygen metals form oxides: 4Na + O₂ → 2Na₂O; 2Mg + O₂ → 2MgO; 4Al + 3O₂ → 2Al₂O₃. Metal oxides are basic (Na₂O + H₂O → 2NaOH; CaO + H₂O → Ca(OH)₂), but Al₂O₃, ZnO, SnO and Fe₂O₃ are amphoteric — they react with both acids and bases (Al₂O₃ + 6HCl → 2AlCl₃ + 3H₂O; Al₂O₃ + 2NaOH → 2NaAlO₂ + H₂O)."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "With dilute acids metals give hydrogen: Mg + 2HCl → MgCl₂ + H₂; Zn + H₂SO₄ → ZnSO₄ + H₂. With water: sodium and potassium react with cold water (2Na + 2H₂O → 2NaOH + H₂), magnesium with hot water, aluminium and iron only with steam, forming oxides (3Fe + 4H₂O → Fe₃O₄ + 4H₂). With bases: zinc and tin form zincate and stannate (Zn + 2NaOH → Na₂ZnO₂ + H₂)."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Corrosion and its prevention"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Corrosion is the slow destruction of a metal surface by air and moisture; for iron it is called rusting. Rust is hydrated ferric oxide, Fe₂O₃·xH₂O, a flaky reddish-brown powder: 4Fe + 3O₂ + xH₂O → 2Fe₂O₃·xH₂O. Rusting needs both oxygen and moisture (a nail in boiled water under oil, or with anhydrous calcium chloride, does not rust). A green layer on old copper is basic copper carbonate. Prevention: painting; oiling and greasing; galvanisation (coating iron with zinc — galvanised sheets for roofs, buckets and drums, protected even when scratched because zinc corrodes first); alloying — iron with nickel and chromium gives stainless steel. Pure gold (24 carat) is too soft, so ornaments use 22-carat gold, an alloy."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Reactivity series"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "A more reactive metal displaces a less reactive metal from its salt solution: Fe + CuSO₄ → FeSO₄ + Cu; Cu + 2AgNO₃ → Cu(NO₃)₂ + 2Ag (silver deposits on the copper and the solution turns blue); Ag + CuSO₄ → no reaction. Arranging metals in decreasing order of reactivity gives the activity (reactivity) series: K > Na > Ca > Mg > Al > Zn > Fe > Pb > [H] > Cu > Hg > Ag > Au."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Minerals, ores and metallurgy"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Minerals are natural substances in the earth's crust that contain metals; an ore is a mineral from which a metal can be extracted profitably — every ore is a mineral but not every mineral is an ore. Metallurgy is the extraction of metals from ores: concentration of the ore, conversion to oxide, reduction to the metal, and refining. Low-reactivity metals: mercury from cinnabar (HgS) by heating alone — 2HgS + 3O₂ → 2HgO + 2SO₂; 2HgO → 2Hg + O₂. Medium-reactivity metals (zinc, iron, lead) occur as sulphides or carbonates, converted to oxides by roasting (heating sulphide ores in air: 2ZnS + 3O₂ → 2ZnO + 2SO₂) or calcination (heating carbonate ores in limited air: ZnCO₃ → ZnO + CO₂), then reduced with carbon (ZnO + C → Zn + CO). Thermite process: Fe₂O₃ + 2Al → 2Fe + Al₂O₃ — the heat gives molten iron for welding railway tracks; here Al is oxidised and acts as the reducing agent. Highly reactive metals (Na, K, Mg, Al) are obtained by electrolysis of their molten compounds (Na⁺ + e⁻ → Na at the cathode; Cl₂ at the anode)."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Non-metals and their oxides"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Non-metals burn in oxygen to form oxides: S + O₂ → SO₂; C + O₂ → CO₂. Most non-metal oxides are acidic and dissolve in water to form acids — CO₂ + H₂O → H₂CO₃; SO₃ + H₂O → H₂SO₄; N₂O₅ + H₂O → 2HNO₃ — and react with bases (CO₂ + 2NaOH → Na₂CO₃ + H₂O). Some are neutral — CO, N₂O (laughing gas), NO, H₂O. The oxides of nitrogen are N₂O and NO (neutral) and N₂O₃, NO₂, N₂O₄ and N₂O₅ (acidic). Halogens react with metals to form halides such as NaCl."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Uses"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Metals: copper and aluminium for wires (ductile); iron, aluminium and stainless steel for utensils, machines and sheets; zinc, lead, mercury and lithium for cells; gold, silver and platinum for jewellery. Non-metals: hydrogen to make ammonia (for urea) and in fuels (water gas CO + H₂); silicon for chips and solar cells; phosphorus for phosphoric acid, fertilisers and matches; sulphur as a fungicide, in gunpowder and to make sulphuric acid, the 'king of chemicals'."
+        ]
+      ]
+    }
+  ]
+}

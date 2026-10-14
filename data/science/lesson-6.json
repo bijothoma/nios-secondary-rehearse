@@ -1,0 +1,497 @@
+{
+  "subject": "science",
+  "lesson": 6,
+  "title": "Periodic Classification of Elements",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "15 × 1 = 15",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "The Law of Octaves proposed by John Newlands states that —",
+          "options": [
+            "every eighth element has properties similar to the first when elements are arranged by increasing atomic mass",
+            "properties of elements repeat after every 7 elements when arranged by increasing atomic number",
+            "elements are arranged in groups and periods based on valency",
+            "only metals show periodicity"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "Mendeleev left gaps in his periodic table —",
+          "options": [
+            "for unknown elements yet to be discovered",
+            "to make separate groups of metals and non-metals",
+            "to maintain the order of atomic weights",
+            "to group isotopes"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "Which of the following atoms has the largest atomic radius?",
+          "options": [
+            "C",
+            "N",
+            "O",
+            "F"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "Sodium is less metallic than potassium because —",
+          "options": [
+            "the size of the sodium atom is less than that of potassium",
+            "the tendency to lose an electron is more in potassium than in sodium",
+            "metallic character decreases down a group",
+            "the tendency to gain an electron is more in potassium"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2021"
+          ]
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "Which one of the following was the earliest attempt to classify elements?",
+          "options": [
+            "Metals and non-metals",
+            "Newlands' law of octaves",
+            "Döbereiner's triads",
+            "Mendeleev's periodic table"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "According to Mendeleev's periodic law, the properties of elements are a periodic function of their —",
+          "options": [
+            "atomic volume",
+            "atomic size",
+            "atomic number",
+            "atomic mass"
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "The modern periodic law is based on —",
+          "options": [
+            "atomic mass",
+            "atomic number",
+            "number of neutrons",
+            "density"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "The number of groups in the modern periodic table is —",
+          "options": [
+            "8",
+            "16",
+            "18",
+            "7"
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "Which one of the following does NOT belong to the family of alkali metals?",
+          "options": [
+            "Li",
+            "Na",
+            "Be",
+            "K"
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "The element with atomic number 9 resembles the element with atomic number —",
+          "options": [
+            "17",
+            "10",
+            "11",
+            "8"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "In which period is an element with atomic number 20 placed?",
+          "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "Eka-silicon predicted by Mendeleev was later discovered as —",
+          "options": [
+            "gallium",
+            "germanium",
+            "scandium",
+            "silicon"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "1.13",
+          "type": "mcq",
+          "q": "Which pair of elements is an anomalous pair in Mendeleev's table?",
+          "options": [
+            "Cobalt and nickel",
+            "Sodium and potassium",
+            "Chlorine and bromine",
+            "Carbon and silicon"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.14",
+          "type": "mcq",
+          "q": "Elements of group 18 are called —",
+          "options": [
+            "halogens",
+            "noble gases",
+            "alkali metals",
+            "transition elements"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "1.15",
+          "type": "mcq",
+          "q": "Which of these is a metalloid?",
+          "options": [
+            "Silicon",
+            "Sodium",
+            "Sulphur",
+            "Chlorine"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark (fill in the blanks, match the columns, true/false or a short passage).",
+      "marks": "6 × 2 = 12",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "Match the variation in metallic character (Column I) with the correct option (Column II): (a) in a period (from left to right) (b) in a group (from top to bottom) — (P) decreases (Q) increases (R) remains same (S) variation is uncertain",
+          "answer": "(a) – (P) decreases; (b) – (Q) increases",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Match the element with its nature: (a) Carbon (b) Silicon — (P) Metalloid (Q) Alloy (R) Metal (S) Non-metal",
+          "answer": "(a) Carbon – (S) Non-metal; (b) Silicon – (P) Metalloid",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "Write True (T) or False (F): (i) Henry Moseley discovered that atomic mass and not atomic number is the most fundamental property of elements. (ii) F, Cl, Br, I and At are non-metallic elements called halogens.",
+          "answer": "(i) False — he showed that atomic number is the fundamental property. (ii) True",
+          "years": [
+            "April 2024"
+          ],
+          "note": "April 2024 also had: 'Metallic character increases in a period from left to right' — False."
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Fill in the blanks: Atomic size ________ in a period from left to right and ________ in a group from top to bottom.",
+          "answer": "decreases; increases"
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "Write True (T) or False (F): (1) The vertical columns in the periodic table are called periods. (2) Each period of the modern periodic table begins with the filling of a new shell.",
+          "answer": "(1) False — they are called groups. (2) True"
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "Fill in the blanks: The second and third periods are called ________ periods, and the inner transition elements of period 7 are called ________.",
+          "answer": "short; actinoids"
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Read the passage and answer the questions that follow.",
+      "marks": "5 × 1 = 5",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "mcq",
+          "q": "In the triad Li (7), Na, K (39), the atomic mass of Na expected from Döbereiner's law is about —",
+          "options": [
+            "23",
+            "32",
+            "16",
+            "46"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "3.2",
+          "type": "mcq",
+          "q": "Newlands' law of octaves failed because —",
+          "options": [
+            "it worked only up to calcium",
+            "it used atomic number",
+            "it had 18 groups",
+            "it left gaps"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "3.3",
+          "type": "mcq",
+          "q": "Mendeleev predicted eka-aluminium, which was later discovered as —",
+          "options": [
+            "gallium",
+            "germanium",
+            "scandium",
+            "aluminium"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "3.4",
+          "type": "mcq",
+          "q": "Placing cobalt (27) before nickel (28) is no longer an anomaly because the modern table is based on —",
+          "options": [
+            "atomic number",
+            "atomic mass",
+            "density",
+            "valency"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "3.5",
+          "type": "mcq",
+          "q": "The modern periodic table has —",
+          "options": [
+            "18 groups and 7 periods",
+            "8 groups and 6 periods",
+            "18 groups and 8 periods",
+            "7 groups and 18 periods"
+          ],
+          "answer": "A"
+        }
+      ],
+      "fixed": true,
+      "passage": "Döbereiner grouped similar elements in threes and found that the atomic mass of the middle element was close to the average of the other two. Newlands arranged elements by increasing atomic mass and noticed that every eighth element resembled the first. Mendeleev arranged all 63 known elements by atomic mass, left gaps for undiscovered elements and predicted their properties. Later Moseley showed that atomic number is more fundamental, and the modern periodic table with 18 groups and 7 periods is based on it."
+    },
+    {
+      "no": 4,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "6 × 2 = 12",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "Döbereiner arranged elements in triads. In one triad the atomic masses of lithium and potassium are 7 and 39. Identify the third element and explain how it supports the law of triads.",
+          "answer": "The third element is sodium (atomic mass 23). The average of 7 and 39 is (7 + 39)/2 = 23, which equals the atomic mass of sodium, the middle element; its properties are also in between those of lithium and potassium.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "Mention any two limitations of Mendeleev's periodic table.",
+          "answer": "(1) Isotopes, which have different atomic masses, were not given separate places. (2) In some anomalous pairs a heavier element was placed before a lighter one, e.g. cobalt before nickel and argon before potassium. (Also: uncertain position of hydrogen; dissimilar elements grouped together.)",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "How do the following vary down a group: (a) the number of filled shells (b) the number of valence electrons (c) the force of attraction between the nucleus and the outermost electrons?",
+          "answer": "(a) The number of filled shells increases by one in each step down the group. (b) The number of valence electrons stays the same. (c) The force of attraction decreases, because the outer electrons are farther from the nucleus.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "How does (a) the force of attraction between the nucleus and valence electrons and (b) the atomic radius change in a period from left to right?",
+          "answer": "(a) The nuclear charge increases while electrons are added to the same shell, so the force of attraction on the valence electrons increases. (b) Because the electrons are pulled closer, the atomic radius decreases from left to right.",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "4.5",
+          "type": "open",
+          "q": "State the modern periodic law.",
+          "answer": "The physical and chemical properties of elements are a periodic function of their atomic numbers — when elements are arranged in increasing order of atomic number, elements with similar properties recur at regular intervals."
+        },
+        {
+          "id": "4.6",
+          "type": "open",
+          "q": "Why do all elements of group 1 have similar chemical properties?",
+          "answer": "All group 1 elements (Li 2,1; Na 2,8,1; K 2,8,8,1 …) have one electron in their outermost shell. Since chemical properties depend on the valence electrons, they all lose one electron easily, form M⁺ ions and show similar reactions."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "7 × 3 = 21",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "Elements A, B, C, D, E and F belong to the same period and have atomic radii 0.64 Å, 1.52 Å, 0.66 Å, 1.06 Å, 0.70 Å and 0.88 Å respectively (none is a noble gas). (a) Arrange them in increasing order of atomic number. (b) Name one metal and one non-metal among them. (c) Which is likely to form a strongly acidic oxide?",
+          "answer": "Atomic size decreases across a period as atomic number increases. (a) B (1.52) < D (1.06) < F (0.88) < E (0.70) < C (0.66) < A (0.64), i.e. B, D, F, E, C, A. (b) B (largest, on the left) is a metal; A (smallest, on the right) is a non-metal. (c) A, the most non-metallic, forms a strongly acidic oxide.",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "How does the tendency to lose electrons change in the group of alkali metals, and why?",
+          "answer": "The tendency to lose electrons increases from lithium to caesium. Down the group a new shell is added each time, so the single valence electron is farther from the nucleus and is held less strongly (inner shells also shield it). It is therefore lost more easily, and metallic character and reactivity increase.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "What are metalloids and where are they placed in the modern periodic table? How does metallic character change (i) from top to bottom in a group and (ii) from left to right in a period?",
+          "answer": "Metalloids show properties of both metals and non-metals, e.g. boron, silicon, germanium, arsenic. They lie along a zig-zag diagonal from boron (group 13) down to polonium (group 16), between the metals on the left and the non-metals on the right. (i) Metallic character increases down a group because the valence electrons are lost more easily. (ii) It decreases from left to right across a period because the nucleus holds the valence electrons more strongly.",
+          "years": [
+            "October 2021"
+          ]
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "What are transition elements? Where are they located in the modern periodic table? Write four characteristics of transition elements.",
+          "answer": "Transition elements are the elements of groups 3 to 12 in the middle block of the periodic table, whose two outermost shells are incomplete. Characteristics: (1) all are metals with high melting and boiling points; (2) good conductors of heat and electricity; (3) many act as catalysts; (4) they show variable valency (and some are attracted by a magnet).",
+          "years": [
+            "April 2019"
+          ]
+        },
+        {
+          "id": "5.5",
+          "type": "open",
+          "q": "How does modern periodic law differ from Mendeleev's periodic law? Explain any two defects of Mendeleev's periodic table that were overcome in the modern table.",
+          "answer": "Mendeleev's law: properties are a periodic function of atomic mass. Modern law: properties are a periodic function of atomic number. Defects removed: (1) Isotopes — they have the same atomic number, so they now share one position. (2) Anomalous pairs — cobalt (27) naturally comes before nickel (28), and argon (18) before potassium (19), when arranged by atomic number.",
+          "years": [
+            "October 2017"
+          ]
+        },
+        {
+          "id": "5.6",
+          "type": "open",
+          "q": "Describe any four main features of Mendeleev's periodic table.",
+          "answer": "(1) Elements are arranged in increasing order of atomic mass in horizontal rows (periods) and vertical columns (groups). (2) There are periods 1 to 6/7 and groups I to VIII (with a zero group added for noble gases); groups I–VII have A and B subgroups. (3) Elements in a group are chemically similar and show gradation in properties from top to bottom. (4) Gaps were left for undiscovered elements, whose properties were predicted (eka-silicon = germanium).",
+          "years": [
+            "April 2023",
+            "April 2017"
+          ]
+        },
+        {
+          "id": "5.7",
+          "type": "open",
+          "q": "Define atomic size. How does atomic size change in a period and in a group? Where would the element with the largest atomic size be in (a) a group (b) a period?",
+          "answer": "Atomic size (radius) is the distance from the centre of the nucleus to the outermost shell of an isolated atom. It decreases from left to right across a period (greater nuclear charge pulls electrons closer) and increases down a group (a new shell is added). (a) The largest atom is at the bottom of a group. (b) In a period it is at the extreme left (group 1).",
+          "years": [
+            "October 2019",
+            "April 2016"
+          ],
+          "note": "April 2016 asked for the variation across a period and down a group with reasons; October 2016 asked how and why the atomic sizes of Li (3) and O (8) in period 2 differ — Li is larger because O has more nuclear charge pulling the same shell in."
+        }
+      ]
+    },
+    {
+      "no": 6,
+      "title": "Long answer questions. Answer in 80–120 words.",
+      "marks": "3 × 5 = 15",
+      "questions": [
+        {
+          "id": "6.1",
+          "type": "open",
+          "q": "State any three merits and three defects of Mendeleev's periodic table.",
+          "answer": "Merits: (1) all 63 known elements were classified, making their study systematic; (2) wrong atomic masses of some elements (Be, In, Au) were corrected from their positions; (3) gaps were left for undiscovered elements and their properties predicted — eka-silicon (germanium), eka-boron (scandium), eka-aluminium (gallium). Defects: (1) uncertain position of hydrogen, which resembles both alkali metals and halogens; (2) no separate places for isotopes; (3) anomalous pairs such as Co–Ni, Te–I and Ar–K, and grouping of dissimilar elements (Cu, Ag with Na, K) while separating similar ones (Au, Pt).",
+          "years": [
+            "April 2022"
+          ]
+        },
+        {
+          "id": "6.2",
+          "type": "open",
+          "q": "Part of the modern periodic table is given: group A — Li (3), Na (11), K (19), Rb (37); group B — Be (4), Mg (12), Ca (20), Sr (38). (a) Give the electronic configuration of Ca. (b) Write the number of valence electrons in K. (c) How many shells are there in Na? (d) Arrange the elements of group B in increasing order of atomic size. (e) Is Rb a metal or a non-metal? (f) Out of Na, Li, Be and Mg, which has the biggest atom?",
+          "answer": "(a) Ca: 2, 8, 8, 2. (b) K (2, 8, 8, 1) has 1 valence electron. (c) Na (2, 8, 1) has 3 shells. (d) Be < Mg < Ca < Sr (size increases down a group). (e) Rb is a metal (an alkali metal). (f) Na — it is lower in the group than Li and to the left of Mg in period 3.",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "6.3",
+          "type": "open",
+          "q": "Describe the long form of the modern periodic table in terms of groups and periods. What are main group elements, noble gases, transition elements and inner transition elements?",
+          "answer": "The table has 18 vertical groups and 7 horizontal periods. Elements of a group have the same number of valence electrons and similar properties; down a group the number of shells increases. Elements of a period have consecutive atomic numbers and fill the same shell (period number = shell number); period 1 has 2 elements, periods 2–3 have 8, 4–5 have 18, 6–7 have 32. Main group elements: groups 1, 2 and 13–17, with incomplete outer shells. Noble gases: group 18, full outer shell, valency zero, inert gases. Transition elements: groups 3–12, metals with variable valency, used as catalysts. Inner transition elements: lanthanoids (58–71) and actinoids (90–103), shown separately below the table.",
+          "or": {
+            "q": "What is the common name of the group 18 elements of the modern periodic table? State their four characteristics.",
+            "answer": "They are called noble (inert) gases — He, Ne, Ar, Kr, Xe, Rn. (1) Their outermost shell has 8 electrons (helium has 2), a stable configuration. (2) Their valency is zero. (3) They hardly react and are almost inert. (4) All are gases at room temperature, present in small amounts in air."
+          }
+        }
+      ]
+    }
+  ]
+}

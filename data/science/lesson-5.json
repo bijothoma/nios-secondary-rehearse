@@ -1,0 +1,522 @@
+{
+  "subject": "science",
+  "lesson": 5,
+  "title": "Atomic Structure",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "15 × 1 = 15",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "The distribution of electrons of phosphorus (atomic number 15) in the K, L and M shells is —",
+          "options": [
+            "K = 2, L = 8, M = 5",
+            "K = 2, L = 7, M = 6",
+            "K = 2, L = 8, M = 6",
+            "K = 2, L = 6, M = 7"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "Which of the following is the correct electronic configuration of magnesium?",
+          "options": [
+            "2, 8, 1",
+            "2, 8, 3",
+            "2, 8, 8",
+            "2, 8, 2"
+          ],
+          "answer": "D",
+          "years": [
+            "October 2024",
+            "April 2025"
+          ],
+          "note": "April 2025 also asked to pick a correct electronic configuration."
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "Neutrons are found in the —",
+          "options": [
+            "electron cloud surrounding the nucleus",
+            "nucleus of an atom",
+            "crystal lattice of a solid",
+            "radiations emitted by a radioactive material"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "Which of the following statements are correct about Rutherford's model of atom? (i) It considered the nucleus as positively charged. (ii) It established that α-particles are four times as heavy as a hydrogen atom. (iii) It can be compared to the solar system. (iv) It was in agreement with Thomson's model.",
+          "options": [
+            "(i) and (iii)",
+            "(ii) and (iii)",
+            "(i) and (iv)",
+            "(i) and (ii)"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2017"
+          ]
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "Which of the following statements about ²³⁸₉₂U is NOT true?",
+          "options": [
+            "The number of electrons in an atom of U is 92.",
+            "The number of neutrons in an atom of U is 238.",
+            "The mass number of U is 238.",
+            "The number of protons in an atom of U is 92."
+          ],
+          "answer": "B",
+          "years": [
+            "October 2017"
+          ]
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "Cathode rays are made up of —",
+          "options": [
+            "protons",
+            "neutrons",
+            "electrons",
+            "α-particles"
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "Canal rays (anode rays) were discovered by —",
+          "options": [
+            "J.J. Thomson",
+            "Eugen Goldstein",
+            "James Chadwick",
+            "Niels Bohr"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "The neutron was discovered in 1932 by —",
+          "options": [
+            "James Chadwick",
+            "Ernest Rutherford",
+            "Niels Bohr",
+            "J.J. Thomson"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "In the α-ray scattering experiment, most α-particles passed straight through the gold foil. This showed that —",
+          "options": [
+            "most of the atom is empty space",
+            "the atom is a solid sphere",
+            "electrons are heavy",
+            "the nucleus is negatively charged"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "The maximum number of electrons that can be accommodated in the M shell is —",
+          "options": [
+            "8",
+            "18",
+            "32",
+            "2"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "An atom has 7 protons and 8 neutrons. Its mass number is —",
+          "options": [
+            "7",
+            "8",
+            "15",
+            "1"
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "The valency of an element with electronic configuration 2, 8, 7 is —",
+          "options": [
+            "7",
+            "1",
+            "8",
+            "3"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "1.13",
+          "type": "mcq",
+          "q": "Which of the following elements has a completely filled first shell and no other electrons?",
+          "options": [
+            "Hydrogen",
+            "Helium",
+            "Lithium",
+            "Neon"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "1.14",
+          "type": "mcq",
+          "q": "Bohr's model explained the stability of the atom by proposing that an electron —",
+          "options": [
+            "does not lose energy while moving in a fixed orbit",
+            "falls slowly into the nucleus",
+            "is at rest outside the nucleus",
+            "moves in a spiral path"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.15",
+          "type": "mcq",
+          "q": "The number of neutrons in an α-particle is —",
+          "options": [
+            "1",
+            "2",
+            "4",
+            "0"
+          ],
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark (fill in the blanks, match the columns, true/false or a short passage).",
+      "marks": "6 × 2 = 12",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "Match the elements with their correct electronic configurations: (1) Nitrogen (N) (2) Magnesium (Mg) — (a) 2, 8, 2 (b) 2, 5 (c) 2, 8 (d) 2, 6",
+          "answer": "(1) Nitrogen – (b) 2, 5; (2) Magnesium – (a) 2, 8, 2",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Complete the sentences using the words given (first, protons, atom, electrons, valence): (a) Helium has two ________ in its atom; these occupy the ________ shell. (b) The number of ________ electrons determines the combining capacity of an ________ of an element.",
+          "answer": "(a) electrons; first (b) valence; atom",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "Complete the sentences using the words given (decreasing, protons, increasing, nucleus, atom, electrons): (a) The shells in atoms are occupied in the ________ order of their energies. (b) The particles ________ and neutrons in the nucleus are called nucleons.",
+          "answer": "(a) increasing (b) protons",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Write True (T) or False (F): (1) The mass of an electron is about 1/1840 of the mass of a proton. (2) Neutrons are present in the nucleus of every atom, including ordinary hydrogen.",
+          "answer": "(1) True (2) False — the ordinary hydrogen atom has no neutron."
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "Fill in the blanks: The number of protons in an atom is its ________ number, and the total number of protons and neutrons is its ________ number.",
+          "answer": "atomic; mass"
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "Match the scientist with the discovery: (1) J.J. Thomson (2) James Chadwick — (a) proton (b) electron (c) neutron (d) nucleus",
+          "answer": "(1) J.J. Thomson – (b) electron; (2) James Chadwick – (c) neutron"
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Read the passage and answer the questions that follow.",
+      "marks": "5 × 1 = 5",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "mcq",
+          "q": "α-particles are —",
+          "options": [
+            "helium nuclei",
+            "hydrogen atoms",
+            "electrons",
+            "neutrons"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "3.2",
+          "type": "mcq",
+          "q": "Most α-particles passed straight through the foil because —",
+          "options": [
+            "most of the atom is empty space",
+            "gold atoms have no electrons",
+            "α-particles have no charge",
+            "the foil was very thick"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "3.3",
+          "type": "mcq",
+          "q": "The α-particles that bounced back had —",
+          "options": [
+            "hit the dense, positively charged nucleus",
+            "passed between the electrons",
+            "lost their charge",
+            "been absorbed by electrons"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "3.4",
+          "type": "mcq",
+          "q": "According to Rutherford, the nucleus is smaller than the atom by about —",
+          "options": [
+            "10 times",
+            "100 times",
+            "10 000 times",
+            "2 times"
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "3.5",
+          "type": "mcq",
+          "q": "A drawback of Rutherford's model is that it could not explain —",
+          "options": [
+            "the stability of the atom",
+            "the presence of a nucleus",
+            "the scattering of α-particles",
+            "the positive charge of the nucleus"
+          ],
+          "answer": "A"
+        }
+      ],
+      "fixed": true,
+      "passage": "In 1910 Geiger and Marsden directed a stream of α-particles from a radioactive source on a very thin gold foil. Most of the α-particles passed straight through, some were deflected by small angles, a few by large angles, and about one in 12 000 bounced back. Rutherford explained these results in 1911: an atom has a small, dense, positively charged nucleus at its centre which contains nearly all its mass, while the negatively charged electrons move in the mostly empty space around it."
+    },
+    {
+      "no": 4,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "7 × 2 = 14",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "Describe J.J. Thomson's plum-pudding model of the atom and give one limitation of this model.",
+          "answer": "Thomson pictured the atom as a sphere of uniform positive charge with electrons scattered in it like plums in a pudding (or seeds in a water-melon), the total charges being equal. Limitation: it could not explain the results of the α-scattering experiment — some α-particles were deflected through large angles, which needs a small, concentrated positive nucleus.",
+          "years": [
+            "April 2026",
+            "October 2025"
+          ]
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "Write any two postulates proposed by Niels Bohr in his model of the atom.",
+          "answer": "(1) Electrons move around the nucleus only in certain circular orbits (energy levels) of fixed energy, and while moving in an orbit they do not lose energy (stationary states). (2) An electron can jump from one level to another only by absorbing or emitting energy equal to the difference in the energies of the two levels (E = hν).",
+          "years": [
+            "April 2024"
+          ],
+          "or": {
+            "q": "State any two results of the α-ray scattering experiment explained by Rutherford.",
+            "answer": "(1) Most α-particles passed straight through the foil, so most of the atom is empty space. (2) A few were deflected through large angles or bounced back, so the positive charge and mass are concentrated in a tiny nucleus at the centre."
+          }
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "An element X has an atomic number of 8. How many valence electrons does it have? What is its valency?",
+          "answer": "Electronic configuration of X (oxygen) = 2, 6. It has 6 valence electrons. Since this is more than 4, valency = 8 − 6 = 2.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "Write two differences between an electron and a proton.",
+          "answer": "(1) An electron carries a negative charge (−1), while a proton carries a positive charge (+1). (2) An electron has very small mass (about 1/1840 of a proton) and moves around the nucleus, while a proton is heavy and is found in the nucleus.",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "4.5",
+          "type": "open",
+          "q": "Write two differences between an electron and a neutron.",
+          "answer": "(1) An electron is negatively charged, while a neutron has no charge. (2) An electron is very light and moves outside the nucleus, while a neutron has a mass slightly more than a proton and is found inside the nucleus.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "4.6",
+          "type": "open",
+          "q": "A sodium atom has atomic number 11 and mass number 23. Find the number of protons, electrons and neutrons in it.",
+          "answer": "Protons = atomic number = 11; electrons = 11 (the atom is neutral); neutrons = mass number − atomic number = 23 − 11 = 12."
+        },
+        {
+          "id": "4.7",
+          "type": "open",
+          "q": "Why did Thomson conclude that all atoms contain electrons?",
+          "answer": "The cathode rays produced in the discharge tube had the same nature and the same charge-to-mass ratio whatever gas was filled in the tube and whatever metal the electrodes were made of. So the negatively charged particles (electrons) must be present in the atoms of all substances."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "7 × 3 = 21",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "Describe Thomson's model of the atom. Draw a diagram of a helium atom according to this model.",
+          "answer": "Thomson's plum-pudding model: an atom is a sphere of uniformly spread positive charge in which electrons are embedded like plums in a pudding, so that the atom as a whole is neutral. Diagram: a circle (positive sphere) with two dots marked '−' (the two electrons of helium) placed inside it; total positive charge +2 balances the two electrons.",
+          "years": [
+            "April 2025"
+          ],
+          "or": {
+            "q": "Calculate the number of electrons, protons and neutrons in ⁴⁰₁₈Ar and ⁴⁰₁₉K.",
+            "answer": "⁴⁰₁₈Ar: protons 18, electrons 18, neutrons 40 − 18 = 22. ⁴⁰₁₉K: protons 19, electrons 19, neutrons 40 − 19 = 21."
+          }
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "An element having 13 electrons forms an ion which has 10 electrons and three positive charges. (i) How many protons are there in its ionic form? (ii) What will be its atomic number and mass number if it has 14 neutrons? (iii) What will be the formula of its sulphate?",
+          "answer": "(i) The number of protons does not change when the ion forms: 13. (ii) Atomic number = 13; mass number = 13 + 14 = 27 (it is aluminium). (iii) Al³⁺ and SO₄²⁻ give Al2(SO4)3.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "What was the model of the atom proposed by Rutherford after explaining the results of the α-ray scattering experiment in 1911?",
+          "answer": "(1) An atom has a small, dense, positively charged centre called the nucleus. (2) All the positive charge and almost all the mass of the atom is in the nucleus. (3) The electrons move around the nucleus in the large empty space around it, like planets round the Sun; the nucleus is about 10 000 times smaller than the atom.",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "The atom of an element X has 18 protons in its nucleus. (a) How many electrons are present in its energy shells? Write its electronic configuration. (b) What is the valency of X? Explain its ability to react with other elements.",
+          "answer": "(a) 18 electrons, arranged 2, 8, 8. (b) Its outermost shell has 8 electrons — a complete octet — so its valency is zero. X (argon) is a noble gas and does not normally react with other elements.",
+          "years": [
+            "April 2019"
+          ]
+        },
+        {
+          "id": "5.5",
+          "type": "open",
+          "q": "Two atoms X and Y are ²⁰₁₀X and ²⁷₁₃Y. What are atomic number and mass number? Find the atomic number and valency of X and Y.",
+          "answer": "Atomic number is the number of protons in an atom; mass number is the number of protons + neutrons. X: Z = 10, configuration 2, 8 — full outer shell, valency 0. Y: Z = 13, configuration 2, 8, 3 — 3 valence electrons, valency 3.",
+          "years": [
+            "April 2022"
+          ]
+        },
+        {
+          "id": "5.6",
+          "type": "open",
+          "q": "(a) Draw the structure of a phosphorus atom (atomic number 15) according to Bohr's model and write its valency. (b) What happens when an electron of phosphorus moves from the L shell to the M shell?",
+          "answer": "(a) Nucleus with 15 protons (and 16 neutrons) surrounded by shells K (2 electrons), L (8) and M (5) — configuration 2, 8, 5. With 5 valence electrons its valency is 8 − 5 = 3 (it can also show 5). (b) The M shell has more energy than the L shell, so the electron must absorb a definite amount of energy (equal to the difference in energies) to move from L to M.",
+          "years": [
+            "October 2016"
+          ]
+        },
+        {
+          "id": "5.7",
+          "type": "open",
+          "q": "Describe Thomson's model of the atom and why it was discarded. Who performed the α-ray scattering experiment and what were its main conclusions?",
+          "answer": "Thomson's model: a sphere of uniform positive charge with electrons embedded in it. It was discarded because it could not explain why a few α-particles were deflected through large angles. The experiment was done by Geiger and Marsden (under Rutherford). Conclusions: most of the atom is empty space; the positive charge and mass are concentrated in a very small nucleus; the nucleus is about 10 000 times smaller than the atom.",
+          "years": [
+            "October 2021"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 6,
+      "title": "Long answer questions. Answer in 80–120 words.",
+      "marks": "3 × 5 = 15",
+      "questions": [
+        {
+          "id": "6.1",
+          "type": "open",
+          "q": "State the postulates of Bohr's model of the atom. How could this model answer the problem of the stability of the atom faced by Rutherford's model? Show the electron distribution of chlorine (Z = 17) and potassium (Z = 19).",
+          "answer": "Postulates: (1) electrons revolve around the nucleus only in certain circular orbits (energy levels K, L, M …) of fixed energy and do not radiate energy while in them; (2) an electron changes its level only by absorbing or emitting energy equal to the difference between the two levels. Stability: in Rutherford's model a revolving electron should lose energy and spiral into the nucleus; Bohr's stationary orbits mean no energy is lost, so the atom is stable. Chlorine: 2, 8, 7 (K 2, L 8, M 7). Potassium: 2, 8, 8, 1 (K 2, L 8, M 8, N 1).",
+          "years": [
+            "October 2022",
+            "October 2019"
+          ],
+          "note": "October 2022 also asked the difference between a Bohr orbit and an energy shell (an orbit is a two-dimensional circular path; a shell is a three-dimensional region of definite energy), and to distribute the electrons of element A (Z = 10): 2, 8 — valency 0, so it does not react."
+        },
+        {
+          "id": "6.2",
+          "type": "open",
+          "q": "Describe Rutherford's α-ray scattering experiment with a diagram and write the features of his model of the atom. State its drawbacks.",
+          "answer": "A beam of α-particles from a radioactive source was directed at a very thin gold foil surrounded by a circular fluorescent screen. Observations: most particles went straight through; some were deflected by small angles; a few by large angles; about 1 in 12 000 bounced back. Model: a tiny, dense, positive nucleus at the centre holding nearly all the mass; electrons revolve around it in the mostly empty space. Drawbacks: a revolving electron should radiate energy and fall into the nucleus, so it cannot explain the atom's stability; it does not explain how electrons are arranged; it cannot explain why atomic mass is more than the mass of the protons (solved by the neutron).",
+          "years": [
+            "October 2025",
+            "April 2023"
+          ],
+          "or": {
+            "q": "How were cathode rays produced using a discharge tube? Give any four properties of cathode rays.",
+            "answer": "A glass tube with two electrodes is partly evacuated and a very high voltage is applied; rays come from the cathode and travel to the anode. Properties: they travel in straight lines; they consist of particles with mass and kinetic energy; they carry negative charge and bend towards the positive plate in an electric field; their nature and e/m ratio do not depend on the gas or the electrode metal."
+          }
+        },
+        {
+          "id": "6.3",
+          "type": "open",
+          "q": "How are electrons distributed amongst the shells around the nucleus? State the rules and write the configurations of sodium (11) and calcium (20).",
+          "answer": "Bohr and Bury's rules: (1) shells are named K, L, M, N (n = 1, 2, 3, 4) and are arranged in increasing order of energy; (2) the maximum number of electrons in a shell is 2n² — K 2, L 8, M 18; (3) shells are filled in increasing order of energy; (4) a shell is not occupied until the inner shells are filled (and the outermost shell holds at most 8). Sodium: 2, 8, 1. Calcium: 2, 8, 8, 2.",
+          "years": [
+            "October 2024"
+          ]
+        }
+      ]
+    }
+  ]
+}

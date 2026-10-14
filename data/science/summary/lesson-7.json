@@ -1,0 +1,123 @@
+{
+  "subject": "science",
+  "lesson": 7,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 7: Chemical Bonding — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Why do atoms combine?"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "The noble gases (helium, neon, argon, krypton, xenon, radon) hardly form compounds. Except helium (2 electrons), they all have 8 electrons in their outermost shell, which is a very stable arrangement. Other atoms combine with each other to reach this noble-gas configuration — 8 electrons in the outer shell (2 for hydrogen, like helium). This tendency is called the octet rule and is the basic cause of chemical bonding. A chemical bond is the force of attraction that holds atoms together; bond formation lowers the energy, so the compound is more stable than the separate atoms. Atoms reach an octet either by transferring electrons (ionic bond) or by sharing them (covalent bond)."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Ionic (electrovalent) bond"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "An ionic bond is formed by the transfer of electrons from a metal atom to a non-metal atom. Sodium (2,8,1) loses its one outer electron to become the sodium cation Na⁺ (2,8 — like neon). Chlorine (2,8,7) gains that electron to become the chloride anion Cl⁻ (2,8,8 — like argon). The oppositely charged ions are held together by the strong electrostatic (Coulombic) force of attraction — the ionic bond: 2Na + Cl2 → 2NaCl. Losing an electron needs energy (496 kJ/mol for Na) and gaining one releases energy (349 kJ/mol for Cl); the extra energy released when the ions pack into a crystal makes NaCl stable."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "In solid sodium chloride each Na⁺ ion is surrounded by six Cl⁻ ions and each Cl⁻ by six Na⁺ ions, in a regular three-dimensional crystal lattice; there are no separate NaCl molecules, and NaCl is only the formula showing one Na⁺ for every Cl⁻. Similarly, magnesium (2,8,2) loses two electrons to form Mg²⁺: with two chlorine atoms it forms MgCl2, and with an oxygen atom (2,6 → O²⁻, 2,8) it forms magnesium oxide, MgO."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Properties of ionic compounds"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "(a) They are crystalline solids, hard and brittle. (b) They have high melting and boiling points (NaCl melts at 801 °C and boils at 1413 °C) because much energy is needed to overcome the strong forces between ions. (c) They do not conduct electricity in the solid state, where ions are fixed in the lattice, but conduct when molten or dissolved in water, because the ions become free to move. (d) They are generally soluble in water but insoluble in organic solvents such as alcohol, ether and carbon tetrachloride (a few, like barium sulphate, silver chloride and calcium fluoride, are insoluble in water)."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Covalent bond"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "A covalent bond is formed by the mutual sharing of electron pairs between two atoms, usually non-metals; each atom contributes equally. In H2 each hydrogen shares its one electron, so both get two electrons like helium: H–H. The bond forms at the distance where attraction and repulsion balance and the energy is lowest."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Single, double and triple bonds: in Cl2 each chlorine (2,8,7) shares one electron — one shared pair, a single bond (Cl–Cl). In O2 each oxygen (2,6) shares two electrons — two shared pairs, a double bond (O=O). In N2 each nitrogen (2,5) shares three electrons — three shared pairs, a triple bond (N≡N). Different atoms can also share: in HCl hydrogen and chlorine share one pair, so H has 2 and Cl has 8 outer electrons; water has two O–H single bonds. Diagrams that show only the outer electrons as dots or crosses are called Lewis (electron-dot) structures."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Properties of covalent compounds"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "They are made of neutral molecules held by weak intermolecular forces, so: (a) they may be gases (O2, N2, CO2), liquids (water, CCl4) or solids (iodine, naphthalene); (b) they have low melting and boiling points (naphthalene melts at 80 °C, CCl4 boils at 77 °C); (c) they do not conduct electricity because they have no ions or free electrons — ethyl alcohol does not conduct even in water; (d) they are generally insoluble in water but soluble in organic solvents such as alcohol, benzene and ether (iodine dissolves in alcohol to form tincture of iodine)."
+        ]
+      ]
+    }
+  ]
+}

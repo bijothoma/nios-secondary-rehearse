@@ -1,0 +1,488 @@
+{
+  "subject": "science",
+  "lesson": 10,
+  "title": "Force and Motion",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "15 × 1 = 15",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "Balanced forces acting on an object cause —",
+          "options": [
+            "change in speed",
+            "change in direction of motion",
+            "no change in motion",
+            "increase in weight"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2026",
+            "April 2025"
+          ],
+          "note": "April 2025 asked: balanced forces do not change the state of rest or motion of an object."
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "Which of the following is true about force?",
+          "options": [
+            "Force is always in the form of a pull",
+            "Force cannot move a stationary body",
+            "Force cannot deform a body",
+            "Force can change the direction of motion of a body"
+          ],
+          "answer": "D",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "A force of 50 N is applied to an object of mass 10 kg moving with a constant velocity. The net force acting on the object is —",
+          "options": [
+            "50 N",
+            "5 N",
+            "500 N",
+            "zero"
+          ],
+          "answer": "D",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "Which statement about Newton's third law of motion is FALSE?",
+          "options": [
+            "Action and reaction are interchangeable",
+            "Action and reaction are always equal and opposite",
+            "Action and reaction are simultaneous",
+            "Action and reaction act on the same body"
+          ],
+          "answer": "D",
+          "years": [
+            "October 2021"
+          ]
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "The main aim of a tailor in oiling his sewing machine is to —",
+          "options": [
+            "protect its parts from dust and moisture",
+            "protect its parts from rusting",
+            "reduce friction among its parts",
+            "absorb the heat produced in its parts"
+          ],
+          "answer": "C",
+          "years": [
+            "October 2022"
+          ]
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "A pencil cell released from the same height on an inclined plane rolls onto two different table surfaces. It travels farther on —",
+          "options": [
+            "the rougher surface, which has more friction",
+            "the smoother surface, which has less friction",
+            "both equally",
+            "the surface with more normal reaction"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "Mass of a body is a measure of its —",
+          "options": [
+            "inertia",
+            "momentum",
+            "weight",
+            "acceleration"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "The SI unit of momentum is —",
+          "options": [
+            "kg m s⁻¹",
+            "kg m s⁻²",
+            "N m",
+            "N s⁻¹"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "A fielder moves his hands backward while catching a fast ball to —",
+          "options": [
+            "increase the time and reduce the force",
+            "increase the force",
+            "decrease the time",
+            "increase the momentum"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "A force of 15 N acts on a mass of 3 kg. The acceleration produced is —",
+          "options": [
+            "45 m s⁻²",
+            "5 m s⁻²",
+            "0.2 m s⁻²",
+            "18 m s⁻²"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "Rockets and jet planes work on the principle of —",
+          "options": [
+            "Newton's first law",
+            "Newton's third law",
+            "law of gravitation",
+            "Archimedes' principle"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "Ball bearings are used in machines because —",
+          "options": [
+            "rolling friction is less than sliding friction",
+            "they increase friction",
+            "they increase the weight",
+            "sliding friction is less than rolling friction"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.13",
+          "type": "mcq",
+          "q": "The SI unit of pressure is —",
+          "options": [
+            "N",
+            "N m⁻²",
+            "N m",
+            "kg m s⁻¹"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "1.14",
+          "type": "mcq",
+          "q": "Knives have sharp edges because —",
+          "options": [
+            "a smaller area gives a larger pressure",
+            "a larger area gives a larger pressure",
+            "it reduces the force",
+            "it reduces friction"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.15",
+          "type": "mcq",
+          "q": "Passengers in a moving bus fall forward when the bus stops suddenly because of —",
+          "options": [
+            "inertia of motion",
+            "inertia of rest",
+            "friction",
+            "gravity"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark (fill in the blanks, match the columns, true/false or a short passage).",
+      "marks": "6 × 2 = 12",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "Read the passage and answer: 'In a game of tug-of-war, when the two teams pull the rope with equal force, the rope remains stationary. When one team applies greater force, it pulls the other team.' (a) What name is given to the forces on the rope when it does not move? (b) What type of force acts when one team pulls the rope towards itself?",
+          "answer": "(a) Balanced forces (b) Unbalanced force",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Read the passage and answer: 'If the net external force on a body is zero, a body at rest remains at rest and a body in motion continues to move with uniform velocity. This property is called inertia.' (i) Name the quantity which causes the motion of a body initially at rest. (ii) While sitting in a moving bus, why do you feel a jerk when the bus suddenly stops?",
+          "answer": "(i) An (unbalanced) force. (ii) The lower part of the body stops with the bus, but the upper part keeps moving forward due to inertia of motion, so we are thrown forward.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "Read the passage and answer: 'Newton's third law states that for every action there is an equal and opposite reaction. When we jump off the ground we push the ground down and the ground pushes us up. The action and reaction forces always occur in pairs and act on different objects.' (1) On which object does the reaction force act when you jump? (2) Why do action and reaction not cancel each other?",
+          "answer": "(1) On the person (the ground pushes the person upward). (2) Because they act on two different bodies.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Fill in the blanks: Newton's first law of motion is also called the law of ________, and momentum is the product of mass and ________.",
+          "answer": "inertia; velocity"
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "Write True (T) or False (F): (1) Rolling friction is more than sliding friction. (2) Treaded tyres give a better grip on the road.",
+          "answer": "(1) False — rolling friction is less. (2) True"
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "Match: (1) Ball bearings (2) Broad straps of a school bag — (a) increase pressure (b) reduce friction (c) reduce pressure (d) increase friction",
+          "answer": "(1) Ball bearings – (b) reduce friction; (2) Broad straps – (c) reduce pressure"
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Read the passage and answer the questions that follow.",
+      "marks": "5 × 1 = 5",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "mcq",
+          "q": "The momentum of a 5 kg body moving at 10 m/s is —",
+          "options": [
+            "2 kg m/s",
+            "50 kg m/s",
+            "15 kg m/s",
+            "0.5 kg m/s"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "3.2",
+          "type": "mcq",
+          "q": "The force needed to give a 50 kg mass an acceleration of 5 m/s² is —",
+          "options": [
+            "10 N",
+            "55 N",
+            "250 N",
+            "45 N"
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "3.3",
+          "type": "mcq",
+          "q": "A 3 kg rifle fires a 0.03 kg bullet at 100 m/s. The recoil speed of the rifle is —",
+          "options": [
+            "1 m/s",
+            "10 m/s",
+            "0.1 m/s",
+            "100 m/s"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "3.4",
+          "type": "mcq",
+          "q": "The rifle recoils because of the —",
+          "options": [
+            "conservation of momentum",
+            "law of friction",
+            "law of gravitation",
+            "principle of flotation"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "3.5",
+          "type": "mcq",
+          "q": "A loaded truck and an empty truck move at the same velocity. The loaded truck has —",
+          "options": [
+            "more momentum",
+            "less momentum",
+            "the same momentum",
+            "zero momentum"
+          ],
+          "answer": "A"
+        }
+      ],
+      "fixed": true,
+      "passage": "Momentum is the product of the mass and velocity of a body. According to Newton's second law, the rate of change of momentum is proportional to the applied force, which gives F = ma. When no external force acts on a system, its total momentum stays constant. So when a gun fires a bullet, the gun moves backward (recoils) so that the total momentum remains zero, as it was before firing."
+    },
+    {
+      "no": 4,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "6 × 2 = 12",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "Explain why a tailor oils his sewing machine regularly.",
+          "answer": "Friction between the moving parts of the machine causes wear and tear and wastes energy as heat. Oil (a lubricant) forms a thin layer between the parts and reduces friction, so the machine runs smoothly and lasts longer.",
+          "years": [
+            "April 2019"
+          ]
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "Why do passengers standing in a moving bus feel a forward jerk when the driver applies the brakes suddenly?",
+          "answer": "When the bus stops, the feet of the passengers stop with it, but the upper part of the body continues to move forward because of inertia of motion. So they lurch forward.",
+          "years": [
+            "October 2016"
+          ]
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "What is momentum? Give its SI unit.",
+          "answer": "Momentum is the product of the mass and velocity of a body, p = mv. Its SI unit is kg m s⁻¹, and it acts in the direction of the velocity (a vector)."
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "Why does a boxer move his head backward while taking a punch?",
+          "answer": "Moving back increases the time in which the momentum of the punch becomes zero. A smaller rate of change of momentum means a smaller force, so the injury is reduced."
+        },
+        {
+          "id": "4.5",
+          "type": "open",
+          "q": "Why does a porter put a round piece of cloth on his head while carrying a heavy load?",
+          "answer": "The cloth increases the area over which the load acts. Since pressure = thrust/area, a larger area means less pressure on his head."
+        },
+        {
+          "id": "4.6",
+          "type": "open",
+          "q": "State two advantages and two disadvantages of friction.",
+          "answer": "Advantages: it lets us walk without slipping; it makes brakes work (also writing, holding nails). Disadvantages: it wastes energy as heat; it causes wear and tear of machine parts and shoe soles."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "7 × 3 = 21",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "A bullet of mass 20 g is fired horizontally from a gun of mass 5 kg with a velocity of 400 m/s. Calculate the recoil velocity of the gun.",
+          "answer": "By conservation of momentum, total momentum before = 0 = momentum after. m = 0.02 kg, v = 400 m/s, M = 5 kg. 0 = MV + mv ⇒ V = −mv/M = −(0.02 × 400)/5 = −1.6 m/s. The gun recoils with 1.6 m/s, opposite to the bullet.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "A constant force acting on a body of mass 4.0 kg changes its speed from 1.0 m/s to 2.5 m/s in 25 s, the direction of motion remaining unchanged. What are the magnitude and direction of the force?",
+          "answer": "a = (v − u)/t = (2.5 − 1.0)/25 = 0.06 m/s². F = ma = 4.0 × 0.06 = 0.24 N, acting in the direction of motion.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "A hammer of mass 400 g moving at 40 m/s strikes a nail. The nail stops the hammer in 0.01 s. What is the force of the nail on the hammer?",
+          "answer": "m = 0.4 kg, u = 40 m/s, v = 0, t = 0.01 s. F = m(v − u)/t = 0.4 × (0 − 40)/0.01 = −1600 N. The nail exerts a force of 1600 N on the hammer, opposite to its motion.",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "State Newton's second law of motion. Using it, derive the unit of force. A person pushes a box of mass 50 kg with a force of 80 N. Calculate the acceleration.",
+          "answer": "The rate of change of momentum of a body is proportional to the force acting on it and is in the direction of the force; this gives F = ma. Unit: F = 1 kg × 1 m s⁻² = 1 kg m s⁻² = 1 newton. a = F/m = 80/50 = 1.6 m/s².",
+          "years": [
+            "April 2017"
+          ]
+        },
+        {
+          "id": "5.5",
+          "type": "open",
+          "q": "What is meant by momentum? Give its SI unit. Is it scalar or vector? A force of 68 N produces an acceleration of 1.7 m/s² in a body. Find its mass.",
+          "answer": "Momentum = mass × velocity; SI unit kg m s⁻¹; it is a vector (direction of velocity). m = F/a = 68/1.7 = 40 kg.",
+          "years": [
+            "October 2017"
+          ]
+        },
+        {
+          "id": "5.6",
+          "type": "open",
+          "q": "State three significant features of Newton's third law of motion. How does it explain walking on the earth?",
+          "answer": "(1) Action and reaction are equal and opposite and interchangeable. (2) They act on two different bodies. (3) They act simultaneously. While walking we push the ground backward with our foot (action); the ground pushes our foot forward with an equal force (reaction), and this reaction moves us forward.",
+          "years": [
+            "April 2021",
+            "April 2022"
+          ],
+          "note": "April 2022 asked about a lawn sprinkler that starts rotating as water flows — it works on the third law: the water pushed out backward pushes the sprinkler arms the other way."
+        },
+        {
+          "id": "5.7",
+          "type": "open",
+          "q": "(a) Can a body moving with constant speed still have acceleration? Explain with an example. (b) Can action and reaction act on the same body? Give reason.",
+          "answer": "(a) Yes. If its direction changes, its velocity changes, so it accelerates — e.g. a body moving at constant speed in a circle (a merry-go-round). (b) No. Action and reaction always act on two different bodies; if they acted on the same body they would cancel and no motion would result.",
+          "years": [
+            "October 2022"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 6,
+      "title": "Long answer questions. Answer in 80–120 words.",
+      "marks": "2 × 5 = 10",
+      "questions": [
+        {
+          "id": "6.1",
+          "type": "open",
+          "q": "What is inertia? Describe an activity to show the property of inertia. Why do passengers standing in a bus fall backward when a stationary bus starts suddenly?",
+          "answer": "Inertia is the tendency of a body to remain at rest or in uniform motion and resist any change in its state; mass measures it. Activity: place a glass half filled with water on a strip of paper at the edge of a table and pull the paper out with a quick jerk — the glass stays where it is, because of its inertia of rest. When a bus starts suddenly, the feet of standing passengers move forward with the bus, but the upper part of their body tends to stay at rest due to inertia, so they fall backward.",
+          "years": [
+            "April 2016"
+          ]
+        },
+        {
+          "id": "6.2",
+          "type": "open",
+          "q": "What is the force of friction? Describe an activity to show that friction depends on the smoothness of the surfaces. Write two advantages and two disadvantages of friction.",
+          "answer": "Friction is the force that opposes the relative motion of two surfaces in contact. Activity: set up an inclined plane on a table and release a pencil cell from a marked line; note how far it rolls on the bare table, on a glass sheet and on a layer of sand. It goes farthest on glass and least on sand, showing that smoother surfaces have less friction (friction also depends on the normal reaction). Advantages: walking without slipping; brakes and tyre grip. Disadvantages: wastage of energy as heat; wear and tear of machine parts.",
+          "years": [
+            "April 2023",
+            "October 2019"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,597 @@
+{
+  "subject": "science",
+  "lesson": 903,
+  "title": "Model Question Paper 3",
+  "meta": "Time: 2½ hours · Maximum marks: 85 · Modelled on the April 2026 NIOS paper",
+  "instructions": [
+    "All questions are compulsory. Where a question has OR, answer either one.",
+    "Section A: questions 1–17 are MCQs (1 mark each); questions 18–27 have two parts of 1 mark each; question 28 is a passage with five 1-mark questions.",
+    "Section B: 2-mark answers in 30–50 words, 3-mark answers in 50–80 words, 5-mark answers in 80–120 words.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "17 × 1 = 17",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "The derived SI unit of stress is —",
+          "options": [
+            "kg m s⁻²",
+            "kg m⁻¹ s⁻²",
+            "kg m² s⁻²",
+            "kg m² s⁻³"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 1."
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "When a chlorine atom changes to a chloride ion, it —",
+          "options": [
+            "loses one electron",
+            "gains one electron",
+            "loses one proton",
+            "gains one proton"
+          ],
+          "answer": "B",
+          "note": "Lesson 7."
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "The chemical formula of plaster of Paris is —",
+          "options": [
+            "CaSO4·2H2O",
+            "CaSO4·½H2O",
+            "CaOCl2",
+            "Na2CO3·10H2O"
+          ],
+          "answer": "B",
+          "note": "Lesson 8."
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "Balanced forces acting on an object cause —",
+          "options": [
+            "change in speed",
+            "change in direction of motion",
+            "no change in motion",
+            "increase in weight"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2026",
+            "April 2025"
+          ],
+          "note": "April 2025 asked: balanced forces do not change the state of rest or motion of an object. Lesson 10."
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "What is the weight of an object of mass 20 kg? (g = 9.8 m s⁻²)",
+          "options": [
+            "196 kg",
+            "19.6 kg",
+            "196 N",
+            "19.6 N"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 11."
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "Work done by a force will be maximum if —",
+          "options": [
+            "the body remains at rest",
+            "the body is displaced at 30° to the force",
+            "the body is displaced in the direction of the force",
+            "the body is displaced opposite to the force"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 13."
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "A light ray passes from medium A into medium B and bends towards the normal. What can you conclude about the speed of light in B?",
+          "options": [
+            "It is greater in B than in A",
+            "It is slower in B than in A",
+            "It is the same in both",
+            "Light is totally reflected in A"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 15."
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "Three resistors are connected in parallel. Their combined resistance will be —",
+          "options": [
+            "less than the smallest resistance",
+            "between the smallest and the largest",
+            "greater than the largest",
+            "equal to the sum of all three"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 16."
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "According to Fleming's left-hand rule, the force on a current-carrying conductor is —",
+          "options": [
+            "parallel to both field and current",
+            "perpendicular to both field and current",
+            "parallel to the field but perpendicular to the current",
+            "perpendicular to the field but parallel to the current"
+          ],
+          "answer": "B",
+          "note": "Lesson 17."
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "Which of the following is NOT a digestive gland?",
+          "options": [
+            "Liver",
+            "Gastric gland",
+            "Pancreatic islets",
+            "Wall of intestine"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Lesson 22."
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "The seat of intelligence, memory and reasoning is the —",
+          "options": [
+            "cerebrum",
+            "cerebellum",
+            "medulla oblongata",
+            "spinal cord"
+          ],
+          "answer": "A",
+          "note": "Lesson 23."
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "An undifferentiated mass of cells formed in tissue culture is called —",
+          "options": [
+            "clone",
+            "callus",
+            "zygote",
+            "spore"
+          ],
+          "answer": "B",
+          "note": "Lesson 24."
+        },
+        {
+          "id": "1.13",
+          "type": "mcq",
+          "q": "The genes for colour-blindness and haemophilia are located on the —",
+          "options": [
+            "Y chromosome",
+            "X chromosome",
+            "autosomes",
+            "mitochondria"
+          ],
+          "answer": "B",
+          "note": "Lesson 25."
+        },
+        {
+          "id": "1.14",
+          "type": "mcq",
+          "q": "Coating iron with zinc is called —",
+          "options": [
+            "alloying",
+            "galvanisation",
+            "electroplating with tin",
+            "calcination"
+          ],
+          "answer": "B",
+          "note": "Lesson 27."
+        },
+        {
+          "id": "1.15",
+          "type": "mcq",
+          "q": "The general formula of alkynes is —",
+          "options": [
+            "CₙH₂ₙ₊₂",
+            "CₙH₂ₙ",
+            "CₙH₂ₙ₋₂",
+            "CₙHₙ"
+          ],
+          "answer": "C",
+          "note": "Lesson 28."
+        },
+        {
+          "id": "1.16",
+          "type": "mcq",
+          "q": "The permanent outward movement of individuals from a population is —",
+          "options": [
+            "immigration",
+            "emigration",
+            "natality",
+            "mortality"
+          ],
+          "answer": "B",
+          "note": "Lesson 29."
+        },
+        {
+          "id": "1.17",
+          "type": "mcq",
+          "q": "Growing trees for forests is called —",
+          "options": [
+            "horticulture",
+            "silviculture",
+            "monoculture",
+            "agriculture"
+          ],
+          "answer": "B",
+          "note": "Lesson 30."
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark (fill in the blanks, match the columns, true/false or a short passage).",
+      "marks": "10 × 2 = 20",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "Read the passage on Newton's law of gravitation (F = G m1m2/r², where G is the universal gravitational constant) and answer: (1) How does the force change if the distance between two bodies is doubled? (2) Write the value of G in SI units.",
+          "answer": "(1) It becomes one-fourth (F ∝ 1/r²). (2) G = 6.67 × 10⁻¹¹ N m² kg⁻².",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Lesson 11."
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Fill in the blanks: The energy possessed by a body because of its position is called ________ energy, and the energy possessed because of its motion is called ________ energy.",
+          "answer": "potential; kinetic",
+          "note": "Lesson 13."
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "Match: (1) Concave mirror (2) Convex mirror — (a) rear-view mirror (b) periscope (c) headlight reflector (d) magnifying glass",
+          "answer": "(1) Concave mirror – (c) headlight reflector; (2) Convex mirror – (a) rear-view mirror",
+          "note": "Lesson 15."
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Write True (T) or False (F): (1) Like charges attract each other. (2) Rubbing does not create charge; it only transfers electrons.",
+          "answer": "(1) False — like charges repel. (2) True",
+          "note": "Lesson 16."
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "Fill in the blanks: The production of an electric current by a changing magnetic field is called ________, and it was discovered by ________.",
+          "answer": "electromagnetic induction; Michael Faraday",
+          "note": "Lesson 17."
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "Write True (T) or False (F): (1) The pulmonary vein carries oxygenated blood. (2) Red blood cells have a nucleus.",
+          "answer": "(1) True (2) False — mature RBCs have no nucleus.",
+          "note": "Lesson 22."
+        },
+        {
+          "id": "2.7",
+          "type": "open",
+          "q": "Fill in the blanks: The central nervous system consists of the ________ and the ________.",
+          "answer": "brain; spinal cord",
+          "note": "Lesson 23."
+        },
+        {
+          "id": "2.8",
+          "type": "open",
+          "q": "Read the passage and answer: 'Banana plants grown by farmers are genetically similar to the parent plant. Such plants are produced without the fusion of gametes.' (a) Name the method used to grow genetically similar banana plants. (b) Name two types of asexual reproduction.",
+          "answer": "(a) Vegetative propagation. (b) Any two: binary fission, budding, spore formation, vegetative propagation.",
+          "years": [
+            "October 2024"
+          ],
+          "note": "Lesson 24."
+        },
+        {
+          "id": "2.9",
+          "type": "open",
+          "q": "Write True (T) or False (F): (1) Thalassemia is an X-linked disorder. (2) Consanguineous marriages increase the chance of genetic disorders.",
+          "answer": "(1) False — it is autosomal. (2) True",
+          "note": "Lesson 25."
+        },
+        {
+          "id": "2.10",
+          "type": "open",
+          "q": "Write True (T) or False (F): (1) Al₂O₃ and CO₂ both show acidic as well as basic properties. (2) Metals are electropositive and non-metals are electronegative.",
+          "answer": "(1) False — Al₂O₃ is amphoteric but CO₂ is acidic only. (2) True",
+          "years": [
+            "October 2024",
+            "April 2025"
+          ],
+          "note": "Lesson 27."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Read the passage and answer the questions that follow.",
+      "marks": "5 × 1 = 5",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "mcq",
+          "q": "The reddish-brown substance is —",
+          "options": [
+            "Fe₃O₄",
+            "Fe₂O₃·xH₂O",
+            "FeCl₃",
+            "FeSO₄"
+          ],
+          "answer": "B",
+          "note": "Lesson 27."
+        },
+        {
+          "id": "3.2",
+          "type": "mcq",
+          "q": "The nail in tube B did not rust because —",
+          "options": [
+            "there was no water",
+            "there was no air (oxygen)",
+            "oil reacts with iron",
+            "the water was hot"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "3.3",
+          "type": "mcq",
+          "q": "Anhydrous calcium chloride in tube C —",
+          "options": [
+            "supplies oxygen",
+            "absorbs moisture",
+            "adds salt to speed rusting",
+            "coats the nail"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "3.4",
+          "type": "mcq",
+          "q": "Galvanisation means coating iron with —",
+          "options": [
+            "tin",
+            "zinc",
+            "chromium",
+            "paint"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "3.5",
+          "type": "mcq",
+          "q": "The experiment shows that rusting needs —",
+          "options": [
+            "only oxygen",
+            "only water",
+            "both oxygen and water",
+            "neither"
+          ],
+          "answer": "C"
+        }
+      ],
+      "fixed": true,
+      "passage": "Neha placed three clean iron nails in test tubes. Tube A had some tap water so that the nail was partly in water and partly in air. Tube B had boiled water covered by a layer of oil. Tube C was dry and contained anhydrous calcium chloride. After a week, only the nail in tube A was covered with a flaky reddish-brown substance. Her teacher said that the iron gate at home is painted, and buckets are made of galvanised iron, for the same reason."
+    },
+    {
+      "no": 4,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "6 × 2 = 12",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "Write two differences between an electron and a proton.",
+          "answer": "(1) An electron carries a negative charge (−1), while a proton carries a positive charge (+1). (2) An electron has very small mass (about 1/1840 of a proton) and moves around the nucleus, while a proton is heavy and is found in the nucleus.",
+          "years": [
+            "October 2024"
+          ],
+          "note": "Lesson 5."
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "What are indicators? Name one natural indicator and the source from which it is obtained.",
+          "answer": "Indicators are substances that show one colour in an acidic solution and a different colour in a basic solution, e.g. litmus, phenolphthalein, methyl orange. Litmus is a natural indicator obtained from lichens (turmeric is another).",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 8."
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "In a lens of focal length 10 cm the sizes of the image and the object are the same. Name the type of lens and give the distance of the object from the lens.",
+          "answer": "It is a convex lens, since only a convex lens gives an image of the same size (real and inverted). The object is at 2F, i.e. 2 × 10 = 20 cm from the lens.",
+          "years": [
+            "April 2025"
+          ],
+          "or": {
+            "q": "Define (i) visual angle and (ii) power of accommodation.",
+            "answer": "(i) Visual angle is the angle an object makes at the eye; the larger it is, the bigger the object looks. (ii) Power of accommodation is the ability of the eye lens to change its focal length so as to see objects from infinity down to 25 cm clearly."
+          },
+          "note": "Lesson 15."
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "Define the terms (i) osmoregulation and (ii) dialysis.",
+          "answer": "(i) Osmoregulation is the maintenance of the correct amount of water and mineral ions in the blood and body. (ii) Dialysis is the removal of waste from the blood of a person whose kidneys have failed, using an artificial kidney in which blood flows past a membrane bathed in dialysis fluid.",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Lesson 22."
+        },
+        {
+          "id": "4.5",
+          "type": "open",
+          "q": "Why is genetic counselling advisable before marriage between close relatives?",
+          "answer": "Close relatives may carry the same defective recessive gene; their children are more likely to get two copies and suffer from a genetic disorder. Counselling tells the couple the chances so they can decide wisely.",
+          "years": [
+            "October 2016"
+          ],
+          "note": "Lesson 25."
+        },
+        {
+          "id": "4.6",
+          "type": "open",
+          "q": "Name two adaptations of the lotus to live in water.",
+          "answer": "Long, spongy stem with air spaces that keeps it afloat and bends with currents; broad floating leaves with a waxy upper surface and stomata on the upper side.",
+          "years": [
+            "April 2019"
+          ],
+          "note": "Lesson 29."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "7 × 3 = 21",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "Draw a diagram of a synapse and label the synaptic vesicle, synaptic cleft, synaptic bulb and mitochondrion.",
+          "answer": "Diagram: the swollen end (synaptic bulb) of one neuron's axon lies close to the dendrite of the next neuron, separated by a narrow gap, the synaptic cleft. Inside the bulb are small round synaptic vesicles containing neurotransmitter and a few mitochondria. When an impulse arrives the vesicles release neurotransmitter into the cleft, which starts an impulse in the next neuron.",
+          "years": [
+            "October 2017"
+          ],
+          "note": "Lesson 23."
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "Describe budding in Hydra with a diagram.",
+          "answer": "In Hydra a small outgrowth (bud) forms on the side of the body due to repeated cell division. It grows, develops a mouth and tentacles, and finally detaches from the parent to live as a new Hydra. Diagram: parent Hydra with a bud at different stages of growth, then a separated young Hydra.",
+          "years": [
+            "October 2024"
+          ],
+          "or": {
+            "q": "Name three plants that grow from the stem, and the kind of stem.",
+            "answer": "Potato (tuber), ginger (rhizome), onion (bulb); also lawn grass (runner)."
+          },
+          "note": "Lesson 24."
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "What are genes and what is their chemical nature? What genes will a child with blood group O have?",
+          "answer": "Genes are the units of heredity, located at fixed points on chromosomes; chemically they are segments of DNA (deoxyribonucleic acid). A child with blood group O has the genes ii (one recessive i from each parent).",
+          "years": [
+            "October 2022"
+          ],
+          "note": "Lesson 25."
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "Write four chemical properties of metals with equations.",
+          "answer": "(1) With oxygen they form basic oxides: 2Mg + O₂ → 2MgO. (2) With water they form hydroxides or oxides and hydrogen: 2Na + 2H₂O → 2NaOH + H₂. (3) With dilute acids they give hydrogen: Zn + H₂SO₄ → ZnSO₄ + H₂. (4) A more reactive metal displaces a less reactive one from its salt: Fe + CuSO₄ → FeSO₄ + Cu.",
+          "years": [
+            "October 2019"
+          ],
+          "note": "Lesson 27."
+        },
+        {
+          "id": "5.5",
+          "type": "open",
+          "q": "What is a functional group? Identify the functional groups in CH₂=CHCH₂CH₃, CH₃COCH₂CH₂CH₃, CH₃CH₂CH₂CH₂CHO and CH₃CH₂CH₂COOH.",
+          "answer": "A functional group is an atom or group of atoms that decides the characteristic properties of an organic compound, e.g. –OH, –COOH. The groups are: C=C double bond (alkene); >C=O keto (ketone); –CHO (aldehyde); –COOH (carboxylic acid).",
+          "years": [
+            "October 2019"
+          ],
+          "note": "Lesson 28."
+        },
+        {
+          "id": "5.6",
+          "type": "open",
+          "q": "What is symbiosis? Give an example. How is commensalism different from symbiosis (mutualism)?",
+          "answer": "Symbiosis is the close living together of two organisms of different species, e.g. alga and fungus in lichen, or bees and flowers. In mutualism both partners benefit; in commensalism one benefits and the other is neither helped nor harmed (sucker fish on a shark).",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 29."
+        },
+        {
+          "id": "5.7",
+          "type": "open",
+          "q": "What is biomagnification? How did DDT reduce the population of pelican birds?",
+          "answer": "Biomagnification is the increase in concentration of a non-biodegradable chemical at each higher trophic level. DDT sprayed on crops reached the water (0.2 ppm) and passed through algae and fish into pelicans (1700 ppm). The high DDT in the birds made their egg shells thin, so the eggs broke before hatching and the population fell.",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Lesson 30."
+        }
+      ]
+    },
+    {
+      "no": 6,
+      "title": "Long answer questions. Answer in 80–120 words.",
+      "marks": "2 × 5 = 10",
+      "questions": [
+        {
+          "id": "6.1",
+          "type": "open",
+          "q": "What is a unit? List the characteristics of a good unit. Why were units based on parts of the body given up, and how did standard units develop?",
+          "answer": "A unit is a standard quantity (scale) in terms of which a physical quantity is measured; value = number × unit. A good unit is relevant, convenient and well defined. Units such as the hand span, foot or cubit differ from person to person, so they were arbitrary and gave results that could not be reproduced, causing disputes in trade. Rulers fixed standards (Egyptian standard cubit, Henry I's yard), but these changed with rulers. After the French Revolution the decimal metric system was made, with standard metre and kilogram kept near Paris (Metre Convention, 1875). CGS and MKS systems followed, and in 1960 the International System of Units (SI) was adopted with seven base units, now defined by constants of nature (e.g. the metre through the speed of light).",
+          "note": "Lesson 1."
+        },
+        {
+          "id": "6.2",
+          "type": "open",
+          "q": "Name the compounds used to preserve biological specimens and to ripen fruit, and give their structures. Name the acids in vitamin C and in citrus fruits. Explain homologous series with an example.",
+          "answer": "Formalin, a solution of methanal (formaldehyde) H–CHO, preserves specimens. Fruit is ripened with ethene, H₂C=CH₂ (the NIOS text also names ethyne, acetylene HC≡CH, for this). Vitamin C contains ascorbic acid; citrus fruits contain citric acid. A homologous series is a group of compounds with the same functional group and general formula in which successive members differ by –CH₂–, with similar chemical properties and gradually changing physical properties — methane CH₄, ethane C₂H₆, propane C₃H₈ (alkanes, CₙH₂ₙ₊₂).",
+          "years": [
+            "October 2022"
+          ],
+          "note": "Lesson 28."
+        }
+      ]
+    }
+  ]
+}

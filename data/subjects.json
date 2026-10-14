@@ -439,6 +439,145 @@
           "file": "data/english/paper-3.json"
         }
       ]
+    },
+    {
+      "id": "science",
+      "name": "Science and Technology",
+      "label": "",
+      "lessons": [
+        {
+          "no": 1,
+          "title": "Measurement in Science and Technology",
+          "file": "data/science/lesson-1.json",
+          "summary": "data/science/summary/lesson-1.json"
+        },
+        {
+          "no": 5,
+          "title": "Atomic Structure",
+          "file": "data/science/lesson-5.json",
+          "summary": "data/science/summary/lesson-5.json"
+        },
+        {
+          "no": 6,
+          "title": "Periodic Classification of Elements",
+          "file": "data/science/lesson-6.json",
+          "summary": "data/science/summary/lesson-6.json"
+        },
+        {
+          "no": 7,
+          "title": "Chemical Bonding",
+          "file": "data/science/lesson-7.json",
+          "summary": "data/science/summary/lesson-7.json"
+        },
+        {
+          "no": 8,
+          "title": "Acids, Bases and Salts",
+          "file": "data/science/lesson-8.json",
+          "summary": "data/science/summary/lesson-8.json"
+        },
+        {
+          "no": 10,
+          "title": "Force and Motion",
+          "file": "data/science/lesson-10.json",
+          "summary": "data/science/summary/lesson-10.json"
+        },
+        {
+          "no": 11,
+          "title": "Gravitation",
+          "file": "data/science/lesson-11.json",
+          "summary": "data/science/summary/lesson-11.json"
+        },
+        {
+          "no": 13,
+          "title": "Work and Energy",
+          "file": "data/science/lesson-13.json",
+          "summary": "data/science/summary/lesson-13.json"
+        },
+        {
+          "no": 15,
+          "title": "Light Energy",
+          "file": "data/science/lesson-15.json",
+          "summary": "data/science/summary/lesson-15.json"
+        },
+        {
+          "no": 16,
+          "title": "Electrical Energy",
+          "file": "data/science/lesson-16.json",
+          "summary": "data/science/summary/lesson-16.json"
+        },
+        {
+          "no": 17,
+          "title": "Magnetic Effect of Electric Current",
+          "file": "data/science/lesson-17.json",
+          "summary": "data/science/summary/lesson-17.json"
+        },
+        {
+          "no": 22,
+          "title": "Life Processes – I: Nutrition, Transportation, Respiration and Excretion",
+          "file": "data/science/lesson-22.json",
+          "summary": "data/science/summary/lesson-22.json"
+        },
+        {
+          "no": 23,
+          "title": "Life Processes – II: Control and Coordination",
+          "file": "data/science/lesson-23.json",
+          "summary": "data/science/summary/lesson-23.json"
+        },
+        {
+          "no": 24,
+          "title": "Reproduction",
+          "file": "data/science/lesson-24.json",
+          "summary": "data/science/summary/lesson-24.json"
+        },
+        {
+          "no": 25,
+          "title": "Heredity",
+          "file": "data/science/lesson-25.json",
+          "summary": "data/science/summary/lesson-25.json"
+        },
+        {
+          "no": 27,
+          "title": "Metals and Non-metals",
+          "file": "data/science/lesson-27.json",
+          "summary": "data/science/summary/lesson-27.json"
+        },
+        {
+          "no": 28,
+          "title": "Carbon and its Compounds",
+          "file": "data/science/lesson-28.json",
+          "summary": "data/science/summary/lesson-28.json"
+        },
+        {
+          "no": 29,
+          "title": "Natural Environment",
+          "file": "data/science/lesson-29.json",
+          "summary": "data/science/summary/lesson-29.json"
+        },
+        {
+          "no": 30,
+          "title": "Human Impact on Environment",
+          "file": "data/science/lesson-30.json",
+          "summary": "data/science/summary/lesson-30.json"
+        },
+        {
+          "no": 901,
+          "tag": "Full paper",
+          "title": "Model Question Paper 1",
+          "file": "data/science/paper-1.json"
+        },
+        {
+          "no": 902,
+          "tag": "Full paper",
+          "title": "Model Question Paper 2",
+          "file": "data/science/paper-2.json"
+        },
+        {
+          "no": 903,
+          "tag": "Full paper",
+          "title": "Model Question Paper 3",
+          "file": "data/science/paper-3.json"
+        }
+      ]
     }
   ]
 }

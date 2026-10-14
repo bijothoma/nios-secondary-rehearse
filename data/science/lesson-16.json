@@ -1,0 +1,469 @@
+{
+  "subject": "science",
+  "lesson": 16,
+  "title": "Electrical Energy",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "16 × 1 = 16",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "Two point charges are both doubled while the distance between them stays the same. The electrostatic force becomes —",
+          "options": [
+            "half",
+            "double",
+            "four times",
+            "unchanged"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "In a series circuit, the current passing through each resistor is —",
+          "options": [
+            "different for each resistor",
+            "the same through all resistors",
+            "zero",
+            "dependent on the potential difference across each resistor"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "Three resistors are connected in parallel. Their combined resistance will be —",
+          "options": [
+            "less than the smallest resistance",
+            "between the smallest and the largest",
+            "greater than the largest",
+            "equal to the sum of all three"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "You are given resistors of 2 Ω and 6 Ω. Combining them you can obtain —",
+          "options": [
+            "8 Ω and 6 Ω",
+            "8 Ω and 1.5 Ω",
+            "2 Ω and 8 Ω",
+            "6 Ω and 2 Ω"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "What is the minimum resistance that can be made using five resistors of 10 Ω each?",
+          "options": [
+            "1 Ω",
+            "2 Ω",
+            "5 Ω",
+            "50 Ω"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2019"
+          ]
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "A uniform wire of 48 Ω is cut into four equal parts. The equivalent resistance of their parallel combination is —",
+          "options": [
+            "3 Ω",
+            "9 Ω",
+            "20 Ω",
+            "36 Ω"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2021"
+          ]
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "Which of the following terms does NOT represent electric power?",
+          "options": [
+            "VI",
+            "I²R",
+            "IR²",
+            "V²/R"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2023"
+          ]
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "During a power surge, which component is most likely to prevent damage to your devices?",
+          "options": [
+            "Switch",
+            "Electric meter",
+            "Earth wire",
+            "Fuse or circuit breaker"
+          ],
+          "answer": "D",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "In a bridge, resistors of 2 Ω and 4 Ω form the upper arm and another 2 Ω and 4 Ω the lower arm, and a wire joins the junctions of the 2 Ω and 4 Ω resistors of the two arms. The equivalent resistance between the ends A and B is —",
+          "options": [
+            "3 Ω",
+            "4 Ω",
+            "6 Ω",
+            "12 Ω"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2016"
+          ],
+          "note": "The two 2 Ω resistors are in parallel (1 Ω) and so are the two 4 Ω resistors (2 Ω); together in series they give 3 Ω."
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "The SI unit of electric charge is —",
+          "options": [
+            "ampere",
+            "volt",
+            "coulomb",
+            "ohm"
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "J C⁻¹ is the unit of —",
+          "options": [
+            "current",
+            "charge",
+            "resistance",
+            "potential"
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "The commercial unit of electrical energy is —",
+          "options": [
+            "joule",
+            "watt",
+            "kilowatt hour",
+            "volt"
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "1.13",
+          "type": "mcq",
+          "q": "An ammeter is connected in a circuit —",
+          "options": [
+            "in series",
+            "in parallel",
+            "either way",
+            "across the battery only"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.14",
+          "type": "mcq",
+          "q": "Which of the following is an electrical insulator?",
+          "options": [
+            "Mica",
+            "Copper",
+            "Tungsten",
+            "Iron"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.15",
+          "type": "mcq",
+          "q": "If the current through a conductor is doubled, the heat produced in a given time becomes —",
+          "options": [
+            "double",
+            "half",
+            "four times",
+            "the same"
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "1.16",
+          "type": "mcq",
+          "q": "1 kWh is equal to —",
+          "options": [
+            "3.6 × 10⁶ J",
+            "3.6 × 10³ J",
+            "1000 J",
+            "3600 J"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark (fill in the blanks, match the columns, true/false or a short passage).",
+      "marks": "6 × 2 = 12",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "Fill in the blanks: Strictly speaking, Coulomb's law is applicable only for ________ charges kept separated by a ________.",
+          "answer": "point; distance (in vacuum or air)",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Fill in the blanks: One ampere equals one ________ per ________.",
+          "answer": "coulomb; second"
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "Write True (T) or False (F): (1) A voltmeter is connected in parallel across the part of the circuit. (2) Household appliances are connected in series.",
+          "answer": "(1) True (2) False — they are connected in parallel."
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Match: (1) Ohm (2) Volt — (a) unit of current (b) unit of resistance (c) unit of potential difference (d) unit of power",
+          "answer": "(1) Ohm – (b) unit of resistance; (2) Volt – (c) unit of potential difference"
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "Fill in the blanks: When current is passed through a conductor its temperature ________; of two wires of the same material and thickness, the longer one has ________ resistance.",
+          "answer": "increases; more"
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "Write True (T) or False (F): (1) Like charges attract each other. (2) Rubbing does not create charge; it only transfers electrons.",
+          "answer": "(1) False — like charges repel. (2) True"
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Read the passage and answer the questions that follow.",
+      "marks": "5 × 1 = 5",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "mcq",
+          "q": "In the circuit the voltmeter is connected —",
+          "options": [
+            "in series",
+            "in parallel",
+            "in a mixed combination",
+            "in no particular combination"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "3.2",
+          "type": "mcq",
+          "q": "Which set includes devices used in electric circuits for their safety?",
+          "options": [
+            "Switch, tester and fuse",
+            "Tester, fuse and MCB",
+            "Switch, fuse and MCB",
+            "MCB, switch and tester"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "3.3",
+          "type": "mcq",
+          "q": "The straight-line V–I graph shows that —",
+          "options": [
+            "V is directly proportional to I",
+            "V is inversely proportional to I",
+            "R changes with current",
+            "I does not depend on V"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "3.4",
+          "type": "mcq",
+          "q": "If the voltmeter reads 3 V when the ammeter reads 0.5 A, the resistance is —",
+          "options": [
+            "1.5 Ω",
+            "6 Ω",
+            "3.5 Ω",
+            "0.17 Ω"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "3.5",
+          "type": "mcq",
+          "q": "Ohm's law holds only if the conductor's —",
+          "options": [
+            "temperature remains the same",
+            "length keeps changing",
+            "current is zero",
+            "voltage is zero"
+          ],
+          "answer": "A"
+        }
+      ],
+      "fixed": true,
+      "passage": "A circuit is set up to study the relationship between the potential difference across a resistor and the current through it. A cell, a key, an ammeter, a rheostat and the resistor are connected one after another in a loop, and a voltmeter is connected across the resistor. As the rheostat is adjusted, the voltmeter and ammeter readings increase in the same proportion, and the graph of V against I is a straight line. Fuses and miniature circuit breakers (MCBs) are added to household circuits for safety. (April 2024)"
+    },
+    {
+      "no": 4,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "6 × 2 = 12",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "Find the currents flowing in 2 Ω, 4 Ω and 6 Ω resistors connected in parallel across a 24 V battery.",
+          "answer": "In parallel each resistor has 24 V across it. I = V/R: 2 Ω — 12 A; 4 Ω — 6 A; 6 Ω — 4 A (total 22 A).",
+          "years": [
+            "October 2021"
+          ]
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "State Ohm's law. Define the unit of resistance.",
+          "answer": "The current through a conductor is directly proportional to the potential difference across its ends, provided its temperature and other physical conditions remain the same (V = IR). One ohm is the resistance of a conductor through which 1 A flows when a potential difference of 1 V is applied across it."
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "How many electrons make one coulomb of charge?",
+          "answer": "Charge on one electron = 1.6 × 10⁻¹⁹ C. Number of electrons = 1/(1.6 × 10⁻¹⁹) = 6.25 × 10¹⁸."
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "State two advantages of connecting household appliances in parallel rather than in series.",
+          "answer": "(1) Each appliance gets the full mains voltage and draws the current it needs. (2) Each can be switched on or off independently, and if one fails the others keep working; the total resistance is also lower."
+        },
+        {
+          "id": "4.5",
+          "type": "open",
+          "q": "Calculate the work done in moving a charge of 3 C across two points having a potential difference of 24 V.",
+          "answer": "W = qV = 3 C × 24 V = 72 J."
+        },
+        {
+          "id": "4.6",
+          "type": "open",
+          "q": "How many units of electricity will a 60 W lamp use in 30 days if it is lit for 4 hours daily?",
+          "answer": "Energy = P × t = 60 W × 4 h × 30 = 7200 Wh = 7.2 kWh, i.e. 7.2 units."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "5 × 3 = 15",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "State Joule's law of heating. A 5 Ω resistor is connected to a 10 V battery for 2 minutes. Calculate the heat produced in joules.",
+          "answer": "The heat produced in a conductor is directly proportional to the square of the current, the resistance and the time for which current flows: H = I²Rt. I = V/R = 10/5 = 2 A; t = 120 s. H = 2² × 5 × 120 = 2400 J.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "(a) An electric iron is marked 220 V–50 Hz and 1 kW. Explain these markings. Can it be used on both AC and DC? (b) Calculate the resistance of its heating element.",
+          "answer": "(a) 220 V is the voltage at which it is designed to work; 50 Hz is the frequency of the AC mains; 1 kW is the power it uses at 220 V. Yes, it works on DC too, because the heating effect (I²R) does not depend on the direction of the current. (b) R = V²/P = 220²/1000 = 48.4 Ω.",
+          "years": [
+            "October 2022"
+          ]
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "Derive the expression for the equivalent resistance of three resistors in series. What is the total resistance of 2 Ω, 3 Ω and 6 Ω in series?",
+          "answer": "In series the same current I flows through each, and V = V1 + V2 + V3 = IR1 + IR2 + IR3. If Rs is the equivalent resistance, V = IRs, so Rs = R1 + R2 + R3. For 2, 3 and 6 Ω: Rs = 11 Ω."
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "An electric iron of resistance 25 Ω takes a current of 5 A. Calculate the heat developed in 1 minute.",
+          "answer": "H = I²Rt = 5² × 25 × 60 = 37 500 J = 3.75 × 10⁴ J."
+        },
+        {
+          "id": "5.5",
+          "type": "open",
+          "q": "How much time will a 2 kW immersion rod take to raise the temperature of 1 litre of water from 30 °C to 60 °C? (Specific heat of water = 4.18 × 10³ J kg⁻¹ °C⁻¹)",
+          "answer": "Heat needed = mcθ = 1 × 4180 × 30 = 125 400 J. Heat supplied = Pt = 2000 × t. So t = 125 400/2000 = 62.7 s."
+        }
+      ]
+    },
+    {
+      "no": 6,
+      "title": "Long answer questions. Answer in 80–120 words.",
+      "marks": "2 × 5 = 10",
+      "questions": [
+        {
+          "id": "6.1",
+          "type": "open",
+          "q": "(a) Derive the relation for the equivalent resistance of three resistors connected in parallel. (b) Resistors of 10 Ω, 15 Ω and 30 Ω are connected in parallel to a 12 V battery. Calculate (i) the total resistance of the circuit and (ii) the current through the 10 Ω resistor.",
+          "answer": "(a) In parallel each resistor has the same potential difference V, and the total current is the sum of the branch currents: I = I1 + I2 + I3 = V/R1 + V/R2 + V/R3. If Rp is the equivalent resistance, I = V/Rp, so 1/Rp = 1/R1 + 1/R2 + 1/R3. (b) (i) 1/Rp = 1/10 + 1/15 + 1/30 = (3 + 2 + 1)/30 = 6/30, so Rp = 5 Ω. (ii) The 10 Ω resistor has 12 V across it: I = 12/10 = 1.2 A.",
+          "years": [
+            "April 2022"
+          ]
+        },
+        {
+          "id": "6.2",
+          "type": "open",
+          "q": "(a) Derive an expression for the heat produced in a conductor when current flows through it. (b) What is electric power? Derive its expression in terms of I and R. (c) A torch bulb is marked 3.0 V, 500 mA. Calculate its power and resistance.",
+          "answer": "(a) Moving charge Q through a potential difference V needs work W = VQ = VIt (Q = It). By Ohm's law V = IR, so W = I²Rt, which appears as heat: H = I²Rt. (b) Electric power is the rate of using electrical energy: P = W/t = VI = (IR)I = I²R (also V²/R); unit watt. (c) P = VI = 3.0 × 0.5 = 1.5 W; R = V/I = 3.0/0.5 = 6 Ω.",
+          "years": [
+            "April 2017"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,473 @@
+{
+  "subject": "science",
+  "lesson": 7,
+  "title": "Chemical Bonding",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "14 × 1 = 14",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "In respect of ionic compounds, which one of the following properties is incorrect?",
+          "options": [
+            "They are solid and hard.",
+            "Their melting and boiling points are high.",
+            "They are soluble in organic solvents.",
+            "They are good conductors of electricity in the molten state."
+          ],
+          "answer": "C",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "If two chlorine atoms share one of their electrons, they both attain the stable configuration of the noble gas —",
+          "options": [
+            "neon",
+            "argon",
+            "krypton",
+            "xenon"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "Which of the following is formed by the transfer of electrons?",
+          "options": [
+            "Oxygen",
+            "Nitrogen",
+            "Hydrogen",
+            "Sodium chloride"
+          ],
+          "answer": "D",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "Na⁺(g) + Cl⁻(g) → X. X in this reaction is —",
+          "options": [
+            "solid sodium chloride",
+            "liquid sodium chloride",
+            "gaseous sodium chloride",
+            "molten sodium chloride"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "The number of covalent bonds between the two atoms in a nitrogen molecule is —",
+          "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "Which of the following is a covalent compound?",
+          "options": [
+            "Sodium chloride",
+            "Magnesium oxide",
+            "Hydrogen chloride",
+            "Calcium chloride"
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "In the sodium chloride crystal, each Na⁺ ion is surrounded by —",
+          "options": [
+            "four Cl⁻ ions",
+            "six Cl⁻ ions",
+            "eight Cl⁻ ions",
+            "two Cl⁻ ions"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "Solid sodium chloride does not conduct electricity because —",
+          "options": [
+            "its ions are not free to move",
+            "it has no ions",
+            "it is a covalent compound",
+            "it contains free electrons"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "The electronic configuration of Mg²⁺ is —",
+          "options": [
+            "2, 8, 2",
+            "2, 8",
+            "2, 8, 8",
+            "2, 6"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "The ions present in magnesium oxide are —",
+          "options": [
+            "Mg⁺ and O⁻",
+            "Mg²⁺ and O²⁻",
+            "Mg²⁺ and O⁻",
+            "Mg⁺ and O²⁻"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "A double bond is present in —",
+          "options": [
+            "H2",
+            "Cl2",
+            "O2",
+            "N2"
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "Which of the following is a property of covalent compounds?",
+          "options": [
+            "High melting point",
+            "Good conductor in water",
+            "Soluble in organic solvents",
+            "Hard crystalline solids"
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "1.13",
+          "type": "mcq",
+          "q": "The attainment of 8 electrons in the outermost shell for stability is called the —",
+          "options": [
+            "octet rule",
+            "periodic law",
+            "law of octaves",
+            "Bohr rule"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.14",
+          "type": "mcq",
+          "q": "When a chlorine atom changes to a chloride ion, it —",
+          "options": [
+            "loses one electron",
+            "gains one electron",
+            "loses one proton",
+            "gains one proton"
+          ],
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark (fill in the blanks, match the columns, true/false or a short passage).",
+      "marks": "6 × 2 = 12",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "Write True (T) or False (F): (1) Ionic bonds are formed by the transfer of electrons. (2) Covalent compounds usually conduct electricity in water.",
+          "answer": "(1) True (2) False — covalent compounds have no ions, so they do not conduct.",
+          "years": [
+            "April 2026",
+            "October 2025"
+          ],
+          "note": "October 2025 asked: 'Ionic bonds are formed by the sharing of electrons' (False) and 'Covalent compounds generally have low melting and boiling points' (True)."
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Write True (T) or False (F): (a) A double bond is formed when two similar atoms share two pairs of electrons between them. (b) Covalent compounds conduct electricity and are good conductors.",
+          "answer": "(a) True (b) False",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "Write True (T) or False (F): (a) Ionic compounds do not conduct electricity in their molten state and in aqueous solution. (b) Some covalent compounds are solids; they have low melting and boiling points.",
+          "answer": "(a) False — they conduct when molten or dissolved. (b) True",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Complete the sentences using the words given (loss, chemical bonding, bad conductor, good conductor, gain): (i) Atoms of elements in a molecule are held together by ________. (ii) Metals form cations by ________ of electrons.",
+          "answer": "(i) chemical bonding (ii) loss",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Other parts: non-metals form anions by gain of electrons; ethyl alcohol is a bad conductor of electricity in aqueous solution."
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "Write True (T) or False (F): (i) The electronic configuration of argon is 2, 8, 8. (ii) In the formation of sodium chloride, the sodium atom gains one electron and the chlorine atom loses one electron.",
+          "answer": "(i) True (ii) False — sodium loses and chlorine gains an electron.",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Other parts: a covalent bond is formed by mutual sharing of electrons (True); ethyl alcohol produces H⁺ ions in water (False)."
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "Fill in the blanks: The force that holds Na⁺ and Cl⁻ together is called ________ attraction, and the bond formed by sharing three pairs of electrons is a ________ bond.",
+          "answer": "electrostatic; triple"
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Read the passage and answer the questions that follow.",
+      "marks": "5 × 1 = 5",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "mcq",
+          "q": "The sodium ion has the same electronic configuration as —",
+          "options": [
+            "neon",
+            "argon",
+            "helium",
+            "magnesium"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "3.2",
+          "type": "mcq",
+          "q": "The type of bond in Cl2 is —",
+          "options": [
+            "ionic",
+            "single covalent",
+            "double covalent",
+            "metallic"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "3.3",
+          "type": "mcq",
+          "q": "Which of these conducts electricity?",
+          "options": [
+            "Molten sodium chloride",
+            "Solid sodium chloride",
+            "Ethyl alcohol",
+            "Liquid chlorine"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "3.4",
+          "type": "mcq",
+          "q": "The number of electrons around chlorine in the HCl molecule is —",
+          "options": [
+            "7",
+            "8",
+            "2",
+            "6"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "3.5",
+          "type": "mcq",
+          "q": "Ionic compounds have high melting points because —",
+          "options": [
+            "the forces between their ions are strong",
+            "they are made of molecules",
+            "they are gases",
+            "their bonds are weak"
+          ],
+          "answer": "A"
+        }
+      ],
+      "fixed": true,
+      "passage": "Atoms combine to attain the stable configuration of the nearest noble gas. A metal such as sodium (2,8,1) gives its outer electron to a non-metal such as chlorine (2,8,7); the ions formed are held by electrostatic attraction in a crystal lattice. Non-metal atoms such as two chlorine atoms, or hydrogen and chlorine, complete their octets by sharing pairs of electrons, forming molecules. Ionic compounds have high melting points and conduct when molten; covalent compounds have low melting points and do not conduct."
+    },
+    {
+      "no": 4,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "6 × 2 = 12",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "Why do noble gases not take part in chemical reactions?",
+          "answer": "Noble gases already have a stable configuration — 8 electrons in the outermost shell (helium has 2). They have no tendency to lose, gain or share electrons, so they do not react."
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "Why are ionic compounds good conductors of electricity in the molten state but bad conductors in the solid state?",
+          "answer": "In the solid state the ions are held in fixed positions in the crystal lattice and cannot move. On melting (or dissolving in water) the lattice breaks and the ions become free to move, so they carry current."
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "Write two differences between ionic and covalent compounds.",
+          "answer": "(1) Ionic compounds are hard crystalline solids with high melting and boiling points; covalent compounds may be gases, liquids or solids with low melting and boiling points. (2) Ionic compounds conduct electricity when molten or in water and dissolve in water; covalent compounds do not conduct and usually dissolve in organic solvents."
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "How many covalent bonds are present in H2O, HCl, O2 and N2?",
+          "answer": "H2O: 2 (two O–H single bonds); HCl: 1; O2: 2 (a double bond); N2: 3 (a triple bond)."
+        },
+        {
+          "id": "4.5",
+          "type": "open",
+          "q": "Explain the formation of the Na⁺ ion from a sodium atom.",
+          "answer": "Sodium (Z = 11) has configuration 2, 8, 1. It loses its single outer electron: Na → Na⁺ + e⁻. The ion has 11 protons and 10 electrons, so it has one positive charge, and its configuration 2, 8 is like that of neon."
+        },
+        {
+          "id": "4.6",
+          "type": "open",
+          "q": "Why are covalent compounds poor conductors of electricity?",
+          "answer": "Covalent compounds are made of electrically neutral molecules. They have no ions or free electrons to carry charge, so they do not conduct electricity even in solution (e.g. ethyl alcohol)."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "7 × 3 = 21",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "Element X has atomic number 11 and element Y has atomic number 17. (a) Write the electronic configuration of both. (b) Which type of bond will form between X and Y? (c) Write the formula of the compound formed.",
+          "answer": "(a) X (sodium): 2, 8, 1; Y (chlorine): 2, 8, 7. (b) X loses one electron and Y gains it, so an ionic (electrovalent) bond forms between X⁺ and Y⁻. (c) XY, i.e. NaCl.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "An element A has atomic number 12 and element B has atomic number 8. (a) What type of bond will they form? Give reason. (b) Explain the electrical conductivity of the compound formed.",
+          "answer": "(a) A (magnesium, 2,8,2) loses two electrons to become A²⁺ and B (oxygen, 2,6) gains them to become B²⁻; this transfer forms an ionic bond, giving AB (MgO). (b) Being ionic, it does not conduct in the solid state (ions fixed) but conducts when molten (ions free to move).",
+          "years": [
+            "October 2022"
+          ]
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "How is a covalent bond formed? Explain the formation of the oxygen molecule. Why are covalent compounds poor conductors of electricity?",
+          "answer": "A covalent bond forms when two atoms share one or more pairs of electrons so that each completes its octet. Each oxygen atom (2,6) needs two electrons; the two atoms share two pairs of electrons, forming a double bond (O=O), and each now has 8 outer electrons. Covalent compounds consist of neutral molecules with no ions or free electrons, so they cannot carry current.",
+          "years": [
+            "April 2023"
+          ]
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "Explain the formation of the covalent bond between hydrogen and chlorine to form HCl. Write two properties of covalent substances.",
+          "answer": "Hydrogen (1) needs one electron to have 2, and chlorine (2,8,7) needs one to have 8. Each gives one electron to form a shared pair, H–Cl, a single covalent bond; H now has 2 and Cl has 8 outer electrons. Properties: low melting and boiling points; do not conduct electricity; usually insoluble in water but soluble in organic solvents.",
+          "years": [
+            "April 2019"
+          ]
+        },
+        {
+          "id": "5.5",
+          "type": "open",
+          "q": "Write two differences between the properties of ionic and covalent compounds. Give two examples of each.",
+          "answer": "(1) Ionic compounds are hard crystalline solids with high melting and boiling points; covalent compounds are often gases or liquids with low melting and boiling points. (2) Ionic compounds conduct electricity when molten or in solution and dissolve in water; covalent compounds do not conduct and dissolve in organic solvents. Ionic: sodium chloride, magnesium oxide. Covalent: methane, hydrogen chloride (also water, CCl4).",
+          "years": [
+            "October 2017"
+          ]
+        },
+        {
+          "id": "5.6",
+          "type": "open",
+          "q": "How is an ionic bond formed? Explain the formation of magnesium oxide.",
+          "answer": "An ionic bond forms when a metal atom transfers electrons to a non-metal atom and the oppositely charged ions attract each other. Magnesium (2,8,2) loses two electrons: Mg → Mg²⁺ + 2e⁻ (2,8). Oxygen (2,6) gains them: O + 2e⁻ → O²⁻ (2,8). Both ions now have the neon configuration and are held together by electrostatic attraction, forming MgO.",
+          "years": [
+            "October 2019"
+          ],
+          "note": "October 2019 asked for both sodium chloride and magnesium oxide."
+        },
+        {
+          "id": "5.7",
+          "type": "open",
+          "q": "Explain the process of covalent bond formation with an example. Identify the covalent bonds in N2, Cl2, O2 and HCl.",
+          "answer": "Two non-metal atoms each contribute electrons to form shared pairs, so that both complete their octet; e.g. two chlorine atoms (2,8,7) share one pair to form Cl–Cl. N2: triple bond (N≡N, 3 shared pairs); Cl2: single bond; O2: double bond (O=O); HCl: single bond (H–Cl).",
+          "years": [
+            "April 2022",
+            "April 2017"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 6,
+      "title": "Long answer questions. Answer in 80–120 words.",
+      "marks": "2 × 5 = 10",
+      "questions": [
+        {
+          "id": "6.1",
+          "type": "open",
+          "q": "Describe the formation of the ionic bond between sodium and chlorine atoms to form sodium chloride. Explain why the melting and boiling points of ionic compounds are higher than those of covalent compounds, and why sodium chloride conducts electricity when molten but not as a solid.",
+          "answer": "Sodium (2,8,1) loses its outer electron to form Na⁺ (2,8); chlorine (2,8,7) gains it to form Cl⁻ (2,8,8). Both reach noble-gas configurations, and the oppositely charged ions are held by a strong electrostatic force — the ionic bond (2Na + Cl2 → 2NaCl). In the crystal each Na⁺ is surrounded by six Cl⁻ and vice versa. A lot of energy is needed to break these strong forces between ions, so ionic compounds have high melting and boiling points; covalent compounds have only weak forces between molecules. In solid NaCl the ions are fixed and cannot move, so it does not conduct; when molten (or in water) the ions are free to move and carry current.",
+          "years": [
+            "October 2021",
+            "April 2021",
+            "October 2016"
+          ]
+        },
+        {
+          "id": "6.2",
+          "type": "open",
+          "q": "What is meant by (i) an ionic bond and (ii) a covalent bond? Compare ionic and covalent compounds with respect to physical state, conductivity and solubility.",
+          "answer": "(i) An ionic bond is the electrostatic attraction between ions formed by the transfer of electrons from a metal to a non-metal (e.g. NaCl). (ii) A covalent bond is formed by the sharing of electron pairs between atoms (e.g. Cl2, HCl). Physical state: ionic compounds are hard crystalline solids; covalent compounds may be gases, liquids or soft solids. Conductivity: ionic compounds conduct when molten or dissolved, not as solids; covalent compounds do not conduct. Solubility: ionic compounds usually dissolve in water but not in organic solvents; covalent compounds usually dissolve in organic solvents but not in water.",
+          "years": [
+            "April 2025"
+          ]
+        }
+      ]
+    }
+  ]
+}

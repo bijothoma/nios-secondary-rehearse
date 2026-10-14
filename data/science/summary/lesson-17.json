@@ -1,0 +1,186 @@
+{
+  "subject": "science",
+  "lesson": 17,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 17: Magnetic Effect of Electric Current — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Magnets and their properties"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "The ancient Greeks found lodestone, a natural magnet (an iron oxide, Fe3O4) that attracts iron. Natural magnets are weak, so strong artificial (permanent) magnets are made in many shapes — bar, horseshoe, cylindrical, circular, rectangular — and used in motors, loudspeakers, microphones, door bells, headphones and generators. Properties: a magnet attracts iron (most strongly at its poles); a freely suspended magnet always rests in the north–south direction (north pole and south pole); like poles repel and unlike poles attract; iron brought near a magnet becomes a magnet itself; the poles cannot be separated — each broken piece is a complete magnet."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Magnetic field"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "The region around a magnet in which a compass needle experiences a force (torque) is its magnetic field. It is shown by magnetic lines of force: they start at the north pole and end at the south pole outside the magnet; they never intersect; and they are crowded near the poles, where the field is strongest. The tangent at any point gives the field direction. The earth behaves like a giant bar magnet (because of currents in its molten iron core); its magnetic poles are tilted about 11° from the geographic poles, so a compass needle points roughly north–south and helps navigation."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Magnetic field of a current"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "In 1820 H.C. Oersted found that a compass needle near a current-carrying wire is deflected: an electric current produces a magnetic field around it. A larger current gives a larger deflection, reversing the current reverses the deflection, and stopping the current removes it. The field around a straight wire is in circles; its direction is given by the right-hand thumb rule — hold the wire in the right hand with the thumb along the current, and the curled fingers show the direction of the field."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Solenoid and electromagnet"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "A solenoid is a long coil of insulated wire. When current flows through it, it behaves like a bar magnet, with field lines like those of a bar magnet (parallel lines inside). With a soft iron core inside, it becomes an electromagnet, because the iron's atoms line up and strengthen the field. The strength of an electromagnet depends on the current, the number of turns and the nature of the core. Compared with a bar magnet (permanent, fixed strength and poles, weaker), an electromagnet is temporary (magnetic only while current flows), its strength can be changed by changing the current, its poles can be reversed by reversing the current, and it can be made very strong. Uses: electric bells, motors, generators, cranes, MRI machines, brakes of fast trains, particle accelerators."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Electric bell: pressing the button completes the circuit, the U-shaped electromagnet attracts the soft-iron armature and the hammer strikes the gong; this breaks the circuit at the contact screw, the electromagnet loses its magnetism and the spring pulls the armature back, remaking the circuit — so the hammer strikes repeatedly while the button is pressed."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Force on a current-carrying conductor"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "A current-carrying wire placed in a magnetic field experiences a force (studied by Faraday); it is greatest when the wire is perpendicular to the field and reverses when the current or the field is reversed. Fleming's left-hand rule: stretch the thumb, forefinger and middle finger of the left hand mutually perpendicular — if the forefinger points along the field and the middle finger along the current, the thumb gives the direction of the force (motion). This force is the principle of the electric motor, which changes electrical energy into mechanical energy (fans, mixers, washing machines, cranes)."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Electromagnetic induction"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Michael Faraday (1831) discovered that a changing magnetic field linked with a coil produces (induces) a current in it — electromagnetic induction. Moving a magnet into or out of a coil connected to a galvanometer makes the needle deflect, in opposite directions for in and out; the faster the movement, the larger the current. Similarly, changing the current in one coil induces a current in a nearby coil. Generators and transformers work on this principle; Fleming's right-hand rule gives the direction of the induced current."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Electric generators"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "A generator changes mechanical energy into electrical energy. AC generator: a rectangular coil (ABCD) rotates between the poles of a strong magnet; its ends are joined to two slip rings with brushes. As the coil turns, the magnetic field through it changes continuously and the induced current reverses its direction every half rotation — alternating current (AC). The current produced depends on the number of turns, the strength of the magnetic field and the speed of rotation (also the area of the coil). DC generator: the slip rings are replaced by a split-ring commutator, which reverses the connections every half turn, so the current in the outer circuit flows in one direction — direct current (DC), suitable for charging batteries."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "AC and DC"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "A battery gives DC, which flows in one direction; mains supply is AC, which changes direction periodically. In India the frequency is 50 Hz: the current completes 50 cycles each second (changing direction 100 times), so frequency is quoted for AC but not for DC. AC is preferred for supply because its voltage can be stepped up or down with transformers, so it is transmitted at high voltage and low current with little loss, and AC machines are robust; transformers do not work with DC. DC is needed for electroplating and electrolysis, charging batteries and making electromagnets. A rectifier changes AC to DC. DC of the same voltage is more dangerous, because a person cannot let go of it."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Household supply and safety"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Power stations generate AC at about 11 kV and 50 Hz; step-up transformers raise it to 132 kV or more for transmission, and step-down transformers lower it to 220 V for homes. Two wires come into a house: the live (phase) wire, usually red, at 220 V, and the neutral wire (black) at zero; a third, the earth wire (green), is connected to a copper plate buried in the ground. Appliances are joined in parallel. Accidents are caused by current leakage (worn insulation), short circuit (live and neutral touching) and overloading (too many appliances on one circuit). Safety devices: the fuse — a wire of tin–lead alloy with high resistance and low melting point, connected in series in the live wire, which melts when the current is too large (5 A for lighting, 15 A for power circuits); the miniature circuit breaker (MCB), a switch that trips automatically on overload or short circuit; and earthing of metal bodies of appliances, which carries leaked current safely to the ground. Precautions: switch off the main switch before repairs or in emergencies; never touch live wires; separate a shock victim using a dry non-conductor; never pour water on an electrical fire; use ISI-marked wires and fittings; a tester shows whether a point is live."
+        ]
+      ]
+    }
+  ]
+}

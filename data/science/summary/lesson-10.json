@@ -1,0 +1,168 @@
+{
+  "subject": "science",
+  "lesson": 10,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 10: Force and Motion — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Force"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "A force is a push or a pull on an object. A force can make a body at rest move, change the speed of a moving body, change its direction of motion, or change its shape (pressing a balloon)."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Balanced and unbalanced forces"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "When equal forces act in opposite directions (two equal teams in a tug-of-war, or pushing a brick equally from both sides) they are balanced: the net force is zero and the state of rest or motion does not change, although balanced forces can change the shape of a body. When the forces are unequal they are unbalanced, and the body starts moving, speeds up, slows down or changes direction in the direction of the larger force."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Inertia and Newton's first law"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Inertia is the tendency of a body to stay at rest or to keep moving with the same velocity — to resist any change in its state. Examples: a glass on a paper stays put when the paper is jerked away; dust leaves a carpet when it is beaten; leaves and fruits fall when a branch is shaken; sauce comes out when a bottle is jerked; a sprinter keeps running after the finish line. Mass is the measure of inertia — a full box or a cricket ball is harder to move or stop than an empty box or a table-tennis ball."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Newton's first law (law of inertia): every body continues in its state of rest or of uniform motion in a straight line unless it is compelled by an unbalanced force to change that state. When a bus starts suddenly, standing passengers fall backward (their feet move with the bus, the upper body stays at rest); when a moving bus stops suddenly they fall forward (the upper body keeps moving)."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Momentum and Newton's second law"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Momentum p = mass × velocity (p = mv); its SI unit is kg m s⁻¹ and it is a vector in the direction of velocity. A bullet fired from a gun or a moving truck has a large momentum and a large effect. Second law: the rate of change of momentum of a body is directly proportional to the force acting on it and takes place in the direction of the force. From F ∝ (mv − mu)/t we get F = ma. The SI unit of force is the newton (N): 1 N gives a mass of 1 kg an acceleration of 1 m s⁻² (about the weight of 100 g). Examples: a fielder moves his hands back while catching to increase the time and reduce the force; falling on a cement floor hurts but falling on sand does not; a karate player breaks tiles with a very fast blow; a string breaks when a bundle is jerked up."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Newton's third law and conservation of momentum"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Third law: to every action there is an equal and opposite reaction. Action and reaction (i) are interchangeable, (ii) always act on two different bodies, so they do not cancel, and (iii) act at the same time; the bodies need not touch (two magnets). Examples: a released balloon moves opposite to the escaping air; a boat moves back when you jump ashore; we walk by pushing the ground back and the ground pushes us forward; a swimmer pushes water back; rockets and jet planes push hot gases backward; a gun recoils; a lawn sprinkler spins as water leaves it."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Law of conservation of momentum: when bodies collide or interact and no external force acts, the total momentum before equals the total momentum after (m1u1 + m2u2 = m1v1 + m2v2). For a gun firing a bullet both start at rest, so 0 = MV + mv, giving the recoil velocity V = −mv/M (opposite to the bullet). Example: a 3 kg rifle firing a 0.03 kg bullet at 100 m/s recoils at 1 m/s."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Friction"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Friction is the force that opposes motion between surfaces in contact; it is why a rolling ball or a car with its engine off slows down. Static friction acts before a body starts moving; sliding (kinetic) friction is slightly less; rolling friction is much less than sliding friction. Friction depends on the nature (smoothness) of the surfaces — a pencil cell rolls farthest on glass and least on sand — and on the normal reaction (a heavier box needs more force)."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Advantages: we can walk, write, hold a nail in a wall, construct buildings; treaded tyres grip the road; brakes work. Disadvantages: energy is wasted as heat, machines wear out and become less efficient, shoe soles and steps wear away. Friction is reduced by lubricants (oil in a sewing machine), ball bearings (rolling instead of sliding) and smooth surfaces."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Thrust and pressure"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Thrust is the force acting perpendicular to a surface; pressure = thrust/area, with SI unit N m⁻² called the pascal (Pa), after Blaise Pascal. The same force on a smaller area gives more pressure: knives and axes have sharp edges and nails have pointed tips. To reduce pressure the area is increased: wide foundations of buildings and dams, wide tyres on heavy trucks, chains on army tanks, broad straps on school bags, a porter's round cloth pad, a camel's broad feet on sand."
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,473 @@
+{
+  "subject": "science",
+  "lesson": 25,
+  "title": "Heredity",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "15 × 1 = 15",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "The safest blood group (gene combination) for transfusion to an accident victim whose blood group is unknown is —",
+          "options": [
+            "IᴬIᴮ (AB)",
+            "Iᴬi (A)",
+            "ii (O)",
+            "Iᴮi (B)"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2019",
+            "April 2021"
+          ]
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "Thalassemia is related to —",
+          "options": [
+            "red blood cells",
+            "white blood cells",
+            "platelets",
+            "blood plasma"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "The number of chromosomes stays constant from generation to generation because of —",
+          "options": [
+            "doubling of chromosomes in the zygote",
+            "halving of chromosomes during gamete formation",
+            "mitosis in body cells",
+            "replication of DNA"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2021"
+          ]
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "In genetic engineering the enzyme used to cut DNA is —",
+          "options": [
+            "DNA polymerase",
+            "restriction enzyme",
+            "ligase",
+            "amylase"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "The father of genetics is —",
+          "options": [
+            "Darwin",
+            "Mendel",
+            "Sutton",
+            "Khorana"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "The diploid number of chromosomes in humans is —",
+          "options": [
+            "23",
+            "44",
+            "46",
+            "48"
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "The number of pairs of autosomes in a human cell is —",
+          "options": [
+            "22",
+            "23",
+            "44",
+            "46"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "A person with genes Iᴬi has blood group —",
+          "options": [
+            "A",
+            "B",
+            "AB",
+            "O"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "The universal recipient blood group is —",
+          "options": [
+            "A",
+            "B",
+            "AB",
+            "O"
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "If a Y-bearing sperm fertilises an egg, the child will be —",
+          "options": [
+            "a girl",
+            "a boy",
+            "either",
+            "twins"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "Which of the following is NOT a base of DNA?",
+          "options": [
+            "Adenine",
+            "Thymine",
+            "Uracil",
+            "Guanine"
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "The genes for colour-blindness and haemophilia are located on the —",
+          "options": [
+            "Y chromosome",
+            "X chromosome",
+            "autosomes",
+            "mitochondria"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "1.13",
+          "type": "mcq",
+          "q": "Mendelian factors were shown to be present on chromosomes by —",
+          "options": [
+            "Mendel",
+            "Sutton",
+            "de Vries",
+            "Watson"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "1.14",
+          "type": "mcq",
+          "q": "Small circular DNA in bacteria used to carry genes in genetic engineering is the —",
+          "options": [
+            "plasmid",
+            "chromatid",
+            "centromere",
+            "nucleoid"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.15",
+          "type": "mcq",
+          "q": "A pair of genes in which one masks the effect of the other illustrates the law of —",
+          "options": [
+            "segregation",
+            "dominance",
+            "independent assortment",
+            "parental equivalence"
+          ],
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark (fill in the blanks, match the columns, true/false or a short passage).",
+      "marks": "6 × 2 = 12",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "Answer about genetic engineering: (a) What is the first step of inserting a human gene into a bacterium? (b) Name the enzyme that cuts DNA at specific sites.",
+          "answer": "(a) The human DNA is cut with a restriction enzyme to remove the required gene. (b) Restriction enzyme.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Fill in the blanks: Human body cells have ________ pairs of chromosomes, of which ________ pairs are autosomes.",
+          "answer": "23; 22"
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "Match: (1) IᴬIᴮ (2) ii — (a) blood group A (b) blood group AB, universal recipient (c) blood group O, universal donor (d) blood group B",
+          "answer": "(1) – (b); (2) – (c)"
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Write True (T) or False (F): (1) The sex of a child is determined by the mother. (2) A DNA molecule is a double helix.",
+          "answer": "(1) False — it is decided by the sperm (X or Y) from the father. (2) True"
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "Fill in the blanks: Before cell division each chromosome has two ________ joined at the ________.",
+          "answer": "chromatids; centromere"
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "Write True (T) or False (F): (1) Thalassemia is an X-linked disorder. (2) Consanguineous marriages increase the chance of genetic disorders.",
+          "answer": "(1) False — it is autosomal. (2) True"
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Read the passage and answer the questions that follow.",
+      "marks": "5 × 1 = 5",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "mcq",
+          "q": "The son inherited the defective gene from his —",
+          "options": [
+            "father",
+            "mother",
+            "grandfather on the father's side",
+            "own mutation only"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "3.2",
+          "type": "mcq",
+          "q": "The mother is called a —",
+          "options": [
+            "carrier",
+            "patient",
+            "donor",
+            "recessive male"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "3.3",
+          "type": "mcq",
+          "q": "The chromosomes of the son are —",
+          "options": [
+            "44 + XX",
+            "44 + XY",
+            "22 + X",
+            "22 + Y"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "3.4",
+          "type": "mcq",
+          "q": "The daughter does not show colour-blindness because —",
+          "options": [
+            "she has no X chromosome",
+            "the normal gene on the X from her father masks the defective gene",
+            "colour-blindness occurs only in adults",
+            "she has a Y chromosome"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "3.5",
+          "type": "mcq",
+          "q": "Another disorder inherited in the same way is —",
+          "options": [
+            "thalassemia",
+            "haemophilia",
+            "goitre",
+            "diabetes"
+          ],
+          "answer": "B"
+        }
+      ],
+      "fixed": true,
+      "passage": "Ravi and his wife both have normal colour vision, but their son cannot tell blue from green, while their daughter sees colours normally. The doctor explained that the gene for colour vision lies on the X chromosome. A man has one X and one Y chromosome, while a woman has two X chromosomes. A woman carrying one defective gene does not show the disorder because the normal gene on her other X masks it."
+    },
+    {
+      "no": 4,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "6 × 2 = 12",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "Name two plant characteristics that are controlled by a pair of Mendel's factors.",
+          "answer": "Any two: height of the plant (tall/dwarf), colour of the flower, colour or texture of the seed, colour or shape of the pod, position of the flower.",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "Name the four kinds of nucleotides in DNA.",
+          "answer": "Nucleotides with the bases adenine (A), guanine (G), thymine (T) and cytosine (C).",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "What are autosomes? How many pairs of autosomes are there in a human cell?",
+          "answer": "Autosomes are the chromosomes other than the sex chromosomes; they carry genes for body characters. A human cell has 22 pairs.",
+          "years": [
+            "October 2025"
+          ],
+          "or": {
+            "q": "State the two laws of heredity given by Mendel.",
+            "answer": "(1) Law of segregation: each character is controlled by a pair of factors that separate during gamete formation, one going to each gamete. (2) Law of dominance: of a pair of factors one (dominant) expresses itself even in the presence of the other (recessive)."
+          }
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "Why is genetic counselling advisable before marriage between close relatives?",
+          "answer": "Close relatives may carry the same defective recessive gene; their children are more likely to get two copies and suffer from a genetic disorder. Counselling tells the couple the chances so they can decide wisely.",
+          "years": [
+            "October 2016"
+          ]
+        },
+        {
+          "id": "4.5",
+          "type": "open",
+          "q": "What is DNA fingerprinting? Give one use.",
+          "answer": "Identifying a person from the unique pattern of their DNA. It is used to identify criminals from hair or blood left at a crime scene, or to settle disputed parentage."
+        },
+        {
+          "id": "4.6",
+          "type": "open",
+          "q": "What is a GMO?",
+          "answer": "A genetically modified organism — one into whose genome a gene from another species has been inserted by genetic engineering."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "5 × 3 = 15",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "Explain the chromosomal basis of sex determination in humans with a line diagram.",
+          "answer": "Father 44 + XY produces two kinds of sperms (22 + X and 22 + Y); mother 44 + XX produces one kind of egg (22 + X). Egg (22 + X) + sperm (22 + X) → 44 + XX (girl); egg (22 + X) + sperm (22 + Y) → 44 + XY (boy). The chance of each is 50%, and the sex is decided by the sperm.",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "Name three genetic disorders. On which chromosome are the genes of colour-blindness and haemophilia found, and why are these disorders more common in boys?",
+          "answer": "Thalassemia, haemophilia, colour-blindness. The genes are on the X chromosome. A boy has only one X (from his mother) and a Y; if that X carries the defective gene there is no normal gene to mask it, so he shows the disorder. A girl has two X chromosomes, and the normal gene on one usually masks the defective one.",
+          "years": [
+            "April 2022",
+            "April 2016"
+          ]
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "What are genes and what is their chemical nature? What genes will a child with blood group O have?",
+          "answer": "Genes are the units of heredity, located at fixed points on chromosomes; chemically they are segments of DNA (deoxyribonucleic acid). A child with blood group O has the genes ii (one recessive i from each parent).",
+          "years": [
+            "October 2022"
+          ]
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "State two characteristics of chromosomes. Write the three main steps of DNA replication.",
+          "answer": "Chromosomes occur in pairs (one from each parent) and in a fixed number for each species; each is made of one DNA molecule and proteins. Replication: (1) the double helix unwinds with the help of enzymes; (2) DNA polymerase builds a new strand on each old strand, giving two DNA molecules; (3) the two identical molecules form two chromatids joined at the centromere.",
+          "years": [
+            "October 2021"
+          ]
+        },
+        {
+          "id": "5.5",
+          "type": "open",
+          "q": "What is meant by the law of dominance? Explain with an example.",
+          "answer": "When two contrasting factors are present, only one (dominant) expresses itself; the other (recessive) shows only when the dominant one is absent. In pea, a plant with one factor for tallness and one for dwarfness is tall; dwarfness shows only when both factors are for dwarfness."
+        }
+      ]
+    },
+    {
+      "no": 6,
+      "title": "Long answer questions. Answer in 80–120 words.",
+      "marks": "4 × 5 = 20",
+      "questions": [
+        {
+          "id": "6.1",
+          "type": "open",
+          "q": "Describe the process of DNA replication. Name the four bases found in DNA.",
+          "answer": "Before a cell divides, each DNA molecule makes a copy of itself. (1) Enzymes unwind the double helix and separate the two strands. (2) The enzyme DNA polymerase builds a new complementary strand on each parental strand, so two DNA molecules form, each with one old and one new strand (semi-conservative). (3) The two identical DNA molecules become two chromatids joined at the centromere; during cell division they separate, one going to each daughter cell. Bases: adenine, guanine, thymine and cytosine.",
+          "years": [
+            "October 2025",
+            "October 2017"
+          ],
+          "note": "October 2017 also asked why chromatids form before cell division — so that each daughter cell receives an identical copy of every chromosome."
+        },
+        {
+          "id": "6.2",
+          "type": "open",
+          "q": "Explain the inheritance of ABO blood groups in humans. Why is O called the universal donor and AB the universal recipient?",
+          "answer": "Blood groups are controlled by three genes — Iᴬ, Iᴮ and i — of which each person carries two, one from each parent. Iᴬ and Iᴮ are dominant over i and are equal to each other. IᴬIᴬ or Iᴬi give group A; IᴮIᴮ or Iᴮi give group B; IᴬIᴮ gives AB; ii gives O. A child of an Iᴬi father and an Iᴮi mother can have A, B, AB or O. O blood can be given to people of all four groups, so O is the universal donor; AB people can receive blood of any group, so AB is the universal recipient. The safest blood in an emergency is O negative."
+        },
+        {
+          "id": "6.3",
+          "type": "open",
+          "q": "What are hereditary disorders? Describe thalassemia, haemophilia and colour-blindness and explain the role of genetic counselling.",
+          "answer": "A hereditary disorder is caused by a defective gene passed from parents to offspring; it cannot be cured by medicines. Thalassemia: an autosomal disorder in which the person cannot make haemoglobin and needs frequent blood transfusions. Haemophilia: the clotting substance is missing, so bleeding does not stop. Colour-blindness: inability to distinguish colours such as blue and green. Haemophilia and colour-blindness genes are on the X chromosome and pass from carrier mothers to sons. Genetic counselling tells couples, especially close relatives, the probability of a disorder in their children so that they can make informed decisions."
+        },
+        {
+          "id": "6.4",
+          "type": "open",
+          "q": "What is genetic engineering? Outline its main steps and give two benefits.",
+          "answer": "Genetic engineering (recombinant DNA technique) transfers a gene from one organism into another species. Steps: the required gene is cut from the donor DNA with a restriction enzyme; a plasmid is cut open with the same enzyme; the gene is joined into the plasmid, forming recombinant DNA; the plasmid is put into a bacterium, which multiplies into a clone that carries and expresses the gene. Benefits: production of human insulin and vaccines; gene therapy for genetic disorders; crops with pest resistance or better nutrition (GM crops)."
+        }
+      ]
+    }
+  ]
+}

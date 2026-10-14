@@ -1,0 +1,600 @@
+{
+  "subject": "science",
+  "lesson": 902,
+  "title": "Model Question Paper 2",
+  "meta": "Time: 2½ hours · Maximum marks: 85 · Modelled on the April 2026 NIOS paper",
+  "instructions": [
+    "All questions are compulsory. Where a question has OR, answer either one.",
+    "Section A: questions 1–17 are MCQs (1 mark each); questions 18–27 have two parts of 1 mark each; question 28 is a passage with five 1-mark questions.",
+    "Section B: 2-mark answers in 30–50 words, 3-mark answers in 50–80 words, 5-mark answers in 80–120 words.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "17 × 1 = 17",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "In ancient times people used to make measurements by using their —",
+          "options": [
+            "thumb",
+            "hand-span",
+            "first finger",
+            "all of the above"
+          ],
+          "answer": "D",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Lesson 1."
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "Which of the following is the correct electronic configuration of magnesium?",
+          "options": [
+            "2, 8, 1",
+            "2, 8, 3",
+            "2, 8, 8",
+            "2, 8, 2"
+          ],
+          "answer": "D",
+          "years": [
+            "October 2024",
+            "April 2025"
+          ],
+          "note": "April 2025 also asked to pick a correct electronic configuration. Lesson 5."
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "Which of the following atoms has the largest atomic radius?",
+          "options": [
+            "C",
+            "N",
+            "O",
+            "F"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Lesson 6."
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "Which of the following is a covalent compound?",
+          "options": [
+            "Sodium chloride",
+            "Magnesium oxide",
+            "Hydrogen chloride",
+            "Calcium chloride"
+          ],
+          "answer": "C",
+          "note": "Lesson 7."
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "A test tube contains a solution in which [H⁺] is greater than [OH⁻]. On adding a few drops of methyl orange, the colour will be —",
+          "options": [
+            "blue",
+            "orange",
+            "red",
+            "yellow"
+          ],
+          "answer": "C",
+          "years": [
+            "October 2016"
+          ],
+          "note": "Lesson 8."
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "A pencil cell released from the same height on an inclined plane rolls onto two different table surfaces. It travels farther on —",
+          "options": [
+            "the rougher surface, which has more friction",
+            "the smoother surface, which has less friction",
+            "both equally",
+            "the surface with more normal reaction"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Lesson 10."
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "If the distance between two bodies is doubled, the gravitational force between them becomes —",
+          "options": [
+            "double",
+            "half",
+            "one-fourth",
+            "four times"
+          ],
+          "answer": "C",
+          "note": "Lesson 11."
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "How is kinetic energy affected when mass increases but speed remains the same?",
+          "options": [
+            "Decreases",
+            "Remains the same",
+            "Increases",
+            "Becomes zero"
+          ],
+          "answer": "C",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 13."
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "A lens that always produces a virtual image is a —",
+          "options": [
+            "convex lens",
+            "concave lens",
+            "plano-convex lens",
+            "double convex lens"
+          ],
+          "answer": "B",
+          "note": "Lesson 15."
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "A heart attack occurs due to —",
+          "options": [
+            "blockage of an artery",
+            "weak heart muscles",
+            "low blood pressure",
+            "high white blood cell count"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 22."
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "Which part of the brain maintains the balance of the body?",
+          "options": [
+            "Cerebrum",
+            "Cerebellum",
+            "Medulla",
+            "Hypothalamus"
+          ],
+          "answer": "B",
+          "note": "Lesson 23."
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "Ginger reproduces vegetatively by its —",
+          "options": [
+            "tuber",
+            "rhizome",
+            "bulb",
+            "runner"
+          ],
+          "answer": "B",
+          "note": "Lesson 24."
+        },
+        {
+          "id": "1.13",
+          "type": "mcq",
+          "q": "Which of the following is NOT a base of DNA?",
+          "options": [
+            "Adenine",
+            "Thymine",
+            "Uracil",
+            "Guanine"
+          ],
+          "answer": "C",
+          "note": "Lesson 25."
+        },
+        {
+          "id": "1.14",
+          "type": "mcq",
+          "q": "The only metal that is liquid at room temperature is —",
+          "options": [
+            "bromine",
+            "mercury",
+            "gallium",
+            "sodium"
+          ],
+          "answer": "B",
+          "note": "Lesson 27."
+        },
+        {
+          "id": "1.15",
+          "type": "mcq",
+          "q": "n-Butane and isobutane are —",
+          "options": [
+            "allotropes",
+            "isomers",
+            "isotopes",
+            "homologues of different series"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 28."
+        },
+        {
+          "id": "1.16",
+          "type": "mcq",
+          "q": "Desert reptiles reduce water loss by excreting —",
+          "options": [
+            "urea",
+            "ammonia",
+            "uric acid",
+            "dilute urine"
+          ],
+          "answer": "C",
+          "note": "Lesson 29."
+        },
+        {
+          "id": "1.17",
+          "type": "mcq",
+          "q": "Which of the following is biodegradable?",
+          "options": [
+            "Aluminium foil",
+            "Plastic bottle",
+            "Grass",
+            "Glass"
+          ],
+          "answer": "C",
+          "note": "Lesson 30."
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark (fill in the blanks, match the columns, true/false or a short passage).",
+      "marks": "10 × 2 = 20",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "Match Column I with Column II: (1) 10 N (2) 10 W — (P) 10⁸ g cm² s⁻² (Q) 10⁸ g cm² s⁻³ (R) 10⁵ g cm s⁻² (S) 10⁶ g cm s⁻²",
+          "answer": "(1) 10 N – (S) 10⁶ g cm s⁻² (1 N = 10⁵ g cm s⁻²); (2) 10 W – (Q) 10⁸ g cm² s⁻³ (1 W = 10⁷ g cm² s⁻³)",
+          "years": [
+            "October 2024"
+          ],
+          "note": "Lesson 1."
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Match the elements with their correct electronic configurations: (1) Nitrogen (N) (2) Magnesium (Mg) — (a) 2, 8, 2 (b) 2, 5 (c) 2, 8 (d) 2, 6",
+          "answer": "(1) Nitrogen – (b) 2, 5; (2) Magnesium – (a) 2, 8, 2",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 5."
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "Match the element with its nature: (a) Carbon (b) Silicon — (P) Metalloid (Q) Alloy (R) Metal (S) Non-metal",
+          "answer": "(a) Carbon – (S) Non-metal; (b) Silicon – (P) Metalloid",
+          "years": [
+            "October 2024"
+          ],
+          "note": "Lesson 6."
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Fill in the blanks: The force that holds Na⁺ and Cl⁻ together is called ________ attraction, and the bond formed by sharing three pairs of electrons is a ________ bond.",
+          "answer": "electrostatic; triple",
+          "note": "Lesson 7."
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "Write True (T) or False (F): (1) Aqueous solutions of all salts are neutral. (2) Carbon dioxide turns lime water milky because calcium carbonate is formed.",
+          "answer": "(1) False — e.g. Na2CO3 solution is basic and NH4Cl solution is acidic. (2) True",
+          "note": "Lesson 8."
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "Answer about genetic engineering: (a) What is the first step of inserting a human gene into a bacterium? (b) Name the enzyme that cuts DNA at specific sites.",
+          "answer": "(a) The human DNA is cut with a restriction enzyme to remove the required gene. (b) Restriction enzyme.",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 25."
+        },
+        {
+          "id": "2.7",
+          "type": "open",
+          "q": "Write True (T) or False (F): (1) Roasting is heating sulphide ores strongly in the presence of oxygen. (2) Calcination converts carbonate ores into oxides.",
+          "answer": "(1) True (2) True",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 27."
+        },
+        {
+          "id": "2.8",
+          "type": "open",
+          "q": "Match: (1) Formalin (2) Acetone — (a) nail-polish remover (b) preserving biological specimens (c) vinegar (d) fermentation",
+          "answer": "(1) – (b); (2) – (a)",
+          "years": [
+            "October 2022"
+          ],
+          "note": "Lesson 28."
+        },
+        {
+          "id": "2.9",
+          "type": "open",
+          "q": "Read the passage about a pond ecosystem and answer: (a) What will happen to the nutrients if there are no decomposers? (b) Which abiotic factor caused the faster growth of algae after a few sunny days?",
+          "answer": "(a) Nutrients will not be recycled; dead matter will pile up and nutrients will stay locked in it. (b) Sunlight.",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 29."
+        },
+        {
+          "id": "2.10",
+          "type": "open",
+          "q": "Match: (1) Seismograph (2) Chipko movement — (a) measures earthquakes (b) saving trees by hugging them (c) measures noise (d) cleaning rivers",
+          "answer": "(1) – (a); (2) – (b)",
+          "note": "Lesson 30."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Read the passage and answer the questions that follow.",
+      "marks": "5 × 1 = 5",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "mcq",
+          "q": "How much work is done on a stone weighing 100 N that you carry horizontally across a 10 m road?",
+          "options": [
+            "1000 J",
+            "100 J",
+            "0",
+            "10 N m⁻¹"
+          ],
+          "answer": "C",
+          "note": "Lesson 13."
+        },
+        {
+          "id": "3.2",
+          "type": "mcq",
+          "q": "How much potential energy does the stone have on the other side of the road, compared with the start?",
+          "options": [
+            "Same as it had initially",
+            "100 J more",
+            "1000 J more",
+            "Zero"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "3.3",
+          "type": "mcq",
+          "q": "How much work is done on a stone weighing 100 N when you lift it by 1 m?",
+          "options": [
+            "1000 J",
+            "100 J",
+            "0",
+            "100 kg m"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "3.4",
+          "type": "mcq",
+          "q": "What power is spent if you lift the 100 N stone through 1 m in 1 s?",
+          "options": [
+            "1000 J",
+            "100 J",
+            "100 J s",
+            "100 W"
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "3.5",
+          "type": "mcq",
+          "q": "What is the potential energy of the stone in the lifted position relative to its starting position?",
+          "options": [
+            "100 J",
+            "1000 J",
+            "0",
+            "100 J s⁻¹"
+          ],
+          "answer": "A"
+        }
+      ],
+      "fixed": true,
+      "passage": "Mechanical energy is the capacity of doing work that a body possesses by virtue of its position (potential energy) or its motion (kinetic energy). Mechanical energy can be either in the form of kinetic energy or potential energy or the sum of the two. (October 2024)"
+    },
+    {
+      "no": 4,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "6 × 2 = 12",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "Why can't parts of the human body be used for accurate measurement?",
+          "answer": "Body parts such as the hand span, foot or cubit differ in size from person to person, so the same object gives different results when different people measure it. Such units are arbitrary and the measurements cannot be reproduced, which leads to disputes, especially in trade.",
+          "note": "Lesson 1."
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "Write two differences between ionic and covalent compounds.",
+          "answer": "(1) Ionic compounds are hard crystalline solids with high melting and boiling points; covalent compounds may be gases, liquids or solids with low melting and boiling points. (2) Ionic compounds conduct electricity when molten or in water and dissolve in water; covalent compounds do not conduct and usually dissolve in organic solvents.",
+          "note": "Lesson 7."
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "What is meant by buoyant force? State the factors on which the buoyant force acting on a body at a given place depends.",
+          "answer": "The upward force exerted by a fluid on a body immersed in it is the buoyant force (upthrust). It depends on (1) the density of the fluid and (2) the volume of the body immersed in the fluid.",
+          "years": [
+            "April 2023",
+            "October 2019"
+          ],
+          "note": "Lesson 11."
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "Calculate the work done in moving a charge of 3 C across two points having a potential difference of 24 V.",
+          "answer": "W = qV = 3 C × 24 V = 72 J.",
+          "note": "Lesson 16."
+        },
+        {
+          "id": "4.5",
+          "type": "open",
+          "q": "Why does injury to the medulla oblongata often result in death?",
+          "answer": "The medulla controls vital involuntary actions such as heartbeat and breathing; if it is injured these may stop.",
+          "note": "Lesson 23."
+        },
+        {
+          "id": "4.6",
+          "type": "open",
+          "q": "How many covalent bonds can a carbon atom form, and why?",
+          "answer": "Four. Carbon has four valence electrons (2,4); it can neither lose nor gain four electrons easily, so it shares all four with other atoms to complete its octet.",
+          "years": [
+            "April 2026"
+          ],
+          "or": {
+            "q": "Give one property and one use of graphite.",
+            "answer": "Property: it is soft and slippery (or a good conductor of electricity). Use: as a dry lubricant, in pencil leads, or as electrodes."
+          },
+          "note": "Lesson 28."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "7 × 3 = 21",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "Describe Thomson's model of the atom and why it was discarded. Who performed the α-ray scattering experiment and what were its main conclusions?",
+          "answer": "Thomson's model: a sphere of uniform positive charge with electrons embedded in it. It was discarded because it could not explain why a few α-particles were deflected through large angles. The experiment was done by Geiger and Marsden (under Rutherford). Conclusions: most of the atom is empty space; the positive charge and mass are concentrated in a very small nucleus; the nucleus is about 10 000 times smaller than the atom.",
+          "years": [
+            "October 2021"
+          ],
+          "note": "Lesson 5."
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "Elements A, B, C, D, E and F belong to the same period and have atomic radii 0.64 Å, 1.52 Å, 0.66 Å, 1.06 Å, 0.70 Å and 0.88 Å respectively (none is a noble gas). (a) Arrange them in increasing order of atomic number. (b) Name one metal and one non-metal among them. (c) Which is likely to form a strongly acidic oxide?",
+          "answer": "Atomic size decreases across a period as atomic number increases. (a) B (1.52) < D (1.06) < F (0.88) < E (0.70) < C (0.66) < A (0.64), i.e. B, D, F, E, C, A. (b) B (largest, on the left) is a metal; A (smallest, on the right) is a non-metal. (c) A, the most non-metallic, forms a strongly acidic oxide.",
+          "years": [
+            "October 2024"
+          ],
+          "note": "Lesson 6."
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "An element A has atomic number 12 and element B has atomic number 8. (a) What type of bond will they form? Give reason. (b) Explain the electrical conductivity of the compound formed.",
+          "answer": "(a) A (magnesium, 2,8,2) loses two electrons to become A²⁺ and B (oxygen, 2,6) gains them to become B²⁻; this transfer forms an ionic bond, giving AB (MgO). (b) Being ionic, it does not conduct in the solid state (ions fixed) but conducts when molten (ions free to move).",
+          "years": [
+            "October 2022"
+          ],
+          "note": "Lesson 7."
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "(a) Write the molecular formula and chemical name of bleaching powder. (b) Name the two materials used in its manufacture. (c) Write the equation for its manufacture in the Hasenclever plant.",
+          "answer": "(a) CaOCl2, calcium oxychloride. (b) Dry slaked lime, Ca(OH)2, and chlorine gas, Cl2. (c) Ca(OH)2 + Cl2 → CaOCl2 + H2O.",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Lesson 8."
+        },
+        {
+          "id": "5.5",
+          "type": "open",
+          "q": "State Newton's second law of motion. Using it, derive the unit of force. A person pushes a box of mass 50 kg with a force of 80 N. Calculate the acceleration.",
+          "answer": "The rate of change of momentum of a body is proportional to the force acting on it and is in the direction of the force; this gives F = ma. Unit: F = 1 kg × 1 m s⁻² = 1 kg m s⁻² = 1 newton. a = F/m = 80/50 = 1.6 m/s².",
+          "years": [
+            "April 2017"
+          ],
+          "note": "Lesson 10."
+        },
+        {
+          "id": "5.6",
+          "type": "open",
+          "q": "What is the magnitude of the gravitational force between the earth and a 1 kg object on its surface? (Mass of the earth = 6 × 10²⁴ kg, radius = 6.4 × 10⁶ m)",
+          "answer": "F = GMm/R² = (6.67 × 10⁻¹¹ × 6 × 10²⁴ × 1)/(6.4 × 10⁶)² ≈ 9.8 N — which is the weight of the 1 kg object.",
+          "years": [
+            "October 2024",
+            "April 2025"
+          ],
+          "note": "April 2025 asked the same for a 5 kg object: F ≈ 49 N. Lesson 11."
+        },
+        {
+          "id": "5.7",
+          "type": "open",
+          "q": "Define work and energy. Give the relation between work, force and displacement. In which cases is the work done by a force positive, negative or zero?",
+          "answer": "Work is done when a force moves a body in the direction of the force; energy is the capacity to do work. W = F × s (s = displacement in the direction of the force). Work is positive when the force and displacement are in the same direction (lifting a load), negative when they are opposite (friction on a sliding body), and zero when they are perpendicular (a load carried along a level road) or when there is no displacement.",
+          "years": [
+            "April 2017"
+          ],
+          "note": "Lesson 13."
+        }
+      ]
+    },
+    {
+      "no": 6,
+      "title": "Long answer questions. Answer in 80–120 words.",
+      "marks": "2 × 5 = 10",
+      "questions": [
+        {
+          "id": "6.1",
+          "type": "open",
+          "q": "What is inertia? Describe an activity to show the property of inertia. Why do passengers standing in a bus fall backward when a stationary bus starts suddenly?",
+          "answer": "Inertia is the tendency of a body to remain at rest or in uniform motion and resist any change in its state; mass measures it. Activity: place a glass half filled with water on a strip of paper at the edge of a table and pull the paper out with a quick jerk — the glass stays where it is, because of its inertia of rest. When a bus starts suddenly, the feet of standing passengers move forward with the bus, but the upper part of their body tends to stay at rest due to inertia, so they fall backward.",
+          "years": [
+            "April 2016"
+          ],
+          "note": "Lesson 10."
+        },
+        {
+          "id": "6.2",
+          "type": "open",
+          "q": "Identify the device used in each case when the image formed is enlarged, virtual and erect: (a) object between the device and its focus, image behind it; (b) object between the device and its focus, image on the same side as the object. Draw ray diagrams for each.",
+          "answer": "(a) A concave mirror, with the object between its pole and focus: the reflected rays diverge and appear to come from a point behind the mirror, giving a virtual, erect, enlarged image. (b) A convex lens (magnifying glass), with the object between its optical centre and focus: the refracted rays diverge and appear to come from a point on the object's side, giving a virtual, erect, enlarged image.",
+          "years": [
+            "April 2016"
+          ],
+          "note": "Lesson 15."
+        }
+      ]
+    }
+  ]
+}

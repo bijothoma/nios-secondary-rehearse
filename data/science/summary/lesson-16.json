@@ -1,0 +1,159 @@
+{
+  "subject": "science",
+  "lesson": 16,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 16: Electrical Energy — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Static electricity"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "A comb run through dry hair or a pen rubbed on a sweater attracts bits of paper: rubbing gives bodies an electric charge (frictional or static electricity). Thales noticed it with amber ('electrum'), and William Gilbert studied it systematically. There are two kinds of charge: a glass rod rubbed with silk becomes positive and an ebonite rod rubbed with fur becomes negative (names given by Benjamin Franklin). Like charges repel and unlike charges attract. Rubbing does not create charge — electrons are transferred: the body that loses electrons becomes positive and the one that gains them becomes negative. Charge is conserved: in an isolated system the total charge stays constant. Metals held in the hand cannot be charged by rubbing because the charge flows through the body to the earth."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Coulomb's law"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "The force between two point charges is directly proportional to the product of the charges and inversely proportional to the square of the distance between them: F = kq1q2/r², with k = 9 × 10⁹ N m² C⁻² in vacuum or air. The SI unit of charge is the coulomb (C); the charge of an electron is 1.6 × 10⁻¹⁹ C, so 1 C = 6.25 × 10¹⁸ electrons. Doubling both charges makes the force four times; doubling the distance makes it one-fourth."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Potential and potential difference"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Electrostatic potential at a point is the work done in bringing a unit positive charge from infinity to that point; potential difference between two points is the work done in moving a unit charge from one to the other: V = W/q. Its unit is the volt: 1 V = 1 J/C. Example: moving 3 C across 24 V needs 72 J. Positive charge flows from higher to lower potential until both are at the same potential. Potential difference is measured by a voltmeter connected in parallel."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Electric current"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Electric current is the rate of flow of charge: I = Q/t. Its SI unit is the ampere: 1 A = 1 C/s (1 mA = 10⁻³ A, 1 μA = 10⁻⁶ A); it is measured by an ammeter connected in series. In a metal, free electrons drift from the negative to the positive terminal when a cell maintains a potential difference; the conventional current is taken from + to −. A cell changes chemical energy into electrical energy; several cells form a battery, a source of direct current (DC). Conductors (silver, copper, aluminium) let current flow easily; insulators (rubber, glass, mica, bakelite) do not."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Ohm's law and resistance"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Ohm's law: the current through a conductor is directly proportional to the potential difference across its ends, provided its temperature and other physical conditions stay the same: V = IR. The V–I graph is a straight line. R is the resistance, whose unit is the ohm (Ω): 1 Ω = 1 V/1 A. Resistance increases with length, decreases with cross-sectional area (thickness), depends on the material (copper less than iron) and increases with temperature. Resistance in transmission wires wastes energy as heat, but it is useful in bulbs and heaters."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Combination of resistors"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "In series (end to end), the same current flows through each resistor and the potential differences add: Rs = R1 + R2 + R3 — the total is more than the largest. In parallel (between the same two points), the potential difference is the same across each and the currents add: 1/Rp = 1/R1 + 1/R2 + 1/R3 — the total is less than the smallest. Examples: 2 Ω and 6 Ω give 8 Ω in series and 1.5 Ω in parallel; five 10 Ω resistors in parallel give 2 Ω; a 48 Ω wire cut into four equal parts joined in parallel gives 3 Ω. Household appliances are joined in parallel so each gets the full voltage, works independently and stays on if another fails; decorative bulb strings are in series, so one fused bulb puts all of them off."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Heating effect of current"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Work done in moving charge Q through V is W = VQ = VIt; with V = IR the heat produced is H = I²Rt (Joule's law of heating): heat is proportional to the square of the current, the resistance and the time. Equivalent forms: H = VIt = V²t/R. Example: a 5 Ω resistor on 10 V for 2 minutes produces (10²/5) × 120 = 2400 J. Appliances using this effect: electric iron, kettle, immersion rod, geyser, toaster, oven, room heater, bulb filament; also fuses, electric welding and electric arcs. A fuse (or circuit breaker/MCB) melts or trips when the current becomes too large, protecting the circuit."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Electric power and energy"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Electric power is the rate at which electric energy is used: P = VI = I²R = V²/R; its unit is the watt (1 W = 1 V × 1 A), with kW, MW and horse power (1 hp = 746 W). An appliance marked 220 V, 1 kW has resistance V²/P = 48.4 Ω. Electrical energy = power × time; its commercial unit is the kilowatt hour (kWh), the 'unit' on the electricity bill: 1 kWh = 3.6 × 10⁶ J. Example: a 60 W lamp used 4 hours a day for 30 days uses 7.2 kWh. Power is generated in hydroelectric, thermal and nuclear power plants as AC at 50 Hz and stepped up by transformers for transmission. An electric tester (with a neon bulb) shows whether a point is live."
+        ]
+      ]
+    }
+  ]
+}

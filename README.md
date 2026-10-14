@@ -79,3 +79,6 @@ The lesson then opens with a menu: Lesson, Lesson with translation, and the mode
 - `tools/build_english.py`: builds English from `data/english/src/lesson-<n>.json` (summary and literature
   practice set per lesson) and `data/english/src/papers.json` (reading, writing and grammar of three full
   papers in the April 2026 layout: 35 questions, 100 marks).
+- `tools/build_sci.py`: builds Science and Technology from `data/science/src/lesson-<n>.json` (summary,
+  chapter practice set and three full papers in the April 2026 layout: 43 questions, 85 marks). Only the
+  19 public-exam lessons of the NIOS syllabus bifurcation are included.

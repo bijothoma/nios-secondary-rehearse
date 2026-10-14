@@ -1,0 +1,150 @@
+{
+  "subject": "science",
+  "lesson": 11,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 11: Gravitation — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Force of gravitation"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Objects thrown up come back and fruits fall from trees because the earth attracts them. Newton realised (the story of the falling apple) that the same force keeps the moon moving around the earth and the planets around the sun. This gravitational force exists everywhere in the universe, acts between all objects and is always attractive."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Newton's law of gravitation"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Every particle in the universe attracts every other particle with a force that is directly proportional to the product of their masses and inversely proportional to the square of the distance between them; the force acts along the line joining them: F = G m1m2/r². G is the universal gravitational constant, the same everywhere: 6.67 × 10⁻¹¹ N m² kg⁻². Because G is so small, the force between ordinary objects (two students 1 m apart) is extremely weak, but between huge bodies (earth and moon, about 2 × 10²⁰ N) it is very large. If the distance is doubled the force becomes one-fourth; if it is halved the force becomes four times; if both masses are doubled it becomes four times. The earth's gravitational force is called gravity."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Acceleration due to gravity (g)"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "A falling body speeds up because of gravity; this acceleration is g. A coin and a crumpled paper ball dropped together land together, and in a vacuum (Boyle's experiment) a coin and a feather fall together — air resistance alone slows a flat paper. So g does not depend on the mass of the falling body. From mg = GMm/R², g = GM/R², where M is the mass and R the radius of the earth. With M = 6 × 10²⁴ kg and R = 6.4 × 10⁶ m, g ≈ 9.8 m s⁻²; its SI unit is m s⁻². g is slightly more at the poles than at the equator because the earth's radius is smaller there; on the moon it is about one-sixth of that on earth."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Motion under gravity"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "The equations of uniformly accelerated motion apply with a replaced by g: v = u + gt; s = ut + ½gt²; v² = u² + 2gs. g is taken as negative for upward motion. Example: a ball that rises 122.5 m was thrown up at u = √(2 × 9.8 × 122.5) = 49 m/s and takes 49/9.8 = 5 s to reach the top (and 10 s to come back)."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Mass and weight"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Mass is the quantity of matter in a body; it is the same everywhere (earth, moon or space), measures inertia and is measured with a pan balance in kilograms. Weight is the force with which the earth attracts a body: W = mg, measured in newtons with a spring balance; it acts vertically downward and varies from place to place with g. Example: a 20 kg body weighs 20 × 9.8 = 196 N; a body weighing 78.4 N has mass 78.4/9.8 = 8 kg."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Weightlessness"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "A weighing machine shows the reaction of the floor on our body. If the person and the machine both fall freely with acceleration g, the person presses nothing and the machine reads zero. So a body falling freely under gravity is weightless — this is why astronauts in an orbiting spacecraft (which is falling freely around the earth) float. We feel lighter in a lift accelerating downward and heavier in one accelerating upward."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Buoyancy and Archimedes' principle"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "A wooden block pushed under water springs back up, and a mug of water feels lighter inside a bucket: a fluid (liquid or gas) exerts an upward force called the buoyant force or upthrust. A stone hung from a spring balance shows a smaller reading as it is lowered into water, and the reading stops changing once it is fully immersed. There is no buoyant force in a vacuum."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Archimedes' principle: when a body is immersed fully or partly in a fluid, it experiences an upward force equal to the weight of the fluid displaced by it. The buoyant force depends on the density of the fluid and the volume of the body immersed. A body sinks if its weight is more than the buoyant force (a stone displaces water weighing less than itself) and floats if the buoyant force equals its weight (a wooden block). Example: a body weighing 5.0 N in air and 2.5 N in water has a buoyant force of 2.5 N. Applications: designing ships and submarines, hydrometers (density of liquids) and lactometers (purity of milk)."
+        ]
+      ]
+    }
+  ]
+}

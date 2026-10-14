@@ -1,0 +1,80 @@
+{
+  "lesson": 28,
+  "title": "Carbon and its Compounds",
+  "module": 6,
+  "summary": [
+    "## Carbon and catenation",
+    "Carbon (group 14, configuration 2,4) occurs free and in compounds — carbonate rocks (limestone, marble), fossil fuels (coal, petroleum, natural gas), CO and CO₂, and all living things (carbohydrates, proteins, fats). It cannot gain or lose four electrons, so it shares them, forming four covalent bonds (tetravalent). Carbon atoms bond strongly with one another to form long chains, branches and rings — catenation — and also form double and triple bonds. That is why carbon forms more compounds than all other elements together; their study is organic chemistry. ¹⁴C (half-life 5730 years) is used in radiocarbon dating.",
+    "## Allotropes",
+    "Allotropes are different forms of the same element in the same physical state. Diamond: each carbon is bonded to four others in a rigid three-dimensional tetrahedral network, making it the hardest natural substance (carborundum, SiC, is a harder synthetic substance); density 3.51 g cm⁻³; very high melting point; no free electrons, so it does not conduct electricity, but it conducts heat about five times better than copper; high refractive index (2.5) makes cut diamonds brilliant. Uses: cutting glass, drilling rocks, abrasives, jewellery. Diamonds can be made by heating graphite at very high pressure.",
+    "Graphite: each carbon is bonded to three others in flat hexagonal layers (120°); the fourth electron is free, so graphite conducts electricity; the layers are held weakly and slide over one another, so it is soft, black and slippery with a metallic lustre (density 2.2 g cm⁻³). Uses: dry lubricant for hot machine parts, electrodes in dry cells and arcs, pencil 'lead', crucibles. Fullerenes (discovered 1985 by Curl, Kroto and Smalley; Nobel Prize 1996) are closed, football-like molecules — buckminsterfullerene is C₆₀.",
+    "Amorphous (microcrystalline) forms: charcoal — wood heated without air; activated charcoal adsorbs colours and odours (water filters, gas masks). Coke — coal heated without air; a reducing agent in metallurgy. Carbon black — hydrocarbons burnt in limited air (CH₄ + O₂ → C + 2H₂O); used in black ink and rubber tyres.",
+    "## Organic and inorganic compounds; oxides of carbon",
+    "Organic compounds (hydrocarbons and their derivatives) are mostly low-melting, soluble in organic solvents and insoluble in water; inorganic carbon compounds (carbonates, carbides such as CaC₂, CO, CO₂, CS₂) are mostly high-melting solids. Carbon monoxide forms when carbon burns in limited oxygen (2C + O₂ → 2CO); it is a colourless, odourless, poisonous gas that combines with haemoglobin; it is a neutral oxide, used as a fuel and a reducing agent (Fe₂O₃ + 3CO → 2Fe + 3CO₂). Carbon dioxide forms on burning in excess oxygen, on heating carbonates (CaCO₃ → CaO + CO₂) and in fermentation; it is 0.03% of air and a greenhouse gas; solid CO₂ (dry ice) is a refrigerant; it is used in soft drinks and to make washing and baking soda.",
+    "## Hydrocarbons",
+    "Hydrocarbons contain only carbon and hydrogen; petroleum is their main source. They are aliphatic (open chain) or cyclic; aromatic ones (benzene) have a smell. Saturated hydrocarbons (alkanes, CₙH₂ₙ₊₂) have only single C–C bonds: methane CH₄, ethane C₂H₆, propane C₃H₈, butane C₄H₁₀, pentane C₅H₁₂, hexane C₆H₁₄. Unsaturated: alkenes (CₙH₂ₙ, a C=C double bond — ethene C₂H₄, propene, butene) and alkynes (CₙH₂ₙ₋₂, a C≡C triple bond — ethyne/acetylene C₂H₂, used in oxy-acetylene welding).",
+    "A homologous series is a family with the same general formula and functional group, in which successive members differ by a –CH₂– unit (14 u) and have similar chemical properties. Isomers have the same molecular formula but different structures: C₄H₁₀ exists as n-butane (straight chain) and isobutane (branched); 1-butene and 2-butene are isomers. The number of isomers rises with the number of carbon atoms.",
+    "## IUPAC names",
+    "Word roots: meth (1 C), eth (2), prop (3), but (4), pent (5), hex (6), hept (7), oct (8). Suffix -ane for alkanes, -ene for alkenes, -yne for alkynes, -ol for alcohols, -al for aldehydes, -one for ketones, -oic acid for carboxylic acids. Choose the longest chain, number from the end nearest the substituent or multiple bond, and name side groups as alkyl (methyl –CH₃, ethyl –C₂H₅) in alphabetical order with di-, tri- for repeats (3-ethylhexane; 2,2-dimethylbutane; 1-butene).",
+    "## Functional groups",
+    "A functional group is an atom or group of atoms that gives a compound its characteristic properties: C=C (alkenes), C≡C (alkynes), –X halogen (haloalkanes, CH₃Cl), –OH hydroxyl (alcohols), –CHO (aldehydes), >C=O keto (ketones, e.g. CH₃COCH₃), –COOH carboxyl (carboxylic acids), –COOR (esters).",
+    "## Compounds of daily use",
+    "Methanol (CH₃OH, wood alcohol) is made industrially from CO and H₂ at about 400 °C and 200–300 atm over a ZnO–Cr₂O₃ catalyst; it is used to make acetic acid, adhesives and plastics and as a fuel; it is poisonous. Ethanol (C₂H₅OH) is made by fermentation of glucose by yeast enzymes: C₆H₁₂O₆ → 2C₂H₅OH + 2CO₂; it is used as a solvent, in medicines and as rectified spirit (95%). Glycerol (propane-1,2,3-triol) has three –OH groups. Methanal (formaldehyde, HCHO) — its solution formalin preserves biological specimens; vanillin is an aldehyde flavour. Propanone (acetone, CH₃COCH₃) is a solvent and nail-polish remover. Acetic (ethanoic) acid, CH₃COOH, is in vinegar (a food preservative) and is made by oxidising ethanol with acidified potassium dichromate. Other acids: formic acid HCOOH (ant sting), butyric (rancid butter), lactic (sour milk, tired muscles), citric (citrus fruits), ascorbic (vitamin C)."
+  ],
+  "mcq": [
+    ["Diamond is used —", ["as a lubricant", "for cutting glass and drilling rocks", "as an electrode", "as pencil lead"], "B", ["October 2024"]],
+    ["The 'lead' of a pencil is made of —", ["lead", "charcoal", "coke", "graphite"], "D", ["October 2022"]],
+    ["Buckminsterfullerene is an allotrope of —", ["carbon", "sulphur", "phosphorus", "silicon"], "A", ["April 2023"]],
+    ["In which compound is –OH the functional group?", ["Ethanal", "Ethanol", "Propanone", "Propanal"], "B", ["April 2023"]],
+    ["The functional group in CH₃–CO–CH₃ is —", ["aldehyde", "carboxylic acid", "ketonic", "alcoholic"], "C", ["October 2021"]],
+    ["C₆H₁₂O₆ —(yeast)→ X. X is —", ["CH₃CH₂OH + CO₂", "CH₃COOH", "CH₃OH + O₂", "CH₄ + H₂O"], "A", ["April 2024"]],
+    ["The sixth member of the alkane series is —", ["C₆H₁₄", "C₆H₁₂", "C₆H₁₀", "C₅H₁₂"], "A", ["April 2024"]],
+    ["Which does not belong to the same homologous series?", ["CH₄", "C₂H₆", "C₄H₈", "C₃H₈"], "C", ["April 2025"]],
+    ["A member of a homologous series has molecular mass 56. Which cannot be the molecular mass of another member?", ["28", "42", "114", "140"], "C", ["October 2017"]],
+    ["CH₃COOH is present in —", ["curd", "vinegar", "lemon", "ant sting"], "B", ["October 2016"]],
+    ["What makes a cut diamond brilliant?", ["Its hardness", "Its high density", "Its high melting point", "Its high refractive index"], "D", ["April 2021"]],
+    ["The organic compound used as spirit in a spirit lamp is —", ["acetone", "acetic acid", "formalin", "methanol / ethanol (methylated spirit)"], "D", ["April 2019"]],
+    ["n-Butane and isobutane are —", ["allotropes", "isomers", "isotopes", "homologues of different series"], "B", ["October 2025"]],
+    ["The general formula of alkynes is —", ["CₙH₂ₙ₊₂", "CₙH₂ₙ", "CₙH₂ₙ₋₂", "CₙHₙ"], "C"],
+    ["The property of carbon to form long chains with itself is called —", ["isomerism", "catenation", "allotropy", "tetravalency"], "B"]
+  ],
+  "objective": [
+    ["Write True (T) or False (F): (1) Graphite is soft, black, slippery and a good conductor of electricity. (2) Diamond is a good conductor of electricity.", "(1) True (2) False — diamond has no free electrons.", ["October 2024"]],
+    ["Fill in the blanks: The word root for four carbon atoms is ________, and the functional group of butanone is the ________ group.", "but; ketone (>C=O)", ["April 2024"]],
+    ["Match: (1) Formalin (2) Acetone — (a) nail-polish remover (b) preserving biological specimens (c) vinegar (d) fermentation", "(1) – (b); (2) – (a)", ["October 2022"]],
+    ["Fill in the blanks: Alkanes have the general formula ________, and successive members of a homologous series differ by ________.", "CₙH₂ₙ₊₂; a –CH₂– unit"],
+    ["Write True (T) or False (F): (1) Carbon monoxide is a neutral oxide. (2) Ethanol is made by fermentation of sugar.", "(1) True (2) True"],
+    ["Match: (1) Coke (2) Activated charcoal — (a) reducing agent in metallurgy (b) adsorbs colours and odours (c) pencil lead (d) cutting glass", "(1) – (a); (2) – (b)"]
+  ],
+  "case": {
+    "passage": "Diamond and graphite are both made only of carbon atoms, yet they are very different. In diamond each carbon atom is joined to four others in a rigid three-dimensional network. In graphite each carbon atom is joined to three others in flat layers; the fourth electron is free, and the layers are held together weakly. A third form, C₆₀, has a closed structure like a football.",
+    "items": [
+      ["Different forms of the same element are called —", ["isomers", "isotopes", "allotropes", "homologues"], "C"],
+      ["Graphite conducts electricity because —", ["it is soft", "each carbon has one free electron", "it is black", "its layers are strongly bonded"], "B"],
+      ["Graphite is used as a lubricant because —", ["its layers slide over one another", "it is very hard", "it has a high density", "it is transparent"], "A"],
+      ["Diamond is very hard because —", ["of its layered structure", "of the rigid three-dimensional network of covalent bonds", "it has free electrons", "it contains impurities"], "B"],
+      ["The football-shaped C₆₀ is called —", ["carbon black", "buckminsterfullerene", "carborundum", "coke"], "B"]
+    ]
+  },
+  "vsa": [
+    ["How many covalent bonds can a carbon atom form, and why?", "Four. Carbon has four valence electrons (2,4); it can neither lose nor gain four electrons easily, so it shares all four with other atoms to complete its octet.", ["April 2026"], {"or": ["Give one property and one use of graphite.", "Property: it is soft and slippery (or a good conductor of electricity). Use: as a dry lubricant, in pencil leads, or as electrodes."]}],
+    ["Write the names and formulae of the saturated hydrocarbons with one and five carbon atoms.", "Methane, CH₄; pentane, C₅H₁₂.", ["October 2024"]],
+    ["Name the hardest natural substance and the hardest synthetic substance.", "Diamond (natural); carborundum, silicon carbide SiC (synthetic).", ["April 2025"]],
+    ["Write the molecular formula and structure of formic acid and propanone.", "Formic (methanoic) acid HCOOH: H–C(=O)–OH. Propanone (acetone) C₃H₆O: CH₃–C(=O)–CH₃.", ["April 2024"]],
+    ["What is catenation? Why does carbon form a large number of compounds?", "Catenation is the ability of carbon atoms to link with one another to form long chains, branches and rings. Carbon forms many compounds because of catenation, its tetravalency (four bonds to many different atoms) and its ability to form single, double and triple bonds.", ["October 2021"]],
+    ["What are isomers? Give an example.", "Compounds with the same molecular formula but different structures, e.g. n-butane and isobutane (C₄H₁₀)."]
+  ],
+  "sa": [
+    ["How is ethanol obtained from glucose? Write the equation and give one use of ethanol.", "By fermentation: yeast enzymes convert glucose into ethanol and carbon dioxide. C₆H₁₂O₆ → 2C₂H₅OH + 2CO₂. Use: as a solvent, in medicines, or as a fuel/spirit.", ["April 2026"]],
+    ["Describe the industrial preparation of methanol and its importance.", "Methanol is made by heating carbon monoxide and hydrogen at about 400 °C and 200–300 atm pressure over a ZnO–Cr₂O₃ catalyst: CO + 2H₂ → CH₃OH. It is used to make acetic acid, adhesives, fibres and plastics, as a solvent and as a fuel or petrol additive.", ["October 2025"], {"or": ["Name the three types of aliphatic hydrocarbons and give their general formulae.", "Alkanes CₙH₂ₙ₊₂; alkenes CₙH₂ₙ; alkynes CₙH₂ₙ₋₂."]}],
+    ["Draw the structures of diamond and graphite and compare their electrical conductivity and softness.", "Diamond: each carbon bonded tetrahedrally to four others in a 3-D network; graphite: flat hexagonal layers, each carbon bonded to three others, layers held weakly. Diamond is very hard and does not conduct electricity (no free electrons); graphite is soft and slippery (layers slide) and conducts electricity (a free electron on each carbon).", ["April 2016", "April 2019"], {"note": "April 2019 also asked for two uses of graphite: lubricant, electrodes, pencil leads."}],
+    ["What is a functional group? Identify the functional groups in CH₂=CHCH₂CH₃, CH₃COCH₂CH₂CH₃, CH₃CH₂CH₂CH₂CHO and CH₃CH₂CH₂COOH.", "A functional group is an atom or group of atoms that decides the characteristic properties of an organic compound, e.g. –OH, –COOH. The groups are: C=C double bond (alkene); >C=O keto (ketone); –CHO (aldehyde); –COOH (carboxylic acid).", ["October 2019"]],
+    ["Differentiate between alkenes and alkynes. Give the first member of each with its structure.", "Alkenes have a carbon–carbon double bond and general formula CₙH₂ₙ; alkynes have a carbon–carbon triple bond and formula CₙH₂ₙ₋₂. First members: ethene C₂H₄ (H₂C=CH₂) and ethyne C₂H₂ (HC≡CH).", ["April 2021"]],
+    ["What is the functional group of carboxylic acids? Name the acid in vinegar, give its formula and IUPAC name, and say how it is obtained.", "Carboxyl group, –COOH. Vinegar contains acetic acid, CH₃COOH, IUPAC name ethanoic acid. It is obtained by oxidising ethanol with acidified potassium dichromate: CH₃CH₂OH + 2[O] → CH₃COOH + H₂O.", ["October 2017"]]
+  ],
+  "la": [
+    ["Name the three amorphous forms of carbon, state how each is formed, and give one use of each.", "Charcoal — made by heating wood strongly in the absence of air; activated charcoal adsorbs coloured impurities and bad odours (water purifiers, gas masks). Coke — made by heating coal strongly in the absence of air; used as a reducing agent in metallurgy (and as fuel). Carbon black — made by burning hydrocarbons in a limited supply of air (CH₄ + O₂ → C + 2H₂O); used in black ink and in rubber tyres.", ["April 2022"]],
+    ["Name the compounds used to preserve biological specimens and to ripen fruit, and give their structures. Name the acids in vitamin C and in citrus fruits. Explain homologous series with an example.", "Formalin, a solution of methanal (formaldehyde) H–CHO, preserves specimens. Fruit is ripened with ethene, H₂C=CH₂ (the NIOS text also names ethyne, acetylene HC≡CH, for this). Vitamin C contains ascorbic acid; citrus fruits contain citric acid. A homologous series is a group of compounds with the same functional group and general formula in which successive members differ by –CH₂–, with similar chemical properties and gradually changing physical properties — methane CH₄, ethane C₂H₆, propane C₃H₈ (alkanes, CₙH₂ₙ₊₂).", ["October 2022"]],
+    ["What are the two oxides of carbon? How is each formed? Give two uses of each and explain why carbon monoxide is poisonous.", "Carbon monoxide forms when carbon burns in a limited supply of air (2C + O₂ → 2CO); carbon dioxide in excess air (C + O₂ → CO₂), on heating carbonates (CaCO₃ → CaO + CO₂) and in fermentation. CO uses: reducing agent in the blast furnace (Fe₂O₃ + 3CO → 2Fe + 3CO₂), fuel, making methanol. CO₂ uses: dry ice as a refrigerant, soft drinks, making washing and baking soda, fire extinguishers. CO is poisonous because it combines with haemoglobin and reduces the oxygen-carrying capacity of blood."]
+  ]
+}

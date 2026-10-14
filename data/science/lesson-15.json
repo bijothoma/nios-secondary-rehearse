@@ -1,0 +1,507 @@
+{
+  "subject": "science",
+  "lesson": 15,
+  "title": "Light Energy",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "15 × 1 = 15",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "A mirror always forms a diminished image of an object wherever it is placed. The mirror is —",
+          "options": [
+            "plane",
+            "concave",
+            "convex",
+            "none of these"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "The image formed by a concave mirror lies between its centre of curvature and focus and is real, inverted and diminished. The object must be —",
+          "options": [
+            "beyond the centre of curvature",
+            "at the centre of curvature",
+            "between the focus and the centre of curvature",
+            "between the pole and the focus"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "A convex lens forms a real, inverted, diminished image between F and 2F. Where is the object?",
+          "options": [
+            "At 2F",
+            "Beyond 2F",
+            "Between F and the optical centre",
+            "Between F and 2F"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "A light ray passes from medium A into medium B and bends towards the normal. What can you conclude about the speed of light in B?",
+          "options": [
+            "It is greater in B than in A",
+            "It is slower in B than in A",
+            "It is the same in both",
+            "Light is totally reflected in A"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "The property of a diamond that makes it very brilliant when properly cut and polished is its —",
+          "options": [
+            "three-dimensional network of covalent bonds",
+            "high density",
+            "high rigidity",
+            "high refractive index"
+          ],
+          "answer": "D",
+          "years": [
+            "April 2021"
+          ]
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "The image formed by a plane mirror is —",
+          "options": [
+            "real and inverted",
+            "virtual and erect, of the same size",
+            "virtual and diminished",
+            "real and enlarged"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "The radius of curvature of a spherical mirror of focal length 15 cm is —",
+          "options": [
+            "7.5 cm",
+            "15 cm",
+            "30 cm",
+            "45 cm"
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "Rear-view mirrors in vehicles are —",
+          "options": [
+            "plane mirrors",
+            "concave mirrors",
+            "convex mirrors",
+            "concave lenses"
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "A lens that always produces a virtual image is a —",
+          "options": [
+            "convex lens",
+            "concave lens",
+            "plano-convex lens",
+            "double convex lens"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "The unit of power of a lens is —",
+          "options": [
+            "watt",
+            "dioptre",
+            "metre",
+            "joule"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "In the spectrum of white light formed by a prism, the colour that bends the most is —",
+          "options": [
+            "red",
+            "yellow",
+            "green",
+            "violet"
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "Myopia (short-sightedness) is corrected by using a —",
+          "options": [
+            "convex lens",
+            "concave lens",
+            "cylindrical lens",
+            "bifocal lens"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "1.13",
+          "type": "mcq",
+          "q": "Which quantity does NOT change when light passes from air into water?",
+          "options": [
+            "Speed",
+            "Wavelength",
+            "Frequency",
+            "Direction (for oblique rays)"
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "1.14",
+          "type": "mcq",
+          "q": "A person uses spectacles of power +2 D. The defect of vision is —",
+          "options": [
+            "myopia",
+            "hypermetropia",
+            "astigmatism",
+            "colour blindness"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "1.15",
+          "type": "mcq",
+          "q": "A magnifying glass is a —",
+          "options": [
+            "convex lens with the object between its focus and optical centre",
+            "concave lens",
+            "convex mirror",
+            "plane mirror"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark (fill in the blanks, match the columns, true/false or a short passage).",
+      "marks": "6 × 2 = 12",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "Write True (T) or False (F): (1) The image formed by a plane mirror is real and inverted. (2) The image formed by a plane mirror is behind the mirror at a distance equal to the distance of the object from the mirror.",
+          "answer": "(1) False — it is virtual and erect. (2) True",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Fill in the blanks: In a concave lens, the image distance is always ________ and the image formed is ________.",
+          "answer": "negative (on the same side as the object); virtual, erect and diminished",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "Read the passage and answer: 'Magnification is the ratio of the height of the image to the height of the object. It can also be expressed through the image distance and object distance. A student uses a lens to form an image with magnification +1.5.' (1) Which describes the image? (A) Real and inverted (B) Virtual and smaller (C) Virtual and larger (D) Real and upright. (2) What does a negative magnification indicate?",
+          "answer": "(1) (C) Virtual and larger (positive m means erect, i.e. virtual; 1.5 means larger). (2) A negative magnification means the image is real and inverted.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Fill in the blanks: When light goes from a rarer to a denser medium it bends ________ the normal, and the ratio sin i / sin r is called the ________ of the medium.",
+          "answer": "towards; refractive index"
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "Match: (1) Concave mirror (2) Convex mirror — (a) rear-view mirror (b) periscope (c) headlight reflector (d) magnifying glass",
+          "answer": "(1) Concave mirror – (c) headlight reflector; (2) Convex mirror – (a) rear-view mirror"
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "Write True (T) or False (F): (1) Hypermetropia is corrected with a convex lens. (2) The image formed by the eye lens on the retina is erect.",
+          "answer": "(1) True (2) False — it is real and inverted."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Read the passage and answer the questions that follow.",
+      "marks": "5 × 1 = 5",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "mcq",
+          "q": "The student is suffering from —",
+          "options": [
+            "myopia",
+            "hypermetropia",
+            "presbyopia",
+            "astigmatism"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "3.2",
+          "type": "mcq",
+          "q": "In his eye the image of the blackboard is formed —",
+          "options": [
+            "in front of the retina",
+            "behind the retina",
+            "on the retina",
+            "on the eye lens"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "3.3",
+          "type": "mcq",
+          "q": "The lens that will correct his vision is a —",
+          "options": [
+            "concave lens",
+            "convex lens",
+            "cylindrical lens",
+            "plane glass"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "3.4",
+          "type": "mcq",
+          "q": "Another student uses spectacles of power +2 D. The focal length of her lens is —",
+          "options": [
+            "+50 cm",
+            "−50 cm",
+            "+2 cm",
+            "+20 cm"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "3.5",
+          "type": "mcq",
+          "q": "The ability of the eye to see both near and far objects clearly by changing the focal length of its lens is called —",
+          "options": [
+            "power of accommodation",
+            "dispersion",
+            "persistence of vision",
+            "magnification"
+          ],
+          "answer": "A"
+        }
+      ],
+      "fixed": true,
+      "passage": "Some people cannot see distant objects clearly, while others struggle to see nearby objects. These conditions arise from changes in the shape of the eye or problems with the eye lens, so that the image is not formed on the retina. Concave or convex lenses of suitable power bring the focus back onto the retina and form clear images. A student complains that he cannot see the blackboard clearly but can read his book easily. (October 2025)"
+    },
+    {
+      "no": 4,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "6 × 2 = 12",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "Write two characteristics of an image formed by a plane mirror.",
+          "answer": "(1) It is virtual and erect, and of the same size as the object. (2) It is as far behind the mirror as the object is in front, and laterally inverted.",
+          "years": [
+            "October 2024"
+          ],
+          "or": {
+            "q": "Draw ray diagrams of a myopic eye and its correction.",
+            "answer": "Myopic eye: parallel rays from a distant object meet in front of the retina. Corrected eye: a concave lens placed before the eye spreads the rays slightly so that the eye lens now brings them to a focus on the retina."
+          }
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "In a lens of focal length 10 cm the sizes of the image and the object are the same. Name the type of lens and give the distance of the object from the lens.",
+          "answer": "It is a convex lens, since only a convex lens gives an image of the same size (real and inverted). The object is at 2F, i.e. 2 × 10 = 20 cm from the lens.",
+          "years": [
+            "April 2025"
+          ],
+          "or": {
+            "q": "Define (i) visual angle and (ii) power of accommodation.",
+            "answer": "(i) Visual angle is the angle an object makes at the eye; the larger it is, the bigger the object looks. (ii) Power of accommodation is the ability of the eye lens to change its focal length so as to see objects from infinity down to 25 cm clearly."
+          }
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "Draw a ray diagram to show the formation of an enlarged, erect image of a tiny object by a concave mirror.",
+          "answer": "Place the object between the pole P and the focus F. A ray parallel to the axis reflects through F; a ray from the object towards the mirror along the line from C reflects back on itself. The reflected rays diverge; extended behind the mirror they meet, giving a virtual, erect, enlarged image behind the mirror.",
+          "years": [
+            "October 2016"
+          ]
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "Draw a ray diagram to show image formation by a convex mirror when the object is between its centre of curvature and principal focus.",
+          "answer": "A ray parallel to the axis reflects as if coming from F behind the mirror; a ray directed towards C reflects back along itself. Extended behind the mirror, the reflected rays meet between P and F: the image is virtual, erect and diminished.",
+          "years": [
+            "April 2019"
+          ]
+        },
+        {
+          "id": "4.5",
+          "type": "open",
+          "q": "Draw a ray diagram to show the formation of a small, erect image of vehicles behind a car in its rear-view mirror.",
+          "answer": "The rear-view mirror is convex. Rays from a vehicle behind strike the mirror; a ray parallel to the axis reflects as if from F, and a ray towards C reflects back on itself. Their backward extensions meet behind the mirror between P and F, giving a virtual, erect, small image — so a wide view of the road behind is seen.",
+          "years": [
+            "April 2021"
+          ]
+        },
+        {
+          "id": "4.6",
+          "type": "open",
+          "q": "Draw ray diagrams showing image formation by a convex lens when the object is placed (a) beyond 2F (b) between the optical centre and the focus.",
+          "answer": "(a) Beyond 2F: a ray parallel to the axis passes through F on the other side; a ray through the optical centre goes straight; they meet between F and 2F — real, inverted, diminished image. (b) Between O and F: the refracted rays diverge; extended back they meet on the same side as the object — virtual, erect, enlarged image (magnifying glass).",
+          "years": [
+            "October 2021",
+            "October 2022"
+          ],
+          "note": "October 2022 asked only for case (b): the convex lens as a magnifier."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "6 × 3 = 18",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "An object is placed at 10 cm from a convex mirror of radius of curvature 30 cm. Find the position and nature of the image.",
+          "answer": "f = R/2 = +15 cm (convex), u = −10 cm. 1/v = 1/f − 1/u = 1/15 + 1/10 = 5/30, so v = +6 cm. The image is 6 cm behind the mirror; it is virtual, erect and diminished (m = −v/u = 0.6).",
+          "years": [
+            "April 2016"
+          ],
+          "note": "October 2019 asked the same for an object 10 cm from a convex mirror of focal length 20 cm: 1/v = 1/20 + 1/10 = 3/20, v ≈ +6.7 cm behind the mirror, virtual, erect, diminished."
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "An object is placed 20 cm from a convex lens of focal length 15 cm, perpendicular to its principal axis. Find the nature and position of the image.",
+          "answer": "f = +15 cm, u = −20 cm. 1/v = 1/f + 1/u = 1/15 − 1/20 = 1/60, so v = +60 cm. The image is 60 cm on the other side of the lens; it is real, inverted and magnified (m = v/u = −3, three times as large).",
+          "years": [
+            "April 2022"
+          ]
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "Draw a labelled ray diagram for a concave mirror when the object is between C and F. Give the location, nature, orientation and size of the image.",
+          "answer": "A ray parallel to the axis reflects through F; a ray through F reflects parallel to the axis; they meet beyond C. (a) Location: beyond C. (b) Real. (c) Inverted. (d) Enlarged.",
+          "years": [
+            "October 2017"
+          ]
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "Explain the dispersion of white light by a glass prism with a labelled ray diagram. Name a natural phenomenon based on dispersion.",
+          "answer": "When a narrow beam of white light passes through a prism it splits into seven colours (VIBGYOR) because the refractive index of glass is different for each colour; violet bends the most and red the least. Diagram: white light enters one face, bends towards the base and emerges as a fan of colours with red at the top and violet at the bottom on a screen. Natural example: the rainbow, formed by dispersion of sunlight in raindrops.",
+          "years": [
+            "April 2023"
+          ]
+        },
+        {
+          "id": "5.5",
+          "type": "open",
+          "q": "What is refraction of light? State the laws of refraction.",
+          "answer": "Refraction is the bending of light when it passes obliquely from one transparent medium to another, because its speed changes. Laws: (1) the incident ray, the refracted ray and the normal at the point of incidence lie in the same plane; (2) the ratio of the sine of the angle of incidence to the sine of the angle of refraction is constant for a given pair of media (Snell's law), equal to the refractive index."
+        },
+        {
+          "id": "5.6",
+          "type": "open",
+          "q": "Reema claims to have obtained an image twice the size of the object with a concave lens. Is she correct? A lens forms an erect, magnified and virtual image — name the lens.",
+          "answer": "No. A concave lens always forms a virtual, erect and diminished image, never a magnified one. The lens forming an erect, magnified, virtual image is a convex lens with the object between its focus and optical centre.",
+          "years": [
+            "October 2024"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 6,
+      "title": "Long answer questions. Answer in 80–120 words.",
+      "marks": "3 × 5 = 15",
+      "questions": [
+        {
+          "id": "6.1",
+          "type": "open",
+          "q": "(a) Define dispersion of white light through a glass prism and draw a diagram. (b) Which colour bends the least and which the most? (c) Why does a prism show dispersion of white light? (d) Write the nature of the image formed by a concave lens.",
+          "answer": "(a) The splitting of white light into its seven constituent colours on passing through a prism is dispersion. Diagram: white light entering a triangular prism, bending towards the base and emerging as a spread spectrum — red at the top, violet at the bottom. (b) Red bends (deviates) the least; violet the most. (c) The refractive index of glass is different for different colours (wavelengths), so each colour is bent through a different angle and they separate. A rainbow is a natural example. (d) A concave lens always forms a virtual, erect and diminished image on the same side as the object, between its focus and the lens.",
+          "years": [
+            "April 2025",
+            "April 2024"
+          ],
+          "or": {
+            "q": "Draw diagrams of a double convex, plano-convex, double concave and convexo-concave lens, and of a myopic eye, a hypermetropic eye and a relaxed normal eye.",
+            "answer": "Lenses: double convex — both faces bulge out; plano-convex — one flat, one bulging; double concave — both faces curve in; convexo-concave — one face bulges, the other curves in (a meniscus). Eyes: myopic — parallel rays focus in front of the retina; hypermetropic — rays from a near object focus behind the retina; relaxed normal eye — parallel rays from a distant object focus exactly on the retina."
+          }
+        },
+        {
+          "id": "6.2",
+          "type": "open",
+          "q": "Identify the device used in each case when the image formed is enlarged, virtual and erect: (a) object between the device and its focus, image behind it; (b) object between the device and its focus, image on the same side as the object. Draw ray diagrams for each.",
+          "answer": "(a) A concave mirror, with the object between its pole and focus: the reflected rays diverge and appear to come from a point behind the mirror, giving a virtual, erect, enlarged image. (b) A convex lens (magnifying glass), with the object between its optical centre and focus: the refracted rays diverge and appear to come from a point on the object's side, giving a virtual, erect, enlarged image.",
+          "years": [
+            "April 2016"
+          ]
+        },
+        {
+          "id": "6.3",
+          "type": "open",
+          "q": "Draw ray diagrams showing image formation by (a) a concave mirror and (b) a convex mirror when the object is beyond the centre of curvature. Give the nature of the image in each case.",
+          "answer": "(a) Concave mirror: a ray parallel to the axis reflects through F; a ray through C reflects back on itself; they meet between F and C — the image is real, inverted and diminished. (b) Convex mirror: a ray parallel to the axis reflects as if from F behind the mirror; a ray towards C reflects back; the extensions meet behind the mirror between P and F — the image is virtual, erect and diminished.",
+          "years": [
+            "October 2019",
+            "April 2017"
+          ],
+          "note": "April 2017 also asked for an object between O and F of a concave lens (virtual, erect, diminished), at 2F of a convex lens (real, inverted, same size at 2F) and at C of a concave mirror (real, inverted, same size at C)."
+        }
+      ]
+    }
+  ]
+}

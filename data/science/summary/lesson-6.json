@@ -1,0 +1,186 @@
+{
+  "subject": "science",
+  "lesson": 6,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 6: Periodic Classification of Elements — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Why classify elements?"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "By the middle of the nineteenth century more than 60 elements were known, and studying each one separately was difficult. Like medicines arranged in a chemist's shop, elements were grouped so that similar ones could be studied together. The first classification, into metals and non-metals, failed because elements such as germanium and antimony show properties of both. After Prout's work (1815), atomic mass — a property that does not change — became the basis of classification."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Döbereiner's triads (1829)"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "J.W. Döbereiner grouped similar elements in threes (triads). When arranged by increasing atomic mass, the atomic mass of the middle element is nearly the average of the other two, and its properties are in between: Li (7), Na (23), K (39); Ca (40), Sr (88), Ba (137); Cl (35.5), Br (80), I (127). Only a few triads could be found, so the idea was not widely accepted."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Newlands' law of octaves (1864)"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "John Newlands arranged elements by increasing atomic mass and found that every eighth element resembles the first, like the eighth note of a musical scale (Li and Na; Be, Mg and Ca; F and Cl). Merits: atomic mass was the basis and periodicity of properties was recognised for the first time. Demerits: it worked only up to calcium (atomic mass 40); after the noble gases were discovered the ninth element, not the eighth, resembled the first."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Mendeleev's periodic law and table (1869)"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "D. Mendeleev studied all 63 known elements and stated: the physical and chemical properties of elements are a periodic function of their atomic masses. His table has horizontal rows called periods (now 7) and vertical columns called groups (I to VIII, with A and B subgroups; group VIII has three elements in each of three periods; group zero was added for the noble gases). Elements in a group are chemically similar and show gradation from top to bottom; properties change regularly along a period. He gave more importance to properties than to atomic mass."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Merits: it included all known elements; atomic masses of some elements (Be, Au, In) were corrected; gaps were left for undiscovered elements whose properties he predicted — eka-silicon (germanium, discovered by Winkler in 1886), eka-boron (scandium) and eka-aluminium (gallium); group number gave the valency."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Defects: the position of hydrogen is uncertain (it resembles both alkali metals and halogens); isotopes have different masses but no separate places; anomalous pairs — a heavier element is placed before a lighter one (Co 58.9 before Ni 58.7, Te before I, Ar before K); dissimilar elements are grouped together (Cu and Ag with the alkali metals) and similar ones separated (Au and Pt)."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Modern periodic law"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "In 1913 Henry Moseley showed that the atomic number, not the atomic mass, is the most fundamental property of an element. Modern periodic law: the physical and chemical properties of elements are a periodic function of their atomic numbers. Periodicity arises because similar electronic configurations recur: Li (2,1), Na (2,8,1), K (2,8,8,1) all have one valence electron, so all alkali metals are soft, very reactive, form M⁺ ions and basic oxides, and react with water to give hydrogen."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "The long form of the periodic table"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "It has 18 groups (1–18) and 7 periods (1–7). Elements in a group have the same number of valence electrons and similar properties, while the number of shells increases down the group. Elements in a period have consecutive atomic numbers; the period number equals the shell being filled (period 3: Na 2,8,1 to Ar 2,8,8). Period 1 has 2 elements (H, He); periods 2 and 3 are short (8 each); 4 and 5 are long (18 each); 6 and 7 are very long (32 each)."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Main group (representative) elements: groups 1, 2 and 13–17. Noble gases (group 18): 8 valence electrons (He has 2), valency zero, almost inert, all gases. Transition elements (groups 3–12): metals with high melting and boiling points, good conductors, some magnetic, many used as catalysts, variable valency. Inner transition elements (lanthanoids 58–71 and actinoids 90–103) are shown separately below the table. Metals are on the left (alkali metals in group 1, alkaline earth metals in group 2); non-metals on the right (halogens in group 17, chalcogens in group 16); metalloids (B, Si, Ge, As, Sb, Te, Po) along a diagonal from boron to polonium."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Merits of the modern table: isotopes have the same atomic number and so the same place; anomalous pairs disappear (Co 27 comes before Ni 28); it is based on electronic configuration; metals, non-metals, metalloids and transition elements are clearly placed."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Periodic trends"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Atomic size (atomic radius, measured in picometres) is the distance from the centre of the nucleus to the outermost shell. Across a period from left to right the nuclear charge increases while electrons enter the same shell, so they are pulled closer and atomic size decreases (Li is the largest and F the smallest in period 2). Down a group a new shell is added each time, so atomic size increases (Li < Na < K < Rb < Cs)."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Metallic (electropositive) character is the tendency to lose electrons and form cations; non-metallic (electronegative) character is the tendency to gain electrons. Metallic character decreases across a period (Na, Mg, Al metals; Si metalloid; P, S, Cl non-metals) and increases down a group (C non-metal; Si, Ge metalloids; Sn, Pb metals), because the outer electrons are farther from the nucleus and held less strongly. So potassium is more metallic than sodium."
+        ]
+      ]
+    }
+  ]
+}

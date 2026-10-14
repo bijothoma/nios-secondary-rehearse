@@ -1,0 +1,618 @@
+{
+  "subject": "science",
+  "lesson": 1,
+  "title": "Measurement in Science and Technology",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "20 × 1 = 20",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "The SI unit of luminous intensity is —",
+          "options": [
+            "Candela",
+            "Mole",
+            "Kelvin",
+            "Ampere"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2025",
+            "October 2024",
+            "October 2017"
+          ],
+          "note": "October 2024 asked for its symbol: cd."
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "Which of the following is NOT a base SI unit?",
+          "options": [
+            "kelvin",
+            "newton",
+            "ampere",
+            "candela"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2019"
+          ]
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "Which of the following is NOT a base physical quantity?",
+          "options": [
+            "Mass",
+            "Electric current",
+            "Work",
+            "Temperature"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "Which of the following is NOT a system of units?",
+          "options": [
+            "FPS",
+            "MKS",
+            "CGS",
+            "kWh"
+          ],
+          "answer": "D",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "By using a suitable SI prefix, the measurement 5.0 × 10⁻¹⁸ m can be written as —",
+          "options": [
+            "5.0 am",
+            "5.0 fm",
+            "5.0 Em",
+            "5.0 zm"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2023",
+            "October 2019"
+          ],
+          "note": "April 2023 asked the same for 7.0 × 10⁻¹⁸ m (7.0 am)."
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "5.0 × 10¹⁸ m can also be expressed as —",
+          "options": [
+            "5.0 Zm",
+            "5.0 Em",
+            "5.0 am",
+            "5.0 ym"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2022"
+          ]
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "The measurement 7.82 × 10¹⁴ m can also be written as —",
+          "options": [
+            "782 Gm",
+            "782 Pm",
+            "0.782 Gm",
+            "0.782 Pm"
+          ],
+          "answer": "D",
+          "years": [
+            "April 2017"
+          ]
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "Which of the following is the correct representation of the measurement '10 kilograms'?",
+          "options": [
+            "10 kgs",
+            "10 Kgs",
+            "10 kg",
+            "10 Kg"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2024",
+            "April 2017"
+          ],
+          "note": "April 2024 asked the same rule for '100 mg' (not 100mg, 100/mg or 100 mgs)."
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "The derived SI unit of power is —",
+          "options": [
+            "m kg s⁻²",
+            "m² kg s⁻²",
+            "m² kg s⁻³",
+            "m⁻¹ kg s⁻²"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2022"
+          ]
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "Pascal, the SI unit of pressure, in terms of base units is —",
+          "options": [
+            "kg/m²",
+            "kg m/s²",
+            "kg/(m s²)",
+            "m²/kg"
+          ],
+          "answer": "C",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "The derived SI unit of stress is —",
+          "options": [
+            "kg m s⁻²",
+            "kg m⁻¹ s⁻²",
+            "kg m² s⁻²",
+            "kg m² s⁻³"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "The derived SI unit of force is —",
+          "options": [
+            "kg m s⁻²",
+            "kg m² s⁻²",
+            "kg m⁻¹ s⁻²",
+            "kg m s⁻¹"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2023"
+          ]
+        },
+        {
+          "id": "1.13",
+          "type": "mcq",
+          "q": "A water tanker carries 10 hL of water to a colony. Each person is given 10 L. How many persons will get water?",
+          "options": [
+            "10",
+            "100",
+            "1000",
+            "10000"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2017"
+          ]
+        },
+        {
+          "id": "1.14",
+          "type": "mcq",
+          "q": "A mass of 1 μg can also be written as —",
+          "options": [
+            "10⁻⁵ g",
+            "10⁻⁶ g",
+            "10⁻⁹ g",
+            "10⁻¹² g"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "1.15",
+          "type": "mcq",
+          "q": "The wavelength of sodium light is 589 nm. It is the same as —",
+          "options": [
+            "5.89 × 10⁻⁷ m",
+            "5.89 × 10⁻⁹ m",
+            "5.89 × 10⁻⁶ m",
+            "589 × 10⁻⁶ m"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "1.16",
+          "type": "mcq",
+          "q": "In ancient times people used to make measurements by using their —",
+          "options": [
+            "thumb",
+            "hand-span",
+            "first finger",
+            "all of the above"
+          ],
+          "answer": "D",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "1.17",
+          "type": "mcq",
+          "q": "The smallest unit of length in the Chandragupta Maurya period was the —",
+          "options": [
+            "parmanu",
+            "angul",
+            "yojan",
+            "liksha"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.18",
+          "type": "mcq",
+          "q": "The 'gaz', divided into 24 tassuj, was the unit of length in the time of —",
+          "options": [
+            "Akbar",
+            "Chandragupta Maurya",
+            "the British",
+            "Ashoka"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.19",
+          "type": "mcq",
+          "q": "One second is now defined using the vibrations of an atom of —",
+          "options": [
+            "caesium-133",
+            "carbon-12",
+            "hydrogen",
+            "uranium-235"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.20",
+          "type": "mcq",
+          "q": "An SI prefix is chosen so that the number in front of the unit lies between —",
+          "options": [
+            "0.1 and 1000",
+            "1 and 10",
+            "10 and 100",
+            "0.01 and 0.1"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark (fill in the blanks, match the columns, true/false or a short passage).",
+      "marks": "8 × 2 = 16",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "Fill in the blanks: The CGS system is based on three fundamental units: ________ for length, ________ for mass, and second for time.",
+          "answer": "centimetre; gram",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Match Column I with the right option of Column II: (1) SI unit of pressure (2) SI unit of temperature — (P) kelvin (Q) celsius (R) pascal (S) candela",
+          "answer": "(1) – (R) pascal; (2) – (P) kelvin",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "Match the prefix with its symbol: (1) kilo (2) milli — (a) M (b) k (c) m (d) μ",
+          "answer": "(1) kilo – (b) k; (2) milli – (c) m",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Match Column I with Column II: (1) 10 N (2) 10 W — (P) 10⁸ g cm² s⁻² (Q) 10⁸ g cm² s⁻³ (R) 10⁵ g cm s⁻² (S) 10⁶ g cm s⁻²",
+          "answer": "(1) 10 N – (S) 10⁶ g cm s⁻² (1 N = 10⁵ g cm s⁻²); (2) 10 W – (Q) 10⁸ g cm² s⁻³ (1 W = 10⁷ g cm² s⁻³)",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "Match Column I with Column II: (1) 98 N (2) 9.8 N — (P) 10 kg wt (Q) 1 kg wt (R) 100 kg wt (S) 0.1 kg wt",
+          "answer": "(1) 98 N – (P) 10 kg wt; (2) 9.8 N – (Q) 1 kg wt (1 kg wt = 9.8 N)",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "Write True (T) or False (F): (1) 1 pm = 10⁻¹² m. (2) SI units are arbitrary.",
+          "answer": "(1) True (2) False — SI units are well defined and accepted everywhere.",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "2.7",
+          "type": "open",
+          "q": "Write True (T) or False (F): (1) 1 mm² = 10⁻³ m². (2) The SI unit of pressure is pascal.",
+          "answer": "(1) False — 1 mm² = (10⁻³ m)² = 10⁻⁶ m². (2) True"
+        },
+        {
+          "id": "2.8",
+          "type": "open",
+          "q": "Fill in the blanks: The SI system has ________ base units, and the derived unit s⁻¹ (of frequency) has the special name ________.",
+          "answer": "seven; hertz (Hz)"
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Read the passage and answer the questions that follow.",
+      "marks": "5 × 1 = 5",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "mcq",
+          "q": "The radius of the Sun, 6.96 × 10⁸ m, written with a suitable prefix is —",
+          "options": [
+            "696 Mm",
+            "6.96 km",
+            "69.6 Gm",
+            "6960 Mm"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "3.2",
+          "type": "mcq",
+          "q": "10⁻¹² g is correctly written as —",
+          "options": [
+            "1 pg",
+            "1 mμg",
+            "1 p g",
+            "1 nng"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "3.3",
+          "type": "mcq",
+          "q": "Which of these is written correctly?",
+          "options": [
+            "10 mg",
+            "10 mgs",
+            "10mg",
+            "10 Mg."
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "3.4",
+          "type": "mcq",
+          "q": "1 km² is equal to —",
+          "options": [
+            "10³ m²",
+            "10⁶ m²",
+            "10⁹ m²",
+            "10² m²"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "3.5",
+          "type": "mcq",
+          "q": "The symbol 'ms' stands for —",
+          "options": [
+            "metre second",
+            "millisecond",
+            "megasecond",
+            "metre per second"
+          ],
+          "answer": "B"
+        }
+      ],
+      "fixed": true,
+      "passage": "When a quantity is too large or too small compared with the base unit, it is first written in scientific notation and then with an SI prefix. The prefix is chosen so that the number lies between 0.1 and 1000; for example, the radius of the Sun, 6.96 × 10⁸ m, is written 696 Mm. There must be no space between the prefix and the unit symbol, only one prefix may be used at a time, and a power applies to the whole prefixed unit. While writing values, the number and the unit are separated by a space and unit symbols are never made plural."
+    },
+    {
+      "no": 4,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "9 × 2 = 18",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "Find the derived SI units of density and pressure.",
+          "answer": "Density = mass/volume, so its unit is kg/m³ = kg m⁻³. Pressure = force/area = (kg m s⁻²)/m² = kg m⁻¹ s⁻², which is called the pascal (Pa).",
+          "years": [
+            "April 2016"
+          ]
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "Derive the SI unit of pressure in terms of base units.",
+          "answer": "Pressure = force/area. Force = mass × acceleration has the unit kg m s⁻², and area has the unit m². So the unit of pressure = kg m s⁻² / m² = kg m⁻¹ s⁻², called the pascal (Pa).",
+          "years": [
+            "April 2023"
+          ]
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "Rewrite the following measurements without using SI prefixes: (i) 1 pm (ii) 12 Gm (iii) 1 nm (iv) 10 Tm.",
+          "answer": "(i) 1 pm = 10⁻¹² m (ii) 12 Gm = 12 × 10⁹ m = 1.2 × 10¹⁰ m (iii) 1 nm = 10⁻⁹ m (iv) 10 Tm = 10 × 10¹² m = 10¹³ m.",
+          "years": [
+            "April 2016"
+          ]
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "State two differences between fundamental (base) and derived units with examples.",
+          "answer": "(1) Base units are only seven in number (e.g. metre, kilogram, second), while derived units are very many (e.g. m², m s⁻¹, newton). (2) Base units are independent of each other, while derived units are obtained by combining base units (e.g. newton = kg m s⁻²).",
+          "years": [
+            "October 2021",
+            "April 2017"
+          ]
+        },
+        {
+          "id": "4.5",
+          "type": "open",
+          "q": "Give the name and symbol of the SI prefix used for: (a) 10³ (b) 10⁻⁶ (c) 10⁹ (d) 10⁻².",
+          "answer": "(a) kilo, k (b) micro, μ (c) giga, G (d) centi, c.",
+          "years": [
+            "October 2017"
+          ]
+        },
+        {
+          "id": "4.6",
+          "type": "open",
+          "q": "Find the derived SI units of (a) force and (b) work.",
+          "answer": "(a) Force = mass × acceleration → kg × m s⁻² = kg m s⁻², called newton (N). (b) Work = force × distance → kg m s⁻² × m = kg m² s⁻², called joule (J).",
+          "years": [
+            "October 2019"
+          ]
+        },
+        {
+          "id": "4.7",
+          "type": "open",
+          "q": "State the SI units used while measuring: (i) electric current flowing through a heater (ii) temperature of a furnace (iii) length of a hockey playground (iv) amount of a substance.",
+          "answer": "(i) ampere (A) (ii) kelvin (K) (iii) metre (m) (iv) mole (mol).",
+          "years": [
+            "April 2022"
+          ]
+        },
+        {
+          "id": "4.8",
+          "type": "open",
+          "q": "Why can't parts of the human body be used for accurate measurement?",
+          "answer": "Body parts such as the hand span, foot or cubit differ in size from person to person, so the same object gives different results when different people measure it. Such units are arbitrary and the measurements cannot be reproduced, which leads to disputes, especially in trade."
+        },
+        {
+          "id": "4.9",
+          "type": "open",
+          "q": "List the three essential characteristics of a good unit.",
+          "answer": "A unit should be (1) relevant to the quantity being measured (distance is not measured in kilograms), (2) convenient in size (kilometre for the distance between cities, not inch) and (3) well defined, so that it is understood by everyone in the same way."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "6 × 3 = 18",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "Write two differences between base units and derived units. Derive the SI unit of energy in terms of base units. What special name is given to this unit?",
+          "answer": "Base units are seven and independent of each other; derived units are many and are formed from base units. Energy (work) = force × displacement = (kg m s⁻²) × m = kg m² s⁻². This unit has the special name joule (J).",
+          "years": [
+            "October 2016"
+          ]
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "(a) Define luminous intensity and write its SI unit and symbol. (b) Derive the SI unit of work in terms of base SI units.",
+          "answer": "(a) Luminous intensity is the amount of light emitted by a point source per second in a particular direction. Its SI unit is the candela, symbol cd. (b) Work = force × displacement = mass × acceleration × displacement → kg × m s⁻² × m = kg m² s⁻² (joule).",
+          "years": [
+            "April 2019"
+          ]
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "(a) What are derived units? Name the physical quantity whose derived unit is s⁻¹ and write the special name of this unit. (b) Derive the SI unit of force in terms of base units.",
+          "answer": "(a) Units of quantities other than the seven base quantities, obtained by combining base units, are derived units. s⁻¹ is the unit of frequency; its special name is hertz (Hz). (b) Force = mass × acceleration = mass × (length/time²) → kg m s⁻², called newton (N).",
+          "years": [
+            "April 2021"
+          ]
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "(a) Differentiate between base units and derived units. (b) Why do we need a standard unit to measure a physical quantity?",
+          "answer": "(a) Base units (seven, e.g. metre, kilogram, second) are independent; derived units (e.g. m s⁻¹, newton, joule) are obtained from base units. (b) A standard unit is the same for everyone, so measurements made by different people or in different places agree. This avoids confusion and disputes in trade and makes scientific work reproducible; body-part units vary from person to person.",
+          "years": [
+            "October 2021"
+          ]
+        },
+        {
+          "id": "5.5",
+          "type": "open",
+          "q": "(a) Classify kelvin and newton as base or derived units and name the quantities they measure. (b) Derive the SI unit of pressure in terms of base units.",
+          "answer": "(a) Kelvin is a base unit (thermodynamic temperature); newton is a derived unit (force). (b) Pressure = force/area = kg m s⁻² / m² = kg m⁻¹ s⁻² (pascal).",
+          "years": [
+            "October 2022"
+          ],
+          "note": "October 2022 gave two units to classify; kelvin and newton are used here as an example."
+        },
+        {
+          "id": "5.6",
+          "type": "open",
+          "q": "Write any three rules for writing SI units, with an example of each.",
+          "answer": "(1) Leave a space between the number and the unit symbol: 100 mg, not 100mg. (2) Symbols are not made plural and do not take a full stop: 10 kg, not 10 kgs or 10 kg. (3) Symbols named after people begin with a capital letter, but the full name does not: 30.5 J or 30.5 joule, not 30.5 Joules. (Also: write 0.928 g, not .928 g; m s means metre second while ms means millisecond.)"
+        }
+      ]
+    },
+    {
+      "no": 6,
+      "title": "Long answer questions. Answer in 80–120 words.",
+      "marks": "2 × 5 = 10",
+      "questions": [
+        {
+          "id": "6.1",
+          "type": "open",
+          "q": "What is a unit? List the characteristics of a good unit. Why were units based on parts of the body given up, and how did standard units develop?",
+          "answer": "A unit is a standard quantity (scale) in terms of which a physical quantity is measured; value = number × unit. A good unit is relevant, convenient and well defined. Units such as the hand span, foot or cubit differ from person to person, so they were arbitrary and gave results that could not be reproduced, causing disputes in trade. Rulers fixed standards (Egyptian standard cubit, Henry I's yard), but these changed with rulers. After the French Revolution the decimal metric system was made, with standard metre and kilogram kept near Paris (Metre Convention, 1875). CGS and MKS systems followed, and in 1960 the International System of Units (SI) was adopted with seven base units, now defined by constants of nature (e.g. the metre through the speed of light)."
+        },
+        {
+          "id": "6.2",
+          "type": "open",
+          "q": "Name the seven base physical quantities with their SI units and symbols. What are SI prefixes and why are they needed? Write 6.96 × 10⁸ m and 5 × 10⁻¹¹ m using suitable prefixes.",
+          "answer": "Length – metre (m); mass – kilogram (kg); time – second (s); electric current – ampere (A); temperature – kelvin (K); amount of substance – mole (mol); luminous intensity – candela (cd). Many values are too large or too small compared with the base unit and are awkward even in scientific notation, so SI prefixes (kilo 10³, mega 10⁶, giga 10⁹, milli 10⁻³, micro 10⁻⁶, nano 10⁻⁹, pico 10⁻¹² …) are used, chosen so that the number lies between 0.1 and 1000. 6.96 × 10⁸ m = 696 Mm (or 0.696 Gm); 5 × 10⁻¹¹ m = 50 pm."
+        }
+      ]
+    }
+  ]
+}
