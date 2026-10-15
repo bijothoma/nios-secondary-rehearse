@@ -265,7 +265,7 @@ function renderSection(sec) {
       var num = sec.no + '.' + (i + 1);
       if (q.type === 'mcq') {
         var correct = q.options[LETTERS.indexOf(q.answer)];
-        return renderChoice(num, q.q, q.years, q.options, correct, q.note, q.image, q.fixed);
+        return renderChoice(num, q.q, q.years, q.options, correct, q.note, q.image, q.fixed, q.work);
       }
       if (q.type === 'match') {
         return renderChoice(num, q.left + ' — ?', q.years, matchPool, q.right);
@@ -296,7 +296,8 @@ function markOption(button, kind) {
 }
 
 // fixed: keep the options in their printed order (assertion–reason, true/false).
-function renderChoice(num, text, years, options, correct, note, image, fixed) {
+// work: the worked solution (lines separated by \n), shown once the question is answered.
+function renderChoice(num, text, years, options, correct, note, image, fixed, work) {
   score.total++;
   var firstTry = true;
   var finished = false;
@@ -304,7 +305,9 @@ function renderChoice(num, text, years, options, correct, note, image, fixed) {
   var feedback = el('p', { 'class': 'feedback' });
   var showBtn = el('button', { 'class': 'btn', onclick: reveal }, 'Show answer');
   setHidden(showBtn, true);
-  var noteEl = note ? el('p', { 'class': 'note' }, note) : null;
+  var noteEl = note || work ? el('div', {},
+    work ? el('div', { 'class': 'answer' }, el('p', {}, el('strong', {}, 'Working')), answerParas(work)) : null,
+    note ? el('p', { 'class': 'note' }, note) : null) : null;
   if (noteEl) setHidden(noteEl, true);
 
   var shown = fixed ? options.slice() : shuffle(options);

@@ -1,0 +1,467 @@
+{
+  "subject": "maths",
+  "lesson": 26,
+  "title": "Introduction to Probability",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Every answer shows the working. Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "10 × 1 = 10",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "Which of the following cannot be the probability of an event?",
+          "options": [
+            "0",
+            "−1/5",
+            "0.7",
+            "1"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2026"
+          ],
+          "work": "A probability lies between 0 and 1 (inclusive). −1/5 is negative, so it cannot be a probability."
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "A die is thrown once. The probability of getting a number between 2 and 6 is —",
+          "options": [
+            "1/6",
+            "1/2",
+            "1",
+            "0"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2025"
+          ],
+          "work": "Numbers strictly between 2 and 6: 3, 4, 5 — 3 outcomes out of 6.\nP = 3/6 = 1/2."
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "Two dice are thrown. The probability that they show different numbers is —",
+          "options": [
+            "1/6",
+            "5/6",
+            "1/36",
+            "35/36"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2025"
+          ],
+          "work": "Same number: (1,1), …, (6,6) = 6 of 36 outcomes, so P(same) = 1/6.\nP(different) = 1 − 1/6 = 5/6."
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "The probability of guessing a correct answer is x/6. If the probability of not guessing it correctly is 2/3, then x is —",
+          "options": [
+            "2",
+            "3",
+            "4",
+            "6"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2025"
+          ],
+          "work": "x/6 + 2/3 = 1 ⇒ x/6 = 1/3 ⇒ x = 2."
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "The probability of an impossible event is —",
+          "options": [
+            "1",
+            "0",
+            "1/2",
+            "−1"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2024"
+          ],
+          "work": "No outcome is favourable, so P = 0/n = 0."
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "Which of the following cannot be a probability?",
+          "options": [
+            "0.3",
+            "1/2",
+            "1",
+            "5/4"
+          ],
+          "answer": "D",
+          "years": [
+            "October 2024"
+          ],
+          "work": "5/4 is greater than 1, and no probability can exceed 1."
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "Two dice are thrown together. The probability of the same number on both is —",
+          "options": [
+            "1/36",
+            "1/6",
+            "1",
+            "5/6"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2016"
+          ],
+          "work": "Favourable: (1,1), (2,2), …, (6,6) = 6. Total 36. P = 6/36 = 1/6."
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "A die is thrown once. The probability of a number greater than 4 is —",
+          "options": [
+            "1/6",
+            "1/3",
+            "1/2",
+            "2/3"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2024"
+          ],
+          "work": "5 and 6: 2 outcomes of 6 ⇒ 2/6 = 1/3."
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "A card is drawn from a pack of 52. The probability that it is an ace is —",
+          "options": [
+            "1/52",
+            "1/13",
+            "1/4",
+            "4/13"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2017"
+          ],
+          "work": "There are 4 aces: P = 4/52 = 1/13."
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "A coin is tossed twice. The probability of at least one tail is —",
+          "options": [
+            "1/4",
+            "1/2",
+            "3/4",
+            "1"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2025"
+          ],
+          "work": "Outcomes HH, HT, TH, TT. At least one tail: HT, TH, TT = 3 of 4 ⇒ 3/4."
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark (fill in the blanks, match the columns or true/false).",
+      "marks": "4 × 2 = 8",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "Write True or False: (i) Two dice are thrown; the probability of an even number on both is 3/4. (ii) A number is chosen from 1 to 30; the probability that it is prime is 1/3.",
+          "answer": "(i) False: even on each die has 3 choices, so 3 × 3 = 9 of 36 outcomes ⇒ 9/36 = 1/4.\n(ii) True: primes 2, 3, 5, 7, 11, 13, 17, 19, 23, 29 — 10 of 30 ⇒ 1/3.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Write True or False: (i) Two dice are thrown; the probability of the same number on both is 1/9. (ii) Two coins are tossed; the probability of at least one tail is 1/2.",
+          "answer": "(i) False: 6/36 = 1/6.\n(ii) False: HT, TH, TT are favourable, so 3/4.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "A box has 4 red balls, 5 white balls and some green balls. The probability of a red ball is 1/5. Fill in: (i) P(green) = ____ (ii) P(not green) = ____.",
+          "answer": "Total = 4 ÷ (1/5) = 20 balls ⇒ green = 20 − 4 − 5 = 11.\n(i) P(green) = 11/20.\n(ii) P(not green) = 1 − 11/20 = 9/20.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "A box has 3 blue, 4 white and 5 red balls. Fill in (any two): (i) P(white) (ii) P(blue) (iii) P(red) (iv) P(neither white nor red).",
+          "answer": "Total = 12.\n(i) 4/12 = 1/3. (ii) 3/12 = 1/4. (iii) 5/12. (iv) Neither white nor red means blue: 3/12 = 1/4.",
+          "years": [
+            "April 2024"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Case study: read the information and answer the questions that follow.",
+      "marks": "5 × 1 = 5",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "mcq",
+          "q": "The probability that the sum is 7 is —",
+          "options": [
+            "1/6",
+            "1/12",
+            "7/36",
+            "5/36"
+          ],
+          "answer": "A",
+          "work": "Sum 7: (1,6), (2,5), (3,4), (4,3), (5,2), (6,1) = 6 ⇒ 6/36 = 1/6."
+        },
+        {
+          "id": "3.2",
+          "type": "mcq",
+          "q": "The probability that the sum is greater than 9 is —",
+          "options": [
+            "1/6",
+            "1/12",
+            "1/4",
+            "5/36"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2016"
+          ],
+          "work": "Sum 10: 3 ways, 11: 2, 12: 1 ⇒ 6 ⇒ 6/36 = 1/6."
+        },
+        {
+          "id": "3.3",
+          "type": "mcq",
+          "q": "The probability that the sum is less than 6 is —",
+          "options": [
+            "5/18",
+            "1/6",
+            "5/36",
+            "1/3"
+          ],
+          "answer": "A",
+          "work": "Sums 2, 3, 4, 5: 1 + 2 + 3 + 4 = 10 ways ⇒ 10/36 = 5/18."
+        },
+        {
+          "id": "3.4",
+          "type": "mcq",
+          "q": "The probability that the product is a prime number is —",
+          "options": [
+            "1/6",
+            "1/3",
+            "1/12",
+            "1/4"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2021"
+          ],
+          "work": "A prime product needs a 1 and a prime: (1,2), (2,1), (1,3), (3,1), (1,5), (5,1) = 6 ⇒ 1/6."
+        },
+        {
+          "id": "3.5",
+          "type": "mcq",
+          "q": "The probability that the sum is 13 is —",
+          "options": [
+            "0",
+            "1/36",
+            "1/12",
+            "1"
+          ],
+          "answer": "A",
+          "work": "The largest possible sum is 12, so a sum of 13 is impossible: P = 0."
+        }
+      ],
+      "fixed": true,
+      "passage": "In a game, two dice are thrown together and the numbers on them are noted. All 36 outcomes are equally likely."
+    },
+    {
+      "no": 4,
+      "title": "Very short answer questions.",
+      "marks": "7 × 2 = 14",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "A bag has 5 red balls and some blue balls. If the probability of a blue ball is four times that of a red ball, find the number of blue balls.",
+          "answer": "Let there be b blue balls; total 5 + b.\nb/(5 + b) = 4 × 5/(5 + b) ⇒ b = 20.\nThere are 20 blue balls.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "A bag contains 5 red, 4 black and 3 green balls. One is drawn at random. Find the probability of (i) a red or green ball (ii) a ball which is not red.",
+          "answer": "Total = 12.\n(i) Red or green = 5 + 3 = 8 ⇒ 8/12 = 2/3.\n(ii) Not red = 12 − 5 = 7 ⇒ 7/12.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "A card is drawn from a well-shuffled pack of 52. Find the probability of (i) the queen of hearts (ii) not a jack.",
+          "answer": "(i) Only one queen of hearts: 1/52.\n(ii) 4 jacks, so 48 non-jacks: 48/52 = 12/13.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "A coin is tossed two times. Find the probability of getting at most one head.",
+          "answer": "Outcomes HH, HT, TH, TT. At most one head: HT, TH, TT = 3.\nP = 3/4.",
+          "years": [
+            "October 2022"
+          ]
+        },
+        {
+          "id": "4.5",
+          "type": "open",
+          "q": "Two different dice are rolled together. Find the probability of an even number on both.",
+          "answer": "Each die has 3 even numbers: 3 × 3 = 9 favourable of 36.\nP = 9/36 = 1/4.",
+          "years": [
+            "April 2022"
+          ]
+        },
+        {
+          "id": "4.6",
+          "type": "open",
+          "q": "Two dice are thrown together. Find the probability of the same number on both.",
+          "answer": "Favourable: (1,1), (2,2), (3,3), (4,4), (5,5), (6,6) = 6 of 36.\nP = 1/6.",
+          "years": [
+            "October 2019"
+          ]
+        },
+        {
+          "id": "4.7",
+          "type": "open",
+          "q": "A card is drawn from a pack of 52. Find the probability of (i) a king of red colour (ii) the queen of diamonds.",
+          "answer": "(i) Red kings: hearts and diamonds = 2 ⇒ 2/52 = 1/26.\n(ii) 1/52.",
+          "years": [
+            "April 2022"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Short answer questions.",
+      "marks": "5 × 3 = 15",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "The king, queen and jack of clubs are removed from a pack of 52 cards. One card is drawn from the rest. Find the probability of (i) a black card or an ace (ii) neither a heart nor a king.",
+          "answer": "Cards left = 49.\n(i) Black cards left = 26 − 3 = 23 (the ace of clubs is among them). Add the 2 red aces: 25 ⇒ 25/49.\n(ii) Hearts = 13; kings left outside hearts = spades and diamonds = 2. Hearts or kings = 15 ⇒ neither = 49 − 15 = 34 ⇒ 34/49.",
+          "years": [
+            "October 2024"
+          ],
+          "or": {
+            "q": "Three coins are tossed together. Find the probability of (i) at least two heads (ii) at most two tails.",
+            "answer": "8 outcomes: HHH, HHT, HTH, THH, HTT, THT, TTH, TTT.\n(i) At least two heads: HHH, HHT, HTH, THH = 4 ⇒ 1/2.\n(ii) At most two tails: all except TTT = 7 ⇒ 7/8."
+          }
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "A die is thrown once. Find the probability of (i) a number greater than 4 (ii) an even number (iii) a prime number.",
+          "answer": "(i) 5, 6 ⇒ 2/6 = 1/3.\n(ii) 2, 4, 6 ⇒ 3/6 = 1/2.\n(iii) 2, 3, 5 ⇒ 3/6 = 1/2.",
+          "years": [
+            "April 2024"
+          ],
+          "or": {
+            "q": "A card is drawn from a pack of 52. Find the probability of (i) a face card (ii) a diamond (iii) the queen of spades.",
+            "answer": "(i) 12 face cards ⇒ 12/52 = 3/13.\n(ii) 13 diamonds ⇒ 13/52 = 1/4.\n(iii) 1/52."
+          }
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "Two different dice are thrown together. Find the probability that the numbers have (i) a sum less than 7 (ii) a product less than 16.",
+          "answer": "(i) Sums 2 to 6: 1 + 2 + 3 + 4 + 5 = 15 outcomes ⇒ 15/36 = 5/12.\n(ii) Products 16 or more: (3,6), (6,3), (4,4), (4,5), (5,4), (4,6), (6,4), (5,5), (5,6), (6,5), (6,6) = 11. Less than 16: 36 − 11 = 25 ⇒ 25/36.",
+          "years": [
+            "October 2021"
+          ]
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "A bag contains 25 cards numbered 1 to 25. Find the probability that the number drawn is (i) divisible by 3 or 5 (ii) a perfect square.",
+          "answer": "(i) Multiples of 3: 3, 6, …, 24 = 8; of 5: 5, 10, 15, 20, 25 = 5; 15 is counted in both. 8 + 5 − 1 = 12 ⇒ 12/25.\n(ii) 1, 4, 9, 16, 25 = 5 ⇒ 5/25 = 1/5.",
+          "years": [
+            "October 2019"
+          ]
+        },
+        {
+          "id": "5.5",
+          "type": "open",
+          "q": "A pair of dice is thrown once. Find the probability of (i) the same number on both (ii) an odd prime as the sum.",
+          "answer": "(i) 6/36 = 1/6.\n(ii) Odd prime sums: 3 (2 ways), 5 (4 ways), 7 (6 ways), 11 (2 ways) = 14 ⇒ 14/36 = 7/18.",
+          "years": [
+            "April 2019"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 6,
+      "title": "Long answer questions.",
+      "marks": "3 × 5 = 15",
+      "questions": [
+        {
+          "id": "6.1",
+          "type": "open",
+          "q": "Cards numbered 2 to 90 are in a bag. One is drawn at random. Find the probability that it bears (i) a two-digit number (ii) a perfect square (iii) a number divisible by 5.",
+          "answer": "Total cards = 90 − 2 + 1 = 89.\n(i) Two-digit numbers 10 to 90 = 81 ⇒ 81/89.\n(ii) Squares 4, 9, 16, 25, 36, 49, 64, 81 = 8 ⇒ 8/89.\n(iii) 5, 10, …, 90 = 18 ⇒ 18/89.",
+          "years": [
+            "April 2016"
+          ]
+        },
+        {
+          "id": "6.2",
+          "type": "open",
+          "q": "A card is drawn from a well-shuffled pack of 52. Find the probability that it is (a) a black ace (b) a face card (c) not the jack of diamonds (d) the king of clubs (e) a red card.",
+          "answer": "(a) Ace of spades and ace of clubs: 2/52 = 1/26.\n(b) 12 face cards: 12/52 = 3/13.\n(c) 1 − 1/52 = 51/52.\n(d) 1/52.\n(e) 26/52 = 1/2.",
+          "years": [
+            "April 2023"
+          ]
+        },
+        {
+          "id": "6.3",
+          "type": "open",
+          "q": "A card is drawn from a pack of 52. Find the probability of (i) a red king (ii) a jack or a black card.",
+          "answer": "(i) 2 red kings ⇒ 2/52 = 1/26.\n(ii) Black cards 26, plus the 2 red jacks (the black jacks are already counted) = 28 ⇒ 28/52 = 7/13.",
+          "years": [
+            "April 2017"
+          ]
+        }
+      ]
+    }
+  ]
+}

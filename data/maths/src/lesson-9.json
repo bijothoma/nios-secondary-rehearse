@@ -1,0 +1,56 @@
+{
+  "lesson": 9,
+  "title": "Instalment Buying",
+  "module": 2,
+  "summary": [
+    "## Terms",
+    "Under an instalment scheme the buyer pays part of the price at once, takes the article home, and pays the rest in regular instalments. The price if paid fully in cash at once is the cash price. The part paid at the time of purchase is the cash down payment. The later regular payments are instalments. Because the seller waits for part of the money, the buyer pays extra — the interest charged under the instalment plan.",
+    "## Basic relations",
+    "Balance (amount still owed) = cash price − cash down payment. Total amount paid = cash down + sum of the instalments. Interest charged = total amount paid − cash price = sum of instalments − balance. Example: a chair costs ₹2,700 cash, or ₹600 down plus 3 instalments of ₹750; total paid = 600 + 2250 = ₹2,850, interest = ₹150.",
+    "## Finding the rate of interest (simple interest)",
+    "With monthly instalments the buyer owes a different principal each month. Add these monthly principals to get the principal for one month. Example: fan ₹1,500 cash, or ₹360 down + 3 monthly instalments of ₹390. Balance = 1140; interest = 3 × 390 − 1140 = ₹30. Owed for month 1: 1140; month 2: 1140 − 390 = 750; month 3: 750 − 390 = 360; total = 2250 rupee-months. Rate: 30 = 2250 × R × 1/(100 × 12) ⇒ R = 16% p.a. With a single later payment: interest = payment − balance, and R = interest × 100/(balance × time).",
+    "## Finding the instalment",
+    "If the interest rate is given and the instalment x is unknown, write the principal owed each month in terms of x (balance, balance − x, balance − 2x, …), find the interest on their total, and use: sum of instalments = balance + interest. Washing machine: ₹19,400 cash, ₹4,200 down, 3 equal monthly instalments, 16% p.a. Balance 15,200; owed 15200, 15200 − x, 15200 − 2x (total 45600 − 3x); interest = (45600 − 3x) × 16/(100 × 12) = (45600 − 3x)/75; also interest = 3x − 15200. Solving gives x = ₹5,200.",
+    "## Compound interest instalments",
+    "When interest is compounded, each instalment is worth less today: the balance equals the sum of the present values of the instalments. For two half-yearly instalments at 8% p.a. compounded half-yearly (4% per half year): x/1.04 + x/(1.04)² = balance."
+  ],
+  "mcq": [
+    ["A chair costs ₹2,700 cash or ₹600 down plus 3 monthly instalments of ₹750. The extra money paid under the instalment plan is —", ["₹100", "₹150", "₹250", "₹750"], "B", ["October 2025"], {"work": "Total under the plan = 600 + 3 × 750 = 600 + 2250 = ₹2,850.\nExtra (interest) = 2850 − 2700 = ₹150."}],
+    ["The price paid if the whole amount is paid at once is called the —", ["cash down payment", "instalment", "cash price", "interest"], "C", {"work": "The cash price is the full price paid immediately in cash."}],
+    ["An article costs ₹5,000 cash; under a plan the buyer pays ₹1,000 down. The balance owed is —", ["₹6,000", "₹4,000", "₹5,000", "₹1,000"], "B", {"work": "Balance = cash price − cash down = 5000 − 1000 = ₹4,000."}],
+    ["A table costs ₹1,700 cash or ₹500 down and ₹1,400 after 2 months. The interest charged is —", ["₹200", "₹300", "₹1,200", "₹1,400"], "A", ["October 2025"], {"work": "Balance = 1700 − 500 = ₹1,200.\nThe buyer pays ₹1,400 for it, so interest = 1400 − 1200 = ₹200."}],
+    ["A fan costs ₹1,500 cash or ₹360 down + 3 monthly instalments of ₹390. The interest charged is —", ["₹30", "₹60", "₹90", "₹1,170"], "A", ["April 2021"], {"work": "Balance = 1500 − 360 = ₹1,140.\nInstalments total 3 × 390 = ₹1,170.\nInterest = 1170 − 1140 = ₹30."}],
+    ["The total amount paid under an instalment plan is —", ["cash price + cash down", "cash down + sum of the instalments", "sum of the instalments only", "cash price − interest"], "B", {"work": "The buyer pays the cash down at once and then all the instalments, so total = cash down + sum of instalments."}]
+  ],
+  "objective": [
+    ["Fill in the blanks: (i) Under an instalment plan, the part paid at the time of purchase is the ____. (ii) Interest charged = sum of instalments − ____.", "(i) cash down payment.\n(ii) balance (= cash price − cash down), because the instalments repay the balance plus interest."],
+    ["Write True or False: (i) Under an instalment plan the buyer usually pays more than the cash price. (ii) Interest under an instalment plan is charged on the full cash price for the whole period.", "(i) True: the extra is interest for the delayed payment.\n(ii) False: interest is charged only on the amount still owed, which falls after each instalment."],
+    ["A TV costs ₹20,000 cash, or ₹5,000 down and ₹15,500 after 4 months. Fill in: (i) interest ____ (ii) rate of interest ____ p.a.", "(i) Balance = 15000; interest = 15500 − 15000 = ₹500.\n(ii) 500 = 15000 × R × (4/12)/100 = 50R ⇒ R = 10% p.a.", ["April 2024"]]
+  ],
+  "case": {
+    "passage": "A washing machine costs ₹19,400. In a Diwali sale it is available for ₹4,200 cash down followed by three equal monthly instalments. The shopkeeper charges interest at 16% per annum under this plan. Let each instalment be ₹x.",
+    "items": [
+      ["Total interest paid under the plan is —", ["₹(3x − 15,200)", "₹(2x − 15,200)", "₹(x − 15,200)", "₹(15,200 − x)"], "A", ["April 2025"], {"work": "Balance = 19400 − 4200 = ₹15,200. The three instalments repay it with interest, so interest = 3x − 15200."}],
+      ["The amount owed for the 1st month is —", ["₹4,200", "₹19,400", "₹15,200", "₹11,000"], "C", {"work": "During the first month the buyer owes the whole balance, ₹15,200."}],
+      ["The amount owed for the 3rd month is —", ["₹15,200", "₹(15,200 − x)", "₹(15,200 − 3x)", "₹(15,200 − 2x)"], "D", {"work": "After the 1st instalment: 15200 − x; after the 2nd: 15200 − 2x — owed during the 3rd month."}],
+      ["The total amount paid by the buyer under the plan is —", ["₹19,400", "₹15,200", "₹(4,200 + 3x)", "₹(19,400 − x)"], "C", {"work": "Cash down + three instalments = 4200 + 3x."}],
+      ["The amount of each instalment is —", ["₹4,200", "₹4,600", "₹4,800", "₹5,200"], "D", {"work": "Principal for one month = 15200 + (15200 − x) + (15200 − 2x) = 45600 − 3x.\nInterest = (45600 − 3x) × 16/(100 × 12) = (45600 − 3x)/75.\nSo 3x − 15200 = (45600 − 3x)/75 ⇒ 225x − 1140000 = 45600 − 3x ⇒ 228x = 1185600 ⇒ x = 5200."}]
+    ]
+  },
+  "vsa": [
+    ["A chair is available for ₹2,700 cash or ₹600 cash down followed by 3 monthly instalments of ₹750. Find the interest charged under the plan.", "Total paid = 600 + 3 × 750 = ₹2,850.\nInterest = 2850 − 2700 = ₹150.", ["October 2025"]],
+    ["A table is available for ₹1,700 cash or ₹500 down and ₹1,400 after 2 months. Find the rate of interest charged.", "Balance = 1700 − 500 = ₹1,200; interest = 1400 − 1200 = ₹200 for 2 months.\n200 = 1200 × R × (2/12)/100 = 2R ⇒ R = 100% per annum.", ["October 2025"]],
+    ["A sewing machine is sold for ₹7,500 cash down and ₹4,360 after 6 months. If interest is charged at 18% per annum, find the cash price.", "Let the cash price be ₹C; balance = C − 7500.\nAmount after 6 months = balance × (1 + 18 × ½/100) = 1.09 × (C − 7500).\n1.09(C − 7500) = 4360 ⇒ C − 7500 = 4000 ⇒ C = ₹11,500.", ["April 2024"], {"or": ["A TV costs ₹20,000 cash or ₹5,000 down and ₹15,500 after 4 months. Find the rate of interest.", "Balance = 20000 − 5000 = ₹15,000; interest = 15500 − 15000 = ₹500 for 4 months.\n500 = 15000 × R × (4/12)/100 = 50R ⇒ R = 10% per annum."]}],
+    ["A camera is bought for ₹5,000 cash down and ₹21,000 after 3 months. If interest is 20% per annum, find the cash price.", "Let the cash price be C; balance = C − 5000.\nInterest for 3 months at 20% = 20 × 3/12 = 5%, so 21000 = 1.05(C − 5000).\nC − 5000 = 20000 ⇒ C = ₹25,000.", ["October 2024"]],
+    ["A radio costs ₹1,000 cash or ₹400 down and ₹630 after 6 months. Find the rate of interest.", "Balance = ₹600; interest = 630 − 600 = ₹30 for ½ year.\n30 = 600 × R × ½/100 = 3R ⇒ R = 10% per annum."]
+  ],
+  "sa": [
+    ["A fan is available for ₹1,500 cash or ₹360 cash down followed by three monthly instalments of ₹390 each. Find the rate of interest per annum under the plan.", "Balance = 1500 − 360 = ₹1,140; instalments = 3 × 390 = ₹1,170; interest = ₹30.\nOwed: month 1 ₹1,140; month 2 1140 − 390 = ₹750; month 3 750 − 390 = ₹360.\nPrincipal for one month = 1140 + 750 + 360 = ₹2,250.\n30 = 2250 × R × 1/(100 × 12) ⇒ R = 30 × 1200/2250 = 16% per annum.", ["April 2021"]],
+    ["A washing machine is available for ₹13,500 cash or ₹6,500 cash down followed by three monthly instalments of ₹2,500. Find the rate of interest.", "Balance = 13500 − 6500 = ₹7,000; instalments = ₹7,500; interest = ₹500.\nOwed: 7000, 7000 − 2500 = 4500, 4500 − 2500 = 2000; total = ₹13,500 for one month.\n500 = 13500 × R/(100 × 12) ⇒ R = 500 × 1200/13500 = 44.44% per annum.", ["April 2019"]],
+    ["A cooler costs ₹6,000 cash or ₹2,000 down and two equal monthly instalments. If interest is 12% per annum (simple), find each instalment.", "Balance = ₹4,000. Let each instalment be x.\nOwed: 4000 and 4000 − x; total = 8000 − x for one month.\nInterest = (8000 − x) × 12/(100 × 12) = (8000 − x)/100; also interest = 2x − 4000.\n2x − 4000 = (8000 − x)/100 ⇒ 200x − 400000 = 8000 − x ⇒ 201x = 408000 ⇒ x ≈ ₹2,029.85."]
+  ],
+  "la": [
+    ["A washing machine costs ₹15,000 cash or ₹2,250 cash down followed by two equal half-yearly instalments. If the interest charged is 8% per annum compounded half-yearly, find each instalment.", "Balance = 15000 − 2250 = ₹12,750. Rate per half-year = 4%.\nThe balance equals the present value of the two instalments x:\nx/1.04 + x/(1.04)² = 12750.\nMultiply by (1.04)² = 1.0816: 1.04x + x = 12750 × 1.0816 ⇒ 2.04x = 13,790.40 ⇒ x = ₹6,760.\nEach half-yearly instalment is ₹6,760.", ["April 2016"]],
+    ["A washing machine costs ₹19,400. It is offered for ₹4,200 cash down and three equal monthly instalments, with interest at 16% per annum. Find each instalment and the total amount paid.", "Balance = 19400 − 4200 = ₹15,200. Let each instalment be x.\nOwed: 15200, 15200 − x, 15200 − 2x; total = 45600 − 3x for one month.\nInterest = (45600 − 3x) × 16/(100 × 12) = (45600 − 3x)/75.\nAlso interest = 3x − 15200.\n75(3x − 15200) = 45600 − 3x ⇒ 228x = 1185600 ⇒ x = ₹5,200.\nTotal paid = 4200 + 3 × 5200 = ₹19,800.", ["April 2025"]]
+  ]
+}

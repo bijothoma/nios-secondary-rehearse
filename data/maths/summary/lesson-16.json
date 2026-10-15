@@ -1,0 +1,105 @@
+{
+  "subject": "maths",
+  "lesson": 16,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 16: Angles in a Circle and Cyclic Quadrilaterals — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Central and inscribed angles"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "The angle an arc (or chord) makes at the centre is the central angle; the angle it makes at a point on the remaining part of the circle is an inscribed angle. Points that lie on one circle are concyclic."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "The main theorems"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "(1) The angle subtended by an arc at the centre is double the angle it subtends at any point on the remaining part of the circle: ∠AOB = 2∠ACB. So if an arc subtends x° at the centre and y° on the circle, x = 2y.\n(2) The angle in a semicircle is a right angle (the diameter subtends 180° at the centre, so 90° on the circle).\n(3) Angles in the same segment of a circle are equal.\n(4) The opposite angles of a cyclic quadrilateral add up to 180°.\n(5) Converse: if a pair of opposite angles of a quadrilateral is supplementary, the quadrilateral is cyclic.\n(6) An exterior angle of a cyclic quadrilateral equals the interior opposite angle."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Proof: angles in the same segment are equal"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Let ∠ACB and ∠ADB be in the same segment of a circle with centre O. Join OA and OB. By theorem (1), ∠AOB = 2∠ACB and ∠AOB = 2∠ADB. Therefore 2∠ACB = 2∠ADB, so ∠ACB = ∠ADB."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Proof: opposite angles of a cyclic quadrilateral are supplementary"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Let ABCD be cyclic with centre O. Join OB and OD. Arc BAD subtends ∠BOD = 2∠BCD at the centre, and arc BCD subtends the reflex angle BOD = 2∠BAD. The two angles at O together make 360°, so 2∠BCD + 2∠BAD = 360°, i.e. ∠A + ∠C = 180°. Similarly ∠B + ∠D = 180°."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Useful facts in problems"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "A chord equal to the radius forms an equilateral triangle with the centre, so it subtends 60° at the centre, 30° at a point on the major arc and 150° at a point on the minor arc. Radii are equal, so a triangle with two radii as sides is isosceles: if ∠BAC = 35°, ∠BOC = 70° and ∠OBC = (180° − 70°)/2 = 55°. Of the parallelograms only the rectangle (and square) is cyclic, because its opposite angles are 90° + 90°. When a triangle stands on a diameter, Pythagoras gives the diameter: AC = 3, BC = 4 ⇒ AB = 5, radius 2.5."
+        ]
+      ]
+    }
+  ]
+}

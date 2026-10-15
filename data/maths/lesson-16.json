@@ -1,0 +1,414 @@
+{
+  "subject": "maths",
+  "lesson": 16,
+  "title": "Angles in a Circle and Cyclic Quadrilaterals",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Every answer shows the working. Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "10 × 1 = 10",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "Angles in the same segment of a circle are —",
+          "options": [
+            "supplementary",
+            "complementary",
+            "right angles",
+            "equal"
+          ],
+          "answer": "D",
+          "years": [
+            "April 2026"
+          ],
+          "work": "By the theorem, every angle subtended by the same arc in the same segment equals half the central angle, so they are all equal."
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "An arc subtends x° at the centre and y° at a point on the remaining part of the circle. Then —",
+          "options": [
+            "x = 2y",
+            "y = 2x",
+            "x = y",
+            "x + y = 0"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2025"
+          ],
+          "work": "The angle at the centre is double the angle on the circle: x = 2y."
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "The angle in a semicircle is —",
+          "options": [
+            "acute",
+            "obtuse",
+            "a right angle",
+            "a straight angle"
+          ],
+          "answer": "C",
+          "years": [
+            "October 2024"
+          ],
+          "work": "The diameter subtends 180° at the centre, so it subtends 180°/2 = 90° at any point on the circle."
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "For a cyclic quadrilateral, which is true?",
+          "options": [
+            "Opposite angles are supplementary",
+            "Opposite angles are complementary",
+            "One opposite angle is always obtuse",
+            "Opposite angles are equal"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2024",
+            "April 2019"
+          ],
+          "work": "Opposite angles of a cyclic quadrilateral add up to 180° — they are supplementary."
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "In a circle with centre O, ∠ABC = 100° and ∠BDC = 45° (A, B, C, D on the circle, ∠BAC and ∠BDC on the same arc BC). Then ∠ACB is —",
+          "options": [
+            "45°",
+            "55°",
+            "35°",
+            "60°"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2023"
+          ],
+          "work": "∠BAC = ∠BDC = 45° (angles in the same segment).\nIn △ABC: ∠ACB = 180° − 100° − 45° = 35°."
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "Which of the following is always a cyclic quadrilateral?",
+          "options": [
+            "Trapezium",
+            "Parallelogram",
+            "Rhombus",
+            "Rectangle"
+          ],
+          "answer": "D",
+          "years": [
+            "April 2017"
+          ],
+          "work": "A quadrilateral is cyclic when opposite angles are supplementary. In a rectangle each angle is 90°, so 90° + 90° = 180° ✓. A general parallelogram or rhombus does not satisfy this."
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "AOB is a diameter of a circle with centre O. If AC = 3 cm and BC = 4 cm (C on the circle), the radius is —",
+          "options": [
+            "2.5 cm",
+            "5 cm",
+            "3.5 cm",
+            "7 cm"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2021"
+          ],
+          "work": "∠ACB = 90° (angle in a semicircle).\nAB² = 3² + 4² = 25 ⇒ AB = 5 cm (diameter). Radius = 2.5 cm."
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "AB is a diameter of a circle with centre O and ∠AOC = 120°. If D is on the circle on the other side of AB, then ∠BDC is —",
+          "options": [
+            "60°",
+            "30°",
+            "120°",
+            "90°"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2016"
+          ],
+          "work": "∠BOC = 180° − 120° = 60° (AOB is a straight line).\n∠BDC = ½∠BOC = 30°."
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "In a cyclic quadrilateral ABCD, ∠A = 110°. Then ∠C is —",
+          "options": [
+            "110°",
+            "70°",
+            "90°",
+            "250°"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2026"
+          ],
+          "work": "∠A + ∠C = 180° ⇒ ∠C = 180° − 110° = 70°."
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "A chord of a circle equals its radius. The angle it subtends at a point on the major arc is —",
+          "options": [
+            "60°",
+            "30°",
+            "150°",
+            "90°"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2026"
+          ],
+          "work": "The chord and two radii form an equilateral triangle, so the central angle is 60°.\nAngle on the major arc = ½ × 60° = 30°."
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark (fill in the blanks, match the columns or true/false).",
+      "marks": "4 × 2 = 8",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "Fill in the blanks: (i) In cyclic quadrilateral ABCD, ∠DAB = 110°, so ∠BCD = ____. (ii) AB is a chord of a circle with centre O, ∠OAB = 40° and C is on the major arc; ∠ACB = ____.",
+          "answer": "(i) Opposite angles are supplementary: 180° − 110° = 70°.\n(ii) OA = OB, so ∠OBA = 40° and ∠AOB = 180° − 80° = 100°; ∠ACB = ½ × 100° = 50°.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Write True or False: (i) A chord equal to the radius subtends 30° at a point on the minor arc. (ii) ∠PAQ = 35° is inscribed in a circle with centre O standing on chord PQ; then ∠OPQ = 50°.",
+          "answer": "(i) False: the central angle is 60°; on the major arc the angle is 30°, on the minor arc it is 180° − 30° = 150°.\n(ii) False: ∠POQ = 2 × 35° = 70°; OP = OQ, so ∠OPQ = (180° − 70°)/2 = 55°.",
+          "years": [
+            "April 2025",
+            "October 2024"
+          ]
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "Fill in the blanks: (i) In cyclic quadrilateral PQRS, side PS is produced to A and ∠PQR = 80°; ∠ASR = ____. (ii) If ∠R = 78°, then ∠P = ____.",
+          "answer": "(i) An exterior angle of a cyclic quadrilateral equals the interior opposite angle: ∠ASR = ∠PQR = 80°. (Also ∠PSR = 100°, so ∠ASR = 180° − 100° = 80°.)\n(ii) ∠P + ∠R = 180° ⇒ ∠P = 102°.",
+          "years": [
+            "April 2024",
+            "October 2024"
+          ]
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Fill in the blanks: (i) In cyclic quadrilateral ABCD, ∠DBC = 55° and ∠BAC = 45°; then ∠BCD = ____. (ii) The angle subtended at the centre by a semicircle is a ____ angle.",
+          "answer": "(i) ∠BDC = ∠BAC = 45° (same segment). In △BCD: ∠BCD = 180° − 55° − 45° = 80°.\n(ii) straight (180°).",
+          "years": [
+            "October 2024",
+            "April 2024"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Case study: read the information and answer the questions that follow.",
+      "marks": "5 × 1 = 5",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "mcq",
+          "q": "∠ACB is —",
+          "options": [
+            "140°",
+            "70°",
+            "110°",
+            "35°"
+          ],
+          "answer": "B",
+          "work": "Angle on the circle = ½ × central angle = ½ × 140° = 70°."
+        },
+        {
+          "id": "3.2",
+          "type": "mcq",
+          "q": "∠ADB is —",
+          "options": [
+            "70°",
+            "110°",
+            "140°",
+            "220°"
+          ],
+          "answer": "B",
+          "work": "ACBD is cyclic: ∠ADB = 180° − ∠ACB = 180° − 70° = 110°."
+        },
+        {
+          "id": "3.3",
+          "type": "mcq",
+          "q": "∠OAB is —",
+          "options": [
+            "20°",
+            "40°",
+            "70°",
+            "140°"
+          ],
+          "answer": "A",
+          "work": "OA = OB (radii), so ∠OAB = ∠OBA = (180° − 140°)/2 = 20°."
+        },
+        {
+          "id": "3.4",
+          "type": "mcq",
+          "q": "If E is another point on the major arc, ∠AEB is —",
+          "options": [
+            "70°",
+            "110°",
+            "140°",
+            "35°"
+          ],
+          "answer": "A",
+          "work": "∠AEB and ∠ACB are in the same segment, so ∠AEB = 70°."
+        },
+        {
+          "id": "3.5",
+          "type": "mcq",
+          "q": "If AB were a diameter, ∠ACB would be —",
+          "options": [
+            "45°",
+            "60°",
+            "90°",
+            "180°"
+          ],
+          "answer": "C",
+          "work": "The angle in a semicircle is 90°."
+        }
+      ],
+      "fixed": true,
+      "passage": "A Ferris wheel is a circle with centre O. Cabins A, B, C and D are on the wheel. The arc AB subtends ∠AOB = 140° at the centre. C is on the major arc AB and D is on the minor arc AB, so ACBD is a cyclic quadrilateral."
+    },
+    {
+      "no": 4,
+      "title": "Very short answer questions.",
+      "marks": "6 × 2 = 12",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "Find the angle subtended by a chord equal to the radius of a circle at a point in the major segment.",
+          "answer": "Join the chord's ends A and B to the centre O. OA = OB = AB, so △OAB is equilateral and ∠AOB = 60°.\nAngle at a point C in the major segment = ½∠AOB = 30°.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "ABCD is a cyclic quadrilateral with ∠A = (2x + 4)°, ∠B = (y + 3)°, ∠C = (2y + 10)° and ∠D = (4x − 5)°. Find x and y.",
+          "answer": "∠A + ∠C = 180° ⇒ 2x + 2y + 14 = 180 ⇒ x + y = 83.\n∠B + ∠D = 180° ⇒ y + 4x − 2 = 180 ⇒ 4x + y = 182.\nSubtract: 3x = 99 ⇒ x = 33; y = 50.",
+          "years": [
+            "April 2025"
+          ],
+          "note": "April 2025 asked the same type of question with its own expressions for the angles."
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "O is the centre of a circle, ∠SOQ = 150° and P, R are on the circle so that PQRS is cyclic with P on the minor arc QS. Find x = ∠SRQ and y = ∠SPQ.",
+          "answer": "x = ½∠SOQ = ½ × 150° = 75° (angle on the major arc).\nPQRS is cyclic: y = 180° − x = 105°.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "In a circle with centre O, ∠BAC = 35°. Find ∠OBC.",
+          "answer": "∠BOC = 2∠BAC = 70°.\nOB = OC, so ∠OBC = ∠OCB = (180° − 70°)/2 = 55°.",
+          "years": [
+            "April 2023"
+          ]
+        },
+        {
+          "id": "4.5",
+          "type": "open",
+          "q": "Find the measure of ∠ABC if the minor arc ABC subtends 120° at the centre O (B on the minor arc).",
+          "answer": "The arc AC not containing B subtends the reflex angle 360° − 120° = 240° at O.\n∠ABC = ½ × 240° = 120°.",
+          "years": [
+            "October 2017"
+          ]
+        },
+        {
+          "id": "4.6",
+          "type": "open",
+          "q": "O is the centre of a circle and A, B, C lie on it with ∠AOC = 120°. Find ∠ABC when B is on the major arc.",
+          "answer": "∠ABC = ½∠AOC = ½ × 120° = 60°.",
+          "years": [
+            "October 2016"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Short answer questions.",
+      "marks": "3 × 3 = 9",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "Prove that angles in the same segment of a circle are equal.",
+          "answer": "Given: a circle with centre O; ∠ACB and ∠ADB are in the same segment, standing on arc AB.\nTo prove: ∠ACB = ∠ADB.\nConstruction: join OA and OB.\nProof: the angle subtended by an arc at the centre is double the angle subtended at any point on the remaining circle.\nSo ∠AOB = 2∠ACB and ∠AOB = 2∠ADB.\nHence 2∠ACB = 2∠ADB, i.e. ∠ACB = ∠ADB. Proved.",
+          "years": [
+            "April 2026",
+            "April 2024"
+          ]
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "Prove that the opposite angles of a cyclic quadrilateral are supplementary.",
+          "answer": "Given: ABCD is a cyclic quadrilateral, centre O.\nTo prove: ∠A + ∠C = 180° and ∠B + ∠D = 180°.\nConstruction: join OB and OD.\nProof: arc BCD subtends ∠BOD (marked x) at the centre and ∠BAD on the circle, so ∠BAD = ½x.\nArc BAD subtends the reflex angle (360° − x) at the centre and ∠BCD on the circle, so ∠BCD = ½(360° − x).\nAdding: ∠A + ∠C = ½x + 180° − ½x = 180°.\nSince the angles of a quadrilateral add to 360°, ∠B + ∠D = 360° − 180° = 180°. Proved."
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "ABCD is a cyclic quadrilateral in which AB is a diameter and ∠ADC = 130°. Find ∠BAC.",
+          "answer": "∠ABC = 180° − ∠ADC = 50° (opposite angles of a cyclic quadrilateral).\n∠ACB = 90° (angle in a semicircle).\nIn △ABC: ∠BAC = 180° − 90° − 50° = 40°."
+        }
+      ]
+    },
+    {
+      "no": 6,
+      "title": "Long answer questions.",
+      "marks": "2 × 5 = 10",
+      "questions": [
+        {
+          "id": "6.1",
+          "type": "open",
+          "q": "Prove that the angle subtended by an arc at the centre of a circle is double the angle subtended by it at any point on the remaining part of the circle.",
+          "answer": "Given: arc AB of a circle with centre O; C is a point on the remaining part.\nTo prove: ∠AOB = 2∠ACB.\nConstruction: join CO and produce it to a point D.\nProof: in △OAC, OA = OC (radii), so ∠OAC = ∠OCA.\nThe exterior angle ∠AOD = ∠OAC + ∠OCA = 2∠OCA …(1)\nSimilarly in △OBC, ∠BOD = 2∠OCB …(2)\nAdding (1) and (2): ∠AOD + ∠BOD = 2(∠OCA + ∠OCB), i.e. ∠AOB = 2∠ACB. Proved.\n(For a major arc, the same steps give reflex ∠AOB = 2∠ACB.)"
+        },
+        {
+          "id": "6.2",
+          "type": "open",
+          "q": "Two circles intersect at A and B. AC and AD are diameters of the two circles. Prove that C, B and D are collinear.",
+          "answer": "Join AB, BC and BD.\nAC is a diameter of the first circle, so ∠ABC = 90° (angle in a semicircle).\nAD is a diameter of the second circle, so ∠ABD = 90°.\n∠ABC + ∠ABD = 90° + 90° = 180°, so CBD is a straight line.\nHence C, B and D are collinear.",
+          "years": [
+            "October 2016"
+          ]
+        }
+      ]
+    }
+  ]
+}

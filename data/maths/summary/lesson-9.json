@@ -1,0 +1,105 @@
+{
+  "subject": "maths",
+  "lesson": 9,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 9: Instalment Buying — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Terms"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Under an instalment scheme the buyer pays part of the price at once, takes the article home, and pays the rest in regular instalments. The price if paid fully in cash at once is the cash price. The part paid at the time of purchase is the cash down payment. The later regular payments are instalments. Because the seller waits for part of the money, the buyer pays extra — the interest charged under the instalment plan."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Basic relations"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Balance (amount still owed) = cash price − cash down payment. Total amount paid = cash down + sum of the instalments. Interest charged = total amount paid − cash price = sum of instalments − balance. Example: a chair costs ₹2,700 cash, or ₹600 down plus 3 instalments of ₹750; total paid = 600 + 2250 = ₹2,850, interest = ₹150."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Finding the rate of interest (simple interest)"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "With monthly instalments the buyer owes a different principal each month. Add these monthly principals to get the principal for one month. Example: fan ₹1,500 cash, or ₹360 down + 3 monthly instalments of ₹390. Balance = 1140; interest = 3 × 390 − 1140 = ₹30. Owed for month 1: 1140; month 2: 1140 − 390 = 750; month 3: 750 − 390 = 360; total = 2250 rupee-months. Rate: 30 = 2250 × R × 1/(100 × 12) ⇒ R = 16% p.a. With a single later payment: interest = payment − balance, and R = interest × 100/(balance × time)."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Finding the instalment"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "If the interest rate is given and the instalment x is unknown, write the principal owed each month in terms of x (balance, balance − x, balance − 2x, …), find the interest on their total, and use: sum of instalments = balance + interest. Washing machine: ₹19,400 cash, ₹4,200 down, 3 equal monthly instalments, 16% p.a. Balance 15,200; owed 15200, 15200 − x, 15200 − 2x (total 45600 − 3x); interest = (45600 − 3x) × 16/(100 × 12) = (45600 − 3x)/75; also interest = 3x − 15200. Solving gives x = ₹5,200."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Compound interest instalments"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "When interest is compounded, each instalment is worth less today: the balance equals the sum of the present values of the instalments. For two half-yearly instalments at 8% p.a. compounded half-yearly (4% per half year): x/1.04 + x/(1.04)² = balance."
+        ]
+      ]
+    }
+  ]
+}

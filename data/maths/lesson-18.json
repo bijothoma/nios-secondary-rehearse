@@ -1,0 +1,269 @@
+{
+  "subject": "maths",
+  "lesson": 18,
+  "title": "Constructions",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Every answer shows the working. Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "6 × 1 = 6",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "To divide a line segment AB in the ratio 2 : 3, a ray AX is drawn at an acute angle and marked at equal intervals. The minimum number of marks is —",
+          "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "answer": "D",
+          "years": [
+            "October 2019"
+          ],
+          "work": "For a ratio m : n we need m + n equal parts: 2 + 3 = 5 marks."
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "A triangle ABC with BC = 3 cm, ∠C = 30° and AB − AC = 3.2 cm —",
+          "options": [
+            "can be constructed",
+            "cannot be constructed",
+            "is right-angled",
+            "is equilateral"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2026"
+          ],
+          "work": "By the triangle inequality AB < AC + BC, i.e. AB − AC < BC.\nHere AB − AC = 3.2 cm is not less than BC = 3 cm, so no such triangle exists."
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "To draw the perpendicular bisector of AB, the compass is opened to —",
+          "options": [
+            "less than ½AB",
+            "exactly ½AB",
+            "more than ½AB",
+            "exactly AB"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2026"
+          ],
+          "work": "Arcs from A and B meet only if each radius is more than half of AB."
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "To construct a triangle similar to △ABC with sides 3/4 of it, the number of equal points to mark on the ray BX is at least —",
+          "options": [
+            "3",
+            "4",
+            "7",
+            "12"
+          ],
+          "answer": "B",
+          "work": "For a scale factor 3/4 we mark 4 points (the larger of 3 and 4), join the 4th to C, and draw the parallel through the 3rd."
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "In the construction of tangents from P to a circle with centre O, the midpoint M of OP is used because —",
+          "options": [
+            "MO = MP = radius",
+            "the angle in a semicircle on OP is 90°",
+            "PM is a tangent",
+            "OM is a radius"
+          ],
+          "answer": "B",
+          "work": "The circle on OP as diameter meets the given circle at Q; ∠OQP is the angle in a semicircle = 90°, so PQ ⊥ OQ and PQ is a tangent."
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "A triangle with AB + AC = 5 cm and BC = 6 cm —",
+          "options": [
+            "can be constructed",
+            "cannot be constructed",
+            "is isosceles",
+            "has ∠A = 90°"
+          ],
+          "answer": "B",
+          "work": "The sum of two sides must be greater than the third: AB + AC must exceed BC. 5 < 6, so it cannot be constructed."
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark (fill in the blanks, match the columns or true/false).",
+      "marks": "3 × 2 = 6",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "Write True or False: (i) △ABC with BC = 3 cm, ∠C = 30° and AB − AC = 3.2 cm can be constructed. (ii) For the perpendicular bisector of AB, the compass must be opened to less than ½AB.",
+          "answer": "(i) False: we need AB − AC < BC, but 3.2 > 3.\n(ii) False: the radius must be more than ½AB so that the arcs from A and B meet.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Fill in the blanks: (i) To divide AB in the ratio 3 : 5, the ray AX is marked with ____ equal points. (ii) Tangents from an external point to a circle are ____ in length.",
+          "answer": "(i) 3 + 5 = 8.\n(ii) equal."
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "Fill in the blanks: (i) To make a triangle similar to △ABC with sides 2/3 of it, B₃ is joined to C and the parallel is drawn through ____. (ii) To construct ∠45°, bisect an angle of ____.",
+          "answer": "(i) B₂ — the 2nd mark (m = 2, n = 3).\n(ii) 90°."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Very short answer questions.",
+      "marks": "3 × 2 = 6",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "Write the steps to divide a line segment of 7 cm internally in the ratio 3 : 4.",
+          "answer": "1. Draw AB = 7 cm.\n2. Draw a ray AX making an acute angle with AB.\n3. With a fixed compass opening, mark 3 + 4 = 7 equal points A₁, …, A₇ on AX.\n4. Join A₇B.\n5. Through A₃ draw a line parallel to A₇B (copy ∠AA₇B at A₃) meeting AB at P.\n6. Then AP : PB = 3 : 4 (AP = 3 cm, PB = 4 cm).",
+          "years": [
+            "April 2019"
+          ]
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "Write the steps of construction of tangents to a circle of radius 3 cm from a point P 6 cm from its centre O.",
+          "answer": "1. Draw a circle of radius 3 cm with centre O.\n2. Mark P with OP = 6 cm and join OP.\n3. Draw the perpendicular bisector of OP; let it cut OP at M (OM = 3 cm).\n4. With centre M and radius MO draw a circle cutting the given circle at Q and R.\n5. Join PQ and PR — these are the tangents.\n6. Check: PQ = √(6² − 3²) = √27 ≈ 5.2 cm.",
+          "years": [
+            "October 2019",
+            "April 2016"
+          ]
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "Draw a line segment of 7 cm and find a point P on it dividing it in the ratio 3 : 5. Write the steps.",
+          "answer": "1. Draw AB = 7 cm and a ray AX at an acute angle to it.\n2. Mark 8 (= 3 + 5) equal points A₁ … A₈ on AX.\n3. Join A₈B.\n4. Through A₃ draw A₃P ∥ A₈B, meeting AB at P.\n5. AP : PB = 3 : 5 (AP = 21/8 = 2.625 cm).",
+          "years": [
+            "October 2019"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Short answer questions.",
+      "marks": "3 × 3 = 9",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "Construct △PQR in which QR = 8 cm, ∠Q = 30° and PQ − PR = 2 cm. Write the steps.",
+          "answer": "1. Draw QR = 8 cm.\n2. At Q make ∠RQX = 30°.\n3. Cut QS = 2 cm (= PQ − PR) on QX.\n4. Join SR.\n5. Draw the perpendicular bisector of SR; let it meet QX produced at P.\n6. Join PR. △PQR is the required triangle.\nWhy: P is on the bisector of SR, so PS = PR, and PQ − PR = PQ − PS = QS = 2 cm.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "Construct △PQR in which PQ + PR = 8.2 cm, QR = 3.6 cm and ∠Q = 45°.",
+          "answer": "1. Draw QR = 3.6 cm.\n2. At Q make ∠RQX = 45°.\n3. Cut QS = 8.2 cm on QX.\n4. Join SR and draw its perpendicular bisector, meeting QS at P.\n5. Join PR. △PQR is the required triangle.\nWhy: PS = PR, so PQ + PR = PQ + PS = QS = 8.2 cm.",
+          "years": [
+            "April 2023"
+          ]
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "Construct △ABC in which BC = 4 cm, ∠B = 60° and AB − AC = 1.2 cm.",
+          "answer": "1. Draw BC = 4 cm.\n2. At B make ∠CBX = 60°.\n3. Cut BD = 1.2 cm on BX.\n4. Join DC and draw its perpendicular bisector, meeting BX produced at A.\n5. Join AC. △ABC is the required triangle (AD = AC, so AB − AC = BD = 1.2 cm).",
+          "years": [
+            "April 2016"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Long answer questions.",
+      "marks": "5 × 5 = 25",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "Construct a triangle ABC with sides AB = 3 cm, BC = 4 cm and AC = 6 cm. Then construct a triangle similar to it whose sides are 2/3 of the corresponding sides of △ABC.",
+          "answer": "1. Draw BC = 4 cm. With centre B radius 3 cm and centre C radius 6 cm draw arcs meeting at A. Join AB, AC.\n2. Draw a ray BX making an acute angle with BC, on the side opposite to A.\n3. Mark 3 equal points B₁, B₂, B₃ on BX.\n4. Join B₃C.\n5. Through B₂ draw a line parallel to B₃C meeting BC at C′.\n6. Through C′ draw a line parallel to CA meeting BA at A′.\n7. △A′BC′ is the required triangle: A′B = 2 cm, BC′ = 8/3 ≈ 2.67 cm, A′C′ = 4 cm.",
+          "years": [
+            "April 2026",
+            "October 2024"
+          ],
+          "or": {
+            "q": "Draw a circle of diameter 6 cm. From a point P 7 cm from its centre, draw two tangents to the circle.",
+            "answer": "1. Draw a circle with centre O and radius 3 cm.\n2. Mark P with OP = 7 cm; join OP.\n3. Bisect OP at M (OM = 3.5 cm).\n4. With centre M and radius 3.5 cm draw a circle cutting the given circle at Q and R.\n5. Join PQ and PR — the required tangents.\n6. Each = √(7² − 3²) = √40 ≈ 6.3 cm."
+          },
+          "note": "October 2024 used sides 5, 6 and 7 cm with the same scale factor 2/3."
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "Construct a triangle ABC in which AB = 5 cm, BC = 4.2 cm and the median CD = 3.8 cm.",
+          "answer": "D is the midpoint of AB, so BD = 2.5 cm.\n1. Construct △BCD: draw BD = 2.5 cm; with centre B radius 4.2 cm and centre D radius 3.8 cm draw arcs meeting at C. Join BC and DC.\n2. Produce BD to A so that DA = 2.5 cm (AB = 5 cm).\n3. Join AC. △ABC is the required triangle, with median CD = 3.8 cm.",
+          "years": [
+            "April 2025",
+            "April 2024"
+          ],
+          "or": {
+            "q": "Draw a circle of radius 3.2 cm and from a point P outside it draw two tangents PQ and PR.",
+            "answer": "1. Draw a circle with centre O, radius 3.2 cm. Mark a point P outside it (say OP = 6 cm) and join OP.\n2. Bisect OP at M.\n3. With centre M and radius MO draw a circle cutting the given circle at Q and R.\n4. Join PQ and PR; these are the tangents, and PQ = PR."
+          }
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "Construct a triangle ABC in which AB + BC + CA = 10 cm, ∠B = 60° and ∠C = 30°.",
+          "answer": "1. Draw XY = 10 cm (the perimeter).\n2. At X make ∠YXL = 30° (= ½ × 60°); at Y make ∠XYM = 15° (= ½ × 30°). Let XL and YM meet at A.\n3. Draw the perpendicular bisectors of AX and AY, cutting XY at B and C.\n4. Join AB and AC. △ABC is the required triangle.\nWhy: B is on the bisector of AX, so BA = BX and ∠BAX = ∠BXA = 30°, giving ∠ABC = 60°; similarly ∠ACB = 30°; and AB + BC + CA = XB + BC + CY = 10 cm.",
+          "years": [
+            "October 2024",
+            "April 2019"
+          ]
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "Draw a right triangle ABC with BC = 12 cm, AB = 5 cm and ∠B = 90°. Construct a triangle similar to it with scale factor 2/3.",
+          "answer": "1. Draw BC = 12 cm. At B construct ∠CBY = 90° and cut BA = 5 cm. Join AC (AC = 13 cm).\n2. Draw a ray BX at an acute angle to BC, below it.\n3. Mark 3 equal points B₁, B₂, B₃ on BX and join B₃C.\n4. Through B₂ draw B₂C′ ∥ B₃C meeting BC at C′ (BC′ = 8 cm).\n5. Through C′ draw C′A′ ∥ CA meeting BA at A′ (BA′ = 10/3 cm).\n6. △A′BC′ is the required triangle.",
+          "years": [
+            "April 2022"
+          ]
+        },
+        {
+          "id": "5.5",
+          "type": "open",
+          "q": "Construct a triangle ABC with AB = 6 cm, BC = 4 cm and median CD = 3.5 cm. Then construct a triangle whose sides are 3/4 of those of △ABC.",
+          "answer": "1. BD = ½AB = 3 cm. Draw △BCD with BD = 3 cm, BC = 4 cm, CD = 3.5 cm; produce BD to A so that DA = 3 cm. Join AC.\n2. Draw a ray BX at an acute angle to BC; mark 4 equal points B₁ … B₄.\n3. Join B₄C; through B₃ draw B₃C′ ∥ B₄C meeting BC at C′.\n4. Through C′ draw C′A′ ∥ CA meeting BA at A′.\n5. △A′BC′ has sides 3/4 of △ABC (A′B = 4.5 cm, BC′ = 3 cm).",
+          "years": [
+            "October 2016",
+            "April 2021"
+          ]
+        }
+      ]
+    }
+  ]
+}

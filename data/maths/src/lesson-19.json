@@ -1,0 +1,71 @@
+{
+  "lesson": 19,
+  "title": "Co-ordinate Geometry",
+  "module": 3,
+  "summary": [
+    "## Coordinates and quadrants",
+    "Two perpendicular number lines, the x-axis and the y-axis, meet at the origin O(0, 0). A point is written (x, y): x (abscissa) is its distance from the y-axis and y (ordinate) its distance from the x-axis, with signs. So P(−2, 3) is 2 units from the y-axis and 3 units from the x-axis. Every point on the x-axis has y = 0, and every point on the y-axis has x = 0.",
+    "The axes divide the plane into four quadrants: I (+, +), II (−, +), III (−, −), IV (+, −). (4, −2) lies in quadrant IV, (−5, 2) in II, and (0, −4) is not in any quadrant — it lies on the y-axis.",
+    "## Distance formula",
+    "The distance between A(x₁, y₁) and B(x₂, y₂) is AB = √[(x₂ − x₁)² + (y₂ − y₁)²]. From the origin: √(x² + y²). Example: (2, −2) and (−1, x) are 5 apart ⇒ 9 + (x + 2)² = 25 ⇒ x = 2 or −6. Use it to find radii (centre to a point on the circle), perimeters, to test the type of a triangle, and to show three points are collinear (the two shorter distances add up to the longest).",
+    "## Section formula",
+    "The point dividing the join of A(x₁, y₁) and B(x₂, y₂) internally in the ratio m : n is ((mx₂ + nx₁)/(m + n), (my₂ + ny₁)/(m + n)). The midpoint (ratio 1 : 1) is ((x₁ + x₂)/2, (y₁ + y₂)/2). To find the ratio in which an axis divides AB, take the ratio k : 1 and put the x-coordinate (y-axis) or the y-coordinate (x-axis) equal to 0.",
+    "## Centroid",
+    "The medians of a triangle meet at the centroid G, which divides each median in the ratio 2 : 1. For vertices (x₁, y₁), (x₂, y₂), (x₃, y₃): G = ((x₁ + x₂ + x₃)/3, (y₁ + y₂ + y₃)/3).",
+    "## Area of a triangle (used in past papers)",
+    "Area = ½ |x₁(y₂ − y₃) + x₂(y₃ − y₁) + x₃(y₁ − y₂)|. If the area is 0 the points are collinear. A quadrilateral's area is found by splitting it into two triangles along a diagonal."
+  ],
+  "mcq": [
+    ["If the x-coordinate of a point is zero, the point lies —", ["in quadrant I", "in quadrant II", "on the x-axis", "on the y-axis"], "D", ["April 2026", "April 2025"], {"work": "x = distance from the y-axis. x = 0 means the point is on the y-axis, e.g. (0, 5)."}],
+    ["If the y-coordinate of a point is zero, the point lies —", ["in quadrant I", "in quadrant II", "on the x-axis", "on the y-axis"], "C", ["April 2025"], {"work": "y = 0 means the point is at zero height — on the x-axis, e.g. (3, 0)."}],
+    ["A point both of whose coordinates are negative lies in —", ["quadrant I", "quadrant II", "quadrant III", "quadrant IV"], "C", ["April 2025"], {"work": "Signs: I (+, +), II (−, +), III (−, −), IV (+, −). Both negative ⇒ quadrant III."}],
+    ["The distance between (a, b) and (−a, −b) is —", ["2a", "2b", "2√(a² + b²)", "√(a² + b²)"], "C", ["October 2025"], {"work": "√[(−a − a)² + (−b − b)²] = √(4a² + 4b²) = 2√(a² + b²)."}],
+    ["The midpoint of the segment joining (−1, 3) and (8, 3/2) is —", ["(9/2, 3/4)", "(7/2, 3/4)", "(9/2, 9/4)", "(7/2, 9/4)"], "D", ["October 2025"], {"work": "x = (−1 + 8)/2 = 7/2; y = (3 + 3/2)/2 = (9/2)/2 = 9/4.\nMidpoint (7/2, 9/4)."}],
+    ["The distance of P(3, 4) from the y-axis is —", ["3", "4", "5", "7"], "A", ["October 2024"], {"work": "The distance from the y-axis is |x| = 3."}],
+    ["The points on the x-axis at a distance of 10 units from (11, −8) are —", ["(5, 0), (6, 0)", "(6, 0), (17, 0)", "(5, 0), (17, 0)", "(0, 5), (0, 17)"], "C", ["April 2023"], {"work": "Let the point be (x, 0): (x − 11)² + (0 + 8)² = 100 ⇒ (x − 11)² = 36 ⇒ x − 11 = ±6 ⇒ x = 17 or 5."}],
+    ["If the distance between (4, k) and (1, 0) is 5, then k is —", ["±2", "±3", "±4", "±5"], "C", ["October 2019"], {"work": "(4 − 1)² + (k − 0)² = 25 ⇒ 9 + k² = 25 ⇒ k² = 16 ⇒ k = ±4."}],
+    ["The point (−5, 2) lies in quadrant —", ["I", "II", "III", "IV"], "B", ["April 2022"], {"work": "x negative, y positive ⇒ quadrant II."}],
+    ["A(2, 3) and B(4, x) with AB² = 13. A possible value of x is —", ["−6", "0", "9", "12"], "B", ["October 2017"], {"work": "(4 − 2)² + (x − 3)² = 13 ⇒ 4 + (x − 3)² = 13 ⇒ (x − 3)² = 9 ⇒ x = 6 or 0. Of the options, 0."}],
+    ["The point (4, −5) lies in quadrant —", ["I", "II", "III", "IV"], "D", ["April 2024", "October 2021"], {"work": "x positive, y negative ⇒ quadrant IV."}]
+  ],
+  "objective": [
+    ["Fill in the blanks: (i) If the distance between A(0, 0) and B(x, 3) is 5 units, x = ____. (ii) If the midpoint of (x, 4) and (5, 12) is (4, 8), x = ____.", "(i) x² + 3² = 25 ⇒ x² = 16 ⇒ x = ±4.\n(ii) (x + 5)/2 = 4 ⇒ x + 5 = 8 ⇒ x = 3. (Check y: (4 + 12)/2 = 8 ✓.)", ["April 2025"]],
+    ["Fill in the blanks: (i) The distance of P(−2, 3) from the y-axis is ____. (ii) The distance between (5 cos 35°, 0) and (0, 5 cos 55°) is ____.", "(i) |x| = |−2| = 2 units.\n(ii) √[(5 cos 35°)² + (5 cos 55°)²] = 5√(cos²35° + sin²35°) (since cos 55° = sin 35°) = 5 × 1 = 5.", ["April 2026"]],
+    ["Match: (i) If P(−1, 1) is the midpoint of A(−3, b) and B(1, b + 4), b = ____ (ii) The perimeter of the triangle with vertices (0, 4), (0, 0), (3, 0) is ____ — (A) −1 (B) 12 (C) 1 (D) 7", "(i) y: (b + b + 4)/2 = 1 ⇒ 2b + 4 = 2 ⇒ b = −1 → (A).\n(ii) Sides 4, 3 and √(9 + 16) = 5; perimeter = 12 → (B).", ["October 2024"]],
+    ["Write True or False (any two): (i) (0, −4) lies in quadrant IV. (ii) The distance of (2, −3) from the x-axis is 3. (iii) The midpoint of (1, 0) and (3, −2) is (−2, −1). (iv) A circle with centre O through (2, −3) has radius √13.", "(i) False: x = 0, so it lies on the y-axis.\n(ii) True: |y| = 3.\n(iii) False: ((1 + 3)/2, (0 − 2)/2) = (2, −1).\n(iv) True: √(2² + 3²) = √13.", ["April 2024"]],
+    ["Write True or False: (i) R(−2, −3) lies in quadrant III. (ii) The point (0, 5) lies on the x-axis.", "(i) True: both coordinates are negative.\n(ii) False: x = 0, so it lies on the y-axis.", ["October 2025"]]
+  ],
+  "case": {
+    "passage": "A town map is drawn on a grid with the bus stand at the origin. The school is at A(2, 3), the hospital at B(8, 11) and the market at C(5, −1). Distances are in kilometres.",
+    "items": [
+      ["The distance between the school and the hospital is —", ["10 km", "8 km", "14 km", "√28 km"], "A", {"work": "AB = √[(8 − 2)² + (11 − 3)²] = √(36 + 64) = √100 = 10 km."}],
+      ["A park is to be built midway between the school and the hospital at —", ["(5, 7)", "(6, 8)", "(10, 14)", "(3, 4)"], "A", {"work": "Midpoint = ((2 + 8)/2, (3 + 11)/2) = (5, 7)."}],
+      ["The point dividing AB in the ratio 1 : 2 from A is —", ["(4, 17/3)", "(6, 25/3)", "(5, 7)", "(3, 4)"], "A", {"work": "((1 × 8 + 2 × 2)/3, (1 × 11 + 2 × 3)/3) = (12/3, 17/3) = (4, 17/3)."}],
+      ["The centroid of the triangle formed by the three places is —", ["(5, 13/3)", "(15, 13)", "(5, 4)", "(13/3, 5)"], "A", {"work": "((2 + 8 + 5)/3, (3 + 11 − 1)/3) = (15/3, 13/3) = (5, 13/3)."}],
+      ["The market C lies in quadrant —", ["I", "II", "III", "IV"], "D", {"work": "C(5, −1): x positive, y negative ⇒ quadrant IV."}]
+    ]
+  },
+  "vsa": [
+    ["Find the coordinates of the point dividing the join of (−1, 7) and (4, −3) internally in the ratio 2 : 3.", "m : n = 2 : 3, (x₁, y₁) = (−1, 7), (x₂, y₂) = (4, −3).\nx = (2 × 4 + 3 × (−1))/5 = (8 − 3)/5 = 1.\ny = (2 × (−3) + 3 × 7)/5 = (−6 + 21)/5 = 3.\nThe point is (1, 3).", ["April 2026"], {"or": ["Find the centroid of the triangle with vertices (7, 5), (2, −6) and (9, 10).", "G = ((7 + 2 + 9)/3, (5 − 6 + 10)/3) = (18/3, 9/3) = (6, 3)."]}],
+    ["Find the centroid of the triangle whose vertices are A(5, −2), B(9, 6) and C(4, 5).", "G = ((5 + 9 + 4)/3, (−2 + 6 + 5)/3) = (18/3, 9/3) = (6, 3).", ["April 2025"], {"or": ["Find the point dividing the join of A(1, −3) and B(2, 3) internally in the ratio 1 : 4.", "x = (1 × 2 + 4 × 1)/5 = 6/5; y = (1 × 3 + 4 × (−3))/5 = −9/5.\nThe point is (6/5, −9/5)."]}],
+    ["Find the centroid of the triangle with vertices (3, 5), (7, 10) and (−1, 3).", "G = ((3 + 7 − 1)/3, (5 + 10 + 3)/3) = (9/3, 18/3) = (3, 6).", ["October 2025"], {"or": ["Find the point on the x-axis equidistant from (8, 3) and (5, 9).", "Let it be (x, 0). (x − 8)² + 9 = (x − 5)² + 81.\nx² − 16x + 73 = x² − 10x + 106 ⇒ −6x = 33 ⇒ x = −11/2.\nThe point is (−11/2, 0)."]}],
+    ["Find the centroid of the triangle with vertices (5, 1), (3, −2) and (1, 7).", "G = ((5 + 3 + 1)/3, (1 − 2 + 7)/3) = (9/3, 6/3) = (3, 2).", ["April 2024"], {"or": ["Find the point dividing the join of (1, −2) and (4, 7) internally in the ratio 1 : 2.", "x = (1 × 4 + 2 × 1)/3 = 6/3 = 2; y = (1 × 7 + 2 × (−2))/3 = 3/3 = 1. The point is (2, 1)."]}],
+    ["Find a point on the x-axis which is equidistant from (7, 6) and (−3, 4).", "Let it be P(x, 0). PA² = PB²: (x − 7)² + 36 = (x + 3)² + 16.\nx² − 14x + 85 = x² + 6x + 25 ⇒ 20x = 60 ⇒ x = 3.\nThe point is (3, 0).", ["April 2024"]],
+    ["Find the point dividing the join of A(−1, 4) and B(1, 3) internally in the ratio 2 : 3.", "x = (2 × 1 + 3 × (−1))/5 = −1/5; y = (2 × 3 + 3 × 4)/5 = 18/5.\nThe point is (−1/5, 18/5).", ["October 2024"], {"or": ["Find the centroid of the triangle with vertices A(−2, 4), B(7, −3) and C(4, 5).", "G = ((−2 + 7 + 4)/3, (4 − 3 + 5)/3) = (9/3, 6/3) = (3, 2)."]}],
+    ["A circle has centre (2, 0) and passes through (7, −12). Find its diameter.", "Radius = √[(7 − 2)² + (−12 − 0)²] = √(25 + 144) = √169 = 13.\nDiameter = 26 units.", ["April 2019", "October 2016"]],
+    ["If P(4, −2) is the midpoint of A(5k, 2) and B(−k, −6), find k.", "x-coordinate: (5k + (−k))/2 = 4 ⇒ 4k/2 = 4 ⇒ 2k = 4 ⇒ k = 2.\n(Check y: (2 − 6)/2 = −2 ✓.)", ["April 2021"]],
+    ["A line MN cuts the x-axis at M(6, 0) and the y-axis at N(0, 8). Find MN.", "MN = √[(6 − 0)² + (0 − 8)²] = √(36 + 64) = √100 = 10 units.", ["October 2019"]]
+  ],
+  "sa": [
+    ["Find the ratio in which the y-axis divides the join of (4, −5) and (−1, 2). Also find the point of division.", "Let the ratio be k : 1. x-coordinate of the point = (k(−1) + 1 × 4)/(k + 1) = 0 (on the y-axis) ⇒ −k + 4 = 0 ⇒ k = 4.\nRatio 4 : 1.\ny = (4 × 2 + 1 × (−5))/5 = 3/5. The point is (0, 3/5).", ["October 2025"], {"or": ["Show that A(1, 5), B(7, −1) and C(4, 2) are collinear.", "AC = √[(4 − 1)² + (2 − 5)²] = √18 = 3√2.\nCB = √[(7 − 4)² + (−1 − 2)²] = √18 = 3√2.\nAB = √[(7 − 1)² + (−1 − 5)²] = √72 = 6√2.\nAC + CB = 6√2 = AB, so the points are collinear (C lies between A and B — in fact it is the midpoint)."]}],
+    ["Find the value of m if the points (3, 1), (−2, −3) and (8, 2m) are collinear.", "Area = ½ |3(−3 − 2m) + (−2)(2m − 1) + 8(1 − (−3))| = 0.\n3(−3 − 2m) − 2(2m − 1) + 32 = −9 − 6m − 4m + 2 + 32 = 25 − 10m = 0 ⇒ m = 5/2.", ["April 2022"]],
+    ["Prove that O(0, 0), A(4, 3) and B(8, 6) are collinear.", "OA = √(16 + 9) = 5; AB = √(16 + 9) = 5; OB = √(64 + 36) = 10.\nOA + AB = 10 = OB, so the three points are collinear.", ["October 2021"]],
+    ["The vertices of △ABC are A(4, −3), B(11, 5) and C(6, 1). Find the lengths of its sides and its centroid.", "AB = √(7² + 8²) = √113; BC = √(5² + 4²) = √41; CA = √(2² + 4²) = √20 = 2√5.\nCentroid = ((4 + 11 + 6)/3, (−3 + 5 + 1)/3) = (7, 1).", ["April 2017"]],
+    ["Find the area of the triangle with vertices A(3, 0), B(7, 0) and C(8, 4).", "A and B lie on the x-axis, so base AB = 4 and height = y-coordinate of C = 4.\nArea = ½ × 4 × 4 = 8 sq units.\n(Formula: ½|3(0 − 4) + 7(4 − 0) + 8(0 − 0)| = ½|−12 + 28| = 8.)", ["October 2022"]]
+  ],
+  "la": [
+    ["Find the area of the quadrilateral ABCD with vertices A(1, 2), B(6, 2), C(5, 3) and D(3, 4).", "Split along diagonal AC.\n△ABC: ½|1(2 − 3) + 6(3 − 2) + 5(2 − 2)| = ½|−1 + 6 + 0| = 5/2.\n△ACD: ½|1(3 − 4) + 5(4 − 2) + 3(2 − 3)| = ½|−1 + 10 − 3| = 3.\nArea = 5/2 + 3 = 5.5 sq units.", ["April 2023"]],
+    ["Find the area of the rhombus with vertices A(3, 0), B(4, 5), C(−1, 4) and D(−2, −1). Also find the distance between its sides AB and CD.", "Diagonals: AC = √[(−1 − 3)² + (4 − 0)²] = √32 = 4√2; BD = √[(−2 − 4)² + (−1 − 5)²] = √72 = 6√2.\nArea = ½ × d₁ × d₂ = ½ × 4√2 × 6√2 = 24 sq units.\nSide AB = √(1 + 25) = √26. A rhombus is a parallelogram, so area = base × height:\n24 = √26 × h ⇒ h = 24/√26 ≈ 4.71 units — the distance between AB and CD.", ["October 2017"]],
+    ["The vertices of a triangle are A(2, 1), B(6, 4) and C(2, 4). (i) Find the lengths of the sides. (ii) Show it is right-angled. (iii) Find its centroid and area.", "(i) AB = √(16 + 9) = 5; BC = √(16 + 0) = 4; CA = √(0 + 9) = 3.\n(ii) 3² + 4² = 9 + 16 = 25 = 5², so CA² + BC² = AB² — right-angled at C.\n(iii) Centroid = ((2 + 6 + 2)/3, (1 + 4 + 4)/3) = (10/3, 3).\nArea = ½ × CA × BC = ½ × 3 × 4 = 6 sq units."]
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "lesson": 20,
+  "title": "Perimeters and Areas of Plane Figures",
+  "module": 4,
+  "summary": [
+    "## Units",
+    "1 m = 100 cm, so 1 m² = 100 × 100 = 10,000 cm²; 1 hectare = 10,000 m². Perimeter is a length (cm, m) and area is in square units (cm², m²).",
+    "## Rectilinear figures",
+    "Rectangle: perimeter 2(l + b), area l × b. Square of side a: perimeter 4a, area a² (and area = ½ × diagonal²). Parallelogram: area = base × corresponding height. Triangle: area = ½ × base × height. Right triangle: ½ × product of the legs. Equilateral triangle of side a: height (√3/2)a, area (√3/4)a². Rhombus: area = ½ × d₁ × d₂ (product of diagonals), perimeter 4 × side. Trapezium: area = ½ × (sum of parallel sides) × distance between them.",
+    "## Heron's formula",
+    "For a triangle with sides a, b, c and semi-perimeter s = (a + b + c)/2: area = √[s(s − a)(s − b)(s − c)]. Example: 13, 14, 15 cm ⇒ s = 21, area = √(21 × 8 × 7 × 6) = √7056 = 84 cm². If the sides are in a ratio, find them first from the perimeter: 3 : 5 : 7 with perimeter 60 cm gives 12, 20, 28 cm.",
+    "## Paths",
+    "Path round (or inside) a rectangle: area = outer rectangle − inner rectangle (path width w adds 2w to each dimension outside, subtracts 2w inside). Two cross paths of width w through the middle of an l × b park: area = lw + bw − w² (the central square is counted twice). Cost = area × rate.",
+    "## Circles",
+    "Circumference = 2πr = πd (diameter = 2 × radius); area = πr². Take π = 22/7 or 3.14 as told. Semicircle (closed): perimeter = πr + 2r, area = ½πr². Ring (circular path) between radii R and r: area = π(R² − r²) = π(R + r)(R − r).",
+    "## Sectors",
+    "A sector of radius r and central angle θ: arc length l = (θ/360°) × 2πr; area = (θ/360°) × πr² = ½ × l × r; perimeter = 2r + l. A clock's minute hand turns 6° a minute (360° in 60 minutes) and the hour hand 0.5° a minute (30° an hour), so in 20 minutes the minute hand sweeps a 120° sector."
+  ],
+  "mcq": [
+    ["1 m² is equal to —", ["100 cm²", "1,000 cm²", "10,000 cm²", "1,00,000 cm²"], "C", ["April 2026"], {"work": "1 m = 100 cm, so 1 m² = 100 cm × 100 cm = 10,000 cm²."}],
+    ["The diameter of a circle is —", ["twice the radius", "half the radius", "equal to the radius", "π times the radius"], "A", ["April 2026"], {"work": "A diameter goes through the centre, so it is made of two radii: d = 2r."}],
+    ["The area of a square of perimeter 44 cm is —", ["121 cm²", "144 cm²", "176 cm²", "88 cm²"], "A", ["October 2025"], {"work": "Side = 44 ÷ 4 = 11 cm. Area = 11² = 121 cm²."}],
+    ["The difference between the circumference and the radius of a circle is 37 cm. Its area is —", ["148 cm²", "154 cm²", "176 cm²", "616 cm²"], "B", ["October 2024"], {"work": "2πr − r = 37 ⇒ r(2 × 22/7 − 1) = 37 ⇒ r × 37/7 = 37 ⇒ r = 7 cm.\nArea = 22/7 × 49 = 154 cm²."}],
+    ["The parallel sides of a trapezium are 28 cm and 12 cm and the distance between them is 9 cm. Its area is —", ["90 cm²", "120 cm²", "180 cm²", "360 cm²"], "C", ["April 2024", "April 2021"], {"work": "Area = ½ × (28 + 12) × 9 = ½ × 40 × 9 = 180 cm²."}],
+    ["The perimeter of a closed semicircle is 36 cm. Its radius is —", ["14 cm", "7 cm", "21 cm", "28 cm"], "B", ["October 2022", "April 2022"], {"work": "Perimeter = πr + 2r = r(22/7 + 2) = 36r/7.\n36r/7 = 36 ⇒ r = 7 cm."}],
+    ["The area of an equilateral triangle of side 2 m is —", ["4√3 m²", "2√3 m²", "4 m²", "√3 m²"], "D", ["April 2022"], {"work": "Area = (√3/4)a² = (√3/4) × 4 = √3 m²."}],
+    ["The perimeter of a rhombus of side a is —", ["a²", "4a", "2a", "√2a"], "B", ["October 2021"], {"work": "A rhombus has four equal sides: 4a."}],
+    ["The area of a triangle with sides 5 cm, 6 cm and 7 cm is —", ["6√6 cm²", "36 cm²", "7√6 cm²", "5√6 cm²"], "A", ["April 2019"], {"work": "s = (5 + 6 + 7)/2 = 9.\nArea = √[9 × 4 × 3 × 2] = √216 = 6√6 cm²."}],
+    ["The area of a rhombus whose diagonals are 16 cm and 12 cm is —", ["192 cm²", "56 cm²", "96 cm²", "384 cm²"], "C", ["April 2017"], {"work": "Area = ½ × 16 × 12 = 96 cm²."}],
+    ["A parallelogram has a side of 15 cm and the corresponding altitude 5 cm. Its area is —", ["75 cm²", "37.5 cm²", "20 cm²", "10 cm²"], "A", ["April 2016"], {"work": "Area = base × height = 15 × 5 = 75 cm²."}]
+  ],
+  "objective": [
+    ["Fill in the blanks: (i) The hour hand of a clock turns through ____ in 30 minutes. (ii) The area swept by a 10 cm minute hand in 20 minutes is ____.", "(i) The hour hand turns 30° per hour, so 15° in 30 minutes.\n(ii) 20 minutes = 120° = ⅓ of a turn: ⅓ × 22/7 × 10² = 2200/21 ≈ 104.76 cm².", ["October 2024"]],
+    ["Fill in the blanks: (i) The area of a parallelogram of area 18 cm² on a base of 6 cm has height ____. (ii) The area of an isosceles triangle with base 12 cm and equal sides 10 cm is ____.", "(i) Height = area ÷ base = 18 ÷ 6 = 3 cm.\n(ii) Height = √(10² − 6²) = 8 cm; area = ½ × 12 × 8 = 48 cm².", ["October 2022", "October 2021"]],
+    ["Write True or False: (i) The area of a sector of radius 6 cm with arc 11 cm is 33 cm². (ii) The circumference of a circle of radius 7 cm is 22 cm.", "(i) True: area = ½ × l × r = ½ × 11 × 6 = 33 cm².\n(ii) False: 2 × 22/7 × 7 = 44 cm.", ["April 2017"]],
+    ["Fill in the blanks: (i) A rectangle with sides in the ratio 5 : 2 and perimeter 98 cm has area ____. (ii) The area of a triangle with base 7 cm and height 6 cm is ____.", "(i) 2(5k + 2k) = 98 ⇒ k = 7; sides 35 and 14; area = 490 cm².\n(ii) ½ × 7 × 6 = 21 cm².", ["April 2019", "October 2019"]]
+  ],
+  "case": {
+    "passage": "A rectangular park is 200 m long and 150 m wide. Two paths, each 10 m wide, run through the middle of the park — one parallel to the length and the other parallel to the breadth. The paths are to be paved at ₹50 per m².",
+    "items": [
+      ["The area of the path parallel to the length is —", ["2000 m²", "1500 m²", "3500 m²", "200 m²"], "A", ["April 2025"], {"work": "200 m × 10 m = 2000 m²."}],
+      ["The area of the path parallel to the breadth is —", ["2000 m²", "1500 m²", "1000 m²", "150 m²"], "B", {"work": "150 m × 10 m = 1500 m²."}],
+      ["The area common to both paths is —", ["10 m²", "100 m²", "20 m²", "200 m²"], "B", {"work": "The paths cross in a 10 m × 10 m square = 100 m², which is counted twice."}],
+      ["The total area of the paths is —", ["3500 m²", "3600 m²", "3400 m²", "3000 m²"], "C", {"work": "2000 + 1500 − 100 = 3400 m²."}],
+      ["The cost of paving the paths is —", ["₹1,75,000", "₹1,70,000", "₹1,80,000", "₹1,50,000"], "B", {"work": "3400 × 50 = ₹1,70,000."}]
+    ]
+  },
+  "vsa": [
+    ["Find the perimeter and area of a sector of a circle of radius 14 cm and central angle 30°.", "Arc = (30/360) × 2 × (22/7) × 14 = (1/12) × 88 = 22/3 ≈ 7.33 cm.\nPerimeter = 2r + arc = 28 + 7.33 = 35.33 cm.\nArea = (30/360) × (22/7) × 14² = (1/12) × 616 = 154/3 ≈ 51.33 cm².", ["April 2025", "April 2016"], {"or": ["The sides of a triangle are in the ratio 3 : 5 : 7 and its perimeter is 60 cm. Find its area.", "Sides: 3k + 5k + 7k = 60 ⇒ k = 4 ⇒ 12, 20, 28 cm.\ns = 30. Area = √[30 × 18 × 10 × 2] = √10800 = 60√3 ≈ 103.92 cm²."]}],
+    ["Find the area of the sector of a circle of radius 15 cm and angle 84°.", "Area = (84/360) × (22/7) × 15² = (7/30) × (22/7) × 225 = (22 × 225)/30 = 165 cm².", ["October 2025"], {"or": ["The area of a square field is 625 m². Find its perimeter.", "Side = √625 = 25 m; perimeter = 4 × 25 = 100 m."]}],
+    ["Find the perimeter of a sector of a circle of radius 14 cm with central angle 60°.", "Arc = (60/360) × 2 × (22/7) × 14 = (1/6) × 88 = 44/3 ≈ 14.67 cm.\nPerimeter = 14 + 14 + 14.67 = 42.67 cm.", ["April 2023"]],
+    ["Find the area of a triangle whose sides are 8 cm, 11 cm and 13 cm.", "s = (8 + 11 + 13)/2 = 16.\nArea = √[16 × 8 × 5 × 3] = √1920 = 8√30 ≈ 43.82 cm².", ["October 2017"]],
+    ["Find the perimeter of a sector of a circle of radius 9 cm with central angle 70°.", "Arc = (70/360) × 2 × (22/7) × 9 = (7/36) × (396/7) = 11 cm.\nPerimeter = 9 + 9 + 11 = 29 cm.", ["April 2019"]],
+    ["Find the area of a triangle with sides 13 cm, 14 cm and 15 cm.", "s = (13 + 14 + 15)/2 = 21.\nArea = √[21 × 8 × 7 × 6] = √7056 = 84 cm².", ["October 2016"]],
+    ["A farmer buys a circular field at ₹700 per m² for ₹4,31,200. Find the perimeter of the field.", "Area = 431200 ÷ 700 = 616 m².\nπr² = 616 ⇒ r² = 616 × 7/22 = 196 ⇒ r = 14 m.\nPerimeter = 2 × 22/7 × 14 = 88 m.", ["October 2016"]]
+  ],
+  "sa": [
+    ["The minute hand of a clock is 14 cm long. Find the area swept and the distance travelled by its tip from 9:00 to 9:20.", "In 20 minutes the minute hand turns 20 × 6° = 120°.\nArea = (120/360) × (22/7) × 14² = ⅓ × 616 = 205.33 cm².\nDistance = arc = (120/360) × 2 × (22/7) × 14 = ⅓ × 88 = 29.33 cm.", ["April 2026"]],
+    ["A circular path 2 m wide runs inside the boundary of a circular park of radius 16 m. Find the cost of paving it at ₹24 per m². (π = 3.14)", "Outer radius 16 m, inner radius 16 − 2 = 14 m.\nArea = π(16² − 14²) = 3.14 × (256 − 196) = 3.14 × 60 = 188.4 m².\nCost = 188.4 × 24 = ₹4,521.60.", ["October 2025"]],
+    ["A circular field is bought at ₹7,000 per m² for ₹31,68,000. Find the cost of fencing it at ₹140 per metre.", "Area = 3168000 ÷ 7000 = 452.57 m² = 22/7 × r² ⇒ r² = 144 ⇒ r = 12 m.\nCircumference = 2 × 22/7 × 12 = 528/7 ≈ 75.43 m.\nCost = 528/7 × 140 = ₹10,560.", ["April 2024"]],
+    ["Two perpendicular paths, each 10 m wide, run through the middle of a 200 m × 150 m park. Find the cost of constructing them at ₹50 per m².", "Path along the length: 200 × 10 = 2000 m². Path along the breadth: 150 × 10 = 1500 m².\nCommon square 10 × 10 = 100 m² is counted twice.\nArea = 2000 + 1500 − 100 = 3400 m². Cost = 3400 × 50 = ₹1,70,000.", ["April 2025"]],
+    ["A rectangular park 30 m × 20 m has two paths each 2 m wide around it, one inside and one outside. Find the cost of paving them at ₹50 per m².", "Outside path: (34 × 24) − (30 × 20) = 816 − 600 = 216 m².\nInside path: (30 × 20) − (26 × 16) = 600 − 416 = 184 m².\nTotal = 400 m². Cost = 400 × 50 = ₹20,000.", ["April 2025"]]
+  ],
+  "la": [
+    ["A square of side 4 cm is inscribed in a circle. Find the area enclosed between the circle and the square. (π = 22/7)", "The diagonal of the square is a diameter: d = 4√2 cm, so r = 2√2 cm and r² = 8.\nArea of circle = 22/7 × 8 = 176/7 ≈ 25.14 cm².\nArea of square = 16 cm².\nRequired area = 25.14 − 16 = 9.14 cm².", ["April 2022"]],
+    ["A horse is tied with a 14 m rope at one corner of a rectangular field 40 m × 30 m. Find (i) the area it can graze (ii) the area it cannot graze (iii) the increase in grazing area if the rope were 21 m.", "The corner angle is 90°, so the horse grazes a quarter circle.\n(i) ¼ × 22/7 × 14² = ¼ × 616 = 154 m².\n(ii) Field = 40 × 30 = 1200 m²; not grazed = 1200 − 154 = 1046 m².\n(iii) With 21 m: ¼ × 22/7 × 441 = 346.5 m²; increase = 346.5 − 154 = 192.5 m²."],
+    ["Find the area of a trapezium whose parallel sides are 25 cm and 10 cm and whose non-parallel sides are 14 cm and 13 cm.", "Draw a line from one end of the shorter side parallel to the non-parallel side of 14 cm. It cuts off a triangle with sides 14, 13 and 25 − 10 = 15 cm.\ns = (14 + 13 + 15)/2 = 21; area of triangle = √[21 × 7 × 8 × 6] = √7056 = 84 cm².\nHeight of the triangle (= height of the trapezium) on base 15: ½ × 15 × h = 84 ⇒ h = 11.2 cm.\nArea of trapezium = ½ × (25 + 10) × 11.2 = 196 cm²."]
+  ]
+}

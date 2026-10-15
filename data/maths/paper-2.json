@@ -1,0 +1,682 @@
+{
+  "subject": "maths",
+  "lesson": 902,
+  "title": "Model Question Paper 2",
+  "meta": "Time: 2½ hours · Maximum marks: 85 · Modelled on the April 2026 NIOS paper",
+  "instructions": [
+    "All questions are compulsory. Where a question has OR, answer either one.",
+    "Section A: questions 1–17 are MCQs (1 mark each); questions 18–27 have two parts of 1 mark each; question 28 is a case study with five 1-mark questions.",
+    "Section B: questions 29–37 carry 2 marks, 38–42 carry 3 marks and 43–44 carry 5 marks.",
+    "Every answer shows the working. Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "17 × 1 = 17",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "4x² − 9y² is equal to —",
+          "options": [
+            "(2x + 3y)²",
+            "(2x + 3y)(2x − 3y)",
+            "(2x − 3y)²",
+            "(4x + 9y)(x − y)"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2024"
+          ],
+          "work": "4x² − 9y² = (2x)² − (3y)², a difference of two squares.\na² − b² = (a + b)(a − b), so 4x² − 9y² = (2x + 3y)(2x − 3y).",
+          "note": "Lesson 4."
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "The graph of y = −3 is a line —",
+          "options": [
+            "parallel to the y-axis",
+            "parallel to the x-axis",
+            "through the origin",
+            "making 45° with the x-axis"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2026"
+          ],
+          "work": "On y = −3 every point has y-coordinate −3, e.g. (0, −3), (5, −3).\nAll the points are at the same height, so the line is parallel to the x-axis, 3 units below it.",
+          "note": "Lesson 5."
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "Which of the following is a quadratic equation?",
+          "options": [
+            "x + 1/x = 5",
+            "x² − 5x + 2 = 0",
+            "x³ + x = 1",
+            "2x + 3 = 0"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2024"
+          ],
+          "work": "A quadratic equation can be written as ax² + bx + c = 0 with a ≠ 0.\nx² − 5x + 2 = 0 has degree 2. x³ + x = 1 has degree 3, 2x + 3 = 0 degree 1, and x + 1/x is not a polynomial.",
+          "note": "Lesson 6."
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "An A.P. has sum of first three terms 18 and common difference 4. The A.P. is —",
+          "options": [
+            "4, 5, 9, …",
+            "2, 7, 9, …",
+            "3, 6, 9, …",
+            "2, 6, 10, …"
+          ],
+          "answer": "D",
+          "years": [
+            "October 2022"
+          ],
+          "work": "First three terms: a, a + 4, a + 8. Sum 3a + 12 = 18 ⇒ a = 2.\nThe A.P. is 2, 6, 10, …",
+          "note": "Lesson 7."
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "The simple interest on ₹2,500 for 2 years 6 months at 6% per annum is —",
+          "options": [
+            "₹300",
+            "₹375",
+            "₹350",
+            "₹400"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2026",
+            "October 2024"
+          ],
+          "work": "T = 2 years 6 months = 2.5 years.\nS.I. = P × R × T/100 = 2500 × 6 × 2.5/100 = ₹375.",
+          "note": "Lesson 8."
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "An article costs ₹5,000 cash; under a plan the buyer pays ₹1,000 down. The balance owed is —",
+          "options": [
+            "₹6,000",
+            "₹4,000",
+            "₹5,000",
+            "₹1,000"
+          ],
+          "answer": "B",
+          "work": "Balance = cash price − cash down = 5000 − 1000 = ₹4,000.",
+          "note": "Lesson 9."
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "A chord of a circle equals its radius. The angle it subtends at a point on the major arc is —",
+          "options": [
+            "60°",
+            "30°",
+            "150°",
+            "90°"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2026"
+          ],
+          "work": "The chord and two radii form an equilateral triangle, so the central angle is 60°.\nAngle on the major arc = ½ × 60° = 30°.",
+          "note": "Lesson 16."
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "The number of tangents that can be drawn to a circle from a point inside it is —",
+          "options": [
+            "0",
+            "1",
+            "2",
+            "infinitely many"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2026",
+            "April 2024"
+          ],
+          "work": "Every line through an interior point cuts the circle in two points, so it is a secant. No tangent is possible: 0.",
+          "note": "Lesson 17."
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "A triangle with AB + AC = 5 cm and BC = 6 cm —",
+          "options": [
+            "can be constructed",
+            "cannot be constructed",
+            "is isosceles",
+            "has ∠A = 90°"
+          ],
+          "answer": "B",
+          "work": "The sum of two sides must be greater than the third: AB + AC must exceed BC. 5 < 6, so it cannot be constructed.",
+          "note": "Lesson 18."
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "If the x-coordinate of a point is zero, the point lies —",
+          "options": [
+            "in quadrant I",
+            "in quadrant II",
+            "on the x-axis",
+            "on the y-axis"
+          ],
+          "answer": "D",
+          "years": [
+            "April 2026",
+            "April 2025"
+          ],
+          "work": "x = distance from the y-axis. x = 0 means the point is on the y-axis, e.g. (0, 5).",
+          "note": "Lesson 19."
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "The area of a square of perimeter 44 cm is —",
+          "options": [
+            "121 cm²",
+            "144 cm²",
+            "176 cm²",
+            "88 cm²"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2025"
+          ],
+          "work": "Side = 44 ÷ 4 = 11 cm. Area = 11² = 121 cm².",
+          "note": "Lesson 20."
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "The surface area of a cube of side 27 cm is —",
+          "options": [
+            "2916 cm²",
+            "729 cm²",
+            "4374 cm²",
+            "19683 cm²"
+          ],
+          "answer": "C",
+          "years": [
+            "October 2019"
+          ],
+          "work": "6a² = 6 × 729 = 4374 cm².",
+          "note": "Lesson 21."
+        },
+        {
+          "id": "1.13",
+          "type": "mcq",
+          "q": "Two cubes of edge 12 cm are joined end to end. The surface area of the resulting cuboid is —",
+          "options": [
+            "1440 cm²",
+            "1728 cm²",
+            "864 cm²",
+            "1152 cm²"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2024"
+          ],
+          "work": "The cuboid is 24 × 12 × 12.\nTSA = 2(24 × 12 + 12 × 12 + 12 × 24) = 2(288 + 144 + 288) = 1440 cm².",
+          "note": "Lesson 21."
+        },
+        {
+          "id": "1.14",
+          "type": "mcq",
+          "q": "If sin θ + sin²θ = 1, then cos²θ + cos⁴θ is —",
+          "options": [
+            "1",
+            "−1",
+            "sin θ/cos²θ",
+            "cos²θ/sin θ"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2023"
+          ],
+          "work": "sin θ = 1 − sin²θ = cos²θ.\nSo cos²θ + cos⁴θ = sin θ + sin²θ = 1.",
+          "note": "Lesson 22."
+        },
+        {
+          "id": "1.15",
+          "type": "mcq",
+          "q": "A 30 m ladder touches a wall at a height of 15 m. The angle it makes with the ground is —",
+          "options": [
+            "30°",
+            "45°",
+            "50°",
+            "60°"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2017"
+          ],
+          "work": "sin θ = 15/30 = 1/2 ⇒ θ = 30°.",
+          "note": "Lesson 23."
+        },
+        {
+          "id": "1.16",
+          "type": "mcq",
+          "q": "The mean of the first five prime numbers is —",
+          "options": [
+            "5",
+            "5.2",
+            "5.4",
+            "5.6"
+          ],
+          "answer": "D",
+          "years": [
+            "April 2026"
+          ],
+          "work": "First five primes: 2, 3, 5, 7, 11. Sum = 28.\nMean = 28/5 = 5.6.",
+          "note": "Lesson 25."
+        },
+        {
+          "id": "1.17",
+          "type": "mcq",
+          "q": "A die is thrown once. The probability of getting a number between 2 and 6 is —",
+          "options": [
+            "1/6",
+            "1/2",
+            "1",
+            "0"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2025"
+          ],
+          "work": "Numbers strictly between 2 and 6: 3, 4, 5 — 3 outcomes out of 6.\nP = 3/6 = 1/2.",
+          "note": "Lesson 26."
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark (fill in the blanks, match the columns or true/false).",
+      "marks": "10 × 2 = 20",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "Fill in the blanks: (i) The HCF of x³ + 1 and x² − 1 is ________. (ii) (2x² + 5)² − (2x² − 5)² = ________.",
+          "answer": "(i) x³ + 1 = (x + 1)(x² − x + 1) and x² − 1 = (x + 1)(x − 1); common factor x + 1, so HCF = x + 1.\n(ii) (a + b)² − (a − b)² = 4ab = 4 × 2x² × 5 = 40x².",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Lesson 4."
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Write True or False: (i) The point (4, 3) lies on 3x + 7y = 27. (ii) The graph of y = −3 is parallel to the x-axis.",
+          "answer": "(i) False: 3(4) + 7(3) = 33 ≠ 27.\n(ii) True: every point on it has y = −3.",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 5."
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "Match: (i) The roots of 2x² + x − 6 = 0 are ____ (ii) The roots of x² − 3x + 3 = 0 are ____ — (A) real and distinct (B) real and equal (C) not real",
+          "answer": "(i) D = 1² − 4(2)(−6) = 1 + 48 = 49 > 0 → real and distinct (A).\n(ii) D = (−3)² − 4(1)(3) = 9 − 12 = −3 < 0 → not real (C).",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 6."
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Fill in the blanks: (i) The 20th term from the end of 3, 8, 13, …, 253 is ____. (ii) If a = 5, l = 45 and the sum is 400, the number of terms is ____.",
+          "answer": "(i) d = 5; from the end: 253 − 19 × 5 = 253 − 95 = 158.\n(ii) Sₙ = n/2 (a + l) ⇒ 400 = n/2 × 50 = 25n ⇒ n = 16.",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 7."
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "Aarush earns ₹45,000 a month: 50% on the household, 20% on himself, 20% on his children and the rest is saved. Fill in: (i) his total monthly expenditure ____ (ii) his expenditure on his children ____.",
+          "answer": "(i) He spends 50 + 20 + 20 = 90%: 90/100 × 45000 = ₹40,500.\n(ii) 20% of 45000 = ₹9,000.",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 8."
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "A TV costs ₹20,000 cash, or ₹5,000 down and ₹15,500 after 4 months. Fill in: (i) interest ____ (ii) rate of interest ____ p.a.",
+          "answer": "(i) Balance = 15000; interest = 15500 − 15000 = ₹500.\n(ii) 500 = 15000 × R × (4/12)/100 = 50R ⇒ R = 10% p.a.",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Lesson 9."
+        },
+        {
+          "id": "2.7",
+          "type": "open",
+          "q": "Fill in the blanks: (i) In cyclic quadrilateral ABCD, ∠DBC = 55° and ∠BAC = 45°; then ∠BCD = ____. (ii) The angle subtended at the centre by a semicircle is a ____ angle.",
+          "answer": "(i) ∠BDC = ∠BAC = 45° (same segment). In △BCD: ∠BCD = 180° − 55° − 45° = 80°.\n(ii) straight (180°).",
+          "years": [
+            "October 2024",
+            "April 2024"
+          ],
+          "note": "Lesson 16."
+        },
+        {
+          "id": "2.8",
+          "type": "open",
+          "q": "Fill in the blanks: (i) PT is a tangent at P to a circle with centre O and ∠QPT = 60° (PQ a chord); ∠POQ = ____. (ii) TP and TQ are tangents and ∠POQ = 110°; ∠PTQ = ____.",
+          "answer": "(i) ∠OPT = 90°, so ∠OPQ = 30° = ∠OQP; ∠POQ = 180° − 60° = 120°. (The central angle is twice the tangent-chord angle.)\n(ii) ∠PTQ = 360° − 90° − 90° − 110° = 70°.",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 17."
+        },
+        {
+          "id": "2.9",
+          "type": "open",
+          "q": "Fill in the blanks: (i) If the mode of 12, 16, 19, 16, x, 12, 16, 19, 12 is 16, then x = ____. (ii) If the median of a data is 24 and each item is increased by 2, the new median is ____.",
+          "answer": "(i) 12 occurs 3 times and 16 three times; for 16 to be the only mode it must occur more, so x = 16.\n(ii) Adding 2 to every item adds 2 to the median: 26.",
+          "years": [
+            "October 2024"
+          ],
+          "note": "Lesson 25."
+        },
+        {
+          "id": "2.10",
+          "type": "open",
+          "q": "A box has 3 blue, 4 white and 5 red balls. Fill in (any two): (i) P(white) (ii) P(blue) (iii) P(red) (iv) P(neither white nor red).",
+          "answer": "Total = 12.\n(i) 4/12 = 1/3. (ii) 3/12 = 1/4. (iii) 5/12. (iv) Neither white nor red means blue: 3/12 = 1/4.",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Lesson 26."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Case study: read the information and answer the questions that follow.",
+      "marks": "5 × 1 = 5",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "mcq",
+          "q": "The distance between the school and the hospital is —",
+          "options": [
+            "10 km",
+            "8 km",
+            "14 km",
+            "√28 km"
+          ],
+          "answer": "A",
+          "work": "AB = √[(8 − 2)² + (11 − 3)²] = √(36 + 64) = √100 = 10 km.",
+          "note": "Lesson 19."
+        },
+        {
+          "id": "3.2",
+          "type": "mcq",
+          "q": "A park is to be built midway between the school and the hospital at —",
+          "options": [
+            "(5, 7)",
+            "(6, 8)",
+            "(10, 14)",
+            "(3, 4)"
+          ],
+          "answer": "A",
+          "work": "Midpoint = ((2 + 8)/2, (3 + 11)/2) = (5, 7)."
+        },
+        {
+          "id": "3.3",
+          "type": "mcq",
+          "q": "The point dividing AB in the ratio 1 : 2 from A is —",
+          "options": [
+            "(4, 17/3)",
+            "(6, 25/3)",
+            "(5, 7)",
+            "(3, 4)"
+          ],
+          "answer": "A",
+          "work": "((1 × 8 + 2 × 2)/3, (1 × 11 + 2 × 3)/3) = (12/3, 17/3) = (4, 17/3)."
+        },
+        {
+          "id": "3.4",
+          "type": "mcq",
+          "q": "The centroid of the triangle formed by the three places is —",
+          "options": [
+            "(5, 13/3)",
+            "(15, 13)",
+            "(5, 4)",
+            "(13/3, 5)"
+          ],
+          "answer": "A",
+          "work": "((2 + 8 + 5)/3, (3 + 11 − 1)/3) = (15/3, 13/3) = (5, 13/3)."
+        },
+        {
+          "id": "3.5",
+          "type": "mcq",
+          "q": "The market C lies in quadrant —",
+          "options": [
+            "I",
+            "II",
+            "III",
+            "IV"
+          ],
+          "answer": "D",
+          "work": "C(5, −1): x positive, y negative ⇒ quadrant IV."
+        }
+      ],
+      "fixed": true,
+      "passage": "A town map is drawn on a grid with the bus stand at the origin. The school is at A(2, 3), the hospital at B(8, 11) and the market at C(5, −1). Distances are in kilometres."
+    },
+    {
+      "no": 4,
+      "title": "Very short answer questions.",
+      "marks": "9 × 2 = 18",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "Find the LCM of P(x) = x³ + 2x² − 3x and Q(x) = 2x³ + 5x² − 3x.",
+          "answer": "P(x) = x(x² + 2x − 3) = x(x + 3)(x − 1).\nQ(x) = x(2x² + 5x − 3) = x(2x² + 6x − x − 3) = x(2x − 1)(x + 3).\nLCM = every factor with its highest power = x(x + 3)(x − 1)(2x − 1).",
+          "years": [
+            "April 2025"
+          ],
+          "or": {
+            "q": "If x + 1/x = 2, find x² + 1/x².",
+            "answer": "Square both sides: (x + 1/x)² = 4.\nx² + 2 × x × (1/x) + 1/x² = 4 ⇒ x² + 2 + 1/x² = 4.\nSo x² + 1/x² = 4 − 2 = 2."
+          },
+          "note": "Lesson 4."
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "Solve 3x − y = 5 and 4x + 3y = 11.",
+          "answer": "From the first, y = 3x − 5.\nSubstitute: 4x + 3(3x − 5) = 11 ⇒ 13x − 15 = 11 ⇒ x = 2.\ny = 3(2) − 5 = 1.\nSolution: x = 2, y = 1.",
+          "years": [
+            "April 2022"
+          ],
+          "note": "Lesson 5."
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "Find the nature of the roots of 2x² + x − 6 = 0 and find them.",
+          "answer": "a = 2, b = 1, c = −6; D = 1 + 48 = 49 > 0 ⇒ real and distinct.\nx = (−1 ± 7)/4 ⇒ x = 6/4 = 3/2 or x = −8/4 = −2.",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 6."
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "Find the sum of the first 20 terms of 16, 11, 6, 1, −4, …",
+          "answer": "a = 16, d = −5.\nS₂₀ = 20/2 [32 + 19 × (−5)] = 10 × (32 − 95) = 10 × (−63) = −630.",
+          "years": [
+            "April 2019"
+          ],
+          "note": "Lesson 7."
+        },
+        {
+          "id": "4.5",
+          "type": "open",
+          "q": "A car bought for ₹5,50,000 on 1.1.2025 depreciates by 15% in the first year and 10% in every year after. Find its value on 31.12.2027.",
+          "answer": "That is 3 years: the first at 15%, the next two at 10%.\nValue = 550000 × (85/100) × (90/100) × (90/100)\n= 550000 × 0.85 × 0.81 = ₹3,78,675.",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 8."
+        },
+        {
+          "id": "4.6",
+          "type": "open",
+          "q": "A radio costs ₹1,000 cash or ₹400 down and ₹630 after 6 months. Find the rate of interest.",
+          "answer": "Balance = ₹600; interest = 630 − 600 = ₹30 for ½ year.\n30 = 600 × R × ½/100 = 3R ⇒ R = 10% per annum.",
+          "note": "Lesson 9."
+        },
+        {
+          "id": "4.7",
+          "type": "open",
+          "q": "In a circle with centre O, ∠BAC = 35°. Find ∠OBC.",
+          "answer": "∠BOC = 2∠BAC = 70°.\nOB = OC, so ∠OBC = ∠OCB = (180° − 70°)/2 = 55°.",
+          "years": [
+            "April 2023"
+          ],
+          "note": "Lesson 16."
+        },
+        {
+          "id": "4.8",
+          "type": "open",
+          "q": "ABC is an isosceles triangle with AB = AC, and XAY is the tangent at A to its circumcircle. Show that XY ∥ BC.",
+          "answer": "By the alternate segment theorem, ∠XAB = ∠ACB.\nAB = AC ⇒ ∠ABC = ∠ACB. So ∠XAB = ∠ABC.\nThese are alternate angles made by AB with XY and BC, so XY ∥ BC.",
+          "years": [
+            "April 2025",
+            "October 2024"
+          ],
+          "note": "Lesson 17."
+        },
+        {
+          "id": "4.9",
+          "type": "open",
+          "q": "Write the steps to divide a line segment of 7 cm internally in the ratio 3 : 4.",
+          "answer": "1. Draw AB = 7 cm.\n2. Draw a ray AX making an acute angle with AB.\n3. With a fixed compass opening, mark 3 + 4 = 7 equal points A₁, …, A₇ on AX.\n4. Join A₇B.\n5. Through A₃ draw a line parallel to A₇B (copy ∠AA₇B at A₃) meeting AB at P.\n6. Then AP : PB = 3 : 4 (AP = 3 cm, PB = 4 cm).",
+          "years": [
+            "April 2019"
+          ],
+          "note": "Lesson 18."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Short answer questions.",
+      "marks": "5 × 3 = 15",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "Factorise a⁶ − 64b⁶.",
+          "answer": "a⁶ − 64b⁶ = (a³)² − (8b³)² = (a³ − 8b³)(a³ + 8b³).\na³ − 8b³ = a³ − (2b)³ = (a − 2b)(a² + 2ab + 4b²).\na³ + 8b³ = a³ + (2b)³ = (a + 2b)(a² − 2ab + 4b²).\nSo a⁶ − 64b⁶ = (a − 2b)(a + 2b)(a² + 2ab + 4b²)(a² − 2ab + 4b²).",
+          "years": [
+            "October 2025"
+          ],
+          "or": {
+            "q": "Simplify (a² − 1)/(a² − 25) ÷ (a² − 4a − 5)/(a² + 4a − 5).",
+            "answer": "Factorise: a² − 1 = (a − 1)(a + 1); a² − 25 = (a − 5)(a + 5); a² − 4a − 5 = (a − 5)(a + 1); a² + 4a − 5 = (a + 5)(a − 1).\nDivide by multiplying with the reciprocal:\n[(a − 1)(a + 1)]/[(a − 5)(a + 5)] × [(a + 5)(a − 1)]/[(a − 5)(a + 1)].\nCancel (a + 1) and (a + 5): (a − 1)²/(a − 5)²."
+          },
+          "note": "Lesson 4."
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "In an election 75% of the voters cast their votes. The winner got 51% of the votes cast, which was 1530 votes. Find the total number of voters.",
+          "answer": "Let there be V voters. Votes cast = 0.75V; winner's votes = 0.51 × 0.75V = 0.3825V.\n0.3825V = 1530 ⇒ V = 4000.",
+          "years": [
+            "April 2022"
+          ],
+          "note": "Lesson 8."
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "Chords AB and CD of a circle meet at P. If AP = x + 1, BP = x + 2, CP = x and DP = x + 4, find x.",
+          "answer": "AP × BP = CP × DP ⇒ (x + 1)(x + 2) = x(x + 4).\nx² + 3x + 2 = x² + 4x ⇒ x = 2.",
+          "years": [
+            "April 2016"
+          ],
+          "note": "Lesson 17."
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "Two perpendicular paths, each 10 m wide, run through the middle of a 200 m × 150 m park. Find the cost of constructing them at ₹50 per m².",
+          "answer": "Path along the length: 200 × 10 = 2000 m². Path along the breadth: 150 × 10 = 1500 m².\nCommon square 10 × 10 = 100 m² is counted twice.\nArea = 2000 + 1500 − 100 = 3400 m². Cost = 3400 × 50 = ₹1,70,000.",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 20."
+        },
+        {
+          "id": "5.5",
+          "type": "open",
+          "q": "A man on top of a 120 m tower sees two cars on opposite sides of the tower, in line with its base, at depressions of 60° and 45°. Find the distance between the cars. (√3 = 1.732)",
+          "answer": "Car 1: 120/tan 60° = 120/√3 = 40√3 = 69.28 m.\nCar 2: 120/tan 45° = 120 m.\nDistance = 69.28 + 120 = 189.28 m.",
+          "years": [
+            "October 2022"
+          ],
+          "note": "Lesson 23."
+        }
+      ]
+    },
+    {
+      "no": 6,
+      "title": "Long answer questions.",
+      "marks": "2 × 5 = 10",
+      "questions": [
+        {
+          "id": "6.1",
+          "type": "open",
+          "q": "Construct a triangle ABC in which AB = 5 cm, BC = 4.2 cm and the median CD = 3.8 cm.",
+          "answer": "D is the midpoint of AB, so BD = 2.5 cm.\n1. Construct △BCD: draw BD = 2.5 cm; with centre B radius 4.2 cm and centre D radius 3.8 cm draw arcs meeting at C. Join BC and DC.\n2. Produce BD to A so that DA = 2.5 cm (AB = 5 cm).\n3. Join AC. △ABC is the required triangle, with median CD = 3.8 cm.",
+          "years": [
+            "April 2025",
+            "April 2024"
+          ],
+          "or": {
+            "q": "Draw a circle of radius 3.2 cm and from a point P outside it draw two tangents PQ and PR.",
+            "answer": "1. Draw a circle with centre O, radius 3.2 cm. Mark a point P outside it (say OP = 6 cm) and join OP.\n2. Bisect OP at M.\n3. With centre M and radius MO draw a circle cutting the given circle at Q and R.\n4. Join PQ and PR; these are the tangents, and PQ = PR."
+          },
+          "note": "Lesson 18."
+        },
+        {
+          "id": "6.2",
+          "type": "open",
+          "q": "A cylindrical container of diameter 12 cm and height 15 cm is full of ice-cream. It is filled into cones of height 12 cm and diameter 6 cm. How many cones can be filled?",
+          "answer": "Cylinder: π × 6² × 15 = 540π.\nOne cone: ⅓π × 3² × 12 = 36π.\nNumber = 540π ÷ 36π = 15 cones.",
+          "years": [
+            "April 2019"
+          ],
+          "note": "Lesson 21."
+        }
+      ]
+    }
+  ]
+}

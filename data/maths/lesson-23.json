@@ -1,0 +1,511 @@
+{
+  "subject": "maths",
+  "lesson": 23,
+  "title": "Trigonometric Ratios of Some Special Angles",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Every answer shows the working. Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "11 × 1 = 11",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "If cos θ × (1/sec θ) = 1 and θ is acute or zero, then θ is —",
+          "options": [
+            "90°",
+            "60°",
+            "45°",
+            "0°"
+          ],
+          "answer": "D",
+          "years": [
+            "April 2026"
+          ],
+          "work": "1/sec θ = cos θ, so cos²θ = 1 ⇒ cos θ = 1 ⇒ θ = 0°."
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "(1 − tan²45°)/(1 + tan²45°) is —",
+          "options": [
+            "1",
+            "1/2",
+            "0",
+            "3/2"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2025"
+          ],
+          "work": "tan 45° = 1: (1 − 1)/(1 + 1) = 0."
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "If tan(A + B) = √3 and tan(A − B) = 1/√3, then A and B are —",
+          "options": [
+            "45°, 15°",
+            "30°, 15°",
+            "45°, 30°",
+            "15°, 60°"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2025"
+          ],
+          "work": "A + B = 60° and A − B = 30°.\nAdd: 2A = 90° ⇒ A = 45°; B = 15°."
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "sec 60° is —",
+          "options": [
+            "2",
+            "1/2",
+            "2/√3",
+            "√3"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2025"
+          ],
+          "work": "cos 60° = 1/2, so sec 60° = 2."
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "If sin θ − cos θ = 0, then θ is —",
+          "options": [
+            "0°",
+            "30°",
+            "45°",
+            "60°"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2024"
+          ],
+          "work": "sin θ = cos θ ⇒ tan θ = 1 ⇒ θ = 45°."
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "In △PQR right-angled at Q, PQ = 3 cm and PR = 6 cm. ∠QPR is —",
+          "options": [
+            "30°",
+            "45°",
+            "90°",
+            "60°"
+          ],
+          "answer": "D",
+          "years": [
+            "October 2024"
+          ],
+          "work": "cos P = PQ/PR = 3/6 = 1/2 ⇒ ∠P = 60°."
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "If sin 2A = √3/2, then A is —",
+          "options": [
+            "30°",
+            "0°",
+            "60°",
+            "90°"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2019"
+          ],
+          "work": "sin 60° = √3/2 ⇒ 2A = 60° ⇒ A = 30°."
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "sin 60° × sec 60° is —",
+          "options": [
+            "1/√3",
+            "√3",
+            "2/√3",
+            "2"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2019"
+          ],
+          "work": "(√3/2) × 2 = √3. (Also sin × sec = tan, and tan 60° = √3.)"
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "sec 45° is —",
+          "options": [
+            "not defined",
+            "2",
+            "√2",
+            "1"
+          ],
+          "answer": "C",
+          "years": [
+            "October 2021"
+          ],
+          "work": "cos 45° = 1/√2, so sec 45° = √2."
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "A 30 m ladder touches a wall at a height of 15 m. The angle it makes with the ground is —",
+          "options": [
+            "30°",
+            "45°",
+            "50°",
+            "60°"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2017"
+          ],
+          "work": "sin θ = 15/30 = 1/2 ⇒ θ = 30°."
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "If sin(A + 36°) = cos A, with A + 36° acute, then A is —",
+          "options": [
+            "54°",
+            "27°",
+            "21°",
+            "18°"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2016"
+          ],
+          "work": "sin(A + 36°) = cos A = sin(90° − A) ⇒ A + 36° = 90° − A ⇒ 2A = 54° ⇒ A = 27°."
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark (fill in the blanks, match the columns or true/false).",
+      "marks": "4 × 2 = 8",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "Fill in the blanks: (i) In △ABC right-angled at C, AC = 4 cm and AB = 8 cm; ∠A = ____. (ii) In △ABC right-angled at B, BC = 5 cm and ∠BAC = 30°; AB = ____.",
+          "answer": "(i) cos A = AC/AB = 4/8 = 1/2 ⇒ ∠A = 60°.\n(ii) tan 30° = BC/AB ⇒ 1/√3 = 5/AB ⇒ AB = 5√3 cm.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Fill in the blanks: (i) If tan(A + B) = √3 and tan(A − B) = 1/√3, then sec(A − B) = ____. (ii) If sin(A − B) = 1/2 and cos(A + B) = 1/2, then A = ____ and B = ____.",
+          "answer": "(i) A − B = 30°, sec 30° = 2/√3.\n(ii) A − B = 30°, A + B = 60° ⇒ A = 45°, B = 15°.",
+          "years": [
+            "April 2026",
+            "October 2024"
+          ]
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "Fill in the blanks: (i) sec 30° tan 60° + sin 45° cosec 45° = ____. (ii) If sin α = √3/2 and cos β = √3/2, then α + β = ____.",
+          "answer": "(i) (2/√3)(√3) + (1/√2)(√2) = 2 + 1 = 3.\n(ii) α = 60°, β = 30° ⇒ α + β = 90°.",
+          "years": [
+            "October 2022"
+          ]
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Fill in the blanks: (i) A kite string 20√3 m long makes 60° with the ground; the kite's height is ____. (ii) A tower casts its shadow 15 m from its foot at an elevation of 60°; its height is ____.",
+          "answer": "(i) h = 20√3 × sin 60° = 20√3 × √3/2 = 30 m.\n(ii) h = 15 tan 60° = 15√3 ≈ 25.98 m.",
+          "years": [
+            "October 2021",
+            "April 2021"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Case study: read the information and answer the questions that follow.",
+      "marks": "5 × 1 = 5",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "mcq",
+          "q": "The angle of depression of the bottom of the tower equals the angle of elevation of the building's top from the tower's bottom, which is —",
+          "options": [
+            "45°",
+            "60°",
+            "30°",
+            "90°"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2024"
+          ],
+          "work": "The angle of depression from A to B equals the angle of elevation from B to A (alternate angles): 60°."
+        },
+        {
+          "id": "3.2",
+          "type": "mcq",
+          "q": "The distance between the building and the tower is —",
+          "options": [
+            "60√3 m",
+            "20√3 m",
+            "60 m",
+            "30 m"
+          ],
+          "answer": "B",
+          "work": "tan 60° = 60/d ⇒ d = 60/√3 = 20√3 ≈ 34.64 m."
+        },
+        {
+          "id": "3.3",
+          "type": "mcq",
+          "q": "The difference between the heights of the building and the tower is —",
+          "options": [
+            "20√3 m",
+            "60 m",
+            "20 m",
+            "40 m"
+          ],
+          "answer": "A",
+          "work": "From the building's top, the tower's top is 45° below: difference = d tan 45° = 20√3 m."
+        },
+        {
+          "id": "3.4",
+          "type": "mcq",
+          "q": "The height of the tower is —",
+          "options": [
+            "25.36 m",
+            "34.64 m",
+            "40 m",
+            "20 m"
+          ],
+          "answer": "A",
+          "work": "60 − 20√3 = 60 − 34.64 = 25.36 m."
+        },
+        {
+          "id": "3.5",
+          "type": "mcq",
+          "q": "sin 60° × cos 30° + cos 60° × sin 30° is —",
+          "options": [
+            "1",
+            "1/2",
+            "√3/2",
+            "0"
+          ],
+          "answer": "A",
+          "work": "(√3/2)(√3/2) + (1/2)(1/2) = 3/4 + 1/4 = 1."
+        }
+      ],
+      "fixed": true,
+      "passage": "From the top of a 60 m high building, the angles of depression of the top and bottom of a tower standing on the same level ground are 45° and 60° respectively. (√3 = 1.732)"
+    },
+    {
+      "no": 4,
+      "title": "Very short answer questions.",
+      "marks": "6 × 2 = 12",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "If (1 + cos A)(1 − cos A) = 3/4, find sec A (A acute).",
+          "answer": "1 − cos²A = 3/4 ⇒ sin²A = 3/4 ⇒ sin A = √3/2 ⇒ A = 60°.\nsec A = sec 60° = 2.",
+          "years": [
+            "October 2025"
+          ],
+          "or": {
+            "q": "If sin(A + B) = 1 and tan(A − B) = 1/√3, find tan A + cot B.",
+            "answer": "A + B = 90°, A − B = 30° ⇒ A = 60°, B = 30°.\ntan 60° + cot 30° = √3 + √3 = 2√3."
+          }
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "If sin(2A + B) = √3/2 and cos(4A + B) = 0, find A and B.",
+          "answer": "2A + B = 60° and 4A + B = 90°.\nSubtract: 2A = 30° ⇒ A = 15°; B = 60° − 30° = 30°.",
+          "years": [
+            "April 2023"
+          ]
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "If sin(A + B) = 1 and cos(A − B) = 1 (0° ≤ A + B ≤ 90°, A ≥ B), find A and B.",
+          "answer": "A + B = 90° and A − B = 0°.\nA = B = 45°.",
+          "years": [
+            "April 2022"
+          ]
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "If cos(40° + 2x) = sin 30°, where 40° + 2x is acute, find x.",
+          "answer": "sin 30° = 1/2 = cos 60° ⇒ 40° + 2x = 60° ⇒ x = 10°.",
+          "years": [
+            "April 2019"
+          ]
+        },
+        {
+          "id": "4.5",
+          "type": "open",
+          "q": "In △ABC right-angled at B, AC = 8 cm and BC = 4 cm. Find ∠C.",
+          "answer": "cos C = BC/AC = 4/8 = 1/2 ⇒ ∠C = 60°.",
+          "years": [
+            "April 2021"
+          ]
+        },
+        {
+          "id": "4.6",
+          "type": "open",
+          "q": "Evaluate (sin 30° + cos 60°)/(tan 45° + sec 0°).",
+          "answer": "sin 30° = 1/2, cos 60° = 1/2, tan 45° = 1, sec 0° = 1.\n(1/2 + 1/2)/(1 + 1) = 1/2."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Short answer questions.",
+      "marks": "5 × 3 = 15",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "The angle of elevation of the top of a tower from a point 90 m from its foot is 30°. Find its height. (√3 = 1.73)",
+          "answer": "tan 30° = h/90 ⇒ h = 90/√3 = 30√3 = 30 × 1.73 = 51.9 m.",
+          "years": [
+            "April 2019"
+          ]
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "An observer 40 m from a building sees the top and bottom of a flagstaff on the building at elevations of 60° and 45°. Find the height of the building and the length of the flagstaff.",
+          "answer": "Building: tan 45° = h/40 ⇒ h = 40 m.\nTop of flagstaff: tan 60° = H/40 ⇒ H = 40√3 = 69.28 m.\nFlagstaff = 69.28 − 40 = 29.28 m.",
+          "years": [
+            "April 2023"
+          ]
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "A tree breaks in a storm; its top touches the ground 2√3 m from the foot, making 60° with the ground. Find the original height.",
+          "answer": "Standing part: tan 60° = h₁/2√3 ⇒ h₁ = 2√3 × √3 = 6 m.\nBroken part: cos 60° = 2√3/l ⇒ l = 4√3 ≈ 6.93 m.\nHeight = 6 + 4√3 ≈ 12.93 m.",
+          "years": [
+            "April 2022"
+          ]
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "The upper part of a tree broken by the wind makes 30° with the ground, touching it 10 m from the foot. Find the total height of the tree.",
+          "answer": "Standing part = 10 tan 30° = 10/√3 ≈ 5.77 m.\nBroken part = 10/cos 30° = 20/√3 ≈ 11.55 m.\nTotal = 30/√3 = 10√3 ≈ 17.32 m.",
+          "years": [
+            "October 2017",
+            "April 2017"
+          ]
+        },
+        {
+          "id": "5.5",
+          "type": "open",
+          "q": "A man on top of a 120 m tower sees two cars on opposite sides of the tower, in line with its base, at depressions of 60° and 45°. Find the distance between the cars. (√3 = 1.732)",
+          "answer": "Car 1: 120/tan 60° = 120/√3 = 40√3 = 69.28 m.\nCar 2: 120/tan 45° = 120 m.\nDistance = 69.28 + 120 = 189.28 m.",
+          "years": [
+            "October 2022"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 6,
+      "title": "Long answer questions.",
+      "marks": "6 × 5 = 30",
+      "questions": [
+        {
+          "id": "6.1",
+          "type": "open",
+          "q": "From the top of a 100 m lighthouse, the angle of depression of a ship changes from 30° to 45° as it sails towards the lighthouse. Find the distance travelled. (√3 = 1.732)",
+          "answer": "Let the lighthouse be AB = 100 m, first position C, second D.\nAt 30°: BC = 100/tan 30° = 100√3 = 173.2 m.\nAt 45°: BD = 100/tan 45° = 100 m.\nDistance CD = 173.2 − 100 = 73.2 m.",
+          "years": [
+            "April 2026",
+            "October 2025"
+          ],
+          "or": {
+            "q": "The angle of elevation of the top of a building from the foot of a tower is 30°, and of the top of the tower from the foot of the building is 60°. The tower is 50 m high. Find the height of the building.",
+            "answer": "Let the distance between them be d.\nTower: tan 60° = 50/d ⇒ d = 50/√3.\nBuilding: tan 30° = h/d ⇒ h = d/√3 = 50/3 ≈ 16.67 m."
+          }
+        },
+        {
+          "id": "6.2",
+          "type": "open",
+          "q": "The shadow of a tower is 10 m longer when the sun's elevation is 30° than when it is 45°. Find the height of the tower. (√3 = 1.732)",
+          "answer": "Let the height be h. Shadow at 45° = h; at 30° = h√3.\nh√3 − h = 10 ⇒ h = 10/(√3 − 1) = 10/0.732 ≈ 13.66 m.",
+          "years": [
+            "April 2025"
+          ],
+          "or": {
+            "q": "An aeroplane 3000 m high passes vertically above another at an instant when their elevations from a point on the ground are 60° and 45°. Find the vertical distance between them.",
+            "answer": "Horizontal distance d: tan 60° = 3000/d ⇒ d = 3000/√3 = 1000√3 = 1732 m.\nLower plane: height = d tan 45° = 1732 m.\nVertical distance = 3000 − 1732 = 1268 m."
+          }
+        },
+        {
+          "id": "6.3",
+          "type": "open",
+          "q": "From the top of a 100 m tower, two cars on opposite sides are seen at depressions of 60° and 45°. Find the distance between them.",
+          "answer": "Car 1: 100/tan 60° = 100/√3 = 57.74 m. Car 2: 100/tan 45° = 100 m.\nDistance = 57.74 + 100 = 157.74 m.",
+          "years": [
+            "April 2024"
+          ],
+          "or": {
+            "q": "From a point P on level ground, tan of the elevation of a tower's top is 1/2. After walking 192 m towards the tower, it becomes 3/4. Find the height and the distance of the second point from the tower.",
+            "answer": "Let the height be h and the second point's distance x.\nh/(x + 192) = 1/2 and h/x = 3/4 ⇒ x = 4h/3.\n2h = 4h/3 + 192 ⇒ 2h/3 = 192 ⇒ h = 288 m; x = 384 m."
+          }
+        },
+        {
+          "id": "6.4",
+          "type": "open",
+          "q": "A building is 60 m high. From its top the angles of depression of the top and bottom of a tower are 45° and 60°. Find the height of the tower and its distance from the building.",
+          "answer": "Distance d = 60/tan 60° = 20√3 ≈ 34.64 m.\nTop of tower is d tan 45° = 34.64 m below the building's top.\nTower height = 60 − 34.64 = 25.36 m.",
+          "years": [
+            "October 2024"
+          ],
+          "or": {
+            "q": "Two men on either side of an 80 m cliff see its top at elevations of 30° and 60°. Find the distance between them.",
+            "answer": "80/tan 30° = 80√3 = 138.56 m; 80/tan 60° = 80/√3 = 46.19 m.\nDistance = 138.56 + 46.19 = 184.75 m."
+          }
+        },
+        {
+          "id": "6.5",
+          "type": "open",
+          "q": "A person on a river bank sees the top of a tree on the opposite bank at 60°. Moving 40 m back, the angle is 30°. Find the height of the tree and the width of the river.",
+          "answer": "Let the width be x and the height h. h = x√3 and h = (x + 40)/√3.\n3x = x + 40 ⇒ x = 20 m; h = 20√3 ≈ 34.64 m.",
+          "years": [
+            "October 2016"
+          ]
+        },
+        {
+          "id": "6.6",
+          "type": "open",
+          "q": "The angle of elevation of the top of a building from the foot of a 150 m tower is 30°, and of the tower's top from the building's foot is 60°. Find the building's height.",
+          "answer": "Distance d = 150/tan 60° = 150/√3 = 50√3 m.\nBuilding = d tan 30° = 50√3 × 1/√3 = 50 m.",
+          "years": [
+            "April 2016"
+          ]
+        }
+      ]
+    }
+  ]
+}

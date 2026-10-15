@@ -1,0 +1,65 @@
+{
+  "lesson": 7,
+  "title": "Arithmetic Progressions",
+  "module": 1,
+  "summary": [
+    "## What an A.P. is",
+    "A list of numbers in which each term after the first is obtained by adding the same fixed number to the term before it is an arithmetic progression (A.P.). The first term is a and the fixed number is the common difference d = (any term) − (the term before it); d can be positive, negative or zero. 6, 7, 8, 9, … (d = 1), 10, 5, 0, −5, … (d = −5) and 2, 2, 2, … (d = 0) are A.P.s; 3, 7, 12, 18, … is not, because the differences 4, 5, 6 are not equal.",
+    "Three numbers a, b, c are in A.P. when b − a = c − b, i.e. 2b = a + c (the middle term is the average of the other two). So if 2p + 1, 13, 5p − 3 are in A.P., 26 = 7p − 2 and p = 4. When three terms of an A.P. must be found from their sum, take them as a − d, a, a + d.",
+    "## The nth term",
+    "aₙ = a + (n − 1)d. Example: in −3, 4, 11, …, a = −3, d = 7, so a₂₁ = −3 + 20 × 7 = 137. To find how many terms a finite A.P. has, put the last term l = a + (n − 1)d and solve for n. The nth term from the end of an A.P. with last term l is l − (n − 1)d: the 9th term from the end of 7, 11, …, 147 is 147 − 8 × 4 = 115.",
+    "## Sum of n terms",
+    "Sₙ = n/2 [2a + (n − 1)d], or Sₙ = n/2 (a + l) when the last term l is known. The sum of the first n natural numbers is n(n + 1)/2 and of the first n odd numbers is n². If Sₙ is given, form the equation and solve for n (it may be quadratic; reject negative or fractional n). The nth term can also be found as aₙ = Sₙ − Sₙ₋₁.",
+    "## Using A.P.s",
+    "Rows of plants decreasing by 2 in each row, prizes each ₹20 less than the one before, savings increasing by a fixed amount, and numbers leaving a fixed remainder on division (2-digit numbers leaving remainder 1 when divided by 4 are 13, 17, …, 97) all form A.P.s."
+  ],
+  "mcq": [
+    ["If 2p + 1, 13 and 5p − 3 are in A.P., then p is —", ["−4", "3", "4", "5"], "C", ["April 2025"], {"work": "In an A.P. the middle term is the average: 2 × 13 = (2p + 1) + (5p − 3).\n26 = 7p − 2 ⇒ 7p = 28 ⇒ p = 4."}],
+    ["The 9th term from the end of the A.P. 7, 11, 15, …, 147 is —", ["111", "119", "115", "123"], "C", ["April 2026"], {"work": "d = 11 − 7 = 4 and the last term l = 147.\nCounting from the end, the terms go down by 4: nth term from the end = l − (n − 1)d.\n9th from the end = 147 − 8 × 4 = 147 − 32 = 115."}],
+    ["Three numbers in A.P. have sum 18 and product 120. They are —", ["3, 6, 9", "2, 6, 10", "4, 6, 8", "1, 6, 11"], "B", ["October 2025"], {"work": "Take the numbers as a − d, a, a + d. Sum 3a = 18 ⇒ a = 6.\nProduct (6 − d)(6)(6 + d) = 120 ⇒ 36 − d² = 20 ⇒ d² = 16 ⇒ d = 4.\nThe numbers are 2, 6, 10."}],
+    ["If x + 2, 2x + 5 and 4x + 8 are in A.P., x is —", ["0", "1", "−1", "2"], "A", ["April 2024"], {"work": "2(2x + 5) = (x + 2) + (4x + 8) ⇒ 4x + 10 = 5x + 10 ⇒ x = 0.\nThe terms are 2, 5, 8 — common difference 3 ✓."}],
+    ["The number of terms in the A.P. 3, 17, 31, …, 101 is —", ["7", "8", "9", "14"], "B", ["April 2024"], {"work": "a = 3, d = 14, l = 101.\n101 = 3 + (n − 1) × 14 ⇒ (n − 1) × 14 = 98 ⇒ n − 1 = 7 ⇒ n = 8."}],
+    ["Which of the following is an A.P.?", ["6, 7, 8, 9, 10, …", "−5, −1, 3, 8, 11, …", "a, a + b, a + 2b, a + 4b, …", "3, 7, 12, 18, 25, …"], "A", ["October 2021"], {"work": "Check the differences:\n6, 7, 8, 9, 10: 1, 1, 1, 1 — equal, so an A.P.\n−5, −1, 3, 8: 4, 4, 5 — not equal. a, a + b, a + 2b, a + 4b: b, b, 2b — not equal. 3, 7, 12, 18: 4, 5, 6 — not equal."}],
+    ["An A.P. has sum of first three terms 18 and common difference 4. The A.P. is —", ["4, 5, 9, …", "2, 7, 9, …", "3, 6, 9, …", "2, 6, 10, …"], "D", ["October 2022"], {"work": "First three terms: a, a + 4, a + 8. Sum 3a + 12 = 18 ⇒ a = 2.\nThe A.P. is 2, 6, 10, …"}],
+    ["The common difference of the A.P. 10, 5, 0, −5, … is —", ["5", "−5", "10", "−15"], "B", ["October 2025"], {"work": "d = second term − first term = 5 − 10 = −5 (also 0 − 5 = −5)."}],
+    ["The sum of the first 20 odd natural numbers is —", ["200", "210", "400", "420"], "C", ["October 2024"], {"work": "1, 3, 5, … : a = 1, d = 2, n = 20.\nS₂₀ = 20/2 [2 + 19 × 2] = 10 × 40 = 400. (In general the sum of the first n odd numbers is n².)"}],
+    ["The 10th term of the A.P. 2, 7, 12, … is —", ["45", "47", "50", "52"], "B", {"work": "a = 2, d = 5. a₁₀ = 2 + 9 × 5 = 47."}]
+  ],
+  "objective": [
+    ["Match: (i) The 15th term of 16, 11, 6, … is ____ (ii) The sum of the first 12 terms of 11, 16, 21, … is ____ — (A) −54 (B) 462 (C) 54", "(i) a = 16, d = −5: a₁₅ = 16 + 14 × (−5) = 16 − 70 = −54 → (A).\n(ii) a = 11, d = 5: S₁₂ = 12/2 [22 + 11 × 5] = 6 × 77 = 462 → (B).", ["April 2026"]],
+    ["Fill in the blanks: (i) If a = 6 and d = 5, the 11th term is ____. (ii) The sum of the first ten terms of 7, 14, 21, 28, … is ____.", "(i) a₁₁ = 6 + 10 × 5 = 56.\n(ii) a = 7, d = 7: S₁₀ = 10/2 [14 + 9 × 7] = 5 × 77 = 385.", ["April 2025"]],
+    ["Fill in the blanks: (i) The 20th term from the end of 3, 8, 13, …, 253 is ____. (ii) If a = 5, l = 45 and the sum is 400, the number of terms is ____.", "(i) d = 5; from the end: 253 − 19 × 5 = 253 − 95 = 158.\n(ii) Sₙ = n/2 (a + l) ⇒ 400 = n/2 × 50 = 25n ⇒ n = 16.", ["April 2025"]],
+    ["Write True or False: (i) For 10, 5, 0, −5, … the common difference is 5. (ii) 2, 2, 2, 2, … is an A.P.", "(i) False: d = 5 − 10 = −5.\n(ii) True: each term is the previous one plus 0, so d = 0.", ["October 2025"]],
+    ["Write True or False: (i) The 15th term of −10, −5, 0, 5, … is 65. (ii) The sum of the first 20 odd numbers is 400.", "(i) False: a₁₅ = −10 + 14 × 5 = 60.\n(ii) True: 1 + 3 + … (20 terms) = 20/2 [2 + 19 × 2] = 400 (= 20²).", ["October 2024"]],
+    ["A flower bed has 23 plants in the first row, 21 in the second, 19 in the third, … and 5 in the last row. Fill in: (i) number of rows ____ (ii) plants in the 9th row ____.", "(i) a = 23, d = −2, l = 5: 5 = 23 + (n − 1)(−2) ⇒ n − 1 = 9 ⇒ n = 10 rows.\n(ii) a₉ = 23 + 8 × (−2) = 7 plants.", ["April 2024"]]
+  ],
+  "case": {
+    "passage": "Asha saves ₹50 in the first week of the year, ₹60 in the second week, ₹70 in the third week, and so on, increasing her saving by ₹10 every week.",
+    "items": [
+      ["Her savings form an A.P. with common difference —", ["₹50", "₹10", "₹60", "₹5"], "B", {"work": "60 − 50 = 10 and 70 − 60 = 10, so d = ₹10."}],
+      ["Her saving in the 10th week is —", ["₹140", "₹150", "₹100", "₹130"], "A", {"work": "a₁₀ = 50 + 9 × 10 = ₹140."}],
+      ["In which week does she save ₹250?", ["20th", "21st", "25th", "26th"], "B", {"work": "250 = 50 + (n − 1) × 10 ⇒ n − 1 = 20 ⇒ n = 21."}],
+      ["Her total saving in the first 10 weeks is —", ["₹900", "₹950", "₹1,000", "₹1,400"], "B", {"work": "S₁₀ = 10/2 [2 × 50 + 9 × 10] = 5 × 190 = ₹950."}],
+      ["Her total saving in 52 weeks is —", ["₹15,860", "₹16,000", "₹15,000", "₹13,260"], "A", {"work": "S₅₂ = 52/2 [100 + 51 × 10] = 26 × 610 = ₹15,860."}]
+    ]
+  },
+  "vsa": [
+    ["For an A.P. with a = −2 and d = 5, find the 10th term and the sum of the first 10 terms.", "a₁₀ = a + 9d = −2 + 45 = 43.\nS₁₀ = 10/2 (a + a₁₀) = 5 × (−2 + 43) = 5 × 41 = 205.", ["April 2024"], {"or": ["The 5th term of an A.P. is 23 and the 12th term is 37. Find a and d.", "a + 4d = 23 and a + 11d = 37.\nSubtract: 7d = 14 ⇒ d = 2. Then a = 23 − 8 = 15."]}],
+    ["Find the 21st term of an A.P. whose first two terms are −3 and 4.", "a = −3, d = 4 − (−3) = 7.\na₂₁ = −3 + 20 × 7 = −3 + 140 = 137.", ["October 2022"]],
+    ["The first term of an A.P. is −2 and its 11th term is 18. Find the common difference.", "a₁₁ = a + 10d ⇒ 18 = −2 + 10d ⇒ 10d = 20 ⇒ d = 2.", ["April 2021"]],
+    ["Find the sum of the first 20 terms of 16, 11, 6, 1, −4, …", "a = 16, d = −5.\nS₂₀ = 20/2 [32 + 19 × (−5)] = 10 × (32 − 95) = 10 × (−63) = −630.", ["April 2019"]],
+    ["How many terms of 1, 4, 7, 10, … are needed to make 715?", "a = 1, d = 3: n/2 [2 + (n − 1)3] = 715 ⇒ n(3n − 1) = 1430 ⇒ 3n² − n − 1430 = 0.\nn = [1 ± √(1 + 17160)]/6 = (1 ± 131)/6 ⇒ n = 22 (the other root is negative).\n22 terms.", ["April 2017"]],
+    ["For an A.P. with a = −5 and d = 4, find the sum of the first 40 terms.", "S₄₀ = 40/2 [2(−5) + 39 × 4] = 20 × (−10 + 156) = 20 × 146 = 2920.", ["April 2016"]]
+  ],
+  "sa": [
+    ["A sum of ₹700 is given as seven cash prizes. Each prize is ₹20 less than the one before it. Find each prize.", "The prizes form an A.P. with n = 7, d = −20, S₇ = 700.\n7/2 [2a + 6(−20)] = 700 ⇒ 2a − 120 = 200 ⇒ a = 160.\nPrizes: ₹160, ₹140, ₹120, ₹100, ₹80, ₹60, ₹40.", ["October 2024"]],
+    ["The sum of three numbers in A.P. is 12 and the sum of their cubes is 288. Find the numbers.", "Take a − d, a, a + d. 3a = 12 ⇒ a = 4.\n(4 − d)³ + 4³ + (4 + d)³ = 288. (4 − d)³ + (4 + d)³ = 2 × 64 + 2 × 3 × 4 × d² = 128 + 24d².\n128 + 24d² + 64 = 288 ⇒ 24d² = 96 ⇒ d = ±2.\nThe numbers are 2, 4, 6.", ["October 2019"]],
+    ["The sum of the first three terms of an A.P. is 36 and their product is 1620. Find the A.P.", "Take a − d, a, a + d: 3a = 36 ⇒ a = 12.\n(12 − d)(12)(12 + d) = 1620 ⇒ 144 − d² = 135 ⇒ d = ±3.\nThe A.P. is 9, 12, 15, … (or 15, 12, 9, …).", ["October 2017"]],
+    ["How many terms of 9, 17, 25, … must be taken to give 636?", "a = 9, d = 8: n/2 [18 + 8(n − 1)] = 636 ⇒ n(4n + 5) = 636 ⇒ 4n² + 5n − 636 = 0.\nD = 25 + 10176 = 10201 = 101² ⇒ n = (−5 + 101)/8 = 12.\n12 terms.", ["April 2022"]]
+  ],
+  "la": [
+    ["Find the sum of all two-digit numbers which leave remainder 1 when divided by 4.", "The numbers are 13, 17, 21, …, 97 (13 = 4 × 3 + 1, 97 = 4 × 24 + 1).\na = 13, d = 4, l = 97: 97 = 13 + (n − 1)4 ⇒ n − 1 = 21 ⇒ n = 22.\nSum = n/2 (a + l) = 11 × (13 + 97) = 11 × 110 = 1210.", ["April 2023"]],
+    ["The 4th and 9th terms of an A.P. are −15 and −30. Find the sum of its first 17 terms.", "a + 3d = −15 and a + 8d = −30. Subtract: 5d = −15 ⇒ d = −3; a = −15 + 9 = −6.\nS₁₇ = 17/2 [2(−6) + 16(−3)] = 17/2 × (−12 − 48) = 17/2 × (−60) = −510.", ["October 2021"]],
+    ["Find the sum of all three-digit numbers which leave remainder 2 when divided by 5.", "The numbers are 102, 107, …, 997.\na = 102, d = 5, l = 997: 997 = 102 + (n − 1)5 ⇒ n − 1 = 179 ⇒ n = 180.\nSum = 180/2 × (102 + 997) = 90 × 1099 = 98,910.", ["October 2016"]]
+  ]
+}

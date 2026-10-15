@@ -1,0 +1,123 @@
+{
+  "subject": "maths",
+  "lesson": 5,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 5: Linear Equations — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Linear equations in one variable"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "An equation of degree one in one variable is a linear equation; its general form is ax + b = 0 (a ≠ 0). The value of the variable that satisfies it is its solution (root): x = −b/a. To solve, do the same operation on both sides — add, subtract, multiply or divide — until the variable is alone. An expression such as 5x + 7 (with no '=' sign) is not an equation."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Linear equations in two variables"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "The general form is ax + by + c = 0, where a, b, c are real numbers and a, b are not both zero. In 5(2x − 4) + 3x + 4y − 7 = 0, expanding gives 13x + 4y − 27 = 0, so the coefficient of y is 4. An equation in one variable can be written in this form too: y = 3 is 0·x + 1·y − 3 = 0 (a = 0, b = 1, c = −3). Each solution is a pair (x, y); a point lies on the line if its coordinates satisfy the equation — e.g. (4, 3) does not lie on 3x + 7y = 27 because 12 + 21 = 33 ≠ 27."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Graph of a linear equation"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "The graph of a linear equation in two variables is a straight line. To draw it, find at least two (better three) solutions, plot them and join them. Put x = 0 to find where the line cuts the y-axis and y = 0 to find where it cuts the x-axis: 2x + 3y = 6 cuts the y-axis at (0, 2) and the x-axis at (3, 0). x = a is a line parallel to the y-axis; y = b is a line parallel to the x-axis."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Pair of linear equations"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "For a₁x + b₁y + c₁ = 0 and a₂x + b₂y + c₂ = 0 drawn on the same graph: (i) intersecting lines — one (unique) solution, the point of intersection; this happens when a₁/a₂ ≠ b₁/b₂. (ii) Coincident lines — infinitely many solutions, when a₁/a₂ = b₁/b₂ = c₁/c₂. (iii) Parallel lines — no solution, when a₁/a₂ = b₁/b₂ ≠ c₁/c₂."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Algebraic methods"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Substitution: find one variable from one equation (e.g. y = 7 − x) and put it in the other. Elimination: multiply the equations so that the coefficients of one variable become equal, then add or subtract to remove it, solve, and substitute back. Always check the answer in both equations."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Word problems"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Choose letters for the unknowns, turn each sentence into an equation, solve, and check that the answer makes sense. Common types: two numbers (sum and difference), ages ('3 years ago' means subtract 3 from each present age), digits (a two-digit number with tens digit x and units digit y is 10x + y; reversed it is 10y + x), cost of articles, rectangles (perimeter 2(l + b), area lb), and work (if a person finishes a job in m days, he does 1/m of it in a day)."
+        ]
+      ]
+    }
+  ]
+}

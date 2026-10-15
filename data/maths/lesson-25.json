@@ -1,0 +1,494 @@
+{
+  "subject": "maths",
+  "lesson": 25,
+  "title": "Measures of Central Tendency",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Every answer shows the working. Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "10 × 1 = 10",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "The mean of the first five prime numbers is —",
+          "options": [
+            "5",
+            "5.2",
+            "5.4",
+            "5.6"
+          ],
+          "answer": "D",
+          "years": [
+            "April 2026"
+          ],
+          "work": "First five primes: 2, 3, 5, 7, 11. Sum = 28.\nMean = 28/5 = 5.6."
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "The median of 10, 12, 14, 16, 18, 20 is —",
+          "options": [
+            "12",
+            "14",
+            "15",
+            "16"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2026",
+            "April 2025",
+            "October 2024"
+          ],
+          "work": "There are 6 values (even), so take the mean of the 3rd and 4th: (14 + 16)/2 = 15."
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "The mean of the first five multiples of 7 is —",
+          "options": [
+            "20",
+            "21",
+            "22",
+            "25"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2025"
+          ],
+          "work": "7, 14, 21, 28, 35: sum = 105; mean = 105/5 = 21. (For an A.P. of odd length, the mean is the middle term.)"
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "The mean of 5 observations is 15. The mean of the first three is 14 and of the last three is 17. The third observation is —",
+          "options": [
+            "15",
+            "16",
+            "18",
+            "20"
+          ],
+          "answer": "C",
+          "years": [
+            "October 2025"
+          ],
+          "work": "Total = 5 × 15 = 75. First three = 42; last three = 51.\n42 + 51 counts the third observation twice: 93 − 75 = 18."
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "If the mean of 6, 7, p, 8, q, 14 is 9, then —",
+          "options": [
+            "p − q = 19",
+            "p + q = 19",
+            "p − q = 15",
+            "p + q = 15"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2025"
+          ],
+          "work": "Sum = 35 + p + q = 6 × 9 = 54 ⇒ p + q = 19."
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "The middle-most observation of ordered data is the —",
+          "options": [
+            "mean",
+            "median",
+            "mode",
+            "range"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2025"
+          ],
+          "work": "By definition the median is the middle value of data arranged in order."
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "Which of the following is NOT a measure of central tendency?",
+          "options": [
+            "Mean",
+            "Median",
+            "Mode",
+            "Range"
+          ],
+          "answer": "D",
+          "years": [
+            "October 2024",
+            "April 2024"
+          ],
+          "work": "Mean, median and mode describe the centre. Range (highest − lowest) measures spread. (April 2024 asked the same with 'class mark'.)"
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "The mode of 2, 7, 5, 9, 5, 7, 8, 11, 5 is —",
+          "options": [
+            "7",
+            "5",
+            "8",
+            "9"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2024"
+          ],
+          "work": "5 occurs three times, 7 twice, others once. Mode = 5."
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "If the mean of x₁, x₂, …, x₁₀ is 20, the mean of x₁ + 4, x₂ + 4, …, x₁₀ + 4 is —",
+          "options": [
+            "20",
+            "24",
+            "40",
+            "80"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2021"
+          ],
+          "work": "Adding 4 to every value adds 4 to the mean: 20 + 4 = 24."
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "If the mean of grouped data is 27 and the mode is 45, the median is —",
+          "options": [
+            "33",
+            "36",
+            "39",
+            "30"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2022"
+          ],
+          "work": "Mode = 3 median − 2 mean ⇒ 45 = 3M − 54 ⇒ 3M = 99 ⇒ M = 33."
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark (fill in the blanks, match the columns or true/false).",
+      "marks": "3 × 2 = 6",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "Fill in the blanks: (i) If the mode of 12, 16, 19, 16, x, 12, 16, 19, 12 is 16, then x = ____. (ii) If the median of a data is 24 and each item is increased by 2, the new median is ____.",
+          "answer": "(i) 12 occurs 3 times and 16 three times; for 16 to be the only mode it must occur more, so x = 16.\n(ii) Adding 2 to every item adds 2 to the median: 26.",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Write True or False: (i) Class mark is a measure of central tendency. (ii) The median of 3, 1, 5, 2, 4 is 5.",
+          "answer": "(i) False: mean, median and mode are; a class mark is just a class's midpoint.\n(ii) False: in order 1, 2, 3, 4, 5 the middle value is 3."
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "Fill in the blanks: (i) Two measures of central tendency are ____ and ____. (ii) The mean of 9 observations is 35; if 81 was misread as 18, the correct mean is ____.",
+          "answer": "(i) mean and median (also mode).\n(ii) Wrong total = 315; correct total = 315 − 18 + 81 = 378; mean = 378/9 = 42.",
+          "years": [
+            "October 2019",
+            "April 2024"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Case study: read the information and answer the questions that follow.",
+      "marks": "5 × 1 = 5",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "mcq",
+          "q": "The class mark of 55–60 is —",
+          "options": [
+            "55",
+            "57.5",
+            "60",
+            "5"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2025"
+          ],
+          "work": "Class mark = (55 + 60)/2 = 57.5."
+        },
+        {
+          "id": "3.2",
+          "type": "mcq",
+          "q": "The cumulative frequency up to 55 kg is —",
+          "options": [
+            "8",
+            "13",
+            "19",
+            "5"
+          ],
+          "answer": "B",
+          "work": "2 + 3 + 8 = 13."
+        },
+        {
+          "id": "3.3",
+          "type": "mcq",
+          "q": "The median class is —",
+          "options": [
+            "50–55",
+            "55–60",
+            "60–65",
+            "45–50"
+          ],
+          "answer": "B",
+          "work": "N/2 = 15. cf: 2, 5, 13, 19 … 19 is the first cf ≥ 15, so 55–60."
+        },
+        {
+          "id": "3.4",
+          "type": "mcq",
+          "q": "The median weight is about —",
+          "options": [
+            "56.67 kg",
+            "57.5 kg",
+            "55 kg",
+            "58.33 kg"
+          ],
+          "answer": "A",
+          "work": "l = 55, cf = 13, f = 6, h = 5: 55 + (15 − 13)/6 × 5 = 55 + 1.67 = 56.67 kg."
+        },
+        {
+          "id": "3.5",
+          "type": "mcq",
+          "q": "The modal class is —",
+          "options": [
+            "50–55",
+            "55–60",
+            "60–65",
+            "40–45"
+          ],
+          "answer": "A",
+          "work": "50–55 has the highest frequency, 8."
+        }
+      ],
+      "fixed": true,
+      "passage": "The weights (in kg) of 30 students are grouped: 40–45: 2, 45–50: 3, 50–55: 8, 55–60: 6, 60–65: 6, 65–70: 3, 70–75: 2."
+    },
+    {
+      "no": 4,
+      "title": "Very short answer questions.",
+      "marks": "10 × 2 = 20",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "Find the median of: x: 20, 25, 35, 40, 50; f: 5, 11, 24, 16, 5.",
+          "answer": "N = 61 (odd) ⇒ median = 31st value.\ncf: 5, 16, 40, 56, 61. The 31st value lies where cf first reaches 31 — at x = 35.\nMedian = 35.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "Find the median of: x: 5, 15, 25, 35, 45, 55; f: 8, 10, 16, 24, 15, 7.",
+          "answer": "N = 80 (even) ⇒ mean of the 40th and 41st values.\ncf: 8, 18, 34, 58, 73, 80. Both the 40th and 41st lie in x = 35.\nMedian = 35.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "Find the median of: x: 5, 10, 15, 20, 25; f: 3, 7, 12, 20, 28.",
+          "answer": "N = 70 ⇒ 35th and 36th values.\ncf: 3, 10, 22, 42, 70. Both lie at x = 20. Median = 20.",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "The mean of 9 observations is 35. If 81 was wrongly copied as 18, find the correct mean.",
+          "answer": "Wrong total = 9 × 35 = 315. Correct total = 315 − 18 + 81 = 378.\nCorrect mean = 378/9 = 42.",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "4.5",
+          "type": "open",
+          "q": "Find the median of: x: 5, 10, 15, 25, 30; f: 4, 6, 7, 3, 5.",
+          "answer": "N = 25 ⇒ 13th value. cf: 4, 10, 17, 20, 25.\nThe 13th lies at x = 15. Median = 15.",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "4.6",
+          "type": "open",
+          "q": "If the mean of the data is 15, find p: x: 5, 10, 15, 20, 25; f: 6, p, 6, 10, 5.",
+          "answer": "Σf = 27 + p. Σfx = 30 + 10p + 90 + 200 + 125 = 445 + 10p.\n15(27 + p) = 445 + 10p ⇒ 405 + 15p = 445 + 10p ⇒ 5p = 40 ⇒ p = 8.",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "4.7",
+          "type": "open",
+          "q": "If the mean is 7, find p: x: 4, p, 6, 7, 9, 11; f: 2, 4, 6, 10, 6, 2.",
+          "answer": "Σf = 30. Σfx = 8 + 4p + 36 + 70 + 54 + 22 = 190 + 4p.\n190 + 4p = 7 × 30 = 210 ⇒ p = 5.",
+          "years": [
+            "April 2023"
+          ]
+        },
+        {
+          "id": "4.8",
+          "type": "open",
+          "q": "The data 11, 12, 14, 18, x + 2, x + 4, 30, 32, 35, 41 is in ascending order and its median is 24. Find x.",
+          "answer": "n = 10 ⇒ median = mean of 5th and 6th = ((x + 2) + (x + 4))/2 = x + 3.\nx + 3 = 24 ⇒ x = 21.",
+          "years": [
+            "April 2019"
+          ]
+        },
+        {
+          "id": "4.9",
+          "type": "open",
+          "q": "The data 50, 42, 35, 2x + 10, 2x, 18, 12, 11 is in descending order and its median is 25. Find x.",
+          "answer": "n = 8 ⇒ median = mean of 4th and 5th = (2x + 10 + 2x)/2 = 2x + 5.\n2x + 5 = 25 ⇒ x = 10.",
+          "years": [
+            "April 2016"
+          ]
+        },
+        {
+          "id": "4.10",
+          "type": "open",
+          "q": "Find the median of: x: 35, 36, 37, 38, 39, 40, 41, 42; f: 2, 3, 5, 4, 7, 6, 4, 2.",
+          "answer": "N = 33 ⇒ 17th value. cf: 2, 5, 10, 14, 21, … The 17th lies at x = 39. Median = 39.",
+          "years": [
+            "April 2021",
+            "April 2017"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Short answer questions.",
+      "marks": "6 × 3 = 18",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "If the mean of the data is 6, find P: x: 2, 4, 6, 10, P + 5; f: 3, 2, 3, 1, 2.",
+          "answer": "Σf = 11. Σfx = 6 + 8 + 18 + 10 + 2(P + 5) = 52 + 2P.\n52 + 2P = 6 × 11 = 66 ⇒ 2P = 14 ⇒ P = 7.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "If the mean is 8, find p: x: 3, 5, 7, 9, 11, 13; f: 6, 8, 15, p, 8, 4.",
+          "answer": "Σf = 41 + p. Σfx = 18 + 40 + 105 + 9p + 88 + 52 = 303 + 9p.\n8(41 + p) = 303 + 9p ⇒ 328 + 8p = 303 + 9p ⇒ p = 25.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "If the mean is 6.4, find p: x: 2, 4, 6, 8, 10, 12; f: 3, p, 5, 3, 2, 1.",
+          "answer": "Σf = 14 + p. Σfx = 6 + 4p + 30 + 24 + 20 + 12 = 92 + 4p.\n6.4(14 + p) = 92 + 4p ⇒ 89.6 + 6.4p = 92 + 4p ⇒ 2.4p = 2.4 ⇒ p = 1.",
+          "years": [
+            "April 2021"
+          ]
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "If the mean is 20, find p: x: 15, 17, 19, 20 + p, 23; f: 2, 3, 4, 5p, 6.",
+          "answer": "Σf = 15 + 5p. Σfx = 30 + 51 + 76 + 5p(20 + p) + 138 = 295 + 100p + 5p².\n20(15 + 5p) = 300 + 100p ⇒ 295 + 100p + 5p² = 300 + 100p ⇒ 5p² = 5 ⇒ p = 1.",
+          "years": [
+            "April 2019"
+          ]
+        },
+        {
+          "id": "5.5",
+          "type": "open",
+          "q": "Find the median weight of 30 students: 40–45: 2, 45–50: 3, 50–55: 8, 55–60: 6, 60–65: 6, 65–70: 3, 70–75: 2.",
+          "answer": "N = 30, N/2 = 15. cf: 2, 5, 13, 19, 25, 28, 30. Median class 55–60.\nl = 55, cf = 13, f = 6, h = 5.\nMedian = 55 + (15 − 13)/6 × 5 = 55 + 1.67 = 56.67 kg.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "5.6",
+          "type": "open",
+          "q": "The mean of the distribution is 35 and Σf = 25. Find x₁ and x₂: classes 0–10, 10–20, …, 60–70; f: 1, x₁, 5, 7, x₂, 3, 1.",
+          "answer": "Σf: 17 + x₁ + x₂ = 25 ⇒ x₁ + x₂ = 8.\nClass marks 5, 15, …, 65: Σfx = 5 + 15x₁ + 125 + 245 + 45x₂ + 165 + 65 = 605 + 15x₁ + 45x₂ = 35 × 25 = 875.\n15x₁ + 45x₂ = 270 ⇒ x₁ + 3x₂ = 18. Subtract: 2x₂ = 10 ⇒ x₂ = 5, x₁ = 3.",
+          "years": [
+            "October 2017"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 6,
+      "title": "Long answer questions.",
+      "marks": "4 × 5 = 20",
+      "questions": [
+        {
+          "id": "6.1",
+          "type": "open",
+          "q": "An insurance company recorded the ages at death: 0–10: 2, 10–20: 12, 20–30: 55, 30–40: 95, 40–50: 71, 50–60: 42, 60–70: 16, 70–80: 7. Find the mean age.",
+          "answer": "Class marks: 5, 15, 25, 35, 45, 55, 65, 75. N = 300.\nfx: 10, 180, 1375, 3325, 3195, 2310, 1040, 525; Σfx = 11,960.\nMean = 11960/300 = 39.87 years.",
+          "years": [
+            "April 2023"
+          ]
+        },
+        {
+          "id": "6.2",
+          "type": "open",
+          "q": "Find the median and mode of: x: 5, 10, 15, 20, 25, 30, 35, 40; f: 3, 7, 12, 20, 28, 31, 28, 26.",
+          "answer": "N = 155 ⇒ median is the 78th value.\ncf: 3, 10, 22, 42, 70, 101, 129, 155. The 78th lies at x = 30. Median = 30.\nThe highest frequency is 31, at x = 30. Mode = 30.",
+          "years": [
+            "October 2016"
+          ]
+        },
+        {
+          "id": "6.3",
+          "type": "open",
+          "q": "Find the mean of: 150–160: 5, 160–170: 8, 170–180: 15, 180–190: 10, 190–200: 2.",
+          "answer": "Class marks 155, 165, 175, 185, 195; N = 40.\nfx: 775, 1320, 2625, 1850, 390; Σfx = 6960.\nMean = 6960/40 = 174.\n(Step deviation with a = 175, h = 10: u = −2, −1, 0, 1, 2; Σfu = −10 − 8 + 0 + 10 + 4 = −4; mean = 175 + (−4/40) × 10 = 174.)",
+          "years": [
+            "April 2016"
+          ]
+        },
+        {
+          "id": "6.4",
+          "type": "open",
+          "q": "Find the mean of: 100–200: 3, 200–300: 5, 300–400: 8, 400–500: 6, 500–600: 5, 600–700: 3.",
+          "answer": "Class marks 150, 250, 350, 450, 550, 650; N = 30.\nfx: 450, 1250, 2800, 2700, 2750, 1950; Σfx = 11,900.\nMean = 11900/30 = 396.67.",
+          "years": [
+            "April 2017"
+          ]
+        }
+      ]
+    }
+  ]
+}

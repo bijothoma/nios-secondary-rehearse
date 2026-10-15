@@ -1,0 +1,96 @@
+{
+  "subject": "maths",
+  "lesson": 25,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 25: Measures of Central Tendency — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Measures of central tendency"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Mean, median and mode are single values that represent the centre of a set of data. Range, class mark and frequency are not measures of central tendency."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Mean"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Raw data: mean x̄ = (sum of observations)/(number of observations). The first five primes 2, 3, 5, 7, 11 have mean 28/5 = 5.6; the first five multiples of 7 have mean 105/5 = 21. If each observation is increased by k, the mean increases by k. A wrongly copied value is corrected by fixing the total: 9 observations with mean 35 total 315; reading 81 as 18 lost 63, so the true mean is 378/9 = 42."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Ungrouped (discrete) frequency data: x̄ = Σfᵢxᵢ/Σfᵢ. Grouped data: take each class mark (midpoint) as xᵢ and use the same formula (direct method). Assumed mean method: x̄ = a + Σfᵢdᵢ/N with dᵢ = xᵢ − a; step deviation: x̄ = a + (Σfᵢuᵢ/N) × h with uᵢ = (xᵢ − a)/h. To find a missing frequency or value p, write Σfx and Σf in terms of p, set Σfx = x̄ × Σf, and solve."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Median"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Arrange the data in order. If n is odd, the median is the ((n + 1)/2)th value; if n is even, it is the mean of the (n/2)th and (n/2 + 1)th values. The median of 10, 12, 14, 16, 18, 20 is (14 + 16)/2 = 15. For a frequency table, make the cumulative frequency (cf) column and find the value whose cf first reaches the required position. For grouped data (asked in some papers), the median class is the one whose cf first reaches N/2, and median = l + ((N/2 − cf)/f) × h, where l is its lower limit, cf the cumulative frequency before it, f its frequency and h the class size."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Mode"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "The mode is the value that occurs most often (the one with the highest frequency). For 2, 7, 5, 9, 5, 7, 8, 11, 5 the mode is 5. Empirical relation for moderately skewed data: mode = 3 median − 2 mean (mean 27, mode 45 ⇒ median 33)."
+        ]
+      ]
+    }
+  ]
+}

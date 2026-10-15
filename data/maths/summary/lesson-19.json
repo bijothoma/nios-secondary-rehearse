@@ -1,0 +1,114 @@
+{
+  "subject": "maths",
+  "lesson": 19,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 19: Co-ordinate Geometry — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Coordinates and quadrants"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Two perpendicular number lines, the x-axis and the y-axis, meet at the origin O(0, 0). A point is written (x, y): x (abscissa) is its distance from the y-axis and y (ordinate) its distance from the x-axis, with signs. So P(−2, 3) is 2 units from the y-axis and 3 units from the x-axis. Every point on the x-axis has y = 0, and every point on the y-axis has x = 0."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "The axes divide the plane into four quadrants: I (+, +), II (−, +), III (−, −), IV (+, −). (4, −2) lies in quadrant IV, (−5, 2) in II, and (0, −4) is not in any quadrant — it lies on the y-axis."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Distance formula"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "The distance between A(x₁, y₁) and B(x₂, y₂) is AB = √[(x₂ − x₁)² + (y₂ − y₁)²]. From the origin: √(x² + y²). Example: (2, −2) and (−1, x) are 5 apart ⇒ 9 + (x + 2)² = 25 ⇒ x = 2 or −6. Use it to find radii (centre to a point on the circle), perimeters, to test the type of a triangle, and to show three points are collinear (the two shorter distances add up to the longest)."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Section formula"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "The point dividing the join of A(x₁, y₁) and B(x₂, y₂) internally in the ratio m : n is ((mx₂ + nx₁)/(m + n), (my₂ + ny₁)/(m + n)). The midpoint (ratio 1 : 1) is ((x₁ + x₂)/2, (y₁ + y₂)/2). To find the ratio in which an axis divides AB, take the ratio k : 1 and put the x-coordinate (y-axis) or the y-coordinate (x-axis) equal to 0."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Centroid"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "The medians of a triangle meet at the centroid G, which divides each median in the ratio 2 : 1. For vertices (x₁, y₁), (x₂, y₂), (x₃, y₃): G = ((x₁ + x₂ + x₃)/3, (y₁ + y₂ + y₃)/3)."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Area of a triangle (used in past papers)"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Area = ½ |x₁(y₂ − y₃) + x₂(y₃ − y₁) + x₃(y₁ − y₂)|. If the area is 0 the points are collinear. A quadrilateral's area is found by splitting it into two triangles along a diagonal."
+        ]
+      ]
+    }
+  ]
+}

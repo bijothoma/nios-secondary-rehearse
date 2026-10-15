@@ -1,0 +1,494 @@
+{
+  "subject": "maths",
+  "lesson": 5,
+  "title": "Linear Equations",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Every answer shows the working. Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "11 × 1 = 11",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "Which of the following is NOT a linear equation?",
+          "options": [
+            "2x + 3 = 7",
+            "x − y = 4",
+            "3x = 9",
+            "5x + 7"
+          ],
+          "answer": "D",
+          "years": [
+            "April 2026"
+          ],
+          "work": "An equation must have an '=' sign joining two expressions.\n2x + 3 = 7, x − y = 4 and 3x = 9 are equations of degree one.\n5x + 7 is only an expression — it is not an equation at all."
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "Which of the following is NOT a linear equation?",
+          "options": [
+            "x + y = 7",
+            "2x − 3y = 1",
+            "x + y² = 7 − 2x",
+            "y = 5"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2024"
+          ],
+          "work": "A linear equation has every variable with power 1.\nIn x + y² = 7 − 2x the term y² has degree 2, so it is not linear."
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "The solution of 2x + 3y + 5 = 0 and 3x − 2y − 12 = 0 is —",
+          "options": [
+            "x = −3, y = 2",
+            "x = 2, y = −3",
+            "x = 3, y = −2",
+            "x = −2, y = 3"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2023"
+          ],
+          "work": "Multiply the first by 2 and the second by 3: 4x + 6y + 10 = 0 and 9x − 6y − 36 = 0.\nAdd: 13x − 26 = 0 ⇒ x = 2.\nThen 2(2) + 3y + 5 = 0 ⇒ 3y = −9 ⇒ y = −3.\nCheck: 3(2) − 2(−3) − 12 = 6 + 6 − 12 = 0 ✓."
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "The graph of y = −3 is a line —",
+          "options": [
+            "parallel to the y-axis",
+            "parallel to the x-axis",
+            "through the origin",
+            "making 45° with the x-axis"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2026"
+          ],
+          "work": "On y = −3 every point has y-coordinate −3, e.g. (0, −3), (5, −3).\nAll the points are at the same height, so the line is parallel to the x-axis, 3 units below it."
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "The line 2x + 3y = 6 meets the y-axis at —",
+          "options": [
+            "(3, 0)",
+            "(0, 2)",
+            "(0, 3)",
+            "(2, 0)"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2025"
+          ],
+          "work": "On the y-axis x = 0.\n2(0) + 3y = 6 ⇒ y = 2.\nSo the line meets the y-axis at (0, 2)."
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "The coefficient of y in 5(2x − 4) + 3x + 4y − 7 = 0 is —",
+          "options": [
+            "3",
+            "4",
+            "13",
+            "0"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2025"
+          ],
+          "work": "Expand: 10x − 20 + 3x + 4y − 7 = 0 ⇒ 13x + 4y − 27 = 0.\nThe coefficient of y is 4."
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "The pair kx + 2y = 5 and 3x + y = 1 has no solution when k is —",
+          "options": [
+            "3",
+            "6",
+            "2",
+            "−6"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2025"
+          ],
+          "work": "No solution means parallel lines: a₁/a₂ = b₁/b₂ ≠ c₁/c₂.\nk/3 = 2/1 ⇒ k = 6.\nCheck c₁/c₂ = 5/1 = 5 ≠ 2, so the lines are parallel, not the same. k = 6."
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "If the difference of two numbers is 5 and the smaller is 36, the greater is —",
+          "options": [
+            "31",
+            "41",
+            "180",
+            "36"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2024"
+          ],
+          "work": "Let the greater be x and the smaller y: x − y = 5.\nx − 36 = 5 ⇒ x = 41."
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "The point (4, 3) on the line 3x + 7y = 27 —",
+          "options": [
+            "lies on the line",
+            "does not lie on the line",
+            "is the y-intercept",
+            "is the x-intercept"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2026"
+          ],
+          "work": "Put x = 4, y = 3: 3(4) + 7(3) = 12 + 21 = 33.\n33 ≠ 27, so (4, 3) does not lie on the line."
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "The equations x + 2y = 4 and 2x + 4y = 8 have —",
+          "options": [
+            "a unique solution",
+            "no solution",
+            "infinitely many solutions",
+            "exactly two solutions"
+          ],
+          "answer": "C",
+          "work": "a₁/a₂ = 1/2, b₁/b₂ = 2/4 = 1/2, c₁/c₂ = 4/8 = 1/2.\nAll three ratios are equal, so the lines coincide: infinitely many solutions."
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "The solution of x/2 + 3 = 7 is —",
+          "options": [
+            "x = 2",
+            "x = 8",
+            "x = 20",
+            "x = 4"
+          ],
+          "answer": "B",
+          "work": "x/2 = 7 − 3 = 4.\nx = 4 × 2 = 8."
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark (fill in the blanks, match the columns or true/false).",
+      "marks": "6 × 2 = 12",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "Match: (i) The coefficient of y in 5(2x − 4) + 3x + 4y − 7 = 0 is ____ (ii) When y = 3 is written as ax + by + c = 0, a is ____ — (A) 0 (B) 3 (C) 4",
+          "answer": "(i) Expanding: 13x + 4y − 27 = 0, so the coefficient of y is 4 → (C).\n(ii) y = 3 is 0·x + 1·y − 3 = 0, so a = 0 → (A).",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Write True or False: (i) The graph of 2x + 3y = 6 cuts the y-axis at (0, 2). (ii) The graph of x = 2 is a line parallel to the x-axis.",
+          "answer": "(i) True: x = 0 gives 3y = 6, y = 2.\n(ii) False: on x = 2 every point has x = 2, so it is parallel to the y-axis.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "Fill in the blanks: (i) 2x + 3y = 7 and (p − 1)x + (p + 2)y = 3p have infinitely many solutions when p = ____. (ii) kx + 2y = 5 and 3x + y = 1 have no solution when k = ____.",
+          "answer": "(i) Infinitely many: 2/(p − 1) = 3/(p + 2) = 7/(3p).\n2(p + 2) = 3(p − 1) ⇒ 2p + 4 = 3p − 3 ⇒ p = 7. Check: 3/9 = 1/3 and 7/21 = 1/3 ✓. So p = 7.\n(ii) No solution: k/3 = 2/1 ≠ 5/1 ⇒ k = 6.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Write True or False: (i) The point (4, 3) lies on 3x + 7y = 27. (ii) The graph of y = −3 is parallel to the x-axis.",
+          "answer": "(i) False: 3(4) + 7(3) = 33 ≠ 27.\n(ii) True: every point on it has y = −3.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "'MATHSBOLA' — Fill in the blanks: (i) 'The difference of two numbers is 5' as an equation is ____. (ii) If the smaller number is 36, the greater is ____.",
+          "answer": "(i) Let the greater be x and the smaller y: x − y = 5.\n(ii) x − 36 = 5 ⇒ x = 41.",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "Fill in the blanks: (i) The solution of 3x + 4y = 17 and 4x − 3y = 6 is x = ____, y = ____. (ii) The line 3x − 2y = 12 cuts the x-axis at ____.",
+          "answer": "(i) ×3 and ×4: 9x + 12y = 51 and 16x − 12y = 24; add: 25x = 75 ⇒ x = 3; then 4y = 17 − 9 = 8 ⇒ y = 2.\n(ii) y = 0: 3x = 12 ⇒ x = 4, so (4, 0).",
+          "years": [
+            "October 2021"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Case study: read the information and answer the questions that follow.",
+      "marks": "5 × 1 = 5",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "mcq",
+          "q": "Riya's purchase gives the equation —",
+          "options": [
+            "x + 2y = 70",
+            "2x + y = 70",
+            "2x + 2y = 70",
+            "x + y = 70"
+          ],
+          "answer": "B",
+          "work": "2 sandwiches cost 2x and 1 juice costs y: 2x + y = 70."
+        },
+        {
+          "id": "3.2",
+          "type": "mcq",
+          "q": "Aman's purchase gives the equation —",
+          "options": [
+            "x + 2y = 60",
+            "2x + y = 60",
+            "x + y = 60",
+            "2x − y = 60"
+          ],
+          "answer": "A",
+          "work": "1 sandwich + 2 juices: x + 2y = 60."
+        },
+        {
+          "id": "3.3",
+          "type": "mcq",
+          "q": "Adding the two equations gives x + y = —",
+          "options": [
+            "130",
+            "65",
+            "43.33",
+            "10"
+          ],
+          "answer": "C",
+          "work": "(2x + y) + (x + 2y) = 70 + 60 ⇒ 3x + 3y = 130 ⇒ x + y = 130/3 ≈ 43.33."
+        },
+        {
+          "id": "3.4",
+          "type": "mcq",
+          "q": "The cost of one sandwich is —",
+          "options": [
+            "₹20",
+            "₹26.67",
+            "₹30",
+            "₹16.67"
+          ],
+          "answer": "B",
+          "work": "From 2x + y = 70, y = 70 − 2x. Put in x + 2y = 60: x + 140 − 4x = 60 ⇒ 3x = 80 ⇒ x = 26.67 (₹80/3)."
+        },
+        {
+          "id": "3.5",
+          "type": "mcq",
+          "q": "The cost of one juice is —",
+          "options": [
+            "₹16.67",
+            "₹20",
+            "₹26.67",
+            "₹10"
+          ],
+          "answer": "A",
+          "work": "y = 70 − 2 × 80/3 = 70 − 160/3 = 50/3 ≈ ₹16.67.\nCheck: 80/3 + 2 × 50/3 = 180/3 = 60 ✓."
+        }
+      ],
+      "fixed": true,
+      "passage": "A school canteen sells sandwiches and juice. Riya pays ₹70 for 2 sandwiches and 1 juice. Aman pays ₹60 for 1 sandwich and 2 juices. Let one sandwich cost ₹x and one juice ₹y."
+    },
+    {
+      "no": 4,
+      "title": "Very short answer questions.",
+      "marks": "6 × 2 = 12",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "1 table and 3 chairs cost ₹3,000; 2 tables and 1 chair cost ₹3,750. Find the cost of a table and of a chair.",
+          "answer": "Let a table cost ₹t and a chair ₹c.\nt + 3c = 3000 …(1); 2t + c = 3750 …(2).\nFrom (1), t = 3000 − 3c. Put in (2): 6000 − 6c + c = 3750 ⇒ 5c = 2250 ⇒ c = 450.\nt = 3000 − 1350 = 1650.\nA table costs ₹1,650 and a chair ₹450.",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "Solve 3x − y = 5 and 4x + 3y = 11.",
+          "answer": "From the first, y = 3x − 5.\nSubstitute: 4x + 3(3x − 5) = 11 ⇒ 13x − 15 = 11 ⇒ x = 2.\ny = 3(2) − 5 = 1.\nSolution: x = 2, y = 1.",
+          "years": [
+            "April 2022"
+          ]
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "Solve by elimination: 2x + 3y = 13 and 5x − 7y = −11.",
+          "answer": "Multiply the first by 5 and the second by 2: 10x + 15y = 65 and 10x − 14y = −22.\nSubtract: 29y = 87 ⇒ y = 3.\n2x + 9 = 13 ⇒ x = 2.\nCheck: 5(2) − 7(3) = 10 − 21 = −11 ✓. Solution x = 2, y = 3.",
+          "years": [
+            "April 2017",
+            "April 2021"
+          ]
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "The perimeter of a rectangular garden is 20 m and its length is 4 m more than its breadth. Find its length, breadth and area.",
+          "answer": "Let breadth = b, length = b + 4.\n2(l + b) = 20 ⇒ (b + 4) + b = 10 ⇒ 2b = 6 ⇒ b = 3.\nLength = 7 m, breadth = 3 m, area = 7 × 3 = 21 m².",
+          "years": [
+            "October 2016"
+          ]
+        },
+        {
+          "id": "4.5",
+          "type": "open",
+          "q": "Solve x − 2y = 7 and 3x + y = 35.",
+          "answer": "From the first, x = 7 + 2y.\n3(7 + 2y) + y = 35 ⇒ 21 + 7y = 35 ⇒ y = 2.\nx = 7 + 4 = 11. Solution x = 11, y = 2.",
+          "years": [
+            "April 2016"
+          ]
+        },
+        {
+          "id": "4.6",
+          "type": "open",
+          "q": "For what value of k will 3x + y = 1 and (2k − 1)x + (k − 1)y = 2k + 1 have no solution?",
+          "answer": "No solution: 3/(2k − 1) = 1/(k − 1) ≠ 1/(2k + 1).\n3(k − 1) = 2k − 1 ⇒ 3k − 3 = 2k − 1 ⇒ k = 2.\nCheck: 1/(k − 1) = 1 and 1/(2k + 1) = 1/5; they differ, so the lines are parallel. k = 2."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Short answer questions.",
+      "marks": "6 × 3 = 18",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "Solve graphically: x + y = 7, x − y = −1.",
+          "answer": "x + y = 7: points (0, 7), (7, 0), (3, 4).\nx − y = −1 (y = x + 1): points (0, 1), (−1, 0), (3, 4).\nPlot both lines on the same graph; they intersect at (3, 4).\nSolution: x = 3, y = 4. Check: 3 + 4 = 7 ✓ and 3 − 4 = −1 ✓.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "Solve graphically: x + y = 5, x − y = 1.",
+          "answer": "x + y = 5: points (0, 5), (5, 0), (3, 2).\nx − y = 1 (y = x − 1): points (1, 0), (0, −1), (3, 2).\nThe lines meet at (3, 2). Solution: x = 3, y = 2.\nCheck: 3 + 2 = 5 ✓ and 3 − 2 = 1 ✓.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "Solve graphically: x + y = 7, x − y = 1.",
+          "answer": "x + y = 7: (0, 7), (7, 0), (4, 3).\nx − y = 1: (1, 0), (0, −1), (4, 3).\nThe lines meet at (4, 3). Solution x = 4, y = 3.",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "Solve graphically: x + y = 5, x − y = 3.",
+          "answer": "x + y = 5: (0, 5), (5, 0), (4, 1).\nx − y = 3: (3, 0), (0, −3), (4, 1).\nThe lines meet at (4, 1). Solution x = 4, y = 1.",
+          "years": [
+            "April 2024",
+            "April 2019"
+          ],
+          "note": "April 2019 asked x − y = 3, x + y = 5 — the same pair."
+        },
+        {
+          "id": "5.5",
+          "type": "open",
+          "q": "Solve graphically: 2x − 3y = 6, 2x + y = −10.",
+          "answer": "2x − 3y = 6: (3, 0), (0, −2), (−3, −4).\n2x + y = −10: (−5, 0), (0, −10), (−3, −4).\nThe lines meet at (−3, −4). Solution x = −3, y = −4.\nCheck: 2(−3) − 3(−4) = −6 + 12 = 6 ✓; 2(−3) + (−4) = −10 ✓.",
+          "years": [
+            "April 2021"
+          ]
+        },
+        {
+          "id": "5.6",
+          "type": "open",
+          "q": "Solve: 3x + 4y = 17, 4x − 3y = 6.",
+          "answer": "Multiply the first by 3 and the second by 4: 9x + 12y = 51 and 16x − 12y = 24.\nAdd: 25x = 75 ⇒ x = 3.\n3(3) + 4y = 17 ⇒ 4y = 8 ⇒ y = 2.\nSolution x = 3, y = 2.",
+          "years": [
+            "October 2021"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 6,
+      "title": "Long answer questions.",
+      "marks": "4 × 5 = 20",
+      "questions": [
+        {
+          "id": "6.1",
+          "type": "open",
+          "q": "Solve graphically: 2x + y − 6 = 0 and x − 2y = −2.",
+          "answer": "2x + y = 6 (y = 6 − 2x): x = 0 → y = 6; x = 3 → y = 0; x = 2 → y = 2.\nx − 2y = −2 (y = (x + 2)/2): x = 0 → y = 1; x = −2 → y = 0; x = 2 → y = 2.\nPlot both lines on the same graph paper (1 cm = 1 unit). They cross at (2, 2).\nSolution: x = 2, y = 2. Check: 2(2) + 2 − 6 = 0 ✓; 2 − 4 = −2 ✓.",
+          "years": [
+            "October 2025"
+          ],
+          "or": {
+            "q": "If the length of a rectangle is reduced by 5 units and the breadth increased by 3 units, the area falls by 9 sq units. If the length is increased by 3 and the breadth by 2, the area grows by 67 sq units. Find the length and breadth.",
+            "answer": "Let length = l, breadth = b.\n(l − 5)(b + 3) = lb − 9 ⇒ 3l − 5b − 15 = −9 ⇒ 3l − 5b = 6 …(1)\n(l + 3)(b + 2) = lb + 67 ⇒ 2l + 3b + 6 = 67 ⇒ 2l + 3b = 61 …(2)\n(1) × 3: 9l − 15b = 18; (2) × 5: 10l + 15b = 305. Add: 19l = 323 ⇒ l = 17.\n3(17) − 5b = 6 ⇒ 5b = 45 ⇒ b = 9.\nLength 17 units, breadth 9 units."
+          }
+        },
+        {
+          "id": "6.2",
+          "type": "open",
+          "q": "The sum of the digits of a two-digit number is 11. If the digits are reversed, the new number is 27 less than the original. Find the number.",
+          "answer": "Let the tens digit be x and the units digit y; the number is 10x + y.\nx + y = 11 …(1)\n(10x + y) − (10y + x) = 27 ⇒ 9x − 9y = 27 ⇒ x − y = 3 …(2)\nAdd: 2x = 14 ⇒ x = 7; y = 4.\nThe number is 74. Check: 74 − 47 = 27 ✓.",
+          "years": [
+            "April 2023"
+          ]
+        },
+        {
+          "id": "6.3",
+          "type": "open",
+          "q": "2 men and 7 boys can do a piece of work in 4 days; 4 men and 4 boys can do it in 3 days. How long would one man alone, or one boy alone, take?",
+          "answer": "Let a man do 1/m and a boy 1/b of the work in a day; put u = 1/m, v = 1/b.\n4 days: 4(2u + 7v) = 1 ⇒ 8u + 28v = 1 …(1)\n3 days: 3(4u + 4v) = 1 ⇒ 12u + 12v = 1 …(2)\nFrom (2): u = 1/12 − v. Put in (1): 8/12 − 8v + 28v = 1 ⇒ 20v = 1/3 ⇒ v = 1/60.\nu = 1/12 − 1/60 = 4/60 = 1/15.\nA man alone takes 15 days and a boy alone 60 days.",
+          "years": [
+            "October 2019"
+          ]
+        },
+        {
+          "id": "6.4",
+          "type": "open",
+          "q": "Three years ago Sunil was four times as old as his sister Shruti. Five years from now he will be twice her age. Find their present ages, and the father's present age if he was 25 when Sunil was born.",
+          "answer": "Let Sunil be S and Shruti R years old now.\nS − 3 = 4(R − 3) ⇒ S = 4R − 9 …(1)\nS + 5 = 2(R + 5) ⇒ S = 2R + 5 …(2)\n4R − 9 = 2R + 5 ⇒ 2R = 14 ⇒ R = 7; S = 19.\nFather = 19 + 25 = 44 years.\nSunil 19, Shruti 7, father 44.",
+          "years": [
+            "October 2017"
+          ]
+        }
+      ]
+    }
+  ]
+}

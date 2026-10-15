@@ -1,0 +1,96 @@
+{
+  "subject": "maths",
+  "lesson": 4,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 4: Special Products and Factorization — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Special products"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "These products come up again and again — learn them by heart:\n(x + y)² = x² + 2xy + y²\n(x − y)² = x² − 2xy + y²\n(x + y)(x − y) = x² − y²\n(x + a)(x + b) = x² + (a + b)x + ab\n(ax + b)(cx + d) = acx² + (ad + bc)x + bd\n(x + y)³ = x³ + y³ + 3xy(x + y)\n(x − y)³ = x³ − y³ − 3xy(x − y)\n(x + y)(x² − xy + y²) = x³ + y³\n(x − y)(x² + xy + y²) = x³ − y³"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Useful results: (x + y)² + (x − y)² = 2(x² + y²) and (x + y)² − (x − y)² = 4xy. If x + 1/x = k, then x² + 1/x² = k² − 2 and x³ + 1/x³ = k³ − 3k. If x − 1/x = k, then x² + 1/x² = k² + 2."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Factorization"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Factorizing a polynomial means writing it as a product of polynomials (its factors); it is completely factorized when no factor can be split further. Methods: (1) take out a common monomial factor — 6x² + 9x = 3x(2x + 3); (2) group the terms — 1 + x + xy + x²y = (1 + x) + xy(1 + x) = (1 + x)(1 + xy); (3) use the identities — a² − b², perfect squares, a³ + b³ = (a + b)(a² − ab + b²), a³ − b³ = (a − b)(a² + ab + b²); (4) split the middle term of ax² + bx + c: find two numbers whose product is ac and whose sum is b — for 3x² − x − 4, ac = −12, the numbers are −4 and 3, so 3x² − 4x + 3x − 4 = x(3x − 4) + 1(3x − 4) = (3x − 4)(x + 1)."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "HCF and LCM of polynomials"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Factorize each polynomial completely. The HCF is the product of the common factors, each taken with its lowest power; the LCM is the product of all the factors, each taken with its highest power. For monomials take the HCF/LCM of the numbers and of each letter: HCF(4x²y³, x³y²) = x²y², LCM = 4x³y³. For two polynomials, HCF × LCM = product of the polynomials (up to a constant)."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Rational expressions"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "A rational expression is P/Q where P and Q are polynomials and Q ≠ 0, e.g. (x² + 1)/(x − 2). Add, subtract, multiply and divide them like fractions: factorize every numerator and denominator, cancel common factors, and to divide multiply by the reciprocal. A rational expression is in its lowest terms when the numerator and denominator have no common factor."
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "subject": "maths",
+  "lesson": 7,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 7: Arithmetic Progressions — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "What an A.P. is"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "A list of numbers in which each term after the first is obtained by adding the same fixed number to the term before it is an arithmetic progression (A.P.). The first term is a and the fixed number is the common difference d = (any term) − (the term before it); d can be positive, negative or zero. 6, 7, 8, 9, … (d = 1), 10, 5, 0, −5, … (d = −5) and 2, 2, 2, … (d = 0) are A.P.s; 3, 7, 12, 18, … is not, because the differences 4, 5, 6 are not equal."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Three numbers a, b, c are in A.P. when b − a = c − b, i.e. 2b = a + c (the middle term is the average of the other two). So if 2p + 1, 13, 5p − 3 are in A.P., 26 = 7p − 2 and p = 4. When three terms of an A.P. must be found from their sum, take them as a − d, a, a + d."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "The nth term"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "aₙ = a + (n − 1)d. Example: in −3, 4, 11, …, a = −3, d = 7, so a₂₁ = −3 + 20 × 7 = 137. To find how many terms a finite A.P. has, put the last term l = a + (n − 1)d and solve for n. The nth term from the end of an A.P. with last term l is l − (n − 1)d: the 9th term from the end of 7, 11, …, 147 is 147 − 8 × 4 = 115."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Sum of n terms"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Sₙ = n/2 [2a + (n − 1)d], or Sₙ = n/2 (a + l) when the last term l is known. The sum of the first n natural numbers is n(n + 1)/2 and of the first n odd numbers is n². If Sₙ is given, form the equation and solve for n (it may be quadratic; reject negative or fractional n). The nth term can also be found as aₙ = Sₙ − Sₙ₋₁."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Using A.P.s"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Rows of plants decreasing by 2 in each row, prizes each ₹20 less than the one before, savings increasing by a fixed amount, and numbers leaving a fixed remainder on division (2-digit numbers leaving remainder 1 when divided by 4 are 13, 17, …, 97) all form A.P.s."
+        ]
+      ]
+    }
+  ]
+}

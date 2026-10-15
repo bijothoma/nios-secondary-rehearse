@@ -1,0 +1,673 @@
+{
+  "subject": "maths",
+  "lesson": 901,
+  "title": "Model Question Paper 1",
+  "meta": "Time: 2½ hours · Maximum marks: 85 · Modelled on the April 2026 NIOS paper",
+  "instructions": [
+    "All questions are compulsory. Where a question has OR, answer either one.",
+    "Section A: questions 1–17 are MCQs (1 mark each); questions 18–27 have two parts of 1 mark each; question 28 is a case study with five 1-mark questions.",
+    "Section B: questions 29–37 carry 2 marks, 38–42 carry 3 marks and 43–44 carry 5 marks.",
+    "Every answer shows the working. Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "17 × 1 = 17",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "The factors of 3x² − x − 4 are —",
+          "options": [
+            "(3x + 4)(x − 1)",
+            "(3x − 4)(x + 1)",
+            "(3x − 1)(x + 4)",
+            "(3x + 1)(x − 4)"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2025"
+          ],
+          "work": "Product ac = 3 × (−4) = −12; we need two numbers with product −12 and sum −1: they are −4 and 3.\n3x² − x − 4 = 3x² − 4x + 3x − 4\n= x(3x − 4) + 1(3x − 4) = (3x − 4)(x + 1).",
+          "note": "Lesson 4."
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "The HCF of two numbers is 3 and their LCM is 21. If one number is 7, the other is —",
+          "options": [
+            "1",
+            "3",
+            "7",
+            "9"
+          ],
+          "answer": "D",
+          "years": [
+            "April 2016"
+          ],
+          "work": "Product of the numbers = HCF × LCM = 3 × 21 = 63.\nOther number = 63 ÷ 7 = 9.",
+          "note": "Lesson 4."
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "The solution of 2x + 3y + 5 = 0 and 3x − 2y − 12 = 0 is —",
+          "options": [
+            "x = −3, y = 2",
+            "x = 2, y = −3",
+            "x = 3, y = −2",
+            "x = −2, y = 3"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2023"
+          ],
+          "work": "Multiply the first by 2 and the second by 3: 4x + 6y + 10 = 0 and 9x − 6y − 36 = 0.\nAdd: 13x − 26 = 0 ⇒ x = 2.\nThen 2(2) + 3y + 5 = 0 ⇒ 3y = −9 ⇒ y = −3.\nCheck: 3(2) − 2(−3) − 12 = 6 + 6 − 12 = 0 ✓.",
+          "note": "Lesson 5."
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "The roots of 2x² − 3x + 5 = 0 are —",
+          "options": [
+            "real and equal",
+            "real and distinct",
+            "not real",
+            "rational"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2024"
+          ],
+          "work": "D = (−3)² − 4 × 2 × 5 = 9 − 40 = −31.\nD < 0, so the roots are not real.",
+          "note": "Lesson 6."
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "The number of terms in the A.P. 3, 17, 31, …, 101 is —",
+          "options": [
+            "7",
+            "8",
+            "9",
+            "14"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2024"
+          ],
+          "work": "a = 3, d = 14, l = 101.\n101 = 3 + (n − 1) × 14 ⇒ (n − 1) × 14 = 98 ⇒ n − 1 = 7 ⇒ n = 8.",
+          "note": "Lesson 7."
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "The number of illiterate people fell from 150 lakh to 100 lakh. The percentage decrease is —",
+          "options": [
+            "50%",
+            "25%",
+            "33⅓%",
+            "66⅔%"
+          ],
+          "answer": "C",
+          "years": [
+            "October 2024"
+          ],
+          "work": "Decrease = 150 − 100 = 50 lakh.\nPercentage decrease = 50/150 × 100 = 33⅓% (always divide by the original value).",
+          "note": "Lesson 8."
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "A chair costs ₹2,700 cash or ₹600 down plus 3 monthly instalments of ₹750. The extra money paid under the instalment plan is —",
+          "options": [
+            "₹100",
+            "₹150",
+            "₹250",
+            "₹750"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2025"
+          ],
+          "work": "Total under the plan = 600 + 3 × 750 = 600 + 2250 = ₹2,850.\nExtra (interest) = 2850 − 2700 = ₹150.",
+          "note": "Lesson 9."
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "AB is a diameter of a circle with centre O and ∠AOC = 120°. If D is on the circle on the other side of AB, then ∠BDC is —",
+          "options": [
+            "60°",
+            "30°",
+            "120°",
+            "90°"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2016"
+          ],
+          "work": "∠BOC = 180° − 120° = 60° (AOB is a straight line).\n∠BDC = ½∠BOC = 30°.",
+          "note": "Lesson 16."
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "A quadrilateral ABCD is drawn to circumscribe a circle with centre O. If ∠AOB = 125°, then ∠COD is —",
+          "options": [
+            "62.5°",
+            "45°",
+            "35°",
+            "55°"
+          ],
+          "answer": "D",
+          "years": [
+            "October 2022"
+          ],
+          "work": "For a quadrilateral circumscribing a circle, the angles subtended at the centre by opposite sides are supplementary: ∠AOB + ∠COD = 180°.\n∠COD = 180° − 125° = 55°.",
+          "note": "Lesson 17."
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "To construct a triangle similar to △ABC with sides 3/4 of it, the number of equal points to mark on the ray BX is at least —",
+          "options": [
+            "3",
+            "4",
+            "7",
+            "12"
+          ],
+          "answer": "B",
+          "work": "For a scale factor 3/4 we mark 4 points (the larger of 3 and 4), join the 4th to C, and draw the parallel through the 3rd.",
+          "note": "Lesson 18."
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "The point (4, −5) lies in quadrant —",
+          "options": [
+            "I",
+            "II",
+            "III",
+            "IV"
+          ],
+          "answer": "D",
+          "years": [
+            "April 2024",
+            "October 2021"
+          ],
+          "work": "x positive, y negative ⇒ quadrant IV.",
+          "note": "Lesson 19."
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "1 m² is equal to —",
+          "options": [
+            "100 cm²",
+            "1,000 cm²",
+            "10,000 cm²",
+            "1,00,000 cm²"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2026"
+          ],
+          "work": "1 m = 100 cm, so 1 m² = 100 cm × 100 cm = 10,000 cm².",
+          "note": "Lesson 20."
+        },
+        {
+          "id": "1.13",
+          "type": "mcq",
+          "q": "The total surface area of a solid hemisphere of radius 10 cm (π = 3.14) is —",
+          "options": [
+            "840 cm²",
+            "842 cm²",
+            "940 cm²",
+            "942 cm²"
+          ],
+          "answer": "D",
+          "years": [
+            "April 2025"
+          ],
+          "work": "TSA = 3πr² = 3 × 3.14 × 100 = 942 cm² (curved part 2πr² + flat circle πr²).",
+          "note": "Lesson 21."
+        },
+        {
+          "id": "1.14",
+          "type": "mcq",
+          "q": "cot²A − 1/sin²A is —",
+          "options": [
+            "tan²A",
+            "1",
+            "cot²A",
+            "−1"
+          ],
+          "answer": "D",
+          "years": [
+            "April 2017"
+          ],
+          "work": "1/sin²A = cosec²A, and cot²A − cosec²A = −(cosec²A − cot²A) = −1.",
+          "note": "Lesson 22."
+        },
+        {
+          "id": "1.15",
+          "type": "mcq",
+          "q": "sec 60° is —",
+          "options": [
+            "2",
+            "1/2",
+            "2/√3",
+            "√3"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2025"
+          ],
+          "work": "cos 60° = 1/2, so sec 60° = 2.",
+          "note": "Lesson 23."
+        },
+        {
+          "id": "1.16",
+          "type": "mcq",
+          "q": "The middle-most observation of ordered data is the —",
+          "options": [
+            "mean",
+            "median",
+            "mode",
+            "range"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2025"
+          ],
+          "work": "By definition the median is the middle value of data arranged in order.",
+          "note": "Lesson 25."
+        },
+        {
+          "id": "1.17",
+          "type": "mcq",
+          "q": "Two dice are thrown together. The probability of the same number on both is —",
+          "options": [
+            "1/36",
+            "1/6",
+            "1",
+            "5/6"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2016"
+          ],
+          "work": "Favourable: (1,1), (2,2), …, (6,6) = 6. Total 36. P = 6/36 = 1/6.",
+          "note": "Lesson 26."
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark (fill in the blanks, match the columns or true/false).",
+      "marks": "10 × 2 = 20",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "Fill in the blanks: (i) If a = 6 and d = 5, the 11th term is ____. (ii) The sum of the first ten terms of 7, 14, 21, 28, … is ____.",
+          "answer": "(i) a₁₁ = 6 + 10 × 5 = 56.\n(ii) a = 7, d = 7: S₁₀ = 10/2 [14 + 9 × 7] = 5 × 77 = 385.",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 7."
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Write True or False: (i) A number increased by 20% and then decreased by 20% returns to itself. (ii) 0.2% = 0.002.",
+          "answer": "(i) False: 1.2 × 0.8 = 0.96, a net decrease of 4%.\n(ii) True: 0.2/100 = 0.002.",
+          "years": [
+            "April 2017",
+            "April 2024"
+          ],
+          "note": "Lesson 8."
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "Fill in the blanks: (i) Under an instalment plan, the part paid at the time of purchase is the ____. (ii) Interest charged = sum of instalments − ____.",
+          "answer": "(i) cash down payment.\n(ii) balance (= cash price − cash down), because the instalments repay the balance plus interest.",
+          "note": "Lesson 9."
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Fill in the blanks: (i) In cyclic quadrilateral ABCD, ∠DAB = 110°, so ∠BCD = ____. (ii) AB is a chord of a circle with centre O, ∠OAB = 40° and C is on the major arc; ∠ACB = ____.",
+          "answer": "(i) Opposite angles are supplementary: 180° − 110° = 70°.\n(ii) OA = OB, so ∠OBA = 40° and ∠AOB = 180° − 80° = 100°; ∠ACB = ½ × 100° = 50°.",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 16."
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "Fill in the blanks (any two): (i) Common tangents to two non-intersecting circles ____ (ii) Tangents at a point on the circle ____ (iii) Tangents at the ends of a diameter are ____ (iv) Common tangents to two intersecting circles ____.",
+          "answer": "(i) 4. (ii) one. (iii) parallel (both are perpendicular to the same diameter). (iv) 2.",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Lesson 17."
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "Write True or False: (i) △ABC with BC = 3 cm, ∠C = 30° and AB − AC = 3.2 cm can be constructed. (ii) For the perpendicular bisector of AB, the compass must be opened to less than ½AB.",
+          "answer": "(i) False: we need AB − AC < BC, but 3.2 > 3.\n(ii) False: the radius must be more than ½AB so that the arcs from A and B meet.",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 18."
+        },
+        {
+          "id": "2.7",
+          "type": "open",
+          "q": "Match: (i) If P(−1, 1) is the midpoint of A(−3, b) and B(1, b + 4), b = ____ (ii) The perimeter of the triangle with vertices (0, 4), (0, 0), (3, 0) is ____ — (A) −1 (B) 12 (C) 1 (D) 7",
+          "answer": "(i) y: (b + b + 4)/2 = 1 ⇒ 2b + 4 = 2 ⇒ b = −1 → (A).\n(ii) Sides 4, 3 and √(9 + 16) = 5; perimeter = 12 → (B).",
+          "years": [
+            "October 2024"
+          ],
+          "note": "Lesson 19."
+        },
+        {
+          "id": "2.8",
+          "type": "open",
+          "q": "Fill in the blanks: (i) The hour hand of a clock turns through ____ in 30 minutes. (ii) The area swept by a 10 cm minute hand in 20 minutes is ____.",
+          "answer": "(i) The hour hand turns 30° per hour, so 15° in 30 minutes.\n(ii) 20 minutes = 120° = ⅓ of a turn: ⅓ × 22/7 × 10² = 2200/21 ≈ 104.76 cm².",
+          "years": [
+            "October 2024"
+          ],
+          "note": "Lesson 20."
+        },
+        {
+          "id": "2.9",
+          "type": "open",
+          "q": "Fill in the blanks: (i) A hemisphere whose volume and curved surface area are numerically equal has diameter ____. (ii) A cylindrical tank of capacity 6160 cm³ and diameter 28 cm has depth ____.",
+          "answer": "(i) (2/3)πr³ = 2πr² ⇒ r = 3, so the diameter is 6 units.\n(ii) r = 14: 22/7 × 196 × h = 6160 ⇒ 616h = 6160 ⇒ h = 10 cm.",
+          "years": [
+            "October 2024"
+          ],
+          "note": "Lesson 21."
+        },
+        {
+          "id": "2.10",
+          "type": "open",
+          "q": "Fill in the blank: (ii) sec θ(1 − sin θ)(sec θ + tan θ) = ____. Also, (i) cos 47° cot 79° − sin 43° tan 11° = ____.",
+          "answer": "(ii) sec θ(1 − sin θ) = sec θ − tan θ; (sec θ − tan θ)(sec θ + tan θ) = sec²θ − tan²θ = 1.\n(i) cos 47° = sin 43° and cot 79° = tan 11°, so the two terms are equal: 0.",
+          "years": [
+            "April 2026",
+            "April 2022"
+          ],
+          "note": "Lesson 22."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Case study: read the information and answer the questions that follow.",
+      "marks": "5 × 1 = 5",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "mcq",
+          "q": "The area of the whole garden is —",
+          "options": [
+            "x² + 25",
+            "x² + 10x + 25",
+            "x² + 5x + 25",
+            "x² − 10x + 25"
+          ],
+          "answer": "B",
+          "work": "Area = (x + 5)² = x² + 2 × x × 5 + 25 = x² + 10x + 25.",
+          "note": "Lesson 4."
+        },
+        {
+          "id": "3.2",
+          "type": "mcq",
+          "q": "The area of the flower bed is —",
+          "options": [
+            "x² − 25",
+            "x² − 10x + 25",
+            "x² + 10x − 25",
+            "x² − 5x + 25"
+          ],
+          "answer": "B",
+          "work": "Area = (x − 5)² = x² − 10x + 25."
+        },
+        {
+          "id": "3.3",
+          "type": "mcq",
+          "q": "The area of the grass is —",
+          "options": [
+            "20x",
+            "10x",
+            "50",
+            "20x + 50"
+          ],
+          "answer": "A",
+          "work": "(x + 5)² − (x − 5)² = 4 × x × 5 = 20x."
+        },
+        {
+          "id": "3.4",
+          "type": "mcq",
+          "q": "The volume of one box is —",
+          "options": [
+            "x³ + 1",
+            "x³ + 3x² + 3x + 1",
+            "x³ + 3x + 1",
+            "x³ + x² + x + 1"
+          ],
+          "answer": "B",
+          "work": "(x + 1)³ = x³ + 3x²(1) + 3x(1)² + 1³ = x³ + 3x² + 3x + 1."
+        },
+        {
+          "id": "3.5",
+          "type": "mcq",
+          "q": "If x = 10, the area of the grass is —",
+          "options": [
+            "100 m²",
+            "200 m²",
+            "150 m²",
+            "225 m²"
+          ],
+          "answer": "B",
+          "work": "Grass = 20x = 20 × 10 = 200 m².\nCheck: 15² − 5² = 225 − 25 = 200."
+        }
+      ],
+      "fixed": true,
+      "passage": "A school garden is a square of side (x + 5) m. A square flower bed of side (x − 5) m is made in one corner and the rest is grass. The gardener also stacks cube-shaped boxes of side (x + 1) m."
+    },
+    {
+      "no": 4,
+      "title": "Very short answer questions.",
+      "marks": "9 × 2 = 18",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "A table is available for ₹1,700 cash or ₹500 down and ₹1,400 after 2 months. Find the rate of interest charged.",
+          "answer": "Balance = 1700 − 500 = ₹1,200; interest = 1400 − 1200 = ₹200 for 2 months.\n200 = 1200 × R × (2/12)/100 = 2R ⇒ R = 100% per annum.",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 9."
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "O is the centre of a circle, ∠SOQ = 150° and P, R are on the circle so that PQRS is cyclic with P on the minor arc QS. Find x = ∠SRQ and y = ∠SPQ.",
+          "answer": "x = ½∠SOQ = ½ × 150° = 75° (angle on the major arc).\nPQRS is cyclic: y = 180° − x = 105°.",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 16."
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "PA and PB are tangents to a circle with PA = 14 cm. A third tangent CD touches the circle at E, with C on PA and D on PB. Find the perimeter of △PCD.",
+          "answer": "CE = CA and DE = DB (tangents from C and from D).\nPerimeter = PC + CD + PD = PC + CE + ED + PD = (PC + CA) + (DB + PD) = PA + PB = 14 + 14 = 28 cm.",
+          "years": [
+            "October 2024"
+          ],
+          "note": "Lesson 17."
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "Write the steps of construction of tangents to a circle of radius 3 cm from a point P 6 cm from its centre O.",
+          "answer": "1. Draw a circle of radius 3 cm with centre O.\n2. Mark P with OP = 6 cm and join OP.\n3. Draw the perpendicular bisector of OP; let it cut OP at M (OM = 3 cm).\n4. With centre M and radius MO draw a circle cutting the given circle at Q and R.\n5. Join PQ and PR — these are the tangents.\n6. Check: PQ = √(6² − 3²) = √27 ≈ 5.2 cm.",
+          "years": [
+            "October 2019",
+            "April 2016"
+          ],
+          "note": "Lesson 18."
+        },
+        {
+          "id": "4.5",
+          "type": "open",
+          "q": "Find the point dividing the join of A(−1, 4) and B(1, 3) internally in the ratio 2 : 3.",
+          "answer": "x = (2 × 1 + 3 × (−1))/5 = −1/5; y = (2 × 3 + 3 × 4)/5 = 18/5.\nThe point is (−1/5, 18/5).",
+          "years": [
+            "October 2024"
+          ],
+          "or": {
+            "q": "Find the centroid of the triangle with vertices A(−2, 4), B(7, −3) and C(4, 5).",
+            "answer": "G = ((−2 + 7 + 4)/3, (4 − 3 + 5)/3) = (9/3, 6/3) = (3, 2)."
+          },
+          "note": "Lesson 19."
+        },
+        {
+          "id": "4.6",
+          "type": "open",
+          "q": "A farmer buys a circular field at ₹700 per m² for ₹4,31,200. Find the perimeter of the field.",
+          "answer": "Area = 431200 ÷ 700 = 616 m².\nπr² = 616 ⇒ r² = 616 × 7/22 = 196 ⇒ r = 14 m.\nPerimeter = 2 × 22/7 × 14 = 88 m.",
+          "years": [
+            "October 2016"
+          ],
+          "note": "Lesson 20."
+        },
+        {
+          "id": "4.7",
+          "type": "open",
+          "q": "The radii of two cylinders are in the ratio 2 : 3 and their heights in the ratio 5 : 3. Find the ratio of their volumes.",
+          "answer": "V₁/V₂ = (r₁² h₁)/(r₂² h₂) = (4 × 5)/(9 × 3) = 20/27.\nRatio 20 : 27.",
+          "years": [
+            "October 2019"
+          ],
+          "note": "Lesson 21."
+        },
+        {
+          "id": "4.8",
+          "type": "open",
+          "q": "Prove that cos⁴A − sin⁴A = 1 − 2 sin²A.",
+          "answer": "cos⁴A − sin⁴A = (cos²A − sin²A)(cos²A + sin²A) = cos²A − sin²A = (1 − sin²A) − sin²A = 1 − 2 sin²A.",
+          "years": [
+            "April 2016"
+          ],
+          "note": "Lesson 22."
+        },
+        {
+          "id": "4.9",
+          "type": "open",
+          "q": "If cos(40° + 2x) = sin 30°, where 40° + 2x is acute, find x.",
+          "answer": "sin 30° = 1/2 = cos 60° ⇒ 40° + 2x = 60° ⇒ x = 10°.",
+          "years": [
+            "April 2019"
+          ],
+          "note": "Lesson 23."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Short answer questions.",
+      "marks": "5 × 3 = 15",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "The sum of the digits of a two-digit number is 13 and the sum of their squares is 89. Find the number.",
+          "answer": "Let the digits be a and b: a + b = 13, a² + b² = 89.\n(a + b)² = a² + b² + 2ab ⇒ 169 = 89 + 2ab ⇒ ab = 40.\nb = 13 − a: a(13 − a) = 40 ⇒ a² − 13a + 40 = 0 ⇒ (a − 5)(a − 8) = 0.\nThe digits are 8 and 5; the number is 85 or 58.",
+          "years": [
+            "April 2017"
+          ],
+          "note": "Lesson 6."
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "A cooler costs ₹6,000 cash or ₹2,000 down and two equal monthly instalments. If interest is 12% per annum (simple), find each instalment.",
+          "answer": "Balance = ₹4,000. Let each instalment be x.\nOwed: 4000 and 4000 − x; total = 8000 − x for one month.\nInterest = (8000 − x) × 12/(100 × 12) = (8000 − x)/100; also interest = 2x − 4000.\n2x − 4000 = (8000 − x)/100 ⇒ 200x − 400000 = 8000 − x ⇒ 201x = 408000 ⇒ x ≈ ₹2,029.85.",
+          "note": "Lesson 9."
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "Find the value of m if the points (3, 1), (−2, −3) and (8, 2m) are collinear.",
+          "answer": "Area = ½ |3(−3 − 2m) + (−2)(2m − 1) + 8(1 − (−3))| = 0.\n3(−3 − 2m) − 2(2m − 1) + 32 = −9 − 6m − 4m + 2 + 32 = 25 − 10m = 0 ⇒ m = 5/2.",
+          "years": [
+            "April 2022"
+          ],
+          "note": "Lesson 19."
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "Prove that tan θ + cot θ = sec θ cosec θ.",
+          "answer": "tan θ + cot θ = sin θ/cos θ + cos θ/sin θ = (sin²θ + cos²θ)/(sin θ cos θ) = 1/(sin θ cos θ) = sec θ cosec θ.",
+          "years": [
+            "October 2016"
+          ],
+          "note": "Lesson 22."
+        },
+        {
+          "id": "5.5",
+          "type": "open",
+          "q": "A bag contains 25 cards numbered 1 to 25. Find the probability that the number drawn is (i) divisible by 3 or 5 (ii) a perfect square.",
+          "answer": "(i) Multiples of 3: 3, 6, …, 24 = 8; of 5: 5, 10, 15, 20, 25 = 5; 15 is counted in both. 8 + 5 − 1 = 12 ⇒ 12/25.\n(ii) 1, 4, 9, 16, 25 = 5 ⇒ 5/25 = 1/5.",
+          "years": [
+            "October 2019"
+          ],
+          "note": "Lesson 26."
+        }
+      ]
+    },
+    {
+      "no": 6,
+      "title": "Long answer questions.",
+      "marks": "2 × 5 = 10",
+      "questions": [
+        {
+          "id": "6.1",
+          "type": "open",
+          "q": "Simplify: 1/(x − 1) − 1/(x + 1) − 2/(x² + 1).",
+          "answer": "First two terms: [(x + 1) − (x − 1)]/[(x − 1)(x + 1)] = 2/(x² − 1).\nNow 2/(x² − 1) − 2/(x² + 1) = 2[(x² + 1) − (x² − 1)]/[(x² − 1)(x² + 1)]\n= 2 × 2/(x⁴ − 1) = 4/(x⁴ − 1).",
+          "note": "Lesson 4."
+        },
+        {
+          "id": "6.2",
+          "type": "open",
+          "q": "The shadow of a tower is 10 m longer when the sun's elevation is 30° than when it is 45°. Find the height of the tower. (√3 = 1.732)",
+          "answer": "Let the height be h. Shadow at 45° = h; at 30° = h√3.\nh√3 − h = 10 ⇒ h = 10/(√3 − 1) = 10/0.732 ≈ 13.66 m.",
+          "years": [
+            "April 2025"
+          ],
+          "or": {
+            "q": "An aeroplane 3000 m high passes vertically above another at an instant when their elevations from a point on the ground are 60° and 45°. Find the vertical distance between them.",
+            "answer": "Horizontal distance d: tan 60° = 3000/d ⇒ d = 3000/√3 = 1000√3 = 1732 m.\nLower plane: height = d tan 45° = 1732 m.\nVertical distance = 3000 − 1732 = 1268 m."
+          },
+          "note": "Lesson 23."
+        }
+      ]
+    }
+  ]
+}

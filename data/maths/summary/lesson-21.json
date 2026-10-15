@@ -1,0 +1,123 @@
+{
+  "subject": "maths",
+  "lesson": 21,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 21: Surface Areas and Volumes of Solid Figures — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Surface area and volume"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Solids do not lie in one plane. The surface area is the area of the boundary of the solid; the volume is the space it encloses. Curved surface area (CSA) is the area of the curved part only; total surface area (TSA) includes the flat faces too. 1 m³ = 1000 litres; 1 litre = 1000 cm³."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Cuboid and cube"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Cuboid l × b × h: TSA = 2(lb + bh + hl), volume = lbh, diagonal = √(l² + b² + h²), area of four walls = 2(l + b)h. Cube of edge a: TSA = 6a², volume = a³, diagonal = a√3. Two cubes of edge a joined end to end form a cuboid 2a × a × a."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Cylinder"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Right circular cylinder of radius r and height h: CSA = 2πrh, TSA = 2πr(h + r), volume = πr²h. A rectangular sheet rolled along its length forms a cylinder whose circumference is that length (66 cm sheet ⇒ 2πr = 66, r = 10.5 cm). Hollow cylinder (pipe) with outer radius R and inner r: volume of metal = πh(R² − r²)."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Cone"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Right circular cone of radius r, height h and slant height l: l² = r² + h²; CSA = πrl, TSA = πr(l + r), volume = ⅓πr²h. A cylinder with the same base and height holds 3 times the volume of the cone."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Sphere and hemisphere"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Sphere of radius r: surface area = 4πr², volume = (4/3)πr³. Hemisphere: CSA = 2πr², TSA = 3πr², volume = (2/3)πr³. Hollow sphere with outer radius R and inner r: volume = (4/3)π(R³ − r³)."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Melting, recasting and combined solids"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "When a solid is melted and recast, the volume stays the same: number of small solids = volume of the big solid ÷ volume of one small solid. For a solid made of two shapes (a cone on a hemisphere, a cylinder with a hemispherical end) add the volumes, and add only the outer curved surfaces for the surface area. Use π = 22/7 unless told to use 3.14."
+        ]
+      ]
+    }
+  ]
+}

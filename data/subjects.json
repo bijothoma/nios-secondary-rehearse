@@ -578,6 +578,127 @@
           "file": "data/science/paper-3.json"
         }
       ]
+    },
+    {
+      "id": "maths",
+      "name": "Mathematics",
+      "label": "",
+      "lessons": [
+        {
+          "no": 4,
+          "title": "Special Products and Factorization",
+          "file": "data/maths/lesson-4.json",
+          "summary": "data/maths/summary/lesson-4.json"
+        },
+        {
+          "no": 5,
+          "title": "Linear Equations",
+          "file": "data/maths/lesson-5.json",
+          "summary": "data/maths/summary/lesson-5.json"
+        },
+        {
+          "no": 6,
+          "title": "Quadratic Equations",
+          "file": "data/maths/lesson-6.json",
+          "summary": "data/maths/summary/lesson-6.json"
+        },
+        {
+          "no": 7,
+          "title": "Arithmetic Progressions",
+          "file": "data/maths/lesson-7.json",
+          "summary": "data/maths/summary/lesson-7.json"
+        },
+        {
+          "no": 8,
+          "title": "Percentage and Its Applications",
+          "file": "data/maths/lesson-8.json",
+          "summary": "data/maths/summary/lesson-8.json"
+        },
+        {
+          "no": 9,
+          "title": "Instalment Buying",
+          "file": "data/maths/lesson-9.json",
+          "summary": "data/maths/summary/lesson-9.json"
+        },
+        {
+          "no": 16,
+          "title": "Angles in a Circle and Cyclic Quadrilaterals",
+          "file": "data/maths/lesson-16.json",
+          "summary": "data/maths/summary/lesson-16.json"
+        },
+        {
+          "no": 17,
+          "title": "Secants, Tangents and Their Properties",
+          "file": "data/maths/lesson-17.json",
+          "summary": "data/maths/summary/lesson-17.json"
+        },
+        {
+          "no": 18,
+          "title": "Constructions",
+          "file": "data/maths/lesson-18.json",
+          "summary": "data/maths/summary/lesson-18.json"
+        },
+        {
+          "no": 19,
+          "title": "Co-ordinate Geometry",
+          "file": "data/maths/lesson-19.json",
+          "summary": "data/maths/summary/lesson-19.json"
+        },
+        {
+          "no": 20,
+          "title": "Perimeters and Areas of Plane Figures",
+          "file": "data/maths/lesson-20.json",
+          "summary": "data/maths/summary/lesson-20.json"
+        },
+        {
+          "no": 21,
+          "title": "Surface Areas and Volumes of Solid Figures",
+          "file": "data/maths/lesson-21.json",
+          "summary": "data/maths/summary/lesson-21.json"
+        },
+        {
+          "no": 22,
+          "title": "Introduction to Trigonometry",
+          "file": "data/maths/lesson-22.json",
+          "summary": "data/maths/summary/lesson-22.json"
+        },
+        {
+          "no": 23,
+          "title": "Trigonometric Ratios of Some Special Angles",
+          "file": "data/maths/lesson-23.json",
+          "summary": "data/maths/summary/lesson-23.json"
+        },
+        {
+          "no": 25,
+          "title": "Measures of Central Tendency",
+          "file": "data/maths/lesson-25.json",
+          "summary": "data/maths/summary/lesson-25.json"
+        },
+        {
+          "no": 26,
+          "title": "Introduction to Probability",
+          "file": "data/maths/lesson-26.json",
+          "summary": "data/maths/summary/lesson-26.json"
+        },
+        {
+          "no": 901,
+          "tag": "Full paper",
+          "title": "Model Question Paper 1",
+          "file": "data/maths/paper-1.json"
+        },
+        {
+          "no": 902,
+          "tag": "Full paper",
+          "title": "Model Question Paper 2",
+          "file": "data/maths/paper-2.json"
+        },
+        {
+          "no": 903,
+          "tag": "Full paper",
+          "title": "Model Question Paper 3",
+          "file": "data/maths/paper-3.json"
+        }
+      ]
     }
   ]
 }

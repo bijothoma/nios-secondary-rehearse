@@ -1,0 +1,468 @@
+{
+  "subject": "maths",
+  "lesson": 17,
+  "title": "Secants, Tangents and Their Properties",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Every answer shows the working. Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "10 × 1 = 10",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "The number of tangents that can be drawn to a circle from a point inside it is —",
+          "options": [
+            "0",
+            "1",
+            "2",
+            "infinitely many"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2026",
+            "April 2024"
+          ],
+          "work": "Every line through an interior point cuts the circle in two points, so it is a secant. No tangent is possible: 0."
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "TP and TQ are tangents from T to a circle with centre O. If ∠POQ = 110°, then ∠PTQ is —",
+          "options": [
+            "60°",
+            "70°",
+            "80°",
+            "90°"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2025",
+            "October 2024"
+          ],
+          "work": "∠OPT = ∠OQT = 90° (tangent ⊥ radius).\nIn quadrilateral OPTQ: ∠PTQ = 360° − 90° − 90° − 110° = 70°."
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "PQ is a chord of a circle with centre O and the tangent PR at P makes 50° with PQ. ∠POQ is —",
+          "options": [
+            "100°",
+            "90°",
+            "80°",
+            "75°"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2025"
+          ],
+          "work": "∠OPR = 90°, so ∠OPQ = 90° − 50° = 40°.\nOP = OQ ⇒ ∠OQP = 40°. ∠POQ = 180° − 80° = 100°.\n(Alternate segment: ∠POQ = 2 × 50° = 100°.)"
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "CA and CB are tangents from C to a circle with centre O. If ∠ACB = 75°, then ∠AOB is —",
+          "options": [
+            "75°",
+            "150°",
+            "95°",
+            "105°"
+          ],
+          "answer": "D",
+          "years": [
+            "October 2025"
+          ],
+          "work": "∠OAC = ∠OBC = 90°. ∠AOB = 360° − 90° − 90° − 75° = 105°."
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "The tangent from A to a circle is 24 cm and A is 25 cm from the centre O. The diameter of the circle is —",
+          "options": [
+            "7 cm",
+            "14 cm",
+            "24 cm",
+            "49 cm"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2025"
+          ],
+          "work": "Tangent ⊥ radius: r² = OA² − AP² = 625 − 576 = 49 ⇒ r = 7 cm.\nDiameter = 14 cm."
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "From a point P, 5 cm from the centre of a circle, the tangent is 4 cm long. The radius is —",
+          "options": [
+            "1 cm",
+            "2 cm",
+            "3 cm",
+            "4.5 cm"
+          ],
+          "answer": "C",
+          "years": [
+            "October 2024"
+          ],
+          "work": "r² = 5² − 4² = 25 − 16 = 9 ⇒ r = 3 cm."
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "The number of tangents that can be drawn to a circle from an external point is —",
+          "options": [
+            "0",
+            "1",
+            "2",
+            "3"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2016"
+          ],
+          "work": "From a point outside a circle exactly two tangents can be drawn."
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "From an external point P, secants PAB and PCD are drawn. If PA = 4 cm, AB = 6 cm and PD = 8 cm, then PC is —",
+          "options": [
+            "5 cm",
+            "3 cm",
+            "12 cm",
+            "5⅓ cm"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2016"
+          ],
+          "work": "PB = PA + AB = 10.\nPA × PB = PC × PD ⇒ 4 × 10 = PC × 8 ⇒ PC = 5 cm."
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "A quadrilateral ABCD is drawn to circumscribe a circle with centre O. If ∠AOB = 125°, then ∠COD is —",
+          "options": [
+            "62.5°",
+            "45°",
+            "35°",
+            "55°"
+          ],
+          "answer": "D",
+          "years": [
+            "October 2022"
+          ],
+          "work": "For a quadrilateral circumscribing a circle, the angles subtended at the centre by opposite sides are supplementary: ∠AOB + ∠COD = 180°.\n∠COD = 180° − 125° = 55°."
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "The number of common tangents to two circles that do not touch and lie outside each other is —",
+          "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer": "D",
+          "years": [
+            "April 2024"
+          ],
+          "work": "Two separate circles have 2 direct and 2 transverse common tangents: 4."
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark (fill in the blanks, match the columns or true/false).",
+      "marks": "6 × 2 = 12",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "Fill in the blanks: (i) PT is a tangent at P to a circle with centre O and ∠QPT = 60° (PQ a chord); ∠POQ = ____. (ii) TP and TQ are tangents and ∠POQ = 110°; ∠PTQ = ____.",
+          "answer": "(i) ∠OPT = 90°, so ∠OPQ = 30° = ∠OQP; ∠POQ = 180° − 60° = 120°. (The central angle is twice the tangent-chord angle.)\n(ii) ∠PTQ = 360° − 90° − 90° − 110° = 70°.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Fill in the blanks: (i) PAB is a secant and PT a tangent; PT = x cm, PA = 4 cm, AB = 5 cm, so x = ____. (ii) AB is a diameter, XPY a tangent at P and ∠PBA = 30°; ∠BPY = ____.",
+          "answer": "(i) PB = 4 + 5 = 9; PT² = PA × PB = 36 ⇒ x = 6.\n(ii) ∠BPY equals the angle in the alternate segment, ∠BAP. In △APB, ∠APB = 90° (semicircle), so ∠BAP = 180° − 90° − 30° = 60°. ∠BPY = 60°.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "Fill in the blanks: (i) PA and PB are tangents from P; the angle between OP and the chord AB is ____. (ii) X and Y are the points of contact of tangents from P with ∠XPY = 80°; ∠POX = ____.",
+          "answer": "(i) OP is the perpendicular bisector of the chord of contact AB, so the angle is 90°.\n(ii) OP bisects ∠XPY ⇒ ∠OPX = 40°; ∠OXP = 90° ⇒ ∠POX = 180° − 90° − 40° = 50°.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Fill in the blanks: (i) PT = 6 cm, AB = 5 cm, PA = x (PAB a secant); x = ____. (ii) PQ is a tangent at Q, QOR a diameter and ∠POR = 120°; ∠OPQ = ____.",
+          "answer": "(i) x(x + 5) = 36 ⇒ x² + 5x − 36 = 0 ⇒ (x + 9)(x − 4) = 0 ⇒ x = 4.\n(ii) ∠POQ = 180° − 120° = 60°; ∠OQP = 90°; ∠OPQ = 180° − 90° − 60° = 30°.",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "Fill in the blanks: (i) Chords AB and CD meet at P; PA = 4, PB = x + 3, PD = 3, PC = x + 5; x = ____. (ii) AB is a diameter, XBY a tangent at B and AC = BC; ∠CBY = ____.",
+          "answer": "(i) PA × PB = PC × PD ⇒ 4(x + 3) = 3(x + 5) ⇒ 4x + 12 = 3x + 15 ⇒ x = 3.\n(ii) ∠ACB = 90° and AC = BC, so ∠CAB = 45°. By the alternate segment theorem ∠CBY = ∠CAB = 45°.",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "Fill in the blanks (any two): (i) Common tangents to two non-intersecting circles ____ (ii) Tangents at a point on the circle ____ (iii) Tangents at the ends of a diameter are ____ (iv) Common tangents to two intersecting circles ____.",
+          "answer": "(i) 4. (ii) one. (iii) parallel (both are perpendicular to the same diameter). (iv) 2.",
+          "years": [
+            "April 2024"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Case study: read the information and answer the questions that follow.",
+      "marks": "5 × 1 = 5",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "mcq",
+          "q": "∠ROQ is —",
+          "options": [
+            "150°",
+            "130°",
+            "120°",
+            "100°"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2025"
+          ],
+          "work": "∠OQP = ∠ORP = 90°. In OQPR: ∠ROQ = 360° − 90° − 90° − 30° = 150°."
+        },
+        {
+          "id": "3.2",
+          "type": "mcq",
+          "q": "∠RQP is —",
+          "options": [
+            "70°",
+            "75°",
+            "80°",
+            "60°"
+          ],
+          "answer": "B",
+          "work": "PQ = PR (tangents from P), so △PQR is isosceles: ∠RQP = (180° − 30°)/2 = 75°."
+        },
+        {
+          "id": "3.3",
+          "type": "mcq",
+          "q": "∠RSQ is —",
+          "options": [
+            "70°",
+            "75°",
+            "80°",
+            "60°"
+          ],
+          "answer": "B",
+          "work": "∠RSQ = ½∠ROQ = 75° (also equal to ∠RQP by the alternate segment theorem)."
+        },
+        {
+          "id": "3.4",
+          "type": "mcq",
+          "q": "∠ORP is —",
+          "options": [
+            "45°",
+            "60°",
+            "90°",
+            "30°"
+          ],
+          "answer": "C",
+          "work": "A tangent is perpendicular to the radius: ∠ORP = 90°."
+        },
+        {
+          "id": "3.5",
+          "type": "mcq",
+          "q": "∠ORQ is —",
+          "options": [
+            "30°",
+            "15°",
+            "20°",
+            "25°"
+          ],
+          "answer": "B",
+          "work": "OQ = OR, so ∠ORQ = (180° − 150°)/2 = 15°. (Or ∠ORP − ∠QRP = 90° − 75° = 15°.)"
+        }
+      ],
+      "fixed": true,
+      "passage": "The London Eye is a giant wheel shaped like a circle with centre O. From a point P on the ground, two straight cables PQ and PR touch the wheel at Q and R, and ∠QPR = 30°. S is a point on the major arc QR."
+    },
+    {
+      "no": 4,
+      "title": "Very short answer questions.",
+      "marks": "7 × 2 = 14",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "The incircle of △ABC touches BC, CA and AB at D, E and F. Prove that AF + BD + CE = ½(perimeter of △ABC).",
+          "answer": "Tangents from a point are equal: AF = AE, BD = BF, CE = CD.\nPerimeter = AB + BC + CA = (AF + BF) + (BD + CD) + (CE + AE)\n= (AF + AE) + (BD + BF) + (CE + CD) = 2AF + 2BD + 2CE.\nSo AF + BD + CE = ½ × perimeter.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "ABC is an isosceles triangle with AB = AC, and XAY is the tangent at A to its circumcircle. Show that XY ∥ BC.",
+          "answer": "By the alternate segment theorem, ∠XAB = ∠ACB.\nAB = AC ⇒ ∠ABC = ∠ACB. So ∠XAB = ∠ABC.\nThese are alternate angles made by AB with XY and BC, so XY ∥ BC.",
+          "years": [
+            "April 2025",
+            "October 2024"
+          ]
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "Two tangents PM and PN are drawn to a circle of radius 24 cm from a point P 25 cm from the centre. Find their lengths.",
+          "answer": "∠OMP = 90°: PM² = OP² − OM² = 625 − 576 = 49 ⇒ PM = 7 cm.\nTangents from a point are equal: PN = 7 cm.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "PA and PB are tangents to a circle with PA = 14 cm. A third tangent CD touches the circle at E, with C on PA and D on PB. Find the perimeter of △PCD.",
+          "answer": "CE = CA and DE = DB (tangents from C and from D).\nPerimeter = PC + CD + PD = PC + CE + ED + PD = (PC + CA) + (DB + PD) = PA + PB = 14 + 14 = 28 cm.",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "4.5",
+          "type": "open",
+          "q": "AB and AC are tangents from A to a circle with centre O and ∠BAC = 50°. Find ∠BOC.",
+          "answer": "∠OBA = ∠OCA = 90°.\n∠BOC = 360° − 90° − 90° − 50° = 130°.",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "4.6",
+          "type": "open",
+          "q": "Two concentric circles have radii 5 cm and 3 cm. Find the length of the chord of the larger circle which touches the smaller circle.",
+          "answer": "The chord touches the small circle, so the radius 3 cm is perpendicular to it at its midpoint.\nHalf-chord = √(5² − 3²) = √16 = 4 cm. Chord = 8 cm.",
+          "years": [
+            "April 2022"
+          ]
+        },
+        {
+          "id": "4.7",
+          "type": "open",
+          "q": "Chords BA and DC of a circle meet, when produced, at P outside the circle. If PA = 4 cm, PB = 10 cm and PC = 5 cm, find CD.",
+          "answer": "PA × PB = PC × PD ⇒ 4 × 10 = 5 × PD ⇒ PD = 8 cm.\nCD = PD − PC = 8 − 5 = 3 cm.",
+          "years": [
+            "October 2017"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Short answer questions.",
+      "marks": "4 × 3 = 12",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "Prove that the tangents drawn from an external point to a circle are of equal length.",
+          "answer": "Given: PA and PB are tangents from an external point P to a circle with centre O.\nTo prove: PA = PB.\nConstruction: join OA, OB and OP.\nProof: in △OAP and △OBP,\nOA = OB (radii);\nOP = OP (common);\n∠OAP = ∠OBP = 90° (a tangent is perpendicular to the radius at the point of contact).\nSo △OAP ≅ △OBP (RHS), and PA = PB (corresponding parts). Proved.",
+          "years": [
+            "April 2026",
+            "April 2025",
+            "October 2024",
+            "April 2021"
+          ]
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "Chords AB and CD of a circle intersect at P inside the circle. If PA = (3x + 2) cm, PB = (3x − 2) cm, PC = 5⅓ cm and PD = 6 cm, find x.",
+          "answer": "PA × PB = PC × PD ⇒ (3x + 2)(3x − 2) = (16/3) × 6 = 32.\n9x² − 4 = 32 ⇒ 9x² = 36 ⇒ x = 2 (x must be positive).",
+          "years": [
+            "April 2023"
+          ]
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "The angle between radii OA and OB of a circle is 130°. The tangents at A and B meet at T. Find ∠ATB and ∠ATO.",
+          "answer": "∠OAT = ∠OBT = 90°, so ∠ATB = 360° − 90° − 90° − 130° = 50°.\nOT bisects ∠ATB: ∠ATO = 25°.",
+          "years": [
+            "October 2021"
+          ]
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "Chords AB and CD of a circle meet at P. If AP = x + 1, BP = x + 2, CP = x and DP = x + 4, find x.",
+          "answer": "AP × BP = CP × DP ⇒ (x + 1)(x + 2) = x(x + 4).\nx² + 3x + 2 = x² + 4x ⇒ x = 2.",
+          "years": [
+            "April 2016"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 6,
+      "title": "Long answer questions.",
+      "marks": "3 × 5 = 15",
+      "questions": [
+        {
+          "id": "6.1",
+          "type": "open",
+          "q": "SAT is the tangent at A to the circumcircle of △ABC. A line parallel to SAT cuts AB and AC at D and E. Prove that AB × AD = AC × AE.",
+          "answer": "By the alternate segment theorem, ∠SAB = ∠ACB.\nDE ∥ SAT, and AB is a transversal, so ∠ADE = ∠SAB (alternate angles).\nHence ∠ADE = ∠ACB.\nIn △ADE and △ACB: ∠ADE = ∠ACB and ∠DAE = ∠CAB (common).\nSo △ADE ~ △ACB (AA), giving AD/AC = AE/AB.\nCross-multiplying: AB × AD = AC × AE. Proved.",
+          "years": [
+            "April 2019"
+          ]
+        },
+        {
+          "id": "6.2",
+          "type": "open",
+          "q": "PT is a tangent to a circle from an external point P. Chord AB, produced, meets TP at P. TA and TB are joined and TM bisects ∠ATB (M on AB). If ∠PAT = 40° and ∠ATB = 60°, show that PM = PT.",
+          "answer": "By the alternate segment theorem, ∠PTB = ∠TAB = 40°.\nTM bisects ∠ATB, so ∠ATM = ∠MTB = 30°.\n∠PTM = ∠PTB + ∠BTM = 40° + 30° = 70°.\n∠PMT is an exterior angle of △ATM: ∠PMT = ∠TAM + ∠ATM = 40° + 30° = 70°.\nIn △PTM, ∠PTM = ∠PMT, so PM = PT. Proved.",
+          "years": [
+            "October 2016"
+          ]
+        },
+        {
+          "id": "6.3",
+          "type": "open",
+          "q": "Prove that a tangent to a circle is perpendicular to the radius through the point of contact.",
+          "answer": "Given: a circle with centre O and a tangent XY touching it at P.\nTo prove: OP ⊥ XY.\nProof: take any point Q on XY other than P. Q lies outside the circle (a tangent meets the circle only at P), so OQ > OP (radius).\nThis is true for every point Q of XY, so OP is the shortest distance from O to XY.\nThe shortest segment from a point to a line is the perpendicular, so OP ⊥ XY. Proved."
+        }
+      ]
+    }
+  ]
+}

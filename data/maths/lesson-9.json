@@ -1,0 +1,321 @@
+{
+  "subject": "maths",
+  "lesson": 9,
+  "title": "Instalment Buying",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Every answer shows the working. Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "6 × 1 = 6",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "A chair costs ₹2,700 cash or ₹600 down plus 3 monthly instalments of ₹750. The extra money paid under the instalment plan is —",
+          "options": [
+            "₹100",
+            "₹150",
+            "₹250",
+            "₹750"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2025"
+          ],
+          "work": "Total under the plan = 600 + 3 × 750 = 600 + 2250 = ₹2,850.\nExtra (interest) = 2850 − 2700 = ₹150."
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "The price paid if the whole amount is paid at once is called the —",
+          "options": [
+            "cash down payment",
+            "instalment",
+            "cash price",
+            "interest"
+          ],
+          "answer": "C",
+          "work": "The cash price is the full price paid immediately in cash."
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "An article costs ₹5,000 cash; under a plan the buyer pays ₹1,000 down. The balance owed is —",
+          "options": [
+            "₹6,000",
+            "₹4,000",
+            "₹5,000",
+            "₹1,000"
+          ],
+          "answer": "B",
+          "work": "Balance = cash price − cash down = 5000 − 1000 = ₹4,000."
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "A table costs ₹1,700 cash or ₹500 down and ₹1,400 after 2 months. The interest charged is —",
+          "options": [
+            "₹200",
+            "₹300",
+            "₹1,200",
+            "₹1,400"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2025"
+          ],
+          "work": "Balance = 1700 − 500 = ₹1,200.\nThe buyer pays ₹1,400 for it, so interest = 1400 − 1200 = ₹200."
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "A fan costs ₹1,500 cash or ₹360 down + 3 monthly instalments of ₹390. The interest charged is —",
+          "options": [
+            "₹30",
+            "₹60",
+            "₹90",
+            "₹1,170"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2021"
+          ],
+          "work": "Balance = 1500 − 360 = ₹1,140.\nInstalments total 3 × 390 = ₹1,170.\nInterest = 1170 − 1140 = ₹30."
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "The total amount paid under an instalment plan is —",
+          "options": [
+            "cash price + cash down",
+            "cash down + sum of the instalments",
+            "sum of the instalments only",
+            "cash price − interest"
+          ],
+          "answer": "B",
+          "work": "The buyer pays the cash down at once and then all the instalments, so total = cash down + sum of instalments."
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark (fill in the blanks, match the columns or true/false).",
+      "marks": "3 × 2 = 6",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "Fill in the blanks: (i) Under an instalment plan, the part paid at the time of purchase is the ____. (ii) Interest charged = sum of instalments − ____.",
+          "answer": "(i) cash down payment.\n(ii) balance (= cash price − cash down), because the instalments repay the balance plus interest."
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Write True or False: (i) Under an instalment plan the buyer usually pays more than the cash price. (ii) Interest under an instalment plan is charged on the full cash price for the whole period.",
+          "answer": "(i) True: the extra is interest for the delayed payment.\n(ii) False: interest is charged only on the amount still owed, which falls after each instalment."
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "A TV costs ₹20,000 cash, or ₹5,000 down and ₹15,500 after 4 months. Fill in: (i) interest ____ (ii) rate of interest ____ p.a.",
+          "answer": "(i) Balance = 15000; interest = 15500 − 15000 = ₹500.\n(ii) 500 = 15000 × R × (4/12)/100 = 50R ⇒ R = 10% p.a.",
+          "years": [
+            "April 2024"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Case study: read the information and answer the questions that follow.",
+      "marks": "5 × 1 = 5",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "mcq",
+          "q": "Total interest paid under the plan is —",
+          "options": [
+            "₹(3x − 15,200)",
+            "₹(2x − 15,200)",
+            "₹(x − 15,200)",
+            "₹(15,200 − x)"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2025"
+          ],
+          "work": "Balance = 19400 − 4200 = ₹15,200. The three instalments repay it with interest, so interest = 3x − 15200."
+        },
+        {
+          "id": "3.2",
+          "type": "mcq",
+          "q": "The amount owed for the 1st month is —",
+          "options": [
+            "₹4,200",
+            "₹19,400",
+            "₹15,200",
+            "₹11,000"
+          ],
+          "answer": "C",
+          "work": "During the first month the buyer owes the whole balance, ₹15,200."
+        },
+        {
+          "id": "3.3",
+          "type": "mcq",
+          "q": "The amount owed for the 3rd month is —",
+          "options": [
+            "₹15,200",
+            "₹(15,200 − x)",
+            "₹(15,200 − 3x)",
+            "₹(15,200 − 2x)"
+          ],
+          "answer": "D",
+          "work": "After the 1st instalment: 15200 − x; after the 2nd: 15200 − 2x — owed during the 3rd month."
+        },
+        {
+          "id": "3.4",
+          "type": "mcq",
+          "q": "The total amount paid by the buyer under the plan is —",
+          "options": [
+            "₹19,400",
+            "₹15,200",
+            "₹(4,200 + 3x)",
+            "₹(19,400 − x)"
+          ],
+          "answer": "C",
+          "work": "Cash down + three instalments = 4200 + 3x."
+        },
+        {
+          "id": "3.5",
+          "type": "mcq",
+          "q": "The amount of each instalment is —",
+          "options": [
+            "₹4,200",
+            "₹4,600",
+            "₹4,800",
+            "₹5,200"
+          ],
+          "answer": "D",
+          "work": "Principal for one month = 15200 + (15200 − x) + (15200 − 2x) = 45600 − 3x.\nInterest = (45600 − 3x) × 16/(100 × 12) = (45600 − 3x)/75.\nSo 3x − 15200 = (45600 − 3x)/75 ⇒ 225x − 1140000 = 45600 − 3x ⇒ 228x = 1185600 ⇒ x = 5200."
+        }
+      ],
+      "fixed": true,
+      "passage": "A washing machine costs ₹19,400. In a Diwali sale it is available for ₹4,200 cash down followed by three equal monthly instalments. The shopkeeper charges interest at 16% per annum under this plan. Let each instalment be ₹x."
+    },
+    {
+      "no": 4,
+      "title": "Very short answer questions.",
+      "marks": "5 × 2 = 10",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "A chair is available for ₹2,700 cash or ₹600 cash down followed by 3 monthly instalments of ₹750. Find the interest charged under the plan.",
+          "answer": "Total paid = 600 + 3 × 750 = ₹2,850.\nInterest = 2850 − 2700 = ₹150.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "A table is available for ₹1,700 cash or ₹500 down and ₹1,400 after 2 months. Find the rate of interest charged.",
+          "answer": "Balance = 1700 − 500 = ₹1,200; interest = 1400 − 1200 = ₹200 for 2 months.\n200 = 1200 × R × (2/12)/100 = 2R ⇒ R = 100% per annum.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "A sewing machine is sold for ₹7,500 cash down and ₹4,360 after 6 months. If interest is charged at 18% per annum, find the cash price.",
+          "answer": "Let the cash price be ₹C; balance = C − 7500.\nAmount after 6 months = balance × (1 + 18 × ½/100) = 1.09 × (C − 7500).\n1.09(C − 7500) = 4360 ⇒ C − 7500 = 4000 ⇒ C = ₹11,500.",
+          "years": [
+            "April 2024"
+          ],
+          "or": {
+            "q": "A TV costs ₹20,000 cash or ₹5,000 down and ₹15,500 after 4 months. Find the rate of interest.",
+            "answer": "Balance = 20000 − 5000 = ₹15,000; interest = 15500 − 15000 = ₹500 for 4 months.\n500 = 15000 × R × (4/12)/100 = 50R ⇒ R = 10% per annum."
+          }
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "A camera is bought for ₹5,000 cash down and ₹21,000 after 3 months. If interest is 20% per annum, find the cash price.",
+          "answer": "Let the cash price be C; balance = C − 5000.\nInterest for 3 months at 20% = 20 × 3/12 = 5%, so 21000 = 1.05(C − 5000).\nC − 5000 = 20000 ⇒ C = ₹25,000.",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "4.5",
+          "type": "open",
+          "q": "A radio costs ₹1,000 cash or ₹400 down and ₹630 after 6 months. Find the rate of interest.",
+          "answer": "Balance = ₹600; interest = 630 − 600 = ₹30 for ½ year.\n30 = 600 × R × ½/100 = 3R ⇒ R = 10% per annum."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Short answer questions.",
+      "marks": "3 × 3 = 9",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "A fan is available for ₹1,500 cash or ₹360 cash down followed by three monthly instalments of ₹390 each. Find the rate of interest per annum under the plan.",
+          "answer": "Balance = 1500 − 360 = ₹1,140; instalments = 3 × 390 = ₹1,170; interest = ₹30.\nOwed: month 1 ₹1,140; month 2 1140 − 390 = ₹750; month 3 750 − 390 = ₹360.\nPrincipal for one month = 1140 + 750 + 360 = ₹2,250.\n30 = 2250 × R × 1/(100 × 12) ⇒ R = 30 × 1200/2250 = 16% per annum.",
+          "years": [
+            "April 2021"
+          ]
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "A washing machine is available for ₹13,500 cash or ₹6,500 cash down followed by three monthly instalments of ₹2,500. Find the rate of interest.",
+          "answer": "Balance = 13500 − 6500 = ₹7,000; instalments = ₹7,500; interest = ₹500.\nOwed: 7000, 7000 − 2500 = 4500, 4500 − 2500 = 2000; total = ₹13,500 for one month.\n500 = 13500 × R/(100 × 12) ⇒ R = 500 × 1200/13500 = 44.44% per annum.",
+          "years": [
+            "April 2019"
+          ]
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "A cooler costs ₹6,000 cash or ₹2,000 down and two equal monthly instalments. If interest is 12% per annum (simple), find each instalment.",
+          "answer": "Balance = ₹4,000. Let each instalment be x.\nOwed: 4000 and 4000 − x; total = 8000 − x for one month.\nInterest = (8000 − x) × 12/(100 × 12) = (8000 − x)/100; also interest = 2x − 4000.\n2x − 4000 = (8000 − x)/100 ⇒ 200x − 400000 = 8000 − x ⇒ 201x = 408000 ⇒ x ≈ ₹2,029.85."
+        }
+      ]
+    },
+    {
+      "no": 6,
+      "title": "Long answer questions.",
+      "marks": "2 × 5 = 10",
+      "questions": [
+        {
+          "id": "6.1",
+          "type": "open",
+          "q": "A washing machine costs ₹15,000 cash or ₹2,250 cash down followed by two equal half-yearly instalments. If the interest charged is 8% per annum compounded half-yearly, find each instalment.",
+          "answer": "Balance = 15000 − 2250 = ₹12,750. Rate per half-year = 4%.\nThe balance equals the present value of the two instalments x:\nx/1.04 + x/(1.04)² = 12750.\nMultiply by (1.04)² = 1.0816: 1.04x + x = 12750 × 1.0816 ⇒ 2.04x = 13,790.40 ⇒ x = ₹6,760.\nEach half-yearly instalment is ₹6,760.",
+          "years": [
+            "April 2016"
+          ]
+        },
+        {
+          "id": "6.2",
+          "type": "open",
+          "q": "A washing machine costs ₹19,400. It is offered for ₹4,200 cash down and three equal monthly instalments, with interest at 16% per annum. Find each instalment and the total amount paid.",
+          "answer": "Balance = 19400 − 4200 = ₹15,200. Let each instalment be x.\nOwed: 15200, 15200 − x, 15200 − 2x; total = 45600 − 3x for one month.\nInterest = (45600 − 3x) × 16/(100 × 12) = (45600 − 3x)/75.\nAlso interest = 3x − 15200.\n75(3x − 15200) = 45600 − 3x ⇒ 228x = 1185600 ⇒ x = ₹5,200.\nTotal paid = 4200 + 3 × 5200 = ₹19,800.",
+          "years": [
+            "April 2025"
+          ]
+        }
+      ]
+    }
+  ]
+}

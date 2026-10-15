@@ -1,0 +1,71 @@
+{
+  "lesson": 22,
+  "title": "Introduction to Trigonometry",
+  "module": 5,
+  "summary": [
+    "## Trigonometric ratios",
+    "In a triangle ABC right-angled at B, for the acute angle A: the side opposite A is BC, the side adjacent to A is AB, and AC is the hypotenuse.\nsin A = opposite/hypotenuse = BC/AC\ncos A = adjacent/hypotenuse = AB/AC\ntan A = opposite/adjacent = BC/AB\ncosec A = 1/sin A = AC/BC, sec A = 1/cos A = AC/AB, cot A = 1/tan A = AB/BC.\nAlso tan A = sin A/cos A and cot A = cos A/sin A. For the other acute angle C the opposite and adjacent sides swap.",
+    "## Finding all ratios from one",
+    "Draw a right triangle with the given ratio, find the third side by Pythagoras, then read off the rest. If sin A = 3/5, the opposite side is 3, the hypotenuse 5, the adjacent side √(25 − 9) = 4, so cos A = 4/5 and tan A = 3/4. If 3 tan A = 4, tan A = 4/3, hypotenuse = 5, cos A = 3/5. Since the hypotenuse is the longest side, sin A and cos A are never more than 1, and sec A, cosec A are never less than 1.",
+    "## Identities",
+    "sin²θ + cos²θ = 1, sec²θ − tan²θ = 1 (1 + tan²θ = sec²θ), cosec²θ − cot²θ = 1 (1 + cot²θ = cosec²θ). To prove an identity, start from the more complicated side, change everything to sin and cos if stuck, use these identities and algebra (a² − b², taking LCM) until it becomes the other side. Example: (1 − sin A)/(1 + sin A) = (1 − sin A)²/(1 − sin²A) = (1 − sin A)²/cos²A = (sec A − tan A)².",
+    "## Complementary angles",
+    "Angles A and 90° − A are complementary. sin(90° − A) = cos A, cos(90° − A) = sin A, tan(90° − A) = cot A, cot(90° − A) = tan A, sec(90° − A) = cosec A, cosec(90° − A) = sec A. So sin 49° = cos 41°, tan 48° tan 42° = tan 48° cot 48° = 1, and cos²75° − sin²15° = cos²75° − cos²75° = 0. If tan 2A = cot(A − 18°), then 2A and A − 18° are complementary: 2A + A − 18° = 90° ⇒ A = 36°."
+  ],
+  "mcq": [
+    ["If sin A = 3/5, then cos A is —", ["3/4", "5/3", "4/5", "4/3"], "C", ["April 2026"], {"work": "Opposite = 3, hypotenuse = 5 ⇒ adjacent = √(25 − 9) = 4.\ncos A = adjacent/hypotenuse = 4/5. (Or cos²A = 1 − 9/25 = 16/25.)"}],
+    ["If k + 7 sec²52° − 7 tan²52° = 7, then k is —", ["0", "7", "−7", "1"], "A", ["April 2026"], {"work": "7 sec²52° − 7 tan²52° = 7(sec²52° − tan²52°) = 7 × 1 = 7.\nk + 7 = 7 ⇒ k = 0."}],
+    ["(sin²22° + sin²68°)/(cos²22° + cos²68°) + sin²63° + cos 63° sin 27° is —", ["3", "2", "1", "0"], "B", ["April 2025"], {"work": "sin 68° = cos 22° and cos 68° = sin 22°, so the fraction = (sin²22° + cos²22°)/(cos²22° + sin²22°) = 1.\nsin 27° = cos 63°, so sin²63° + cos 63° sin 27° = sin²63° + cos²63° = 1.\nTotal = 1 + 1 = 2."}],
+    ["In △ABC right-angled at B, AB = 12 cm and BC = 5 cm. Then sin C is —", ["5/12", "5/13", "12/13", "13/12"], "C", ["April 2024"], {"work": "AC = √(144 + 25) = 13.\nFor angle C the opposite side is AB = 12, so sin C = 12/13."}],
+    ["cosec²67° − tan²23° + 1 is —", ["0", "1", "2", "3"], "C", ["April 2024"], {"work": "cosec 67° = sec(90° − 67°) = sec 23°.\nsec²23° − tan²23° = 1, so the value is 1 + 1 = 2."}],
+    ["If tan 2A = cot(A − 18°), where 2A is acute, then A is —", ["18°", "24°", "30°", "36°"], "D", ["October 2024"], {"work": "cot(A − 18°) = tan(90° − (A − 18°)) = tan(108° − A).\n2A = 108° − A ⇒ 3A = 108° ⇒ A = 36°."}],
+    ["If 3 tan A = 4, then cos A is —", ["3/5", "4/5", "3/4", "5/3"], "A", ["October 2024"], {"work": "tan A = 4/3: opposite 4, adjacent 3, hypotenuse 5.\ncos A = 3/5."}],
+    ["If sin θ + sin²θ = 1, then cos²θ + cos⁴θ is —", ["1", "−1", "sin θ/cos²θ", "cos²θ/sin θ"], "A", ["April 2023"], {"work": "sin θ = 1 − sin²θ = cos²θ.\nSo cos²θ + cos⁴θ = sin θ + sin²θ = 1."}],
+    ["(tan 50° + sec 50°)/(cot 40° + cosec 40°) + cos 40° cosec 50° is —", ["1", "−1", "−2", "2"], "D", ["April 2023"], {"work": "tan 50° = cot 40° and sec 50° = cosec 40°, so the fraction = 1.\ncosec 50° = sec 40°, so cos 40° cosec 50° = cos 40° × 1/cos 40° = 1.\nTotal = 2."}],
+    ["sin(45° + θ) − cos(45° − θ) is —", ["2 cos θ", "0", "2 sin θ", "1"], "B", ["October 2022"], {"work": "cos(45° − θ) = sin(90° − (45° − θ)) = sin(45° + θ).\nSo the difference is 0."}],
+    ["cos²75° − sin²15° is —", ["1", "√2", "√3/2", "0"], "D", ["April 2022"], {"work": "sin 15° = cos(90° − 15°) = cos 75°.\ncos²75° − cos²75° = 0."}],
+    ["If 4 tan θ = 3, then cosec θ is —", ["5/3", "3/5", "4/5", "4/3"], "A", ["April 2021"], {"work": "tan θ = 3/4: opposite 3, adjacent 4, hypotenuse 5.\nsin θ = 3/5 ⇒ cosec θ = 5/3."}],
+    ["(sin A + cos A)² − 2 sin A cos A is —", ["0", "2", "1", "sin²A − cos²A"], "C", ["October 2017"], {"work": "(sin A + cos A)² = sin²A + cos²A + 2 sin A cos A.\nSubtract 2 sin A cos A: sin²A + cos²A = 1."}],
+    ["cot²A − 1/sin²A is —", ["tan²A", "1", "cot²A", "−1"], "D", ["April 2017"], {"work": "1/sin²A = cosec²A, and cot²A − cosec²A = −(cosec²A − cot²A) = −1."}],
+    ["sin⁴A − cos⁴A is —", ["1", "1 − 2cos²A", "0", "tan²A"], "B", ["October 2016"], {"work": "sin⁴A − cos⁴A = (sin²A − cos²A)(sin²A + cos²A) = sin²A − cos²A = (1 − cos²A) − cos²A = 1 − 2cos²A."}]
+  ],
+  "objective": [
+    ["Fill in the blanks: (i) 3 sin 19°/cos 71° = ____. (ii) sec 41° sin 49° + cos 49° cosec 41° = ____.", "(i) cos 71° = sin 19°, so 3 sin 19°/sin 19° = 3.\n(ii) sin 49° = cos 41°, so sec 41° sin 49° = 1; cos 49° = sin 41°, so cos 49° cosec 41° = 1. Total 2.", ["October 2025"]],
+    ["Fill in the blanks (any two): (i) If sec θ = 5/4, tan²θ/(1 + tan²θ) = ____. (ii) cos A sin(90° − A) + sin A cos(90° − A) = ____. (iii) If cos θ + sin θ = √2 cos θ, tan θ = ____. (iv) sec²57° − cot²33° − tan²45° = ____.", "(i) tan²θ/sec²θ = sin²θ = 1 − cos²θ = 1 − 16/25 = 9/25.\n(ii) cos A × cos A + sin A × sin A = 1.\n(iii) sin θ = (√2 − 1) cos θ ⇒ tan θ = √2 − 1.\n(iv) cot 33° = tan 57°, so sec²57° − tan²57° − 1 = 1 − 1 = 0.", ["April 2024"]],
+    ["Fill in the blank: (ii) sec θ(1 − sin θ)(sec θ + tan θ) = ____. Also, (i) cos 47° cot 79° − sin 43° tan 11° = ____.", "(ii) sec θ(1 − sin θ) = sec θ − tan θ; (sec θ − tan θ)(sec θ + tan θ) = sec²θ − tan²θ = 1.\n(i) cos 47° = sin 43° and cot 79° = tan 11°, so the two terms are equal: 0.", ["April 2026", "April 2022"]],
+    ["Write True or False: (i) sin 10θ = cos 8θ (10θ acute) gives tan 9θ = 1. (ii) The value of sin A can be 4/3.", "(i) True: 10θ + 8θ = 90° ⇒ θ = 5° ⇒ tan 45° = 1.\n(ii) False: sin A = opposite/hypotenuse ≤ 1.", ["October 2021"]]
+  ],
+  "case": {
+    "passage": "A ramp for wheelchairs rises 3 m over a horizontal distance of 4 m. Let θ be the angle the ramp makes with the ground.",
+    "items": [
+      ["The length of the ramp is —", ["5 m", "7 m", "6 m", "√7 m"], "A", {"work": "Ramp = hypotenuse = √(3² + 4²) = √25 = 5 m."}],
+      ["sin θ is —", ["3/4", "3/5", "4/5", "5/3"], "B", {"work": "sin θ = opposite/hypotenuse = 3/5."}],
+      ["cos θ is —", ["3/5", "4/3", "4/5", "5/4"], "C", {"work": "cos θ = adjacent/hypotenuse = 4/5."}],
+      ["tan θ is —", ["3/4", "4/3", "3/5", "1"], "A", {"work": "tan θ = opposite/adjacent = 3/4."}],
+      ["sin²θ + cos²θ equals —", ["7/5", "1", "12/25", "25/9"], "B", {"work": "9/25 + 16/25 = 25/25 = 1, as the identity says."}]
+    ]
+  },
+  "vsa": [
+    ["If cos θ = 4/5, find (1 − sin θ tan θ)/(2 tan²θ).", "Adjacent 4, hypotenuse 5 ⇒ opposite 3: sin θ = 3/5, tan θ = 3/4.\nNumerator = 1 − (3/5)(3/4) = 1 − 9/20 = 11/20.\nDenominator = 2 × 9/16 = 9/8.\nValue = (11/20) × (8/9) = 22/45.", ["April 2023"]],
+    ["Prove that √((1 − cos²θ) sec²θ) = tan θ.", "1 − cos²θ = sin²θ, and sec²θ = 1/cos²θ.\n√(sin²θ/cos²θ) = sin θ/cos θ = tan θ (θ acute).", ["October 2022"]],
+    ["Prove that (1 − cos A)/(1 + cos A) = (cot A − cosec A)².", "Multiply numerator and denominator by (1 − cos A):\n(1 − cos A)²/(1 − cos²A) = (1 − cos A)²/sin²A = ((1 − cos A)/sin A)² = (cosec A − cot A)² = (cot A − cosec A)².", ["April 2021"]],
+    ["Prove that √((1 − sin A)/(1 + sin A)) = sec A − tan A.", "Multiply inside by (1 − sin A)/(1 − sin A):\n√((1 − sin A)²/(1 − sin²A)) = √((1 − sin A)²/cos²A) = (1 − sin A)/cos A = sec A − tan A.", ["April 2019", "October 2016"]],
+    ["Prove that (sin⁴θ + cos⁴θ)/(1 − 2 sin²θ cos²θ) = 1.", "sin⁴θ + cos⁴θ = (sin²θ + cos²θ)² − 2 sin²θ cos²θ = 1 − 2 sin²θ cos²θ.\nSo the fraction equals 1.", ["October 2019"]],
+    ["Show that tan 48° tan 23° tan 42° tan 67° = 1.", "tan 42° = cot 48° and tan 67° = cot 23°.\nThe product = (tan 48° cot 48°)(tan 23° cot 23°) = 1 × 1 = 1.", ["October 2017", "April 2017"]],
+    ["Given tan A = 4/3, find sin A and cos A.", "Opposite 4, adjacent 3, hypotenuse √(16 + 9) = 5.\nsin A = 4/5, cos A = 3/5.", ["October 2017"]],
+    ["If cos θ = 7/25, find sin θ and tan θ.", "Adjacent 7, hypotenuse 25 ⇒ opposite √(625 − 49) = 24.\nsin θ = 24/25, tan θ = 24/7.", ["April 2017"]],
+    ["Prove that cos⁴A − sin⁴A = 1 − 2 sin²A.", "cos⁴A − sin⁴A = (cos²A − sin²A)(cos²A + sin²A) = cos²A − sin²A = (1 − sin²A) − sin²A = 1 − 2 sin²A.", ["April 2016"]]
+  ],
+  "sa": [
+    ["If x = a cos θ + b sin θ and y = b cos θ − a sin θ, show that x² + y² = a² + b².", "x² = a²cos²θ + 2ab sin θ cos θ + b²sin²θ.\ny² = b²cos²θ − 2ab sin θ cos θ + a²sin²θ.\nAdd: the middle terms cancel: x² + y² = a²(cos²θ + sin²θ) + b²(sin²θ + cos²θ) = a² + b².", ["October 2021"]],
+    ["Evaluate tan 7° tan 23° tan 67° tan 83° − sec²45°.", "tan 83° = cot 7°, tan 67° = cot 23°, so the product = 1.\nsec 45° = √2 ⇒ sec²45° = 2.\nValue = 1 − 2 = −1.", ["April 2016"]],
+    ["Prove that tan θ + cot θ = sec θ cosec θ.", "tan θ + cot θ = sin θ/cos θ + cos θ/sin θ = (sin²θ + cos²θ)/(sin θ cos θ) = 1/(sin θ cos θ) = sec θ cosec θ.", ["October 2016"]],
+    ["If sin θ = 3/5, evaluate cos θ cot θ.", "Opposite 3, hypotenuse 5 ⇒ adjacent 4.\ncos θ = 4/5, cot θ = 4/3.\ncos θ cot θ = 16/15.", ["October 2016"]],
+    ["Prove that (sec A − 1)/(sec A + 1) = (1 − cos A)/(1 + cos A).", "Write sec A = 1/cos A: (1/cos A − 1)/(1/cos A + 1).\nMultiply numerator and denominator by cos A: (1 − cos A)/(1 + cos A)."]
+  ],
+  "la": [
+    ["Prove that (sin θ − cos θ + 1)/(sin θ + cos θ − 1) = 1/(sec θ − tan θ).", "Divide numerator and denominator by cos θ: (tan θ − 1 + sec θ)/(tan θ + 1 − sec θ).\nIn the numerator replace 1 by sec²θ − tan²θ: numerator = (sec θ + tan θ) − (sec θ − tan θ)(sec θ + tan θ) = (sec θ + tan θ)(1 − sec θ + tan θ).\nSo the fraction = (sec θ + tan θ)(1 − sec θ + tan θ)/(tan θ + 1 − sec θ) = sec θ + tan θ.\nAnd 1/(sec θ − tan θ) = (sec θ + tan θ)/(sec²θ − tan²θ) = sec θ + tan θ. Proved."],
+    ["If tan θ = 1/√7, find (cosec²θ − sec²θ)/(cosec²θ + sec²θ).", "Opposite 1, adjacent √7, hypotenuse √8.\ncosec²θ = 8/1 = 8; sec²θ = 8/7.\n(8 − 8/7)/(8 + 8/7) = (48/7)/(64/7) = 48/64 = 3/4."],
+    ["In △ABC right-angled at B, AB = 7 cm and AC − BC = 1 cm. Find sin A, cos A and tan C.", "Let BC = x; AC = x + 1. (x + 1)² = x² + 49 ⇒ 2x + 1 = 49 ⇒ x = 24.\nBC = 24 cm, AC = 25 cm.\nsin A = BC/AC = 24/25; cos A = AB/AC = 7/25; tan C = AB/BC = 7/24."]
+  ]
+}

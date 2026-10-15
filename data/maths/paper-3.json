@@ -1,0 +1,676 @@
+{
+  "subject": "maths",
+  "lesson": 903,
+  "title": "Model Question Paper 3",
+  "meta": "Time: 2½ hours · Maximum marks: 85 · Modelled on the April 2026 NIOS paper",
+  "instructions": [
+    "All questions are compulsory. Where a question has OR, answer either one.",
+    "Section A: questions 1–17 are MCQs (1 mark each); questions 18–27 have two parts of 1 mark each; question 28 is a case study with five 1-mark questions.",
+    "Section B: questions 29–37 carry 2 marks, 38–42 carry 3 marks and 43–44 carry 5 marks.",
+    "Every answer shows the working. Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "17 × 1 = 17",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "The HCF of 3³ × 5 and 3² × 5² is —",
+          "options": [
+            "125",
+            "135",
+            "15",
+            "45"
+          ],
+          "answer": "D",
+          "years": [
+            "October 2019"
+          ],
+          "work": "HCF takes each common prime factor with its lowest power.\nPower of 3: lower of 3 and 2 → 3²; power of 5: lower of 1 and 2 → 5¹.\nHCF = 3² × 5 = 9 × 5 = 45.",
+          "note": "Lesson 4."
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "The pair kx + 2y = 5 and 3x + y = 1 has no solution when k is —",
+          "options": [
+            "3",
+            "6",
+            "2",
+            "−6"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2025"
+          ],
+          "work": "No solution means parallel lines: a₁/a₂ = b₁/b₂ ≠ c₁/c₂.\nk/3 = 2/1 ⇒ k = 6.\nCheck c₁/c₂ = 5/1 = 5 ≠ 2, so the lines are parallel, not the same. k = 6.",
+          "note": "Lesson 5."
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "The sum of a number and its reciprocal is 5/2. The number is —",
+          "options": [
+            "2 or 1/2",
+            "3 or 1/3",
+            "5",
+            "1"
+          ],
+          "answer": "A",
+          "work": "x + 1/x = 5/2 ⇒ 2x² + 2 = 5x ⇒ 2x² − 5x + 2 = 0.\n(2x − 1)(x − 2) = 0 ⇒ x = 2 or 1/2.",
+          "note": "Lesson 6."
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "If 2p + 1, 13 and 5p − 3 are in A.P., then p is —",
+          "options": [
+            "−4",
+            "3",
+            "4",
+            "5"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2025"
+          ],
+          "work": "In an A.P. the middle term is the average: 2 × 13 = (2p + 1) + (5p − 3).\n26 = 7p − 2 ⇒ 7p = 28 ⇒ p = 4.",
+          "note": "Lesson 7."
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "The cost price of 10 articles equals the selling price of 8 articles. The gain or loss percent is —",
+          "options": [
+            "gain 20%",
+            "loss 25%",
+            "gain 30%",
+            "gain 25%"
+          ],
+          "answer": "D",
+          "years": [
+            "October 2016"
+          ],
+          "work": "Let C.P. of one article = ₹1; then C.P. of 10 = ₹10 = S.P. of 8, so S.P. of one = 10/8 = ₹1.25.\nGain = 0.25 on 1 ⇒ 25% gain.",
+          "note": "Lesson 8."
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "A fan costs ₹1,500 cash or ₹360 down + 3 monthly instalments of ₹390. The interest charged is —",
+          "options": [
+            "₹30",
+            "₹60",
+            "₹90",
+            "₹1,170"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2021"
+          ],
+          "work": "Balance = 1500 − 360 = ₹1,140.\nInstalments total 3 × 390 = ₹1,170.\nInterest = 1170 − 1140 = ₹30.",
+          "note": "Lesson 9."
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "For a cyclic quadrilateral, which is true?",
+          "options": [
+            "Opposite angles are supplementary",
+            "Opposite angles are complementary",
+            "One opposite angle is always obtuse",
+            "Opposite angles are equal"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2024",
+            "April 2019"
+          ],
+          "work": "Opposite angles of a cyclic quadrilateral add up to 180° — they are supplementary.",
+          "note": "Lesson 16."
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "In a cyclic quadrilateral ABCD, ∠A = 110°. Then ∠C is —",
+          "options": [
+            "110°",
+            "70°",
+            "90°",
+            "250°"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2026"
+          ],
+          "work": "∠A + ∠C = 180° ⇒ ∠C = 180° − 110° = 70°.",
+          "note": "Lesson 16."
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "From a point P, 5 cm from the centre of a circle, the tangent is 4 cm long. The radius is —",
+          "options": [
+            "1 cm",
+            "2 cm",
+            "3 cm",
+            "4.5 cm"
+          ],
+          "answer": "C",
+          "years": [
+            "October 2024"
+          ],
+          "work": "r² = 5² − 4² = 25 − 16 = 9 ⇒ r = 3 cm.",
+          "note": "Lesson 17."
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "A triangle ABC with BC = 3 cm, ∠C = 30° and AB − AC = 3.2 cm —",
+          "options": [
+            "can be constructed",
+            "cannot be constructed",
+            "is right-angled",
+            "is equilateral"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2026"
+          ],
+          "work": "By the triangle inequality AB < AC + BC, i.e. AB − AC < BC.\nHere AB − AC = 3.2 cm is not less than BC = 3 cm, so no such triangle exists.",
+          "note": "Lesson 18."
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "The points on the x-axis at a distance of 10 units from (11, −8) are —",
+          "options": [
+            "(5, 0), (6, 0)",
+            "(6, 0), (17, 0)",
+            "(5, 0), (17, 0)",
+            "(0, 5), (0, 17)"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2023"
+          ],
+          "work": "Let the point be (x, 0): (x − 11)² + (0 + 8)² = 100 ⇒ (x − 11)² = 36 ⇒ x − 11 = ±6 ⇒ x = 17 or 5.",
+          "note": "Lesson 19."
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "The area of a triangle with sides 5 cm, 6 cm and 7 cm is —",
+          "options": [
+            "6√6 cm²",
+            "36 cm²",
+            "7√6 cm²",
+            "5√6 cm²"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2019"
+          ],
+          "work": "s = (5 + 6 + 7)/2 = 9.\nArea = √[9 × 4 × 3 × 2] = √216 = 6√6 cm².",
+          "note": "Lesson 20."
+        },
+        {
+          "id": "1.13",
+          "type": "mcq",
+          "q": "The curved surface area of a right circular cone of slant height 10 cm and base radius 7 cm is —",
+          "options": [
+            "120 cm²",
+            "140 cm²",
+            "220 cm²",
+            "240 cm²"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2025"
+          ],
+          "work": "CSA = πrl = 22/7 × 7 × 10 = 220 cm².",
+          "note": "Lesson 21."
+        },
+        {
+          "id": "1.14",
+          "type": "mcq",
+          "q": "cosec²67° − tan²23° + 1 is —",
+          "options": [
+            "0",
+            "1",
+            "2",
+            "3"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2024"
+          ],
+          "work": "cosec 67° = sec(90° − 67°) = sec 23°.\nsec²23° − tan²23° = 1, so the value is 1 + 1 = 2.",
+          "note": "Lesson 22."
+        },
+        {
+          "id": "1.15",
+          "type": "mcq",
+          "q": "If cos θ × (1/sec θ) = 1 and θ is acute or zero, then θ is —",
+          "options": [
+            "90°",
+            "60°",
+            "45°",
+            "0°"
+          ],
+          "answer": "D",
+          "years": [
+            "April 2026"
+          ],
+          "work": "1/sec θ = cos θ, so cos²θ = 1 ⇒ cos θ = 1 ⇒ θ = 0°.",
+          "note": "Lesson 23."
+        },
+        {
+          "id": "1.16",
+          "type": "mcq",
+          "q": "If the mean of 6, 7, p, 8, q, 14 is 9, then —",
+          "options": [
+            "p − q = 19",
+            "p + q = 19",
+            "p − q = 15",
+            "p + q = 15"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2025"
+          ],
+          "work": "Sum = 35 + p + q = 6 × 9 = 54 ⇒ p + q = 19.",
+          "note": "Lesson 25."
+        },
+        {
+          "id": "1.17",
+          "type": "mcq",
+          "q": "Which of the following cannot be a probability?",
+          "options": [
+            "0.3",
+            "1/2",
+            "1",
+            "5/4"
+          ],
+          "answer": "D",
+          "years": [
+            "October 2024"
+          ],
+          "work": "5/4 is greater than 1, and no probability can exceed 1.",
+          "note": "Lesson 26."
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark (fill in the blanks, match the columns or true/false).",
+      "marks": "10 × 2 = 20",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "Write True or False: (i) (x + y)² − (x − y)² = 4xy. (ii) The HCF of 6x²y and 9xy² is 3x²y².",
+          "answer": "(i) True: (x² + 2xy + y²) − (x² − 2xy + y²) = 4xy.\n(ii) False: HCF of 6 and 9 is 3; lowest powers are x¹ and y¹, so HCF = 3xy.",
+          "note": "Lesson 4."
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Fill in the blanks: (i) The solution of 3x + 4y = 17 and 4x − 3y = 6 is x = ____, y = ____. (ii) The line 3x − 2y = 12 cuts the x-axis at ____.",
+          "answer": "(i) ×3 and ×4: 9x + 12y = 51 and 16x − 12y = 24; add: 25x = 75 ⇒ x = 3; then 4y = 17 − 9 = 8 ⇒ y = 2.\n(ii) y = 0: 3x = 12 ⇒ x = 4, so (4, 0).",
+          "years": [
+            "October 2021"
+          ],
+          "note": "Lesson 5."
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "Match: (i) If (α − 3)x² + 4(α − 3)x + 4 = 0 has equal real roots, α = ____ (ii) If x = ½ is a root of x² + kx − 5/4 = 0, k = ____ — (A) 3 and 4 (B) 4 (C) 2 (D) 6",
+          "answer": "(i) D = 16(α − 3)² − 16(α − 3) = 16(α − 3)(α − 4) = 0 ⇒ α = 3 or 4. α = 3 makes the x² term vanish (not a quadratic), so α = 4 → (B); the paper's key offers (A) '3 and 4'.\n(ii) ¼ + k/2 − 5/4 = 0 ⇒ k/2 = 1 ⇒ k = 2 → (C).",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 6."
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Write True or False: (i) R(−2, −3) lies in quadrant III. (ii) The point (0, 5) lies on the x-axis.",
+          "answer": "(i) True: both coordinates are negative.\n(ii) False: x = 0, so it lies on the y-axis.",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 19."
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "Fill in the blanks: (i) The area of a parallelogram of area 18 cm² on a base of 6 cm has height ____. (ii) The area of an isosceles triangle with base 12 cm and equal sides 10 cm is ____.",
+          "answer": "(i) Height = area ÷ base = 18 ÷ 6 = 3 cm.\n(ii) Height = √(10² − 6²) = 8 cm; area = ½ × 12 × 8 = 48 cm².",
+          "years": [
+            "October 2022",
+            "October 2021"
+          ],
+          "note": "Lesson 20."
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "Fill in the blanks: (i) The volume of a cube of surface area 150 cm² is ____. (ii) A cone and a cylinder with equal radii have equal curved surfaces; slant height of cone : height of cylinder = ____.",
+          "answer": "(i) 6a² = 150 ⇒ a = 5 ⇒ V = 125 cm³.\n(ii) πrl = 2πrh ⇒ l = 2h ⇒ l : h = 2 : 1.",
+          "years": [
+            "April 2023",
+            "October 2022"
+          ],
+          "note": "Lesson 21."
+        },
+        {
+          "id": "2.7",
+          "type": "open",
+          "q": "Write True or False: (i) sin 10θ = cos 8θ (10θ acute) gives tan 9θ = 1. (ii) The value of sin A can be 4/3.",
+          "answer": "(i) True: 10θ + 8θ = 90° ⇒ θ = 5° ⇒ tan 45° = 1.\n(ii) False: sin A = opposite/hypotenuse ≤ 1.",
+          "years": [
+            "October 2021"
+          ],
+          "note": "Lesson 22."
+        },
+        {
+          "id": "2.8",
+          "type": "open",
+          "q": "Fill in the blanks: (i) A kite string 20√3 m long makes 60° with the ground; the kite's height is ____. (ii) A tower casts its shadow 15 m from its foot at an elevation of 60°; its height is ____.",
+          "answer": "(i) h = 20√3 × sin 60° = 20√3 × √3/2 = 30 m.\n(ii) h = 15 tan 60° = 15√3 ≈ 25.98 m.",
+          "years": [
+            "October 2021",
+            "April 2021"
+          ],
+          "note": "Lesson 23."
+        },
+        {
+          "id": "2.9",
+          "type": "open",
+          "q": "Write True or False: (i) Class mark is a measure of central tendency. (ii) The median of 3, 1, 5, 2, 4 is 5.",
+          "answer": "(i) False: mean, median and mode are; a class mark is just a class's midpoint.\n(ii) False: in order 1, 2, 3, 4, 5 the middle value is 3.",
+          "note": "Lesson 25."
+        },
+        {
+          "id": "2.10",
+          "type": "open",
+          "q": "A box has 4 red balls, 5 white balls and some green balls. The probability of a red ball is 1/5. Fill in: (i) P(green) = ____ (ii) P(not green) = ____.",
+          "answer": "Total = 4 ÷ (1/5) = 20 balls ⇒ green = 20 − 4 − 5 = 11.\n(i) P(green) = 11/20.\n(ii) P(not green) = 1 − 11/20 = 9/20.",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 26."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Case study: read the information and answer the questions that follow.",
+      "marks": "5 × 1 = 5",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "mcq",
+          "q": "The speed of the boat upstream is —",
+          "options": [
+            "(18 + x) km/h",
+            "(18 − x) km/h",
+            "18x km/h",
+            "(x − 18) km/h"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2024"
+          ],
+          "work": "Going against the stream, the stream slows the boat: 18 − x.",
+          "note": "Lesson 6."
+        },
+        {
+          "id": "3.2",
+          "type": "mcq",
+          "q": "The equation that describes the situation is —",
+          "options": [
+            "x² + 48x − 324 = 0",
+            "x² − 48x + 324 = 0",
+            "x² + 48x + 324 = 0",
+            "x² − 324 = 0"
+          ],
+          "answer": "A",
+          "work": "Time upstream − time downstream = 1: 24/(18 − x) − 24/(18 + x) = 1.\n24[(18 + x) − (18 − x)] = (18 − x)(18 + x) ⇒ 48x = 324 − x² ⇒ x² + 48x − 324 = 0."
+        },
+        {
+          "id": "3.3",
+          "type": "mcq",
+          "q": "The speed of the stream is —",
+          "options": [
+            "4 km/h",
+            "6 km/h",
+            "8 km/h",
+            "54 km/h"
+          ],
+          "answer": "B",
+          "work": "x² + 48x − 324 = (x + 54)(x − 6) = 0 ⇒ x = 6 or −54.\nSpeed cannot be negative, so x = 6 km/h."
+        },
+        {
+          "id": "3.4",
+          "type": "mcq",
+          "q": "The time taken downstream is —",
+          "options": [
+            "30 minutes",
+            "60 minutes",
+            "90 minutes",
+            "120 minutes"
+          ],
+          "answer": "B",
+          "work": "Downstream speed = 18 + 6 = 24 km/h; time = 24 ÷ 24 = 1 hour = 60 minutes.\n(Upstream: 24 ÷ 12 = 2 hours, one hour more ✓.)"
+        },
+        {
+          "id": "3.5",
+          "type": "mcq",
+          "q": "The relation used for time is —",
+          "options": [
+            "distance = speed × time",
+            "speed = distance × time",
+            "time = speed × distance",
+            "distance = speed ÷ time"
+          ],
+          "answer": "A",
+          "work": "Distance = speed × time, so time = distance ÷ speed."
+        }
+      ],
+      "fixed": true,
+      "passage": "A motorboat whose speed in still water is 18 km/h takes 1 hour more to go 24 km upstream than to return downstream to the same spot. Let the speed of the stream be x km/h."
+    },
+    {
+      "no": 4,
+      "title": "Very short answer questions.",
+      "marks": "9 × 2 = 18",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "If a + 1/a = 2, find a³ + 1/a³.",
+          "answer": "Use (a + 1/a)³ = a³ + 1/a³ + 3(a + 1/a).\n2³ = a³ + 1/a³ + 3 × 2 ⇒ 8 = a³ + 1/a³ + 6.\nSo a³ + 1/a³ = 2.",
+          "years": [
+            "October 2024"
+          ],
+          "or": {
+            "q": "Factorise 3a⁵b − 243ab⁵.",
+            "answer": "Take out 3ab: 3ab(a⁴ − 81b⁴).\na⁴ − 81b⁴ = (a²)² − (9b²)² = (a² − 9b²)(a² + 9b²).\na² − 9b² = (a − 3b)(a + 3b).\nSo 3a⁵b − 243ab⁵ = 3ab(a − 3b)(a + 3b)(a² + 9b²)."
+          },
+          "note": "Lesson 4."
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "The perimeter of a rectangular garden is 20 m and its length is 4 m more than its breadth. Find its length, breadth and area.",
+          "answer": "Let breadth = b, length = b + 4.\n2(l + b) = 20 ⇒ (b + 4) + b = 10 ⇒ 2b = 6 ⇒ b = 3.\nLength = 7 m, breadth = 3 m, area = 7 × 3 = 21 m².",
+          "years": [
+            "October 2016"
+          ],
+          "note": "Lesson 5."
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "Find a natural number whose square diminished by 84 equals three times 8 more than the number.",
+          "answer": "x² − 84 = 3(x + 8) ⇒ x² − 3x − 108 = 0.\nProduct −108, sum −3: −12 and 9 ⇒ (x − 12)(x + 9) = 0.\nx = 12 (natural). Check: 144 − 84 = 60 = 3 × 20 ✓.",
+          "years": [
+            "October 2022"
+          ],
+          "note": "Lesson 6."
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "For an A.P. with a = −5 and d = 4, find the sum of the first 40 terms.",
+          "answer": "S₄₀ = 40/2 [2(−5) + 39 × 4] = 20 × (−10 + 156) = 20 × 146 = 2920.",
+          "years": [
+            "April 2016"
+          ],
+          "note": "Lesson 7."
+        },
+        {
+          "id": "4.5",
+          "type": "open",
+          "q": "Three metal cubes of edges 3 cm, 4 cm and 5 cm are melted into one cube. Find its edge.",
+          "answer": "Total volume = 27 + 64 + 125 = 216 cm³.\nEdge = ∛216 = 6 cm.",
+          "years": [
+            "October 2022"
+          ],
+          "note": "Lesson 21."
+        },
+        {
+          "id": "4.6",
+          "type": "open",
+          "q": "Prove that (sin⁴θ + cos⁴θ)/(1 − 2 sin²θ cos²θ) = 1.",
+          "answer": "sin⁴θ + cos⁴θ = (sin²θ + cos²θ)² − 2 sin²θ cos²θ = 1 − 2 sin²θ cos²θ.\nSo the fraction equals 1.",
+          "years": [
+            "October 2019"
+          ],
+          "note": "Lesson 22."
+        },
+        {
+          "id": "4.7",
+          "type": "open",
+          "q": "In △ABC right-angled at B, AC = 8 cm and BC = 4 cm. Find ∠C.",
+          "answer": "cos C = BC/AC = 4/8 = 1/2 ⇒ ∠C = 60°.",
+          "years": [
+            "April 2021"
+          ],
+          "note": "Lesson 23."
+        },
+        {
+          "id": "4.8",
+          "type": "open",
+          "q": "Find the median of: x: 5, 10, 15, 25, 30; f: 4, 6, 7, 3, 5.",
+          "answer": "N = 25 ⇒ 13th value. cf: 4, 10, 17, 20, 25.\nThe 13th lies at x = 15. Median = 15.",
+          "years": [
+            "October 2024"
+          ],
+          "note": "Lesson 25."
+        },
+        {
+          "id": "4.9",
+          "type": "open",
+          "q": "A bag contains 5 red, 4 black and 3 green balls. One is drawn at random. Find the probability of (i) a red or green ball (ii) a ball which is not red.",
+          "answer": "Total = 12.\n(i) Red or green = 5 + 3 = 8 ⇒ 8/12 = 2/3.\n(ii) Not red = 12 − 5 = 7 ⇒ 7/12.",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 26."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Short answer questions.",
+      "marks": "5 × 3 = 15",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "Divide 16 into two parts such that twice the square of the larger part exceeds the square of the smaller part by 164.",
+          "answer": "Let the larger part be x; the smaller is 16 − x.\n2x² − (16 − x)² = 164 ⇒ 2x² − (256 − 32x + x²) = 164\n⇒ x² + 32x − 420 = 0 ⇒ (x + 42)(x − 10) = 0 ⇒ x = 10.\nThe parts are 10 and 6. Check: 2 × 100 − 36 = 164 ✓.",
+          "years": [
+            "April 2026"
+          ],
+          "or": {
+            "q": "Ramu's age two years ago multiplied by his age five years from now gives 120. Find his present age.",
+            "answer": "Let the present age be x.\n(x − 2)(x + 5) = 120 ⇒ x² + 3x − 10 = 120 ⇒ x² + 3x − 130 = 0.\n(x + 13)(x − 10) = 0 ⇒ x = 10 (age cannot be negative).\nRamu is 10 years old."
+          },
+          "note": "Lesson 6."
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "A washing machine is available for ₹13,500 cash or ₹6,500 cash down followed by three monthly instalments of ₹2,500. Find the rate of interest.",
+          "answer": "Balance = 13500 − 6500 = ₹7,000; instalments = ₹7,500; interest = ₹500.\nOwed: 7000, 7000 − 2500 = 4500, 4500 − 2500 = 2000; total = ₹13,500 for one month.\n500 = 13500 × R/(100 × 12) ⇒ R = 500 × 1200/13500 = 44.44% per annum.",
+          "years": [
+            "April 2019"
+          ],
+          "note": "Lesson 9."
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "Construct △ABC in which BC = 4 cm, ∠B = 60° and AB − AC = 1.2 cm.",
+          "answer": "1. Draw BC = 4 cm.\n2. At B make ∠CBX = 60°.\n3. Cut BD = 1.2 cm on BX.\n4. Join DC and draw its perpendicular bisector, meeting BX produced at A.\n5. Join AC. △ABC is the required triangle (AD = AC, so AB − AC = BD = 1.2 cm).",
+          "years": [
+            "April 2016"
+          ],
+          "note": "Lesson 18."
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "A conical tent is 6 m high with base radius 8 m. Find (i) its slant height (ii) the cloth needed (iii) its volume.",
+          "answer": "(i) l = √(6² + 8²) = 10 m.\n(ii) Cloth = CSA = πrl = 22/7 × 8 × 10 = 251.43 m².\n(iii) V = ⅓πr²h = ⅓ × 22/7 × 64 × 6 = 402.29 m³.",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Lesson 21."
+        },
+        {
+          "id": "5.5",
+          "type": "open",
+          "q": "A pair of dice is thrown once. Find the probability of (i) the same number on both (ii) an odd prime as the sum.",
+          "answer": "(i) 6/36 = 1/6.\n(ii) Odd prime sums: 3 (2 ways), 5 (4 ways), 7 (6 ways), 11 (2 ways) = 14 ⇒ 14/36 = 7/18.",
+          "years": [
+            "April 2019"
+          ],
+          "note": "Lesson 26."
+        }
+      ]
+    },
+    {
+      "no": 6,
+      "title": "Long answer questions.",
+      "marks": "2 × 5 = 10",
+      "questions": [
+        {
+          "id": "6.1",
+          "type": "open",
+          "q": "Find the sum of all three-digit numbers which leave remainder 2 when divided by 5.",
+          "answer": "The numbers are 102, 107, …, 997.\na = 102, d = 5, l = 997: 997 = 102 + (n − 1)5 ⇒ n − 1 = 179 ⇒ n = 180.\nSum = 180/2 × (102 + 997) = 90 × 1099 = 98,910.",
+          "years": [
+            "October 2016"
+          ],
+          "note": "Lesson 7."
+        },
+        {
+          "id": "6.2",
+          "type": "open",
+          "q": "Prove that the angle subtended by an arc at the centre of a circle is double the angle subtended by it at any point on the remaining part of the circle.",
+          "answer": "Given: arc AB of a circle with centre O; C is a point on the remaining part.\nTo prove: ∠AOB = 2∠ACB.\nConstruction: join CO and produce it to a point D.\nProof: in △OAC, OA = OC (radii), so ∠OAC = ∠OCA.\nThe exterior angle ∠AOD = ∠OAC + ∠OCA = 2∠OCA …(1)\nSimilarly in △OBC, ∠BOD = 2∠OCB …(2)\nAdding (1) and (2): ∠AOD + ∠BOD = 2(∠OCA + ∠OCB), i.e. ∠AOB = 2∠ACB. Proved.\n(For a major arc, the same steps give reflex ∠AOB = 2∠ACB.)",
+          "note": "Lesson 16."
+        }
+      ]
+    }
+  ]
+}

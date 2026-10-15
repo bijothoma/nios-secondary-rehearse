@@ -1,0 +1,123 @@
+{
+  "subject": "maths",
+  "lesson": 17,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 17: Secants, Tangents and Their Properties — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Secants and tangents"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "A line that cuts a circle in two points is a secant. A line that touches a circle at exactly one point (the point of contact) is a tangent; it is the limiting position of a secant when the two points of intersection come together. From a point inside a circle no tangent can be drawn; from a point on the circle exactly one; from a point outside exactly two."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Properties of tangents"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "(1) A tangent is perpendicular to the radius through the point of contact: ∠OPT = 90°. So with OP = radius r, distance OT = d and tangent length t, t² = d² − r² (e.g. OA = 25, tangent 24 ⇒ r = 7).\n(2) The two tangents from an external point are equal: PA = PB. They are equally inclined to the line joining the point to the centre, OP bisects ∠APB, and OP is perpendicular to the chord of contact AB.\n(3) If tangents PA, PB make angle ∠APB, then ∠AOB = 180° − ∠APB (OAPB has two right angles).\n(4) The tangents at the ends of a diameter are parallel."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Proof: tangents from an external point are equal"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Let PA and PB be tangents from P to a circle with centre O. Join OA, OB and OP. In △OAP and △OBP: OA = OB (radii), OP = OP (common), ∠OAP = ∠OBP = 90° (tangent ⊥ radius). So △OAP ≅ △OBP (RHS), and PA = PB (CPCT). Also ∠OPA = ∠OPB."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Intersecting chords and secants"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "If two chords AB and CD meet at P (inside or outside the circle), PA × PB = PC × PD. If PAB is a secant and PT a tangent, PA × PB = PT². Example: PA = 4, AB = 5 ⇒ PB = 9, PT² = 36, PT = 6."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Alternate segment theorem"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "The angle between a tangent and a chord through the point of contact equals the angle in the alternate segment. If PT is a tangent at P and PQ a chord, ∠QPT = angle subtended by PQ in the other segment = ½∠POQ. Its converse: a line making such equal angles with a chord is a tangent."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Common tangents"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Two circles that do not meet and lie outside each other have 4 common tangents; touching externally — 3; intersecting at two points — 2; touching internally — 1; one inside the other without touching — 0. For a quadrilateral or triangle drawn round a circle (incircle), the tangent lengths from each vertex are equal, so in △ABC with incircle touching BC, CA, AB at D, E, F: AF + BD + CE = AE + CD + BF = ½ perimeter."
+        ]
+      ]
+    }
+  ]
+}

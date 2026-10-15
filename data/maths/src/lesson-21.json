@@ -1,0 +1,70 @@
+{
+  "lesson": 21,
+  "title": "Surface Areas and Volumes of Solid Figures",
+  "module": 4,
+  "summary": [
+    "## Surface area and volume",
+    "Solids do not lie in one plane. The surface area is the area of the boundary of the solid; the volume is the space it encloses. Curved surface area (CSA) is the area of the curved part only; total surface area (TSA) includes the flat faces too. 1 m³ = 1000 litres; 1 litre = 1000 cm³.",
+    "## Cuboid and cube",
+    "Cuboid l × b × h: TSA = 2(lb + bh + hl), volume = lbh, diagonal = √(l² + b² + h²), area of four walls = 2(l + b)h. Cube of edge a: TSA = 6a², volume = a³, diagonal = a√3. Two cubes of edge a joined end to end form a cuboid 2a × a × a.",
+    "## Cylinder",
+    "Right circular cylinder of radius r and height h: CSA = 2πrh, TSA = 2πr(h + r), volume = πr²h. A rectangular sheet rolled along its length forms a cylinder whose circumference is that length (66 cm sheet ⇒ 2πr = 66, r = 10.5 cm). Hollow cylinder (pipe) with outer radius R and inner r: volume of metal = πh(R² − r²).",
+    "## Cone",
+    "Right circular cone of radius r, height h and slant height l: l² = r² + h²; CSA = πrl, TSA = πr(l + r), volume = ⅓πr²h. A cylinder with the same base and height holds 3 times the volume of the cone.",
+    "## Sphere and hemisphere",
+    "Sphere of radius r: surface area = 4πr², volume = (4/3)πr³. Hemisphere: CSA = 2πr², TSA = 3πr², volume = (2/3)πr³. Hollow sphere with outer radius R and inner r: volume = (4/3)π(R³ − r³).",
+    "## Melting, recasting and combined solids",
+    "When a solid is melted and recast, the volume stays the same: number of small solids = volume of the big solid ÷ volume of one small solid. For a solid made of two shapes (a cone on a hemisphere, a cylinder with a hemispherical end) add the volumes, and add only the outer curved surfaces for the surface area. Use π = 22/7 unless told to use 3.14."
+  ],
+  "mcq": [
+    ["The curved surface area of a right circular cone of slant height 10 cm and base radius 7 cm is —", ["120 cm²", "140 cm²", "220 cm²", "240 cm²"], "C", ["April 2025"], {"work": "CSA = πrl = 22/7 × 7 × 10 = 220 cm²."}],
+    ["The total surface area of a solid hemisphere of radius 10 cm (π = 3.14) is —", ["840 cm²", "842 cm²", "940 cm²", "942 cm²"], "D", ["April 2025"], {"work": "TSA = 3πr² = 3 × 3.14 × 100 = 942 cm² (curved part 2πr² + flat circle πr²)."}],
+    ["The curved surface area of a cylinder of height 14 cm is 88 cm². Its diameter is —", ["0.5 cm", "1 cm", "1.5 cm", "2 cm"], "D", ["April 2025", "October 2024"], {"work": "2πrh = 88 ⇒ 2 × 22/7 × r × 14 = 88 ⇒ 88r = 88 ⇒ r = 1 cm.\nDiameter = 2 cm."}],
+    ["The surface area of a cuboid 3 cm × 4 cm × 5 cm is —", ["60 cm²", "47 cm²", "94 cm²", "120 cm²"], "C", ["October 2025"], {"work": "TSA = 2(lb + bh + hl) = 2(12 + 20 + 15) = 2 × 47 = 94 cm²."}],
+    ["A cylinder and a cone have the same radius and height. The volume of the cylinder is —", ["equal to the cone", "half the cone", "twice the cone", "three times the cone"], "D", ["October 2025"], {"work": "Cylinder πr²h; cone ⅓πr²h. Ratio = 3 : 1."}],
+    ["Two cubes of edge 12 cm are joined end to end. The surface area of the resulting cuboid is —", ["1440 cm²", "1728 cm²", "864 cm²", "1152 cm²"], "A", ["October 2024"], {"work": "The cuboid is 24 × 12 × 12.\nTSA = 2(24 × 12 + 12 × 12 + 12 × 24) = 2(288 + 144 + 288) = 1440 cm²."}],
+    ["The total surface area of a solid hemisphere of radius 7 cm is —", ["308 cm²", "462 cm²", "616 cm²", "154 cm²"], "B", ["April 2024", "April 2021"], {"work": "TSA = 3πr² = 3 × 22/7 × 49 = 462 cm²."}],
+    ["The surface area of a cube of side 27 cm is —", ["2916 cm²", "729 cm²", "4374 cm²", "19683 cm²"], "C", ["October 2019"], {"work": "6a² = 6 × 729 = 4374 cm²."}],
+    ["A 40 cm × 22 cm sheet of paper is rolled into a hollow cylinder of height 40 cm. Its radius is —", ["3.5 cm", "2.5 cm", "1.5 cm", "3 cm"], "A", ["October 2019"], {"work": "The 22 cm side becomes the circumference: 2πr = 22 ⇒ r = 22 × 7/(2 × 22) = 3.5 cm."}],
+    ["The height of a cylinder equals the diameter of its base and its radius is 7 cm. Its volume is —", ["2156 cm³", "1078 cm³", "686 cm³", "343 cm³"], "A", ["October 2017"], {"work": "h = 14 cm. V = πr²h = 22/7 × 49 × 14 = 2156 cm³."}],
+    ["A stone slab 3 m long, 2 m wide and 25 cm thick has volume —", ["150 m³", "1.5 m³", "15 m³", "0.15 m³"], "B", ["April 2017", "October 2021"], {"work": "25 cm = 0.25 m. V = 3 × 2 × 0.25 = 1.5 m³."}]
+  ],
+  "objective": [
+    ["Write True or False: (i) The surface area of a cube of edge a is 6a². (ii) The total surface area of a cone is πrl.", "(i) True: six square faces of area a² each.\n(ii) False: πrl is the curved surface only; TSA = πrl + πr² = πr(l + r).", ["October 2025"]],
+    ["Fill in the blanks: (i) A hemisphere whose volume and curved surface area are numerically equal has diameter ____. (ii) A cylindrical tank of capacity 6160 cm³ and diameter 28 cm has depth ____.", "(i) (2/3)πr³ = 2πr² ⇒ r = 3, so the diameter is 6 units.\n(ii) r = 14: 22/7 × 196 × h = 6160 ⇒ 616h = 6160 ⇒ h = 10 cm.", ["October 2024"]],
+    ["Fill in the blanks: (i) The volume of a cube of surface area 150 cm² is ____. (ii) A cone and a cylinder with equal radii have equal curved surfaces; slant height of cone : height of cylinder = ____.", "(i) 6a² = 150 ⇒ a = 5 ⇒ V = 125 cm³.\n(ii) πrl = 2πrh ⇒ l = 2h ⇒ l : h = 2 : 1.", ["April 2023", "October 2022"]],
+    ["Fill in the blanks: (i) The surface area of a sphere of radius 7 cm is ____. (ii) Its volume is ____.", "(i) 4πr² = 4 × 22/7 × 49 = 616 cm².\n(ii) (4/3)πr³ = (4/3) × 22/7 × 343 = 4312/3 ≈ 1437.33 cm³.", ["October 2017"]]
+  ],
+  "case": {
+    "passage": "A juice seller serves juice in glasses that are cylinders of inner radius 3 cm and height 10 cm. To cheat customers, the first kind of glass has a hemispherical raised bottom of radius 3 cm, and the second kind has a conical raised bottom of radius 3 cm and height 1.5 cm. (π = 22/7)",
+    "items": [
+      ["The apparent capacity of a glass is —", ["282.85 cm³", "226.28 cm³", "268.71 cm³", "188.57 cm³"], "A", ["April 2026"], {"work": "Apparent = πr²h = 22/7 × 9 × 10 = 1980/7 ≈ 282.86 cm³."}],
+      ["The actual capacity of the first glass is —", ["282.85 cm³", "226.28 cm³", "268.71 cm³", "56.57 cm³"], "B", {"work": "Hemisphere = (2/3) × 22/7 × 27 = 396/7 ≈ 56.57 cm³.\nActual = 282.86 − 56.57 = 226.29 cm³ (≈ 226.28)."}],
+      ["The actual capacity of the second glass is —", ["282.85 cm³", "268.71 cm³", "226.28 cm³", "14.14 cm³"], "B", {"work": "Cone = ⅓ × 22/7 × 9 × 1.5 = 99/7 ≈ 14.14 cm³.\nActual = 282.86 − 14.14 = 268.71 cm³."}],
+      ["How much more juice does the second glass hold than the first?", ["56.57 cm³", "42.43 cm³", "14.14 cm³", "28.28 cm³"], "B", {"work": "268.71 − 226.28 = 42.43 cm³ (= 56.57 − 14.14)."}],
+      ["The curved surface area of the glass is —", ["94.28 cm²", "282.85 cm²", "188.57 cm²", "216.86 cm²"], "C", {"work": "CSA = 2πrh = 2 × 22/7 × 3 × 10 = 1320/7 ≈ 188.57 cm²."}]
+    ]
+  },
+  "vsa": [
+    ["A solid metallic sphere of radius 21 cm is melted and recast into small cones of radius 7 cm and height 3 cm. Find the number of cones.", "Volume of sphere = (4/3)π × 21³ = (4/3)π × 9261 = 12348π.\nVolume of one cone = ⅓π × 7² × 3 = 49π.\nNumber of cones = 12348π ÷ 49π = 252.", ["April 2025"], {"or": ["The curved surface area of a solid cylinder is two-thirds of its total surface area. If the total surface area is 231 cm², find its radius.", "2πrh = ⅔ × 2πr(h + r) ⇒ 3h = 2h + 2r ⇒ h = 2r.\nTSA = 2πr(h + r) = 2πr × 3r = 6πr² = 231 ⇒ r² = 231 × 7/(6 × 22) = 12.25 ⇒ r = 3.5 cm."]}],
+    ["The radii of two cylinders are in the ratio 2 : 3 and their heights in the ratio 5 : 3. Find the ratio of their volumes.", "V₁/V₂ = (r₁² h₁)/(r₂² h₂) = (4 × 5)/(9 × 3) = 20/27.\nRatio 20 : 27.", ["October 2019"]],
+    ["Three metal cubes of edges 3 cm, 4 cm and 5 cm are melted into one cube. Find its edge.", "Total volume = 27 + 64 + 125 = 216 cm³.\nEdge = ∛216 = 6 cm.", ["October 2022"]],
+    ["Find the volume of a cylinder of height 13.5 cm and base radius 7 cm.", "V = πr²h = 22/7 × 49 × 13.5 = 154 × 13.5 = 2079 cm³.", ["April 2022"]],
+    ["A rectangular sheet of metal 66 cm × 12 cm is rolled to form a cylinder of height 12 cm. Find its volume.", "Circumference = 66 cm ⇒ 2 × 22/7 × r = 66 ⇒ r = 10.5 cm.\nV = 22/7 × 10.5² × 12 = 22/7 × 110.25 × 12 = 4158 cm³.", ["April 2025"]],
+    ["Find the volume of a hemisphere of radius 21 cm.", "V = (2/3)πr³ = (2/3) × 22/7 × 9261 = 19,404 cm³.", ["April 2016"]]
+  ],
+  "sa": [
+    ["14 cylindrical pillars each have a base diameter of 40 cm and height 10 m. How much concrete is needed?", "r = 20 cm = 0.2 m, h = 10 m.\nOne pillar: πr²h = 22/7 × 0.04 × 10 = 8.8/7 m³.\n14 pillars: 14 × 8.8/7 = 17.6 m³.", ["October 2024"], {"or": ["A village of 4,000 people needs 150 litres of water per head per day. Its tank measures 20 m × 15 m × 6 m. For how many days will the water last?", "Tank = 20 × 15 × 6 = 1800 m³ = 18,00,000 litres.\nDaily need = 4000 × 150 = 6,00,000 litres.\nDays = 1800000 ÷ 600000 = 3 days."]}],
+    ["A cube and a cuboid have the same volume; the cuboid's sides are in the ratio 1 : 2 : 4. The difference in the cost of polishing them at ₹5 per m² is ₹80. Find their volume.", "Cuboid sides x, 2x, 4x: volume 8x³, so the cube has edge 2x.\nCuboid TSA = 2(2x² + 8x² + 4x²) = 28x²; cube TSA = 6(2x)² = 24x².\nDifference 4x² × 5 = 80 ⇒ x² = 4 ⇒ x = 2 m.\nVolume = 8x³ = 64 m³.", ["April 2026"]],
+    ["A hollow cylindrical pipe has external radius 9 cm and length 14 cm. The metal used is 748 cm³. Find the thickness of the metal.", "Volume of metal = πh(R² − r²) = 22/7 × 14 × (81 − r²) = 44(81 − r²).\n44(81 − r²) = 748 ⇒ 81 − r² = 17 ⇒ r² = 64 ⇒ r = 8 cm.\nThickness = 9 − 8 = 1 cm.", ["April 2021", "April 2016"]],
+    ["A conical tent is 6 m high with base radius 8 m. Find (i) its slant height (ii) the cloth needed (iii) its volume.", "(i) l = √(6² + 8²) = 10 m.\n(ii) Cloth = CSA = πrl = 22/7 × 8 × 10 = 251.43 m².\n(iii) V = ⅓πr²h = ⅓ × 22/7 × 64 × 6 = 402.29 m³.", ["April 2024"]]
+  ],
+  "la": [
+    ["A hollow metal sphere of internal and external diameters 4 cm and 8 cm is melted and recast into a solid cone of base diameter 8 cm. Find the height of the cone.", "Metal = (4/3)π(R³ − r³) = (4/3)π(4³ − 2³) = (4/3)π × 56 = 224π/3 cm³.\nCone: ⅓π × 4² × h = 16πh/3.\n16πh/3 = 224π/3 ⇒ h = 14 cm.", ["April 2023"]],
+    ["A cylindrical container of diameter 12 cm and height 15 cm is full of ice-cream. It is filled into cones of height 12 cm and diameter 6 cm. How many cones can be filled?", "Cylinder: π × 6² × 15 = 540π.\nOne cone: ⅓π × 3² × 12 = 36π.\nNumber = 540π ÷ 36π = 15 cones.", ["April 2019"]],
+    ["A solid toy is a hemisphere surmounted by a cone. The cone's height is 2 cm and the base diameter is 4 cm. Find the volume and surface area of the toy. (π = 22/7)", "r = 2 cm, cone height h = 2 cm, slant height l = √(4 + 4) = 2√2 ≈ 2.83 cm.\nVolume = ⅓πr²h + (2/3)πr³ = ⅓π × 4 × 2 + (2/3)π × 8 = 8π/3 + 16π/3 = 8π ≈ 25.14 cm³.\nSurface = cone CSA + hemisphere CSA = πrl + 2πr² = π × 2 × 2.83 + 2π × 4 = 17.78 + 25.14 ≈ 42.92 cm².", ["October 2017"]],
+    ["Find the slant height of a right circular cone of volume 12936 cm³ and base radius 21 cm. Also find its total surface area.", "⅓ × 22/7 × 21² × h = 12936 ⇒ 462h = 12936 ⇒ h = 28 cm.\nl = √(21² + 28²) = √(441 + 784) = √1225 = 35 cm.\nTSA = πr(l + r) = 22/7 × 21 × 56 = 3696 cm².\n(CSA = πrl = 22/7 × 21 × 35 = 2310 cm².)", ["April 2017", "October 2016"]],
+    ["A milk tanker is a cylinder of diameter 2 m and length 4.2 m. It supplies its milk to two booths in the ratio 3 : 2. One booth has a cuboidal vessel with base area 3.96 m² and the other a cylindrical vessel of radius 1 m. Find the level of milk in each.", "Tanker volume = π × 1² × 4.2 = 22/7 × 4.2 = 13.2 m³.\nShares: 3/5 × 13.2 = 7.92 m³ and 2/5 × 13.2 = 5.28 m³.\nCuboidal vessel (gets 7.92): level = 7.92 ÷ 3.96 = 2 m.\nCylindrical vessel (gets 5.28): level = 5.28 ÷ (22/7 × 1²) = 1.68 m.", ["October 2019"]],
+    ["1 m³ of metal is drawn into a wire of diameter 3.5 mm. Find the length of the wire.", "r = 1.75 mm = 0.00175 m.\nπr²L = 1 ⇒ L = 1 ÷ (22/7 × 0.00175²) = 1 ÷ (22/7 × 0.0000030625) = 1 ÷ 0.000009625 ≈ 103,896 m ≈ 103.9 km.", ["October 2021"]]
+  ]
+}

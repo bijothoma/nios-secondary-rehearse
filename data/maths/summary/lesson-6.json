@@ -1,0 +1,105 @@
+{
+  "subject": "maths",
+  "lesson": 6,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 6: Quadratic Equations — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Quadratic equations"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "An equation of the form ax² + bx + c = 0, where a, b, c are real numbers and a ≠ 0, is a quadratic equation in standard form (degree 2). The values of x that satisfy it are its roots (solutions); they are the zeros of the polynomial ax² + bx + c. A quadratic equation has at most two roots. To check whether a number is a root, substitute it: x = ½ is a root of x² + kx − 5/4 = 0 when ¼ + k/2 − 5/4 = 0, i.e. k = 2."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Solving by factorization"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Write the equation in standard form, factorize the left side into two linear factors (split the middle term: two numbers whose product is ac and sum is b), and set each factor equal to zero. Example: x² − 3x − 10 = 0 ⇒ (x − 5)(x + 2) = 0 ⇒ x = 5 or x = −2."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Quadratic formula"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "The roots of ax² + bx + c = 0 are x = [−b ± √(b² − 4ac)] / 2a. Example: 2x² + x − 6 = 0 has a = 2, b = 1, c = −6, b² − 4ac = 1 + 48 = 49, so x = (−1 ± 7)/4, i.e. x = 3/2 or x = −2."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Nature of roots — the discriminant"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "D = b² − 4ac is the discriminant. (i) D > 0: two real and unequal (distinct) roots. (ii) D = 0: two real and equal roots, each −b/2a (then c = b²/4a). (iii) D < 0: no real roots. Example: kx² − 12x + 6 = 0 has equal roots when 144 − 24k = 0, i.e. k = 6; x² − 3x + 3 = 0 has D = 9 − 12 = −3 < 0, so no real roots."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Word problems"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Form a quadratic equation from the data, solve it, and reject roots that do not make sense (negative ages, lengths or speeds, non-natural numbers). Useful set-ups: consecutive odd numbers x and x + 2; a number and its reciprocal x and 1/x; a right triangle with sides x and x + 7 and hypotenuse 13 (Pythagoras: x² + (x + 7)² = 13²); a boat with still-water speed u and stream speed v goes u + v downstream and u − v upstream, time = distance ÷ speed; rectangle area = length × breadth."
+        ]
+      ]
+    }
+  ]
+}

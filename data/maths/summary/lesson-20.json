@@ -1,0 +1,123 @@
+{
+  "subject": "maths",
+  "lesson": 20,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 20: Perimeters and Areas of Plane Figures — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Units"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "1 m = 100 cm, so 1 m² = 100 × 100 = 10,000 cm²; 1 hectare = 10,000 m². Perimeter is a length (cm, m) and area is in square units (cm², m²)."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Rectilinear figures"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Rectangle: perimeter 2(l + b), area l × b. Square of side a: perimeter 4a, area a² (and area = ½ × diagonal²). Parallelogram: area = base × corresponding height. Triangle: area = ½ × base × height. Right triangle: ½ × product of the legs. Equilateral triangle of side a: height (√3/2)a, area (√3/4)a². Rhombus: area = ½ × d₁ × d₂ (product of diagonals), perimeter 4 × side. Trapezium: area = ½ × (sum of parallel sides) × distance between them."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Heron's formula"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "For a triangle with sides a, b, c and semi-perimeter s = (a + b + c)/2: area = √[s(s − a)(s − b)(s − c)]. Example: 13, 14, 15 cm ⇒ s = 21, area = √(21 × 8 × 7 × 6) = √7056 = 84 cm². If the sides are in a ratio, find them first from the perimeter: 3 : 5 : 7 with perimeter 60 cm gives 12, 20, 28 cm."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Paths"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Path round (or inside) a rectangle: area = outer rectangle − inner rectangle (path width w adds 2w to each dimension outside, subtracts 2w inside). Two cross paths of width w through the middle of an l × b park: area = lw + bw − w² (the central square is counted twice). Cost = area × rate."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Circles"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Circumference = 2πr = πd (diameter = 2 × radius); area = πr². Take π = 22/7 or 3.14 as told. Semicircle (closed): perimeter = πr + 2r, area = ½πr². Ring (circular path) between radii R and r: area = π(R² − r²) = π(R + r)(R − r)."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Sectors"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "A sector of radius r and central angle θ: arc length l = (θ/360°) × 2πr; area = (θ/360°) × πr² = ½ × l × r; perimeter = 2r + l. A clock's minute hand turns 6° a minute (360° in 60 minutes) and the hour hand 0.5° a minute (30° an hour), so in 20 minutes the minute hand sweeps a 120° sector."
+        ]
+      ]
+    }
+  ]
+}

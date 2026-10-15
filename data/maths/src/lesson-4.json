@@ -1,0 +1,68 @@
+{
+  "lesson": 4,
+  "title": "Special Products and Factorization",
+  "module": 1,
+  "summary": [
+    "## Special products",
+    "These products come up again and again — learn them by heart:\n(x + y)² = x² + 2xy + y²\n(x − y)² = x² − 2xy + y²\n(x + y)(x − y) = x² − y²\n(x + a)(x + b) = x² + (a + b)x + ab\n(ax + b)(cx + d) = acx² + (ad + bc)x + bd\n(x + y)³ = x³ + y³ + 3xy(x + y)\n(x − y)³ = x³ − y³ − 3xy(x − y)\n(x + y)(x² − xy + y²) = x³ + y³\n(x − y)(x² + xy + y²) = x³ − y³",
+    "Useful results: (x + y)² + (x − y)² = 2(x² + y²) and (x + y)² − (x − y)² = 4xy. If x + 1/x = k, then x² + 1/x² = k² − 2 and x³ + 1/x³ = k³ − 3k. If x − 1/x = k, then x² + 1/x² = k² + 2.",
+    "## Factorization",
+    "Factorizing a polynomial means writing it as a product of polynomials (its factors); it is completely factorized when no factor can be split further. Methods: (1) take out a common monomial factor — 6x² + 9x = 3x(2x + 3); (2) group the terms — 1 + x + xy + x²y = (1 + x) + xy(1 + x) = (1 + x)(1 + xy); (3) use the identities — a² − b², perfect squares, a³ + b³ = (a + b)(a² − ab + b²), a³ − b³ = (a − b)(a² + ab + b²); (4) split the middle term of ax² + bx + c: find two numbers whose product is ac and whose sum is b — for 3x² − x − 4, ac = −12, the numbers are −4 and 3, so 3x² − 4x + 3x − 4 = x(3x − 4) + 1(3x − 4) = (3x − 4)(x + 1).",
+    "## HCF and LCM of polynomials",
+    "Factorize each polynomial completely. The HCF is the product of the common factors, each taken with its lowest power; the LCM is the product of all the factors, each taken with its highest power. For monomials take the HCF/LCM of the numbers and of each letter: HCF(4x²y³, x³y²) = x²y², LCM = 4x³y³. For two polynomials, HCF × LCM = product of the polynomials (up to a constant).",
+    "## Rational expressions",
+    "A rational expression is P/Q where P and Q are polynomials and Q ≠ 0, e.g. (x² + 1)/(x − 2). Add, subtract, multiply and divide them like fractions: factorize every numerator and denominator, cancel common factors, and to divide multiply by the reciprocal. A rational expression is in its lowest terms when the numerator and denominator have no common factor."
+  ],
+  "mcq": [
+    ["(x + 8)(x − 10) is equal to —", ["x² + 2x − 80", "x² − 2x − 80", "x² − 18x − 80", "x² − 2x + 80"], "B", ["April 2026"], {"work": "Use (x + a)(x + b) = x² + (a + b)x + ab with a = 8, b = −10.\na + b = 8 − 10 = −2 and ab = 8 × (−10) = −80.\nSo (x + 8)(x − 10) = x² − 2x − 80."}],
+    ["The factors of 3x² − x − 4 are —", ["(3x + 4)(x − 1)", "(3x − 4)(x + 1)", "(3x − 1)(x + 4)", "(3x + 1)(x − 4)"], "B", ["April 2025"], {"work": "Product ac = 3 × (−4) = −12; we need two numbers with product −12 and sum −1: they are −4 and 3.\n3x² − x − 4 = 3x² − 4x + 3x − 4\n= x(3x − 4) + 1(3x − 4) = (3x − 4)(x + 1)."}],
+    ["4x² − 9y² is equal to —", ["(2x + 3y)²", "(2x + 3y)(2x − 3y)", "(2x − 3y)²", "(4x + 9y)(x − y)"], "B", ["October 2024"], {"work": "4x² − 9y² = (2x)² − (3y)², a difference of two squares.\na² − b² = (a + b)(a − b), so 4x² − 9y² = (2x + 3y)(2x − 3y)."}],
+    ["1 + x + xy + x²y is equal to —", ["(1 + x)(1 + xy)", "(1 + x)(1 − xy)", "(1 − x)(1 + xy)", "(1 + y)(1 + x²)"], "A", ["October 2024"], {"work": "Group the terms: (1 + x) + (xy + x²y)\n= (1 + x) + xy(1 + x)\n= (1 + x)(1 + xy)."}],
+    ["x² − 5x + 6 is equal to —", ["(x − 3)(x − 2)", "(x + 3)(x + 2)", "(x − 6)(x + 1)", "(x + 6)(x − 1)"], "A", ["April 2024"], {"work": "Two numbers with product +6 and sum −5 are −3 and −2.\nSo x² − 5x + 6 = (x − 3)(x − 2).\nCheck: (x − 3)(x − 2) = x² − 2x − 3x + 6 = x² − 5x + 6."}],
+    ["The HCF of 3³ × 5 and 3² × 5² is —", ["125", "135", "15", "45"], "D", ["October 2019"], {"work": "HCF takes each common prime factor with its lowest power.\nPower of 3: lower of 3 and 2 → 3²; power of 5: lower of 1 and 2 → 5¹.\nHCF = 3² × 5 = 9 × 5 = 45."}],
+    ["If a/b + b/a = 1 (a, b ≠ 0), then a³ + b³ is —", ["1", "0", "−1", "2ab"], "B", ["October 2022"], {"work": "a/b + b/a = 1 ⇒ (a² + b²)/ab = 1 ⇒ a² + b² = ab ⇒ a² − ab + b² = 0.\na³ + b³ = (a + b)(a² − ab + b²) = (a + b) × 0 = 0."}],
+    ["The HCF of two numbers is 3 and their LCM is 21. If one number is 7, the other is —", ["1", "3", "7", "9"], "D", ["April 2016"], {"work": "Product of the numbers = HCF × LCM = 3 × 21 = 63.\nOther number = 63 ÷ 7 = 9."}],
+    ["If 25x² − 2xy + y²/25 = (5x + ky)², then k is —", ["1/5", "−1/5", "1", "−1"], "B", ["October 2017"], {"work": "(5x + ky)² = 25x² + 10kxy + k²y².\nCompare the xy terms: 10k = −2 ⇒ k = −1/5.\nCheck: k² = 1/25, which matches y²/25."}],
+    ["The LCM of 4x²y³ and x³y² (x, y prime) is —", ["x²y²", "4x²y²", "4x³y³", "4x⁵y⁵"], "C", ["October 2021"], {"work": "Numbers: LCM(4, 1) = 4.\nx: higher power of x² and x³ is x³; y: higher power of y³ and y² is y³.\nLCM = 4x³y³."}],
+    ["x³ + 216 factorizes as —", ["(x + 6)(x² − 6x + 36)", "(x − 6)(x² + 6x + 36)", "(x + 6)(x² + 6x + 36)", "(x + 6)³"], "A", ["April 2023"], {"work": "216 = 6³, so x³ + 216 = x³ + 6³.\nUse a³ + b³ = (a + b)(a² − ab + b²) with a = x, b = 6:\nx³ + 216 = (x + 6)(x² − 6x + 36)."}],
+    ["(2x² + 5)² − (2x² − 5)² is equal to —", ["20x²", "40x²", "40x⁴", "0"], "B", ["April 2024"], {"work": "(a + b)² − (a − b)² = 4ab with a = 2x², b = 5.\n4 × 2x² × 5 = 40x²."}]
+  ],
+  "objective": [
+    ["Fill in the blanks: (i) (x² + 3)² + (x² − 3)² = ________. (ii) (a − 5b)³ = ________.", "(i) Use (a + b)² + (a − b)² = 2(a² + b²) with a = x², b = 3:\n2(x⁴ + 9) = 2x⁴ + 18.\n(ii) Use (x − y)³ = x³ − 3x²y + 3xy² − y³ with x = a, y = 5b:\na³ − 3a²(5b) + 3a(5b)² − (5b)³ = a³ − 15a²b + 75ab² − 125b³.", ["April 2026"]],
+    ["Fill in the blanks: (i) The HCF of x³ − y³ and x² − y² is ________. (ii) Their LCM is ________.", "x³ − y³ = (x − y)(x² + xy + y²) and x² − y² = (x − y)(x + y).\n(i) The only common factor is (x − y), so HCF = x − y.\n(ii) LCM = (x − y)(x + y)(x² + xy + y²) = (x + y)(x³ − y³).", ["October 2025"]],
+    ["Fill in the blanks: (i) The HCF of x³ + 1 and x² − 1 is ________. (ii) (2x² + 5)² − (2x² − 5)² = ________.", "(i) x³ + 1 = (x + 1)(x² − x + 1) and x² − 1 = (x + 1)(x − 1); common factor x + 1, so HCF = x + 1.\n(ii) (a + b)² − (a − b)² = 4ab = 4 × 2x² × 5 = 40x².", ["April 2024"]],
+    ["Fill in the blanks: (i) 64a³ + 27b³ = ________. (ii) (x² + 1)/(x − 2) + (x² − 1)/(x − 2) = ________.", "(i) 64a³ + 27b³ = (4a)³ + (3b)³ = (4a + 3b)(16a² − 12ab + 9b²), using a³ + b³ = (a + b)(a² − ab + b²).\n(ii) Same denominator, so add the numerators: (x² + 1 + x² − 1)/(x − 2) = 2x²/(x − 2).", ["October 2024"]],
+    ["Write True or False: (i) (x + y)² − (x − y)² = 4xy. (ii) The HCF of 6x²y and 9xy² is 3x²y².", "(i) True: (x² + 2xy + y²) − (x² − 2xy + y²) = 4xy.\n(ii) False: HCF of 6 and 9 is 3; lowest powers are x¹ and y¹, so HCF = 3xy."],
+    ["Match: (i) a³ − b³ (ii) a² − b² — (A) (a − b)(a + b) (B) (a − b)(a² + ab + b²) (C) (a + b)(a² − ab + b²)", "(i) a³ − b³ = (a − b)(a² + ab + b²) → (B).\n(ii) a² − b² = (a − b)(a + b) → (A)."]
+  ],
+  "case": {
+    "passage": "A school garden is a square of side (x + 5) m. A square flower bed of side (x − 5) m is made in one corner and the rest is grass. The gardener also stacks cube-shaped boxes of side (x + 1) m.",
+    "items": [
+      ["The area of the whole garden is —", ["x² + 25", "x² + 10x + 25", "x² + 5x + 25", "x² − 10x + 25"], "B", {"work": "Area = (x + 5)² = x² + 2 × x × 5 + 25 = x² + 10x + 25."}],
+      ["The area of the flower bed is —", ["x² − 25", "x² − 10x + 25", "x² + 10x − 25", "x² − 5x + 25"], "B", {"work": "Area = (x − 5)² = x² − 10x + 25."}],
+      ["The area of the grass is —", ["20x", "10x", "50", "20x + 50"], "A", {"work": "(x + 5)² − (x − 5)² = 4 × x × 5 = 20x."}],
+      ["The volume of one box is —", ["x³ + 1", "x³ + 3x² + 3x + 1", "x³ + 3x + 1", "x³ + x² + x + 1"], "B", {"work": "(x + 1)³ = x³ + 3x²(1) + 3x(1)² + 1³ = x³ + 3x² + 3x + 1."}],
+      ["If x = 10, the area of the grass is —", ["100 m²", "200 m²", "150 m²", "225 m²"], "B", {"work": "Grass = 20x = 20 × 10 = 200 m².\nCheck: 15² − 5² = 225 − 25 = 200."}]
+    ]
+  },
+  "vsa": [
+    ["Find the LCM of P(x) = x³ + 2x² − 3x and Q(x) = 2x³ + 5x² − 3x.", "P(x) = x(x² + 2x − 3) = x(x + 3)(x − 1).\nQ(x) = x(2x² + 5x − 3) = x(2x² + 6x − x − 3) = x(2x − 1)(x + 3).\nLCM = every factor with its highest power = x(x + 3)(x − 1)(2x − 1).", ["April 2025"], {"or": ["If x + 1/x = 2, find x² + 1/x².", "Square both sides: (x + 1/x)² = 4.\nx² + 2 × x × (1/x) + 1/x² = 4 ⇒ x² + 2 + 1/x² = 4.\nSo x² + 1/x² = 4 − 2 = 2."]}],
+    ["Simplify (3x + 4y)² + (3x − 4y)².", "(3x + 4y)² = 9x² + 24xy + 16y².\n(3x − 4y)² = 9x² − 24xy + 16y².\nAdding, the xy terms cancel: 18x² + 32y².", ["October 2025"], {"or": ["Factorise 16x² − 25y².", "16x² − 25y² = (4x)² − (5y)² = (4x − 5y)(4x + 5y)."]}],
+    ["If a + 1/a = 2, find a³ + 1/a³.", "Use (a + 1/a)³ = a³ + 1/a³ + 3(a + 1/a).\n2³ = a³ + 1/a³ + 3 × 2 ⇒ 8 = a³ + 1/a³ + 6.\nSo a³ + 1/a³ = 2.", ["October 2024"], {"or": ["Factorise 3a⁵b − 243ab⁵.", "Take out 3ab: 3ab(a⁴ − 81b⁴).\na⁴ − 81b⁴ = (a²)² − (9b²)² = (a² − 9b²)(a² + 9b²).\na² − 9b² = (a − 3b)(a + 3b).\nSo 3a⁵b − 243ab⁵ = 3ab(a − 3b)(a + 3b)(a² + 9b²)."]}],
+    ["Find the HCF of x² − 4 and x² + 4x + 4.", "x² − 4 = (x − 2)(x + 2).\nx² + 4x + 4 = (x + 2)².\nCommon factor with the lowest power: (x + 2). HCF = x + 2.", ["April 2026"], {"note": "The April 2026 paper printed the second polynomial as x² + 4x + 8, which has no factor in common with x² − 4; x² + 4x + 4 is the intended form."}],
+    ["Simplify (1.37 × 1.37 × 1.37 − 0.37 × 0.37 × 0.37)/(1.37 × 1.37 + 1.37 × 0.37 + 0.37 × 0.37).", "Let a = 1.37, b = 0.37. The expression is (a³ − b³)/(a² + ab + b²).\nSince a³ − b³ = (a − b)(a² + ab + b²), it equals a − b = 1.37 − 0.37 = 1.", ["October 2022"]],
+    ["Factorise x² − 5x + 25/4.", "x² − 5x + 25/4 = x² − 2 × x × (5/2) + (5/2)².\nThis is (a − b)² with a = x, b = 5/2.\nSo x² − 5x + 25/4 = (x − 5/2)².", ["October 2017"]]
+  ],
+  "sa": [
+    ["Factorise a⁶ − 64b⁶.", "a⁶ − 64b⁶ = (a³)² − (8b³)² = (a³ − 8b³)(a³ + 8b³).\na³ − 8b³ = a³ − (2b)³ = (a − 2b)(a² + 2ab + 4b²).\na³ + 8b³ = a³ + (2b)³ = (a + 2b)(a² − 2ab + 4b²).\nSo a⁶ − 64b⁶ = (a − 2b)(a + 2b)(a² + 2ab + 4b²)(a² − 2ab + 4b²).", ["October 2025"], {"or": ["Simplify (a² − 1)/(a² − 25) ÷ (a² − 4a − 5)/(a² + 4a − 5).", "Factorise: a² − 1 = (a − 1)(a + 1); a² − 25 = (a − 5)(a + 5); a² − 4a − 5 = (a − 5)(a + 1); a² + 4a − 5 = (a + 5)(a − 1).\nDivide by multiplying with the reciprocal:\n[(a − 1)(a + 1)]/[(a − 5)(a + 5)] × [(a + 5)(a − 1)]/[(a − 5)(a + 1)].\nCancel (a + 1) and (a + 5): (a − 1)²/(a − 5)²."]}],
+    ["If x⁴ + 1/x⁴ = 119, find x − 1/x.", "x⁴ + 1/x⁴ = (x² + 1/x²)² − 2 ⇒ (x² + 1/x²)² = 121 ⇒ x² + 1/x² = 11 (it is positive).\n(x − 1/x)² = x² + 1/x² − 2 = 11 − 2 = 9.\nSo x − 1/x = ±3.", ["April 2021"]],
+    ["If x² + 1/x² = 7 (x > 0), find x³ + 1/x³.", "(x + 1/x)² = x² + 1/x² + 2 = 7 + 2 = 9 ⇒ x + 1/x = 3 (x > 0).\nx³ + 1/x³ = (x + 1/x)³ − 3(x + 1/x) = 27 − 9 = 18.", ["April 2017"]],
+    ["Simplify (x² − x − 6)/(x² + 4x − 5) ÷ (x² − 4x + 3)/(x² + 6x + 5).", "x² − x − 6 = (x − 3)(x + 2); x² + 4x − 5 = (x + 5)(x − 1);\nx² − 4x + 3 = (x − 3)(x − 1); x² + 6x + 5 = (x + 5)(x + 1).\nMultiply by the reciprocal:\n[(x − 3)(x + 2)]/[(x + 5)(x − 1)] × [(x + 5)(x + 1)]/[(x − 3)(x − 1)].\nCancel (x − 3) and (x + 5): (x + 2)(x + 1)/(x − 1)².", ["October 2022"]],
+    ["Simplify into the lowest form: (x² + x + 1)/(x² − 9) ÷ (x³ − 1)/(x² − 4x + 3).", "x² − 9 = (x − 3)(x + 3); x³ − 1 = (x − 1)(x² + x + 1); x² − 4x + 3 = (x − 3)(x − 1).\nMultiply by the reciprocal:\n(x² + x + 1)/[(x − 3)(x + 3)] × [(x − 3)(x − 1)]/[(x − 1)(x² + x + 1)].\nCancel (x² + x + 1), (x − 3) and (x − 1): 1/(x + 3).", ["April 2016"]]
+  ],
+  "la": [
+    ["If x⁴ + 1/x⁴ = 34 (x > 0), find (i) x² + 1/x² (ii) x − 1/x (iii) x + 1/x.", "(i) (x² + 1/x²)² = x⁴ + 1/x⁴ + 2 = 34 + 2 = 36, so x² + 1/x² = 6.\n(ii) (x − 1/x)² = x² + 1/x² − 2 = 6 − 2 = 4, so x − 1/x = ±2.\n(iii) (x + 1/x)² = x² + 1/x² + 2 = 6 + 2 = 8, so x + 1/x = 2√2 (positive because x > 0).", ["April 2019"], {"note": "April 2019 (4 marks) asked only for x − 1/x."}],
+    ["Find the HCF and LCM of x² − 9, x² + 6x + 9 and x² + x − 6. Verify that HCF × LCM is not equal to the product of the three polynomials.", "x² − 9 = (x − 3)(x + 3).\nx² + 6x + 9 = (x + 3)².\nx² + x − 6 = (x + 3)(x − 2).\nHCF = common factor with lowest power = (x + 3).\nLCM = all factors with highest powers = (x + 3)²(x − 3)(x − 2).\nHCF × LCM = (x + 3)³(x − 3)(x − 2), but the product of the three is (x + 3)⁴(x − 3)(x − 2). They are not equal — the rule HCF × LCM = product holds only for two polynomials."],
+    ["Simplify: 1/(x − 1) − 1/(x + 1) − 2/(x² + 1).", "First two terms: [(x + 1) − (x − 1)]/[(x − 1)(x + 1)] = 2/(x² − 1).\nNow 2/(x² − 1) − 2/(x² + 1) = 2[(x² + 1) − (x² − 1)]/[(x² − 1)(x² + 1)]\n= 2 × 2/(x⁴ − 1) = 4/(x⁴ − 1)."]
+  ]
+}

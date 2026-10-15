@@ -1,0 +1,67 @@
+{
+  "lesson": 6,
+  "title": "Quadratic Equations",
+  "module": 1,
+  "summary": [
+    "## Quadratic equations",
+    "An equation of the form ax² + bx + c = 0, where a, b, c are real numbers and a ≠ 0, is a quadratic equation in standard form (degree 2). The values of x that satisfy it are its roots (solutions); they are the zeros of the polynomial ax² + bx + c. A quadratic equation has at most two roots. To check whether a number is a root, substitute it: x = ½ is a root of x² + kx − 5/4 = 0 when ¼ + k/2 − 5/4 = 0, i.e. k = 2.",
+    "## Solving by factorization",
+    "Write the equation in standard form, factorize the left side into two linear factors (split the middle term: two numbers whose product is ac and sum is b), and set each factor equal to zero. Example: x² − 3x − 10 = 0 ⇒ (x − 5)(x + 2) = 0 ⇒ x = 5 or x = −2.",
+    "## Quadratic formula",
+    "The roots of ax² + bx + c = 0 are x = [−b ± √(b² − 4ac)] / 2a. Example: 2x² + x − 6 = 0 has a = 2, b = 1, c = −6, b² − 4ac = 1 + 48 = 49, so x = (−1 ± 7)/4, i.e. x = 3/2 or x = −2.",
+    "## Nature of roots — the discriminant",
+    "D = b² − 4ac is the discriminant. (i) D > 0: two real and unequal (distinct) roots. (ii) D = 0: two real and equal roots, each −b/2a (then c = b²/4a). (iii) D < 0: no real roots. Example: kx² − 12x + 6 = 0 has equal roots when 144 − 24k = 0, i.e. k = 6; x² − 3x + 3 = 0 has D = 9 − 12 = −3 < 0, so no real roots.",
+    "## Word problems",
+    "Form a quadratic equation from the data, solve it, and reject roots that do not make sense (negative ages, lengths or speeds, non-natural numbers). Useful set-ups: consecutive odd numbers x and x + 2; a number and its reciprocal x and 1/x; a right triangle with sides x and x + 7 and hypotenuse 13 (Pythagoras: x² + (x + 7)² = 13²); a boat with still-water speed u and stream speed v goes u + v downstream and u − v upstream, time = distance ÷ speed; rectangle area = length × breadth."
+  ],
+  "mcq": [
+    ["If the roots of ax² + bx + c = 0 are equal, then c is —", ["−b/2a", "b/2a", "b²/4a", "−b²/4a"], "C", ["April 2026"], {"work": "Equal roots ⇒ discriminant b² − 4ac = 0.\n4ac = b² ⇒ c = b²/4a."}],
+    ["The discriminant of x² − 4x + 3 = 0 is —", ["−4", "16", "4", "28"], "C", ["October 2025"], {"work": "a = 1, b = −4, c = 3.\nD = b² − 4ac = 16 − 12 = 4."}],
+    ["If kx² − 12x + 6 = 0 has equal roots, k is —", ["4", "6", "12", "3"], "B", ["April 2024"], {"work": "Equal roots ⇒ b² − 4ac = 0.\n(−12)² − 4 × k × 6 = 0 ⇒ 144 − 24k = 0 ⇒ k = 6."}],
+    ["The roots of 2x² − 3x + 5 = 0 are —", ["real and equal", "real and distinct", "not real", "rational"], "C", ["April 2024"], {"work": "D = (−3)² − 4 × 2 × 5 = 9 − 40 = −31.\nD < 0, so the roots are not real."}],
+    ["The quadratic equation ax² + bx + c = 0 (a ≠ 0) has no real roots if —", ["b² − 4ac > 0", "b² − 4ac = 0", "b² − 4ac < 0", "b² ≠ 4ac"], "C", ["October 2019"], {"work": "The roots are [−b ± √(b² − 4ac)]/2a.\nIf b² − 4ac < 0, its square root is not a real number, so there are no real roots."}],
+    ["Which of the following is a quadratic equation?", ["x + 1/x = 5", "x² − 5x + 2 = 0", "x³ + x = 1", "2x + 3 = 0"], "B", ["April 2024"], {"work": "A quadratic equation can be written as ax² + bx + c = 0 with a ≠ 0.\nx² − 5x + 2 = 0 has degree 2. x³ + x = 1 has degree 3, 2x + 3 = 0 degree 1, and x + 1/x is not a polynomial."}],
+    ["A zero of x² − 3x − 10 is —", ["10", "−2", "3", "4"], "B", ["April 2022"], {"work": "x² − 3x − 10 = (x − 5)(x + 2).\nZeros: x = 5 and x = −2. Of the options, −2.\nCheck: 4 + 6 − 10 = 0 ✓."}],
+    ["The roots of x² − 7x + 12 = 0 are —", ["3, 4", "−3, −4", "2, 6", "−2, −6"], "A", {"work": "Two numbers with product 12 and sum −7: −3 and −4.\n(x − 3)(x − 4) = 0 ⇒ x = 3 or 4."}],
+    ["If x = 2 is a root of x² + kx − 6 = 0, then k is —", ["1", "−1", "2", "5"], "A", {"work": "Put x = 2: 4 + 2k − 6 = 0 ⇒ 2k = 2 ⇒ k = 1."}],
+    ["The sum of a number and its reciprocal is 5/2. The number is —", ["2 or 1/2", "3 or 1/3", "5", "1"], "A", {"work": "x + 1/x = 5/2 ⇒ 2x² + 2 = 5x ⇒ 2x² − 5x + 2 = 0.\n(2x − 1)(x − 2) = 0 ⇒ x = 2 or 1/2."}]
+  ],
+  "objective": [
+    ["Match: (i) The roots of 2x² + x − 6 = 0 are ____ (ii) The roots of x² − 3x + 3 = 0 are ____ — (A) real and distinct (B) real and equal (C) not real", "(i) D = 1² − 4(2)(−6) = 1 + 48 = 49 > 0 → real and distinct (A).\n(ii) D = (−3)² − 4(1)(3) = 9 − 12 = −3 < 0 → not real (C).", ["April 2026"]],
+    ["Match: (i) If (α − 3)x² + 4(α − 3)x + 4 = 0 has equal real roots, α = ____ (ii) If x = ½ is a root of x² + kx − 5/4 = 0, k = ____ — (A) 3 and 4 (B) 4 (C) 2 (D) 6", "(i) D = 16(α − 3)² − 16(α − 3) = 16(α − 3)(α − 4) = 0 ⇒ α = 3 or 4. α = 3 makes the x² term vanish (not a quadratic), so α = 4 → (B); the paper's key offers (A) '3 and 4'.\n(ii) ¼ + k/2 − 5/4 = 0 ⇒ k/2 = 1 ⇒ k = 2 → (C).", ["April 2025"]],
+    ["Write True or False: (i) Every quadratic equation has exactly one root. (ii) If the roots of ax² + bx + c = 0 are equal, then b² − 4ac = 0.", "(i) False: a quadratic equation has at most two roots — it may have two, two equal, or none real.\n(ii) True: equal roots happen exactly when the discriminant is zero.", ["October 2025"]],
+    ["Match (any two): (i) x² + 5x = 0 (ii) x² − 5x + 6 = 0 (iii) x² − 5x = 0 (iv) x² + 5x + 6 = 0 — (A) 0, 5 (B) 0, −5 (C) 2, 3 (D) −2, −3", "(i) x(x + 5) = 0 ⇒ 0, −5 → (B).\n(ii) (x − 2)(x − 3) = 0 ⇒ 2, 3 → (C).\n(iii) x(x − 5) = 0 ⇒ 0, 5 → (A).\n(iv) (x + 2)(x + 3) = 0 ⇒ −2, −3 → (D).", ["April 2024"]],
+    ["Fill in the blanks: (i) The discriminant of 3x² − 2x + 1/3 = 0 is ____. (ii) Its roots are ____.", "(i) D = (−2)² − 4 × 3 × (1/3) = 4 − 4 = 0.\n(ii) D = 0, so the roots are equal: x = −b/2a = 2/6 = 1/3, 1/3."]
+  ],
+  "case": {
+    "passage": "A motorboat whose speed in still water is 18 km/h takes 1 hour more to go 24 km upstream than to return downstream to the same spot. Let the speed of the stream be x km/h.",
+    "items": [
+      ["The speed of the boat upstream is —", ["(18 + x) km/h", "(18 − x) km/h", "18x km/h", "(x − 18) km/h"], "B", ["October 2024"], {"work": "Going against the stream, the stream slows the boat: 18 − x."}],
+      ["The equation that describes the situation is —", ["x² + 48x − 324 = 0", "x² − 48x + 324 = 0", "x² + 48x + 324 = 0", "x² − 324 = 0"], "A", {"work": "Time upstream − time downstream = 1: 24/(18 − x) − 24/(18 + x) = 1.\n24[(18 + x) − (18 − x)] = (18 − x)(18 + x) ⇒ 48x = 324 − x² ⇒ x² + 48x − 324 = 0."}],
+      ["The speed of the stream is —", ["4 km/h", "6 km/h", "8 km/h", "54 km/h"], "B", {"work": "x² + 48x − 324 = (x + 54)(x − 6) = 0 ⇒ x = 6 or −54.\nSpeed cannot be negative, so x = 6 km/h."}],
+      ["The time taken downstream is —", ["30 minutes", "60 minutes", "90 minutes", "120 minutes"], "B", {"work": "Downstream speed = 18 + 6 = 24 km/h; time = 24 ÷ 24 = 1 hour = 60 minutes.\n(Upstream: 24 ÷ 12 = 2 hours, one hour more ✓.)"}],
+      ["The relation used for time is —", ["distance = speed × time", "speed = distance × time", "time = speed × distance", "distance = speed ÷ time"], "A", {"work": "Distance = speed × time, so time = distance ÷ speed."}]
+    ]
+  },
+  "vsa": [
+    ["Solve x² + 12x − 160 = 0 to find the natural number which, when increased by 12, equals 160 times its reciprocal.", "x + 12 = 160/x ⇒ x² + 12x − 160 = 0.\nProduct −160, sum 12: 20 and −8 ⇒ (x + 20)(x − 8) = 0.\nx = 8 (−20 is not natural). Check: 8 + 12 = 20 = 160/8 ✓.", ["April 2022"]],
+    ["For what value of k does kx² − 12x + 6 = 0 have equal roots? Find the roots.", "Equal roots ⇒ (−12)² − 4 × k × 6 = 0 ⇒ 144 = 24k ⇒ k = 6.\nThe equation is 6x² − 12x + 6 = 0 ⇒ 6(x − 1)² = 0 ⇒ x = 1, 1.", ["April 2024"]],
+    ["Find the nature of the roots of 2x² + x − 6 = 0 and find them.", "a = 2, b = 1, c = −6; D = 1 + 48 = 49 > 0 ⇒ real and distinct.\nx = (−1 ± 7)/4 ⇒ x = 6/4 = 3/2 or x = −8/4 = −2.", ["April 2026"]],
+    ["The sum of two natural numbers is 15 and the sum of their reciprocals is 3/10. Find the numbers.", "Let the numbers be x and 15 − x.\n1/x + 1/(15 − x) = 3/10 ⇒ 15/[x(15 − x)] = 3/10 ⇒ x(15 − x) = 50.\nx² − 15x + 50 = 0 ⇒ (x − 5)(x − 10) = 0 ⇒ x = 5 or 10.\nThe numbers are 5 and 10.", ["April 2021"]],
+    ["Find a natural number whose square diminished by 84 equals three times 8 more than the number.", "x² − 84 = 3(x + 8) ⇒ x² − 3x − 108 = 0.\nProduct −108, sum −3: −12 and 9 ⇒ (x − 12)(x + 9) = 0.\nx = 12 (natural). Check: 144 − 84 = 60 = 3 × 20 ✓.", ["October 2022"]],
+    ["Solve by the quadratic formula: x² − 4x + 1 = 0.", "a = 1, b = −4, c = 1; D = 16 − 4 = 12.\nx = (4 ± √12)/2 = (4 ± 2√3)/2 = 2 ± √3."]
+  ],
+  "sa": [
+    ["Divide 16 into two parts such that twice the square of the larger part exceeds the square of the smaller part by 164.", "Let the larger part be x; the smaller is 16 − x.\n2x² − (16 − x)² = 164 ⇒ 2x² − (256 − 32x + x²) = 164\n⇒ x² + 32x − 420 = 0 ⇒ (x + 42)(x − 10) = 0 ⇒ x = 10.\nThe parts are 10 and 6. Check: 2 × 100 − 36 = 164 ✓.", ["April 2026"], {"or": ["Ramu's age two years ago multiplied by his age five years from now gives 120. Find his present age.", "Let the present age be x.\n(x − 2)(x + 5) = 120 ⇒ x² + 3x − 10 = 120 ⇒ x² + 3x − 130 = 0.\n(x + 13)(x − 10) = 0 ⇒ x = 10 (age cannot be negative).\nRamu is 10 years old."]}],
+    ["The length of a rectangular garden is 7 m more than its breadth. Its area is 144 m². Find the length and breadth.", "Let breadth = b; length = b + 7.\nb(b + 7) = 144 ⇒ b² + 7b − 144 = 0 ⇒ (b + 16)(b − 9) = 0 ⇒ b = 9.\nBreadth 9 m, length 16 m.", ["April 2025"], {"or": ["The altitude of a right triangle is 2 cm more than its base and the hypotenuse is 10 cm. Find the other two sides.", "Let base = x; altitude = x + 2.\nx² + (x + 2)² = 10² ⇒ 2x² + 4x − 96 = 0 ⇒ x² + 2x − 48 = 0.\n(x + 8)(x − 6) = 0 ⇒ x = 6.\nBase 6 cm, altitude 8 cm."]}],
+    ["The sum of the squares of two consecutive odd numbers is 130. Find the numbers.", "Let the numbers be x and x + 2.\nx² + (x + 2)² = 130 ⇒ 2x² + 4x − 126 = 0 ⇒ x² + 2x − 63 = 0.\n(x + 9)(x − 7) = 0 ⇒ x = 7 or −9.\nThe numbers are 7 and 9 (or −9 and −7).", ["April 2024"]],
+    ["The hypotenuse of a right triangle is 13 cm and the other two sides differ by 7 cm. Find them.", "Let the sides be x and x + 7.\nx² + (x + 7)² = 169 ⇒ 2x² + 14x − 120 = 0 ⇒ x² + 7x − 60 = 0.\n(x + 12)(x − 5) = 0 ⇒ x = 5.\nThe sides are 5 cm and 12 cm.", ["October 2017"]],
+    ["The sum of the digits of a two-digit number is 13 and the sum of their squares is 89. Find the number.", "Let the digits be a and b: a + b = 13, a² + b² = 89.\n(a + b)² = a² + b² + 2ab ⇒ 169 = 89 + 2ab ⇒ ab = 40.\nb = 13 − a: a(13 − a) = 40 ⇒ a² − 13a + 40 = 0 ⇒ (a − 5)(a − 8) = 0.\nThe digits are 8 and 5; the number is 85 or 58.", ["April 2017"]]
+  ],
+  "la": [
+    ["The sum of the areas of two squares is 640 m² and the difference of their perimeters is 64 m. Find the sides of the squares.", "Let the sides be a and b (a > b).\n4a − 4b = 64 ⇒ a = b + 16.\na² + b² = 640 ⇒ (b + 16)² + b² = 640 ⇒ 2b² + 32b + 256 = 640\n⇒ b² + 16b − 192 = 0 ⇒ (b + 24)(b − 8) = 0 ⇒ b = 8.\na = 24. The sides are 24 m and 8 m.\nCheck: 576 + 64 = 640 ✓; 96 − 32 = 64 ✓.", ["April 2019"]],
+    ["A girl is twice as old as her sister. Four years hence the product of their ages will be 160. Find their present ages.", "Let the sister be x; the girl is 2x.\n(2x + 4)(x + 4) = 160 ⇒ 2x² + 12x + 16 = 160 ⇒ x² + 6x − 72 = 0.\n(x + 12)(x − 6) = 0 ⇒ x = 6.\nSister 6 years, girl 12 years. Check: 16 × 10 = 160 ✓.", ["April 2016"]],
+    ["The product of the digits of a two-digit number is 24. When 18 is added to the number, the digits interchange. Find the number.", "Let the tens digit be x and the units digit y: xy = 24.\n10x + y + 18 = 10y + x ⇒ 9y − 9x = 18 ⇒ y = x + 2.\nx(x + 2) = 24 ⇒ x² + 2x − 24 = 0 ⇒ (x + 6)(x − 4) = 0 ⇒ x = 4, y = 6.\nThe number is 46. Check: 46 + 18 = 64 ✓.", ["October 2016"]],
+    ["A motorboat whose speed in still water is 18 km/h takes 1 hour more to go 24 km upstream than to return downstream. Find the speed of the stream.", "Let the stream's speed be x km/h. Upstream speed 18 − x, downstream 18 + x.\n24/(18 − x) − 24/(18 + x) = 1\n⇒ 24(18 + x) − 24(18 − x) = (18 − x)(18 + x) ⇒ 48x = 324 − x²\n⇒ x² + 48x − 324 = 0 ⇒ (x + 54)(x − 6) = 0 ⇒ x = 6.\nThe stream flows at 6 km/h. Check: 24/12 − 24/24 = 2 − 1 = 1 hour ✓.", ["October 2024"]]
+  ]
+}

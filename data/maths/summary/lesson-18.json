@@ -1,0 +1,105 @@
+{
+  "subject": "maths",
+  "lesson": 18,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 18: Constructions — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Instruments and basic constructions"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Constructions use only a ruler (straight edge) and a pair of compasses; a protractor may be used to check. Perpendicular bisector of AB: with centres A and B and a radius more than ½AB, draw arcs on both sides to meet at P and Q; PQ bisects AB at right angles. Angle bisector: with the vertex as centre cut both arms, then from those points draw arcs of equal radius to meet; join the vertex to the meeting point. Angles of 60°, 30°, 90°, 45°, 120° and 75° are made by marking 60° arcs and bisecting."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Dividing a line segment in a given ratio m : n"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Draw AB. Draw a ray AX making an acute angle with AB. Mark m + n equal steps A₁, A₂, …, Aₘ₊ₙ along AX (at least m + n marks — for 2 : 3, five marks). Join Aₘ₊ₙ to B. Through Aₘ draw a line parallel to Aₘ₊ₙB, meeting AB at P. Then AP : PB = m : n (basic proportionality theorem)."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Constructing triangles"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "SSS, SAS and ASA data give a triangle directly. Special cases:\n(1) Base BC, ∠B and the sum AB + AC: draw BC, make ∠B, cut BD = AB + AC on its arm, join DC, draw the perpendicular bisector of DC to meet BD at A. Possible only if AB + AC > BC.\n(2) Base BC, ∠B and the difference AB − AC: cut BD = AB − AC on the arm of ∠B, join DC, and let the perpendicular bisector of DC meet BD produced at A. Possible only if AB − AC < BC.\n(3) Perimeter and two base angles: draw XY = perimeter, make ∠X = ½∠B and ∠Y = ½∠C to meet at A; the perpendicular bisectors of AX and AY cut XY at B and C; ABC is the triangle.\n(4) Two sides and a median: for AB, BC and median CD (D the midpoint of AB), first draw △BCD with BD = ½AB, BC and CD, then produce BD to A with DA = BD."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Triangle similar to a given triangle"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "To get sides m/n of △ABC (scale factor m/n): draw a ray BX below BC at an acute angle, mark n equal steps B₁ … Bₙ (n the larger of m and n), join Bₙ (n-th mark) to C, draw through Bₘ a line parallel to BₙC meeting BC (produced if m/n > 1) at C′, and through C′ draw a line parallel to CA meeting BA at A′. △A′BC′ is the required triangle."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Tangents from an external point"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Draw the circle with centre O and mark P outside it. Join OP and bisect it at M. With centre M and radius MO draw a circle cutting the given circle at Q and R. PQ and PR are the tangents (∠OQP = 90° because it is the angle in a semicircle). Measure them: each equals √(OP² − r²)."
+        ]
+      ]
+    }
+  ]
+}

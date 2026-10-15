@@ -1,0 +1,123 @@
+{
+  "subject": "maths",
+  "lesson": 26,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 26: Introduction to Probability — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Experiments and events"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "A random experiment has more than one possible outcome and we cannot say in advance which will happen — tossing a coin, throwing a die, drawing a card. An event is one or more outcomes (getting an even number). An event with a single outcome is an elementary event."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Probability"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "When all outcomes are equally likely, P(E) = (number of outcomes favourable to E)/(total number of outcomes). 0 ≤ P(E) ≤ 1, so a negative number or a number greater than 1 (like −1/5 or 5/4) can never be a probability. An impossible event has probability 0; a sure event has probability 1. The probabilities of all the elementary events add to 1, and P(not E) = 1 − P(E)."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Coins"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "One coin: H, T. Two coins: HH, HT, TH, TT (4 outcomes) — at least one tail 3/4, exactly one tail 1/2, at most one head 3/4. Three coins: 8 outcomes HHH, HHT, HTH, THH, HTT, THT, TTH, TTT — at least two heads 4/8 = 1/2, at most two tails 7/8."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Dice"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "One die: 1–6. Two dice: 6 × 6 = 36 outcomes (1, 1) … (6, 6). Same number on both: 6/36 = 1/6. Different numbers: 30/36 = 5/6. Even number on both: 3 × 3 = 9 outcomes, 1/4. Number of ways to get each sum: 2 → 1, 3 → 2, 4 → 3, 5 → 4, 6 → 5, 7 → 6, 8 → 5, 9 → 4, 10 → 3, 11 → 2, 12 → 1."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Cards"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "A pack has 52 cards in 4 suits of 13: spades ♠ and clubs ♣ (black), hearts ♥ and diamonds ♦ (red). Each suit has A, 2–10, J, Q, K. There are 4 aces, 4 kings, 4 queens, 4 jacks; 12 face cards (J, Q, K); 26 red and 26 black cards. When some cards are removed, count the cards left for the total and recount the favourable ones."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Bags and numbers"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "For a bag of balls, total = sum of all the balls: 5 red, 4 black, 3 green ⇒ P(red or green) = 8/12 = 2/3. If a probability is given, use it to find an unknown number of balls: P(red) = 1/5 with 4 red means 20 balls in all. For numbered cards, list the favourable numbers carefully (primes from 1 to 30: 2, 3, 5, 7, 11, 13, 17, 19, 23, 29 — ten of them)."
+        ]
+      ]
+    }
+  ]
+}

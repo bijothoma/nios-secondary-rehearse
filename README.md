@@ -82,3 +82,6 @@ The lesson then opens with a menu: Lesson, Lesson with translation, and the mode
 - `tools/build_sci.py`: builds Science and Technology from `data/science/src/lesson-<n>.json` (summary,
   chapter practice set and three full papers in the April 2026 layout: 43 questions, 85 marks). Only the
   19 public-exam lessons of the NIOS syllabus bifurcation are included.
+- `tools/build_math.py`: builds Mathematics from `data/maths/src/lesson-<n>.json` with the same layout as
+  Science (44 questions, 85 marks). Every answer carries its working; for MCQs the `work` field is shown
+  once the question is answered. Only the 16 public-exam lessons are included.

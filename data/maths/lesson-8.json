@@ -1,0 +1,592 @@
+{
+  "subject": "maths",
+  "lesson": 8,
+  "title": "Percentage and Its Applications",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Every answer shows the working. Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "15 × 1 = 15",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "16 out of 25 radios are out of order. The percentage of radios out of order is —",
+          "options": [
+            "16",
+            "25",
+            "64",
+            "36"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2026"
+          ],
+          "work": "Percentage = 16/25 × 100 = 64%."
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "The simple interest on ₹2,500 for 2 years 6 months at 6% per annum is —",
+          "options": [
+            "₹300",
+            "₹375",
+            "₹350",
+            "₹400"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2026",
+            "October 2024"
+          ],
+          "work": "T = 2 years 6 months = 2.5 years.\nS.I. = P × R × T/100 = 2500 × 6 × 2.5/100 = ₹375."
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "A person bought an almirah for ₹3,250 and spent ₹750 on repairs. He sold it for ₹5,000. His gain percent is —",
+          "options": [
+            "16%",
+            "20%",
+            "25%",
+            "30%"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2025"
+          ],
+          "work": "C.P. includes repairs: 3250 + 750 = ₹4,000.\nGain = 5000 − 4000 = ₹1,000.\nGain% = 1000/4000 × 100 = 25%."
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "An article sold for ₹550 gives a profit of 10%. Its cost price is —",
+          "options": [
+            "₹495",
+            "₹500",
+            "₹605",
+            "₹540"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2025"
+          ],
+          "work": "S.P. = C.P. × 110/100 ⇒ C.P. = 550 × 100/110 = ₹500."
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "A book bought for ₹5,400 after a 20% discount has a list price of —",
+          "options": [
+            "₹6,480",
+            "₹6,000",
+            "₹6,750",
+            "₹4,320"
+          ],
+          "answer": "C",
+          "years": [
+            "October 2025"
+          ],
+          "work": "After 20% discount, the buyer pays 80% of the list price.\n0.8 × L = 5400 ⇒ L = 5400/0.8 = ₹6,750."
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "The number of illiterate people fell from 150 lakh to 100 lakh. The percentage decrease is —",
+          "options": [
+            "50%",
+            "25%",
+            "33⅓%",
+            "66⅔%"
+          ],
+          "answer": "C",
+          "years": [
+            "October 2024"
+          ],
+          "work": "Decrease = 150 − 100 = 50 lakh.\nPercentage decrease = 50/150 × 100 = 33⅓% (always divide by the original value)."
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "The list price of a book is ₹400 and a student buys it for ₹312. The discount percent is —",
+          "options": [
+            "25",
+            "24",
+            "22",
+            "20"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2023"
+          ],
+          "work": "Discount = 400 − 312 = ₹88.\nDiscount% = 88/400 × 100 = 22%."
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "If the cost price of an article equals its selling price, the shopkeeper makes —",
+          "options": [
+            "always a gain",
+            "always a loss",
+            "100% profit",
+            "no profit, no loss"
+          ],
+          "answer": "D",
+          "years": [
+            "October 2022"
+          ],
+          "work": "Profit = S.P. − C.P. = 0, so there is neither profit nor loss."
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "3.7 written as a percent is —",
+          "options": [
+            "3.7%",
+            "37%",
+            "370%",
+            "0.37%"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2024"
+          ],
+          "work": "Multiply by 100: 3.7 × 100 = 370%."
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "What percent of the letters in the word 'PERCENTAGE' are E?",
+          "options": [
+            "20%",
+            "25%",
+            "30%",
+            "40%"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2024"
+          ],
+          "work": "PERCENTAGE has 10 letters; E appears 3 times (pErcEntagE).\n3/10 × 100 = 30%."
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "When 60 is reduced to 45, the reduction percent is —",
+          "options": [
+            "25%",
+            "33⅓%",
+            "75%",
+            "15%"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2024",
+            "April 2021"
+          ],
+          "work": "Reduction = 60 − 45 = 15.\n15/60 × 100 = 25%."
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "0.025 as a rate percent is —",
+          "options": [
+            "25%",
+            "2.5%",
+            "0.25%",
+            "37½%"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2022"
+          ],
+          "work": "0.025 × 100 = 2.5%."
+        },
+        {
+          "id": "1.13",
+          "type": "mcq",
+          "q": "Which number is 60% less than 80?",
+          "options": [
+            "48",
+            "42",
+            "32",
+            "12"
+          ],
+          "answer": "C",
+          "years": [
+            "October 2019"
+          ],
+          "work": "60% of 80 = 48.\n80 − 48 = 32."
+        },
+        {
+          "id": "1.14",
+          "type": "mcq",
+          "q": "While calculating compound interest —",
+          "options": [
+            "the principal remains the same every year",
+            "the principal changes every year",
+            "the interest is the same for each year",
+            "the interest doubles every year"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2021"
+          ],
+          "work": "In compound interest the interest of each year is added to the principal, so the principal for the next year is larger — it changes every year."
+        },
+        {
+          "id": "1.15",
+          "type": "mcq",
+          "q": "The cost price of 10 articles equals the selling price of 8 articles. The gain or loss percent is —",
+          "options": [
+            "gain 20%",
+            "loss 25%",
+            "gain 30%",
+            "gain 25%"
+          ],
+          "answer": "D",
+          "years": [
+            "October 2016"
+          ],
+          "work": "Let C.P. of one article = ₹1; then C.P. of 10 = ₹10 = S.P. of 8, so S.P. of one = 10/8 = ₹1.25.\nGain = 0.25 on 1 ⇒ 25% gain."
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark (fill in the blanks, match the columns or true/false).",
+      "marks": "5 × 2 = 10",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "Aarush earns ₹45,000 a month: 50% on the household, 20% on himself, 20% on his children and the rest is saved. Fill in: (i) his total monthly expenditure ____ (ii) his expenditure on his children ____.",
+          "answer": "(i) He spends 50 + 20 + 20 = 90%: 90/100 × 45000 = ₹40,500.\n(ii) 20% of 45000 = ₹9,000.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Fill in the blanks: (i) Rice and urad dal are mixed in the ratio 2 : 1; the percentage of rice is ____. (ii) An article marked ₹15,000 is sold for ₹14,400; the discount is ____%.",
+          "answer": "(i) Rice = 2/(2 + 1) = 2/3 = 66⅔%.\n(ii) Discount = 600; 600/15000 × 100 = 4%.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "Write True or False: (i) A number increased by 20% and then decreased by 20% returns to itself. (ii) 0.2% = 0.002.",
+          "answer": "(i) False: 1.2 × 0.8 = 0.96, a net decrease of 4%.\n(ii) True: 0.2/100 = 0.002.",
+          "years": [
+            "April 2017",
+            "April 2024"
+          ]
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Fill in the blanks: (i) 12% of x = 69 ⇒ x = ____. (ii) A price cut from ₹120 to ₹96 is a reduction of ____%.",
+          "answer": "(i) 0.12x = 69 ⇒ x = 69/0.12 = 575.\n(ii) Cut = 24; 24/120 × 100 = 20%.",
+          "years": [
+            "October 2021"
+          ]
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "Fill in the blanks: (i) A sum doubles in 8 years at simple interest; the rate is ____%. (ii) The S.I. on ₹2,000 at 14% is ₹560 in ____ years.",
+          "answer": "(i) Doubling ⇒ S.I. = P ⇒ P = P × R × 8/100 ⇒ R = 100/8 = 12.5%.\n(ii) 560 = 2000 × 14 × T/100 = 280T ⇒ T = 2 years.",
+          "years": [
+            "October 2022",
+            "April 2023"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Case study: read the information and answer the questions that follow.",
+      "marks": "5 × 1 = 5",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "mcq",
+          "q": "Capital at the end of the first year is —",
+          "options": [
+            "₹4,80,000",
+            "₹4,96,000",
+            "₹5,20,000",
+            "₹4,60,000"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2025"
+          ],
+          "work": "500000 × (1 − 4/100) = 500000 × 0.96 = ₹4,80,000."
+        },
+        {
+          "id": "3.2",
+          "type": "mcq",
+          "q": "Capital at the end of the second year is —",
+          "options": [
+            "₹5,04,000",
+            "₹5,00,000",
+            "₹5,25,000",
+            "₹5,05,000"
+          ],
+          "answer": "A",
+          "work": "480000 × 1.05 = ₹5,04,000."
+        },
+        {
+          "id": "3.3",
+          "type": "mcq",
+          "q": "Capital at the end of the third year is —",
+          "options": [
+            "₹5,50,000",
+            "₹5,54,400",
+            "₹5,55,000",
+            "₹5,44,400"
+          ],
+          "answer": "B",
+          "work": "504000 × 1.10 = ₹5,54,400."
+        },
+        {
+          "id": "3.4",
+          "type": "mcq",
+          "q": "His total profit for the three years is —",
+          "options": [
+            "₹50,000",
+            "₹54,400",
+            "₹55,000",
+            "₹44,400"
+          ],
+          "answer": "B",
+          "work": "554400 − 500000 = ₹54,400."
+        },
+        {
+          "id": "3.5",
+          "type": "mcq",
+          "q": "His profit percent for the whole period is —",
+          "options": [
+            "11%",
+            "10.88%",
+            "10%",
+            "5.44%"
+          ],
+          "answer": "B",
+          "work": "54400/500000 × 100 = 10.88%. (Note: not −4 + 5 + 10 = 11%, because successive changes multiply.)"
+        }
+      ],
+      "fixed": true,
+      "passage": "A man starts a business with ₹5,00,000. In the first year he makes a loss of 4%; in the second year a profit of 5% on the capital at the start of that year; and in the third year a profit of 10% on the capital at the start of that year."
+    },
+    {
+      "no": 4,
+      "title": "Very short answer questions.",
+      "marks": "9 × 2 = 18",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "By reducing the selling price of an article by ₹50, a 5% gain turns into a 5% loss. Find the original selling price.",
+          "answer": "The change from +5% to −5% is 10% of the C.P.\n10% of C.P. = 50 ⇒ C.P. = ₹500.\nOriginal S.P. = 500 × 105/100 = ₹525.",
+          "years": [
+            "April 2026"
+          ],
+          "or": {
+            "q": "At what price should an article costing ₹1,200 be marked so that after a 16% discount there is a 12% gain?",
+            "answer": "Required S.P. = 1200 × 112/100 = ₹1,344.\nS.P. = 84% of M.P. ⇒ M.P. = 1344 × 100/84 = ₹1,600."
+          }
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "A car bought for ₹5,50,000 on 1.1.2025 depreciates by 15% in the first year and 10% in every year after. Find its value on 31.12.2027.",
+          "answer": "That is 3 years: the first at 15%, the next two at 10%.\nValue = 550000 × (85/100) × (90/100) × (90/100)\n= 550000 × 0.85 × 0.81 = ₹3,78,675.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "The cost price of 25 articles equals the selling price of 20. Find the gain percent.",
+          "answer": "Let C.P. of one article = ₹1. C.P. of 25 = ₹25 = S.P. of 20, so S.P. of one = 25/20 = ₹1.25.\nGain = 0.25 on 1 ⇒ 25%.",
+          "years": [
+            "April 2024"
+          ],
+          "or": {
+            "q": "A shopkeeper marks goods 20% above cost and allows 10% discount. Find his gain percent.",
+            "answer": "Let C.P. = 100. M.P. = 120. S.P. = 120 × 90/100 = 108.\nGain = 8 on 100 ⇒ 8%."
+          }
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "A 10% fall in the price of tea lets a man buy 25 kg more for ₹20,000. Find the original and reduced prices per kg.",
+          "answer": "10% of 20000 = ₹2,000 is saved, and it buys the extra 25 kg.\nReduced price = 2000/25 = ₹80 per kg.\nOriginal price = 80 × 100/90 = ₹88.89 per kg.",
+          "years": [
+            "October 2024"
+          ],
+          "or": {
+            "q": "An article listed at ₹9,500 is sold for ₹7,600. Find the discount percent.",
+            "answer": "Discount = 9500 − 7600 = ₹1,900.\nDiscount% = 1900/9500 × 100 = 20%."
+          }
+        },
+        {
+          "id": "4.5",
+          "type": "open",
+          "q": "The population of a town is 20,000. It rises by 10% in one year and falls by 10% the next. Find the population after 2 years.",
+          "answer": "20000 × 1.10 = 22,000; 22000 × 0.90 = 19,800.\nPopulation after 2 years = 19,800.",
+          "years": [
+            "October 2024"
+          ],
+          "or": {
+            "q": "A shopkeeper buys an article for ₹300, marks it ₹400 and makes 20% profit. Find the discount percent.",
+            "answer": "S.P. = 300 × 1.2 = ₹360.\nDiscount = 400 − 360 = ₹40 = 40/400 × 100 = 10%."
+          }
+        },
+        {
+          "id": "4.6",
+          "type": "open",
+          "q": "By selling a book for ₹300 a publisher gains 20%. For how much should he sell it to gain 30%?",
+          "answer": "C.P. = 300 × 100/120 = ₹250.\nS.P. for 30% gain = 250 × 130/100 = ₹325.",
+          "years": [
+            "April 2023"
+          ]
+        },
+        {
+          "id": "4.7",
+          "type": "open",
+          "q": "A car bought for ₹8,72,000 depreciates by 20% in the first year and 10% each year after. Find its value after 3 years.",
+          "answer": "Value = 872000 × 0.80 × 0.90 × 0.90 = 872000 × 0.648 = ₹5,65,056.",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "4.8",
+          "type": "open",
+          "q": "Find the compound interest on ₹50,000 at 16% per annum for 2 years, compounded annually.",
+          "answer": "A = 50000 × (1.16)² = 50000 × 1.3456 = ₹67,280.\nC.I. = 67280 − 50000 = ₹17,280.",
+          "years": [
+            "October 2019"
+          ]
+        },
+        {
+          "id": "4.9",
+          "type": "open",
+          "q": "At what principal will the compound interest for 2 years at 5% per annum be ₹615?",
+          "answer": "C.I. = P[(1.05)² − 1] = P × 0.1025.\n0.1025P = 615 ⇒ P = ₹6,000.",
+          "years": [
+            "October 2022"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Short answer questions.",
+      "marks": "5 × 3 = 15",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "Find the compound interest on ₹8,000 for 1½ years at 10% per annum, compounded half-yearly.",
+          "answer": "Half-yearly: rate 5% per period, 3 periods.\nA = 8000 × (1.05)³ = 8000 × 1.157625 = ₹9,261.\nC.I. = 9261 − 8000 = ₹1,261.",
+          "years": [
+            "April 2021"
+          ]
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "In an election 75% of the voters cast their votes. The winner got 51% of the votes cast, which was 1530 votes. Find the total number of voters.",
+          "answer": "Let there be V voters. Votes cast = 0.75V; winner's votes = 0.51 × 0.75V = 0.3825V.\n0.3825V = 1530 ⇒ V = 4000.",
+          "years": [
+            "April 2022"
+          ]
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "A shopkeeper sells rice at a profit of 10% and uses a weight which is 10% less than the actual weight. Find his total gain.",
+          "answer": "For each 1 kg he charges for, he gives only 900 g.\nLet the cost of 1 kg be ₹100: his cost is ₹90 (for 900 g) and he charges ₹110 (10% profit on 1 kg).\nGain = 110 − 90 = ₹20 on ₹90 ⇒ 20/90 × 100 = 22.22%.",
+          "years": [
+            "October 2021"
+          ]
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "A dealer allows 10% discount on the marked price of a camera that costs him ₹600 and still makes 20% profit. Find the marked price.",
+          "answer": "S.P. = 600 × 120/100 = ₹720.\nS.P. = 90% of M.P. ⇒ M.P. = 720 × 100/90 = ₹800.",
+          "years": [
+            "October 2019"
+          ]
+        },
+        {
+          "id": "5.5",
+          "type": "open",
+          "q": "A shopkeeper marks goods 25% above cost and allows a 10% discount. Find his gain or loss percent.",
+          "answer": "Let C.P. = 100. M.P. = 125. S.P. = 125 × 0.9 = 112.5.\nGain = 12.5 on 100 ⇒ 12.5%.",
+          "years": [
+            "April 2017"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 6,
+      "title": "Long answer questions.",
+      "marks": "4 × 5 = 20",
+      "questions": [
+        {
+          "id": "6.1",
+          "type": "open",
+          "q": "Find the difference between simple interest and compound interest on ₹12,000 for 1½ years at 4% per annum, compounded half-yearly.",
+          "answer": "S.I. = 12000 × 4 × 1.5/100 = ₹720.\nC.I.: rate per half-year = 2%, periods = 3.\nA = 12000 × (1.02)³ = 12000 × 1.061208 = ₹12,734.50.\nC.I. = 12734.50 − 12000 = ₹734.50.\nDifference = 734.50 − 720 = ₹14.50.",
+          "years": [
+            "April 2023"
+          ]
+        },
+        {
+          "id": "6.2",
+          "type": "open",
+          "q": "Find the difference between S.I. and C.I. on ₹24,000 for 1½ years at 5% per annum, compounded half-yearly.",
+          "answer": "S.I. = 24000 × 5 × 1.5/100 = ₹1,800.\nC.I.: rate 2.5% per half-year, 3 periods.\nA = 24000 × (1.025)³ = 24000 × 1.076890625 = ₹25,845.38.\nC.I. = ₹1,845.38. Difference = 1845.38 − 1800 = ₹45.38.",
+          "years": [
+            "October 2022"
+          ]
+        },
+        {
+          "id": "6.3",
+          "type": "open",
+          "q": "A man invests ₹5,00,000 in a business. He loses 4% in the first year, gains 5% in the second and 10% in the third. Find his net profit for the three years.",
+          "answer": "End of year 1: 500000 × 0.96 = ₹4,80,000.\nEnd of year 2: 480000 × 1.05 = ₹5,04,000.\nEnd of year 3: 504000 × 1.10 = ₹5,54,400.\nNet profit = 554400 − 500000 = ₹54,400 (10.88%).",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "6.4",
+          "type": "open",
+          "q": "A car cost ₹4,50,000 in January 2010. It depreciates by 15% in the first year and 10% in the subsequent years. Find its value after 3 years.",
+          "answer": "Value = 450000 × 0.85 × 0.90 × 0.90\n= 450000 × 0.6885 = ₹3,09,825.",
+          "years": [
+            "October 2016"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "subject": "maths",
+  "lesson": 22,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 22: Introduction to Trigonometry — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Trigonometric ratios"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "In a triangle ABC right-angled at B, for the acute angle A: the side opposite A is BC, the side adjacent to A is AB, and AC is the hypotenuse.\nsin A = opposite/hypotenuse = BC/AC\ncos A = adjacent/hypotenuse = AB/AC\ntan A = opposite/adjacent = BC/AB\ncosec A = 1/sin A = AC/BC, sec A = 1/cos A = AC/AB, cot A = 1/tan A = AB/BC.\nAlso tan A = sin A/cos A and cot A = cos A/sin A. For the other acute angle C the opposite and adjacent sides swap."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Finding all ratios from one"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Draw a right triangle with the given ratio, find the third side by Pythagoras, then read off the rest. If sin A = 3/5, the opposite side is 3, the hypotenuse 5, the adjacent side √(25 − 9) = 4, so cos A = 4/5 and tan A = 3/4. If 3 tan A = 4, tan A = 4/3, hypotenuse = 5, cos A = 3/5. Since the hypotenuse is the longest side, sin A and cos A are never more than 1, and sec A, cosec A are never less than 1."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Identities"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "sin²θ + cos²θ = 1, sec²θ − tan²θ = 1 (1 + tan²θ = sec²θ), cosec²θ − cot²θ = 1 (1 + cot²θ = cosec²θ). To prove an identity, start from the more complicated side, change everything to sin and cos if stuck, use these identities and algebra (a² − b², taking LCM) until it becomes the other side. Example: (1 − sin A)/(1 + sin A) = (1 − sin A)²/(1 − sin²A) = (1 − sin A)²/cos²A = (sec A − tan A)²."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Complementary angles"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Angles A and 90° − A are complementary. sin(90° − A) = cos A, cos(90° − A) = sin A, tan(90° − A) = cot A, cot(90° − A) = tan A, sec(90° − A) = cosec A, cosec(90° − A) = sec A. So sin 49° = cos 41°, tan 48° tan 42° = tan 48° cot 48° = 1, and cos²75° − sin²15° = cos²75° − cos²75° = 0. If tan 2A = cot(A − 18°), then 2A and A − 18° are complementary: 2A + A − 18° = 90° ⇒ A = 36°."
+        ]
+      ]
+    }
+  ]
+}
