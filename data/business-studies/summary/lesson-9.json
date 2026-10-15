@@ -1,0 +1,123 @@
+{
+  "subject": "business-studies",
+  "lesson": 9,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 9: Banking Services — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Meaning of a bank"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "A bank is an institution that accepts deposits of money from the public, repayable on demand or otherwise, and lends money to those who need it. Unlike a moneylender, a bank is regulated by the RBI, deals with the public at large, gives loans on proper security at interest rates governed by the RBI, follows a flexible and lawful recovery process and accepts deposits; a moneylender lends from his own funds, often against gold or land, at very high interest decided by himself and recovers strictly. Banks provide funds for business and play a vital role in a nation's development: they mobilise savings, give finance to trade, industry and agriculture, create credit, make payments easy and help balanced regional growth."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Types of banks"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Central bank — the Reserve Bank of India (established 1 April 1935 under the RBI Act, 1934; nationalised in 1949; head office Mumbai). It issues currency, is the banker to the government and the bankers' bank, controls credit and interest rates, and manages foreign exchange; it does not deal with the public. Commercial banks — public sector (majority shares held by government — SBI, Bank of Baroda), private sector (majority held by private individuals — ICICI Bank, HDFC Bank) and foreign banks. Cooperative banks — primary credit societies, central and state cooperative banks, urban cooperative banks. Development and specialised banks — EXIM Bank (finances and guides export and import), SIDBI (Small Industries Development Bank of India), NABARD (National Bank for Agriculture and Rural Development)."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Functions of commercial banks"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Primary functions: (1) accepting deposits — savings, current, fixed and recurring; (2) granting loans and advances — loans for a fixed period against security; cash credit (borrow up to a limit against stock or security); overdraft (current account holders may withdraw more than their balance up to a limit); discounting of bills of exchange. Secondary functions — agency functions: collecting cheques, bills, dividends and interest; making payments such as insurance premium and rent; buying and selling securities; acting as trustee or executor. General utility functions: issuing demand drafts and traveller's cheques; safe-deposit lockers and safe custody of valuables (the relation is then bailor and bailee); letters of credit; foreign exchange; supplying trade information (not an advance)."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Types of deposit accounts"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Savings bank account — for people with limited income who want to save for future needs; any amount can be deposited at any time, withdrawals limited in number, moderate interest. Current deposit account — for businessmen, companies, schools, hospitals; any number of deposits and withdrawals, the most liquid; no or little interest; overdraft facility. Fixed deposit account — a lump sum deposited for a fixed period at a higher interest rate, not withdrawable before maturity without penalty (e.g. saving ₹2,00,000 to gift a son on graduation). Recurring deposit account — a fixed amount deposited every month for a fixed period (e.g. ₹5,000 a month); interest higher than savings. Multiple option (flexi) deposit — a savings account in which balances above a set limit move automatically to a fixed deposit, earning more interest."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Opening and operating a savings account"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Collect and fill the account-opening form (name, address, occupation, specimen signature, photographs); give KYC (Know Your Customer) documents and the introduction of an existing account holder; deposit the minimum amount with a pay-in-slip; the bank issues a passbook and cheque book (and ATM-cum-debit card). The pay-in-slip has two parts: the right-hand foil kept by the bank and the left-hand counterfoil returned to the depositor with the bank's stamp. A cheque deposited is attached to the pay-in-slip. Before paying a cheque the bank checks the signature against the specimen signature. The bank updates the passbook. For a bank, deposits are a liability."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Modern (e-)banking"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "ATM (Automated Teller Machine) — withdraw or deposit cash, check balance any time, 24 × 7. Debit card — pays for purchases directly from one's own bank account. Credit card — buy now on credit up to a limit and pay later, interest charged if not paid in the credit period. Net banking — view balances, transfer funds, open FDs and pay bills over the Internet. Mobile and phone banking, NEFT/RTGS/IMPS transfers, UPI (Unified Payments Interface — fund transfers and bill payments from a mobile), AEPS (Aadhaar Enabled Payment System — transactions with Aadhaar number and fingerprint or iris), and CBS (Core Banking Solution — any-branch banking). An illiterate person can also be given a debit card."
+        ]
+      ]
+    }
+  ]
+}

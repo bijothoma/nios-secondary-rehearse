@@ -1,0 +1,105 @@
+{
+  "subject": "business-studies",
+  "lesson": 10,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 10: Insurance Services — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Business risks"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Risk is the possibility of loss or damage due to factors over which the businessman has little or no control. By cause, risks are natural (earthquake, flood, lightning), human (theft, dishonesty of employees or customers, strikes and lockouts, negligence) and economic (changes in fashion, demand, prices, competition, government policy). By type: pure risk (only loss or no loss — fire, theft); speculative risk (chance of both gain and loss — change in fashion or price); property risk; personnel risk (illness or death of employees); financial risk (from borrowing or investment decisions); marketing risk."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Meaning and importance of insurance"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Insurance is a contract by which the risk of loss is shifted to another party, the insurer (insurance company or underwriter), in return for a payment called the premium; the person insured is the insured. The written contract is the policy. Insurance spreads the loss of a few over many. Importance: gives security and peace of mind; compensates business losses and so keeps firms running; helps large-scale production and trade; makes loans easier (policies serve as security); encourages saving and provides funds for national investment; generates employment; provides social security — so insurance is also a social service."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Types of insurance"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Life insurance (life assurance): the insurer pays a fixed sum on the death of the insured or at the end of a fixed period — the event is certain, only its timing is uncertain, so it is not a contract of indemnity. Whole-life policy: premium paid all life, sum paid to heirs after death. Endowment policy: runs for a fixed period; sum paid at maturity or on earlier death. Group insurance covers employees."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Fire insurance: compensates loss or damage by accidental fire, normally for one year (maximum). It is a contract of indemnity — the claim is the actual loss or the sum insured, whichever is less (policy ₹20,000, loss ₹15,000 → claim ₹15,000)."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Marine insurance: covers perils of the sea — cargo insurance (goods), hull insurance (the ship) and freight insurance (the freight earned). Policies: time policy (a fixed period, usually one year); voyage policy (a particular voyage, whatever time it takes); mixed policy (a voyage within a time); floating policy (a round sum reduced as shipments are declared). Other general insurance: motor vehicle, burglary, fidelity (against dishonesty of employees), health, crop and liability insurance. Life insurance is not general insurance."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Principles of insurance"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "(1) Utmost good faith — both parties must disclose all material facts; hiding a disease or the use of explosive chemicals makes the contract void. (2) Insurable interest — the insured must stand to lose financially from the loss: in life insurance at the time of taking the policy (a divorce later does not affect a policy on a wife's life); in marine at the time of loss; in fire at both times. A mortgagee can insure the mortgaged property. (3) Indemnity — the insured is put back in his position before the loss and cannot profit from insurance; applies to fire and marine, not life. (4) Contribution — if the same property is insured with several insurers, they share the loss in proportion to their policies, and the insured cannot recover more than the loss. (5) Subrogation — after paying the claim, the insurer takes over the insured's rights in the damaged property (half-burnt goods belong to the insurer). (6) Mitigation — the insured must take all reasonable steps to reduce the loss. (7) Causa proxima — the insurer pays only if the nearest cause of loss is the risk insured against (oranges spoilt by delay in unloading are not covered by an accident policy)."
+        ]
+      ]
+    }
+  ]
+}

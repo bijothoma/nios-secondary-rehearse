@@ -1,0 +1,661 @@
+{
+  "subject": "business-studies",
+  "lesson": 902,
+  "title": "Model Question Paper 2",
+  "meta": "Time: 3 hours · Maximum marks: 100 · Modelled on the April 2026 NIOS paper",
+  "instructions": [
+    "All questions are compulsory. Where a question has OR, answer either one.",
+    "Section A: questions 1–20 are MCQs (1 mark each). Section B: questions 21–35 have two parts of 1 mark each.",
+    "Section C: 2-mark answers in 30–50 words, 3-mark answers in 50–80 words, 5-mark answers in 80–120 words.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "20 × 1 = 20",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "Which of the following is NOT a cause of land pollution?",
+          "options": [
+            "Solid waste of industries, mines and quarries",
+            "Excessive use of plastic bags",
+            "Excessive use of fertilisers and pesticides",
+            "Improper sanitation and sewage system"
+          ],
+          "answer": "D",
+          "years": [
+            "April 2023"
+          ],
+          "note": "Lesson 1."
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "Paying taxes honestly to the government is a —",
+          "options": [
+            "human objective",
+            "social objective",
+            "global objective",
+            "personal objective"
+          ],
+          "answer": "B",
+          "note": "Lesson 1."
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "Warehousing removes the hindrance of —",
+          "options": [
+            "place",
+            "time",
+            "risk",
+            "finance"
+          ],
+          "answer": "B",
+          "note": "Lesson 2."
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "________ refers to the process of buying and selling goods.",
+          "options": [
+            "Business",
+            "Industry",
+            "Employment",
+            "Trade"
+          ],
+          "answer": "D",
+          "years": [
+            "April 2025"
+          ],
+          "note": "The April 2025 key gave 'commerce'; by the NIOS definition trade is buying and selling, and commerce is trade plus aids to trade. Lesson 2."
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "The head of a Joint Hindu Family business is known as the —",
+          "options": [
+            "proprietor",
+            "director",
+            "Karta",
+            "manager"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2021"
+          ],
+          "note": "Lesson 3."
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "The Limited Liability Partnership Act was passed in —",
+          "options": [
+            "2006",
+            "2008",
+            "2010",
+            "1932"
+          ],
+          "answer": "B",
+          "note": "Lesson 3."
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "The minimum number of members required to form a cooperative society is —",
+          "options": [
+            "2",
+            "7",
+            "10",
+            "20"
+          ],
+          "answer": "C",
+          "note": "Lesson 4."
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "A foreign company that manufactures electronic goods in India with advanced technology and exports to many countries is a —",
+          "options": [
+            "public limited company",
+            "private limited company",
+            "government company",
+            "multinational company"
+          ],
+          "answer": "D",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 4."
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "________ is the process of exchanging information and understanding between two or more persons.",
+          "options": [
+            "Motivation",
+            "Leadership",
+            "Cooperation",
+            "Communication"
+          ],
+          "answer": "D",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 7."
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "The school bell telling students that a period has ended is —",
+          "options": [
+            "visual communication",
+            "aural communication",
+            "gestural communication",
+            "written communication"
+          ],
+          "answer": "B",
+          "note": "Lesson 7."
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "We should keep our savings in banks because they are —",
+          "options": [
+            "safe",
+            "withdrawable any time",
+            "interest-earning",
+            "all of the above"
+          ],
+          "answer": "D",
+          "years": [
+            "October 2024"
+          ],
+          "note": "Lesson 9."
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "Anil insured his shop against fire for ₹19 lakh. Goods worth ₹9 lakh were destroyed and he claimed ₹19 lakh. The insurer will settle the claim under —",
+          "options": [
+            "utmost good faith",
+            "insurable interest",
+            "indemnity",
+            "contribution"
+          ],
+          "answer": "C",
+          "years": [
+            "October 2021"
+          ],
+          "note": "Lesson 10."
+        },
+        {
+          "id": "1.13",
+          "type": "mcq",
+          "q": "A retailer sells goods to —",
+          "options": [
+            "wholesalers",
+            "producers",
+            "consumers",
+            "manufacturers"
+          ],
+          "answer": "C",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 13."
+        },
+        {
+          "id": "1.14",
+          "type": "mcq",
+          "q": "'Any paid form of non-personal presentation and promotion of ideas, goods and services by an identified sponsor.' This definition was given by the —",
+          "options": [
+            "Australian Marketing Association",
+            "China Marketing Association",
+            "European Marketing Association",
+            "American Marketing Association"
+          ],
+          "answer": "D",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 15."
+        },
+        {
+          "id": "1.15",
+          "type": "mcq",
+          "q": "Consumerism refers to a movement by —",
+          "options": [
+            "consumers",
+            "producers",
+            "society",
+            "government"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2024",
+            "October 2019"
+          ],
+          "note": "Lesson 17."
+        },
+        {
+          "id": "1.16",
+          "type": "mcq",
+          "q": "The maximum age limit for a member of the National Commission (1986 Act) was —",
+          "options": [
+            "65 years",
+            "70 years",
+            "35 years",
+            "60 years"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2024"
+          ],
+          "note": "Lesson 18."
+        },
+        {
+          "id": "1.17",
+          "type": "mcq",
+          "q": "A person working as a clerk in a government office is —",
+          "options": [
+            "self-employed",
+            "wage-employed",
+            "an entrepreneur",
+            "a part-time businessman"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 19."
+        },
+        {
+          "id": "1.18",
+          "type": "mcq",
+          "q": "Small grocery shops are examples of —",
+          "options": [
+            "large-scale industries",
+            "wage employment",
+            "self-employment",
+            "government service"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 19."
+        },
+        {
+          "id": "1.19",
+          "type": "mcq",
+          "q": "The qualities of a successful entrepreneur include confidence, responsibility for actions and hard work — ",
+          "options": [
+            "only confidence",
+            "only hard work",
+            "only responsibility",
+            "all of the above"
+          ],
+          "answer": "D",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Lesson 20."
+        },
+        {
+          "id": "1.20",
+          "type": "mcq",
+          "q": "Entrepreneurship leads to a ________ in unemployment.",
+          "options": [
+            "increase",
+            "decrease",
+            "neither increase nor decrease",
+            "none of the above"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Lesson 20."
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark (fill in the blanks, true/false, match, one word or identify).",
+      "marks": "15 × 2 = 30",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "Fill in the blanks: (a) Today, because of ________, the whole world has become a big market. (b) Paying taxes to the government honestly and regularly is a responsibility of business towards the ________.",
+          "answer": "(a) globalisation (e-commerce)\n(b) government",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Lesson 1."
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Usha works in an oil refinery and Kiran in her family textile business. Name the type of industry in each case.",
+          "answer": "(a) Oil refinery — manufacturing (processing) industry.\n(b) Textile industry — manufacturing industry.",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 2."
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "Fill in the blanks: (a) Industry is concerned with ________ of goods. (b) The medium which moves men and materials from one place to another is called ________.",
+          "answer": "(a) production\n(b) transport",
+          "note": "Lesson 2."
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Write True (T) or False (F): (a) The liability of a sole proprietor is limited. (b) The principle of one person one vote applies to sole proprietorship.",
+          "answer": "(a) False — it is unlimited.\n(b) False — it applies to cooperative societies.",
+          "years": [
+            "April 2024",
+            "April 2025"
+          ],
+          "note": "Lesson 3."
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "Give one-word answers: (a) Can minors be members of a Hindu Undivided Family business? (b) How many successive generations can be members of an HUF business?",
+          "answer": "(a) Yes — membership is by birth.\n(b) Three.",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 3."
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "Mrs. Reeta is afraid that if her business assets fall short, her personal assets may be used to pay the debts. (a) Which form of organisation should she choose? (b) Why?",
+          "answer": "(a) A joint stock company.\n(b) Its shareholders have limited liability — they lose at most the value of their shares; personal assets are safe.",
+          "years": [
+            "April 2024",
+            "April 2025"
+          ],
+          "note": "Lesson 4."
+        },
+        {
+          "id": "2.7",
+          "type": "open",
+          "q": "Fill in the blanks: (a) To complete the process of communication there should be at least ________ persons. (b) ________ communication includes sounds, words, language and speech.",
+          "answer": "(a) two\n(b) Verbal (oral)",
+          "years": [
+            "October 2024"
+          ],
+          "note": "Lesson 7."
+        },
+        {
+          "id": "2.8",
+          "type": "open",
+          "q": "Write True (T) or False (F): (a) Overdraft can be given on a current account. (b) For a bank, deposits are an asset.",
+          "answer": "(a) True\n(b) False — deposits are a liability (money owed to depositors).",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Lesson 9."
+        },
+        {
+          "id": "2.9",
+          "type": "open",
+          "q": "Fill in the blanks: (a) The consideration of insurance is known as ________. (b) The principle of utmost good faith is based on ________ between insurer and insured.",
+          "answer": "(a) premium\n(b) mutual trust and confidence",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Lesson 10."
+        },
+        {
+          "id": "2.10",
+          "type": "open",
+          "q": "Mark (W) for wholesaler or (R) for retailer: (a) Dealing in a limited range of goods only (b) Direct contact with consumers.",
+          "answer": "(a) W — a wholesaler deals in one line of goods.\n(b) R — a retailer deals directly with consumers.",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 13."
+        },
+        {
+          "id": "2.11",
+          "type": "open",
+          "q": "Write True (T) or False (F): (a) Advertising is a powerful communication force and an important activity of the promotion mix. (b) Salesmen get no help from advertising while selling.",
+          "answer": "(a) True\n(b) False — advertising gives customers product knowledge in advance, which helps salesmen.",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Lesson 15."
+        },
+        {
+          "id": "2.12",
+          "type": "open",
+          "q": "Write True (T) or False (F): (a) A consumer's responsibility includes proper use of products and services. (b) A responsible consumer tries to protect his interest on his own.",
+          "answer": "(a) True\n(b) True",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Lesson 17."
+        },
+        {
+          "id": "2.13",
+          "type": "open",
+          "q": "(a) When was the Essential Commodities Act enacted? (b) In which year was the Prevention of Food Adulteration Act passed?",
+          "answer": "(a) 1955\n(b) 1954",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Lesson 18."
+        },
+        {
+          "id": "2.14",
+          "type": "open",
+          "q": "Write True (T) or False (F): (a) There is no limit to earnings in wage employment. (b) Self-employment in business involves risk of loss borne by the owner.",
+          "answer": "(a) False — wages are fixed; earnings are unlimited in self-employment.\n(b) True",
+          "note": "Lesson 19."
+        },
+        {
+          "id": "2.15",
+          "type": "open",
+          "q": "Fill in the blanks: (a) Money spent on machinery and buildings is ________ capital. (b) Money spent on raw materials, wages and rent is ________ capital.",
+          "answer": "(a) fixed\n(b) working",
+          "note": "Lesson 20."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "6 × 2 = 12",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "What is a partnership? Explain in your own words.",
+          "answer": "A partnership is an agreement between two or more persons to carry on a lawful business together and share its profits and losses. Each partner contributes capital or skill, takes part in management and has unlimited liability; the partners together are called a firm.",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Lesson 3."
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "'Members may come and members may go, but the company continues to exist.' Identify and explain this feature of a joint stock company.",
+          "answer": "Perpetual succession. A company is a separate legal entity created by law, so its life is not affected by the death, insolvency, retirement or transfer of shares of any member. It ends only when it is wound up by law.",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 4."
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "What is the difference between a debit card and a credit card?",
+          "answer": "A debit card pays from the holder's own bank balance, which is reduced at once. A credit card lets the holder buy on credit up to a limit and pay the bank later; interest is charged if not paid within the credit period.",
+          "years": [
+            "April 2019"
+          ],
+          "note": "Lesson 9."
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "Distinguish between a whole-life policy and an endowment policy.",
+          "answer": "Whole-life: runs for the insured's whole life; premium is paid throughout; the sum is paid to the heirs only after death.\nEndowment: runs for a fixed period or up to a certain age; the sum is paid at maturity, or to the heirs if the insured dies earlier.",
+          "years": [
+            "October 2017"
+          ],
+          "note": "Lesson 10."
+        },
+        {
+          "id": "3.5",
+          "type": "open",
+          "q": "What is meant by the right to safety? Explain with an example.",
+          "answer": "The right to be protected against goods and services that are hazardous to life and health. Example: if a gas cylinder supplied leaks and causes a fire, the supplier is liable to pay compensation.",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 17."
+        },
+        {
+          "id": "3.6",
+          "type": "open",
+          "q": "Explain briefly feasibility study and identifying entrepreneurial opportunities as functions of an entrepreneur.",
+          "answer": "Identifying opportunities: sensing changing human needs (food, fashion, education) faster than others and finding a business in them — the first function.\nFeasibility study: studying whether the proposed product will succeed — market demand, inputs, costs, sources and problems — and preparing a business plan or project report.",
+          "years": [
+            "October 2016"
+          ],
+          "note": "Lesson 20."
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "6 × 3 = 18",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "Differentiate between economic and non-economic activities on the basis of purpose, outcome and expectation.",
+          "answer": "Purpose: economic activities aim to earn money; non-economic activities aim at satisfaction (love, social or religious feeling).\nOutcome: economic activities produce income and wealth; non-economic activities give personal satisfaction.\nExpectation: in economic activities a monetary return is expected; in non-economic activities no return is expected.",
+          "years": [
+            "April 2021",
+            "April 2022"
+          ],
+          "note": "Lesson 1."
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "Why do members of a cooperative society not work with full zeal? Explain along with other limitations.",
+          "answer": "Members get only a limited dividend on capital and no extra reward for extra effort, and office-bearers are often honorary — so there is little personal motivation.\nOther limitations: limited capital; inefficient management; conflicts among members; excessive government control; lack of secrecy.",
+          "years": [
+            "April 2023"
+          ],
+          "note": "Lesson 4."
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "Ajay's business suffers from changes in fashion and prices and tough competition; Vijay's from dishonesty of employees and customers and from strikes. Name the types of business risk.",
+          "answer": "Ajay — economic-cause risks (changes in fashion, prices, competition; speculative risks).\nVijay — human-cause risks (dishonesty of employees and customers, strikes and lockouts).",
+          "years": [
+            "October 2024"
+          ],
+          "note": "Lesson 10."
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "State any three differences between wholesalers and retailers.",
+          "answer": "(1) Buying: wholesalers buy from producers in bulk; retailers buy from wholesalers in small quantities.\n(2) Variety: wholesalers deal in a limited line; retailers in a wide range.\n(3) Purpose of sale: wholesalers sell for resale; retailers sell for consumption.",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Lesson 13."
+        },
+        {
+          "id": "4.5",
+          "type": "open",
+          "q": "Explain the right to be heard and the right to seek redressal.",
+          "answer": "Right to be heard: consumers' interests must receive due consideration — they are consulted in government policy, business listens to their views, and they are heard in consumer courts.\nRight to seek redressal: consumers can get replacement, refund or compensation for defective goods, deficient services and unfair practices, through the seller or the consumer courts.",
+          "years": [
+            "April 2019",
+            "October 2016"
+          ],
+          "note": "Lesson 17."
+        },
+        {
+          "id": "4.6",
+          "type": "open",
+          "q": "An air purifier advertised as removing 100% germs did not work for Priya; testing showed it had no such capacity. What malpractice is involved and which rights can she exercise?",
+          "answer": "Malpractice: misleading advertisement (false claim of quality).\nRights: right to be informed (she was given false information); right to seek redressal — she can file a complaint for refund or replacement and compensation in the District Commission; right to be heard.",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 18."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Long answer questions, including case-based questions. Answer in 80–120 words.",
+      "marks": "4 × 5 = 20",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "Explain primary, genetic and extractive industries with suitable examples of each.",
+          "answer": "Primary industry: produces goods with the help of nature, needing little human effort — agriculture, farming, forestry, fishing, horticulture.\nGenetic industry: reproduces and multiplies certain species of plants and animals with the aim of selling them for profit — plant nurseries, cattle breeding, poultry farms, fish hatcheries.\nExtractive industry: draws out goods from the soil, air or water; its products are usually raw materials for manufacturing and construction — mining of coal and iron ore, drilling of oil, extraction of timber and rubber from forests.",
+          "years": [
+            "April 2019"
+          ],
+          "note": "Lesson 2."
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "Explain any five barriers to effective communication.",
+          "answer": "(1) Badly expressed message — poor choice of words or language causes misunderstanding.\n(2) Screening or filtering — the message gets distorted as it passes through levels.\n(3) Inattention — people do not read or listen carefully.\n(4) Unclarified assumptions — sender and receiver assume different things.\n(5) Resistance to change — people ignore messages that disturb routine.\n(6) Mutual distrust; status and position; complex organisation structure.",
+          "years": [
+            "October 2022",
+            "April 2019"
+          ],
+          "note": "Lesson 7."
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "State any six differences between wholesalers and retailers.",
+          "answer": "(1) Quantity — bulk vs small.\n(2) Buy from — producers vs wholesalers.\n(3) Variety — limited line vs wide range.\n(4) Capital — more vs less.\n(5) Sale — for resale vs for consumption.\n(6) Contact with consumers — none vs direct.\n(7) Decoration of shop — little vs much.",
+          "years": [
+            "April 2021"
+          ],
+          "note": "Lesson 13."
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "Enlist any five areas of self-employment and give one example of each.",
+          "answer": "(1) Small-scale retail business — a grocery shop.\n(2) Services based on individual skills — a tailoring or hair-dressing shop.\n(3) Professions — a doctor's private clinic.\n(4) Small-scale farming — dairy or poultry.\n(5) Village and cottage industries — handloom weaving.\n(6) Arts and crafts — goldsmith, carpenter, potter.",
+          "years": [
+            "October 2022"
+          ],
+          "note": "Lesson 19."
+        }
+      ]
+    }
+  ]
+}

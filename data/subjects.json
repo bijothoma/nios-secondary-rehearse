@@ -699,6 +699,109 @@
           "file": "data/maths/paper-3.json"
         }
       ]
+    },
+    {
+      "id": "business-studies",
+      "name": "Business Studies",
+      "label": "",
+      "lessons": [
+        {
+          "no": 1,
+          "title": "Nature and Scope of Business",
+          "file": "data/business-studies/lesson-1.json",
+          "summary": "data/business-studies/summary/lesson-1.json"
+        },
+        {
+          "no": 2,
+          "title": "Industry and Commerce",
+          "file": "data/business-studies/lesson-2.json",
+          "summary": "data/business-studies/summary/lesson-2.json"
+        },
+        {
+          "no": 3,
+          "title": "Sole Proprietorship, Partnership and Hindu Undivided Family",
+          "file": "data/business-studies/lesson-3.json",
+          "summary": "data/business-studies/summary/lesson-3.json"
+        },
+        {
+          "no": 4,
+          "title": "Cooperative Societies and Joint Stock Companies",
+          "file": "data/business-studies/lesson-4.json",
+          "summary": "data/business-studies/summary/lesson-4.json"
+        },
+        {
+          "no": 7,
+          "title": "Communication Services",
+          "file": "data/business-studies/lesson-7.json",
+          "summary": "data/business-studies/summary/lesson-7.json"
+        },
+        {
+          "no": 9,
+          "title": "Banking Services",
+          "file": "data/business-studies/lesson-9.json",
+          "summary": "data/business-studies/summary/lesson-9.json"
+        },
+        {
+          "no": 10,
+          "title": "Insurance Services",
+          "file": "data/business-studies/lesson-10.json",
+          "summary": "data/business-studies/summary/lesson-10.json"
+        },
+        {
+          "no": 13,
+          "title": "Channels of Distribution",
+          "file": "data/business-studies/lesson-13.json",
+          "summary": "data/business-studies/summary/lesson-13.json"
+        },
+        {
+          "no": 15,
+          "title": "Advertising",
+          "file": "data/business-studies/lesson-15.json",
+          "summary": "data/business-studies/summary/lesson-15.json"
+        },
+        {
+          "no": 17,
+          "title": "Rights and Responsibilities of Consumers",
+          "file": "data/business-studies/lesson-17.json",
+          "summary": "data/business-studies/summary/lesson-17.json"
+        },
+        {
+          "no": 18,
+          "title": "Consumer Protection",
+          "file": "data/business-studies/lesson-18.json",
+          "summary": "data/business-studies/summary/lesson-18.json"
+        },
+        {
+          "no": 19,
+          "title": "Choosing a Career",
+          "file": "data/business-studies/lesson-19.json",
+          "summary": "data/business-studies/summary/lesson-19.json"
+        },
+        {
+          "no": 20,
+          "title": "Entrepreneurship",
+          "file": "data/business-studies/lesson-20.json",
+          "summary": "data/business-studies/summary/lesson-20.json"
+        },
+        {
+          "no": 901,
+          "tag": "Full paper",
+          "title": "Model Question Paper 1",
+          "file": "data/business-studies/paper-1.json"
+        },
+        {
+          "no": 902,
+          "tag": "Full paper",
+          "title": "Model Question Paper 2",
+          "file": "data/business-studies/paper-2.json"
+        },
+        {
+          "no": 903,
+          "tag": "Full paper",
+          "title": "Model Question Paper 3",
+          "file": "data/business-studies/paper-3.json"
+        }
+      ]
     }
   ]
 }

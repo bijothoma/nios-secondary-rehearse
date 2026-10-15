@@ -1,0 +1,473 @@
+{
+  "subject": "business-studies",
+  "lesson": 9,
+  "title": "Banking Services",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "12 × 1 = 12",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "Online banking provides service to customers —",
+          "options": [
+            "8 hours a day",
+            "10 hours a day",
+            "24 hours a day",
+            "none of these"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "Neeta saves ₹5,000 every month. Which account should she open?",
+          "options": [
+            "Current account",
+            "PPF account",
+            "Recurring deposit account",
+            "Savings account"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "Which of the following is not a type of advance provided by a commercial bank?",
+          "options": [
+            "Cash credit",
+            "Discounting of bills",
+            "Overdraft",
+            "Collecting and supplying business information"
+          ],
+          "answer": "D",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "We should keep our savings in banks because they are —",
+          "options": [
+            "safe",
+            "withdrawable any time",
+            "interest-earning",
+            "all of the above"
+          ],
+          "answer": "D",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "Overdraft facility is allowed to holders of a —",
+          "options": [
+            "savings bank account",
+            "current deposit account",
+            "fixed deposit account",
+            "recurring deposit account"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2022"
+          ]
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "Which of the following is not a public sector bank?",
+          "options": [
+            "Corporation Bank",
+            "State Bank of India",
+            "ICICI Bank",
+            "Bank of Baroda"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2022"
+          ]
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "Which of the following is not a private sector bank?",
+          "options": [
+            "ICICI Bank Ltd.",
+            "State Bank of India",
+            "ING Vysya Bank",
+            "Lord Krishna Bank Ltd."
+          ],
+          "answer": "B",
+          "years": [
+            "April 2023"
+          ]
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "The account required by big businessmen, companies and institutions to make and receive payments is the —",
+          "options": [
+            "savings bank account",
+            "current deposit account",
+            "fixed deposit account",
+            "recurring deposit account"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2019"
+          ]
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "The central bank of India is the —",
+          "options": [
+            "State Bank of India",
+            "Reserve Bank of India",
+            "NABARD",
+            "SIDBI"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "The bank that provides finance and guidance for exports is —",
+          "options": [
+            "EXIM Bank",
+            "NABARD",
+            "SIDBI",
+            "RBI"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "The left-hand part of a pay-in-slip, returned to the depositor, is the —",
+          "options": [
+            "foil",
+            "counterfoil",
+            "passbook",
+            "cheque"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "A card that pays directly from one's own bank balance is a —",
+          "options": [
+            "credit card",
+            "debit card",
+            "ATM slip",
+            "demand draft"
+          ],
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark (fill in the blanks, true/false, match, one word or identify).",
+      "marks": "12 × 2 = 24",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "State the full form: (a) NABARD (b) SIDBI.",
+          "answer": "(a) National Bank for Agriculture and Rural Development\n(b) Small Industries Development Bank of India",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Identify the type of bank: (a) a commercial bank in which the majority of share capital is held by private individuals; (b) the bank that assists and guides the export of products.",
+          "answer": "(a) Private sector bank\n(b) EXIM Bank (Export-Import Bank of India)",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "Fill in the blanks: (a) The counterfoil of the pay-in-slip is returned to the ________ by the bank. (b) The right-hand part of the pay-in-slip is called the ________.",
+          "answer": "(a) depositor (account holder)\n(b) foil",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Write True (T) or False (F): (a) Deposits in a savings bank account serve present as well as future needs. (b) A fixed amount must be deposited every month in a Fixed Deposit Account.",
+          "answer": "(a) True\n(b) False — that is a recurring deposit; an FD is a single lump sum for a fixed period.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "Write True (T) or False (F): (a) A savings account holder cannot introduce another person when opening a savings account. (b) The passbook must be presented to the bank for entering deposits and withdrawals.",
+          "answer": "(a) False — an existing account holder can introduce a new customer.\n(b) True",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "Fill in the blanks: (a) A cheque is attached to the ________ before depositing. (b) Before paying a cheque, the signature is verified with the ________.",
+          "answer": "(a) pay-in-slip\n(b) specimen signature (card) kept by the bank",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "2.7",
+          "type": "open",
+          "q": "State the full form: (a) CBS (b) UPI.",
+          "answer": "(a) Core Banking Solution\n(b) Unified Payments Interface",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "2.8",
+          "type": "open",
+          "q": "Give one-word answers: (a) Can an illiterate person be issued a debit card? (b) Name the system used for both fund transfers and bill payments.",
+          "answer": "(a) Yes\n(b) UPI (Unified Payments Interface)",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "2.9",
+          "type": "open",
+          "q": "A digital payment system lets a user transact with Aadhaar number and fingerprint or iris; the account must be linked to Aadhaar. (a) Name the system. (b) Why is it considered safe?",
+          "answer": "(a) AEPS — Aadhaar Enabled Payment System.\n(b) It uses biometric authentication, which cannot easily be copied.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "2.10",
+          "type": "open",
+          "q": "State the full form: (a) KYC (b) ATM.",
+          "answer": "(a) Know Your Customer\n(b) Automated Teller Machine",
+          "years": [
+            "October 2024",
+            "April 2024"
+          ]
+        },
+        {
+          "id": "2.11",
+          "type": "open",
+          "q": "Write True (T) or False (F): (a) The rate at which money is lent or borrowed is the interest rate. (b) When a banker accepts securities for safe custody, the relation between banker and customer is that of principal and agent.",
+          "answer": "(a) True\n(b) False — it is bailor (customer) and bailee (banker).",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "2.12",
+          "type": "open",
+          "q": "Write True (T) or False (F): (a) Overdraft can be given on a current account. (b) For a bank, deposits are an asset.",
+          "answer": "(a) True\n(b) False — deposits are a liability (money owed to depositors).",
+          "years": [
+            "April 2024"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "5 × 2 = 10",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "Mr. Ravi has a limited income and wants to save for future needs. Which account should he open? Why?",
+          "answer": "A savings bank account — it can be opened with a small amount, money can be deposited any time, it earns interest and can be withdrawn when needed.",
+          "years": [
+            "October 2024",
+            "April 2024"
+          ]
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "Mahesh's father wants to save ₹2,00,000 to gift Mahesh on his graduation day. Which deposit should he open?",
+          "answer": "A fixed deposit account — a lump sum is deposited for a fixed period and earns a higher rate of interest.",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "State any two differences between a bank and a moneylender.",
+          "answer": "(1) Regulation: a bank is regulated by the RBI; a moneylender is not.\n(2) Interest: a bank's rate is governed by the RBI and reasonable; a moneylender's is decided by himself and usually very high.\n(Also: banks accept deposits; recovery by banks is lawful and flexible.)",
+          "years": [
+            "October 2019"
+          ]
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "Explain the working of net banking.",
+          "answer": "With net banking the customer logs on to the bank's website with a user ID and password and can, at any time, check the balance and statement, transfer funds, open a fixed deposit, and pay electricity, telephone and other bills without visiting the branch.",
+          "years": [
+            "October 2019",
+            "October 2017"
+          ]
+        },
+        {
+          "id": "3.5",
+          "type": "open",
+          "q": "What is the difference between a debit card and a credit card?",
+          "answer": "A debit card pays from the holder's own bank balance, which is reduced at once. A credit card lets the holder buy on credit up to a limit and pay the bank later; interest is charged if not paid within the credit period.",
+          "years": [
+            "April 2019"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "6 × 3 = 18",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "What is e-banking? Explain any two types of e-banking services.",
+          "answer": "E-banking means doing banking transactions electronically through computers, mobile phones and cards without visiting the branch.\n(1) ATM — withdraw cash, check balance, deposit money 24 hours a day.\n(2) Net banking — transfer funds, pay bills and open deposits over the Internet.\n(Also: debit and credit cards, mobile banking, UPI.)",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "What is an ATM? How does it help bank customers?",
+          "answer": "An Automated Teller Machine is an electronic machine installed by banks at convenient places.\nIt helps customers: (1) withdraw cash at any time, 24 × 7; (2) check balance and get a mini statement; (3) deposit cash and transfer funds without going to the branch.",
+          "years": [
+            "April 2024",
+            "April 2021"
+          ],
+          "or": {
+            "q": "State any three secondary functions of a commercial bank.",
+            "answer": "(1) Agency functions — collecting cheques, dividends and interest, paying premiums and bills for customers.\n(2) Issuing demand drafts and traveller's cheques.\n(3) Safe deposit lockers and safe custody of valuables; letters of credit; foreign exchange."
+          }
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "Explain three modern trends of e-banking in India.",
+          "answer": "(1) Net banking — banking over the Internet.\n(2) Mobile banking and UPI — instant transfers and bill payments from the phone.\n(3) ATMs, debit and credit cards — cash and cashless payments any time.",
+          "years": [
+            "October 2022"
+          ]
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "Explain debit card and credit card.",
+          "answer": "Debit card: issued to a savings or current account holder; payments made with it are deducted at once from his own balance.\nCredit card: lets the holder buy goods on credit up to a fixed limit; the bank pays the seller and the holder repays within the credit period, after which interest is charged. It may be issued to persons with or without an account.",
+          "years": [
+            "October 2022"
+          ]
+        },
+        {
+          "id": "4.5",
+          "type": "open",
+          "q": "Explain two types of cooperative banks. OR Explain the different modes of payment.",
+          "answer": "Cooperative banks: (1) Primary credit societies — village-level societies giving small loans to members; (2) Central cooperative banks — district-level, finance the primary societies; (3) State cooperative banks — apex bank of the state.\nModes of payment: cash, cheque, demand draft, debit and credit cards, net banking and UPI transfers.",
+          "years": [
+            "April 2019",
+            "April 2022"
+          ]
+        },
+        {
+          "id": "4.6",
+          "type": "open",
+          "q": "Distinguish between a current deposit account and a savings bank account.",
+          "answer": "Purpose: savings — for saving by individuals; current — for businesses to make and receive payments.\nWithdrawals: savings — limited in number; current — any number.\nInterest: savings — earns interest; current — little or none.\nOverdraft: not on savings; allowed on current.",
+          "years": [
+            "October 2016"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Long answer questions, including case-based questions. Answer in 80–120 words.",
+      "marks": "4 × 5 = 20",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "Banks provide funds for business and play a vital role in the development of a nation. Explain the role of banking.",
+          "answer": "(1) Mobilising savings — banks collect the small savings of people and make them available for productive use.\n(2) Finance for trade and industry — loans, cash credit and overdrafts help firms buy raw materials and machines.\n(3) Help to agriculture and small industries through NABARD, SIDBI and priority-sector lending.\n(4) Easy and safe payments — cheques, drafts, cards, net banking and UPI reduce the use of cash.\n(5) Balanced regional development — branches in rural and backward areas, credit to weaker sections, promotion of exports.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "Commercial banks play a vital role in economic development through primary and secondary functions. Explain any five functions.",
+          "answer": "(1) Accepting deposits — savings, current, fixed and recurring.\n(2) Granting loans and advances — loans, cash credit, overdraft, discounting of bills.\n(3) Agency functions — collecting cheques, dividends and interest; paying bills and premiums; buying and selling securities.\n(4) General utility functions — demand drafts, traveller's cheques, lockers and safe custody.\n(5) Letters of credit, foreign exchange and e-banking services.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "HDFC Bank offers many accounts. Geeta, a businesswoman, chose an account with the most liquid deposits and no limit on the number of transactions; her mother opened one for her savings with cheque facility; her brother Kartik deposits ₹3,000 every month for two years. (a) Identify the accounts. (b) Explain two other types of account.",
+          "answer": "(a) Geeta — current deposit account; her mother — savings bank account; Kartik — recurring deposit account.\n(b) Fixed deposit account — a lump sum kept for a fixed period at a higher interest rate.\nMultiple option (flexi) deposit — a savings account where amounts above a limit move automatically to a fixed deposit and earn more interest.",
+          "years": [
+            "October 2024"
+          ],
+          "or": {
+            "q": "Anil learns of an account at SBI in which amounts above a limit are transferred automatically to a fixed deposit, combining the benefits of savings and FD. Identify and explain it.",
+            "answer": "Multiple option deposit account (flexi or sweep account). It works like a savings account for deposits and withdrawals, but when the balance exceeds a set limit the excess is automatically moved into a fixed deposit, earning the higher FD interest; when needed, money comes back from the FD to the savings account. So the customer gets both liquidity and higher interest."
+          }
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "Describe the procedure of opening a savings bank account.",
+          "answer": "(1) Find out the minimum initial deposit and ask for the account-opening form.\n(2) Fill the form — name, address, occupation, nominee — and sign; attach photographs.\n(3) Give KYC documents (proof of identity and address) and get the introduction of an existing account holder.\n(4) Give the specimen signature.\n(5) Deposit the initial amount with a pay-in-slip.\n(6) The bank opens the account and issues a passbook, cheque book and ATM/debit card.",
+          "years": [
+            "April 2024",
+            "April 2021"
+          ]
+        }
+      ]
+    }
+  ]
+}

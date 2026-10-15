@@ -1,0 +1,579 @@
+{
+  "subject": "business-studies",
+  "lesson": 18,
+  "title": "Consumer Protection",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "15 × 1 = 15",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "BIS stands for —",
+          "options": [
+            "Bureau of Industrial Standards",
+            "Bureau of Indian Standards",
+            "Bureau of Internal Standards",
+            "Bureau of Institution Standards"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "The Consumer Protection Act was enforced in —",
+          "options": [
+            "1972",
+            "1982",
+            "1986",
+            "1995"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2026",
+            "April 2024",
+            "April 2021"
+          ]
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "A complaint that requires testing of the product is to be decided within —",
+          "options": [
+            "3 months",
+            "4 months",
+            "5 months",
+            "6 months"
+          ],
+          "answer": "C",
+          "years": [
+            "October 2025",
+            "April 2023"
+          ]
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "Which statement is true about consumer organisations?",
+          "options": [
+            "They are known locally as consumer forums or councils",
+            "They guide consumers on how to file cases",
+            "They do not represent consumers in courts",
+            "Both (A) and (B)"
+          ],
+          "answer": "D",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "The maximum age limit for a member of the National Commission (1986 Act) was —",
+          "options": [
+            "65 years",
+            "70 years",
+            "35 years",
+            "60 years"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "The Consumer Guidance Society of India is located in —",
+          "options": [
+            "Mumbai",
+            "Delhi",
+            "Pune",
+            "Kolkata"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "If a consumer is not satisfied with the State Commission's decision, he can appeal to the —",
+          "options": [
+            "National Commission",
+            "District Forum",
+            "Supreme Court",
+            "all of these"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "Against the National Commission's order an appeal lies with the —",
+          "options": [
+            "District Court",
+            "High Court",
+            "Supreme Court",
+            "any court"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "Consumer protection is important because of —",
+          "options": [
+            "consumer ignorance",
+            "unorganised consumers",
+            "widespread exploitation",
+            "all of the above"
+          ],
+          "answer": "D",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "The standard mark printed on gold jewellery is —",
+          "options": [
+            "ISI",
+            "AGMARK",
+            "Hallmark",
+            "ISO"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "Adding something inferior to a product being sold is —",
+          "options": [
+            "adulteration",
+            "sale of duplicates",
+            "hoarding",
+            "misleading advertising"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2022"
+          ]
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "Consumer courts do not include the —",
+          "options": [
+            "District Forum",
+            "State Commission",
+            "National Commission",
+            "Supreme Court"
+          ],
+          "answer": "D",
+          "years": [
+            "April 2021",
+            "October 2017"
+          ]
+        },
+        {
+          "id": "1.13",
+          "type": "mcq",
+          "q": "Selling goods that do not conform to prescribed quality, particularly safety, standards is —",
+          "options": [
+            "tie-in sales",
+            "sale of duplicates",
+            "sale of sub-standard goods",
+            "use of false weights"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2019"
+          ]
+        },
+        {
+          "id": "1.14",
+          "type": "mcq",
+          "q": "The Act that sets quality standards for goods and their certification is the —",
+          "options": [
+            "Industries Act, 1951",
+            "Bureau of Indian Standards Act, 1986",
+            "Consumer Protection Act, 1986",
+            "Prevention of Food Adulteration Act, 1954"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2016"
+          ]
+        },
+        {
+          "id": "1.15",
+          "type": "mcq",
+          "q": "Consumers are unable to use their rights for lack of —",
+          "options": [
+            "awareness",
+            "funds",
+            "education",
+            "coverage"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2021",
+            "April 2017"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark (fill in the blanks, true/false, match, one word or identify).",
+      "marks": "9 × 2 = 18",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "Name the quality assurance mark for: (a) electrical appliances (b) agricultural goods.",
+          "answer": "(a) ISI mark (given by BIS)\n(b) AGMARK",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Match: (a) Advertisements falsely represent a product as of superior quality (b) Stocks are intentionally held back — (i) hoarding (ii) sale of duplicates (iii) misleading advertisement (iv) false weights and measures",
+          "answer": "(a) — (iii) misleading advertisement\n(b) — (i) hoarding\n(Measuring sticks with false markings — (iv) false weights and measures; goods showing a mark of superior quality — (ii) sale of duplicates.)",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "Write True (T) or False (F): (a) Nothing can be done by businessmen to protect the interest of consumers. (b) Government is indifferent towards safeguarding consumer interest.",
+          "answer": "(a) False — businessmen can supply quality goods at fair prices and settle complaints.\n(b) False — government has passed many laws and set up consumer courts.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Correct the statements: (a) Black marketing is the legal sale of products at government prices. (b) The Consumer Protection Act, 1986 deals only with product-related grievances.",
+          "answer": "(a) Black marketing is the illegal sale of hoarded goods secretly at prices above the fixed price.\n(b) The Act deals with grievances about both goods and services.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "Fill in the blanks: (a) The ISI mark is granted by the ________. (b) Sale of ________ products means selling items that look genuine but are fake.",
+          "answer": "(a) Bureau of Indian Standards (BIS)\n(b) spurious (duplicate)",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "Fill in the blanks: (a) The district-level court deals with consumer cases with claims up to ________. (b) India observes ________ as National Consumer Day.",
+          "answer": "(a) ₹20 lakh under the 1986 Act (₹1 crore under the 2019 Act, revised to ₹50 lakh in 2021)\n(b) 24 December",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "2.7",
+          "type": "open",
+          "q": "Write True (T) or False (F): (a) A large amount of working capital is not required for a small business. (b) 'Let the buyer beware' has been replaced by 'Let the seller beware'.",
+          "answer": "(a) True — a small business needs only a small amount of working capital.\n(b) True — the law now puts the responsibility for quality on the seller.",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "2.8",
+          "type": "open",
+          "q": "(a) When was the Essential Commodities Act enacted? (b) In which year was the Prevention of Food Adulteration Act passed?",
+          "answer": "(a) 1955\n(b) 1954",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "2.9",
+          "type": "open",
+          "q": "Write True (T) or False (F): (a) The National Commission consists of a President and six other members. (b) Consumer awareness means making consumers aware of their rights and liabilities.",
+          "answer": "(a) False — under the 1986 Act it had a President and at least four members.\n(b) True",
+          "years": [
+            "April 2025"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "10 × 2 = 20",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "How do businessmen help in consumer protection?",
+          "answer": "(1) By supplying quality goods and services at fair prices and avoiding malpractices like adulteration and false weights.\n(2) By settling complaints quickly; trade associations and chambers of commerce act against members who cheat consumers.",
+          "years": [
+            "April 2026"
+          ],
+          "or": {
+            "q": "State the jurisdiction of the District Commission under the Consumer Protection Act.",
+            "answer": "It hears complaints where the value of goods or services paid does not exceed the limit — ₹20 lakh under the 1986 Act; ₹1 crore under the 2019 Act, revised to ₹50 lakh in 2021 — within its district."
+          }
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "Briefly outline the purpose of the Agricultural Products (Grading and Marking) Act, 1937.",
+          "answer": "It provides for grading and certifying the quality of agricultural products. Products meeting the standards may carry the AGMARK seal, assuring consumers of quality and purity.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "Write two features of services that make consumer protection essential.",
+          "answer": "(1) Services cannot be seen or checked before they are bought, so consumers cannot judge their quality in advance.\n(2) Services cannot be stored or returned — a bad service (transport, medical treatment) cannot be replaced.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "Describe the role of NGOs in protecting consumers.",
+          "answer": "NGOs educate consumers about their rights through seminars and journals, give legal aid and file cases for them, test products and publish results, and represent consumers on government bodies.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "3.5",
+          "type": "open",
+          "q": "Explain the Bureau of Indian Standards Act, 1986.",
+          "answer": "It set up the Bureau of Indian Standards (in place of the ISI) to protect consumers. BIS formulates quality standards for goods and certifies products that meet them, allowing them to carry the ISI mark.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "3.6",
+          "type": "open",
+          "q": "What is meant by consumer protection?",
+          "answer": "Consumer protection means protecting consumers from unfair trade practices such as adulteration, overcharging and misleading advertisements, and providing them remedies through laws and consumer courts.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "3.7",
+          "type": "open",
+          "q": "Name the consumer courts where complaints are filed.",
+          "answer": "District Commission (District Forum), State Commission and National Commission — set up under the Consumer Protection Act.",
+          "years": [
+            "October 2024"
+          ],
+          "or": {
+            "q": "State two points of importance of consumer protection from the business's point of view.",
+            "answer": "(1) It builds goodwill and long-term customer loyalty.\n(2) It is the social responsibility of business, and satisfied consumers mean larger sales."
+          }
+        },
+        {
+          "id": "3.8",
+          "type": "open",
+          "q": "State any two directions a consumer court may issue if it is satisfied with the complaint.",
+          "answer": "(1) Remove the defect in the goods or replace them.\n(2) Refund the price or pay compensation for loss or injury.",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "3.9",
+          "type": "open",
+          "q": "Give the full form of COPRA. How does it benefit consumers?",
+          "answer": "Consumer Protection Act (1986). It gives consumers six rights and a simple, cheap and quick three-tier system of consumer courts to get replacement, refund or compensation.",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "3.10",
+          "type": "open",
+          "q": "Write any two problems faced by consumers.",
+          "answer": "(1) Adulteration of food and oil.\n(2) Use of false weights and measures.\n(Also spurious goods, misleading advertisements, hoarding.)",
+          "years": [
+            "April 2024"
+          ],
+          "or": {
+            "q": "Why should a consumer look for the ISI mark on electrical goods?",
+            "answer": "The ISI mark shows the product meets the safety and quality standards of BIS, so it is safe to use and less likely to cause shocks or fire."
+          }
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "6 × 3 = 18",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "Describe the various problems faced by consumers in their daily life.",
+          "answer": "(1) Adulteration of food articles.\n(2) Sale of spurious and duplicate goods.\n(3) False weights and measures.\n(4) Hoarding and black-marketing, overcharging above MRP.\n(5) Misleading advertisements, tie-in sales, poor after-sales service.",
+          "years": [
+            "April 2026",
+            "April 2021"
+          ]
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "An air purifier advertised as removing 100% germs did not work for Priya; testing showed it had no such capacity. What malpractice is involved and which rights can she exercise?",
+          "answer": "Malpractice: misleading advertisement (false claim of quality).\nRights: right to be informed (she was given false information); right to seek redressal — she can file a complaint for refund or replacement and compensation in the District Commission; right to be heard.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "What precautions should consumers take while buying medicines?",
+          "answer": "(1) Check the expiry date and manufacturing date.\n(2) Buy from a licensed chemist and insist on a cash memo.\n(3) Check the MRP, batch number and that the seal is intact.",
+          "years": [
+            "April 2025"
+          ],
+          "or": {
+            "q": "How does the government protect consumers? Explain with three examples.",
+            "answer": "(1) Laws such as the Consumer Protection Act and the Prevention of Food Adulteration Act punish unfair practices.\n(2) Three-tier consumer courts give quick, cheap remedies.\n(3) Standards and certification through BIS (ISI) and AGMARK; awareness campaigns like 'Jago Grahak Jago'."
+          }
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "Explain three functions of consumer organisations and NGOs.",
+          "answer": "(1) Educating consumers through seminars, workshops and publications.\n(2) Giving legal aid and filing complaints on behalf of consumers.\n(3) Comparative testing of products and publishing results; representing consumers in official bodies.",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "4.5",
+          "type": "open",
+          "q": "State three reliefs a Consumer Commission may order.",
+          "answer": "(1) Removal of defects in goods or deficiency in services.\n(2) Replacement of goods or refund of the price.\n(3) Compensation for loss or injury; stopping the unfair trade practice.",
+          "years": [
+            "October 2022"
+          ]
+        },
+        {
+          "id": "4.6",
+          "type": "open",
+          "q": "Explain the jurisdiction of consumer courts.",
+          "answer": "Under the 1986 Act: District Forum — up to ₹20 lakh; State Commission — ₹20 lakh to ₹1 crore and appeals from District Forums; National Commission — above ₹1 crore and appeals from State Commissions; appeal against the National Commission lies with the Supreme Court. (2019 Act as revised: ₹50 lakh, ₹50 lakh–₹2 crore, above ₹2 crore.)",
+          "years": [
+            "April 2019",
+            "April 2017"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Long answer questions, including case-based questions. Answer in 80–120 words.",
+      "marks": "6 × 5 = 30",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "Abhishek bought an ₹80,000 home theatre with one year's warranty. It stopped working and the dealer did not replace it. Which consumer court should he approach and why? Name the other courts with their jurisdiction. Which document must he have?",
+          "answer": "He should approach the District Commission (District Forum), because the value is ₹80,000 — within its limit.\nOther courts (1986 Act): State Commission — ₹20 lakh to ₹1 crore; National Commission — above ₹1 crore. (2019 Act as revised: District up to ₹50 lakh, State ₹50 lakh–₹2 crore, National above ₹2 crore.)\nHe must have the cash memo (bill) and warranty card as proof of transaction.",
+          "years": [
+            "October 2022"
+          ]
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "Abhishek bought a ₹25 lakh machine to make room heaters; it was defective and the seller ignored his complaints. (a) Where can he file a complaint? (b) What remedies are available if the court is satisfied?",
+          "answer": "(a) Under the 1986 Act, the State Commission (₹20 lakh to ₹1 crore); under the 2019 Act as revised, the District Commission (up to ₹50 lakh).\n(b) Removal of the defect; replacement of the machine; refund of the price; compensation for loss; stopping the unfair practice.",
+          "years": [
+            "October 2021"
+          ]
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "Explain the role of consumers, businessmen and government in consumer protection.",
+          "answer": "Consumers: self-help — be aware of rights, check quality marks, get bills, complain against cheating and form associations.\nBusinessmen: supply quality goods at fair prices, avoid malpractices, settle complaints; trade associations discipline members.\nGovernment: pass and enforce laws, set up consumer courts and standards bodies (BIS), include consumer representatives in policy bodies, and run awareness programmes.",
+          "years": [
+            "October 2022",
+            "October 2017",
+            "October 2016"
+          ]
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "What is the purpose of (a) the Bureau of Indian Standards Act, 1986 (b) the Prevention of Food Adulteration Act, 1954 (c) the Consumer Protection Act, 1986?",
+          "answer": "(a) BIS Act: to set quality standards for goods and certify conforming products with the ISI mark.\n(b) Prevention of Food Adulteration Act: to prevent adulteration of food; it gives severe punishment, up to life imprisonment, and food inspectors can take samples.\n(c) Consumer Protection Act: to protect consumers' six rights and give quick, cheap redressal through District, State and National consumer courts for goods and services.",
+          "years": [
+            "April 2023",
+            "October 2017"
+          ]
+        },
+        {
+          "id": "5.5",
+          "type": "open",
+          "q": "Explain sale of spurious products, hoarding and black-marketing, and misleading advertisements.",
+          "answer": "Spurious products: worthless or fake goods sold as genuine, e.g. injections containing only water.\nHoarding and black-marketing: stocks of essential goods are held back to create scarcity, then sold secretly at higher prices.\nMisleading advertisements: false claims about quality, use or price that deceive consumers into buying.",
+          "years": [
+            "October 2021"
+          ]
+        },
+        {
+          "id": "5.6",
+          "type": "open",
+          "q": "Why is consumer protection required in India? Discuss.",
+          "answer": "(1) Many consumers are illiterate and ignorant of their rights.\n(2) Consumers are unorganised and cannot fight big firms alone.\n(3) Widespread malpractices — adulteration, short weights, spurious goods, hoarding.\n(4) Misleading advertisements and a huge variety of products make choice hard.\n(5) Services cannot be checked in advance. So laws, consumer courts and awareness are needed.",
+          "years": [
+            "April 2022",
+            "October 2019"
+          ]
+        }
+      ]
+    }
+  ]
+}

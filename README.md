@@ -85,3 +85,6 @@ The lesson then opens with a menu: Lesson, Lesson with translation, and the mode
 - `tools/build_math.py`: builds Mathematics from `data/maths/src/lesson-<n>.json` with the same layout as
   Science (44 questions, 85 marks). Every answer carries its working; for MCQs the `work` field is shown
   once the question is answered. Only the 16 public-exam lessons are included.
+- `tools/build_bst.py`: builds Business Studies from `data/business-studies/src/lesson-<n>.json` with the same
+  source format (51 questions, 100 marks; no passage section — case questions are long answers). Only the
+  13 public-exam (theory) lessons of the NIOS syllabus bifurcation are included.
