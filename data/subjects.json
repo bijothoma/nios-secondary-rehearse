@@ -1,4 +1,16 @@
 {
+  "levels": [
+    {
+      "id": "secondary",
+      "name": "Secondary",
+      "label": "10th"
+    },
+    {
+      "id": "senior-secondary",
+      "name": "Senior Secondary",
+      "label": "12th"
+    }
+  ],
   "subjects": [
     {
       "id": "malayalam",
@@ -135,7 +147,8 @@
           "title": "മാതൃകാ ചോദ്യപേപ്പർ 3",
           "file": "data/malayalam/paper-3.json"
         }
-      ]
+      ],
+      "level": "secondary"
     },
     {
       "id": "social-science",
@@ -256,7 +269,8 @@
           "title": "Model Question Paper 3",
           "file": "data/social-science/paper-3.json"
         }
-      ]
+      ],
+      "level": "secondary"
     },
     {
       "id": "data-entry",
@@ -317,7 +331,8 @@
           "title": "Model Question Paper 3",
           "file": "data/data-entry/paper-3.json"
         }
-      ]
+      ],
+      "level": "secondary"
     },
     {
       "id": "english",
@@ -438,7 +453,8 @@
           "title": "Model Question Paper 3",
           "file": "data/english/paper-3.json"
         }
-      ]
+      ],
+      "level": "secondary"
     },
     {
       "id": "science",
@@ -577,7 +593,8 @@
           "title": "Model Question Paper 3",
           "file": "data/science/paper-3.json"
         }
-      ]
+      ],
+      "level": "secondary"
     },
     {
       "id": "maths",
@@ -698,7 +715,8 @@
           "title": "Model Question Paper 3",
           "file": "data/maths/paper-3.json"
         }
-      ]
+      ],
+      "level": "secondary"
     },
     {
       "id": "business-studies",
@@ -801,7 +819,8 @@
           "title": "Model Question Paper 3",
           "file": "data/business-studies/paper-3.json"
         }
-      ]
+      ],
+      "level": "secondary"
     },
     {
       "id": "economics",
@@ -909,6 +928,141 @@
           "tag": "Full paper",
           "title": "Model Question Paper 3",
           "file": "data/economics/paper-3.json"
+        }
+      ],
+      "level": "secondary"
+    },
+    {
+      "id": "physics",
+      "name": "Physics",
+      "label": "",
+      "level": "senior-secondary",
+      "lessons": [
+        {
+          "no": 3,
+          "title": "Laws of Motion",
+          "file": "data/physics/lesson-3.json",
+          "summary": "data/physics/summary/lesson-3.json"
+        },
+        {
+          "no": 6,
+          "title": "Work, Energy and Power",
+          "file": "data/physics/lesson-6.json",
+          "summary": "data/physics/summary/lesson-6.json"
+        },
+        {
+          "no": 9,
+          "title": "Properties of Fluids",
+          "file": "data/physics/lesson-9.json",
+          "summary": "data/physics/summary/lesson-9.json"
+        },
+        {
+          "no": 11,
+          "title": "Thermodynamics",
+          "file": "data/physics/lesson-11.json",
+          "summary": "data/physics/summary/lesson-11.json"
+        },
+        {
+          "no": 14,
+          "title": "Wave Phenomena",
+          "file": "data/physics/lesson-14.json",
+          "summary": "data/physics/summary/lesson-14.json"
+        },
+        {
+          "no": 15,
+          "title": "Electric Charge and Electric Field",
+          "file": "data/physics/lesson-15.json",
+          "summary": "data/physics/summary/lesson-15.json"
+        },
+        {
+          "no": 16,
+          "title": "Electric Potential and Capacitors",
+          "file": "data/physics/lesson-16.json",
+          "summary": "data/physics/summary/lesson-16.json"
+        },
+        {
+          "no": 17,
+          "title": "Electric Current",
+          "file": "data/physics/lesson-17.json",
+          "summary": "data/physics/summary/lesson-17.json"
+        },
+        {
+          "no": 18,
+          "title": "Magnetism and Magnetic Effect of Electric Current",
+          "file": "data/physics/lesson-18.json",
+          "summary": "data/physics/summary/lesson-18.json"
+        },
+        {
+          "no": 19,
+          "title": "Electromagnetic Induction and Alternating Current",
+          "file": "data/physics/lesson-19.json",
+          "summary": "data/physics/summary/lesson-19.json"
+        },
+        {
+          "no": 21,
+          "title": "Dispersion and Scattering of Light",
+          "file": "data/physics/lesson-21.json",
+          "summary": "data/physics/summary/lesson-21.json"
+        },
+        {
+          "no": 22,
+          "title": "Wave Phenomena and Light",
+          "file": "data/physics/lesson-22.json",
+          "summary": "data/physics/summary/lesson-22.json"
+        },
+        {
+          "no": 24,
+          "title": "Structure of Atom",
+          "file": "data/physics/lesson-24.json",
+          "summary": "data/physics/summary/lesson-24.json"
+        },
+        {
+          "no": 25,
+          "title": "Dual Nature of Radiation and Matter",
+          "file": "data/physics/lesson-25.json",
+          "summary": "data/physics/summary/lesson-25.json"
+        },
+        {
+          "no": 26,
+          "title": "Nuclei and Radioactivity",
+          "file": "data/physics/lesson-26.json",
+          "summary": "data/physics/summary/lesson-26.json"
+        },
+        {
+          "no": 27,
+          "title": "Nuclear Fission and Fusion",
+          "file": "data/physics/lesson-27.json",
+          "summary": "data/physics/summary/lesson-27.json"
+        },
+        {
+          "no": 28,
+          "title": "Semiconductors and Semiconducting Devices",
+          "file": "data/physics/lesson-28.json",
+          "summary": "data/physics/summary/lesson-28.json"
+        },
+        {
+          "no": 29,
+          "title": "Applications of Semiconductor Devices",
+          "file": "data/physics/lesson-29.json",
+          "summary": "data/physics/summary/lesson-29.json"
+        },
+        {
+          "no": 901,
+          "tag": "Full paper",
+          "title": "Model Question Paper 1",
+          "file": "data/physics/paper-1.json"
+        },
+        {
+          "no": 902,
+          "tag": "Full paper",
+          "title": "Model Question Paper 2",
+          "file": "data/physics/paper-2.json"
+        },
+        {
+          "no": 903,
+          "tag": "Full paper",
+          "title": "Model Question Paper 3",
+          "file": "data/physics/paper-3.json"
         }
       ]
     }

@@ -1,0 +1,343 @@
+{
+  "subject": "physics",
+  "lesson": 16,
+  "title": "Electric Potential and Capacitors",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "12 × 1 = 12",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "As we move away from a positively charged particle, the potential due to it —",
+          "options": [
+            "increases linearly",
+            "increases non-linearly",
+            "decreases linearly",
+            "decreases non-linearly"
+          ],
+          "answer": "D",
+          "years": [
+            "April 2025"
+          ],
+          "work": "V = kq/r, which falls as 1/r — a curve, not a straight line."
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "The potential due to a point charge Q at distance r is —",
+          "options": [
+            "inversely proportional to r",
+            "inversely proportional to r²",
+            "directly proportional to r",
+            "directly proportional to r²"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2022"
+          ]
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "A parallel-plate capacitor is charged by a battery, the battery is disconnected and the plate separation increased. The potential difference —",
+          "options": [
+            "increases",
+            "decreases",
+            "remains unchanged",
+            "increases then decreases"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2025"
+          ],
+          "work": "Q stays constant (isolated). C = ε₀A/d falls as d increases, so V = Q/C increases."
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "Which does NOT affect the capacitance of a capacitor?",
+          "options": [
+            "Separation between the plates",
+            "Area of the plates",
+            "Dielectric between the plates",
+            "Charge on the plates"
+          ],
+          "answer": "D",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "The p.d. across a parallel-plate capacitor is kept constant. When air is replaced by a dielectric, the field between the plates —",
+          "options": [
+            "decreases",
+            "remains unchanged",
+            "increases",
+            "becomes zero"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2025"
+          ],
+          "work": "With V and d fixed, E = V/d does not change (the extra charge drawn from the battery compensates)."
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "The work done in moving a charge q on an equipotential surface through a distance r is —",
+          "options": [
+            "q/4πε₀r",
+            "4πε₀rq",
+            "q/2πε₀r",
+            "zero"
+          ],
+          "answer": "D",
+          "years": [
+            "October 2024",
+            "October 2018"
+          ]
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "A charge of −1 µC is placed where the potential is 100 V. Its electric potential energy is —",
+          "options": [
+            "10⁻⁴ J",
+            "−10⁻⁴ J",
+            "10⁴ J",
+            "−100 J"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2024"
+          ],
+          "work": "U = qV = (−1 × 10⁻⁶) × 100 = −10⁻⁴ J."
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "Ten capacitors of 5 µF each are connected first in parallel and then in series. The ratio of the maximum to minimum capacitance is —",
+          "options": [
+            "100 : 1",
+            "50 : 1",
+            "10 : 1",
+            "5 : 1"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2024"
+          ],
+          "work": "Parallel: 10 × 5 = 50 µF. Series: 5/10 = 0.5 µF.\n50 : 0.5 = 100 : 1."
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "An air capacitor is filled with a dielectric of constant 6. Its capacitance becomes —",
+          "options": [
+            "6 times",
+            "1/6 times",
+            "36 times",
+            "1/36 times"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2017"
+          ]
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "Two conducting spheres of radii r₁ and r₂ are at the same potential. The ratio of their charges q₁ : q₂ is —",
+          "options": [
+            "r₁ : r₂",
+            "r₂ : r₁",
+            "r₁² : r₂²",
+            "r₂² : r₁²"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2022"
+          ],
+          "work": "V = kq/r is the same, so q ∝ r ⇒ q₁ : q₂ = r₁ : r₂."
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "In a region of constant potential —",
+          "options": [
+            "the field is uniform",
+            "the field is zero",
+            "there must be charge inside",
+            "the field changes if a charge is placed outside"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "A very thin metal foil is placed midway between the plates of a capacitor C, parallel to them. The new capacitance is —",
+          "options": [
+            "zero",
+            "C",
+            "2C",
+            "C/2"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2024"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark (fill in the blanks, true/false, match or one word).",
+      "marks": "5 × 2 = 10",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "(a) In a region of constant potential, what is the electric field? (b) What is the shape of the equipotential surfaces of a single isolated charge?",
+          "answer": "(a) Zero (E = −dV/dr).\n(b) Concentric spheres centred on the charge.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Fill in the blanks: (a) The SI unit of capacitance is ______. (b) The energy stored in a capacitor is ______.",
+          "answer": "(a) farad\n(b) ½CV² (= Q²/2C)"
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "State True or False: (a) Two equipotential surfaces can intersect. (b) The electric field is perpendicular to an equipotential surface.",
+          "answer": "(a) False.\n(b) True."
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Complete: a 2 µF capacitor is charged to 12 V. (a) Charge = ______. (b) Energy stored = ______.",
+          "answer": "(a) Q = CV = 2 × 10⁻⁶ × 12 = 24 µC.\n(b) U = ½CV² = ½ × 2 × 10⁻⁶ × 144 = 144 µJ."
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "Fill in the blanks: (a) Capacitors in ______ have their capacitances added. (b) A dielectric of constant K increases the capacitance ______ times.",
+          "answer": "(a) parallel\n(b) K"
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "4 × 2 = 8",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "What is an equipotential surface? Why can two equipotential surfaces not intersect?",
+          "answer": "A surface on which every point has the same potential; no work is done moving a charge along it.\nIf two intersected, the common point would have two different potentials and two field directions, which is impossible.",
+          "years": [
+            "April 2018"
+          ]
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "A capacitor is kept connected to a battery of voltage V. How does the energy stored change when the plate separation is doubled?",
+          "answer": "C = ε₀A/d halves when d is doubled. With V fixed, U = ½CV² also halves.",
+          "years": [
+            "January-February 2021"
+          ]
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "The Q–V graphs of two capacitors X and Y are straight lines, X being steeper. Which stores more energy at the same voltage?",
+          "answer": "The slope Q/V = C, so X has the larger capacitance. U = ½CV², so at the same V, X stores more energy.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "Write the expression for the energy stored in a capacitor in three forms.",
+          "answer": "U = ½CV² = Q²/2C = ½QV. It is stored in the electric field between the plates."
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "3 × 3 = 9",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "A 2 µF air capacitor is charged to 12 V and the source removed. A slab of dielectric constant 5 then fills the space. Find the ratio of the energies stored before and after.",
+          "answer": "Before: U₁ = ½CV² = ½ × 2 × 10⁻⁶ × 144 = 1.44 × 10⁻⁴ J.\nQ stays constant; C becomes 5 × 2 = 10 µF.\nAfter: U₂ = Q²/2C' = U₁/5 = 2.88 × 10⁻⁵ J.\nU₁ : U₂ = 5 : 1 (energy is drawn into the slab).",
+          "years": [
+            "April 2018"
+          ]
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "Derive the expression for the energy stored in a parallel-plate capacitor of capacitance C charged to potential V.",
+          "answer": "While charging, at charge q the p.d. is q/C. Adding dq needs work dW = (q/C) dq.\nTotal work W = ∫₀^Q (q/C) dq = Q²/2C.\nWith Q = CV: U = ½CV² = ½QV, stored in the field between the plates.",
+          "years": [
+            "October 2016"
+          ]
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "Three capacitors of 2 µF, 3 µF and 6 µF are connected (a) in series and (b) in parallel. Find the equivalent capacitance in each case.",
+          "answer": "(a) Series: 1/C = 1/2 + 1/3 + 1/6 = (3 + 2 + 1)/6 = 1 ⇒ C = 1 µF.\n(b) Parallel: C = 2 + 3 + 6 = 11 µF.",
+          "years": [
+            "April 2018"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Long answer questions. Answer in 80–120 words.",
+      "marks": "2 × 5 = 10",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "Derive the capacitance of a parallel-plate capacitor and show how a dielectric changes it. How do the charge, p.d., field and energy change when a dielectric slab is inserted (a) with the battery connected and (b) after disconnecting the battery?",
+          "answer": "Plates of area A, separation d, charge ±Q: σ = Q/A, E = σ/ε₀, V = Ed = Qd/ε₀A, so C = Q/V = ε₀A/d. With a dielectric filling the gap, E is reduced K times, so C = Kε₀A/d.\n(a) Battery connected (V fixed): C → KC; Q → KQ; E = V/d unchanged; U = ½CV² → KU.\n(b) Battery disconnected (Q fixed): C → KC; V → V/K; E → E/K; U = Q²/2C → U/K.",
+          "years": [
+            "October 2016"
+          ]
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "Define electric potential and potential difference. Derive the potential at a point due to a point charge, and state the relation between field and potential.",
+          "answer": "Potential at a point: the work done per unit positive charge in bringing a test charge from infinity to the point, V = W/q₀ (volt = J/C). Potential difference between A and B is W_AB/q₀.\nPoint charge q: the field at distance x is kq/x². The work against it from ∞ to r is W = −∫∞^r (kq/x²) q₀ dx = kqq₀/r, so V = q/4πε₀r.\nRelation: E = −dV/dr — the field points in the direction of decreasing potential, and E = 0 where V is constant."
+        }
+      ]
+    }
+  ]
+}

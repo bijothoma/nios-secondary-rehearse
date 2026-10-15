@@ -1,0 +1,204 @@
+{
+  "subject": "physics",
+  "lesson": 29,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 29: Applications of Semiconductor Devices — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Rectifiers and power supply"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "A half-wave rectifier uses one diode, which conducts only on alternate half-cycles. A full-wave rectifier (centre-tap with two diodes, or a bridge with four) conducts on both half-cycles, giving pulsating dc."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "A capacitor filter connected across the load smooths out the fluctuations."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "A stabilized power supply has four stages: a step-down transformer, a full-wave rectifier, a capacitor filter and a Zener diode regulator, which keeps the output voltage constant."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Optoelectronic devices"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Photodiode: reverse biased; light increases the reverse current, and its V–I graph lies in the third quadrant. Light separates electron–hole pairs in the depletion region."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "LED: forward biased; recombination gives out light."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Solar cell: no bias; it gives an emf in light, and its I–V characteristic lies in the fourth quadrant."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Transistor"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "A transistor can be used in common-base (CB), common-emitter (CE) or common-collector (CC) configuration. The emitter–base junction is forward biased and the collector–base junction reverse biased."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Current gains: α = I_c/Iₑ (CB, slightly less than 1) and β = I_c/I_b (CE), with β = α/(1 − α), so β → ∞ as α → 1. Examples: α = 0.95 gives β = 19. I_b = 0.001 mA and I_c = 1 mA give β = 1000. With β = 49, ΔI_c = 9.8 mA needs ΔI_b = 0.2 mA."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "If the emitter and base were equally doped, fewer carriers would reach the collector, so I_c would fall and I_b would rise."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "CE amplifier: voltage gain A_v = β R_L/R_i and power gain = β × A_v. The output is 180° out of phase with the input."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "As a switch, a transistor is either in cut-off (off) or saturation (on)."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Oscillator: an amplifier with positive feedback through an LC tank circuit produces sustained oscillations of frequency f = 1/2π√(LC). With L = 1 mH and C = 0.1 µF, f ≈ 15.9 kHz."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "A transistor can act as an amplifier, an oscillator or a switch, but not as an LED."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Transistor codes: in AC 125, A means germanium and C means an audio (low-power) transistor."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Logic gates"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Logic gates work with digital signals, 1 (high) and 0 (low)."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "OR: Y = A + B, giving 0, 1, 1, 1 for the inputs 00, 01, 10, 11. AND: Y = A·B, giving 0, 0, 0, 1. NOT: Y = Ā, giving 1, 0."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "NAND (AND then NOT): 1, 1, 1, 0. NOR (OR then NOT): 1, 0, 0, 0. NAND and NOR are universal gates — any gate can be built from them. NAND followed by NOT gives AND."
+        ]
+      ]
+    }
+  ]
+}

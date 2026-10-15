@@ -1,0 +1,76 @@
+{
+ "lesson": 14,
+ "title": "Wave Phenomena",
+ "module": 4,
+ "summary": [
+  "## Waves",
+  "A wave is a disturbance that carries energy, not matter, from one place to another.",
+  "Transverse waves: particles vibrate perpendicular to the direction of travel, as in waves on a string, ripples on water and light. Longitudinal waves: particles vibrate along the direction of travel, forming compressions and rarefactions, as in sound. Sound is longitudinal, so it cannot be polarized.",
+  "## Wave terms",
+  "Wavelength λ, frequency ν, period T = 1/ν and speed v = νλ. When a wave enters a new medium its frequency stays the same, so λ changes in proportion to v: if the speed doubles, λ doubles.",
+  "Phase difference = (2π/λ) × path difference.",
+  "A progressive wave is y = A sin(ωt − kx), with ω = 2πν and k = 2π/λ. Particle velocity ∂y/∂t = Aω cos(ωt − kx) leads the displacement by π/2; its maximum is Aω. Example: y = 3 sin(36t + 0.018x) has ω = 36 rad/s, so T ≈ 0.17 s, and k = 0.018 /m, so λ ≈ 349 m; it moves along −x.",
+  "Example: waves with crests 100 m apart moving at 25 m/s rock a boat every T = λ/v = 4 s.",
+  "## Speed of waves",
+  "On a string: v = √(T/μ), where T is the tension and μ the mass per unit length.",
+  "Sound in a gas: Newton took v = √(P/ρ) (isothermal), which gives about 280 m/s, too low. Laplace corrected it because the compressions and rarefactions are so rapid that the process is adiabatic: v = √(γP/ρ) ≈ 332 m/s at 0 °C.",
+  "The speed of sound is proportional to √T, rising by about 0.61 m/s per °C. It is unaffected by pressure at constant temperature, increases with humidity (moist air is less dense), and is greatest in solids, then liquids, then gases.",
+  "## Superposition, beats and stationary waves",
+  "Beats: two sounds of nearly equal frequencies ν₁ and ν₂ give ν₁ − ν₂ beats per second. Beats are used to find an unknown frequency; loading a fork with wax lowers its frequency.",
+  "Stationary waves form when two identical waves travel in opposite directions, y = 2A sin kx cos ωt. Nodes and antinodes are λ/2 apart, and a node is λ/4 from the next antinode. Stationary waves transfer no energy.",
+  "A sonometer wire carries transverse stationary waves, and a resonance column carries longitudinal ones. Resonance is a case of forced vibration.",
+  "## Organ pipes",
+  "Open pipe: fundamental ν = v/2L, with all harmonics present.",
+  "Closed pipe: fundamental ν = v/4L, with only odd harmonics; the second harmonic is missing. For equal lengths, ν_open : ν_closed = 2 : 1, and pipes in unison need L_open = 2L_closed.",
+  "Overtones are the frequencies above the fundamental. In a closed pipe the first overtone is the 3rd harmonic, so all harmonics are overtones but not all overtones are harmonics.",
+  "## Characteristics of musical sound",
+  "Pitch depends on frequency, loudness on intensity (the square of the amplitude), and quality (timbre) on the overtones present. Pitch is a sensation and frequency a physical quantity; the same holds for loudness and intensity. An intensity ratio of 1 : 16 means an amplitude ratio of 1 : 4.",
+  "## Doppler effect",
+  "The apparent frequency changes when the source or observer moves. For a source approaching a stationary observer, ν' = νv/(v − vₛ), and the wavelength becomes λ' = (v − vₛ)/ν. For a receding source, ν' = νv/(v + vₛ). Applications include radar, police speed guns, measuring stars' speeds (red shift) and SONAR, which uses ultrasonic waves.",
+  "## Electromagnetic spectrum",
+  "In order of increasing frequency: radio waves, microwaves, infrared ('heat waves'), visible light, ultraviolet, X-rays and gamma rays. Gamma rays have wavelengths shorter than X-rays and are the most energetic."
+ ],
+ "mcq": [
+  ["Sound of wavelength λ travelling at v m/s enters another medium where its speed is 2v m/s. The new wavelength is —", ["λ", "λ/2", "2λ", "4λ"], "C", ["April 2026"], {"work": "The frequency does not change, so λ ∝ v.\nSpeed doubles ⇒ λ' = 2λ."}],
+  ["Through wave motion —", ["only energy is transmitted", "only particles are transmitted", "both energy and particles are transmitted", "neither is transmitted"], "A", ["October 2024"]],
+  ["A wave y = A sin(kx − ωt) travels on a string. The maximum particle velocity is —", ["ω/k", "k/ω", "Aω", "A/ω"], "C", ["April 2025"], {"work": "Particle velocity = ∂y/∂t = −Aω cos(kx − ωt); its maximum value is Aω."}],
+  ["A boat is rocked by waves whose crests are 100 m apart, moving at 25 m/s. The boat bounces up every —", ["0.25 s", "4 s", "50 s", "100 s"], "B", ["April 2025"], {"work": "T = λ/v = 100/25 = 4 s."}],
+  ["The ratio of fundamental frequencies of an open pipe and a closed pipe of the same length is —", ["1 : 4", "4 : 1", "1 : 2", "2 : 1"], "D", ["October 2022", "October 2025"], {"work": "Open: ν = v/2L. Closed: ν = v/4L. Ratio = (v/2L) : (v/4L) = 2 : 1."}],
+  ["The fundamental frequency of an open pipe is 120 Hz. Its third harmonic is —", ["120 Hz", "360 Hz", "240 Hz", "480 Hz"], "B", ["October 2022"], {"work": "Third harmonic = 3 × 120 = 360 Hz."}],
+  ["Which harmonic of the fundamental is missing from a closed pipe?", ["Second", "Third", "Fifth", "Seventh"], "A", ["April 2024"]],
+  ["Which phenomenon is not shown by sound waves?", ["Refraction", "Diffraction", "Interference", "Polarization"], "D", ["April 2024"]],
+  ["The velocity of sound in air increases —", ["with a fall in temperature", "with an increase in moisture", "with an increase in loudness", "with an increase in pressure"], "B", ["October 2025"]],
+  ["Sound travels fastest in —", ["solids", "liquids", "gases", "vacuum"], "A", ["October 2021"]],
+  ["Which is NOT a characteristic of musical sound?", ["Wave velocity", "Loudness", "Pitch", "Quality"], "A", ["April 2017"]],
+  ["The most energetic of these radiations is —", ["ultraviolet", "X-rays", "infrared", "visible light"], "B", ["April 2017"]],
+  ["The phase difference corresponding to a path difference Δ is —", ["2πΔ/λ", "λΔ/2π", "πΔ/λ", "2πλ/Δ"], "A", ["January-February 2021"]]
+ ],
+ "objective": [
+  ["Fill in the blanks: (a) ______ waves do not transfer any energy and momentum in the medium. (b) Resonance is an example of ______ vibration.", "(a) Stationary\n(b) forced", ["April 2026"]],
+  ["Fill in the blanks: (a) In a stationary wave, the distance between two successive nodes is ______. (b) SONAR uses ______ waves.", "(a) λ/2\n(b) ultrasonic", ["April 2025"]],
+  ["Complete using (ultraviolet rays, gamma rays, heat waves, radio waves): (a) Radiations with wavelength shorter than X-rays are ______. (b) Infrared rays are also called ______.", "(a) gamma rays\n(b) heat waves", ["April 2025"]],
+  ["Fill in the blanks: (a) Two waves of frequencies ν and ν + Δν produce ______ beats per second. (b) Intensities in the ratio 1 : 16 mean amplitudes in the ratio ______.", "(a) Δν\n(b) 1 : 4 (I ∝ A²)", ["April 2024"]],
+  ["Match: (a) Sonometer — ? (b) Resonance column — ? [transverse stationary waves / longitudinal stationary waves / electromagnetic waves]", "(a) Transverse stationary waves.\n(b) Longitudinal stationary waves.", ["April 2024"]],
+  ["Complete: y = 2 sin(πx/10) cos(100πt), x in cm. (a) Wavelength = ______. (b) Distance between a node and the next antinode = ______.", "(a) k = π/10 ⇒ λ = 2π/k = 20 cm.\n(b) λ/4 = 5 cm.", ["October 2024"]]
+ ],
+ "vsa": [
+  ["Name the factors on which the speed of a wave on a stretched string depends.", "v = √(T/μ): it depends on the tension T in the string and its mass per unit length μ. More tension gives higher speed; a heavier string gives lower speed.", ["October 2025"]],
+  ["'All harmonics are overtones but all overtones are not harmonics.' Explain.", "Harmonics are integral multiples of the fundamental. Overtones are the frequencies actually produced above the fundamental. In a closed pipe only odd harmonics occur, so the first overtone is the 3rd harmonic and the 2nd harmonic is missing. Every overtone is a harmonic, but not every harmonic appears as an overtone.", ["October 2025"]],
+  ["Distinguish between (i) pitch and frequency and (ii) loudness and intensity.", "(i) Frequency is the number of vibrations per second (a physical quantity); pitch is the sensation of shrillness, which depends on frequency.\n(ii) Intensity is the energy flowing per second per unit area (∝ amplitude²); loudness is the ear's sensation of it.", ["October 2024"]],
+  ["Give two differences between stationary and travelling waves.", "(1) A travelling wave transfers energy; a stationary wave does not.\n(2) In a travelling wave every particle has the same amplitude; in a stationary wave the amplitude varies from zero at nodes to maximum at antinodes.", ["April 2023", "April 2018"]],
+  ["The speed of sound in air at 0 °C is 332 m/s. Find it at 20 °C.", "v ∝ √T: v = 332 × √(293/273) = 332 × 1.036 ≈ 344 m/s (about 0.61 m/s per °C).", ["April 2017"]],
+  ["An open pipe of length l₁ and a closed pipe of length l₂ resonate with the same fork in their fundamental modes. Find l₁/l₂.", "Open: ν = v/2l₁. Closed: ν = v/4l₂.\nv/2l₁ = v/4l₂ ⇒ l₁ = 2l₂ ⇒ l₁/l₂ = 2.", ["April 2017"]],
+  ["Give two differences between transverse and longitudinal waves.", "(1) In transverse waves particles vibrate perpendicular to the wave direction; in longitudinal waves, along it.\n(2) Transverse waves form crests and troughs; longitudinal waves form compressions and rarefactions. Transverse waves can be polarized; longitudinal waves cannot.", ["October 2016", "April 2022"]]
+ ],
+ "sa": [
+  ["A source of sound of frequency 1 kHz moves towards a stationary observer at 40 m/s. Find the wavelength received when (i) both are at rest and (ii) the source moves. (v = 340 m/s)", "(i) λ = v/ν = 340/1000 = 0.34 m.\n(ii) The waves are crowded together: λ' = (v − vₛ)/ν = (340 − 40)/1000 = 0.30 m.\nThe apparent frequency is 340/0.30 ≈ 1133 Hz.", ["April 2022"]],
+  ["Write Newton's formula for the speed of sound in air. Why and how did Laplace correct it?", "Newton assumed isothermal changes: v = √(P/ρ) ≈ 280 m/s at NTP, much less than the measured 332 m/s.\nLaplace pointed out that compressions and rarefactions are so rapid, and air such a poor conductor, that the process is adiabatic. Then the elasticity is γP, so v = √(γP/ρ) = √(1.4 × 1.013 × 10⁵/1.29) ≈ 332 m/s, agreeing with experiment.", ["April 2023", "January-February 2021", "October 2021"]],
+  ["How is the speed of sound in air affected by temperature, pressure, density and humidity? At what temperature does it become twice its value at 27 °C?", "Temperature: v ∝ √T, so it rises with temperature. Pressure: no effect at constant temperature (P/ρ stays constant). Density: v ∝ 1/√ρ. Humidity: moist air is less dense, so v increases.\nFor v to double, T must be 4 times: 4 × 300 = 1200 K = 927 °C.", ["April 2018"]],
+  ["What are beats? How are they used to find the unknown frequency of a tuning fork?", "Beats are the periodic rise and fall of loudness when two sounds of slightly different frequencies are heard together. The number of beats per second = ν₁ − ν₂.\nSound the unknown fork with a known fork (ν) and count the beats b: the unknown is ν ± b. Load the unknown fork with wax (lowering its frequency): if the beats increase, it was ν − b; if they decrease, it was ν + b.", ["October 2022", "October 2016"]]
+ ],
+ "la": [
+  ["State the Doppler effect. A source emits 5 kHz. Find the frequency received when (i) source and observer are at rest, (ii) the source approaches a stationary observer at 30 m/s, (iii) it recedes at 30 m/s. (v = 330 m/s) Give two applications.", "Doppler effect: the apparent change in frequency of a wave due to relative motion of the source and the observer.\n(i) ν = 5000 Hz.\n(ii) ν' = νv/(v − vₛ) = 5000 × 330/300 = 5500 Hz.\n(iii) ν' = νv/(v + vₛ) = 5000 × 330/360 ≈ 4583 Hz.\nApplications: radar and police speed guns; finding the speed of stars from red shift; SONAR; medical ultrasound (blood-flow measurement).", ["October 2018"]],
+  ["Derive the equation of a plane progressive harmonic wave. Show that the particle velocity leads the displacement by π/2.", "The source vibrates as y = A sin ωt. A particle at distance x starts x/v later, so y = A sin ω(t − x/v) = A sin(ωt − kx), with k = ω/v = 2π/λ.\nParticle velocity u = ∂y/∂t = Aω cos(ωt − kx) = Aω sin(ωt − kx + π/2).\nSo the velocity leads the displacement by π/2, and its maximum value is Aω.", ["January-February 2021"]],
+  ["Explain the formation of stationary waves in an air column. Show that an open pipe gives all harmonics but a closed pipe gives only odd harmonics.", "When a wave is reflected back on itself, the incident and reflected waves superpose to form a stationary wave, y = 2A sin kx cos ωt, with fixed nodes and antinodes λ/2 apart.\nClosed pipe: a node at the closed end and an antinode at the open end, so L = λ/4, 3λ/4, 5λ/4 …, giving ν = v/4L, 3v/4L, 5v/4L — only odd harmonics.\nOpen pipe: antinodes at both ends, so L = λ/2, λ, 3λ/2 …, giving ν = v/2L, 2v/2L, 3v/2L — all harmonics.\nSo an open pipe's fundamental is twice that of a closed pipe of the same length.", ["October 2022", "April 2024"]]
+ ]
+}

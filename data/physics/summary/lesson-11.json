@@ -1,0 +1,249 @@
+{
+  "subject": "physics",
+  "lesson": 11,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 11: Thermodynamics — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Basic ideas"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "A thermodynamic system is described by its state variables: pressure, volume and temperature."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Thermal equilibrium: two bodies in contact exchange no heat when they are at the same temperature."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Zeroth law: if A and B are each in thermal equilibrium with C, then A and B are in equilibrium with each other. This defines temperature, which decides the direction of heat flow."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "A system is in thermodynamic equilibrium when it is in thermal, mechanical and chemical equilibrium at the same time."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Heat, work and internal energy"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Heat is energy in transit because of a temperature difference, measured in joules. 1 cal = 4.186 J and 1 kcal ≈ 4186 J (J is the mechanical equivalent of heat)."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Internal energy U is the total kinetic and potential energy of the molecules. It is a function of state and does not depend on how the state was reached. For an ideal gas, U depends only on temperature. Heat is closely associated with the random kinetic energy of molecules."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Work done by a gas is W = ∫P dV, the area under the P–V (indicator) diagram. In an isobaric process W = P(V₂ − V₁)."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "First law"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "ΔQ = ΔU + ΔW, where ΔQ is the heat supplied, ΔU the rise in internal energy and ΔW the work done by the system. Work done on the system increases U."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Examples: 110 J supplied with ΔU = 40 J gives W = 70 J. Absorbing 2000 J while doing 500 J of work gives ΔU = 1500 J. Absorbing 1100 J while 400 J of work is done on the system gives ΔU = 1500 J."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Limitations: the first law does not tell the direction of heat flow, the conditions under which heat can be converted to work, or how much of it can be."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Thermodynamic processes"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Isothermal (T constant): the process is slow, in a conducting vessel. ΔU = 0, so Q = W, and PV = constant."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Adiabatic (Q = 0): the process is fast, in an insulated vessel. ΔU = −W, and PV^γ = constant. A gas cools when it expands adiabatically, because it does work using its own internal energy."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Isobaric (P constant): the indicator diagram is a horizontal line. Isochoric (V constant): W = 0."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "A reversible process can be retraced exactly through the same states, as in very slow frictionless compression. Irreversible processes include friction, free expansion and heat flowing across a temperature difference. All natural processes are irreversible."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Second law and heat engines"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Kelvin–Planck statement: no engine working in a cycle can convert all the heat it takes in into work, so 100% efficiency is impossible."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Clausius statement: heat cannot flow by itself from a colder body to a hotter one."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "A heat engine takes Q₁ from a source at T₁, does work W and rejects Q₂ to a sink at T₂. Its efficiency is η = W/Q₁ = 1 − Q₂/Q₁."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "The Carnot engine is an ideal reversible engine. Its cycle is isothermal expansion, adiabatic expansion, isothermal compression and adiabatic compression. Its efficiency η = 1 − T₂/T₁ (kelvin) is independent of the working substance, and no real engine between T₁ and T₂ can be more efficient."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "η = 100% would need T₂ = 0 K, which cannot be reached."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Examples: between the steam point and the ice point, η = 1 − 273/373 ≈ 26.8%. Between 227 °C and 27 °C, η = 40%. With the sink at 27 °C and η = 25%, the source is at 400 K."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "A refrigerator is a heat engine run in reverse. Left open in a closed room it warms the room, because it rejects the heat it removes plus the work done by its motor."
+        ]
+      ]
+    }
+  ]
+}

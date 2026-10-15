@@ -1,0 +1,569 @@
+{
+  "subject": "physics",
+  "lesson": 903,
+  "title": "Model Question Paper 3",
+  "meta": "Time: 3 hours · Maximum marks: 80 · Modelled on the April 2026 NIOS paper",
+  "instructions": [
+    "All questions are compulsory. Where a question has OR, answer either one.",
+    "Section A: questions 1–16 are MCQs (1 mark each). Questions 17–28 have two parts of 1 mark each.",
+    "Section B: 2-mark answers in 30–50 words, 3-mark answers in 50–80 words, 5-mark answers in 80–120 words. Show the working in numerical questions.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "16 × 1 = 16",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "A ball of mass m strikes a rigid wall with speed u and rebounds with the same speed. The impulse imparted by the wall is —",
+          "options": [
+            "2mu",
+            "mu",
+            "zero",
+            "mu/2"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2021"
+          ],
+          "work": "Taking the rebound direction as positive: Δp = mu − (−mu) = 2mu.",
+          "note": "Lesson 3."
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "A force of 5 N moves a body 20 m along its own direction. The work done is —",
+          "options": [
+            "50 J",
+            "−980 J",
+            "100 J",
+            "zero"
+          ],
+          "answer": "C",
+          "years": [
+            "October 2025"
+          ],
+          "work": "W = Fd cos 0° = 5 × 20 = 100 J.",
+          "note": "Lesson 6."
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "Sound of wavelength λ travelling at v m/s enters another medium where its speed is 2v m/s. The new wavelength is —",
+          "options": [
+            "λ",
+            "λ/2",
+            "2λ",
+            "4λ"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2026"
+          ],
+          "work": "The frequency does not change, so λ ∝ v.\nSpeed doubles ⇒ λ' = 2λ.",
+          "note": "Lesson 14."
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "The dimensional formula of electric field is —",
+          "options": [
+            "LT⁻³A⁻¹",
+            "MLT⁻²A",
+            "MLT⁻³A⁻¹",
+            "ML²T⁻²A⁻¹"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2025"
+          ],
+          "work": "E = F/q = [MLT⁻²]/[AT] = [MLT⁻³A⁻¹].",
+          "note": "Lesson 15."
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "Which does NOT affect the capacitance of a capacitor?",
+          "options": [
+            "Separation between the plates",
+            "Area of the plates",
+            "Dielectric between the plates",
+            "Charge on the plates"
+          ],
+          "answer": "D",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 16."
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "On increasing temperature, the resistivity of —",
+          "options": [
+            "a conductor decreases but an insulator increases",
+            "a conductor increases but an insulator decreases",
+            "both increase",
+            "both decrease"
+          ],
+          "answer": "B",
+          "fixed": true,
+          "years": [
+            "April 2022"
+          ],
+          "note": "Lesson 17."
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "The magnetic field B of an infinitely long straight current varies with distance r as —",
+          "options": [
+            "B ∝ r",
+            "B ∝ 1/r",
+            "B ∝ 1/r²",
+            "B independent of r"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2018"
+          ],
+          "note": "Lesson 18."
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "A step-down transformer converts 240 V to 12 V. The ratio of turns Nₚ : Nₛ is —",
+          "options": [
+            "1 : 20",
+            "20 : 1",
+            "12 : 240",
+            "1 : 2"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2018"
+          ],
+          "work": "Nₚ/Nₛ = Vₚ/Vₛ = 240/12 = 20, i.e. 20 : 1.",
+          "note": "Lesson 19."
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "According to Rayleigh, the intensity of scattered light is proportional to —",
+          "options": [
+            "λ",
+            "λ²",
+            "1/λ²",
+            "1/λ⁴"
+          ],
+          "answer": "D",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 21."
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "An object immersed in a fluid becomes invisible if it —",
+          "options": [
+            "is a perfect reflector",
+            "absorbs all light",
+            "has refractive index one",
+            "has the same refractive index as the fluid"
+          ],
+          "answer": "D",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 22."
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "In Rutherford's scattering experiment the target was bombarded with —",
+          "options": [
+            "α-particles",
+            "β-particles",
+            "γ-rays",
+            "protons"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2022",
+            "April 2026"
+          ],
+          "note": "Lesson 24."
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "The maximum kinetic energy of photoelectrons depends on —",
+          "options": [
+            "the intensity of light",
+            "the frequency of light",
+            "the time of exposure",
+            "the area of the plate"
+          ],
+          "answer": "B",
+          "note": "Lesson 25."
+        },
+        {
+          "id": "1.13",
+          "type": "mcq",
+          "q": "The half-life of a radioactive element is 8 days. The time for its mass to reduce to 1/8 is —",
+          "options": [
+            "1 day",
+            "64 days",
+            "3 days",
+            "24 days"
+          ],
+          "answer": "D",
+          "years": [
+            "April 2022"
+          ],
+          "work": "1/8 = (1/2)³ ⇒ 3 half-lives = 3 × 8 = 24 days.",
+          "note": "Lesson 26."
+        },
+        {
+          "id": "1.14",
+          "type": "mcq",
+          "q": "In nuclear reactors, heavy water is used to —",
+          "options": [
+            "speed up fast neutrons",
+            "slow down fast neutrons",
+            "absorb heat",
+            "absorb extra neutrons"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2022"
+          ],
+          "note": "Lesson 27."
+        },
+        {
+          "id": "1.15",
+          "type": "mcq",
+          "q": "A Zener diode is —",
+          "options": [
+            "always operated in forward bias",
+            "a lightly doped p-n junction",
+            "a moderately doped p-n junction",
+            "a heavily doped p-n junction"
+          ],
+          "answer": "D",
+          "years": [
+            "October 2016"
+          ],
+          "note": "Lesson 28."
+        },
+        {
+          "id": "1.16",
+          "type": "mcq",
+          "q": "A solar cell is operated —",
+          "options": [
+            "in forward bias",
+            "in reverse bias",
+            "in both",
+            "without any external bias"
+          ],
+          "answer": "D",
+          "fixed": true,
+          "years": [
+            "April 2018"
+          ],
+          "note": "Lesson 29."
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark (fill in the blanks, true/false, match or one word).",
+      "marks": "12 × 2 = 24",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "Fill in the blanks: (a) Mass is a measure of ______. (b) Impulse equals the area under the ______–time graph.",
+          "answer": "(a) inertia\n(b) force",
+          "note": "Lesson 3."
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Fill in the blanks: (a) Kirchhoff's junction rule is based on conservation of ______. (b) The loop rule is based on conservation of ______.",
+          "answer": "(a) charge\n(b) energy",
+          "note": "Lesson 17."
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "Fill in the blanks: (a) The angle of dip where the horizontal and vertical components of the earth's field are equal is ______. (b) ______ substances are feebly magnetised opposite to the field.",
+          "answer": "(a) 45°\n(b) Diamagnetic",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 18."
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Fill in the blanks: (a) The induced current opposes the cause producing it — this is ______'s law. (b) Transformer cores are laminated to reduce ______ currents.",
+          "answer": "(a) Lenz\n(b) eddy",
+          "note": "Lesson 19."
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "State True or False: (a) Angular dispersion for two colours is independent of the angle of the prism. (b) The angular width of the primary rainbow is more than that of the secondary.",
+          "answer": "(a) False — angular dispersion (μ_v − μ_r)A grows with A.\n(b) False — the primary bow is narrower.",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Lesson 21."
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "(a) The locus of particles vibrating in the same phase at any instant is called a ______. (b) What is the phase difference between two points on the same wavefront?",
+          "answer": "(a) wavefront\n(b) Zero.",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 22."
+        },
+        {
+          "id": "2.7",
+          "type": "open",
+          "q": "Match: (a) Visible spectrum — ? (b) Far infrared — ? [Lyman / Balmer / Paschen / Pfund]",
+          "answer": "(a) Balmer series.\n(b) Pfund series.",
+          "years": [
+            "October 2024"
+          ],
+          "note": "Lesson 24."
+        },
+        {
+          "id": "2.8",
+          "type": "open",
+          "q": "State True or False: (a) Maximum KE of photoelectrons increases with intensity. (b) A photon has zero rest mass.",
+          "answer": "(a) False — it depends on frequency.\n(b) True.",
+          "note": "Lesson 25."
+        },
+        {
+          "id": "2.9",
+          "type": "open",
+          "q": "State True or False: (a) The decay rate of a radioactive element increases with temperature. (b) With artificial radioactivity it is theoretically possible to convert iron into gold.",
+          "answer": "(a) False — decay is unaffected by temperature.\n(b) True.",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 26."
+        },
+        {
+          "id": "2.10",
+          "type": "open",
+          "q": "Fill in the blanks: (a) ______ is an effective moderator used in nuclear reactors. (b) The fuel in most nuclear reactors is ______.",
+          "answer": "(a) Heavy water (or graphite)\n(b) U-235 (enriched uranium)",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 27."
+        },
+        {
+          "id": "2.11",
+          "type": "open",
+          "q": "Fill in the blanks: (a) The resistance of a semiconductor ______ with increase in temperature. (b) The numbers of holes and free electrons are equal in an ______ semiconductor.",
+          "answer": "(a) decreases\n(b) intrinsic",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 28."
+        },
+        {
+          "id": "2.12",
+          "type": "open",
+          "q": "Match: (a) Use of a p-n junction diode — ? (b) Use of a transistor — ? [rectifier / oscillator / remote receiver / stabilizer]",
+          "answer": "(a) Rectifier.\n(b) Oscillator (or amplifier).",
+          "years": [
+            "October 2024"
+          ],
+          "note": "Lesson 29."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "9 × 2 = 18",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "State Faraday's laws of electromagnetic induction.",
+          "answer": "First law: whenever the magnetic flux linked with a circuit changes, an emf is induced in it.\nSecond law: the induced emf equals the rate of change of flux linkage: e = −N dφ/dt.",
+          "years": [
+            "October 2022",
+            "April 2024"
+          ],
+          "note": "Lesson 19."
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "Why do most ordinary gases not show dispersion of white light?",
+          "answer": "Their refractive index is very close to 1 and almost the same for all colours, so the colours are hardly separated.",
+          "years": [
+            "April 2022"
+          ],
+          "note": "Lesson 21."
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "Find the polarizing angle for light incident from air on a medium of refractive index √3.",
+          "answer": "Brewster's law: tan iₚ = μ = √3 ⇒ iₚ = 60°.",
+          "years": [
+            "October 2018"
+          ],
+          "note": "Lesson 22."
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "What were the drawbacks of Rutherford's model?",
+          "answer": "A revolving electron is accelerated, so by classical theory it should radiate energy continuously and spiral into the nucleus. Atoms would be unstable and would give a continuous spectrum — contrary to observed stable atoms and line spectra.",
+          "note": "Lesson 24."
+        },
+        {
+          "id": "3.5",
+          "type": "open",
+          "q": "Define (a) stopping potential and (b) threshold frequency.",
+          "answer": "(a) Stopping potential: the minimum negative potential applied to the anode that stops the most energetic photoelectrons, so the photocurrent becomes zero (eV₀ = KE_max).\n(b) Threshold frequency: the minimum frequency of incident light below which no photoelectrons are emitted from a given metal.",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 25."
+        },
+        {
+          "id": "3.6",
+          "type": "open",
+          "q": "A radioactive substance decays to 1/32 of its activity in 25 days. Calculate its half-life.",
+          "answer": "1/32 = (1/2)⁵ ⇒ 5 half-lives in 25 days ⇒ T½ = 5 days.",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Lesson 26."
+        },
+        {
+          "id": "3.7",
+          "type": "open",
+          "q": "Out of fission and fusion, which converts mass into energy more efficiently, and why?",
+          "answer": "Fusion. Per unit mass of fuel it releases several times more energy (e.g. about 6.7 MeV per nucleon for hydrogen to helium, against about 0.85 MeV per nucleon for uranium fission), because light nuclei gain much more binding energy per nucleon when they fuse.",
+          "years": [
+            "January-February 2021"
+          ],
+          "note": "Lesson 27."
+        },
+        {
+          "id": "3.8",
+          "type": "open",
+          "q": "How is the conductivity of a semiconductor affected by a rise in temperature? Explain.",
+          "answer": "It increases. More electrons gain enough energy to jump from the valence band to the conduction band, creating more free electrons and holes.",
+          "years": [
+            "January-February 2021"
+          ],
+          "note": "Lesson 28."
+        },
+        {
+          "id": "3.9",
+          "type": "open",
+          "q": "Draw a circuit diagram of a stabilized power supply showing a step-down transformer, a full-wave rectifier, a capacitor filter and a Zener diode.",
+          "answer": "AC mains → step-down transformer → full-wave rectifier (bridge of four diodes) → a capacitor across the output (filter) → a series resistor and a Zener diode in reverse bias across the load. The Zener keeps the load voltage constant.",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 29."
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "4 × 3 = 12",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "A force F = (5i + 3j) N moves a particle through d = (3i + 4j) m. Calculate the work done.",
+          "answer": "W = F · d = FₓDₓ + F_yD_y\n= 5 × 3 + 3 × 4 = 15 + 12 = 27 J.",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 6."
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "How is the speed of sound in air affected by temperature, pressure, density and humidity? At what temperature does it become twice its value at 27 °C?",
+          "answer": "Temperature: v ∝ √T, so it rises with temperature. Pressure: no effect at constant temperature (P/ρ stays constant). Density: v ∝ 1/√ρ. Humidity: moist air is less dense, so v increases.\nFor v to double, T must be 4 times: 4 × 300 = 1200 K = 927 °C.",
+          "years": [
+            "April 2018"
+          ],
+          "note": "Lesson 14."
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "An isolated hydrogen atom emits a photon of 9 eV. Find (i) the photon's momentum, (ii) its effective mass and (iii) the recoil velocity of the atom. (m_H = 1.6 × 10⁻²⁷ kg)",
+          "answer": "E = 9 × 1.6 × 10⁻¹⁹ = 1.44 × 10⁻¹⁸ J.\n(i) p = E/c = 1.44 × 10⁻¹⁸/3 × 10⁸ = 4.8 × 10⁻²⁷ kg m/s.\n(ii) m = E/c² = 1.6 × 10⁻³⁵ kg.\n(iii) Momentum is conserved: v = p/m_H = 4.8 × 10⁻²⁷/1.6 × 10⁻²⁷ = 3 m/s (opposite to the photon).",
+          "years": [
+            "April 2023"
+          ],
+          "note": "Lesson 25."
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "Define forward bias and reverse bias. Plot the variation of current with applied voltage for a p-n junction.",
+          "answer": "Forward bias: p-side to the positive and n-side to the negative terminal; the barrier is lowered and current flows easily.\nReverse bias: p-side to negative and n-side to positive; the barrier is raised and only a tiny current flows.\nGraph: in forward bias the current is almost zero up to the knee voltage (Si about 0.7 V), then rises steeply. In reverse bias a small, nearly constant reverse current flows (µA) until breakdown, when it rises suddenly.",
+          "years": [
+            "April 2026",
+            "April 2025"
+          ],
+          "note": "Lesson 28."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Long answer questions. Answer in 80–120 words.",
+      "marks": "2 × 5 = 10",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "Define terminal velocity and derive its expression for a sphere falling through a viscous fluid. Explain why raindrops do not hurt and why a parachute works.",
+          "answer": "Terminal velocity is the constant velocity a body reaches when the net force on it becomes zero.\nForces on a sphere: weight (4/3)πr³ρg down; upthrust (4/3)πr³σg up; Stokes drag 6πηrv up.\nAt terminal velocity: (4/3)πr³(ρ − σ)g = 6πηrv ⇒ v = 2r²(ρ − σ)g/9η.\nRaindrops are small (v ∝ r²) and reach a low terminal speed, so they land gently.\nA parachute has a large area, so the drag is large and the terminal speed small, giving a safe landing.",
+          "years": [
+            "October 2022",
+            "October 2021"
+          ],
+          "note": "Lesson 9."
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "Explain how a transistor works as an oscillator. A parallel LC circuit has L = 1 mH and C = 0.1 µF. Calculate the frequency.",
+          "answer": "An oscillator is an amplifier with positive feedback. The LC tank in the collector circuit oscillates; part of its energy is fed back in phase to the base through a feedback coil (mutual induction), making up for losses so the oscillations are sustained. No input signal is needed.\nFrequency f = 1/2π√(LC) = 1/(2π√(1 × 10⁻³ × 0.1 × 10⁻⁶)) = 1/(2π × 10⁻⁵) ≈ 15.9 kHz.",
+          "years": [
+            "April 2018"
+          ],
+          "note": "Lesson 29."
+        }
+      ]
+    }
+  ]
+}

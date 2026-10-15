@@ -1,0 +1,327 @@
+{
+  "subject": "physics",
+  "lesson": 24,
+  "title": "Structure of Atom",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "11 × 1 = 11",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "Which spectral series of hydrogen gives a line of 4800 Å?",
+          "options": [
+            "Lyman",
+            "Balmer",
+            "Paschen",
+            "Brackett"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "In Rutherford's scattering experiment the target was bombarded with —",
+          "options": [
+            "α-particles",
+            "β-particles",
+            "γ-rays",
+            "protons"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2022",
+            "April 2026"
+          ]
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "The idea of the nuclear model of the atom was given by —",
+          "options": [
+            "John Dalton",
+            "Lord Rutherford",
+            "Niels Bohr",
+            "Linus Pauling"
+          ],
+          "answer": "B",
+          "years": [
+            "January-February 2021"
+          ]
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "The spectral series of hydrogen lying in the visible region is —",
+          "options": [
+            "Lyman",
+            "Balmer",
+            "Paschen",
+            "Pfund"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2021"
+          ]
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "The angular momentum of the electron in the lowest energy state of hydrogen is —",
+          "options": [
+            "h/2π",
+            "h/π",
+            "3h/2π",
+            "2h/π"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2022"
+          ],
+          "work": "Bohr: mvr = nh/2π, and n = 1 in the ground state."
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "Hydrogen atoms are excited to the state n = 4. The maximum number of spectral lines emitted is —",
+          "options": [
+            "2",
+            "3",
+            "5",
+            "6"
+          ],
+          "answer": "D",
+          "years": [
+            "April 2024"
+          ],
+          "work": "Number of lines = n(n − 1)/2 = 4 × 3/2 = 6."
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "In terms of the Bohr radius a₀, the radius of the third orbit of hydrogen is —",
+          "options": [
+            "3a₀",
+            "9a₀",
+            "√3 a₀",
+            "a₀/3"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2024"
+          ],
+          "work": "rₙ = n²a₀ ⇒ r₃ = 9a₀."
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "Which transition in a hydrogen atom emits the photon of shortest wavelength?",
+          "options": [
+            "n = 2 to n = 1",
+            "n = 6 to n = 5",
+            "n = 6 to n = 1",
+            "n = 5 to n = 4"
+          ],
+          "answer": "C",
+          "years": [
+            "October 2016"
+          ],
+          "work": "The shortest wavelength needs the largest energy difference: 6 → 1 releases the most energy."
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "The maximum wavelength of the Paschen series is (R = Rydberg constant) —",
+          "options": [
+            "144/7R",
+            "100/21R",
+            "9/R",
+            "36/5R"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2018"
+          ],
+          "work": "Longest line: 4 → 3. 1/λ = R(1/9 − 1/16) = 7R/144 ⇒ λ = 144/7R."
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "The maximum number of electrons in the outermost orbit of any atom is —",
+          "options": [
+            "2",
+            "8",
+            "32",
+            "unlimited"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "The ionization energy of hydrogen is 13.6 eV. That of a He⁺ ion is —",
+          "options": [
+            "13.6 eV",
+            "27.2 eV",
+            "54.4 eV",
+            "6.8 eV"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2024"
+          ],
+          "work": "E ∝ Z². For He⁺, Z = 2 ⇒ 13.6 × 4 = 54.4 eV."
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark (fill in the blanks, true/false, match or one word).",
+      "marks": "5 × 2 = 10",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "(a) In Rutherford's experiment the target was bombarded by ______. (b) What is the ratio of radii of the first excited state and the ground state of hydrogen?",
+          "answer": "(a) α-particles\n(b) r ∝ n² ⇒ r₂ : r₁ = 4 : 1.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Match: (a) Visible spectrum — ? (b) Far infrared — ? [Lyman / Balmer / Paschen / Pfund]",
+          "answer": "(a) Balmer series.\n(b) Pfund series.",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "Match: (a) Balmer series — ? (b) Paschen series — ? [ν̄ = R(1 − 1/n²) / R(1/4 − 1/n²) / R(1/9 − 1/n²) / R(1/16 − 1/n²)]",
+          "answer": "(a) R(1/4 − 1/n²).\n(b) R(1/9 − 1/n²).",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "State True or False: (a) The Lyman series of hydrogen lies in the ultraviolet region. (b) The distance of closest approach of α-particles scattered at 180° estimates the radius of the nucleus.",
+          "answer": "(a) True.\n(b) True — it gives an upper limit to the nuclear size.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "Fill in the blanks: (a) The energy of the electron in the nth orbit of hydrogen is ______ eV. (b) The ionization energy of hydrogen is ______ eV.",
+          "answer": "(a) −13.6/n²\n(b) 13.6"
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "4 × 2 = 8",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "Write two postulates of Rutherford's atomic model.",
+          "answer": "(1) All the positive charge and nearly all the mass of an atom are concentrated in a tiny central nucleus.\n(2) Electrons revolve round the nucleus in orbits, the electrostatic attraction providing the centripetal force; most of the atom is empty space.",
+          "years": [
+            "April 2022",
+            "October 2018"
+          ]
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "Calculate the ratio of the energies of hydrogen in its first excited state and its second excited state.",
+          "answer": "Eₙ = −13.6/n². First excited state n = 2: −3.4 eV. Second excited state n = 3: −1.51 eV.\nE₂ : E₃ = (1/4) : (1/9) = 9 : 4.",
+          "years": [
+            "April 2023"
+          ]
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "State Bohr's postulates.",
+          "answer": "(1) Electrons revolve in certain stationary orbits without radiating energy.\n(2) In these orbits the angular momentum is an integral multiple of h/2π: mvr = nh/2π.\n(3) Energy is emitted or absorbed only when an electron jumps between orbits: hν = E_i − E_f."
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "What were the drawbacks of Rutherford's model?",
+          "answer": "A revolving electron is accelerated, so by classical theory it should radiate energy continuously and spiral into the nucleus. Atoms would be unstable and would give a continuous spectrum — contrary to observed stable atoms and line spectra."
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "3 × 3 = 9",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "A hydrogen atom makes a transition from n = 3 to n = 1. Find the wavelength emitted and name the series. (R = 1.097 × 10⁷ m⁻¹)",
+          "answer": "1/λ = R(1/1² − 1/3²) = R × 8/9 = 1.097 × 10⁷ × 0.889 = 9.75 × 10⁶ m⁻¹.\nλ ≈ 1.026 × 10⁻⁷ m = 102.6 nm.\nThe final level is n = 1, so it belongs to the Lyman series (ultraviolet).",
+          "years": [
+            "April 2018"
+          ]
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "Describe Rutherford's α-scattering experiment and its conclusions.",
+          "answer": "A narrow beam of α-particles from a radioactive source was directed at a thin gold foil; a zinc-sulphide screen detected the scattered particles at various angles.\nObservations: most passed undeviated; a few were deflected through large angles; about 1 in 8000 bounced back.\nConclusions: the atom is mostly empty; its positive charge and mass are in a tiny nucleus (about 10⁻¹⁵ m); electrons revolve round it.",
+          "years": [
+            "October 2022"
+          ]
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "Name the series of the hydrogen spectrum with their regions and the formula for each.",
+          "answer": "1/λ = R(1/n₁² − 1/n₂²):\nLyman — n₁ = 1, ultraviolet.\nBalmer — n₁ = 2, visible.\nPaschen — n₁ = 3, infrared.\nBrackett — n₁ = 4, infrared.\nPfund — n₁ = 5, far infrared.\nIn each series n₂ = n₁ + 1, n₁ + 2, …"
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Long answer questions. Answer in 80–120 words.",
+      "marks": "1 × 5 = 5",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "Using Bohr's postulates, show that the energy of the electron in the nth orbit of hydrogen is Eₙ = −13.6/n² eV.",
+          "answer": "Centripetal force from electrostatic attraction: mv²/r = ke²/r² … (1)\nQuantum condition: mvr = nh/2π … (2)\nFrom (1) and (2): rₙ = n²h²/(4π²mke²) = n² × 0.53 Å, and v = 2πke²/nh.\nKE = ½mv² = ke²/2r; PE = −ke²/r.\nTotal E = −ke²/2r = −2π²mk²e⁴/(n²h²).\nSubstituting the constants: Eₙ = −13.6/n² eV (−13.6 eV for n = 1, −3.4 eV for n = 2).",
+          "years": [
+            "October 2022",
+            "April 2017"
+          ]
+        }
+      ]
+    }
+  ]
+}

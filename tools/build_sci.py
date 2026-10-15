@@ -29,6 +29,7 @@ from convert_lesson import APP_DIR  # noqa: E402
 
 SUBJECT = 'science'
 NAME = 'Science and Technology'
+LEVEL = 'secondary'  # or 'senior-secondary'; see the levels in data/subjects.json
 DATA = APP_DIR / 'data' / SUBJECT
 
 # key, title, marks per question, words, questions in a full paper
@@ -168,7 +169,7 @@ def register(sources, papers):
     if subj is None:
         subj = {'id': SUBJECT}
         data['subjects'].append(subj)
-    subj.update(name=NAME, label='')
+    subj.update(name=NAME, label='', level=LEVEL)
     lessons = [{'no': s['lesson'], 'title': s['title'], 'file': f'data/{SUBJECT}/lesson-{s["lesson"]}.json',
                 'summary': f'data/{SUBJECT}/summary/lesson-{s["lesson"]}.json'} for s in sources]
     for p in range(papers):

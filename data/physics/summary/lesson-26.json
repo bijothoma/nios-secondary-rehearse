@@ -1,0 +1,168 @@
+{
+  "subject": "physics",
+  "lesson": 26,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 26: Nuclei and Radioactivity — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "The nucleus"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "A nucleus contains Z protons and N = A − Z neutrons. For example, O-18 has 8 protons (and 8 electrons) and 10 neutrons; U-238 has 92 protons and 146 neutrons."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Nuclear radius R = R₀A^⅓, with R₀ ≈ 1.2 fm, so all nuclei have roughly the same density."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Nuclear force: very strong, short-range (about 2–3 fm), charge-independent (it acts equally between n–n, p–p and n–p), attractive (repulsive at very short distances), saturating and non-central. It is the strongest force in nature; gravity is the weakest."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Mass defect and binding energy: Δm = [Zm_p + (A − Z)m_n] − M, and B.E. = Δm c². One atomic mass unit (1 u = 1.66 × 10⁻²⁷ kg) is equivalent to 931 MeV (1.49 × 10⁻¹⁰ J)."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Radioactivity"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Radioactivity is the spontaneous emission of α, β or γ rays by unstable nuclei, discovered by Henri Becquerel in 1896. It is a nuclear process, so it is unaffected by temperature, pressure or chemical combination."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "α-particle: a helium nucleus (+2e); it has the greatest ionizing power and the least penetration. β-particle: a fast electron (−e); intermediate on both counts. γ-rays: electromagnetic, uncharged; the most penetrating."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Displacement laws: α-decay lowers A by 4 and Z by 2 (U-238 → Th-234). β⁻-decay raises Z by 1 with A unchanged; the apparent breach of energy conservation in β-decay led Pauli to predict the neutrino. γ-decay changes neither A nor Z."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Decay law"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "dN/dt = −λN, so N = N₀e^(−λt). Half-life T½ = 0.693/λ, and the mean life τ = 1/λ. The decay curve is exponential."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "After n half-lives, N = N₀/2ⁿ: three half-lives leave ⅛ and four leave 1/16."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Examples: T½ = 8 days takes 24 days to fall to ⅛. Activity falling to ⅛ in 30 years means T½ = 10 years. Falling to 1/32 in 25 days means T½ = 5 days."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Activity A = λN is measured in becquerel (1 Bq = 1 decay/s); 1 curie = 3.7 × 10¹⁰ Bq."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Artificial transmutation"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Bombarding nuclei with particles (α, p, n) changes one element into another — in principle even iron into gold. Rutherford (1919): N-14 + α → O-17 + p. The neutron is the best projectile because it is uncharged and is not repelled by the nucleus."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Moderators such as heavy water or graphite slow down neutrons in a reactor."
+        ]
+      ]
+    }
+  ]
+}

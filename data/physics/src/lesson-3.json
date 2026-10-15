@@ -1,0 +1,81 @@
+{
+ "lesson": 3,
+ "title": "Laws of Motion",
+ "module": 1,
+ "summary": [
+  "## Inertia and Newton's first law",
+  "Inertia is a body's tendency to resist any change in its state of rest or uniform motion. Mass is the measure of inertia.",
+  "Inertia of rest throws passengers backward when a bus starts suddenly. Inertia of motion throws them forward when it stops suddenly.",
+  "First law: a body stays at rest, or in uniform motion in a straight line, as long as the net external force on it is zero. This law defines force (what changes the state of motion) and inertia. A body need not move in the direction of the force acting on it; a ball thrown sideways still falls downward.",
+  "## Momentum and Newton's second law",
+  "Linear momentum is p = mv, a vector measured in kg m/s.",
+  "Second law: the rate of change of momentum is proportional to the net force and takes place in its direction, F = dp/dt. For constant mass, F = ma. One newton gives 1 kg an acceleration of 1 m/s².",
+  "Acceleration (and change in momentum) is always in the direction of the net force; velocity and displacement need not be. A constant net force means constant acceleration.",
+  "Impulse = F × t = change in momentum (Ft = mv − mu). It equals the area under the force–time graph.",
+  "Example: a ball of mass m rebounds from a wall with the same speed u. Impulse = m(u − (−u)) = 2mu. A ball thrown up with v returns with v downward, so the change in momentum is 2mv even though its magnitude is unchanged.",
+  "A fielder draws his hands back while catching to increase the time of impact, which reduces the force (F = Δp/t).",
+  "## Newton's third law",
+  "To every action there is an equal and opposite reaction. The two forces act on different bodies, so they never cancel each other.",
+  "A book on a table pushes the table down (action) and the table pushes the book up (reaction). A horse pulls a cart: the horse pushes the ground backward, and the ground's forward push on the horse moves the system.",
+  "## Conservation of linear momentum",
+  "If no net external force acts on a system, its total momentum stays constant: m₁u₁ + m₂u₂ = m₁v₁ + m₂v₂.",
+  "Proof from the third law: during a collision F₁₂ = −F₂₁ for the same time t, so the changes in momentum are equal and opposite and the total is unchanged.",
+  "Examples: recoil of a gun (m_g v_g = −m_b v_b), rocket propulsion, and an explosion of a body at rest, where the fragments' momenta add to zero.",
+  "## Equilibrium of forces",
+  "Concurrent forces are in equilibrium when their resultant is zero. A body moving with constant velocity has zero net force: a raindrop at terminal speed, a floating cork, a car at steady speed. The minimum number of non-coplanar forces that can keep a body in equilibrium is 4.",
+  "## Apparent weight in a lift",
+  "The scale reading is R = m(g + a) when the lift accelerates up, m(g − a) when it accelerates down, and zero in free fall or in an orbiting satellite (weightlessness).",
+  "## Connected bodies",
+  "Atwood machine (m₂ > m₁ over a pulley): a = (m₂ − m₁)g/(m₁ + m₂) and T = 2m₁m₂g/(m₁ + m₂).",
+  "Blocks pulled by a force F on a smooth surface: each string's tension equals the force needed to accelerate the blocks behind it.",
+  "## Friction",
+  "Friction acts parallel to the surfaces in contact and opposes relative motion. Limiting static friction is f_s(max) = μ_s N, and kinetic friction is f_k = μ_k N, with μ_k < μ_s. Rolling friction is much smaller than sliding friction.",
+  "On an incline, a block just begins to slide when tan θ = μ_s, where θ is the angle of repose.",
+  "Friction can be reduced by lubricants, ball bearings, polishing and streamlining. Lubricants cannot reduce inertia.",
+  "Newton's laws hold only in inertial frames."
+ ],
+ "mcq": [
+  ["Proper use of lubricants cannot reduce —", ["static friction", "inertia", "sliding friction", "rolling friction"], "B", ["April 2026"]],
+  ["The change in momentum of a body is equal to —", ["force × displacement", "mass × velocity", "force × time", "force × velocity"], "C", ["October 2022", "April 2024"]],
+  ["The physical quantity equal to the change in momentum of a body is —", ["force", "acceleration", "impulse", "work"], "C", ["April 2023"]],
+  ["A ball of mass m strikes a rigid wall with speed u and rebounds with the same speed. The impulse imparted by the wall is —", ["2mu", "mu", "zero", "mu/2"], "A", ["October 2021"], {"work": "Taking the rebound direction as positive: Δp = mu − (−mu) = 2mu."}],
+  ["When a constant net external force acts on a body, which quantity does not change?", ["Position", "Speed", "Velocity", "Acceleration"], "D", ["April 2024"]],
+  ["Which of the following is always in the direction of the net external force on a body?", ["Velocity", "Acceleration", "Displacement", "Position"], "B", ["April 2018"]],
+  ["The minimum number of non-coplanar forces that can keep a body in equilibrium is —", ["2", "3", "4", "5"], "C", ["October 2024"]],
+  ["A block just starts sliding when the inclined plane makes 30° with the vertical. The coefficient of friction is —", ["1/√3", "√3", "mg/√3", "√3 mg"], "B", ["October 2024"], {"work": "30° with the vertical means the incline is at 60° to the horizontal.\nAt the point of sliding μ = tan θ = tan 60° = √3."}],
+  ["When a horse pulls a cart, the system moves forward because of the force exerted by the —", ["cart on the ground", "ground on the cart", "horse on the ground", "ground on the horse"], "D", ["October 2025"]],
+  ["A 100 kg person orbits the earth in a satellite. His weight inside the satellite is —", ["zero", "980 kg", "600 kg", "980 N"], "A", ["October 2025"]],
+  ["A constant force of 10 N acts on a 2.5 kg body at rest for 2 s. Its velocity after 3 s is —", ["12 m/s along the force", "8 m/s along the force", "8 m/s opposite to the force", "12 m/s opposite to the force"], "B", ["October 2018"], {"work": "a = F/m = 10/2.5 = 4 m/s²; after 2 s, v = 4 × 2 = 8 m/s.\nThe force then stops, so the body keeps moving at 8 m/s (first law)."}],
+  ["A 50 kg woman stands on a weighing machine in a lift accelerating up at 5 m/s² (g = 10 m/s²). The machine reads —", ["250 N", "500 N", "750 N", "1000 N"], "C", ["January-February 2021"], {"work": "R − mg = ma ⇒ R = m(g + a) = 50 × (10 + 5) = 750 N."}],
+  ["A force F acts on a body of mass m for t seconds. The change in its momentum is —", ["Ft", "Fm", "F/t", "F/m"], "A", ["April 2024"]],
+  ["A 2 kg block rests on a surface with μs = 0.3 (g = 10 m/s²). The limiting friction is —", ["0.6 N", "3 N", "6 N", "20 N"], "C", ["April 2025"], {"work": "f = μs N = μs mg = 0.3 × 2 × 10 = 6 N."}]
+ ],
+ "objective": [
+  ["Fill in the blanks: (a) ______ is the weakest force in nature. (b) A gun recoils after firing to conserve ______.", "(a) Gravitational force\n(b) linear momentum", ["October 2025"]],
+  ["Match: (a) Law of conservation of linear momentum — ? (b) Expression for friction force — ? [f = μN / F = ma / p_total = constant]", "(a) p_total = constant.\n(b) f = μN.", ["October 2024"]],
+  ["Fill in the blanks: (a) Mass is a measure of ______. (b) Impulse equals the area under the ______–time graph.", "(a) inertia\n(b) force"],
+  ["State True or False: (a) Action and reaction act on the same body and cancel. (b) Rolling friction is less than sliding friction.", "(a) False — they act on different bodies.\n(b) True."],
+  ["Complete: (a) 50 N opposes a 10 kg body moving at 10 m/s; deceleration = ______. (b) Time to stop = ______.", "(a) a = F/m = 50/10 = 5 m/s².\n(b) t = u/a = 10/5 = 2 s.", ["October 2016"]],
+  ["Fill in the blanks: (a) A lift falls freely; the apparent weight of a person in it is ______. (b) The angle of the incline at which a block just slides is the angle of ______.", "(a) zero\n(b) repose (tan θ = μ)"]
+ ],
+ "vsa": [
+  ["Why are passengers thrown forward when a speeding bus stops suddenly?", "The lower body stops with the bus, but the upper body tends to keep moving forward because of inertia of motion, so passengers lurch forward.", ["April 2026"], {"or": ["Why do passengers fall backward when a bus suddenly starts from rest?", "The feet move forward with the bus, but the upper body tends to stay at rest because of inertia of rest, so passengers fall backward."]}],
+  ["A ball of mass m is thrown up with speed v and returns to the thrower with the same speed. Find the change in its momentum.", "Initial momentum = mv upward; final = mv downward.\nTaking up as positive: Δp = (−mv) − (mv) = −2mv, i.e. 2mv downward. The magnitude of momentum is unchanged.", ["April 2025", "April 2022", "April 2024"], {"or": ["Identify the action–reaction forces on a book lying on a table.", "The book pushes down on the table with a force equal to its weight (action); the table pushes up on the book with an equal force (reaction). They act on different bodies."]}],
+  ["Mention two ways of reducing friction between surfaces.", "(1) Using lubricants such as oil or grease. (2) Using ball bearings or rollers, since rolling friction is much smaller. Polishing and streamlining also help.", ["April 2025", "April 2024"], {"or": ["Give two examples of conservation of linear momentum.", "(1) Recoil of a gun when a bullet is fired. (2) Rocket propulsion — gases thrown back push the rocket forward. (Also a boat moving back as a person jumps off.)"]}],
+  ["Why does a cricketer draw his hands back while catching a fast ball?", "Drawing the hands back increases the time in which the ball's momentum is reduced to zero. Since F = Δp/t, the force on the hands is smaller and they are not hurt.", ["April 2018", "October 2025"]],
+  ["Show that the momentum of a particle is unchanged if the force on it is zero.", "F = dp/dt. If F = 0 then dp/dt = 0, so p is constant: the particle keeps the same momentum (first law).", ["October 2025"]],
+  ["Define the coefficients of static and kinetic friction.", "μs = limiting (maximum) static friction ÷ normal reaction, when the body is just about to slide.\nμk = kinetic friction ÷ normal reaction, when the body is sliding. Usually μk < μs.", ["October 2021"]],
+  ["A 50 kg woman is in a lift moving up with acceleration 5 m/s². What does the weighing machine record? (g = 10 m/s²)", "R − mg = ma ⇒ R = m(g + a) = 50 × 15 = 750 N (about 75 kg wt).", ["January-February 2021"]]
+ ],
+ "sa": [
+  ["Two masses of 2 kg and 3 kg hang from a light string over a frictionless pulley. Find the acceleration and the tension. (g = 9.8 m/s²)", "a = (m₂ − m₁)g/(m₁ + m₂) = (3 − 2) × 9.8/5 = 1.96 m/s².\nT = 2m₁m₂g/(m₁ + m₂) = 2 × 2 × 3 × 9.8/5 = 23.5 N.\nThe 3 kg mass moves down and the 2 kg mass moves up.", ["April 2018", "October 2018"]],
+  ["A 1 kg body at rest explodes into three pieces of masses in the ratio 1 : 1 : 3. The two equal pieces fly off at right angles, each at 30 m/s. Find the velocity of the heavier piece.", "Masses: 0.2 kg, 0.2 kg and 0.6 kg.\nMomenta of the light pieces: 0.2 × 30 = 6 kg m/s each, at right angles; resultant = 6√2 kg m/s.\nThe total momentum is zero, so the heavy piece has 6√2 kg m/s in the opposite direction.\nv = 6√2/0.6 = 10√2 ≈ 14.1 m/s, at 135° to each light piece.", ["April 2024"], {"or": ["How is the impulse of a force found when the force is (a) constant and (b) variable?", "(a) Constant force: impulse = F × t = change in momentum.\n(b) Variable force: impulse = area under the force–time graph (∫F dt), still equal to the change in momentum."]}],
+  ["Four equal blocks of mass m tied by strings on a smooth floor are pulled by a force F. Find the tensions T₁, T₂, T₃ (T₁ nearest the force).", "Acceleration of the system a = F/4m.\nT₁ pulls three blocks: T₁ = 3m × a = 3F/4.\nT₂ pulls two blocks: T₂ = 2m × a = F/2.\nT₃ pulls one block: T₃ = m × a = F/4.", ["October 2016"]],
+  ["State Newton's second law. Derive F = ma and define the newton.", "Law: the rate of change of momentum is proportional to the net force and in its direction.\nF ∝ dp/dt = d(mv)/dt = m dv/dt = ma (mass constant). With the SI unit chosen so that the constant is 1, F = ma.\n1 newton is the force that gives 1 kg an acceleration of 1 m/s².", ["April 2023"]]
+ ],
+ "la": [
+  ["State and prove the law of conservation of linear momentum using Newton's third law. Aman (60 kg) moves at 1 m/s towards Manoj (40 kg), who moves at 1.5 m/s towards Aman. Find their momenta.", "Law: if no net external force acts on a system, its total momentum stays constant.\nProof: bodies A and B collide for time t. By the third law F_AB = −F_BA, so F_AB t = −F_BA t, i.e. Δp_A = −Δp_B. Hence Δp_A + Δp_B = 0, so m₁u₁ + m₂u₂ = m₁v₁ + m₂v₂.\nAman: p = 60 × 1 = 60 kg m/s. Manoj: p = 40 × 1.5 = 60 kg m/s in the opposite direction. Total momentum = 60 − 60 = 0.", ["April 2026", "April 2022"], {"or": ["State and prove Newton's second law. A 0.4 kg ball rolling at 20 m/s comes to rest in 10 s. Find the (constant) force stopping it.", "Second law: F = dp/dt; for constant mass F = m dv/dt = ma.\nBall: a = (v − u)/t = (0 − 20)/10 = −2 m/s².\nF = ma = 0.4 × (−2) = −0.8 N, i.e. 0.8 N opposite to the motion."]}],
+  ["State Newton's three laws of motion. Use the first law to define force and inertia and the second law to define acceleration.", "First law: a body stays at rest or in uniform motion in a straight line unless an external force acts on it. So force is what changes a body's state of rest or motion, and inertia is a body's tendency to resist such a change (measured by mass).\nSecond law: the rate of change of momentum equals the net force, F = ma. So acceleration is the rate of change of velocity produced by a net force, a = F/m.\nThird law: to every action there is an equal and opposite reaction, acting on different bodies.", ["April 2017", "April 2022", "October 2021"]],
+  ["In each case name the forces acting and explain why the net force is zero: (i) a raindrop falling at constant speed; (ii) a cork floating on water; (iii) a kite held stationary; (iv) a car moving at constant velocity on a rough road; (v) a fast electron in force-free space.", "(i) Weight down is balanced by air resistance (viscous drag) and buoyancy up — constant velocity, so net force zero.\n(ii) Weight down equals the buoyant force up.\n(iii) Weight and string tension are balanced by the force of the wind on the kite.\n(iv) The engine's forward force on the car (through the road) equals friction and air resistance.\n(v) No force acts at all.\nIn every case there is no acceleration, so by the second law the net force is zero.", ["October 2024"]]
+ ]
+}

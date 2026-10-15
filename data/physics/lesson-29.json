@@ -1,0 +1,356 @@
+{
+  "subject": "physics",
+  "lesson": 29,
+  "title": "Applications of Semiconductor Devices",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "10 × 1 = 10",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "Which of the following is called a universal gate?",
+          "options": [
+            "AND gate",
+            "NAND gate",
+            "OR gate",
+            "NOT gate"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2025",
+            "April 2022"
+          ]
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "The junction diode whose I–V characteristic lies in the fourth quadrant is —",
+          "options": [
+            "Zener diode",
+            "LED",
+            "photodiode",
+            "solar cell"
+          ],
+          "answer": "D",
+          "years": [
+            "January-February 2021",
+            "April 2024"
+          ]
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "The current gain of a transistor in common base is 0.95. Its gain in common emitter is —",
+          "options": [
+            "0.95",
+            "95",
+            "19",
+            "1/19"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2017"
+          ],
+          "work": "β = α/(1 − α) = 0.95/0.05 = 19."
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "In a CE n-p-n transistor, I_b = 0.001 mA and I_c = 1 mA. The current gain is —",
+          "options": [
+            "1000",
+            "more than 1000",
+            "between 100 and 1000",
+            "less than 100"
+          ],
+          "answer": "A",
+          "years": [
+            "January-February 2021"
+          ],
+          "work": "β = I_c/I_b = 1/0.001 = 1000."
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "The current gain β of a transistor in CE mode is 49. If the collector current changes by 9.8 mA, the change in base current is —",
+          "options": [
+            "0.1 mA",
+            "0.15 mA",
+            "0.2 mA",
+            "0.25 mA"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2023"
+          ],
+          "work": "ΔI_b = ΔI_c/β = 9.8/49 = 0.2 mA."
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "An OR gate followed by a NOT gate forms a —",
+          "options": [
+            "NAND gate",
+            "NOR gate",
+            "AND gate",
+            "OR gate"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2023"
+          ]
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "A transistor cannot act as —",
+          "options": [
+            "an LED",
+            "an amplifier",
+            "an oscillator",
+            "a switch"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2018"
+          ]
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "A solar cell is operated —",
+          "options": [
+            "in forward bias",
+            "in reverse bias",
+            "in both",
+            "without any external bias"
+          ],
+          "answer": "D",
+          "fixed": true,
+          "years": [
+            "April 2018"
+          ]
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "Which semiconductor device works in forward bias?",
+          "options": [
+            "Zener diode",
+            "LED",
+            "Photodiode",
+            "Solar cell"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2017"
+          ]
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "The output of an AND gate for inputs A = 1, B = 0 is —",
+          "options": [
+            "0",
+            "1",
+            "undefined",
+            "2"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark (fill in the blanks, true/false, match or one word).",
+      "marks": "5 × 2 = 10",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "(a) A photodiode is operated in ______ bias. (b) A Zener diode is used as a ______.",
+          "answer": "(a) reverse\n(b) voltage regulator",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Match: (a) Use of a p-n junction diode — ? (b) Use of a transistor — ? [rectifier / oscillator / remote receiver / stabilizer]",
+          "answer": "(a) Rectifier.\n(b) Oscillator (or amplifier).",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "Complete the truth table of a NAND gate: (a) A = 0, B = 0 → Y = ? (b) A = 1, B = 1 → Y = ?",
+          "answer": "(a) 1\n(b) 0"
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Fill in the blanks: (a) β = ______ in terms of α. (b) The output of a CE amplifier is ______ out of phase with the input.",
+          "answer": "(a) α/(1 − α)\n(b) 180°"
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "State True or False: (a) A NOT gate has two inputs. (b) NAND and NOR are universal gates.",
+          "answer": "(a) False — it has one input.\n(b) True."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "6 × 2 = 12",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "Complete the truth table of an AND gate.",
+          "answer": "A B Y: 0 0 → 0; 0 1 → 0; 1 0 → 0; 1 1 → 1. (Y = A·B; the output is 1 only when both inputs are 1.)",
+          "years": [
+            "April 2026"
+          ],
+          "or": {
+            "q": "Complete the truth table of a NOR gate.",
+            "answer": "A B Y: 0 0 → 1; 0 1 → 0; 1 0 → 0; 1 1 → 0. (Y = NOT(A + B).)"
+          }
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "Draw the symbol and truth table of a NOT gate.",
+          "answer": "Symbol: a triangle with a small circle at the output. Truth table: A = 0 → Y = 1; A = 1 → Y = 0 (Y = Ā).",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "Name the gate formed when an AND gate is followed by a NOT gate, and complete its truth table.",
+          "answer": "A NAND gate. A B: 00 → Y' = 0, Y = 1; 01 → 0, 1; 10 → 0, 1; 11 → 1, 0.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "The output of a NAND gate is fed to a NOT gate. Name the resulting gate and write its truth table.",
+          "answer": "An AND gate (NOT of NAND = AND). A B Y: 00 → 0; 01 → 0; 10 → 0; 11 → 1.",
+          "years": [
+            "April 2023"
+          ]
+        },
+        {
+          "id": "3.5",
+          "type": "open",
+          "q": "Write the relation between β and α and show that as α approaches 1, β approaches infinity.",
+          "answer": "Iₑ = I_b + I_c. Dividing by I_c: 1/α = 1/β + 1 ⇒ β = α/(1 − α).\nAs α → 1, the denominator (1 − α) → 0, so β → ∞.",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "3.6",
+          "type": "open",
+          "q": "Draw a circuit diagram of a stabilized power supply showing a step-down transformer, a full-wave rectifier, a capacitor filter and a Zener diode.",
+          "answer": "AC mains → step-down transformer → full-wave rectifier (bridge of four diodes) → a capacitor across the output (filter) → a series resistor and a Zener diode in reverse bias across the load. The Zener keeps the load voltage constant.",
+          "years": [
+            "April 2025"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "3 × 3 = 9",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "What does the transistor code AC 125 signify? Name the three configurations of a transistor and draw an n-p-n transistor in CB configuration with biasing.",
+          "answer": "A — germanium material; C — audio-frequency (low-power) transistor; 125 — the serial number.\nConfigurations: common base, common emitter, common collector.\nCB (n-p-n): the base is common; the emitter–base junction is forward biased (emitter to −) and the collector–base junction reverse biased (collector to +).",
+          "years": [
+            "April 2022"
+          ]
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "Draw the circuit of a full-wave rectifier with a filter and show the input and output waveforms.",
+          "answer": "Centre-tap transformer with two diodes D₁ and D₂ to the load (or a bridge of four diodes), with a capacitor across the load.\nIn one half-cycle D₁ conducts; in the other D₂ conducts — current through the load is in the same direction both times.\nInput: a sine wave. Output without the filter: positive humps for every half-cycle. With the capacitor: a nearly steady dc with a small ripple.",
+          "years": [
+            "April 2022",
+            "October 2016"
+          ]
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "If the emitter and base of an n-p-n transistor had the same doping, how would the collector and base currents be affected?",
+          "answer": "Normally the emitter is heavily doped and the base lightly, so most electrons from the emitter cross the thin base to the collector.\nWith equal doping, many electrons recombine with holes in the base. So I_b increases, I_c decreases, and the current gain β falls — the transistor becomes a poor amplifier.",
+          "years": [
+            "October 2022"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Long answer questions. Answer in 80–120 words.",
+      "marks": "3 × 5 = 15",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "Draw the circuit of an n-p-n transistor as a common-emitter amplifier. Explain its working and define its voltage gain and power gain.",
+          "answer": "Circuit: the emitter is common; the base–emitter junction is forward biased by V_BB through the input signal, and the collector is reverse biased by V_CC through a load resistor R_L. The output is taken across R_L.\nWorking: a small change in base current ΔI_b (from the input signal) produces a large change ΔI_c = βΔI_b in the collector current, so the voltage across R_L changes greatly — the signal is amplified. When the input rises, I_c rises and V_CE falls, so the output is 180° out of phase.\nVoltage gain A_v = ΔV_out/ΔV_in = β R_L/R_i.\nPower gain = A_v × β = β² R_L/R_i.",
+          "years": [
+            "October 2022",
+            "April 2023",
+            "October 2018"
+          ]
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "Give the Boolean expression, logic symbol, truth table and an implementation circuit of a NOT gate.",
+          "answer": "Boolean expression: Y = Ā.\nSymbol: a triangle with a small bubble at the output.\nTruth table: A = 0 → Y = 1; A = 1 → Y = 0.\nImplementation: an n-p-n transistor switch in CE mode with the output taken from the collector. When A = 0 the transistor is cut off and the output is high (1); when A = 1 it is saturated and the output is near 0 V (0).",
+          "years": [
+            "April 2024"
+          ],
+          "or": {
+            "q": "What is a rectifier? Which property of a p-n junction suits it for rectification? Draw the circuit of a half-wave rectifier and its input and output. How are fluctuations removed?",
+            "answer": "A rectifier converts ac into dc. A p-n junction conducts only in forward bias (unidirectional conduction).\nHalf-wave rectifier: transformer secondary → diode → load resistor. In the positive half-cycle the diode conducts and current flows; in the negative half-cycle it is cut off.\nInput: a sine wave. Output: only the positive half-cycles (pulsating dc).\nFluctuations are removed by a filter — a capacitor across the load (or an LC or π filter)."
+          }
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "Explain how a transistor works as an oscillator. A parallel LC circuit has L = 1 mH and C = 0.1 µF. Calculate the frequency.",
+          "answer": "An oscillator is an amplifier with positive feedback. The LC tank in the collector circuit oscillates; part of its energy is fed back in phase to the base through a feedback coil (mutual induction), making up for losses so the oscillations are sustained. No input signal is needed.\nFrequency f = 1/2π√(LC) = 1/(2π√(1 × 10⁻³ × 0.1 × 10⁻⁶)) = 1/(2π × 10⁻⁵) ≈ 15.9 kHz.",
+          "years": [
+            "April 2018"
+          ]
+        }
+      ]
+    }
+  ]
+}

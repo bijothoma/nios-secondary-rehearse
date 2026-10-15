@@ -1,0 +1,249 @@
+{
+  "subject": "physics",
+  "lesson": 14,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 14: Wave Phenomena — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Waves"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "A wave is a disturbance that carries energy, not matter, from one place to another."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Transverse waves: particles vibrate perpendicular to the direction of travel, as in waves on a string, ripples on water and light. Longitudinal waves: particles vibrate along the direction of travel, forming compressions and rarefactions, as in sound. Sound is longitudinal, so it cannot be polarized."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Wave terms"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Wavelength λ, frequency ν, period T = 1/ν and speed v = νλ. When a wave enters a new medium its frequency stays the same, so λ changes in proportion to v: if the speed doubles, λ doubles."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Phase difference = (2π/λ) × path difference."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "A progressive wave is y = A sin(ωt − kx), with ω = 2πν and k = 2π/λ. Particle velocity ∂y/∂t = Aω cos(ωt − kx) leads the displacement by π/2; its maximum is Aω. Example: y = 3 sin(36t + 0.018x) has ω = 36 rad/s, so T ≈ 0.17 s, and k = 0.018 /m, so λ ≈ 349 m; it moves along −x."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Example: waves with crests 100 m apart moving at 25 m/s rock a boat every T = λ/v = 4 s."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Speed of waves"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "On a string: v = √(T/μ), where T is the tension and μ the mass per unit length."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Sound in a gas: Newton took v = √(P/ρ) (isothermal), which gives about 280 m/s, too low. Laplace corrected it because the compressions and rarefactions are so rapid that the process is adiabatic: v = √(γP/ρ) ≈ 332 m/s at 0 °C."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "The speed of sound is proportional to √T, rising by about 0.61 m/s per °C. It is unaffected by pressure at constant temperature, increases with humidity (moist air is less dense), and is greatest in solids, then liquids, then gases."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Superposition, beats and stationary waves"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Beats: two sounds of nearly equal frequencies ν₁ and ν₂ give ν₁ − ν₂ beats per second. Beats are used to find an unknown frequency; loading a fork with wax lowers its frequency."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Stationary waves form when two identical waves travel in opposite directions, y = 2A sin kx cos ωt. Nodes and antinodes are λ/2 apart, and a node is λ/4 from the next antinode. Stationary waves transfer no energy."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "A sonometer wire carries transverse stationary waves, and a resonance column carries longitudinal ones. Resonance is a case of forced vibration."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Organ pipes"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Open pipe: fundamental ν = v/2L, with all harmonics present."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Closed pipe: fundamental ν = v/4L, with only odd harmonics; the second harmonic is missing. For equal lengths, ν_open : ν_closed = 2 : 1, and pipes in unison need L_open = 2L_closed."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Overtones are the frequencies above the fundamental. In a closed pipe the first overtone is the 3rd harmonic, so all harmonics are overtones but not all overtones are harmonics."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Characteristics of musical sound"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Pitch depends on frequency, loudness on intensity (the square of the amplitude), and quality (timbre) on the overtones present. Pitch is a sensation and frequency a physical quantity; the same holds for loudness and intensity. An intensity ratio of 1 : 16 means an amplitude ratio of 1 : 4."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Doppler effect"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "The apparent frequency changes when the source or observer moves. For a source approaching a stationary observer, ν' = νv/(v − vₛ), and the wavelength becomes λ' = (v − vₛ)/ν. For a receding source, ν' = νv/(v + vₛ). Applications include radar, police speed guns, measuring stars' speeds (red shift) and SONAR, which uses ultrasonic waves."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Electromagnetic spectrum"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "In order of increasing frequency: radio waves, microwaves, infrared ('heat waves'), visible light, ultraviolet, X-rays and gamma rays. Gamma rays have wavelengths shorter than X-rays and are the most energetic."
+        ]
+      ]
+    }
+  ]
+}

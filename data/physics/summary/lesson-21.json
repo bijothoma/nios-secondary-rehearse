@@ -1,0 +1,204 @@
+{
+  "subject": "physics",
+  "lesson": 21,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 21: Dispersion and Scattering of Light — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Refraction through a prism"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "A ray passing through a prism of angle A is bent towards the base. The angles are related by r₁ + r₂ = A and the deviation δ = i + e − A."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "As the angle of incidence increases, δ first decreases, reaches a minimum D_m and then increases (a U-shaped δ–i graph). At minimum deviation i = e, r = A/2 and the ray inside travels parallel to the base, so D_m = 2i − A."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "μ = sin[(A + D_m)/2] / sin(A/2)."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Examples: A = 60° and D_m = 39° give μ = sin 49.5°/sin 30° = 0.760/0.5 = 1.52. If D_m = A, then μ = 2 cos(A/2); for μ = √3, A = 60°. A = 60° with minimum deviation at i = 52° gives D_m = 44°."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "A thin prism deviates light by δ = (μ − 1)A. For A = ½° and μ = 1.7, δ = 0.35°."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Prism in a liquid: use the relative refractive index μ_glass/μ_liquid, so the deviation becomes smaller."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Dispersion"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Dispersion is the splitting of white light into its colours (VIBGYOR), because μ depends on wavelength: μ is greatest for violet, which is deviated most, and least for red. A convex lens has a shorter focal length for violet or blue light, which therefore focuses nearest to it."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Angular dispersion θ = δ_v − δ_r = (μ_v − μ_r)A; it increases with the prism angle, so a larger-angled prism disperses more."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Dispersive power ω = (μ_v − μ_r)/(μ − 1) depends only on the material, not on the angle of the prism. Flint glass has a higher ω than crown glass, so it gives the broadest spectrum."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "A glass slab does not disperse white light: its faces are parallel, so the colours emerge parallel and overlap again."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Ordinary gases show almost no dispersion because their refractive index is nearly 1 for all colours."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Rainbow"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "A rainbow forms by dispersion together with refraction and total internal reflection in raindrops. The primary bow (one reflection, red outside) is narrower and brighter than the secondary (two reflections, colours reversed)."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Scattering"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Rayleigh's law: the intensity of scattered light I ∝ 1/λ⁴, so blue scatters much more than red, and green more than red."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "The sky looks blue because scattered blue light reaches us from all directions. The rising or setting sun looks red because light travels through more air and the blue is scattered out. From space or a satellite there is no air to scatter light, so the sky looks black."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Raman effect"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "When monochromatic light is scattered by molecules, the scattered light contains the original frequency (the Rayleigh line) plus weaker lines of changed frequency (Raman lines), discovered by C. V. Raman in 1928 (Nobel Prize, 1930)."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Stokes lines have a lower frequency (longer λ): the photon gives energy to the molecule. Anti-Stokes lines have a higher frequency: the photon takes energy from an already excited molecule. The shift equals the molecule's vibrational energy, so it is used to study molecular structure."
+        ]
+      ]
+    }
+  ]
+}

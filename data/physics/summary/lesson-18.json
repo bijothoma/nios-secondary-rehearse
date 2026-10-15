@@ -1,0 +1,231 @@
+{
+  "subject": "physics",
+  "lesson": 18,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 18: Magnetism and Magnetic Effect of Electric Current — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Earth's magnetism and magnetic materials"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "The earth behaves like a huge bar magnet. Angle of dip δ: tan δ = B_V/B_H. When the vertical and horizontal components are equal, δ = 45°; at the magnetic equator δ = 0°; at the poles δ = 90°."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Diamagnetic substances (copper, bismuth, water) are feebly magnetised opposite to the applied field. Paramagnetic substances (aluminium) are feebly magnetised along it. Ferromagnetic substances (iron, nickel, cobalt) are strongly magnetised along it."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Hysteresis is the lagging of magnetisation behind the magnetising field in ferromagnetic materials. Soft iron has a narrow hysteresis loop, so it is used for electromagnets and transformer cores."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Magnetic effect of current"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "A current produces a magnetic field (Oersted). A moving charge produces both an electric and a magnetic field, perpendicular to each other; a charge at rest produces only an electric field."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Biot–Savart law: dB = (μ₀/4π) I dl sin θ/r², with μ₀ = 4π × 10⁻⁷ T m/A."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Long straight wire: B = μ₀I/2πr, so B ∝ 1/r (a hyperbola on a graph). The field at a far point does not depend on the wire's thickness. Example: 3 A at 10 cm gives B = 2 × 10⁻⁷ × 3/0.1 = 6 × 10⁻⁶ T."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Centre of a circular coil of N turns: B = μ₀NI/2r. Long solenoid: B = μ₀nI. An electron orbiting at angular speed ω is a current I = eω/2π."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "An electromagnet is made stronger by more turns, more current and a soft-iron core."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Force on moving charges and currents"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Lorentz force: F = q(v × B). It is maximum (qvB) when v ⊥ B and zero when v ∥ B, and it is always perpendicular to both v and B. Since it is perpendicular to v it does no work, so the KE stays constant; a charge at rest feels no magnetic force. A charge entering perpendicular to B moves in a circle, r = mv/qB."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "An electric field, by contrast, can act on a charge at rest, accelerates it along the field and can change its KE."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Force on a conductor: F = BIl sin θ. Example: a 10 A line in a field of 10⁻⁴ T feels 10⁻³ N per metre."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Parallel conductors: F/l = μ₀I₁I₂/2πd. Currents in the same direction attract and opposite currents repel. Example: 5 m wires 30 cm apart with 10 A and 15 A feel F = 2 × 10⁻⁷ × 10 × 15 × 5/0.3 = 5 × 10⁻⁴ N, attractive."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "One ampere is the current that, flowing in two long parallel wires 1 m apart in vacuum, produces a force of 2 × 10⁻⁷ N per metre between them."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Coils of a spring carrying current have parallel currents, so they attract and the spring shortens."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Parallel beams of electrons and protons moving the same way attract, because the electrostatic attraction dominates."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Cyclotron"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "A cyclotron accelerates positive ions by an alternating field across the gap between two dees while a magnetic field bends them in semicircles. The frequency f = qB/2πm does not depend on speed."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Moving-coil galvanometer"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "A current-carrying coil in a radial field feels a torque NBIA, balanced by the spring's restoring torque kθ. So I = (k/NBA)θ ∝ θ."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "To make an ammeter, connect a low shunt in parallel: S = I_gG/(I − I_g). To make a voltmeter, connect a high resistance in series: R = V/I_g − G. A voltmeter has the highest resistance of these instruments."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Examples: G = 12 Ω and I_g = 2.5 mA need S ≈ 0.015 Ω for 0–2 A, and R = 3988 Ω for 0–10 V. A 10 mA meter of 1 Ω needs 999 Ω for 0–10 V."
+        ]
+      ]
+    }
+  ]
+}

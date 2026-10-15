@@ -1,0 +1,420 @@
+{
+  "subject": "physics",
+  "lesson": 11,
+  "title": "Thermodynamics",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "12 × 1 = 12",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "The internal energy of an ideal gas depends on —",
+          "options": [
+            "pressure",
+            "temperature",
+            "volume",
+            "size of molecules"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "110 J of heat is added to a gaseous system and its internal energy increases by 40 J. The work done is —",
+          "options": [
+            "150 J",
+            "70 J",
+            "110 J",
+            "40 J"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2026"
+          ],
+          "work": "First law: Q = ΔU + W ⇒ W = 110 − 40 = 70 J (done by the gas)."
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "Two bodies are in thermal equilibrium when they have the same —",
+          "options": [
+            "amount of heat",
+            "temperature",
+            "specific heat",
+            "pressure"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "Ideal engines A (source 600 K, sink 300 K) and B (source 400 K, sink 250 K) are compared. Then —",
+          "options": [
+            "A is more efficient than B",
+            "A is less efficient than B",
+            "both are equally efficient",
+            "data is insufficient"
+          ],
+          "answer": "A",
+          "fixed": true,
+          "years": [
+            "October 2025"
+          ],
+          "work": "ηA = 1 − 300/600 = 0.5 = 50%.\nηB = 1 − 250/400 = 0.375 = 37.5%.\nSo A is more efficient."
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "A Carnot engine works between the steam point and the ice point. Its efficiency is —",
+          "options": [
+            "24.9%",
+            "25.7%",
+            "26.8%",
+            "28.8%"
+          ],
+          "answer": "C",
+          "years": [
+            "October 2021",
+            "April 2025"
+          ],
+          "work": "η = 1 − T₂/T₁ = 1 − 273/373 = 100/373 ≈ 0.268 = 26.8%."
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "A Carnot engine exhausting heat to a sink at 27 °C has an efficiency of 25%. The source temperature is —",
+          "options": [
+            "300 K",
+            "400 K",
+            "450 K",
+            "375 K"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2016"
+          ],
+          "work": "η = 1 − T₂/T₁ ⇒ 0.25 = 1 − 300/T₁ ⇒ 300/T₁ = 0.75 ⇒ T₁ = 400 K (127 °C)."
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "If ΔW is the work done by a system and ΔU the rise in internal energy, which is correct?",
+          "options": [
+            "ΔU = ΔW in an isothermal process",
+            "ΔU = −ΔW in an adiabatic process",
+            "ΔU = ΔW in an adiabatic process",
+            "ΔU = −ΔW in an isothermal process"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2016"
+          ]
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "The law of thermodynamics that forbids converting 100% of heat into work is the —",
+          "options": [
+            "zeroth law",
+            "first law",
+            "second law",
+            "third law"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "The change in internal energy of an ideal gas compressed isothermally is —",
+          "options": [
+            "positive",
+            "negative",
+            "zero",
+            "equal to the work done"
+          ],
+          "answer": "C",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "The concept of temperature comes from the —",
+          "options": [
+            "zeroth law",
+            "first law",
+            "second law",
+            "third law"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "1 kilocalorie is approximately —",
+          "options": [
+            "4.2 J",
+            "418.6 J",
+            "4186 J",
+            "41860 J"
+          ],
+          "answer": "C",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "In an indicator diagram, the work done by a gas is given by —",
+          "options": [
+            "the slope of the P–V curve",
+            "the area under the P–V curve",
+            "the intercept on the P-axis",
+            "P × T"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2024",
+            "October 2018"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark (fill in the blanks, true/false, match or one word).",
+      "marks": "6 × 2 = 12",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "Fill in the blanks: (a) The ______ of a body determines the direction of flow of heat. (b) Heat is measured in ______.",
+          "answer": "(a) Temperature\n(b) joule",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Fill in the blanks: (a) The efficiency of a reversible heat engine does not depend on the nature of the ______. (b) 1 kilocalorie = ______ J.",
+          "answer": "(a) working substance\n(b) 4186 (≈ 4200)",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "Match: (a) Temperature — ? (b) Impossibility of heat flowing by itself from cold to hot — ? [zeroth law / first law / Clausius statement / Kelvin–Planck statement]",
+          "answer": "(a) Zeroth law.\n(b) Clausius statement of the second law.",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Match: (a) Conservation of energy — ? (b) No heat engine can be 100% efficient — ? [first law / zeroth law / Kelvin–Planck statement]",
+          "answer": "(a) First law.\n(b) Kelvin–Planck statement of the second law.",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "(a) Which law forbids the conversion of 100% heat into work? (b) With which form of energy is heat most closely associated?",
+          "answer": "(a) The second law of thermodynamics.\n(b) Kinetic energy (of the molecules).",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "Match: (a) Upper fixed point on the Kelvin scale — ? (b) Efficiency of an ideal engine between ice point and steam point — ? [triple point of water / 26.9% / 100%]",
+          "answer": "(a) Triple point of water (273.16 K, the fixed point of the Kelvin scale).\n(b) 26.9% (1 − 273/373).",
+          "years": [
+            "April 2025"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "7 × 2 = 14",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "Calculate the change in internal energy when (a) a system absorbs 2000 J of heat and does 500 J of work, (b) a system absorbs 1100 J of heat and 400 J of work is done on it.",
+          "answer": "ΔU = Q − W (W = work done by the system).\n(a) ΔU = 2000 − 500 = 1500 J.\n(b) W = −400 J, so ΔU = 1100 + 400 = 1500 J.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "Why can a Carnot engine never be 100% efficient?",
+          "answer": "η = 1 − T₂/T₁. For η = 1 the sink would have to be at T₂ = 0 K, which cannot be reached. Some heat must always be rejected to the sink (Kelvin–Planck statement).",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "Name the four strokes of the Carnot cycle in sequence.",
+          "answer": "(1) Isothermal expansion at T₁ (heat absorbed). (2) Adiabatic expansion (gas cools to T₂). (3) Isothermal compression at T₂ (heat rejected). (4) Adiabatic compression (back to T₁).",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "If the door of a working refrigerator is kept open in a closed room, will the room warm or cool? Explain.",
+          "answer": "It will warm. The refrigerator takes heat Q₂ from inside and rejects Q₁ = Q₂ + W into the room. With the door open both are in the same room, so the net heat added is W, the electrical energy used.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "3.5",
+          "type": "open",
+          "q": "A Carnot engine between an unknown temperature and the ice point has an efficiency of 75%. Find the unknown temperature.",
+          "answer": "η = 1 − T₂/T₁ ⇒ 0.75 = 1 − 273/T₁ ⇒ 273/T₁ = 0.25 ⇒ T₁ = 1092 K (819 °C).",
+          "years": [
+            "April 2023"
+          ]
+        },
+        {
+          "id": "3.6",
+          "type": "open",
+          "q": "What is an indicator diagram? Draw it for an isobaric process.",
+          "answer": "An indicator diagram is a P–V graph showing how the state of a gas changes; the area under it gives the work done. For an isobaric process it is a horizontal straight line at constant P from V₁ to V₂, and W = P(V₂ − V₁).",
+          "years": [
+            "October 2024",
+            "October 2021"
+          ]
+        },
+        {
+          "id": "3.7",
+          "type": "open",
+          "q": "An engine works between 2100 K and 700 K with an actual efficiency of 40%. What percentage of its maximum possible efficiency is this?",
+          "answer": "η_max = 1 − 700/2100 = 2/3 ≈ 66.7%.\nActual/maximum = 40/66.7 = 0.6 = 60%.",
+          "years": [
+            "October 2022"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "4 × 3 = 12",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "Distinguish between reversible and irreversible processes with an example of each.",
+          "answer": "Reversible: can be retraced in the opposite direction through the same states, leaving no change in the surroundings. It must be extremely slow and frictionless. Example: very slow isothermal compression of a gas.\nIrreversible: cannot be retraced exactly. Examples: heat flowing from hot to cold, friction producing heat, free expansion of a gas.\nAll natural processes are irreversible.",
+          "years": [
+            "April 2023",
+            "October 2016"
+          ]
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "State the first law of thermodynamics and its limitations.",
+          "answer": "First law: ΔQ = ΔU + ΔW — heat supplied raises the internal energy and does external work (conservation of energy).\nLimitations: it does not tell (i) the direction of heat flow, (ii) the conditions under which heat can be converted into work, or (iii) how much heat can be converted into work. The second law answers these.",
+          "years": [
+            "April 2018",
+            "April 2025"
+          ]
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "Explain why (a) there is no change in the internal energy of an ideal gas in an isothermal change and (b) an ideal gas cools during adiabatic expansion.",
+          "answer": "(a) The internal energy of an ideal gas depends only on temperature. In an isothermal change T is constant, so ΔU = 0 and all the heat supplied goes into work.\n(b) In an adiabatic process Q = 0, so ΔU = −W. During expansion the gas does positive work using its own internal energy, so U falls and the temperature drops.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "Calculate the efficiency of a Carnot engine working between 27 °C and 227 °C. If it absorbs 1000 J per cycle, how much work does it do?",
+          "answer": "T₁ = 500 K, T₂ = 300 K.\nη = 1 − 300/500 = 0.4 = 40%.\nW = ηQ₁ = 0.4 × 1000 = 400 J; heat rejected = 600 J.",
+          "years": [
+            "April 2018"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Long answer questions. Answer in 80–120 words.",
+      "marks": "3 × 5 = 15",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "Explain isothermal and adiabatic processes. Give the conditions for each, draw their indicator diagrams and give one example of each.",
+          "answer": "Isothermal: temperature stays constant. Conditions: the gas is in a thin, conducting container in contact with a large reservoir, and the change is slow. ΔU = 0, Q = W, PV = constant. On the P–V diagram it is a hyperbola. Example: slow compression of a gas in a metal cylinder; melting of ice at 0 °C.\nAdiabatic: no heat exchange (Q = 0). Conditions: the container is well insulated and the change is fast. ΔU = −W, PV^γ = constant. Its curve is steeper than the isothermal. Example: sudden bursting of a tyre (the air cools); compression stroke of a diesel engine.",
+          "years": [
+            "October 2022"
+          ]
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "Describe the construction and working of a Carnot engine. Derive or state its efficiency.",
+          "answer": "Construction: an ideal cylinder with frictionless, insulating walls and piston, a conducting base, and an ideal gas as working substance; a hot source at T₁, a cold sink at T₂ and an insulating stand.\nWorking (Carnot cycle):\n(1) On the source — isothermal expansion; absorbs Q₁.\n(2) On the stand — adiabatic expansion; cools from T₁ to T₂.\n(3) On the sink — isothermal compression; rejects Q₂.\n(4) On the stand — adiabatic compression; back to T₁.\nNet work W = Q₁ − Q₂ = area of the cycle on the P–V diagram.\nEfficiency η = 1 − Q₂/Q₁ = 1 − T₂/T₁. It is independent of the working substance and is the highest possible between T₁ and T₂.",
+          "years": [
+            "April 2022",
+            "April 2024"
+          ]
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "State the first law of thermodynamics and the Kelvin–Planck and Clausius statements of the second law. Give the importance of each law.",
+          "answer": "First law: ΔQ = ΔU + ΔW — conservation of energy for thermal processes. Importance: it relates heat, work and internal energy, and shows no machine can produce work without an energy input (no perpetual motion of the first kind).\nKelvin–Planck: no engine working in a cycle can convert all the heat absorbed into work.\nClausius: heat cannot flow by itself from a colder to a hotter body.\nImportance of the second law: it gives the direction of natural processes, shows that 100% efficiency is impossible, and is the basis of heat engines and refrigerators.",
+          "years": [
+            "October 2018",
+            "April 2024"
+          ]
+        }
+      ]
+    }
+  ]
+}

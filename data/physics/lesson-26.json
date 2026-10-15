@@ -1,0 +1,315 @@
+{
+  "subject": "physics",
+  "lesson": 26,
+  "title": "Nuclei and Radioactivity",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "11 × 1 = 11",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "Natural radioactivity was discovered by —",
+          "options": [
+            "Marie Curie",
+            "Lord Rutherford",
+            "Geiger and Marsden",
+            "Henri Becquerel"
+          ],
+          "answer": "D",
+          "years": [
+            "October 2018"
+          ]
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "The SI unit becquerel is the unit of —",
+          "options": [
+            "wavelength",
+            "frequency",
+            "activity of a radioactive material",
+            "disintegration constant"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2023"
+          ]
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "U-238 (92 protons) decays by emitting an α-particle and becomes —",
+          "options": [
+            "²³⁴₉₂U",
+            "²³⁴₉₀Th",
+            "²³⁵₉₂U",
+            "²³⁷₉₃Np"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2023"
+          ],
+          "work": "α-decay: A − 4 = 234, Z − 2 = 90 (thorium)."
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "The half-life of a radioactive element is 8 days. The time for its mass to reduce to 1/8 is —",
+          "options": [
+            "1 day",
+            "64 days",
+            "3 days",
+            "24 days"
+          ],
+          "answer": "D",
+          "years": [
+            "April 2022"
+          ],
+          "work": "1/8 = (1/2)³ ⇒ 3 half-lives = 3 × 8 = 24 days."
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "After four half-lives, the amount of a radioactive substance left from N₀ is —",
+          "options": [
+            "N₀/4",
+            "N₀/12",
+            "N₀/8",
+            "N₀/16"
+          ],
+          "answer": "D",
+          "years": [
+            "October 2022"
+          ],
+          "work": "N = N₀/2⁴ = N₀/16."
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "Equal numbers of nuclei of A (T½ = 20 min) and B (T½ = 40 min) are taken. After 80 min, N_A : N_B is —",
+          "options": [
+            "1 : 1",
+            "2 : 1",
+            "4 : 1",
+            "1 : 4"
+          ],
+          "answer": "D",
+          "years": [
+            "October 2024"
+          ],
+          "work": "A: 80/20 = 4 half-lives ⇒ N₀/16. B: 80/40 = 2 half-lives ⇒ N₀/4.\nRatio = (1/16) : (1/4) = 1 : 4."
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "The activity of a radioactive substance falls to 1/8 of its initial value in 30 years. Its half-life is —",
+          "options": [
+            "10 years",
+            "20 years",
+            "5 years",
+            "30 years"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2025"
+          ],
+          "work": "1/8 = (1/2)³ ⇒ 3 half-lives = 30 years ⇒ T½ = 10 years."
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "The number of neutrons in ²³⁸₉₂U is —",
+          "options": [
+            "92",
+            "238",
+            "146",
+            "330"
+          ],
+          "answer": "C",
+          "years": [
+            "January-February 2021"
+          ],
+          "work": "N = A − Z = 238 − 92 = 146."
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "Alpha decay results in —",
+          "options": [
+            "A falling by 2 and Z by 2",
+            "A falling by 4 and Z by 2",
+            "A rising by 2 and Z by 4",
+            "A rising by 4 and Z by 2"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2016"
+          ]
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "The numbers of electrons and neutrons in ¹⁸₈O are —",
+          "options": [
+            "8 and 18",
+            "8 and 10",
+            "10 and 8",
+            "10 and 18"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2017"
+          ]
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "Which radiation has the greatest penetrating power?",
+          "options": [
+            "α",
+            "β",
+            "γ",
+            "all equal"
+          ],
+          "answer": "C"
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark (fill in the blanks, true/false, match or one word).",
+      "marks": "5 × 2 = 10",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "State True or False: (a) The decay rate of a radioactive element increases with temperature. (b) With artificial radioactivity it is theoretically possible to convert iron into gold.",
+          "answer": "(a) False — decay is unaffected by temperature.\n(b) True.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Fill in the blanks: (a) ______ is an effective moderator used in nuclear reactors. (b) Temperature and pressure do not affect a radioactive substance's ______.",
+          "answer": "(a) Heavy water (or graphite)\n(b) rate of decay (half-life)",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "Fill in the blanks: (a) In chemical reactions the ______ is not affected. (b) The best projectile for triggering a nuclear reaction is the ______.",
+          "answer": "(a) nucleus\n(b) neutron",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Passage on conservation of energy: (a) The apparent breach of energy conservation was seen in ______ decay. (b) It led to the discovery of the ______.",
+          "answer": "(a) beta\n(b) neutrino",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "Complete: (a) Half-life T½ = ______/λ. (b) 1 u is equivalent to ______ MeV.",
+          "answer": "(a) 0.693\n(b) 931"
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "4 × 2 = 8",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "A radioactive substance decays to 1/32 of its activity in 25 days. Calculate its half-life.",
+          "answer": "1/32 = (1/2)⁵ ⇒ 5 half-lives in 25 days ⇒ T½ = 5 days.",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "Write two differences between α and β particles.",
+          "answer": "(1) α is a helium nucleus with charge +2e; β is an electron with charge −e.\n(2) α has greater ionizing power but much less penetrating power than β.",
+          "years": [
+            "April 2018"
+          ]
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "Calculate the energy equivalent to 1 atomic mass unit. (1 u = 1.66 × 10⁻²⁷ kg, c = 3 × 10⁸ m/s)",
+          "answer": "E = mc² = 1.66 × 10⁻²⁷ × (3 × 10⁸)² = 1.49 × 10⁻¹⁰ J ≈ 931 MeV.",
+          "years": [
+            "October 2018"
+          ]
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "Mention four characteristics of nuclear force.",
+          "answer": "(1) It is the strongest force in nature. (2) It is short-range (about 2–3 fm). (3) It is charge-independent (n–n, p–p, n–p alike). (4) It saturates — each nucleon attracts only its neighbours; it is attractive except at very short distances.",
+          "years": [
+            "October 2022"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "2 × 3 = 6",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "State the law of radioactive decay. Define half-life and decay constant and relate them. Draw the decay curve.",
+          "answer": "Law: the rate of decay is proportional to the number of undecayed nuclei, dN/dt = −λN, giving N = N₀e^(−λt).\nDecay constant λ: the fraction of nuclei decaying per unit time.\nHalf-life T½: the time for half the nuclei to decay. Setting N = N₀/2 gives T½ = ln 2/λ = 0.693/λ.\nCurve: N against t falls exponentially — N₀, N₀/2, N₀/4 … at equal intervals of T½.",
+          "years": [
+            "October 2016"
+          ]
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "Compare α, β and γ radiations.",
+          "answer": "Nature: α — helium nuclei (+2e); β — electrons (−e); γ — electromagnetic waves (no charge).\nIonizing power: α greatest, γ least.\nPenetrating power: α least (stopped by paper), β moderate (a few mm of aluminium), γ greatest (several cm of lead).\nEffect on the nucleus: α lowers A by 4 and Z by 2; β raises Z by 1; γ changes neither."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Long answer questions. Answer in 80–120 words.",
+      "marks": "1 × 5 = 5",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "What are mass defect and binding energy? Explain the main properties of the nuclear force.",
+          "answer": "Mass defect Δm = [Zm_p + (A − Z)m_n] − M_nucleus: the nucleus weighs less than its separate nucleons.\nBinding energy = Δm c² (931 MeV per u): the energy needed to break the nucleus into its nucleons. Binding energy per nucleon measures stability; it is highest (about 8.8 MeV) near iron.\nNuclear force: (1) strongest force known; (2) very short range; (3) charge-independent; (4) saturating; (5) attractive except at very small distances, where it is repulsive; (6) it is what holds protons together against their electrostatic repulsion."
+        }
+      ]
+    }
+  ]
+}

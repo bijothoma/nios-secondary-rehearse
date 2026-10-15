@@ -1,0 +1,57 @@
+{
+ "lesson": 26,
+ "title": "Nuclei and Radioactivity",
+ "module": 7,
+ "summary": [
+  "## The nucleus",
+  "A nucleus contains Z protons and N = A − Z neutrons. For example, O-18 has 8 protons (and 8 electrons) and 10 neutrons; U-238 has 92 protons and 146 neutrons.",
+  "Nuclear radius R = R₀A^⅓, with R₀ ≈ 1.2 fm, so all nuclei have roughly the same density.",
+  "Nuclear force: very strong, short-range (about 2–3 fm), charge-independent (it acts equally between n–n, p–p and n–p), attractive (repulsive at very short distances), saturating and non-central. It is the strongest force in nature; gravity is the weakest.",
+  "Mass defect and binding energy: Δm = [Zm_p + (A − Z)m_n] − M, and B.E. = Δm c². One atomic mass unit (1 u = 1.66 × 10⁻²⁷ kg) is equivalent to 931 MeV (1.49 × 10⁻¹⁰ J).",
+  "## Radioactivity",
+  "Radioactivity is the spontaneous emission of α, β or γ rays by unstable nuclei, discovered by Henri Becquerel in 1896. It is a nuclear process, so it is unaffected by temperature, pressure or chemical combination.",
+  "α-particle: a helium nucleus (+2e); it has the greatest ionizing power and the least penetration. β-particle: a fast electron (−e); intermediate on both counts. γ-rays: electromagnetic, uncharged; the most penetrating.",
+  "Displacement laws: α-decay lowers A by 4 and Z by 2 (U-238 → Th-234). β⁻-decay raises Z by 1 with A unchanged; the apparent breach of energy conservation in β-decay led Pauli to predict the neutrino. γ-decay changes neither A nor Z.",
+  "## Decay law",
+  "dN/dt = −λN, so N = N₀e^(−λt). Half-life T½ = 0.693/λ, and the mean life τ = 1/λ. The decay curve is exponential.",
+  "After n half-lives, N = N₀/2ⁿ: three half-lives leave ⅛ and four leave 1/16.",
+  "Examples: T½ = 8 days takes 24 days to fall to ⅛. Activity falling to ⅛ in 30 years means T½ = 10 years. Falling to 1/32 in 25 days means T½ = 5 days.",
+  "Activity A = λN is measured in becquerel (1 Bq = 1 decay/s); 1 curie = 3.7 × 10¹⁰ Bq.",
+  "## Artificial transmutation",
+  "Bombarding nuclei with particles (α, p, n) changes one element into another — in principle even iron into gold. Rutherford (1919): N-14 + α → O-17 + p. The neutron is the best projectile because it is uncharged and is not repelled by the nucleus.",
+  "Moderators such as heavy water or graphite slow down neutrons in a reactor."
+ ],
+ "mcq": [
+  ["Natural radioactivity was discovered by —", ["Marie Curie", "Lord Rutherford", "Geiger and Marsden", "Henri Becquerel"], "D", ["October 2018"]],
+  ["The SI unit becquerel is the unit of —", ["wavelength", "frequency", "activity of a radioactive material", "disintegration constant"], "C", ["April 2023"]],
+  ["U-238 (92 protons) decays by emitting an α-particle and becomes —", ["²³⁴₉₂U", "²³⁴₉₀Th", "²³⁵₉₂U", "²³⁷₉₃Np"], "B", ["April 2023"], {"work": "α-decay: A − 4 = 234, Z − 2 = 90 (thorium)."}],
+  ["The half-life of a radioactive element is 8 days. The time for its mass to reduce to 1/8 is —", ["1 day", "64 days", "3 days", "24 days"], "D", ["April 2022"], {"work": "1/8 = (1/2)³ ⇒ 3 half-lives = 3 × 8 = 24 days."}],
+  ["After four half-lives, the amount of a radioactive substance left from N₀ is —", ["N₀/4", "N₀/12", "N₀/8", "N₀/16"], "D", ["October 2022"], {"work": "N = N₀/2⁴ = N₀/16."}],
+  ["Equal numbers of nuclei of A (T½ = 20 min) and B (T½ = 40 min) are taken. After 80 min, N_A : N_B is —", ["1 : 1", "2 : 1", "4 : 1", "1 : 4"], "D", ["October 2024"], {"work": "A: 80/20 = 4 half-lives ⇒ N₀/16. B: 80/40 = 2 half-lives ⇒ N₀/4.\nRatio = (1/16) : (1/4) = 1 : 4."}],
+  ["The activity of a radioactive substance falls to 1/8 of its initial value in 30 years. Its half-life is —", ["10 years", "20 years", "5 years", "30 years"], "A", ["October 2025"], {"work": "1/8 = (1/2)³ ⇒ 3 half-lives = 30 years ⇒ T½ = 10 years."}],
+  ["The number of neutrons in ²³⁸₉₂U is —", ["92", "238", "146", "330"], "C", ["January-February 2021"], {"work": "N = A − Z = 238 − 92 = 146."}],
+  ["Alpha decay results in —", ["A falling by 2 and Z by 2", "A falling by 4 and Z by 2", "A rising by 2 and Z by 4", "A rising by 4 and Z by 2"], "B", ["October 2016"]],
+  ["The numbers of electrons and neutrons in ¹⁸₈O are —", ["8 and 18", "8 and 10", "10 and 8", "10 and 18"], "B", ["April 2017"]],
+  ["Which radiation has the greatest penetrating power?", ["α", "β", "γ", "all equal"], "C"]
+ ],
+ "objective": [
+  ["State True or False: (a) The decay rate of a radioactive element increases with temperature. (b) With artificial radioactivity it is theoretically possible to convert iron into gold.", "(a) False — decay is unaffected by temperature.\n(b) True.", ["April 2025"]],
+  ["Fill in the blanks: (a) ______ is an effective moderator used in nuclear reactors. (b) Temperature and pressure do not affect a radioactive substance's ______.", "(a) Heavy water (or graphite)\n(b) rate of decay (half-life)", ["October 2025"]],
+  ["Fill in the blanks: (a) In chemical reactions the ______ is not affected. (b) The best projectile for triggering a nuclear reaction is the ______.", "(a) nucleus\n(b) neutron", ["April 2024"]],
+  ["Passage on conservation of energy: (a) The apparent breach of energy conservation was seen in ______ decay. (b) It led to the discovery of the ______.", "(a) beta\n(b) neutrino", ["October 2024"]],
+  ["Complete: (a) Half-life T½ = ______/λ. (b) 1 u is equivalent to ______ MeV.", "(a) 0.693\n(b) 931"]
+ ],
+ "vsa": [
+  ["A radioactive substance decays to 1/32 of its activity in 25 days. Calculate its half-life.", "1/32 = (1/2)⁵ ⇒ 5 half-lives in 25 days ⇒ T½ = 5 days.", ["April 2024"]],
+  ["Write two differences between α and β particles.", "(1) α is a helium nucleus with charge +2e; β is an electron with charge −e.\n(2) α has greater ionizing power but much less penetrating power than β.", ["April 2018"]],
+  ["Calculate the energy equivalent to 1 atomic mass unit. (1 u = 1.66 × 10⁻²⁷ kg, c = 3 × 10⁸ m/s)", "E = mc² = 1.66 × 10⁻²⁷ × (3 × 10⁸)² = 1.49 × 10⁻¹⁰ J ≈ 931 MeV.", ["October 2018"]],
+  ["Mention four characteristics of nuclear force.", "(1) It is the strongest force in nature. (2) It is short-range (about 2–3 fm). (3) It is charge-independent (n–n, p–p, n–p alike). (4) It saturates — each nucleon attracts only its neighbours; it is attractive except at very short distances.", ["October 2022"]]
+ ],
+ "sa": [
+  ["State the law of radioactive decay. Define half-life and decay constant and relate them. Draw the decay curve.", "Law: the rate of decay is proportional to the number of undecayed nuclei, dN/dt = −λN, giving N = N₀e^(−λt).\nDecay constant λ: the fraction of nuclei decaying per unit time.\nHalf-life T½: the time for half the nuclei to decay. Setting N = N₀/2 gives T½ = ln 2/λ = 0.693/λ.\nCurve: N against t falls exponentially — N₀, N₀/2, N₀/4 … at equal intervals of T½.", ["October 2016"]],
+  ["Compare α, β and γ radiations.", "Nature: α — helium nuclei (+2e); β — electrons (−e); γ — electromagnetic waves (no charge).\nIonizing power: α greatest, γ least.\nPenetrating power: α least (stopped by paper), β moderate (a few mm of aluminium), γ greatest (several cm of lead).\nEffect on the nucleus: α lowers A by 4 and Z by 2; β raises Z by 1; γ changes neither."]
+ ],
+ "la": [
+  ["What are mass defect and binding energy? Explain the main properties of the nuclear force.", "Mass defect Δm = [Zm_p + (A − Z)m_n] − M_nucleus: the nucleus weighs less than its separate nucleons.\nBinding energy = Δm c² (931 MeV per u): the energy needed to break the nucleus into its nucleons. Binding energy per nucleon measures stability; it is highest (about 8.8 MeV) near iron.\nNuclear force: (1) strongest force known; (2) very short range; (3) charge-independent; (4) saturating; (5) attractive except at very small distances, where it is repulsive; (6) it is what holds protons together against their electrostatic repulsion."]
+ ]
+}

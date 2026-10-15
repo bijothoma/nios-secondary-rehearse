@@ -1,0 +1,150 @@
+{
+  "subject": "physics",
+  "lesson": 27,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 27: Nuclear Fission and Fusion — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Nuclear reactions"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "In a nuclear reaction the nuclei of reactants interact to form new nuclei. Charge, nucleon number, momentum and mass-energy are all conserved. Reactions can be triggered by protons, deuterons, neutrons and other light nuclei."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Example: ²⁷Al + ⁴He → ³⁰Si + ¹H, where the emitted particle is a proton."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Reactions can release energy (exothermic) or absorb it (endothermic). The Q-value = (mass of reactants − mass of products) × c²."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "The neutron is the best projectile because, being neutral, it is not repelled by the nucleus."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Nuclear fission"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "A heavy nucleus splits into two medium nuclei with the release of energy and 2–3 neutrons. For example: ²³⁵U + n → ¹⁴¹Ba + ⁹²Kr + 3n + about 200 MeV."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Energy is released because the products have a higher binding energy per nucleon, so there is a loss of mass (E = Δm c²)."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "U-235 undergoes fission with slow (thermal) neutrons of about 0.025 eV, less than 0.1 eV. Fissile materials are U-235 and Pu-239."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Chain reaction and nuclear reactor"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "The neutrons released can cause further fissions — a chain reaction. Uncontrolled, it gives an atom bomb; controlled, it runs a nuclear reactor."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Reactor parts: fuel (U-235 or Pu-239); a moderator (heavy water or graphite) that slows neutrons; control rods (cadmium or boron) that absorb extra neutrons to control the rate; a coolant (water, heavy water or liquid sodium) that removes heat to produce steam; and shielding."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Nuclear fusion"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Light nuclei fuse into a heavier nucleus with release of energy, e.g. four protons → helium + 2 positrons + about 26.7 MeV. Fusion needs a temperature of about 10⁷ K (thermonuclear), and is the source of the energy of the sun and stars."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Fusion releases more energy per unit mass of fuel than fission and leaves less radioactive waste, but it is hard to control. It is the principle of the hydrogen bomb."
+        ]
+      ]
+    }
+  ]
+}

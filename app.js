@@ -5,6 +5,7 @@ var scoreEl = document.getElementById('score');
 var LETTERS = 'ABCDEFGH';
 
 var subjects = [];
+var levels = [];
 var score = { right: 0, done: 0, total: 0 };
 
 // ---------- helpers ----------
@@ -97,18 +98,43 @@ function updateScore() {
 
 // ---------- pages ----------
 
+// A subject without a level belongs to Secondary.
+function levelOf(s) {
+  return find(levels, function (lv) { return lv.id === (s.level || 'secondary'); }) || levels[0];
+}
+
 function renderHome() {
   setHidden(scoreEl, true);
   setChildren(app,
-    el('h1', {}, 'Choose a subject'),
+    el('h1', {}, 'Choose a course'),
     el('div', { 'class': 'tiles' },
-      subjects.map(function (s) {
-        return el('a', { 'class': 'tile', href: '#/' + s.id },
-          el('strong', {}, s.label || s.name),
-          el('span', {}, s.label ? s.name + ' · ' : '', lessonCount(s))
+      levels.map(function (lv) {
+        var n = subjects.filter(function (s) { return levelOf(s) === lv; }).length;
+        return el('a', { 'class': 'tile', href: '#/' + lv.id },
+          el('strong', {}, lv.name),
+          el('span', {}, lv.label + ' · ' + (n ? n + ' subject' + (n > 1 ? 's' : '') : 'Coming soon'))
         );
       })
     )
+  );
+}
+
+function renderLevel(level) {
+  setHidden(scoreEl, true);
+  var list = subjects.filter(function (s) { return levelOf(s) === level; });
+  setChildren(app,
+    el('div', { 'class': 'crumbs' }, el('a', { href: '#/' }, '« Courses')),
+    el('h1', {}, level.name + ' (' + level.label + ')'),
+    list.length === 0
+      ? el('p', { 'class': 'muted' }, 'No subjects added yet.')
+      : el('div', { 'class': 'tiles' },
+          list.map(function (s) {
+            return el('a', { 'class': 'tile', href: '#/' + s.id },
+              el('strong', {}, s.label || s.name),
+              el('span', {}, s.label ? s.name + ' · ' : '', lessonCount(s))
+            );
+          })
+        )
   );
 }
 
@@ -123,7 +149,7 @@ function lessonCount(s) {
 function renderSubject(subject) {
   setHidden(scoreEl, true);
   setChildren(app,
-    el('div', { 'class': 'crumbs' }, el('a', { href: '#/' }, '« Subjects')),
+    el('div', { 'class': 'crumbs' }, el('a', { href: '#/' + levelOf(subject).id }, '« ' + levelOf(subject).name)),
     el('h1', {}, subject.label || subject.name),
     subject.lessons.length === 0
       ? el('p', { 'class': 'muted' }, 'No lessons added yet.')
@@ -393,12 +419,14 @@ function renderOpen(num, q) {
 
 function route() {
   var parts = location.hash.replace(/^#\/?/, '').split('/').filter(Boolean);
+  var level = find(levels, function (lv) { return lv.id === parts[0]; });
   var subject = find(subjects, function (s) { return s.id === parts[0]; });
   var lesson = subject && parts[1]
     ? find(subject.lessons, function (l) { return String(l.no) === parts[1]; })
     : null;
   var view = parts[2];
-  if (!subject) renderHome();
+  if (level) renderLevel(level);
+  else if (!subject) renderHome();
   else if (!lesson) renderSubject(subject);
   // Lessons with a text file get a menu; the views scroll once loaded.
   else if (lesson.text && view === 'text') return renderText(subject, lesson, 'text', false);
@@ -422,6 +450,7 @@ function addLocalTexts(local) {
 
 loadJSON('data/subjects.json', function (data) {
   subjects = data.subjects;
+  levels = data.levels || [{ id: 'secondary', name: 'Secondary', label: '10th' }];
   var start = function () {
     window.addEventListener('hashchange', route, false);
     route();

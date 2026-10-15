@@ -1,0 +1,231 @@
+{
+  "subject": "physics",
+  "lesson": 17,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 17: Electric Current — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Current and drift velocity"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Electric current is the rate of flow of charge, I = q/t, measured in amperes."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Free electrons in a conductor move randomly with thermal speeds, so with no p.d. there is no net current and no magnetic effect. When a field is applied they acquire a small drift velocity v_d = eEτ/m, where τ is the relaxation time. The current is I = neAv_d."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Ohm's law and resistance"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Ohm's law: V = IR at constant temperature."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Resistance R = ρl/A depends on four things: length, area of cross-section, material (resistivity ρ) and temperature. Resistivity is a property of the material alone, so a wire of length 2l and area 2A has the same ρ. A wire is least resistive when it is short and thick."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Temperature: a conductor's resistance rises as R_t = R₀(1 + αt). A semiconductor's or insulator's resistivity falls as temperature rises. Example: 50 Ω at 20 °C and 50.5 Ω at 120 °C gives α = 0.5/(50 × 100) = 10⁻⁴ per °C."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Combinations"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Series: R = R₁ + R₂ + … (the maximum resistance). Parallel: 1/R = 1/R₁ + 1/R₂ + … For n equal resistors, R_s/R_p = n²."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Household appliances are connected in parallel, so each gets the full mains voltage and can be switched independently."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Example: 10 Ω in series with (3 Ω ∥ 6 Ω = 2 Ω) gives 12 Ω, so on 12 V the current is 1 A."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Power and energy"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "P = VI = I²R = V²/R. A 40 W, 220 V lamp has R = V²/P = 1210 Ω and I = P/V ≈ 0.18 A. A 100 W bulb on 220 V draws 5/11 A, and a 220 V, 660 W heater draws 3 A with R ≈ 73.3 Ω."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "EMF and internal resistance"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "A cell's emf E is the work done per unit charge. Its terminal voltage while delivering current is V = E − Ir. Example: 9 V at 1 A and 6 V at 2 A gives r = 3 Ω and E = 12 V."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Kirchhoff's laws"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Junction rule: ΣI = 0 at a junction (conservation of charge). Loop rule: ΣE = ΣIR around any closed loop (conservation of energy)."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Wheatstone bridge and metre bridge"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "A Wheatstone bridge is balanced when P/Q = R/S; then no current flows through the galvanometer arm, which can be ignored."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "A metre bridge is a practical Wheatstone bridge: R/S = l/(100 − l). With 5 Ω and 15 Ω, the balance point is at l = 25 cm."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Potentiometer"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Principle: for a uniform wire carrying a steady current, the p.d. across a length is proportional to that length, V ∝ l. At balance it draws no current from the cell, so it measures emf accurately, unlike a voltmeter."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "To compare two emfs: E₁/E₂ = l₁/l₂. Using the sum and difference connections, (E₁ + E₂)/(E₁ − E₂) = l₁/l₂."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "An ideal ammeter has zero resistance and an ideal voltmeter infinite resistance."
+        ]
+      ]
+    }
+  ]
+}

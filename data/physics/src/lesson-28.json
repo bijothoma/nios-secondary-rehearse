@@ -1,0 +1,63 @@
+{
+ "lesson": 28,
+ "title": "Semiconductors and Semiconducting Devices",
+ "module": 8,
+ "summary": [
+  "## Energy bands",
+  "In a solid, the energy levels of the atoms spread into bands. The valence band is the highest filled band; the conduction band is the one above it. The energy gap E_g lies between them.",
+  "Conductors have overlapping bands (no gap). Insulators have a large gap (about 6 eV or more, e.g. diamond). Semiconductors have a small gap: Si about 1.1 eV and Ge about 0.7 eV.",
+  "At 0 K a pure semiconductor such as germanium behaves as an insulator. As temperature rises, more electrons cross the gap, so its conductivity increases and its resistivity decreases exponentially — the opposite of a metal.",
+  "## Intrinsic and extrinsic semiconductors",
+  "An intrinsic (pure) semiconductor has equal numbers of electrons and holes (nₑ = n_h).",
+  "An extrinsic semiconductor is doped to raise its conductivity. n-type: a pentavalent impurity (group 15: P, As, Sb), called a donor, makes electrons the majority carriers. p-type: a trivalent impurity (group 13: B, Al, Ga, In), called an acceptor, makes holes the majority carriers. Each type remains electrically neutral.",
+  "## p-n junction",
+  "When p- and n-regions are joined, electrons and holes diffuse across and recombine. This leaves a thin depletion region near the junction with no free carriers, which has high resistance, and a potential barrier of about 0.7 V (Si) or 0.3 V (Ge).",
+  "Forward bias (p to +, n to −): the barrier is lowered and the depletion layer narrows. Current rises sharply beyond the knee voltage of about 0.7 V for Si and 0.3 V for Ge, and the resistance is low.",
+  "Reverse bias: the depletion layer widens and only a tiny reverse saturation current flows, until breakdown occurs.",
+  "So a p-n junction conducts in one direction only (its unidirectional property), which makes it useful as a rectifier.",
+  "On a diode, the end marked with a band is the cathode (n-side). Identifying the ends matters because a wrongly connected diode blocks the current.",
+  "## Special diodes",
+  "Zener diode: a heavily doped junction designed to work in the reverse breakdown region, where the voltage stays constant; it is used as a voltage regulator.",
+  "Photodiode: worked in reverse bias; light produces electron–hole pairs and the reverse current increases.",
+  "LED: forward biased; it emits light as electrons and holes recombine.",
+  "Solar cell: needs no external bias; light generates an emf, and its I–V curve lies in the fourth quadrant.",
+  "## Transistor",
+  "A transistor has three regions: emitter (most heavily doped), base (thin and lightly doped) and collector (largest). It may be n-p-n or p-n-p. In the symbol, the arrow on the emitter shows the direction of conventional current: outward for n-p-n, inward for p-n-p.",
+  "In normal use the emitter–base junction is forward biased and the collector–base junction reverse biased, with Iₑ = I_b + I_c."
+ ],
+ "mcq": [
+  ["The electrical conductivity of a semiconductor —", ["decreases with rise in temperature", "increases with rise in temperature", "does not change with temperature", "first increases then decreases"], "B", ["April 2026"]],
+  ["At 0 K, germanium behaves as —", ["a conductor", "an intrinsic semiconductor", "an insulator", "an extrinsic semiconductor"], "C", ["April 2017"]],
+  ["The resistivity of a semiconductor with rise in temperature —", ["decreases exponentially", "increases exponentially", "decreases linearly", "increases linearly"], "A", ["October 2018"]],
+  ["An n-type semiconductor is obtained by doping with —", ["a trivalent impurity only", "a tetravalent impurity only", "a pentavalent impurity only", "either trivalent or pentavalent"], "C", ["October 2018"]],
+  ["A p-type semiconductor is obtained by doping pure silicon with atoms of —", ["group 13 (3rd group)", "group 14 (4th group)", "group 15 (5th group)", "group 16 (6th group)"], "A", ["January-February 2021"]],
+  ["The depletion layer of a p-n junction has high resistance because it contains —", ["no charge carriers", "many charge carriers", "only electrons", "only holes"], "A", ["April 2022"]],
+  ["A Zener diode is —", ["always operated in forward bias", "a lightly doped p-n junction", "a moderately doped p-n junction", "a heavily doped p-n junction"], "D", ["October 2016"]],
+  ["Which statement is NOT true?", ["The resistance of an intrinsic semiconductor falls with rise in temperature", "A p-n junction can act as a diode", "Doping silicon with a trivalent impurity gives an n-type semiconductor", "Doping raises conductivity"], "C", ["October 2016"]],
+  ["In a transistor, the number density of dopants is —", ["minimum in the emitter", "maximum in the emitter", "minimum in the collector", "maximum in the base"], "B", ["October 2025"]],
+  ["When a p-n junction is reverse biased, the depletion layer —", ["narrows", "widens", "disappears", "is unchanged"], "B", ["October 2025"]]
+ ],
+ "objective": [
+  ["Fill in the blanks: (a) The resistance of a semiconductor ______ with increase in temperature. (b) The numbers of holes and free electrons are equal in an ______ semiconductor.", "(a) decreases\n(b) intrinsic", ["October 2025"]],
+  ["Fill in the blanks: (a) A ______ is a specially doped p-n junction that works in the breakdown region. (b) The width of the depletion layer ______ when the junction is reverse biased.", "(a) Zener diode\n(b) increases", ["October 2025"]],
+  ["(a) When a p-n junction is forward biased, the depletion width ______. (b) A Zener diode is used as a ______.", "(a) decreases\n(b) voltage regulator", ["April 2026"]],
+  ["(a) A photodiode is operated in ______ bias. (b) The narrow region near the junction that lacks mobile charges is the ______ region.", "(a) reverse\n(b) depletion", ["April 2026", "October 2024"]],
+  ["Fill in the blanks: (a) The knee voltage of a silicon diode is about ______. (b) A forward-biased p-n junction offers ______ resistance.", "(a) 0.7 V (Ge about 0.3 V)\n(b) low", ["April 2018", "October 2024"]]
+ ],
+ "vsa": [
+  ["Write two differences between intrinsic and extrinsic semiconductors.", "(1) Intrinsic is pure; extrinsic is doped with a trivalent or pentavalent impurity.\n(2) In intrinsic nₑ = n_h and conductivity is low; in extrinsic one carrier is in the majority and conductivity is much higher.", ["April 2018", "October 2021"]],
+  ["What is meant by the unidirectional (rectifying) property of a p-n junction? Give one application.", "It conducts easily in forward bias but hardly at all in reverse bias, so current flows in one direction only. Application: a rectifier converting ac to dc.", ["April 2017"]],
+  ["Name a diode used in reverse bias and state its use.", "A Zener diode (in reverse breakdown), used as a voltage regulator. (A photodiode is also used in reverse bias, to detect light.)", ["April 2025"], {"or": ["Looking at a p-n junction diode, how do you identify its p and n ends? Why is it required?", "The end marked with a band (or the bar in the symbol) is the cathode, i.e. the n-side; the other is the p-side (anode). A diode conducts only when p is at the higher potential, so it must be connected the right way round in a circuit."]}],
+  ["How is the conductivity of a semiconductor affected by a rise in temperature? Explain.", "It increases. More electrons gain enough energy to jump from the valence band to the conduction band, creating more free electrons and holes.", ["January-February 2021"]],
+  ["Draw the symbols of n-p-n and p-n-p transistors.", "Both have emitter, base and collector. n-p-n: the arrow on the emitter points outward (away from the base). p-n-p: the arrow points inward (towards the base). The arrow shows the conventional current in the emitter.", ["October 2024", "April 2024"], {"or": ["Draw energy band diagrams of a semiconductor and an insulator, showing the gap.", "Semiconductor: valence band and conduction band separated by a small gap (about 1 eV — Si 1.1 eV, Ge 0.7 eV). Insulator: a large gap (more than about 3–6 eV, e.g. diamond about 6 eV), so electrons cannot cross."]}]
+ ],
+ "sa": [
+  ["Define forward bias and reverse bias. Plot the variation of current with applied voltage for a p-n junction.", "Forward bias: p-side to the positive and n-side to the negative terminal; the barrier is lowered and current flows easily.\nReverse bias: p-side to negative and n-side to positive; the barrier is raised and only a tiny current flows.\nGraph: in forward bias the current is almost zero up to the knee voltage (Si about 0.7 V), then rises steeply. In reverse bias a small, nearly constant reverse current flows (µA) until breakdown, when it rises suddenly.", ["April 2026", "April 2025"]],
+  ["Germanium doped with indium (X) and germanium doped with arsenic (Y) are joined and connected to a variable battery. (a) Name the types of X and Y. (b) Is the junction forward or reverse biased? (c) Sketch the V–I graph.", "(a) Indium is trivalent, so X is p-type; arsenic is pentavalent, so Y is n-type.\n(b) If the positive terminal is connected to X (p) it is forward biased; if to Y (n), reverse biased.\n(c) Forward: current rises sharply after about 0.3 V (Ge). Reverse: only a tiny current until breakdown.", ["October 2025"]],
+  ["Explain how an intrinsic semiconductor is converted into (i) n-type and (ii) p-type, with examples and energy band diagrams.", "(i) n-type: dope Si/Ge with a pentavalent atom (P, As, Sb). Four electrons bond and the fifth is nearly free. A donor level just below the conduction band supplies electrons, which are the majority carriers.\n(ii) p-type: dope with a trivalent atom (B, Al, Ga, In). One bond is incomplete, creating a hole. An acceptor level just above the valence band takes electrons, leaving holes as the majority carriers.", ["January-February 2021"]]
+ ],
+ "la": [
+  ["Explain with circuit diagrams how a p-n junction diode works in (i) forward and (ii) reverse bias, and draw its V–I characteristics.", "Formation: diffusion of electrons and holes across the junction leaves a depletion layer with a barrier potential (Si about 0.7 V).\n(i) Forward bias (p to +): the applied voltage opposes the barrier, the depletion layer narrows, majority carriers cross, and a large current flows after the knee voltage. Circuit: battery, diode, milliammeter, voltmeter and rheostat.\n(ii) Reverse bias (p to −): the barrier rises and the depletion layer widens; only minority carriers give a tiny reverse current (µA), until breakdown. Circuit: battery reversed, with a microammeter.\nCharacteristic: a steep rise in the first quadrant after the knee; a small nearly flat current in the third quadrant, then a sudden rise at breakdown.", ["April 2023", "April 2025"]],
+  ["Classify solids as conductors, semiconductors and insulators on the basis of energy bands. Give two differences between intrinsic and extrinsic semiconductors.", "Conductors: the valence and conduction bands overlap, so many free electrons conduct even at low temperature.\nSemiconductors: a small gap (about 1 eV); at room temperature some electrons cross, giving moderate conductivity that rises with temperature.\nInsulators: a wide gap (more than 3 eV); practically no electrons cross, so there is no conduction.\nIntrinsic vs extrinsic: (1) pure vs doped; (2) nₑ = n_h vs a majority carrier (electrons in n-type, holes in p-type); conductivity is low vs high.", ["October 2021"], {"or": ["Explain the formation of a p-n junction. Draw a diagram and define the depletion region and barrier potential.", "When p- and n-type materials are joined, holes diffuse from p to n and electrons from n to p, where they recombine. This leaves immobile negative acceptor ions on the p-side and positive donor ions on the n-side near the junction.\nThis thin region, empty of free carriers, is the depletion region. The ions set up an electric field and a potential difference, the barrier potential (about 0.7 V for Si, 0.3 V for Ge), which stops further diffusion."]}]
+ ]
+}

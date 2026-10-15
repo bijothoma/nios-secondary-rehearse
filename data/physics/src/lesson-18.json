@@ -1,0 +1,68 @@
+{
+ "lesson": 18,
+ "title": "Magnetism and Magnetic Effect of Electric Current",
+ "module": 5,
+ "summary": [
+  "## Earth's magnetism and magnetic materials",
+  "The earth behaves like a huge bar magnet. Angle of dip δ: tan δ = B_V/B_H. When the vertical and horizontal components are equal, δ = 45°; at the magnetic equator δ = 0°; at the poles δ = 90°.",
+  "Diamagnetic substances (copper, bismuth, water) are feebly magnetised opposite to the applied field. Paramagnetic substances (aluminium) are feebly magnetised along it. Ferromagnetic substances (iron, nickel, cobalt) are strongly magnetised along it.",
+  "Hysteresis is the lagging of magnetisation behind the magnetising field in ferromagnetic materials. Soft iron has a narrow hysteresis loop, so it is used for electromagnets and transformer cores.",
+  "## Magnetic effect of current",
+  "A current produces a magnetic field (Oersted). A moving charge produces both an electric and a magnetic field, perpendicular to each other; a charge at rest produces only an electric field.",
+  "Biot–Savart law: dB = (μ₀/4π) I dl sin θ/r², with μ₀ = 4π × 10⁻⁷ T m/A.",
+  "Long straight wire: B = μ₀I/2πr, so B ∝ 1/r (a hyperbola on a graph). The field at a far point does not depend on the wire's thickness. Example: 3 A at 10 cm gives B = 2 × 10⁻⁷ × 3/0.1 = 6 × 10⁻⁶ T.",
+  "Centre of a circular coil of N turns: B = μ₀NI/2r. Long solenoid: B = μ₀nI. An electron orbiting at angular speed ω is a current I = eω/2π.",
+  "An electromagnet is made stronger by more turns, more current and a soft-iron core.",
+  "## Force on moving charges and currents",
+  "Lorentz force: F = q(v × B). It is maximum (qvB) when v ⊥ B and zero when v ∥ B, and it is always perpendicular to both v and B. Since it is perpendicular to v it does no work, so the KE stays constant; a charge at rest feels no magnetic force. A charge entering perpendicular to B moves in a circle, r = mv/qB.",
+  "An electric field, by contrast, can act on a charge at rest, accelerates it along the field and can change its KE.",
+  "Force on a conductor: F = BIl sin θ. Example: a 10 A line in a field of 10⁻⁴ T feels 10⁻³ N per metre.",
+  "Parallel conductors: F/l = μ₀I₁I₂/2πd. Currents in the same direction attract and opposite currents repel. Example: 5 m wires 30 cm apart with 10 A and 15 A feel F = 2 × 10⁻⁷ × 10 × 15 × 5/0.3 = 5 × 10⁻⁴ N, attractive.",
+  "One ampere is the current that, flowing in two long parallel wires 1 m apart in vacuum, produces a force of 2 × 10⁻⁷ N per metre between them.",
+  "Coils of a spring carrying current have parallel currents, so they attract and the spring shortens.",
+  "Parallel beams of electrons and protons moving the same way attract, because the electrostatic attraction dominates.",
+  "## Cyclotron",
+  "A cyclotron accelerates positive ions by an alternating field across the gap between two dees while a magnetic field bends them in semicircles. The frequency f = qB/2πm does not depend on speed.",
+  "## Moving-coil galvanometer",
+  "A current-carrying coil in a radial field feels a torque NBIA, balanced by the spring's restoring torque kθ. So I = (k/NBA)θ ∝ θ.",
+  "To make an ammeter, connect a low shunt in parallel: S = I_gG/(I − I_g). To make a voltmeter, connect a high resistance in series: R = V/I_g − G. A voltmeter has the highest resistance of these instruments.",
+  "Examples: G = 12 Ω and I_g = 2.5 mA need S ≈ 0.015 Ω for 0–2 A, and R = 3988 Ω for 0–10 V. A 10 mA meter of 1 Ω needs 999 Ω for 0–10 V."
+ ],
+ "mcq": [
+  ["Two parallel streams, one of electrons and one of protons, move in the same direction. They —", ["attract each other", "repel each other", "do not interact", "neither attract nor repel"], "A", ["April 2026"]],
+  ["A wire of diameter 0.5 mm carrying 1 A is replaced by a 1 mm wire carrying the same current. The magnetic field at a far point is —", ["twice", "half", "a quarter", "the same as before"], "D", ["October 2025"], {"work": "B = μ₀I/2πr depends on the current and the distance, not on the wire's thickness."}],
+  ["A 0–10 mA meter of resistance 1 Ω is to be used as a 0–10 V voltmeter. The series resistance needed is —", ["9 Ω", "999 Ω", "99 Ω", "1000 Ω"], "B", ["October 2025"], {"work": "Total resistance = V/I_g = 10/0.01 = 1000 Ω.\nSeries R = 1000 − 1 = 999 Ω."}],
+  ["A 10 A ammeter has resistance 0.09 Ω. The shunt that makes it read up to 100 A is —", ["0.001 Ω", "0.1 Ω", "0.01 Ω", "0.9 Ω"], "C", ["April 2023"], {"work": "I_gG = (I − I_g)S ⇒ 10 × 0.09 = 90 × S ⇒ S = 0.01 Ω."}],
+  ["Which of these has the maximum resistance?", ["Galvanometer", "Milliammeter", "Ammeter", "Voltmeter"], "D", ["April 2022"]],
+  ["A charged particle moving in a magnetic field experiences a force —", ["along B", "opposite to B", "perpendicular to its velocity only", "perpendicular to both B and its velocity"], "D", ["October 2022"]],
+  ["A straight power line along east–west carries 10 A where the earth's field is 10⁻⁴ T (perpendicular). The force per metre is —", ["10⁻⁵ N", "10⁻³ N", "10⁻⁴ N", "10 N"], "B", ["October 2024"], {"work": "F/l = BI = 10⁻⁴ × 10 = 10⁻³ N/m."}],
+  ["The magnetic field B of an infinitely long straight current varies with distance r as —", ["B ∝ r", "B ∝ 1/r", "B ∝ 1/r²", "B independent of r"], "B", ["April 2018"]],
+  ["The angle of dip at the magnetic equator is —", ["0°", "45°", "60°", "90°"], "A", ["October 2025"]],
+  ["The work done by a magnetic field on a moving charge is —", ["qvB", "maximum when v ⊥ B", "zero", "negative"], "C", ["January-February 2021"]],
+  ["Soft iron is used for electromagnet cores because it has —", ["high retentivity", "a narrow hysteresis loop", "low permeability", "high resistance"], "B"]
+ ],
+ "objective": [
+  ["Fill in the blanks: (a) The angle of dip where the horizontal and vertical components of the earth's field are equal is ______. (b) ______ substances are feebly magnetised opposite to the field.", "(a) 45°\n(b) Diamagnetic", ["October 2025"]],
+  ["Fill in the blanks: (a) The angle of dip at the magnetic equator is ______. (b) The lagging of magnetisation behind the magnetising field is called ______.", "(a) 0°\n(b) hysteresis", ["October 2025"]],
+  ["State True or False: (a) Two parallel wires with currents in the same direction repel. (b) A charge at rest in a magnetic field feels no force.", "(a) False — they attract.\n(b) True (F = qv × B = 0 for v = 0)."],
+  ["Complete: a galvanometer of 12 Ω gives full deflection at 2.5 mA. (a) Shunt for 0–2 A ≈ ______. (b) Series resistance for 0–10 V = ______.", "(a) S = I_gG/(I − I_g) = 0.0025 × 12/1.9975 ≈ 0.015 Ω.\n(b) R = V/I_g − G = 10/0.0025 − 12 = 3988 Ω.", ["April 2025"]],
+  ["Give one word: (a) The device that accelerates ions using a magnetic field and an alternating field. (b) The material used for electromagnet cores.", "(a) Cyclotron.\n(b) Soft iron."]
+ ],
+ "vsa": [
+  ["A long straight wire carries 3 A. Calculate the magnetic field at a point 10 cm away.", "B = μ₀I/2πr = (4π × 10⁻⁷ × 3)/(2π × 0.1) = 6 × 10⁻⁶ T.", ["April 2024"]],
+  ["Write the vector expression for the force on a charge q moving with velocity v in a field B. When is it maximum and when minimum?", "F = q(v × B), magnitude qvB sin θ.\nMaximum (qvB) when v ⊥ B (θ = 90°); zero when v ∥ B (θ = 0° or 180°).", ["October 2016"]],
+  ["Give two differences between the way electric and magnetic fields deflect a moving charged particle.", "(1) An electric force acts along E even on a charge at rest; a magnetic force acts only on a moving charge, perpendicular to v and B.\n(2) An electric field can change the particle's speed (KE); a magnetic force does no work, so the speed stays constant and the path becomes circular.", ["October 2024"], {"or": ["A body hangs from a vertical spring. How does its position change when a current is passed through the spring?", "Adjacent turns carry current in the same direction, so they attract each other. The spring contracts and the body rises."]}],
+  ["Mention two ways of increasing the strength of an electromagnet.", "(1) Increase the number of turns. (2) Increase the current. (Using a soft-iron core also helps.)", ["April 2017"]],
+  ["Name the two fields produced around a moving charge. Are they in the same direction?", "An electric field and a magnetic field. No — the magnetic field is perpendicular to the electric field (it circles round the line of motion).", ["October 2018"]]
+ ],
+ "sa": [
+  ["An electron revolves in a circular orbit of radius 2 × 10⁻¹⁰ m with angular speed 10¹⁵ rad/s. Find the magnetic field at the centre of the orbit.", "Equivalent current I = e/T = eω/2π = 1.6 × 10⁻¹⁹ × 10¹⁵/(2π) ≈ 2.55 × 10⁻⁵ A.\nB = μ₀I/2r = 4π × 10⁻⁷ × 2.55 × 10⁻⁵/(2 × 2 × 10⁻¹⁰) ≈ 0.08 T.", ["October 2018"]],
+  ["(i) Can a stationary charge be moved by (a) an electric field and (b) a magnetic field? (ii) Why can an electric field change a charged particle's kinetic energy while a magnetic field cannot?", "(i)(a) Yes — F = qE acts on a charge at rest. (b) No — F = qvB is zero when v = 0.\n(ii) The electric force has a component along the motion, so it does work and changes KE. The magnetic force is always perpendicular to v, so it does no work and the speed (KE) stays the same; only the direction changes.", ["January-February 2021"]],
+  ["Explain the principle, construction and working of a moving-coil galvanometer.", "Principle: a current-carrying coil in a magnetic field feels a torque.\nConstruction: a rectangular coil on a soft-iron core between concave poles (radial field), suspended by a phosphor-bronze strip or springs, with a pointer and scale.\nWorking: the deflecting torque NBIA is balanced by the restoring torque kθ, so I = (k/NBA)θ ∝ θ. The scale is linear.", ["April 2017"], {"or": ["Explain the principle and working of a cyclotron.", "Principle: a charge moving perpendicular to B moves in a circle, with period T = 2πm/qB independent of speed.\nTwo hollow dees between magnet poles have an alternating voltage of frequency f = qB/2πm across the gap. Ions accelerate across the gap each half-cycle and move in larger semicircles inside the dees, gaining energy each time until they emerge at high speed."]}]
+ ],
+ "la": [
+  ["Explain why two parallel current-carrying conductors interact. Two 5 m wires 30 cm apart carry 10 A and 15 A in the same direction. Find the force and state whether it tends to increase or decrease the separation.", "Each wire lies in the magnetic field of the other (B = μ₀I/2πd) and so experiences a force BIl. For currents in the same direction the force is attractive; for opposite currents, repulsive. F/l = μ₀I₁I₂/2πd.\nF = 2 × 10⁻⁷ × 10 × 15 × 5/0.3 = 5 × 10⁻⁴ N.\nIt is attractive, so it tends to decrease the separation.", ["April 2025", "October 2025"], {"or": ["A galvanometer of coil resistance 12 Ω gives full-scale deflection at 2.5 mA. How will you convert it into (a) an ammeter of 0–2 A and (b) a voltmeter of 0–10 V?", "(a) Connect a low shunt S in parallel: I_gG = (I − I_g)S ⇒ S = 0.0025 × 12/(2 − 0.0025) ≈ 0.015 Ω.\n(b) Connect a high resistance R in series: V = I_g(G + R) ⇒ R = 10/0.0025 − 12 = 4000 − 12 = 3988 Ω."]}],
+  ["State the Biot–Savart law and use it to find the field at the centre of a circular loop. Find the field at the centre of a 50-turn coil of radius 0.08 m carrying 0.8 A.", "Biot–Savart: dB = (μ₀/4π) I dl sin θ/r².\nAt the centre of a loop every element is at distance r with θ = 90°, and all contributions are along the axis: B = (μ₀/4π)(I/r²) ∫dl = (μ₀/4π)(I/r²)(2πr) = μ₀I/2r. For N turns: B = μ₀NI/2r.\nB = 4π × 10⁻⁷ × 50 × 0.8/(2 × 0.08) = π × 10⁻⁴ ≈ 3.14 × 10⁻⁴ T.", ["April 2023"]],
+  ["Show that the current through a galvanometer is proportional to its deflection. Explain how it is converted into an ammeter and a voltmeter, with diagrams.", "In a radial field the plane of the coil is always parallel to B, so the torque is NBIA for every position. At equilibrium NBIA = kθ ⇒ I = (k/NBA)θ, so I ∝ θ.\nAmmeter: a small shunt S = I_gG/(I − I_g) in parallel carries most of the current, giving a low total resistance.\nVoltmeter: a large resistance R = V/I_g − G in series, giving a high total resistance so it draws little current.", ["October 2025", "April 2026"]]
+ ]
+}

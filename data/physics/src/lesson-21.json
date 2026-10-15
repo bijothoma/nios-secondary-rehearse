@@ -1,0 +1,66 @@
+{
+ "lesson": 21,
+ "title": "Dispersion and Scattering of Light",
+ "module": 6,
+ "summary": [
+  "## Refraction through a prism",
+  "A ray passing through a prism of angle A is bent towards the base. The angles are related by r₁ + r₂ = A and the deviation δ = i + e − A.",
+  "As the angle of incidence increases, δ first decreases, reaches a minimum D_m and then increases (a U-shaped δ–i graph). At minimum deviation i = e, r = A/2 and the ray inside travels parallel to the base, so D_m = 2i − A.",
+  "μ = sin[(A + D_m)/2] / sin(A/2).",
+  "Examples: A = 60° and D_m = 39° give μ = sin 49.5°/sin 30° = 0.760/0.5 = 1.52. If D_m = A, then μ = 2 cos(A/2); for μ = √3, A = 60°. A = 60° with minimum deviation at i = 52° gives D_m = 44°.",
+  "A thin prism deviates light by δ = (μ − 1)A. For A = ½° and μ = 1.7, δ = 0.35°.",
+  "Prism in a liquid: use the relative refractive index μ_glass/μ_liquid, so the deviation becomes smaller.",
+  "## Dispersion",
+  "Dispersion is the splitting of white light into its colours (VIBGYOR), because μ depends on wavelength: μ is greatest for violet, which is deviated most, and least for red. A convex lens has a shorter focal length for violet or blue light, which therefore focuses nearest to it.",
+  "Angular dispersion θ = δ_v − δ_r = (μ_v − μ_r)A; it increases with the prism angle, so a larger-angled prism disperses more.",
+  "Dispersive power ω = (μ_v − μ_r)/(μ − 1) depends only on the material, not on the angle of the prism. Flint glass has a higher ω than crown glass, so it gives the broadest spectrum.",
+  "A glass slab does not disperse white light: its faces are parallel, so the colours emerge parallel and overlap again.",
+  "Ordinary gases show almost no dispersion because their refractive index is nearly 1 for all colours.",
+  "## Rainbow",
+  "A rainbow forms by dispersion together with refraction and total internal reflection in raindrops. The primary bow (one reflection, red outside) is narrower and brighter than the secondary (two reflections, colours reversed).",
+  "## Scattering",
+  "Rayleigh's law: the intensity of scattered light I ∝ 1/λ⁴, so blue scatters much more than red, and green more than red.",
+  "The sky looks blue because scattered blue light reaches us from all directions. The rising or setting sun looks red because light travels through more air and the blue is scattered out. From space or a satellite there is no air to scatter light, so the sky looks black.",
+  "## Raman effect",
+  "When monochromatic light is scattered by molecules, the scattered light contains the original frequency (the Rayleigh line) plus weaker lines of changed frequency (Raman lines), discovered by C. V. Raman in 1928 (Nobel Prize, 1930).",
+  "Stokes lines have a lower frequency (longer λ): the photon gives energy to the molecule. Anti-Stokes lines have a higher frequency: the photon takes energy from an already excited molecule. The shift equals the molecule's vibrational energy, so it is used to study molecular structure."
+ ],
+ "mcq": [
+  ["A coloured image of an object is formed by a convex lens. The colour nearest the optical centre of the lens is —", ["violet", "green", "yellow", "red"], "A", ["April 2025"]],
+  ["If identical prisms are made of different types of glass, the broadest spectrum is formed by —", ["soda glass", "crown glass", "flint glass", "quartz glass"], "C", ["April 2025"]],
+  ["Which colour suffers the maximum deviation in a prism?", ["Orange", "Green", "Yellow", "Blue"], "D", ["October 2022"]],
+  ["The blue colour of the sky is due to —", ["scattering", "dispersion", "interference", "diffraction"], "A", ["October 2022", "January-February 2021"]],
+  ["A rainbow after rain is formed by —", ["interference", "diffraction", "polarization", "dispersion"], "D", ["April 2024"]],
+  ["Light of which colour is scattered the most?", ["Blue", "Yellow", "Green", "Red"], "A", ["October 2018"]],
+  ["A prism of angle 60° shows minimum deviation at an angle of incidence of 52°. The angle of minimum deviation is —", ["30°", "52°", "18°", "44°"], "D", ["October 2018"], {"work": "At minimum deviation i = e, so D_m = 2i − A = 2 × 52 − 60 = 44°."}],
+  ["A parallel beam of white light falls on a convex lens. Which colour converges nearest to its optical centre?", ["Blue", "Green", "Yellow", "Red"], "A", ["October 2024"]],
+  ["According to Rayleigh, the intensity of scattered light is proportional to —", ["λ", "λ²", "1/λ²", "1/λ⁴"], "D", ["October 2025"]],
+  ["A thin prism of angle ½° has μ = 1.7. The deviation it produces is —", ["0.35°", "0.85°", "1.2°", "0.5°"], "A", ["April 2018"], {"work": "δ = (μ − 1)A = 0.7 × 0.5 = 0.35°."}],
+  ["Dispersive power of a prism depends on —", ["the angle of the prism only", "the material of the prism only", "both angle and material", "the angle of incidence"], "B", ["October 2025"]]
+ ],
+ "objective": [
+  ["Fill in the blanks: (a) The dispersive power of a prism ______ on the angle of the prism. (b) By Rayleigh's law the intensity of scattered light is inversely proportional to the fourth power of its ______.", "(a) does not depend\n(b) wavelength", ["October 2025"]],
+  ["Match: (a) Formation of rainbow — ? (b) Blue colour of sky — ? [interference / diffraction / scattering / dispersion]", "(a) Dispersion.\n(b) Scattering.", ["April 2025"]],
+  ["State True or False: (a) Angular dispersion for two colours is independent of the angle of the prism. (b) The angular width of the primary rainbow is more than that of the secondary.", "(a) False — angular dispersion (μ_v − μ_r)A grows with A.\n(b) False — the primary bow is narrower.", ["April 2024"]],
+  ["State True or False: (a) The phenomenon that shows light is transverse is diffraction. (b) When the sky is seen from a satellite it looks black.", "(a) False — it is polarization.\n(b) True — there is no air to scatter light.", ["October 2025"]],
+  ["Complete: a 60° prism has D_m = 30°. (a) (A + D_m)/2 = ______. (b) μ = ______.", "(a) 45°.\n(b) μ = sin 45°/sin 30° = 0.707/0.5 = √2 ≈ 1.41.", ["October 2025"]]
+ ],
+ "vsa": [
+  ["What are anti-Stokes lines?", "In the Raman spectrum, anti-Stokes lines are scattered lines of higher frequency (shorter wavelength) than the incident light. The photon gains energy from a molecule already in an excited vibrational state.", ["April 2026"], {"or": ["What is dispersion of light? Would you prefer a small-angled or a large-angled prism to produce dispersion?", "Dispersion is the splitting of white light into its colours because μ varies with wavelength. A large-angled prism, since angular dispersion (μ_v − μ_r)A increases with the angle A."]}],
+  ["The angle of minimum deviation of a 60° glass prism is 39°. Calculate its refractive index. (sin 49.5° = 0.760)", "μ = sin[(A + D_m)/2]/sin(A/2) = sin 49.5°/sin 30° = 0.760/0.5 = 1.52.", ["April 2026"]],
+  ["For a glass prism of μ = √3, the angle of minimum deviation equals the angle of the prism. Find the angle of the prism.", "μ = sin A/sin(A/2) = 2 cos(A/2) = √3 ⇒ cos(A/2) = √3/2 ⇒ A/2 = 30° ⇒ A = 60°.", ["October 2025"]],
+  ["Why do most ordinary gases not show dispersion of white light?", "Their refractive index is very close to 1 and almost the same for all colours, so the colours are hardly separated.", ["April 2022"]],
+  ["Which of red and green light scatters more, and why?", "Green, because scattering ∝ 1/λ⁴ and green has the shorter wavelength.", ["October 2018"]],
+  ["Name two phenomena based on scattering of light.", "(1) The blue colour of the sky. (2) The red colour of the sun at sunrise and sunset. (Also the white colour of clouds.)", ["April 2024"], {"or": ["State the Raman effect.", "When monochromatic light is scattered by molecules, the scattered light contains, besides the original frequency, weaker lines of slightly lower and higher frequencies (Stokes and anti-Stokes lines)."]}]
+ ],
+ "sa": [
+  ["What is the Raman effect? How is the Raman spectrum produced? Explain Stokes and anti-Stokes lines.", "Raman effect: when monochromatic light is scattered by a transparent substance, the scattered light contains the incident frequency ν plus new weaker frequencies ν ± Δν.\nPhotons collide inelastically with molecules. A photon giving energy to a molecule leaves with lower frequency — a Stokes line (ν − Δν). A photon taking energy from an excited molecule leaves with higher frequency — an anti-Stokes line (ν + Δν), weaker because few molecules are excited.\nΔν matches the molecule's vibrational energy levels.", ["April 2025", "October 2024"]],
+  ["A glass prism of angle 60° and μ = 1.5 is immersed in water (μ = 1.33). Find the angle of minimum deviation. (sin⁻¹ 0.56 = 34.3°)", "Relative index μ' = 1.5/1.33 ≈ 1.128.\nsin[(A + D_m)/2] = μ' sin(A/2) = 1.128 × 0.5 = 0.564 ≈ 0.56.\n(A + D_m)/2 = 34.3° ⇒ A + D_m = 68.6° ⇒ D_m ≈ 8.6°.\nThe deviation in water is much less than in air (about 37°).", ["October 2024"]],
+  ["Explain why (i) the sky appears blue from the earth and dark from space and (ii) the sun appears red at sunrise.", "(i) Air molecules scatter sunlight with I ∝ 1/λ⁴, so blue is scattered most and reaches our eyes from all parts of the sky. In space there is no atmosphere to scatter light, so the sky looks dark.\n(ii) At sunrise sunlight crosses a long path through the air. Most blue light is scattered away, and the remaining light reaching us is reddish.", ["October 2022", "April 2017"]],
+  ["Write the expression for dispersive power. How does the width of a spectrum depend on (i) dispersive power and (ii) the angle of the prism? Why is flint glass preferred?", "ω = (μ_v − μ_r)/(μ − 1); angular dispersion θ = ωδ = (μ_v − μ_r)A.\n(i) The width of the spectrum increases with ω.\n(ii) It increases with the prism angle A.\nFlint glass has a higher dispersive power than crown glass, so it gives a wider spectrum.", ["January-February 2021"]]
+ ],
+ "la": [
+  ["Define the angle of minimum deviation. Draw the graph between the angle of deviation and the angle of incidence. A 60° prism has minimum deviation A/2; find μ. Derive μ = sin[(A + D_m)/2]/sin(A/2).", "The angle of minimum deviation is the smallest deviation produced by a prism, when the ray passes through symmetrically (i = e, ray parallel to the base).\nGraph: δ falls as i increases, reaches D_m, then rises (U-shaped curve).\nDerivation: r₁ + r₂ = A and δ = i + e − A. At minimum deviation r₁ = r₂ = A/2 and i = e = (A + D_m)/2. Snell's law gives μ = sin i/sin r = sin[(A + D_m)/2]/sin(A/2).\nFor A = 60°, D_m = 30°: μ = sin 45°/sin 30° = √2 ≈ 1.41.", ["October 2025", "October 2022", "April 2017"]],
+  ["A ray of white light splits into its colours on passing through a glass prism but not through a glass slab. Explain with diagrams.", "In a prism the two refracting faces are inclined. Each colour has a different μ, so it is deviated by a different amount and the colours spread out — violet most, red least — forming a spectrum.\nIn a slab the faces are parallel. Each colour is bent at the first face and bent back equally at the second, so all colours emerge parallel to the incident ray, only slightly displaced. They overlap again and the light looks white.", ["April 2022"]]
+ ]
+}

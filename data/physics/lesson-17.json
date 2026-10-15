@@ -1,0 +1,359 @@
+{
+  "subject": "physics",
+  "lesson": 17,
+  "title": "Electric Current",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "11 × 1 = 11",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "The device used for accurately measuring the emf of a primary cell is —",
+          "options": [
+            "galvanometer",
+            "ammeter",
+            "voltmeter",
+            "potentiometer"
+          ],
+          "answer": "D",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "n equal resistances are connected first in series and then in parallel. The ratio R_s/R_p is —",
+          "options": [
+            "1 : n",
+            "n : 1",
+            "1 : n²",
+            "n² : 1"
+          ],
+          "answer": "D",
+          "years": [
+            "April 2025"
+          ],
+          "work": "R_s = nR; R_p = R/n.\nR_s/R_p = nR ÷ (R/n) = n²."
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "5 Ω is in the left gap and 15 Ω in the right gap of a metre bridge. The null point from the left end is at —",
+          "options": [
+            "75 cm",
+            "60 cm",
+            "25 cm",
+            "15 cm"
+          ],
+          "answer": "C",
+          "years": [
+            "October 2024"
+          ],
+          "work": "5/15 = l/(100 − l) ⇒ 500 − 5l = 15l ⇒ 20l = 500 ⇒ l = 25 cm."
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "A 100 W bulb is connected to a 220 V supply. The current through it is —",
+          "options": [
+            "5/11 A",
+            "10/11 A",
+            "11/5 A",
+            "11/10 A"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2024"
+          ],
+          "work": "I = P/V = 100/220 = 5/11 A ≈ 0.45 A."
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "The resistances of an ideal voltmeter and an ideal ammeter are respectively —",
+          "options": [
+            "zero and infinite",
+            "infinite and infinite",
+            "infinite and zero",
+            "zero and zero"
+          ],
+          "answer": "C",
+          "years": [
+            "October 2016"
+          ]
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "The specific resistance (resistivity) of a conductor decreases with —",
+          "options": [
+            "decrease in cross-section",
+            "increase in cross-section",
+            "decrease in temperature",
+            "increase in temperature"
+          ],
+          "answer": "C",
+          "years": [
+            "October 2016"
+          ]
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "On increasing temperature, the resistivity of —",
+          "options": [
+            "a conductor decreases but an insulator increases",
+            "a conductor increases but an insulator decreases",
+            "both increase",
+            "both decrease"
+          ],
+          "answer": "B",
+          "fixed": true,
+          "years": [
+            "April 2022"
+          ]
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "To get the maximum resistance from three resistors, they should be connected —",
+          "options": [
+            "all in series",
+            "all in parallel",
+            "two in series, one parallel",
+            "two in parallel, one series"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "A wire of length L and diameter D has the least resistance when its length and diameter are —",
+          "options": [
+            "L and D",
+            "2L and 2D",
+            "2L and D",
+            "L and 2D"
+          ],
+          "answer": "D",
+          "years": [
+            "April 2024"
+          ],
+          "work": "R = ρL/A, A ∝ D². Doubling D makes A four times, so L and 2D gives R/4 — the smallest."
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "The resistivity of a wire of length l and area A is 2 × 10⁻⁸ Ω m. A wire of the same metal of length 2l and area 2A has resistivity —",
+          "options": [
+            "1 × 10⁻⁸ Ω m",
+            "2 × 10⁻⁸ Ω m",
+            "4 × 10⁻⁸ Ω m",
+            "8 × 10⁻⁸ Ω m"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2026"
+          ],
+          "work": "Resistivity depends only on the material and temperature, not on the dimensions."
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "The terminal voltage of a cell of emf E and internal resistance r delivering current I is —",
+          "options": [
+            "E + Ir",
+            "E − Ir",
+            "E",
+            "Ir"
+          ],
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark (fill in the blanks, true/false, match or one word).",
+      "marks": "5 × 2 = 10",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "Fill in the blanks: (a) At balance, a Wheatstone bridge satisfies P/Q = ______. (b) At balance, the current through the galvanometer is ______.",
+          "answer": "(a) R/S\n(b) zero"
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Match: (a) Resistors r, r in parallel — ? (b) Balanced Wheatstone bridge — ? [series combination / parallel combination / balanced Wheatstone bridge]",
+          "answer": "(a) Parallel combination.\n(b) Balanced Wheatstone bridge (the middle arm carries no current).",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "Complete: a lamp is rated 40 W, 220 V. (a) Its resistance = ______. (b) Its safe current = ______.",
+          "answer": "(a) R = V²/P = 220²/40 = 1210 Ω.\n(b) I = P/V = 40/220 ≈ 0.18 A.",
+          "years": [
+            "April 2023"
+          ]
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "State True or False: (a) Household appliances are connected in series. (b) A potentiometer draws no current from the cell at balance.",
+          "answer": "(a) False — they are in parallel.\n(b) True."
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "Fill in the blanks: (a) Kirchhoff's junction rule is based on conservation of ______. (b) The loop rule is based on conservation of ______.",
+          "answer": "(a) charge\n(b) energy"
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "5 × 2 = 10",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "The resistivity of a wire of length l and area A is 2 × 10⁻⁸ Ω m. What is the resistivity of a wire of the same metal of length 2l and area 2A?",
+          "answer": "It is unchanged, 2 × 10⁻⁸ Ω m. Resistivity is a property of the material (and temperature), not of its dimensions. (Its resistance R = ρl/A is also unchanged here.)",
+          "years": [
+            "April 2026"
+          ],
+          "or": {
+            "q": "8 V across a wire 3 cm long, area 2 cm², gives 0.15 A. Find its resistance and resistivity.",
+            "answer": "R = V/I = 8/0.15 ≈ 53.3 Ω.\nρ = RA/l = 53.3 × 2 × 10⁻⁴/0.03 ≈ 0.36 Ω m."
+          }
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "A heating element is marked 220 V, 660 W. Calculate (i) the current and (ii) the resistance.",
+          "answer": "(i) I = P/V = 660/220 = 3 A.\n(ii) R = V/I = 220/3 ≈ 73.3 Ω.",
+          "years": [
+            "January-February 2021"
+          ]
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "Name four factors on which the resistance of a conductor depends.",
+          "answer": "Length (R ∝ l), area of cross-section (R ∝ 1/A), nature of the material (resistivity ρ) and temperature.",
+          "years": [
+            "October 2024"
+          ],
+          "or": {
+            "q": "Are household appliances connected in series or in parallel? Why?",
+            "answer": "In parallel, so each gets the full mains voltage, each can be switched on or off independently, and a fault in one does not cut off the others."
+          }
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "Why do free electrons in a conductor not produce magnetism when there is no p.d.?",
+          "answer": "Their thermal motion is random in all directions, so the average (drift) velocity is zero. There is no net current, and hence no net magnetic field.",
+          "years": [
+            "April 2018"
+          ]
+        },
+        {
+          "id": "3.5",
+          "type": "open",
+          "q": "How does a potentiometer compare the emfs of two cells using sum and difference connections?",
+          "answer": "Balance the cells aiding each other (E₁ + E₂ at length l₁) and opposing (E₁ − E₂ at length l₂).\n(E₁ + E₂)/(E₁ − E₂) = l₁/l₂ ⇒ E₁/E₂ = (l₁ + l₂)/(l₁ − l₂).",
+          "years": [
+            "October 2016"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "3 × 3 = 9",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "For the circuit with 10 Ω in series with 3 Ω and 6 Ω in parallel, across 12 V, find the equivalent resistance and the current.",
+          "answer": "3 Ω ∥ 6 Ω = 3 × 6/(3 + 6) = 2 Ω.\nTotal R = 10 + 2 = 12 Ω.\nI = V/R = 12/12 = 1 A (it divides as 2/3 A through 3 Ω and 1/3 A through 6 Ω).",
+          "years": [
+            "April 2026"
+          ],
+          "or": {
+            "q": "A Wheatstone bridge with all arms r = 1 Ω is balanced and connected to 5 V. Find (a) the equivalent resistance and (b) the current in the arms.",
+            "answer": "Balanced ⇒ the middle arm carries no current and can be removed.\nTwo paths of r + r = 2 Ω each, in parallel ⇒ R = 1 Ω.\nTotal current = 5/1 = 5 A, so 2.5 A in each path (AB and DC)."
+          }
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "When a battery delivers 1 A its terminal p.d. is 9 V, and at 2 A it is 6 V. Find its internal resistance and emf.",
+          "answer": "V = E − Ir.\n9 = E − r and 6 = E − 2r.\nSubtracting: r = 3 Ω; E = 9 + 3 = 12 V.",
+          "years": [
+            "April 2022"
+          ],
+          "or": {
+            "q": "A wire has resistance 50 Ω at 20 °C and 50.5 Ω at 120 °C. Find the temperature coefficient of resistance.",
+            "answer": "α = (R₂ − R₁)/(R₁ × Δt) = (50.5 − 50)/(50 × 100) = 0.5/5000 = 1 × 10⁻⁴ per °C."
+          }
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "Derive an expression for the drift velocity of conduction electrons and relate it to current.",
+          "answer": "In a field E an electron feels force eE and acceleration a = eE/m. Between collisions (average time τ) it gains velocity aτ, so v_d = eEτ/m.\nIn time t, the electrons in length v_d t pass a cross-section: charge = neAv_d t.\nSo I = neAv_d.",
+          "years": [
+            "October 2021"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Long answer questions. Answer in 80–120 words.",
+      "marks": "2 × 5 = 10",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "State the principle of a potentiometer. With a circuit diagram, explain how it compares the emfs of two cells. Why is it better than a voltmeter?",
+          "answer": "Principle: with a steady current through a uniform wire, the p.d. across any length is proportional to that length (V = kl).\nMethod: a driver cell sends a steady current through the wire AB. Cell E₁ (positive to A) is connected through a galvanometer and jockey; find the null point at l₁. Repeat with E₂ for l₂. Then E₁/E₂ = l₁/l₂.\nAdvantage: at balance no current is drawn from the cell, so it measures the true emf; a voltmeter draws current and reads the terminal voltage, which is less than the emf.",
+          "years": [
+            "April 2023",
+            "October 2016"
+          ]
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "Two resistances R₁ and R₂ are connected to a V-volt battery, first in series and then in parallel. Derive the net resistance in each case and compare the currents.",
+          "answer": "Series: the same current I flows through both. V = V₁ + V₂ = IR₁ + IR₂ = I(R₁ + R₂), so R_s = R₁ + R₂ and I_s = V/(R₁ + R₂).\nParallel: the same V across both. I = I₁ + I₂ = V/R₁ + V/R₂, so 1/R_p = 1/R₁ + 1/R₂, R_p = R₁R₂/(R₁ + R₂), and I_p = V(R₁ + R₂)/R₁R₂.\nR_p is less than either resistance, so the parallel combination draws more current from the battery.",
+          "years": [
+            "October 2021"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "subject": "physics",
+  "lesson": 25,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 25: Dual Nature of Radiation and Matter — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Photoelectric effect"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "When light of suitable frequency falls on a metal, electrons are emitted (photoelectrons)."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Observations: (1) there is a threshold frequency ν₀ below which no emission occurs, however intense the light; (2) the photocurrent (number of electrons) is proportional to the intensity — a straight line through the origin; (3) the maximum kinetic energy of the electrons depends on the frequency, not the intensity; (4) emission is instantaneous."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Stopping potential V₀ is the negative anode potential that just stops the fastest electrons: eV₀ = KE_max. For a given frequency it is the same for all intensities, while the saturation current grows with intensity."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Einstein's equation: light is made of photons of energy hν. KE_max = hν − φ, where the work function φ = hν₀. Examples: 5 eV photons on a metal with φ = 2.3 eV give KE_max = 2.7 eV; ν₀ = 5.6 × 10¹⁴ Hz gives φ = hν₀ ≈ 3.7 × 10⁻¹⁹ J (2.3 eV)."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "A graph of V₀ against ν is a straight line with slope h/e, cutting the ν-axis at ν₀."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "X-rays, with high photon energy, cause photoemission far more readily than microwaves."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Photon"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "A photon has energy E = hν = hc/λ, momentum p = h/λ = hν/c, and moving (effective) mass m = E/c² = hν/c² = h/λc. It has zero rest mass."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Example: a 9 eV photon has p = 4.8 × 10⁻²⁷ kg m/s, and a hydrogen atom (1.6 × 10⁻²⁷ kg) emitting it recoils at 3 m/s."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Photocells change light into electric current. They are used in automatic doors and street lights, burglar alarms, light meters, sound reproduction from film, and solar power."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "de Broglie hypothesis"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Moving particles have an associated wave of wavelength λ = h/p = h/mv."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "For a charge q accelerated through V: λ = h/√(2mqV). For an electron, λ = 12.27/√V Å, so a graph of λ against √V is a rectangular hyperbola."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Equal momenta give equal λ (electron, proton or α). Equal kinetic energies give λ ∝ 1/√m, so λ_α < λ_p = λ_n < λ_e."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "For α-particles and protons accelerated through the same p.d.: λ_α/λ_p = √(m_p q_p / m_α q_α) = 1/(2√2)."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Matter waves were confirmed by the Davisson–Germer electron diffraction experiment."
+        ]
+      ]
+    }
+  ]
+}

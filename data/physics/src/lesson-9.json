@@ -1,0 +1,68 @@
+{
+ "lesson": 9,
+ "title": "Properties of Fluids",
+ "module": 2,
+ "summary": [
+  "## Pressure in fluids",
+  "Pressure is force per unit area, P = F/A, measured in pascals (N/m²). At a depth h in a liquid, P = hρg (written hdg in the NIOS text). It depends on depth, density and g, but not on the shape of the vessel or the viscosity of the liquid. A barometer works on P = hρg.",
+  "Example: two thigh bones of 10 cm² each support 40 kg, so P = 400 N/(2 × 10⁻³ m²) = 2 × 10⁵ Pa.",
+  "## Pascal's law and buoyancy",
+  "Pascal's law: pressure applied to an enclosed liquid is transmitted undiminished to every part of it. Hence F₁/A₁ = F₂/A₂, which is used in hydraulic lifts, jacks and brakes. With piston diameters of 30 cm and 2.5 cm, 50 kg wt lifts 50 × (30/2.5)² = 7200 kg wt.",
+  "Buoyancy (Archimedes): upthrust = weight of the fluid displaced. For a floating body, ρ_body/ρ_liquid = fraction of its volume immersed.",
+  "## Surface tension",
+  "Surface tension T is the force per unit length on an imaginary line in the liquid surface (N/m). It makes the surface behave like a stretched elastic membrane and tend to the minimum area, which is why drops are spherical and mercury droplets join together. It numerically equals the surface energy per unit area (J/m²). It decreases as temperature rises, and detergents reduce it.",
+  "The angle of contact θ is the angle between the liquid surface and the wall, measured inside the liquid. It is less than 90° for water on glass (rises, concave surface), greater than 90° for mercury (falls, convex surface), and 90° when the liquid neither rises nor falls.",
+  "Excess pressure: 2T/r inside a liquid drop or an air bubble in a liquid, and 4T/r inside a soap bubble (two surfaces). A smaller bubble has the larger pressure, so it shrinks into a bigger one.",
+  "Capillarity is the rise or fall of a liquid in a narrow tube: h = 2T cos θ/(rρg). It explains kerosene rising in a lamp wick and water rising in plants. In a tube shorter than h, the liquid reaches the top without overflowing. The weight of the raised column equals 2πrT = πDT.",
+  "## Viscosity",
+  "Viscosity is the fluid's internal friction that opposes relative motion between its layers: F = −ηA dv/dx. The coefficient η has unit N s/m² (Pa s, also called poiseuille) and dimensions ML⁻¹T⁻¹. Glycerine is more viscous than water. Viscosity brings a churned liquid to rest.",
+  "Stokes' law: F = 6πηrv for a sphere moving slowly through a fluid; it can be checked by dimensions.",
+  "Terminal velocity v = 2r²(ρ − σ)g/9η, so v ∝ r². Raindrops and parachutists fall at a small terminal speed, which is why a parachute works. A sphere 8 times heavier has a radius twice as large and so falls 4 times faster.",
+  "Flow is streamline (laminar) below the critical velocity and turbulent above it. Reynolds number Re = ρvD/η is dimensionless: below about 2000 the flow is laminar, above about 3000 it is turbulent.",
+  "## Equation of continuity and Bernoulli's theorem",
+  "Continuity: A₁v₁ = A₂v₂, so the flow is faster where the tube is narrower. Halving the diameter makes the speed 4 times greater.",
+  "Bernoulli's theorem: P + ½ρv² + ρgh = constant along a streamline. It follows from conservation of energy. Where the speed is greater, the pressure is lower.",
+  "Applications: the venturimeter (flow meter); the danger of standing near a fast train, since low pressure between you and the train pushes you towards it; the curving of a spinning ball (Magnus effect); aeroplane lift. Speed of efflux from a hole at depth h: v = √(2gh) (Torricelli)."
+ ],
+ "mcq": [
+  ["Bernoulli's theorem is based on conservation of —", ["mass", "momentum", "energy", "kinetic energy"], "C", ["April 2026"]],
+  ["Water fills a container up to height h and a hole is made at the bottom. The velocity of efflux is —", ["independent of h", "proportional to h²", "proportional to h^½", "proportional to h³"], "C", ["April 2026"], {"work": "Torricelli: v = √(2gh), so v ∝ h^½."}],
+  ["Pressure due to a liquid column does not depend on —", ["its density", "its viscosity", "its height", "g at the place"], "B", ["April 2024"]],
+  ["The property due to which a churned fluid comes back to rest is —", ["pressure", "elasticity", "surface tension", "viscosity"], "D", ["October 2025"]],
+  ["A block floats in water with half its volume immersed, and in another liquid with 1/5 of its volume outside. The relative density of the liquid is —", ["2/3", "4/5", "5/8", "3/5"], "C", ["April 2025"], {"work": "In water: ρ_block = ½ × 1 = 0.5.\nIn the liquid 4/5 is immersed: 0.5 = (4/5)ρ_L ⇒ ρ_L = 0.5 × 5/4 = 5/8."}],
+  ["The Reynolds number of a flow is 1200. The flow is —", ["laminar", "unsteady", "turbulent", "not possible"], "A", ["April 2018"]],
+  ["Two solid spheres of the same metal, of masses M and 8M, fall in a viscous liquid with terminal velocities v and nv. n is —", ["2", "4", "8", "16"], "B", ["April 2024"], {"work": "8 times the mass ⇒ 8 times the volume ⇒ radius 2 times.\nTerminal velocity ∝ r², so n = 2² = 4."}],
+  ["Two drops of the same liquid have volumes in the ratio 1 : 8. The ratio of their excess pressures is —", ["8 : 1", "2 : 1", "1 : 1", "1 : 2"], "B", ["April 2024"], {"work": "Volumes 1 : 8 ⇒ radii 1 : 2.\nExcess pressure 2T/r ∝ 1/r ⇒ ratio 2 : 1."}],
+  ["The excess pressure inside a soap bubble of radius r and surface tension T is —", ["T/r", "2T/r", "4T/r", "8T/r"], "C"],
+  ["Water flows at 2 m/s where a pipe's diameter is 0.2 m. Where the diameter is 0.1 m, its speed is —", ["1 m/s", "4 m/s", "8 m/s", "0.5 m/s"], "C", ["April 2022"], {"work": "A₁v₁ = A₂v₂ ⇒ v₂ = v₁(d₁/d₂)² = 2 × (0.2/0.1)² = 8 m/s."}],
+  ["The SI unit of coefficient of viscosity is —", ["N m", "N s m⁻²", "N m⁻¹", "J s"], "B"],
+  ["A liquid that neither rises nor falls in a capillary has an angle of contact of —", ["0°", "45°", "90°", "180°"], "C", ["April 2026"]]
+ ],
+ "objective": [
+  ["Fill in the blanks: (a) Surface tension of a liquid ______ with rise in temperature. (b) If a liquid neither rises nor falls in a capillary tube, the angle of contact is ______.", "(a) decreases\n(b) 90°", ["April 2026"]],
+  ["Fill in the blanks: (a) The rise or fall of a liquid in a capillary tube is called ______. (b) The property by which a liquid surface behaves like a stretched membrane is ______.", "(a) capillarity\n(b) surface tension", ["April 2026"]],
+  ["State True or False: (a) Kerosene rises in the wick of a lantern due to surface tension. (b) The excess pressure inside a soap bubble of radius r is 2T/r.", "(a) True.\n(b) False — it is 4T/r (two surfaces).", ["April 2024"]],
+  ["Match: (a) Barometer — ? (b) Hydraulic brake — ? [P = hρg / F₁/A₁ = F₂/A₂ / upthrust = weight displaced]", "(a) P = hρg.\n(b) F₁/A₁ = F₂/A₂ (Pascal's law).", ["April 2024"]],
+  ["Fill in the blanks: (a) A raindrop reaches the ground with its ______ velocity. (b) Terminal velocity is proportional to the ______ of the radius.", "(a) terminal\n(b) square", ["April 2024"]],
+  ["Give one word: (a) Flow below the critical velocity. (b) The dimensionless number that decides the nature of flow.", "(a) Streamline (laminar) flow.\n(b) Reynolds number."]
+ ],
+ "vsa": [
+  ["What is Reynolds number? What is its significance?", "Re = ρvD/η (density × speed × diameter ÷ viscosity), a dimensionless number. It decides the nature of flow: below about 2000 the flow is streamline, above about 3000 it is turbulent.", ["October 2024", "April 2025"], {"or": ["What is terminal velocity? Write its expression for a sphere.", "The constant velocity a body finally reaches when falling through a fluid, when the viscous drag plus upthrust balance its weight. v = 2r²(ρ − σ)g/9η."]}],
+  ["Why is it dangerous to stand near the edge of a platform when a fast train passes?", "The fast-moving air between the person and the train has low pressure (Bernoulli). The higher pressure behind the person pushes them towards the train.", ["October 2025"]],
+  ["Explain the principle of a parachute.", "The large canopy greatly increases air resistance (viscous drag), so the parachutist soon reaches a small terminal velocity and lands safely.", ["October 2024", "October 2016"]],
+  ["Show that the surface tension of a liquid equals its surface energy per unit area.", "A film on a wire frame of length l pulls the slider with 2Tl (two surfaces). Moving the slider by x does work W = 2Tlx while the area increases by 2lx. Surface energy per unit area = W/area = T.", ["April 2023"]],
+  ["Calculate the excess pressure inside a soap bubble of radius 4 cm. (T = 25 × 10⁻³ N/m)", "P = 4T/r = 4 × 25 × 10⁻³/0.04 = 2.5 Pa.", ["October 2024"], {"or": ["A 50 kg body is placed on the smaller piston (0.1 m²) of a hydraulic lift whose bigger piston is 10 m². Find the weight it can lift. (g = 10 m/s²)", "F₂ = F₁ × A₂/A₁ = 500 × 10/0.1 = 5 × 10⁴ N."]}],
+  ["Two thigh bones, each of area 10 cm², support a 40 kg upper body. Find the average pressure. (g = 10 m/s²)", "Force = 40 × 10 = 400 N; area = 2 × 10 × 10⁻⁴ = 2 × 10⁻³ m².\nP = 400/(2 × 10⁻³) = 2 × 10⁵ Pa.", ["January-February 2021"]]
+ ],
+ "sa": [
+  ["Water flows through a horizontal pipe of non-uniform cross-section. The pressure is 20 mm of mercury where the speed is 0.2 m/s. Find the pressure where the speed is 1.5 m/s. (ρ = 10³ kg/m³)", "Bernoulli: P₁ − P₂ = ½ρ(v₂² − v₁²) = ½ × 1000 × (2.25 − 0.04) = 1105 Pa.\nP₁ = 0.020 × 13600 × 9.8 ≈ 2666 Pa.\nP₂ = 2666 − 1105 ≈ 1561 Pa ≈ 11.7 mm of mercury.", ["April 2025"], {"or": ["Find the rise of a liquid (ρ = 1000 kg/m³, T = 7.27 × 10⁻² N/m) in a capillary of radius 0.2 × 10⁻³ m and length 0.05 m. (g = 10 m/s², θ = 0)", "h = 2T cos θ/(rρg) = 2 × 7.27 × 10⁻²/(0.2 × 10⁻³ × 1000 × 10) = 0.0727 m = 7.27 cm.\nThe tube is only 5 cm long, so the liquid reaches the top and stays there; the surface flattens and it does not overflow."]}],
+  ["Calculate the excess pressure inside (i) an air bubble in water, (ii) a water drop and (iii) a soap bubble, each of radius 0.5 mm. (T_water = 7.2 × 10⁻² N/m, T_soap = 2.5 × 10⁻² N/m)", "(i) Air bubble in water: 2T/r = 2 × 7.2 × 10⁻²/0.5 × 10⁻³ = 288 Pa.\n(ii) Water drop: 2T/r = 288 Pa.\n(iii) Soap bubble (two surfaces): 4T/r = 4 × 2.5 × 10⁻²/0.5 × 10⁻³ = 200 Pa.", ["April 2022"]],
+  ["Verify Stokes' law (F = 6πηrv) by dimensional analysis.", "Let F = k ηᵃ rᵇ vᶜ.\n[MLT⁻²] = [ML⁻¹T⁻¹]ᵃ[L]ᵇ[LT⁻¹]ᶜ.\nM: a = 1. T: −a − c = −2 ⇒ c = 1. L: −a + b + c = 1 ⇒ b = 1.\nSo F = kηrv, with k = 6π found by experiment.", ["October 2025"], {"or": ["Obtain the terminal velocity of a sphere of radius r and density ρ falling through a fluid of viscosity η and density σ.", "At terminal velocity, weight = upthrust + viscous drag:\n(4/3)πr³ρg = (4/3)πr³σg + 6πηrv.\nv = 2r²(ρ − σ)g/9η."]}],
+  ["Explain (a) why a spinning tennis ball curves and (b) why a small ball falling through a viscous liquid reaches a constant velocity.", "(a) Spin drags air round the ball, so air moves faster on one side. Lower pressure there (Bernoulli) gives a sideways force and the path curves (Magnus effect).\n(b) The viscous drag 6πηrv grows with speed. When drag plus upthrust equal the weight, the net force is zero and the ball moves at a constant terminal velocity.", ["April 2023"]]
+ ],
+ "la": [
+  ["Define terminal velocity and derive its expression for a sphere falling through a viscous fluid. Explain why raindrops do not hurt and why a parachute works.", "Terminal velocity is the constant velocity a body reaches when the net force on it becomes zero.\nForces on a sphere: weight (4/3)πr³ρg down; upthrust (4/3)πr³σg up; Stokes drag 6πηrv up.\nAt terminal velocity: (4/3)πr³(ρ − σ)g = 6πηrv ⇒ v = 2r²(ρ − σ)g/9η.\nRaindrops are small (v ∝ r²) and reach a low terminal speed, so they land gently.\nA parachute has a large area, so the drag is large and the terminal speed small, giving a safe landing.", ["October 2022", "October 2021"]],
+  ["Define viscosity and the coefficient of viscosity. Give its unit and dimensions. Does the nature of flow depend on viscosity? Explain Reynolds number.", "Viscosity is the property of a fluid that opposes relative motion between its layers.\nCoefficient of viscosity η: the tangential force per unit area for unit velocity gradient, F = ηA dv/dx. Unit N s m⁻² (Pa s); dimensions [ML⁻¹T⁻¹]. Glycerine is more viscous than water.\nYes: Re = ρvD/η is a pure number. Greater viscosity gives a smaller Re and more stable streamline flow. Re < 2000 means laminar flow; Re > 3000 means turbulent; between is unstable.", ["October 2018", "April 2017"]],
+  ["State Bernoulli's theorem and describe the working of a venturimeter (flow meter).", "Bernoulli: for steady flow of an ideal fluid, P + ½ρv² + ρgh is constant along a streamline (conservation of energy).\nA venturimeter is a horizontal tube with a narrow throat. By continuity A₁v₁ = A₂v₂, the speed is greater in the throat, so the pressure there is lower. A manometer measures the difference P₁ − P₂ = ½ρ(v₂² − v₁²).\nFrom this, v₁ = A₂√[2(P₁ − P₂)/ρ(A₁² − A₂²)], and the rate of flow is A₁v₁.", ["October 2021", "April 2017"]]
+ ]
+}

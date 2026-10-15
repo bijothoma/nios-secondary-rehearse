@@ -1,0 +1,150 @@
+{
+  "subject": "physics",
+  "lesson": 24,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 24: Structure of Atom — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Rutherford's α-scattering experiment"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Rutherford fired α-particles at a thin gold foil. Most passed straight through, a few were deflected through large angles, and about 1 in 8000 bounced back."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Conclusions (the nuclear model): (1) most of the atom is empty space; (2) all the positive charge and almost all the mass are concentrated in a tiny central nucleus (about 10⁻¹⁵ m, against an atom of about 10⁻¹⁰ m); (3) electrons revolve round the nucleus, with the electrostatic attraction providing the centripetal force."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "The distance of closest approach of an α-particle scattered back through 180° gives an upper estimate of the nuclear radius."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Drawbacks: by classical theory a revolving electron should radiate energy and spiral into the nucleus, so atoms would be unstable and give continuous spectra."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Bohr's model of the hydrogen atom"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Postulates: (1) electrons move only in certain stationary orbits without radiating; (2) in these orbits the angular momentum mvr = nh/2π (h/2π in the ground state); (3) radiation is emitted or absorbed only when the electron jumps between orbits: hν = E₂ − E₁."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Results: the orbit radius rₙ = n²a₀, with a₀ = 0.53 Å, so the third orbit is 9a₀ and r₂ : r₁ = 4 : 1. The energy Eₙ = −13.6/n² eV, giving −13.6, −3.4 and −1.51 eV for n = 1, 2, 3. The ratio of the first and second excited states is E₂ : E₃ = 9 : 4."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "The ionization energy of hydrogen is 13.6 eV; for hydrogen-like He⁺ it is 13.6Z² = 54.4 eV."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Hydrogen spectrum"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "1/λ = R(1/n₁² − 1/n₂²), with R = 1.097 × 10⁷ m⁻¹."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Lyman series: n₁ = 1, ultraviolet. Balmer: n₁ = 2, visible (e.g. 4861 Å, 6563 Å). Paschen: n₁ = 3, infrared. Brackett: n₁ = 4. Pfund: n₁ = 5, far infrared."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "The shortest wavelength comes from the largest energy jump (e.g. 6 → 1). The longest Paschen line (4 → 3) is λ = 144/7R. The transition 3 → 1 gives 1/λ = 8R/9, i.e. λ ≈ 102.6 nm (Lyman)."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "From level n the maximum number of spectral lines is n(n − 1)/2; for n = 4 it is 6."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "The maximum number of electrons in the outermost shell of any atom is 8."
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "subject": "physics",
+  "lesson": 15,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 15: Electric Charge and Electric Field — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Electric charge"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Charge is a scalar quantity measured in coulombs. It is quantized, q = ne with e = 1.6 × 10⁻¹⁹ C, so −1 C contains 1/e = 6.25 × 10¹⁸ electrons. Charge is conserved and additive."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Bodies are charged by friction, by conduction (contact) and by induction. A neutral pith ball touched to a negatively charged rod becomes negatively charged."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Coulomb's law"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "F = (1/4πε₀) q₁q₂/r², where 1/4πε₀ = 9 × 10⁹ N m²/C² and ε₀ = 8.85 × 10⁻¹² C²/N m²."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "In a medium of dielectric constant K the force becomes F/K, so F_air : F_medium = K : 1. If both charges and their separation are halved, the force is unchanged. Two identical spheres with +2Q and −Q touched together share +Q/2 each; when replaced at the same distance they repel with F/8."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "The laws of electrostatics are Coulomb's law, Gauss's law and conservation of charge. Ampère's law belongs to magnetism."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Electric field"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "The electric field E = F/q₀ is the force per unit positive test charge. It is a vector with unit N/C or V/m and dimensions MLT⁻³A⁻¹. The test charge is taken as q₀ → 0 so that it does not disturb the charges producing the field."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "The field of a point charge is E = q/4πε₀r². The superposition principle gives the net field as the vector sum. For a square with alternating charges (−Q, Q / Q, −Q), opposite corners carry equal charges, so the field at the centre is zero."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "An oil drop of charge ne and mass m is held still when neE = mg, so E = mg/ne."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Electric field lines"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Field lines start on positive charges and end on negative ones. They never cross. Their tangent gives the direction of E, they are crowded where E is strong, and they meet a conductor at right angles."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Electric dipole"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "A dipole is two equal and opposite charges a small distance 2a apart. Its dipole moment p = q × 2a, in C m, points from −q to +q."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Field on the axis: 2p/4πε₀r³. Field on the equatorial line (perpendicular bisector): p/4πε₀r³. Both fall off as 1/r³."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "In a uniform field a dipole feels torque τ = p × E (magnitude pE sin θ) but no net force. Stable equilibrium is when p is parallel to E. In a non-uniform field it feels both a torque and a net force."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Gauss's theorem"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Electric flux φ = E · A has unit N m²/C = V m. Gauss's theorem: the total flux through a closed surface = q_enclosed/ε₀. It does not depend on the size of the surface, so concentric spheres round q have equal flux. Zero flux means zero net enclosed charge, but E need not be zero everywhere on the surface."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Applications: an infinite plane sheet has E = σ/2ε₀ on each side. A uniformly charged spherical shell has E = q/4πε₀r² outside and zero inside; the potential inside is constant. The field at the centre of a uniformly charged ring is zero."
+        ]
+      ]
+    }
+  ]
+}

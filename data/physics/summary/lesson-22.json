@@ -1,0 +1,258 @@
+{
+  "subject": "physics",
+  "lesson": 22,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 22: Wave Phenomena and Light — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Wavefront and Huygens' principle"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "A wavefront is the locus of all particles vibrating in the same phase, so the phase difference between two points on a wavefront is zero. Rays are normal to wavefronts. A point source gives spherical wavefronts, and a distant source or a source at the focus of a lens gives plane wavefronts."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Huygens' principle: every point on a wavefront acts as a source of secondary wavelets, and the envelope (common tangent) of these wavelets gives the new wavefront. It explains reflection (i = r) and refraction (Snell's law)."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Interference"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Interference is the redistribution of energy due to the superposition of light waves from two coherent sources. Coherent sources have the same frequency and a constant phase difference. Two independent lamps are not coherent, so they show no steady pattern."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Phase difference = (2π/λ) × path difference; a path difference of λ/4 means a phase difference of π/2."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Bright fringe: path difference nλ (phase 2nπ). Dark fringe: path difference (2n − 1)λ/2."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Intensity: I_max = (√I₁ + √I₂)² and I_min = (√I₁ − √I₂)². Beams of I and 4I give 9I and I. Equal beams give 4I and 0. Intensities in the ratio 9 : 1 give I_max : I_min = 16 : 4 = 4 : 1."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Young's double-slit experiment"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Fringe width β = λD/d, and all fringes are equally wide. Halving d and doubling D makes β four times; tripling d makes it ⅓."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "In a liquid of index μ, λ becomes λ/μ, so β falls to β/μ."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "The number of fringes in a given width varies as 1/λ: 99 fringes at 6000 Å become 108 at 5500 Å."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "White light gives a white central fringe with coloured fringes on either side."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Example: λ = 450 nm, d = 0.15 mm and D = 1 m give β = 3 mm."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Diffraction"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Diffraction is the bending of light round obstacles or apertures comparable in size to its wavelength."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Sound (λ about 1 m) diffracts round walls easily, so we hear a horn round a corner. Light, with λ about 5 × 10⁻⁷ m, does not, so we cannot see the lamp."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Single slit of width a: the central maximum has angular width 2λ/a and is twice as wide as the other fringes, whose intensity falls off rapidly. A narrower slit or a longer wavelength widens the pattern; the linear width grows with D."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Interference fringes are equally wide and equally bright; diffraction fringes are not."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Light can resolve objects comparable to its wavelength: a particle of 3 × 10⁻⁴ cm needs λ of about 3 × 10⁻⁶ m, i.e. ν of about 10¹⁴ Hz."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Polarization"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Polarization shows that light is a transverse wave; longitudinal waves such as sound cannot be polarized."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Ordinary light is unpolarized. A polaroid transmits only vibrations in one plane. Malus' law: I = I₀ cos² θ, so rotating one polaroid by 45° halves the intensity and by 90° cuts it to zero."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Polarization by reflection — Brewster's law: μ = tan iₚ. At the polarizing angle the reflected and refracted rays are at 90° to each other, and v = c cot iₚ. For μ = √3, iₚ = 60°."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Optically active substances, such as sugar solution, rotate the plane of polarization."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Uses of polaroids: sunglasses, 3-D films, anti-glare headlights and photographic filters."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Doppler effect for light: a receding star's lines shift to longer wavelengths (red shift), with v = cΔλ/λ. A shift of 0.032% means v = 9.6 × 10⁴ m/s."
+        ]
+      ]
+    }
+  ]
+}

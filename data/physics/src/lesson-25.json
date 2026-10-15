@@ -1,0 +1,58 @@
+{
+ "lesson": 25,
+ "title": "Dual Nature of Radiation and Matter",
+ "module": 7,
+ "summary": [
+  "## Photoelectric effect",
+  "When light of suitable frequency falls on a metal, electrons are emitted (photoelectrons).",
+  "Observations: (1) there is a threshold frequency ν₀ below which no emission occurs, however intense the light; (2) the photocurrent (number of electrons) is proportional to the intensity — a straight line through the origin; (3) the maximum kinetic energy of the electrons depends on the frequency, not the intensity; (4) emission is instantaneous.",
+  "Stopping potential V₀ is the negative anode potential that just stops the fastest electrons: eV₀ = KE_max. For a given frequency it is the same for all intensities, while the saturation current grows with intensity.",
+  "Einstein's equation: light is made of photons of energy hν. KE_max = hν − φ, where the work function φ = hν₀. Examples: 5 eV photons on a metal with φ = 2.3 eV give KE_max = 2.7 eV; ν₀ = 5.6 × 10¹⁴ Hz gives φ = hν₀ ≈ 3.7 × 10⁻¹⁹ J (2.3 eV).",
+  "A graph of V₀ against ν is a straight line with slope h/e, cutting the ν-axis at ν₀.",
+  "X-rays, with high photon energy, cause photoemission far more readily than microwaves.",
+  "## Photon",
+  "A photon has energy E = hν = hc/λ, momentum p = h/λ = hν/c, and moving (effective) mass m = E/c² = hν/c² = h/λc. It has zero rest mass.",
+  "Example: a 9 eV photon has p = 4.8 × 10⁻²⁷ kg m/s, and a hydrogen atom (1.6 × 10⁻²⁷ kg) emitting it recoils at 3 m/s.",
+  "Photocells change light into electric current. They are used in automatic doors and street lights, burglar alarms, light meters, sound reproduction from film, and solar power.",
+  "## de Broglie hypothesis",
+  "Moving particles have an associated wave of wavelength λ = h/p = h/mv.",
+  "For a charge q accelerated through V: λ = h/√(2mqV). For an electron, λ = 12.27/√V Å, so a graph of λ against √V is a rectangular hyperbola.",
+  "Equal momenta give equal λ (electron, proton or α). Equal kinetic energies give λ ∝ 1/√m, so λ_α < λ_p = λ_n < λ_e.",
+  "For α-particles and protons accelerated through the same p.d.: λ_α/λ_p = √(m_p q_p / m_α q_α) = 1/(2√2).",
+  "Matter waves were confirmed by the Davisson–Germer electron diffraction experiment."
+ ],
+ "mcq": [
+  ["A proton, a neutron, an electron and an α-particle have the same kinetic energy. Their de Broglie wavelengths compare as —", ["λp = λn > λe > λα", "λα < λp = λn < λe", "λe < λp = λn > λα", "λe = λp = λn = λα"], "B", ["April 2026"], {"work": "λ = h/√(2mK). With K equal, λ ∝ 1/√m.\nm_α > m_p ≈ m_n > m_e, so λ_α < λ_p = λ_n < λ_e."}],
+  ["An electron, a proton and an α-particle have the same momentum. Their de Broglie wavelengths are related as —", ["λe > λp > λα", "λp = λe = λα", "λe < λp < λα", "λe < λp > λα"], "B", ["October 2025"], {"work": "λ = h/p; the same p gives the same λ."}],
+  ["The momentum of a photon of frequency ν is —", ["hνc", "hν/c", "hc/ν", "cν/h"], "B", ["January-February 2021", "April 2025"]],
+  ["The moving mass of a photon is —", ["hν/λ", "hλ/c", "hν/c", "h/λc"], "D", ["April 2022"], {"work": "m = E/c² = hν/c² = (hc/λ)/c² = h/λc."}],
+  ["The graph of the number of photoelectrons emitted against the intensity of incident light is —", ["a straight line through the origin", "a parabola", "a hyperbola", "parallel to the intensity axis"], "A", ["October 2016"]],
+  ["Photons of 5 eV fall on a metal of work function 2.3 eV. The maximum kinetic energy of the photoelectrons is —", ["7.3 eV", "2.7 eV", "2.3 eV", "5 eV"], "B", ["April 2022"], {"work": "KE_max = hν − φ = 5 − 2.3 = 2.7 eV."}],
+  ["Which is more likely to cause photoemission from a given metal?", ["Microwaves", "Radio waves", "X-rays", "Infrared"], "C", ["April 2024"]],
+  ["The de Broglie wavelength of a particle of mass m and charge q accelerated through V is —", ["h/√(2mqV)", "h/(mqV)", "√(2mqV)/h", "h/2mqV"], "A", ["October 2021"]],
+  ["The maximum kinetic energy of photoelectrons depends on —", ["the intensity of light", "the frequency of light", "the time of exposure", "the area of the plate"], "B"]
+ ],
+ "objective": [
+  ["(a) For a given photosensitive material and constant frequency, how does the photocurrent vary with intensity? (b) Show how the de Broglie wavelength of an electron varies with √V.", "(a) It increases in direct proportion to the intensity.\n(b) λ = 12.27/√V Å, so λ against √V is a rectangular hyperbola (λ × √V = constant).", ["April 2026"]],
+  ["Fill in the blanks: (a) The minimum frequency of light that can eject electrons is the ______ frequency. (b) The minimum energy needed to free an electron from a metal is the ______.", "(a) threshold\n(b) work function"],
+  ["State True or False: (a) Maximum KE of photoelectrons increases with intensity. (b) A photon has zero rest mass.", "(a) False — it depends on frequency.\n(b) True."],
+  ["Complete: (a) Einstein's photoelectric equation: KE_max = ______. (b) The slope of the stopping potential–frequency graph is ______.", "(a) hν − φ (= hν − hν₀)\n(b) h/e"]
+ ],
+ "vsa": [
+  ["Define (a) stopping potential and (b) threshold frequency.", "(a) Stopping potential: the minimum negative potential applied to the anode that stops the most energetic photoelectrons, so the photocurrent becomes zero (eV₀ = KE_max).\n(b) Threshold frequency: the minimum frequency of incident light below which no photoelectrons are emitted from a given metal.", ["April 2026"]],
+  ["Write any two applications of photocells.", "(1) Automatic doors, street lights and burglar alarms (switching by light). (2) Reproduction of sound from cinema film; light meters in cameras; solar cells.", ["January-February 2021", "October 2024"]],
+  ["Out of X-rays and microwaves, which is more likely to produce photoemission? Explain.", "X-rays. Photoemission needs photon energy hν greater than the work function. X-ray photons have very high frequency and energy, while microwave photons have far too little.", ["April 2024"]],
+  ["Radiation of frequency 5.6 × 10¹⁴ Hz releases photoelectrons with zero kinetic energy. Calculate the work function. (h = 6.6 × 10⁻³⁴ J s)", "This is the threshold frequency: φ = hν₀ = 6.6 × 10⁻³⁴ × 5.6 × 10¹⁴ = 3.7 × 10⁻¹⁹ J ≈ 2.3 eV.", ["April 2017"]],
+  ["Why does the maximum velocity of photoelectrons depend on the frequency of the incident light?", "Each photon gives its whole energy hν to one electron. After spending φ to escape, the rest is KE: ½mv²_max = hν − φ. So higher frequency gives higher maximum velocity; intensity only changes the number of photons.", ["October 2018"]],
+  ["Calculate the energy of a photon of wavelength 6000 Å in joule and electron-volt. (h = 6.6 × 10⁻³⁴ J s)", "E = hc/λ = 6.6 × 10⁻³⁴ × 3 × 10⁸/(6 × 10⁻⁷) = 3.3 × 10⁻¹⁹ J.\nIn eV: 3.3 × 10⁻¹⁹/1.6 × 10⁻¹⁹ ≈ 2.06 eV."]
+ ],
+ "sa": [
+  ["State the de Broglie hypothesis. Derive the de Broglie wavelength of a particle of mass m and charge q accelerated through a potential difference V.", "Hypothesis: every moving particle has a wave associated with it, of wavelength λ = h/p = h/mv.\nAccelerated through V: qV = ½mv² ⇒ mv = √(2mqV).\nλ = h/√(2mqV). For an electron, λ = 12.27/√V Å.", ["October 2021"]],
+  ["Give the four main observations from experiments on the photoelectric effect.", "(1) No electrons are emitted below a threshold frequency ν₀, whatever the intensity.\n(2) The photocurrent (number of electrons) is proportional to the intensity.\n(3) The maximum KE of electrons increases with frequency and does not depend on intensity.\n(4) Emission is instantaneous (no time lag).", ["October 2021"]],
+  ["An isolated hydrogen atom emits a photon of 9 eV. Find (i) the photon's momentum, (ii) its effective mass and (iii) the recoil velocity of the atom. (m_H = 1.6 × 10⁻²⁷ kg)", "E = 9 × 1.6 × 10⁻¹⁹ = 1.44 × 10⁻¹⁸ J.\n(i) p = E/c = 1.44 × 10⁻¹⁸/3 × 10⁸ = 4.8 × 10⁻²⁷ kg m/s.\n(ii) m = E/c² = 1.6 × 10⁻³⁵ kg.\n(iii) Momentum is conserved: v = p/m_H = 4.8 × 10⁻²⁷/1.6 × 10⁻²⁷ = 3 m/s (opposite to the photon).", ["April 2023"]]
+ ],
+ "la": [
+  ["(i) Draw a circuit to study the I–V characteristics of a photocell. (ii) How does the photocurrent vary with anode potential for radiation of the same intensity but different frequencies? (iii) How does the stopping potential change with intensity at the same frequency? (iv) Draw the graph of photocurrent against intensity.", "(i) The photocell (emitter and collector in an evacuated bulb) is connected to a variable dc source through a potential divider and reversing key, with a microammeter in series and a voltmeter across the cell.\n(ii) The saturation current is the same (same intensity, same number of photons), but higher frequency needs a more negative stopping potential, so the curves meet the negative V-axis further out.\n(iii) The stopping potential is the same for all intensities; only the saturation current rises with intensity.\n(iv) A straight line through the origin — photocurrent ∝ intensity.", ["April 2023"]],
+  ["Explain Einstein's photoelectric equation. How do the graph of stopping potential against frequency for two metals give the threshold frequency, work function and Planck's constant?", "Light consists of photons of energy hν. A photon gives all its energy to one electron, which spends φ = hν₀ to escape, so KE_max = hν − φ, i.e. eV₀ = hν − hν₀.\nThe graph of V₀ against ν is a straight line V₀ = (h/e)ν − φ/e.\nIts intercept on the ν-axis is the threshold frequency ν₀; the metal with the larger ν₀ has the larger work function φ = hν₀.\nThe slope h/e is the same for every metal, so h = e × slope.", ["October 2016"]]
+ ]
+}

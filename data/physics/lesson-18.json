@@ -1,0 +1,368 @@
+{
+  "subject": "physics",
+  "lesson": 18,
+  "title": "Magnetism and Magnetic Effect of Electric Current",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "11 × 1 = 11",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "Two parallel streams, one of electrons and one of protons, move in the same direction. They —",
+          "options": [
+            "attract each other",
+            "repel each other",
+            "do not interact",
+            "neither attract nor repel"
+          ],
+          "answer": "A",
+          "fixed": true,
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "A wire of diameter 0.5 mm carrying 1 A is replaced by a 1 mm wire carrying the same current. The magnetic field at a far point is —",
+          "options": [
+            "twice",
+            "half",
+            "a quarter",
+            "the same as before"
+          ],
+          "answer": "D",
+          "years": [
+            "October 2025"
+          ],
+          "work": "B = μ₀I/2πr depends on the current and the distance, not on the wire's thickness."
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "A 0–10 mA meter of resistance 1 Ω is to be used as a 0–10 V voltmeter. The series resistance needed is —",
+          "options": [
+            "9 Ω",
+            "999 Ω",
+            "99 Ω",
+            "1000 Ω"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2025"
+          ],
+          "work": "Total resistance = V/I_g = 10/0.01 = 1000 Ω.\nSeries R = 1000 − 1 = 999 Ω."
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "A 10 A ammeter has resistance 0.09 Ω. The shunt that makes it read up to 100 A is —",
+          "options": [
+            "0.001 Ω",
+            "0.1 Ω",
+            "0.01 Ω",
+            "0.9 Ω"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2023"
+          ],
+          "work": "I_gG = (I − I_g)S ⇒ 10 × 0.09 = 90 × S ⇒ S = 0.01 Ω."
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "Which of these has the maximum resistance?",
+          "options": [
+            "Galvanometer",
+            "Milliammeter",
+            "Ammeter",
+            "Voltmeter"
+          ],
+          "answer": "D",
+          "years": [
+            "April 2022"
+          ]
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "A charged particle moving in a magnetic field experiences a force —",
+          "options": [
+            "along B",
+            "opposite to B",
+            "perpendicular to its velocity only",
+            "perpendicular to both B and its velocity"
+          ],
+          "answer": "D",
+          "fixed": true,
+          "years": [
+            "October 2022"
+          ]
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "A straight power line along east–west carries 10 A where the earth's field is 10⁻⁴ T (perpendicular). The force per metre is —",
+          "options": [
+            "10⁻⁵ N",
+            "10⁻³ N",
+            "10⁻⁴ N",
+            "10 N"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2024"
+          ],
+          "work": "F/l = BI = 10⁻⁴ × 10 = 10⁻³ N/m."
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "The magnetic field B of an infinitely long straight current varies with distance r as —",
+          "options": [
+            "B ∝ r",
+            "B ∝ 1/r",
+            "B ∝ 1/r²",
+            "B independent of r"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2018"
+          ]
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "The angle of dip at the magnetic equator is —",
+          "options": [
+            "0°",
+            "45°",
+            "60°",
+            "90°"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "The work done by a magnetic field on a moving charge is —",
+          "options": [
+            "qvB",
+            "maximum when v ⊥ B",
+            "zero",
+            "negative"
+          ],
+          "answer": "C",
+          "years": [
+            "January-February 2021"
+          ]
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "Soft iron is used for electromagnet cores because it has —",
+          "options": [
+            "high retentivity",
+            "a narrow hysteresis loop",
+            "low permeability",
+            "high resistance"
+          ],
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark (fill in the blanks, true/false, match or one word).",
+      "marks": "5 × 2 = 10",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "Fill in the blanks: (a) The angle of dip where the horizontal and vertical components of the earth's field are equal is ______. (b) ______ substances are feebly magnetised opposite to the field.",
+          "answer": "(a) 45°\n(b) Diamagnetic",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Fill in the blanks: (a) The angle of dip at the magnetic equator is ______. (b) The lagging of magnetisation behind the magnetising field is called ______.",
+          "answer": "(a) 0°\n(b) hysteresis",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "State True or False: (a) Two parallel wires with currents in the same direction repel. (b) A charge at rest in a magnetic field feels no force.",
+          "answer": "(a) False — they attract.\n(b) True (F = qv × B = 0 for v = 0)."
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Complete: a galvanometer of 12 Ω gives full deflection at 2.5 mA. (a) Shunt for 0–2 A ≈ ______. (b) Series resistance for 0–10 V = ______.",
+          "answer": "(a) S = I_gG/(I − I_g) = 0.0025 × 12/1.9975 ≈ 0.015 Ω.\n(b) R = V/I_g − G = 10/0.0025 − 12 = 3988 Ω.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "Give one word: (a) The device that accelerates ions using a magnetic field and an alternating field. (b) The material used for electromagnet cores.",
+          "answer": "(a) Cyclotron.\n(b) Soft iron."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "5 × 2 = 10",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "A long straight wire carries 3 A. Calculate the magnetic field at a point 10 cm away.",
+          "answer": "B = μ₀I/2πr = (4π × 10⁻⁷ × 3)/(2π × 0.1) = 6 × 10⁻⁶ T.",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "Write the vector expression for the force on a charge q moving with velocity v in a field B. When is it maximum and when minimum?",
+          "answer": "F = q(v × B), magnitude qvB sin θ.\nMaximum (qvB) when v ⊥ B (θ = 90°); zero when v ∥ B (θ = 0° or 180°).",
+          "years": [
+            "October 2016"
+          ]
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "Give two differences between the way electric and magnetic fields deflect a moving charged particle.",
+          "answer": "(1) An electric force acts along E even on a charge at rest; a magnetic force acts only on a moving charge, perpendicular to v and B.\n(2) An electric field can change the particle's speed (KE); a magnetic force does no work, so the speed stays constant and the path becomes circular.",
+          "years": [
+            "October 2024"
+          ],
+          "or": {
+            "q": "A body hangs from a vertical spring. How does its position change when a current is passed through the spring?",
+            "answer": "Adjacent turns carry current in the same direction, so they attract each other. The spring contracts and the body rises."
+          }
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "Mention two ways of increasing the strength of an electromagnet.",
+          "answer": "(1) Increase the number of turns. (2) Increase the current. (Using a soft-iron core also helps.)",
+          "years": [
+            "April 2017"
+          ]
+        },
+        {
+          "id": "3.5",
+          "type": "open",
+          "q": "Name the two fields produced around a moving charge. Are they in the same direction?",
+          "answer": "An electric field and a magnetic field. No — the magnetic field is perpendicular to the electric field (it circles round the line of motion).",
+          "years": [
+            "October 2018"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "3 × 3 = 9",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "An electron revolves in a circular orbit of radius 2 × 10⁻¹⁰ m with angular speed 10¹⁵ rad/s. Find the magnetic field at the centre of the orbit.",
+          "answer": "Equivalent current I = e/T = eω/2π = 1.6 × 10⁻¹⁹ × 10¹⁵/(2π) ≈ 2.55 × 10⁻⁵ A.\nB = μ₀I/2r = 4π × 10⁻⁷ × 2.55 × 10⁻⁵/(2 × 2 × 10⁻¹⁰) ≈ 0.08 T.",
+          "years": [
+            "October 2018"
+          ]
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "(i) Can a stationary charge be moved by (a) an electric field and (b) a magnetic field? (ii) Why can an electric field change a charged particle's kinetic energy while a magnetic field cannot?",
+          "answer": "(i)(a) Yes — F = qE acts on a charge at rest. (b) No — F = qvB is zero when v = 0.\n(ii) The electric force has a component along the motion, so it does work and changes KE. The magnetic force is always perpendicular to v, so it does no work and the speed (KE) stays the same; only the direction changes.",
+          "years": [
+            "January-February 2021"
+          ]
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "Explain the principle, construction and working of a moving-coil galvanometer.",
+          "answer": "Principle: a current-carrying coil in a magnetic field feels a torque.\nConstruction: a rectangular coil on a soft-iron core between concave poles (radial field), suspended by a phosphor-bronze strip or springs, with a pointer and scale.\nWorking: the deflecting torque NBIA is balanced by the restoring torque kθ, so I = (k/NBA)θ ∝ θ. The scale is linear.",
+          "years": [
+            "April 2017"
+          ],
+          "or": {
+            "q": "Explain the principle and working of a cyclotron.",
+            "answer": "Principle: a charge moving perpendicular to B moves in a circle, with period T = 2πm/qB independent of speed.\nTwo hollow dees between magnet poles have an alternating voltage of frequency f = qB/2πm across the gap. Ions accelerate across the gap each half-cycle and move in larger semicircles inside the dees, gaining energy each time until they emerge at high speed."
+          }
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Long answer questions. Answer in 80–120 words.",
+      "marks": "3 × 5 = 15",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "Explain why two parallel current-carrying conductors interact. Two 5 m wires 30 cm apart carry 10 A and 15 A in the same direction. Find the force and state whether it tends to increase or decrease the separation.",
+          "answer": "Each wire lies in the magnetic field of the other (B = μ₀I/2πd) and so experiences a force BIl. For currents in the same direction the force is attractive; for opposite currents, repulsive. F/l = μ₀I₁I₂/2πd.\nF = 2 × 10⁻⁷ × 10 × 15 × 5/0.3 = 5 × 10⁻⁴ N.\nIt is attractive, so it tends to decrease the separation.",
+          "years": [
+            "April 2025",
+            "October 2025"
+          ],
+          "or": {
+            "q": "A galvanometer of coil resistance 12 Ω gives full-scale deflection at 2.5 mA. How will you convert it into (a) an ammeter of 0–2 A and (b) a voltmeter of 0–10 V?",
+            "answer": "(a) Connect a low shunt S in parallel: I_gG = (I − I_g)S ⇒ S = 0.0025 × 12/(2 − 0.0025) ≈ 0.015 Ω.\n(b) Connect a high resistance R in series: V = I_g(G + R) ⇒ R = 10/0.0025 − 12 = 4000 − 12 = 3988 Ω."
+          }
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "State the Biot–Savart law and use it to find the field at the centre of a circular loop. Find the field at the centre of a 50-turn coil of radius 0.08 m carrying 0.8 A.",
+          "answer": "Biot–Savart: dB = (μ₀/4π) I dl sin θ/r².\nAt the centre of a loop every element is at distance r with θ = 90°, and all contributions are along the axis: B = (μ₀/4π)(I/r²) ∫dl = (μ₀/4π)(I/r²)(2πr) = μ₀I/2r. For N turns: B = μ₀NI/2r.\nB = 4π × 10⁻⁷ × 50 × 0.8/(2 × 0.08) = π × 10⁻⁴ ≈ 3.14 × 10⁻⁴ T.",
+          "years": [
+            "April 2023"
+          ]
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "Show that the current through a galvanometer is proportional to its deflection. Explain how it is converted into an ammeter and a voltmeter, with diagrams.",
+          "answer": "In a radial field the plane of the coil is always parallel to B, so the torque is NBIA for every position. At equilibrium NBIA = kθ ⇒ I = (k/NBA)θ, so I ∝ θ.\nAmmeter: a small shunt S = I_gG/(I − I_g) in parallel carries most of the current, giving a low total resistance.\nVoltmeter: a large resistance R = V/I_g − G in series, giving a high total resistance so it draws little current.",
+          "years": [
+            "October 2025",
+            "April 2026"
+          ]
+        }
+      ]
+    }
+  ]
+}

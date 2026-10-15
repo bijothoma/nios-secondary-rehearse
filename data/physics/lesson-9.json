@@ -1,0 +1,416 @@
+{
+  "subject": "physics",
+  "lesson": 9,
+  "title": "Properties of Fluids",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "12 × 1 = 12",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "Bernoulli's theorem is based on conservation of —",
+          "options": [
+            "mass",
+            "momentum",
+            "energy",
+            "kinetic energy"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "Water fills a container up to height h and a hole is made at the bottom. The velocity of efflux is —",
+          "options": [
+            "independent of h",
+            "proportional to h²",
+            "proportional to h^½",
+            "proportional to h³"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2026"
+          ],
+          "work": "Torricelli: v = √(2gh), so v ∝ h^½."
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "Pressure due to a liquid column does not depend on —",
+          "options": [
+            "its density",
+            "its viscosity",
+            "its height",
+            "g at the place"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "The property due to which a churned fluid comes back to rest is —",
+          "options": [
+            "pressure",
+            "elasticity",
+            "surface tension",
+            "viscosity"
+          ],
+          "answer": "D",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "A block floats in water with half its volume immersed, and in another liquid with 1/5 of its volume outside. The relative density of the liquid is —",
+          "options": [
+            "2/3",
+            "4/5",
+            "5/8",
+            "3/5"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2025"
+          ],
+          "work": "In water: ρ_block = ½ × 1 = 0.5.\nIn the liquid 4/5 is immersed: 0.5 = (4/5)ρ_L ⇒ ρ_L = 0.5 × 5/4 = 5/8."
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "The Reynolds number of a flow is 1200. The flow is —",
+          "options": [
+            "laminar",
+            "unsteady",
+            "turbulent",
+            "not possible"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2018"
+          ]
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "Two solid spheres of the same metal, of masses M and 8M, fall in a viscous liquid with terminal velocities v and nv. n is —",
+          "options": [
+            "2",
+            "4",
+            "8",
+            "16"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2024"
+          ],
+          "work": "8 times the mass ⇒ 8 times the volume ⇒ radius 2 times.\nTerminal velocity ∝ r², so n = 2² = 4."
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "Two drops of the same liquid have volumes in the ratio 1 : 8. The ratio of their excess pressures is —",
+          "options": [
+            "8 : 1",
+            "2 : 1",
+            "1 : 1",
+            "1 : 2"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2024"
+          ],
+          "work": "Volumes 1 : 8 ⇒ radii 1 : 2.\nExcess pressure 2T/r ∝ 1/r ⇒ ratio 2 : 1."
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "The excess pressure inside a soap bubble of radius r and surface tension T is —",
+          "options": [
+            "T/r",
+            "2T/r",
+            "4T/r",
+            "8T/r"
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "Water flows at 2 m/s where a pipe's diameter is 0.2 m. Where the diameter is 0.1 m, its speed is —",
+          "options": [
+            "1 m/s",
+            "4 m/s",
+            "8 m/s",
+            "0.5 m/s"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2022"
+          ],
+          "work": "A₁v₁ = A₂v₂ ⇒ v₂ = v₁(d₁/d₂)² = 2 × (0.2/0.1)² = 8 m/s."
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "The SI unit of coefficient of viscosity is —",
+          "options": [
+            "N m",
+            "N s m⁻²",
+            "N m⁻¹",
+            "J s"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "A liquid that neither rises nor falls in a capillary has an angle of contact of —",
+          "options": [
+            "0°",
+            "45°",
+            "90°",
+            "180°"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2026"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark (fill in the blanks, true/false, match or one word).",
+      "marks": "6 × 2 = 12",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "Fill in the blanks: (a) Surface tension of a liquid ______ with rise in temperature. (b) If a liquid neither rises nor falls in a capillary tube, the angle of contact is ______.",
+          "answer": "(a) decreases\n(b) 90°",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Fill in the blanks: (a) The rise or fall of a liquid in a capillary tube is called ______. (b) The property by which a liquid surface behaves like a stretched membrane is ______.",
+          "answer": "(a) capillarity\n(b) surface tension",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "State True or False: (a) Kerosene rises in the wick of a lantern due to surface tension. (b) The excess pressure inside a soap bubble of radius r is 2T/r.",
+          "answer": "(a) True.\n(b) False — it is 4T/r (two surfaces).",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Match: (a) Barometer — ? (b) Hydraulic brake — ? [P = hρg / F₁/A₁ = F₂/A₂ / upthrust = weight displaced]",
+          "answer": "(a) P = hρg.\n(b) F₁/A₁ = F₂/A₂ (Pascal's law).",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "Fill in the blanks: (a) A raindrop reaches the ground with its ______ velocity. (b) Terminal velocity is proportional to the ______ of the radius.",
+          "answer": "(a) terminal\n(b) square",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "Give one word: (a) Flow below the critical velocity. (b) The dimensionless number that decides the nature of flow.",
+          "answer": "(a) Streamline (laminar) flow.\n(b) Reynolds number."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "6 × 2 = 12",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "What is Reynolds number? What is its significance?",
+          "answer": "Re = ρvD/η (density × speed × diameter ÷ viscosity), a dimensionless number. It decides the nature of flow: below about 2000 the flow is streamline, above about 3000 it is turbulent.",
+          "years": [
+            "October 2024",
+            "April 2025"
+          ],
+          "or": {
+            "q": "What is terminal velocity? Write its expression for a sphere.",
+            "answer": "The constant velocity a body finally reaches when falling through a fluid, when the viscous drag plus upthrust balance its weight. v = 2r²(ρ − σ)g/9η."
+          }
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "Why is it dangerous to stand near the edge of a platform when a fast train passes?",
+          "answer": "The fast-moving air between the person and the train has low pressure (Bernoulli). The higher pressure behind the person pushes them towards the train.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "Explain the principle of a parachute.",
+          "answer": "The large canopy greatly increases air resistance (viscous drag), so the parachutist soon reaches a small terminal velocity and lands safely.",
+          "years": [
+            "October 2024",
+            "October 2016"
+          ]
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "Show that the surface tension of a liquid equals its surface energy per unit area.",
+          "answer": "A film on a wire frame of length l pulls the slider with 2Tl (two surfaces). Moving the slider by x does work W = 2Tlx while the area increases by 2lx. Surface energy per unit area = W/area = T.",
+          "years": [
+            "April 2023"
+          ]
+        },
+        {
+          "id": "3.5",
+          "type": "open",
+          "q": "Calculate the excess pressure inside a soap bubble of radius 4 cm. (T = 25 × 10⁻³ N/m)",
+          "answer": "P = 4T/r = 4 × 25 × 10⁻³/0.04 = 2.5 Pa.",
+          "years": [
+            "October 2024"
+          ],
+          "or": {
+            "q": "A 50 kg body is placed on the smaller piston (0.1 m²) of a hydraulic lift whose bigger piston is 10 m². Find the weight it can lift. (g = 10 m/s²)",
+            "answer": "F₂ = F₁ × A₂/A₁ = 500 × 10/0.1 = 5 × 10⁴ N."
+          }
+        },
+        {
+          "id": "3.6",
+          "type": "open",
+          "q": "Two thigh bones, each of area 10 cm², support a 40 kg upper body. Find the average pressure. (g = 10 m/s²)",
+          "answer": "Force = 40 × 10 = 400 N; area = 2 × 10 × 10⁻⁴ = 2 × 10⁻³ m².\nP = 400/(2 × 10⁻³) = 2 × 10⁵ Pa.",
+          "years": [
+            "January-February 2021"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "4 × 3 = 12",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "Water flows through a horizontal pipe of non-uniform cross-section. The pressure is 20 mm of mercury where the speed is 0.2 m/s. Find the pressure where the speed is 1.5 m/s. (ρ = 10³ kg/m³)",
+          "answer": "Bernoulli: P₁ − P₂ = ½ρ(v₂² − v₁²) = ½ × 1000 × (2.25 − 0.04) = 1105 Pa.\nP₁ = 0.020 × 13600 × 9.8 ≈ 2666 Pa.\nP₂ = 2666 − 1105 ≈ 1561 Pa ≈ 11.7 mm of mercury.",
+          "years": [
+            "April 2025"
+          ],
+          "or": {
+            "q": "Find the rise of a liquid (ρ = 1000 kg/m³, T = 7.27 × 10⁻² N/m) in a capillary of radius 0.2 × 10⁻³ m and length 0.05 m. (g = 10 m/s², θ = 0)",
+            "answer": "h = 2T cos θ/(rρg) = 2 × 7.27 × 10⁻²/(0.2 × 10⁻³ × 1000 × 10) = 0.0727 m = 7.27 cm.\nThe tube is only 5 cm long, so the liquid reaches the top and stays there; the surface flattens and it does not overflow."
+          }
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "Calculate the excess pressure inside (i) an air bubble in water, (ii) a water drop and (iii) a soap bubble, each of radius 0.5 mm. (T_water = 7.2 × 10⁻² N/m, T_soap = 2.5 × 10⁻² N/m)",
+          "answer": "(i) Air bubble in water: 2T/r = 2 × 7.2 × 10⁻²/0.5 × 10⁻³ = 288 Pa.\n(ii) Water drop: 2T/r = 288 Pa.\n(iii) Soap bubble (two surfaces): 4T/r = 4 × 2.5 × 10⁻²/0.5 × 10⁻³ = 200 Pa.",
+          "years": [
+            "April 2022"
+          ]
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "Verify Stokes' law (F = 6πηrv) by dimensional analysis.",
+          "answer": "Let F = k ηᵃ rᵇ vᶜ.\n[MLT⁻²] = [ML⁻¹T⁻¹]ᵃ[L]ᵇ[LT⁻¹]ᶜ.\nM: a = 1. T: −a − c = −2 ⇒ c = 1. L: −a + b + c = 1 ⇒ b = 1.\nSo F = kηrv, with k = 6π found by experiment.",
+          "years": [
+            "October 2025"
+          ],
+          "or": {
+            "q": "Obtain the terminal velocity of a sphere of radius r and density ρ falling through a fluid of viscosity η and density σ.",
+            "answer": "At terminal velocity, weight = upthrust + viscous drag:\n(4/3)πr³ρg = (4/3)πr³σg + 6πηrv.\nv = 2r²(ρ − σ)g/9η."
+          }
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "Explain (a) why a spinning tennis ball curves and (b) why a small ball falling through a viscous liquid reaches a constant velocity.",
+          "answer": "(a) Spin drags air round the ball, so air moves faster on one side. Lower pressure there (Bernoulli) gives a sideways force and the path curves (Magnus effect).\n(b) The viscous drag 6πηrv grows with speed. When drag plus upthrust equal the weight, the net force is zero and the ball moves at a constant terminal velocity.",
+          "years": [
+            "April 2023"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Long answer questions. Answer in 80–120 words.",
+      "marks": "3 × 5 = 15",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "Define terminal velocity and derive its expression for a sphere falling through a viscous fluid. Explain why raindrops do not hurt and why a parachute works.",
+          "answer": "Terminal velocity is the constant velocity a body reaches when the net force on it becomes zero.\nForces on a sphere: weight (4/3)πr³ρg down; upthrust (4/3)πr³σg up; Stokes drag 6πηrv up.\nAt terminal velocity: (4/3)πr³(ρ − σ)g = 6πηrv ⇒ v = 2r²(ρ − σ)g/9η.\nRaindrops are small (v ∝ r²) and reach a low terminal speed, so they land gently.\nA parachute has a large area, so the drag is large and the terminal speed small, giving a safe landing.",
+          "years": [
+            "October 2022",
+            "October 2021"
+          ]
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "Define viscosity and the coefficient of viscosity. Give its unit and dimensions. Does the nature of flow depend on viscosity? Explain Reynolds number.",
+          "answer": "Viscosity is the property of a fluid that opposes relative motion between its layers.\nCoefficient of viscosity η: the tangential force per unit area for unit velocity gradient, F = ηA dv/dx. Unit N s m⁻² (Pa s); dimensions [ML⁻¹T⁻¹]. Glycerine is more viscous than water.\nYes: Re = ρvD/η is a pure number. Greater viscosity gives a smaller Re and more stable streamline flow. Re < 2000 means laminar flow; Re > 3000 means turbulent; between is unstable.",
+          "years": [
+            "October 2018",
+            "April 2017"
+          ]
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "State Bernoulli's theorem and describe the working of a venturimeter (flow meter).",
+          "answer": "Bernoulli: for steady flow of an ideal fluid, P + ½ρv² + ρgh is constant along a streamline (conservation of energy).\nA venturimeter is a horizontal tube with a narrow throat. By continuity A₁v₁ = A₂v₂, the speed is greater in the throat, so the pressure there is lower. A manometer measures the difference P₁ − P₂ = ½ρ(v₂² − v₁²).\nFrom this, v₁ = A₂√[2(P₁ − P₂)/ρ(A₁² − A₂²)], and the rate of flow is A₁v₁.",
+          "years": [
+            "October 2021",
+            "April 2017"
+          ]
+        }
+      ]
+    }
+  ]
+}

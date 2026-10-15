@@ -1,0 +1,571 @@
+{
+  "subject": "physics",
+  "lesson": 901,
+  "title": "Model Question Paper 1",
+  "meta": "Time: 3 hours · Maximum marks: 80 · Modelled on the April 2026 NIOS paper",
+  "instructions": [
+    "All questions are compulsory. Where a question has OR, answer either one.",
+    "Section A: questions 1–16 are MCQs (1 mark each). Questions 17–28 have two parts of 1 mark each.",
+    "Section B: 2-mark answers in 30–50 words, 3-mark answers in 50–80 words, 5-mark answers in 80–120 words. Show the working in numerical questions.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "16 × 1 = 16",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "The change in momentum of a body is equal to —",
+          "options": [
+            "force × displacement",
+            "mass × velocity",
+            "force × time",
+            "force × velocity"
+          ],
+          "answer": "C",
+          "years": [
+            "October 2022",
+            "April 2024"
+          ],
+          "note": "Lesson 3."
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "If the speed of a body is doubled, its kinetic energy increases by —",
+          "options": [
+            "50%",
+            "100%",
+            "200%",
+            "300%"
+          ],
+          "answer": "D",
+          "years": [
+            "April 2018"
+          ],
+          "work": "K ∝ v². Doubling v makes K four times, i.e. an increase of 4K − K = 3K = 300%.",
+          "note": "Lesson 6."
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "The property due to which a churned fluid comes back to rest is —",
+          "options": [
+            "pressure",
+            "elasticity",
+            "surface tension",
+            "viscosity"
+          ],
+          "answer": "D",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 9."
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "A Carnot engine works between the steam point and the ice point. Its efficiency is —",
+          "options": [
+            "24.9%",
+            "25.7%",
+            "26.8%",
+            "28.8%"
+          ],
+          "answer": "C",
+          "years": [
+            "October 2021",
+            "April 2025"
+          ],
+          "work": "η = 1 − T₂/T₁ = 1 − 273/373 = 100/373 ≈ 0.268 = 26.8%.",
+          "note": "Lesson 11."
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "The fundamental frequency of an open pipe is 120 Hz. Its third harmonic is —",
+          "options": [
+            "120 Hz",
+            "360 Hz",
+            "240 Hz",
+            "480 Hz"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2022"
+          ],
+          "work": "Third harmonic = 3 × 120 = 360 Hz.",
+          "note": "Lesson 14."
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "Which law does NOT pertain to electrostatics?",
+          "options": [
+            "Coulomb's law",
+            "Gauss's law",
+            "Ampère's law",
+            "Law of conservation of charge"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2022"
+          ],
+          "note": "Lesson 15."
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "Ten capacitors of 5 µF each are connected first in parallel and then in series. The ratio of the maximum to minimum capacitance is —",
+          "options": [
+            "100 : 1",
+            "50 : 1",
+            "10 : 1",
+            "5 : 1"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2024"
+          ],
+          "work": "Parallel: 10 × 5 = 50 µF. Series: 5/10 = 0.5 µF.\n50 : 0.5 = 100 : 1.",
+          "note": "Lesson 16."
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "A wire of length L and diameter D has the least resistance when its length and diameter are —",
+          "options": [
+            "L and D",
+            "2L and 2D",
+            "2L and D",
+            "L and 2D"
+          ],
+          "answer": "D",
+          "years": [
+            "April 2024"
+          ],
+          "work": "R = ρL/A, A ∝ D². Doubling D makes A four times, so L and 2D gives R/4 — the smallest.",
+          "note": "Lesson 17."
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "The work done by a magnetic field on a moving charge is —",
+          "options": [
+            "qvB",
+            "maximum when v ⊥ B",
+            "zero",
+            "negative"
+          ],
+          "answer": "C",
+          "years": [
+            "January-February 2021"
+          ],
+          "note": "Lesson 18."
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "The cause of induced emf in a closed coil is —",
+          "options": [
+            "electric flux",
+            "magnetic flux",
+            "change in magnetic flux",
+            "change in electric flux"
+          ],
+          "answer": "C",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 19."
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "A coloured image of an object is formed by a convex lens. The colour nearest the optical centre of the lens is —",
+          "options": [
+            "violet",
+            "green",
+            "yellow",
+            "red"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 21."
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "Which is the correct definition of interference?",
+          "options": [
+            "Superposition of light waves",
+            "Superposition of light from two incoherent sources",
+            "Redistribution of energy due to superposition of light waves from two coherent sources",
+            "Superposition of light waves from two coherent sources"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 22."
+        },
+        {
+          "id": "1.13",
+          "type": "mcq",
+          "q": "The idea of the nuclear model of the atom was given by —",
+          "options": [
+            "John Dalton",
+            "Lord Rutherford",
+            "Niels Bohr",
+            "Linus Pauling"
+          ],
+          "answer": "B",
+          "years": [
+            "January-February 2021"
+          ],
+          "note": "Lesson 24."
+        },
+        {
+          "id": "1.14",
+          "type": "mcq",
+          "q": "Photons of 5 eV fall on a metal of work function 2.3 eV. The maximum kinetic energy of the photoelectrons is —",
+          "options": [
+            "7.3 eV",
+            "2.7 eV",
+            "2.3 eV",
+            "5 eV"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2022"
+          ],
+          "work": "KE_max = hν − φ = 5 − 2.3 = 2.7 eV.",
+          "note": "Lesson 25."
+        },
+        {
+          "id": "1.15",
+          "type": "mcq",
+          "q": "After four half-lives, the amount of a radioactive substance left from N₀ is —",
+          "options": [
+            "N₀/4",
+            "N₀/12",
+            "N₀/8",
+            "N₀/16"
+          ],
+          "answer": "D",
+          "years": [
+            "October 2022"
+          ],
+          "work": "N = N₀/2⁴ = N₀/16.",
+          "note": "Lesson 26."
+        },
+        {
+          "id": "1.16",
+          "type": "mcq",
+          "q": "Control rods in a nuclear reactor are made of —",
+          "options": [
+            "graphite",
+            "heavy water",
+            "cadmium or boron",
+            "uranium"
+          ],
+          "answer": "C",
+          "note": "Lesson 27."
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark (fill in the blanks, true/false, match or one word).",
+      "marks": "12 × 2 = 24",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "Fill in the blanks: (a) The efficiency of a reversible heat engine does not depend on the nature of the ______. (b) 1 kilocalorie = ______ J.",
+          "answer": "(a) working substance\n(b) 4186 (≈ 4200)",
+          "years": [
+            "October 2024"
+          ],
+          "note": "Lesson 11."
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Complete using (ultraviolet rays, gamma rays, heat waves, radio waves): (a) Radiations with wavelength shorter than X-rays are ______. (b) Infrared rays are also called ______.",
+          "answer": "(a) gamma rays\n(b) heat waves",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 14."
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "State True or False: (a) A dipole in a uniform field experiences no net force. (b) Charge is quantized.",
+          "answer": "(a) True — only a torque.\n(b) True — q = ne.",
+          "note": "Lesson 15."
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Fill in the blanks: (a) Capacitors in ______ have their capacitances added. (b) A dielectric of constant K increases the capacitance ______ times.",
+          "answer": "(a) parallel\n(b) K",
+          "note": "Lesson 16."
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "Fill in the blanks: (a) At balance, a Wheatstone bridge satisfies P/Q = ______. (b) At balance, the current through the galvanometer is ______.",
+          "answer": "(a) R/S\n(b) zero",
+          "note": "Lesson 17."
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "Fill in the blanks: (a) The angle of dip at the magnetic equator is ______. (b) The lagging of magnetisation behind the magnetising field is called ______.",
+          "answer": "(a) 0°\n(b) hysteresis",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 18."
+        },
+        {
+          "id": "2.7",
+          "type": "open",
+          "q": "Complete: (a) Inductive reactance X_L = ______. (b) Capacitive reactance X_C = ______.",
+          "answer": "(a) ωL (= 2πνL)\n(b) 1/ωC",
+          "note": "Lesson 19."
+        },
+        {
+          "id": "2.8",
+          "type": "open",
+          "q": "State True or False: (a) The phenomenon that shows light is transverse is diffraction. (b) When the sky is seen from a satellite it looks black.",
+          "answer": "(a) False — it is polarization.\n(b) True — there is no air to scatter light.",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 21."
+        },
+        {
+          "id": "2.9",
+          "type": "open",
+          "q": "State True or False: (i) All types of waves can be polarized. (ii) All points on a wavefront are in the same phase.",
+          "answer": "(i) False — only transverse waves.\n(ii) True.",
+          "years": [
+            "October 2024"
+          ],
+          "note": "Lesson 22."
+        },
+        {
+          "id": "2.10",
+          "type": "open",
+          "q": "(a) In Rutherford's experiment the target was bombarded by ______. (b) What is the ratio of radii of the first excited state and the ground state of hydrogen?",
+          "answer": "(a) α-particles\n(b) r ∝ n² ⇒ r₂ : r₁ = 4 : 1.",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 24."
+        },
+        {
+          "id": "2.11",
+          "type": "open",
+          "q": "Complete: (a) Einstein's photoelectric equation: KE_max = ______. (b) The slope of the stopping potential–frequency graph is ______.",
+          "answer": "(a) hν − φ (= hν − hν₀)\n(b) h/e",
+          "note": "Lesson 25."
+        },
+        {
+          "id": "2.12",
+          "type": "open",
+          "q": "Fill in the blanks: (a) In chemical reactions the ______ is not affected. (b) The best projectile for triggering a nuclear reaction is the ______.",
+          "answer": "(a) nucleus\n(b) neutron",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Lesson 26."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "9 × 2 = 18",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "How does an electric dipole behave in a non-uniform electric field?",
+          "answer": "The forces on its two charges are unequal, so it feels a net force (it moves towards the stronger field when aligned) as well as a torque that tends to align it with the field.",
+          "years": [
+            "April 2022"
+          ],
+          "note": "Lesson 15."
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "The Q–V graphs of two capacitors X and Y are straight lines, X being steeper. Which stores more energy at the same voltage?",
+          "answer": "The slope Q/V = C, so X has the larger capacitance. U = ½CV², so at the same V, X stores more energy.",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 16."
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "Why do free electrons in a conductor not produce magnetism when there is no p.d.?",
+          "answer": "Their thermal motion is random in all directions, so the average (drift) velocity is zero. There is no net current, and hence no net magnetic field.",
+          "years": [
+            "April 2018"
+          ],
+          "note": "Lesson 17."
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "Name the two fields produced around a moving charge. Are they in the same direction?",
+          "answer": "An electric field and a magnetic field. No — the magnetic field is perpendicular to the electric field (it circles round the line of motion).",
+          "years": [
+            "October 2018"
+          ],
+          "note": "Lesson 18."
+        },
+        {
+          "id": "3.5",
+          "type": "open",
+          "q": "State Lenz's law. Show that it follows from conservation of energy.",
+          "answer": "The induced current flows in a direction that opposes the change producing it. If it aided the change, a small motion would produce ever-growing current and energy from nothing; opposing it means work must be done, which becomes electrical energy.",
+          "years": [
+            "April 2017"
+          ],
+          "note": "Lesson 19."
+        },
+        {
+          "id": "3.6",
+          "type": "open",
+          "q": "What are anti-Stokes lines?",
+          "answer": "In the Raman spectrum, anti-Stokes lines are scattered lines of higher frequency (shorter wavelength) than the incident light. The photon gains energy from a molecule already in an excited vibrational state.",
+          "years": [
+            "April 2026"
+          ],
+          "or": {
+            "q": "What is dispersion of light? Would you prefer a small-angled or a large-angled prism to produce dispersion?",
+            "answer": "Dispersion is the splitting of white light into its colours because μ varies with wavelength. A large-angled prism, since angular dispersion (μ_v − μ_r)A increases with the angle A."
+          },
+          "note": "Lesson 21."
+        },
+        {
+          "id": "3.7",
+          "type": "open",
+          "q": "In Young's experiment, how is a dark fringe produced on the screen?",
+          "answer": "Where the waves from the two slits arrive with a path difference of (2n − 1)λ/2 (a phase difference of an odd multiple of π), crest meets trough and they cancel, giving darkness.",
+          "years": [
+            "April 2024"
+          ],
+          "or": {
+            "q": "In a single-slit diffraction pattern, what can you say about the width of the central fringe and the intensity of the bright fringes?",
+            "answer": "(a) The central bright fringe is twice as wide as each of the others. (b) Its intensity is greatest, and the intensity of the later bright fringes falls off rapidly."
+          },
+          "note": "Lesson 22."
+        },
+        {
+          "id": "3.8",
+          "type": "open",
+          "q": "Write two postulates of Rutherford's atomic model.",
+          "answer": "(1) All the positive charge and nearly all the mass of an atom are concentrated in a tiny central nucleus.\n(2) Electrons revolve round the nucleus in orbits, the electrostatic attraction providing the centripetal force; most of the atom is empty space.",
+          "years": [
+            "April 2022",
+            "October 2018"
+          ],
+          "note": "Lesson 24."
+        },
+        {
+          "id": "3.9",
+          "type": "open",
+          "q": "Radiation of frequency 5.6 × 10¹⁴ Hz releases photoelectrons with zero kinetic energy. Calculate the work function. (h = 6.6 × 10⁻³⁴ J s)",
+          "answer": "This is the threshold frequency: φ = hν₀ = 6.6 × 10⁻³⁴ × 5.6 × 10¹⁴ = 3.7 × 10⁻¹⁹ J ≈ 2.3 eV.",
+          "years": [
+            "April 2017"
+          ],
+          "note": "Lesson 25."
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "4 × 3 = 12",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "Two masses of 2 kg and 3 kg hang from a light string over a frictionless pulley. Find the acceleration and the tension. (g = 9.8 m/s²)",
+          "answer": "a = (m₂ − m₁)g/(m₁ + m₂) = (3 − 2) × 9.8/5 = 1.96 m/s².\nT = 2m₁m₂g/(m₁ + m₂) = 2 × 2 × 3 × 9.8/5 = 23.5 N.\nThe 3 kg mass moves down and the 2 kg mass moves up.",
+          "years": [
+            "April 2018",
+            "October 2018"
+          ],
+          "note": "Lesson 3."
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "A transformer is to run machines needing (i) 25000 V and (ii) 25 V from a 250 V, 50 Hz supply. Name the transformers and give their turns ratios.",
+          "answer": "(i) Step-up transformer, Nₚ : Nₛ = 250 : 25000 = 1 : 100.\n(ii) Step-down transformer, Nₚ : Nₛ = 250 : 25 = 10 : 1.\nThe primary is connected to the supply and the secondary to the machine.",
+          "years": [
+            "October 2018"
+          ],
+          "note": "Lesson 19."
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "Name the series of the hydrogen spectrum with their regions and the formula for each.",
+          "answer": "1/λ = R(1/n₁² − 1/n₂²):\nLyman — n₁ = 1, ultraviolet.\nBalmer — n₁ = 2, visible.\nPaschen — n₁ = 3, infrared.\nBrackett — n₁ = 4, infrared.\nPfund — n₁ = 5, far infrared.\nIn each series n₂ = n₁ + 1, n₁ + 2, …",
+          "note": "Lesson 24."
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "Distinguish between nuclear fission and nuclear fusion.",
+          "answer": "Fission: a heavy nucleus splits into lighter ones; triggered by slow neutrons at ordinary temperatures; can be controlled (reactors); produces radioactive waste.\nFusion: light nuclei combine into a heavier one; needs about 10⁷ K; occurs in the sun and stars; not yet controlled for power; gives more energy per unit mass and less radioactive waste.",
+          "note": "Lesson 27."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Long answer questions. Answer in 80–120 words.",
+      "marks": "2 × 5 = 10",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "Explain Einstein's photoelectric equation. How do the graph of stopping potential against frequency for two metals give the threshold frequency, work function and Planck's constant?",
+          "answer": "Light consists of photons of energy hν. A photon gives all its energy to one electron, which spends φ = hν₀ to escape, so KE_max = hν − φ, i.e. eV₀ = hν − hν₀.\nThe graph of V₀ against ν is a straight line V₀ = (h/e)ν − φ/e.\nIts intercept on the ν-axis is the threshold frequency ν₀; the metal with the larger ν₀ has the larger work function φ = hν₀.\nThe slope h/e is the same for every metal, so h = e × slope.",
+          "years": [
+            "October 2016"
+          ],
+          "note": "Lesson 25."
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "Explain with circuit diagrams how a p-n junction diode works in (i) forward and (ii) reverse bias, and draw its V–I characteristics.",
+          "answer": "Formation: diffusion of electrons and holes across the junction leaves a depletion layer with a barrier potential (Si about 0.7 V).\n(i) Forward bias (p to +): the applied voltage opposes the barrier, the depletion layer narrows, majority carriers cross, and a large current flows after the knee voltage. Circuit: battery, diode, milliammeter, voltmeter and rheostat.\n(ii) Reverse bias (p to −): the barrier rises and the depletion layer widens; only minority carriers give a tiny reverse current (µA), until breakdown. Circuit: battery reversed, with a microammeter.\nCharacteristic: a steep rise in the first quadrant after the knee; a small nearly flat current in the third quadrant, then a sudden rise at breakdown.",
+          "years": [
+            "April 2023",
+            "April 2025"
+          ],
+          "note": "Lesson 28."
+        }
+      ]
+    }
+  ]
+}

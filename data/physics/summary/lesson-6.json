@@ -1,0 +1,231 @@
+{
+  "subject": "physics",
+  "lesson": 6,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 6: Work, Energy and Power — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Work"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Work done by a constant force is W = F · d = Fd cos θ. It is a scalar, measured in joules (1 J = 1 N m)."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Work is positive when 0° ≤ θ < 90°, as when lifting a bucket or a monkey climbing up a tree. It is negative when 90° < θ ≤ 180°, as with friction on a sliding body or gravity on a rising ball. It is zero when θ = 90° or d = 0: a coolie walking on level ground with a load, the centripetal force on a body in circular motion, or pushing a wall that does not move. Work is maximum when θ = 0°."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "In vector form W = F · d = FₓDₓ + F_yD_y. For F = (5i + 3j) N and d = (3i + 4j) m, W = 15 + 12 = 27 J."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Work equals the area under the force–displacement graph."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Work done by a variable force (spring)"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Hooke's law: F = −kx, where k (in N/m) is the spring constant."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "The work done in stretching or compressing a spring by x is W = ∫kx dx = ½kx². This is stored as elastic potential energy, so it grows as x²: stretching from 2 cm to 10 cm multiplies the energy 25 times."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Energy"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Kinetic energy is K = ½mv² = p²/2m. If the speed doubles, K becomes 4 times, an increase of 300%. For equal momentum the lighter body has more KE. For equal KE, p ∝ √m and v ∝ 1/√m."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Gravitational potential energy is U = mgh above a chosen reference level. Elastic potential energy is ½kx²."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Work–energy theorem"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "The work done by the net force equals the change in kinetic energy: W = K_f − K_i."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Example: a 10 kg body at 4 m/s is pushed by 30 N for 2 s. a = 3 m/s², v = 10 m/s, s = 14 m, so W = 30 × 14 = 420 J = 500 − 80 J."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Conservative and non-conservative forces"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "For a conservative force, such as gravity or a spring, the work done is independent of the path and zero over a closed path, so mechanical energy (K + U) is conserved. For a non-conservative force, such as friction or air resistance, the work depends on the path and mechanical energy is lost as heat."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Energy can be converted from one form to another but never created or destroyed. A body thrown up has maximum KE at the point of projection and maximum PE at the top. With air resistance its KE at height h is less than ½mv² − mgh."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Power"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Power is the rate of doing work: P = W/t = Fv. The unit is the watt (1 W = 1 J/s). 1 hp = 746 W, and 1 kWh = 3.6 × 10⁶ J, a unit of energy."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Example: a crane lifting 100 kg through 10 m in 20 s has P = mgh/t = 100 × 10 × 10/20 = 500 W. A body moving at a steady 5 m/s against 3 N of friction loses Fv = 15 W."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Collisions"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Momentum is conserved in all collisions."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Elastic collision: kinetic energy is also conserved. In one dimension, v₁ = [(m₁ − m₂)u₁ + 2m₂u₂]/(m₁ + m₂) and v₂ = [(m₂ − m₁)u₂ + 2m₁u₁]/(m₁ + m₂)."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Perfectly inelastic collision: the bodies stick together and KE is lost as heat, sound and deformation. Common velocity v = m₁u₁/(m₁ + m₂) if m₂ is at rest, and K_f/K_i = m₁/(m₁ + m₂)."
+        ]
+      ]
+    }
+  ]
+}

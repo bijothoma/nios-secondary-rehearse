@@ -1,0 +1,72 @@
+{
+ "lesson": 6,
+ "title": "Work, Energy and Power",
+ "module": 1,
+ "summary": [
+  "## Work",
+  "Work done by a constant force is W = F · d = Fd cos θ. It is a scalar, measured in joules (1 J = 1 N m).",
+  "Work is positive when 0° ≤ θ < 90°, as when lifting a bucket or a monkey climbing up a tree. It is negative when 90° < θ ≤ 180°, as with friction on a sliding body or gravity on a rising ball. It is zero when θ = 90° or d = 0: a coolie walking on level ground with a load, the centripetal force on a body in circular motion, or pushing a wall that does not move. Work is maximum when θ = 0°.",
+  "In vector form W = F · d = FₓDₓ + F_yD_y. For F = (5i + 3j) N and d = (3i + 4j) m, W = 15 + 12 = 27 J.",
+  "Work equals the area under the force–displacement graph.",
+  "## Work done by a variable force (spring)",
+  "Hooke's law: F = −kx, where k (in N/m) is the spring constant.",
+  "The work done in stretching or compressing a spring by x is W = ∫kx dx = ½kx². This is stored as elastic potential energy, so it grows as x²: stretching from 2 cm to 10 cm multiplies the energy 25 times.",
+  "## Energy",
+  "Kinetic energy is K = ½mv² = p²/2m. If the speed doubles, K becomes 4 times, an increase of 300%. For equal momentum the lighter body has more KE. For equal KE, p ∝ √m and v ∝ 1/√m.",
+  "Gravitational potential energy is U = mgh above a chosen reference level. Elastic potential energy is ½kx².",
+  "## Work–energy theorem",
+  "The work done by the net force equals the change in kinetic energy: W = K_f − K_i.",
+  "Example: a 10 kg body at 4 m/s is pushed by 30 N for 2 s. a = 3 m/s², v = 10 m/s, s = 14 m, so W = 30 × 14 = 420 J = 500 − 80 J.",
+  "## Conservative and non-conservative forces",
+  "For a conservative force, such as gravity or a spring, the work done is independent of the path and zero over a closed path, so mechanical energy (K + U) is conserved. For a non-conservative force, such as friction or air resistance, the work depends on the path and mechanical energy is lost as heat.",
+  "Energy can be converted from one form to another but never created or destroyed. A body thrown up has maximum KE at the point of projection and maximum PE at the top. With air resistance its KE at height h is less than ½mv² − mgh.",
+  "## Power",
+  "Power is the rate of doing work: P = W/t = Fv. The unit is the watt (1 W = 1 J/s). 1 hp = 746 W, and 1 kWh = 3.6 × 10⁶ J, a unit of energy.",
+  "Example: a crane lifting 100 kg through 10 m in 20 s has P = mgh/t = 100 × 10 × 10/20 = 500 W. A body moving at a steady 5 m/s against 3 N of friction loses Fv = 15 W.",
+  "## Collisions",
+  "Momentum is conserved in all collisions.",
+  "Elastic collision: kinetic energy is also conserved. In one dimension, v₁ = [(m₁ − m₂)u₁ + 2m₂u₂]/(m₁ + m₂) and v₂ = [(m₂ − m₁)u₂ + 2m₁u₁]/(m₁ + m₂).",
+  "Perfectly inelastic collision: the bodies stick together and KE is lost as heat, sound and deformation. Common velocity v = m₁u₁/(m₁ + m₂) if m₂ is at rest, and K_f/K_i = m₁/(m₁ + m₂)."
+ ],
+ "mcq": [
+  ["A long spring stretched by 2 cm has potential energy V. If it is stretched by 10 cm, its potential energy will be —", ["V/25", "V/5", "5V", "25V"], "D", ["April 2026"], {"work": "U = ½kx², so U ∝ x².\nx increases 5 times (2 cm → 10 cm), so U = 5² × V = 25V."}],
+  ["The area under a force–displacement graph equals —", ["momentum", "impulse", "work done", "acceleration"], "C", ["October 2022"]],
+  ["If the speed of a body is doubled, its kinetic energy increases by —", ["50%", "100%", "200%", "300%"], "D", ["April 2018"], {"work": "K ∝ v². Doubling v makes K four times, i.e. an increase of 4K − K = 3K = 300%."}],
+  ["A crane lifts 100 kg through 10 m in 20 s (g = 10 m/s²). Its power is —", ["100 W", "200 W", "250 W", "500 W"], "D", ["October 2021"], {"work": "P = mgh/t = 100 × 10 × 10/20 = 500 W."}],
+  ["Two bodies of different masses have equal momentum. Then —", ["the lighter body has more kinetic energy", "the heavier body has more kinetic energy", "both have equal kinetic energy", "both have equal velocities"], "A", ["April 2023", "October 2022"], {"work": "K = p²/2m. With p the same, K is larger for the smaller m."}],
+  ["In which case is work done against the gravity of the earth?", ["A monkey climbs up a tree", "A car moves on a level road", "A person tries to lift a heavy load but fails", "A person lifts a load in an orbiting satellite"], "A", ["October 2024"]],
+  ["A particle is projected at 60° to the horizontal with kinetic energy E. Its kinetic energy at the highest point is —", ["0", "E/2", "E/4", "E"], "C", ["October 2024"], {"work": "At the top only the horizontal velocity u cos 60° = u/2 remains.\nKE = ½m(u/2)² = ¼ × ½mu² = E/4."}],
+  ["A 2 kg body moves at a constant 5 m/s under a constant 3 N force. The power lost to friction is —", ["0", "15 W", "10 W", "30 W"], "B", ["October 2024"], {"work": "Constant velocity ⇒ friction = applied force = 3 N.\nPower lost = Fv = 3 × 5 = 15 W."}],
+  ["A force of 5 N moves a body 20 m along its own direction. The work done is —", ["50 J", "−980 J", "100 J", "zero"], "C", ["October 2025"], {"work": "W = Fd cos 0° = 5 × 20 = 100 J."}],
+  ["A body is thrown up with speed v. Its kinetic energy at height h is —", ["equal to ½mv²", "more than ½mv²", "less than ½mv²", "mgh − ½mv²"], "C", ["April 2024"]],
+  ["Work done by the centripetal force on a body moving once round a circle is —", ["2πrF", "πrF", "zero", "mv²"], "C", ["October 2025"]],
+  ["1 kWh is equal to —", ["3.6 × 10³ J", "3.6 × 10⁵ J", "3.6 × 10⁶ J", "1000 J"], "C"]
+ ],
+ "objective": [
+  ["Fill in the blanks: (a) The SI unit of energy is ______. (b) 1 horsepower = ______ watt.", "(a) joule\n(b) 746", ["April 2024"]],
+  ["(a) What angle between force and displacement gives maximum work? (b) A light and a heavy body have the same momentum — which has more KE?", "(a) 0°.\n(b) The lighter body (K = p²/2m).", ["October 2025"]],
+  ["State True or False: (a) Work done by a conservative force over a closed path is zero. (b) In an inelastic collision momentum is not conserved.", "(a) True.\n(b) False — momentum is conserved in all collisions; only KE is lost."],
+  ["Fill in the blanks: (a) 1 kWh is a unit of ______. (b) Joule per second is also called ______.", "(a) energy\n(b) watt", ["April 2024"]],
+  ["Complete: (a) A spring of k = 100 N/m stretched by 10 cm stores ______ J. (b) If the stretch is doubled, the energy becomes ______ times.", "(a) U = ½kx² = ½ × 100 × (0.1)² = 0.5 J.\n(b) 4 (U ∝ x²).", ["April 2023"]],
+  ["(a) Two bodies stick together after collision — elastic or inelastic? (b) Name the energy stored in a stretched spring.", "(a) Perfectly inelastic.\n(b) Elastic potential energy.", ["October 2025"]]
+ ],
+ "vsa": [
+  ["What are conservative forces? Give one example.", "A force is conservative if the work it does is independent of the path and zero over any closed path, so mechanical energy is conserved. Examples: gravitational force, spring force, electrostatic force.", ["April 2026", "October 2022"]],
+  ["A 100 kg body is lifted 8 m in 10 s. Calculate the power supplied. (g = 9.8 m/s²)", "W = mgh = 100 × 9.8 × 8 = 7840 J.\nP = W/t = 7840/10 = 784 W.", ["April 2023"]],
+  ["Convert (a) 7460 W into hp and (b) 360 kJ into kWh.", "(a) 7460/746 = 10 hp.\n(b) 1 kWh = 3.6 × 10⁶ J, so 360 × 10³/3.6 × 10⁶ = 0.1 kWh.", ["April 2024"]],
+  ["A particle moving with kinetic energy 3.6 J hits a spring of force constant 180 N/m. Find the maximum compression.", "All the KE becomes spring energy: ½kx² = 3.6.\nx² = 2 × 3.6/180 = 0.04 ⇒ x = 0.2 m.", ["October 2022"]],
+  ["A ball is thrown vertically up. Where is its (i) kinetic energy and (ii) potential energy maximum?", "(i) KE is maximum at the point of projection (and on return), where speed is greatest.\n(ii) PE is maximum at the highest point, where it momentarily stops.", ["October 2018"]],
+  ["Two particles of different masses have equal kinetic energies. Find the ratio of their momenta and velocities.", "K = p²/2m ⇒ p = √(2mK), so p₁/p₂ = √(m₁/m₂).\nK = ½mv² ⇒ v = √(2K/m), so v₁/v₂ = √(m₂/m₁).", ["April 2025"]]
+ ],
+ "sa": [
+  ["What is meant by positive, negative and zero work? Give an example of each.", "W = Fd cos θ.\nPositive work (θ < 90°): a person lifting a bucket — force and displacement are both upward.\nNegative work (θ > 90°): friction on a sliding body acts opposite to its displacement.\nZero work (θ = 90° or d = 0): a coolie carrying a load on level ground — the upward force is perpendicular to the horizontal motion.", ["April 2026", "April 2018"], {"or": ["State whether the work is positive, negative or zero: (a) friction on a body sliding down an incline; (b) a man lifting a bucket out of a well; (c) a coolie walking on a level platform with a load.", "(a) Negative — friction acts up the incline, opposite to the motion.\n(b) Positive — the force and the displacement are both upward.\n(c) Zero — the force (upward support) is perpendicular to the horizontal displacement."]}],
+  ["A force F = (5i + 3j) N moves a particle through d = (3i + 4j) m. Calculate the work done.", "W = F · d = FₓDₓ + F_yD_y\n= 5 × 3 + 3 × 4 = 15 + 12 = 27 J.", ["April 2025"]],
+  ["A 2 kg body falls freely from 10 m. Using the work–energy principle find (a) its speed at 6 m above the ground, (b) its speed on reaching the ground and (c) the work done by gravity. (g = 10 m/s²)", "(a) It has fallen 4 m: ½mv² = mg × 4 ⇒ v = √(2 × 10 × 4) = √80 ≈ 8.9 m/s.\n(b) Fallen 10 m: v = √(2 × 10 × 10) = √200 ≈ 14.1 m/s.\n(c) W = mgh = 2 × 10 × 10 = 200 J, equal to the gain in KE.", ["October 2021"]],
+  ["Water falls 51 m at 108 kg per second in a hydroelectric plant. Calculate the work done per second and the power. (g = 9.8 m/s²)", "Work per second = mgh = 108 × 9.8 × 51 ≈ 5.4 × 10⁴ J.\nPower (ideal) = 5.4 × 10⁴ J/s ≈ 54 kW.", ["April 2017"]]
+ ],
+ "la": [
+  ["State and prove the work–energy theorem. A 10 kg body moving at 4 m/s is acted on by 30 N for 2 s. Find (a) its final speed, (b) the distance covered, (c) the work done and (d) its initial and final KE.", "Theorem: the work done by the net force on a body equals the change in its kinetic energy.\nProof (constant force): v² = u² + 2as ⇒ ½mv² − ½mu² = mas = Fs = W.\n(a) a = 30/10 = 3 m/s²; v = 4 + 3 × 2 = 10 m/s.\n(b) s = ut + ½at² = 8 + 6 = 14 m.\n(c) W = Fs = 30 × 14 = 420 J.\n(d) Kᵢ = ½ × 10 × 16 = 80 J; K_f = ½ × 10 × 100 = 500 J. Check: 500 − 80 = 420 J = W.", ["October 2025", "October 2022"], {"or": ["Give an example of a variable force and derive the work done by it.", "A spring force F = −kx varies with the extension x.\nThe work done in stretching by a small dx is dW = kx dx. Total work from 0 to x: W = ∫₀ˣ kx dx = ½kx².\nThis is the area of the triangle under the F–x graph and is stored as elastic potential energy in the spring."]}],
+  ["A 10 g bullet moving at 100 m/s embeds in a 1 kg wooden block at rest. Find (a) the velocity after collision, (b) the KE before and after, (c) whether the collision is elastic, and (d) the energy lost.", "(a) Momentum is conserved: 0.01 × 100 = (0.01 + 1)v ⇒ v = 1/1.01 ≈ 0.99 m/s.\n(b) Before: ½ × 0.01 × 100² = 50 J. After: ½ × 1.01 × 0.99² ≈ 0.495 J.\n(c) Perfectly inelastic — the bodies stick together and KE is not conserved.\n(d) Loss ≈ 50 − 0.5 = 49.5 J, which becomes heat, sound and work in deforming the wood.", ["April 2022", "October 2016"]],
+  ["Ball A (1 kg) moving at 20 m/s along +x collides elastically with ball B (2 kg) moving at 10 m/s along −x. Find their velocities after the collision.", "Momentum and kinetic energy are both conserved.\nv_A = [(m_A − m_B)u_A + 2m_Bu_B]/(m_A + m_B) = [(1 − 2) × 20 + 2 × 2 × (−10)]/3 = (−20 − 40)/3 = −20 m/s.\nv_B = [(m_B − m_A)u_B + 2m_Au_A]/(m_A + m_B) = [(2 − 1)(−10) + 2 × 1 × 20]/3 = 30/3 = 10 m/s.\nSo A rebounds at 20 m/s along −x and B moves at 10 m/s along +x.\nCheck: momentum before = 20 − 20 = 0; after = −20 + 20 = 0.", ["October 2018"]]
+ ]
+}

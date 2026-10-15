@@ -1,0 +1,65 @@
+{
+ "lesson": 15,
+ "title": "Electric Charge and Electric Field",
+ "module": 5,
+ "summary": [
+  "## Electric charge",
+  "Charge is a scalar quantity measured in coulombs. It is quantized, q = ne with e = 1.6 × 10⁻¹⁹ C, so −1 C contains 1/e = 6.25 × 10¹⁸ electrons. Charge is conserved and additive.",
+  "Bodies are charged by friction, by conduction (contact) and by induction. A neutral pith ball touched to a negatively charged rod becomes negatively charged.",
+  "## Coulomb's law",
+  "F = (1/4πε₀) q₁q₂/r², where 1/4πε₀ = 9 × 10⁹ N m²/C² and ε₀ = 8.85 × 10⁻¹² C²/N m².",
+  "In a medium of dielectric constant K the force becomes F/K, so F_air : F_medium = K : 1. If both charges and their separation are halved, the force is unchanged. Two identical spheres with +2Q and −Q touched together share +Q/2 each; when replaced at the same distance they repel with F/8.",
+  "The laws of electrostatics are Coulomb's law, Gauss's law and conservation of charge. Ampère's law belongs to magnetism.",
+  "## Electric field",
+  "The electric field E = F/q₀ is the force per unit positive test charge. It is a vector with unit N/C or V/m and dimensions MLT⁻³A⁻¹. The test charge is taken as q₀ → 0 so that it does not disturb the charges producing the field.",
+  "The field of a point charge is E = q/4πε₀r². The superposition principle gives the net field as the vector sum. For a square with alternating charges (−Q, Q / Q, −Q), opposite corners carry equal charges, so the field at the centre is zero.",
+  "An oil drop of charge ne and mass m is held still when neE = mg, so E = mg/ne.",
+  "## Electric field lines",
+  "Field lines start on positive charges and end on negative ones. They never cross. Their tangent gives the direction of E, they are crowded where E is strong, and they meet a conductor at right angles.",
+  "## Electric dipole",
+  "A dipole is two equal and opposite charges a small distance 2a apart. Its dipole moment p = q × 2a, in C m, points from −q to +q.",
+  "Field on the axis: 2p/4πε₀r³. Field on the equatorial line (perpendicular bisector): p/4πε₀r³. Both fall off as 1/r³.",
+  "In a uniform field a dipole feels torque τ = p × E (magnitude pE sin θ) but no net force. Stable equilibrium is when p is parallel to E. In a non-uniform field it feels both a torque and a net force.",
+  "## Gauss's theorem",
+  "Electric flux φ = E · A has unit N m²/C = V m. Gauss's theorem: the total flux through a closed surface = q_enclosed/ε₀. It does not depend on the size of the surface, so concentric spheres round q have equal flux. Zero flux means zero net enclosed charge, but E need not be zero everywhere on the surface.",
+  "Applications: an infinite plane sheet has E = σ/2ε₀ on each side. A uniformly charged spherical shell has E = q/4πε₀r² outside and zero inside; the potential inside is constant. The field at the centre of a uniformly charged ring is zero."
+ ],
+ "mcq": [
+  ["A spherical shell has a uniform surface charge density. The electric field inside it is —", ["zero", "less than zero", "directly proportional to distance from the centre", "greater than zero"], "A", ["April 2026"]],
+  ["The force between two point charges q₁ and q₂ a distance r apart is F. When each charge and the separation are halved, the force becomes —", ["F", "F/2", "F/4", "F/8"], "A", ["April 2025"], {"work": "F' = k(q₁/2)(q₂/2)/(r/2)² = k(q₁q₂/4)/(r²/4) = kq₁q₂/r² = F."}],
+  ["The dimensional formula of electric field is —", ["LT⁻³A⁻¹", "MLT⁻²A", "MLT⁻³A⁻¹", "ML²T⁻²A⁻¹"], "C", ["April 2025"], {"work": "E = F/q = [MLT⁻²]/[AT] = [MLT⁻³A⁻¹]."}],
+  ["The force between two charges at distance d in air is F₁ and in a medium of dielectric constant K is F₂. F₁ : F₂ is —", ["1 : 1", "1 : K", "K : 1", "K² : 1"], "C", ["October 2024"], {"work": "In a medium the force is reduced K times: F₂ = F₁/K ⇒ F₁ : F₂ = K : 1."}],
+  ["The number of electrons that make up −1 C of charge is —", ["6.25 × 10¹⁸", "6.4 × 10²⁷", "9.0 × 10¹⁸", "1.6 × 10¹⁹"], "A", ["October 2024"], {"work": "n = q/e = 1/(1.6 × 10⁻¹⁹) = 6.25 × 10¹⁸."}],
+  ["Two charged spheres in air exert force F. Immersed in a liquid of dielectric constant 2 at the same separation, the force is —", ["4F", "2F", "F", "F/2"], "D", ["April 2023"]],
+  ["Which law does NOT pertain to electrostatics?", ["Coulomb's law", "Gauss's law", "Ampère's law", "Law of conservation of charge"], "C", ["April 2022"]],
+  ["An electric field E holds an oil drop of charge ne and mass m at rest. E is —", ["ne/mg", "mg/ne", "nge/m", "nmg/e"], "B", ["April 2024"], {"work": "Balance: neE = mg ⇒ E = mg/ne."}],
+  ["The SI unit of electric field is —", ["A/m", "C²/m²", "V/m", "C/m²"], "C", ["April 2024"]],
+  ["Two concentric spheres of radii r and 2r enclose a point charge q at the centre. The fluxes through them are in the ratio —", ["1 : 1", "1 : 2", "2 : 1", "1 : 4"], "A", ["April 2024"], {"work": "By Gauss's theorem the flux = q/ε₀ for any closed surface enclosing q."}],
+  ["Charges −Q and Q (top) and Q and −Q (bottom) sit at the corners of a square of side a. The field at the centre is —", ["Q/4πε₀a²", "Q/4πε₀ 2a²", "zero", "4Q/4πε₀r²"], "C", ["October 2025"], {"work": "Diagonally opposite corners carry equal charges (both −Q, both +Q), so their fields at the centre cancel in pairs."}],
+  ["An electric dipole in a uniform electric field is in stable equilibrium when p is —", ["parallel to E", "antiparallel to E", "perpendicular to E", "at 45° to E"], "A", ["April 2017"]]
+ ],
+ "objective": [
+  ["(a) Name the physical quantity whose SI unit is V m. (b) A neutral pith ball is connected by a copper wire to a negatively charged rod. What charge does it acquire?", "(a) Electric flux.\n(b) Negative.", ["April 2026"]],
+  ["Fill in the blanks: (a) Electric potential is a ______ quantity. (b) A ring of radius R carries charge q; the field at its centre is ______.", "(a) scalar\n(b) zero", ["October 2025"]],
+  ["Fill in the blanks: (a) The total flux through a closed surface is ______ times the charge enclosed. (b) Electric field lines never ______ each other.", "(a) 1/ε₀\n(b) intersect (cross)"],
+  ["State True or False: (a) A dipole in a uniform field experiences no net force. (b) Charge is quantized.", "(a) True — only a torque.\n(b) True — q = ne."],
+  ["Spheres A (+2Q) and B (−Q) attract with force F. They are touched and replaced. (a) Charge on each = ______. (b) New force = ______.", "(a) (2Q − Q)/2 = +Q/2 each.\n(b) k(Q/2)²/r² = kQ²/4r² = F/8, now repulsive (F = 2kQ²/r²).", ["April 2018"]],
+  ["Give one word: (a) The unit of electric dipole moment. (b) The field of a dipole on its axis varies as 1/r to the power ______.", "(a) Coulomb metre (C m).\n(b) 3"]
+ ],
+ "vsa": [
+  ["Define electric dipole moment. Give its SI unit.", "The product of either charge and the distance between them, p = q × 2a, directed from −q to +q. SI unit: coulomb metre (C m).", ["January-February 2021"]],
+  ["How does an electric dipole behave in a non-uniform electric field?", "The forces on its two charges are unequal, so it feels a net force (it moves towards the stronger field when aligned) as well as a torque that tends to align it with the field.", ["April 2022"]],
+  ["The electric flux through a Gaussian surface is zero. Does it mean that (a) the charge enclosed is zero and (b) the field is zero everywhere on the surface?", "(a) Yes — by Gauss's theorem φ = q/ε₀, so the net charge enclosed is zero.\n(b) Not necessarily — field lines may enter and leave, giving zero net flux even where E ≠ 0 (e.g. a surface near an outside charge).", ["April 2023"]],
+  ["Draw graphs showing how E and V vary with distance r from the centre of a uniformly charged spherical shell of radius R.", "E: zero for r < R, maximum at r = R, then falling as 1/r² outside.\nV: constant (= q/4πε₀R) inside and on the shell, then falling as 1/r outside.", ["October 2018"]],
+  ["Why is the test charge taken very small (q₀ → 0) when defining the electric field?", "A large test charge would exert forces on the source charges and disturb their positions, changing the very field being measured. Taking q₀ → 0 ensures the field measured is that of the source alone.", ["October 2022"]]
+ ],
+ "sa": [
+  ["Two large plane sheets with charge densities σ and −2σ are parallel and a distance d apart. Find the field (a) to the left of the first sheet, (b) to the right of the second and (c) between them.", "Each sheet gives E = |σ|/2ε₀, away from a positive sheet and towards a negative one. Take +x to the right.\n(a) Left: σ sheet gives σ/2ε₀ to the left; −2σ sheet gives σ/ε₀ to the right. Net σ/2ε₀ to the right.\n(b) Right: σ/2ε₀ to the right and σ/ε₀ to the left. Net σ/2ε₀ to the left.\n(c) Between: σ/2ε₀ + σ/ε₀ = 3σ/2ε₀, towards the −2σ sheet.", ["April 2024"], {"or": ["Show that a dipole p at angle θ to a uniform field E experiences a torque τ = p × E.", "Forces +qE and −qE are equal and opposite, so the net force is zero, but they form a couple.\nTorque = force × perpendicular distance = qE × 2a sin θ = pE sin θ.\nIn vector form τ = p × E; it tends to align p with E."]}],
+  ["What are electric field lines? State three properties. Draw them for a single positive charge and for a dipole.", "Field lines are imaginary curves whose tangent at any point gives the direction of the field there.\nProperties: (1) they start on positive and end on negative charges; (2) two lines never cross; (3) they are dense where the field is strong; (4) they meet a conductor's surface at right angles.\nPositive charge: straight lines pointing radially outward. Dipole: lines curve from +q round to −q.", ["October 2021"]],
+  ["Show that the electric field of a short dipole at a point on its perpendicular bisector varies inversely as the cube of the distance.", "At distance r on the bisector, each charge is √(r² + a²) away, with field kq/(r² + a²).\nThe components along the bisector cancel; the components parallel to the axis add: E = 2kq a/(r² + a²)^(3/2) = kp/(r² + a²)^(3/2).\nFor a short dipole (a ≪ r): E = p/4πε₀r³, so E ∝ 1/r³ (directed opposite to p).", ["October 2022"]]
+ ],
+ "la": [
+  ["State Gauss's theorem. Use it to find the field due to (a) an infinite plane sheet of charge and (b) a uniformly charged spherical shell at points outside and inside.", "Gauss's theorem: the total electric flux through any closed surface = q_enclosed/ε₀.\n(a) Plane sheet (σ): take a cylinder through the sheet. Flux passes only through the two end faces: 2EA = σA/ε₀ ⇒ E = σ/2ε₀, uniform and independent of distance.\n(b) Shell (charge q, radius R):\nOutside (r > R): a sphere of radius r gives E × 4πr² = q/ε₀ ⇒ E = q/4πε₀r², as if all the charge were at the centre.\nInside (r < R): no charge is enclosed ⇒ E = 0.", ["October 2018", "April 2026"]],
+  ["Define electric field at a point. Explain field lines and derive the field due to a dipole on its axial line.", "Electric field E = F/q₀ (q₀ → 0), the force per unit positive test charge; unit N/C or V/m.\nField lines show the direction of E, start on + and end on − charges, and never cross.\nAxial field at distance r from the centre of a dipole (±q, 2a apart): E = kq/(r − a)² − kq/(r + a)² = kq × 4ar/(r² − a²)².\nFor a short dipole (a ≪ r): E = 2p/4πε₀r³ along p.", ["October 2022"]]
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "lesson": 27,
+ "title": "Nuclear Fission and Fusion",
+ "module": 7,
+ "summary": [
+  "## Nuclear reactions",
+  "In a nuclear reaction the nuclei of reactants interact to form new nuclei. Charge, nucleon number, momentum and mass-energy are all conserved. Reactions can be triggered by protons, deuterons, neutrons and other light nuclei.",
+  "Example: ²⁷Al + ⁴He → ³⁰Si + ¹H, where the emitted particle is a proton.",
+  "Reactions can release energy (exothermic) or absorb it (endothermic). The Q-value = (mass of reactants − mass of products) × c².",
+  "The neutron is the best projectile because, being neutral, it is not repelled by the nucleus.",
+  "## Nuclear fission",
+  "A heavy nucleus splits into two medium nuclei with the release of energy and 2–3 neutrons. For example: ²³⁵U + n → ¹⁴¹Ba + ⁹²Kr + 3n + about 200 MeV.",
+  "Energy is released because the products have a higher binding energy per nucleon, so there is a loss of mass (E = Δm c²).",
+  "U-235 undergoes fission with slow (thermal) neutrons of about 0.025 eV, less than 0.1 eV. Fissile materials are U-235 and Pu-239.",
+  "## Chain reaction and nuclear reactor",
+  "The neutrons released can cause further fissions — a chain reaction. Uncontrolled, it gives an atom bomb; controlled, it runs a nuclear reactor.",
+  "Reactor parts: fuel (U-235 or Pu-239); a moderator (heavy water or graphite) that slows neutrons; control rods (cadmium or boron) that absorb extra neutrons to control the rate; a coolant (water, heavy water or liquid sodium) that removes heat to produce steam; and shielding.",
+  "## Nuclear fusion",
+  "Light nuclei fuse into a heavier nucleus with release of energy, e.g. four protons → helium + 2 positrons + about 26.7 MeV. Fusion needs a temperature of about 10⁷ K (thermonuclear), and is the source of the energy of the sun and stars.",
+  "Fusion releases more energy per unit mass of fuel than fission and leaves less radioactive waste, but it is hard to control. It is the principle of the hydrogen bomb."
+ ],
+ "mcq": [
+  ["The reaction responsible for energy generation in the sun is —", ["a chemical reaction", "controlled fission", "uncontrolled fission", "fusion"], "D", ["April 2017"]],
+  ["In nuclear reactors, heavy water is used to —", ["speed up fast neutrons", "slow down fast neutrons", "absorb heat", "absorb extra neutrons"], "B", ["April 2022"]],
+  ["In ²⁷₁₃Al + ⁴₂He → ³⁰₁₄Si + x, the particle x is —", ["electron", "proton", "neutron", "photon"], "B", ["January-February 2021"], {"work": "Mass numbers: 27 + 4 = 30 + A ⇒ A = 1.\nCharges: 13 + 2 = 14 + Z ⇒ Z = 1. So x = ¹₁H, a proton."}],
+  ["In nuclear reactions there is conservation of —", ["mass only", "energy only", "momentum only", "mass-energy and momentum"], "D", ["October 2021"]],
+  ["In ²³⁵U + n → ᴬ_ZBa + ⁹²₃₆Kr + 3n, the values of A and Z are —", ["141 and 56", "56 and 141", "36 and 92", "92 and 36"], "A", ["October 2018"], {"work": "Mass: 235 + 1 = A + 92 + 3 ⇒ A = 141.\nCharge: 92 = Z + 36 ⇒ Z = 56 (barium)."}],
+  ["The best projectile to trigger a nuclear reaction is —", ["⁴He", "¹H", "²H", "neutron"], "D", ["April 2025"]],
+  ["Neutrons that cause fission of U-235 in a reactor have energy —", ["less than 0.1 eV", "greater than 1.0 eV", "greater than 7.7 MeV", "between 1 and 7 eV"], "A", ["April 2025"]],
+  ["Control rods in a nuclear reactor are made of —", ["graphite", "heavy water", "cadmium or boron", "uranium"], "C"],
+  ["The energy released in one fission of U-235 is about —", ["2 MeV", "20 MeV", "200 MeV", "2000 MeV"], "C"]
+ ],
+ "objective": [
+  ["Fill in the blanks: (a) A device in which a sustained nuclear chain reaction is carried out in a controlled manner is a ______. (b) The energy of the sun is produced by nuclear ______.", "(a) nuclear reactor\n(b) fusion", ["October 2024"]],
+  ["Fill in the blanks: (a) ______ is an effective moderator used in nuclear reactors. (b) The fuel in most nuclear reactors is ______.", "(a) Heavy water (or graphite)\n(b) U-235 (enriched uranium)", ["October 2025"]],
+  ["Give one word: (a) Splitting of a heavy nucleus into two lighter nuclei. (b) Joining of light nuclei into a heavier one.", "(a) Fission.\n(b) Fusion."],
+  ["State True or False: (a) Fusion requires a very high temperature. (b) An uncontrolled chain reaction is used in a nuclear power station.", "(a) True — about 10⁷ K.\n(b) False — a power station uses a controlled chain reaction."]
+ ],
+ "vsa": [
+  ["Explain, with a reaction, how energy is released in nuclear fission.", "²³⁵U + n → ¹⁴¹Ba + ⁹²Kr + 3n + about 200 MeV. The total mass of the products is less than that of the reactants; the lost mass Δm appears as energy E = Δm c², because the fragments are more tightly bound.", ["October 2025"]],
+  ["Out of fission and fusion, which converts mass into energy more efficiently, and why?", "Fusion. Per unit mass of fuel it releases several times more energy (e.g. about 6.7 MeV per nucleon for hydrogen to helium, against about 0.85 MeV per nucleon for uranium fission), because light nuclei gain much more binding energy per nucleon when they fuse.", ["January-February 2021"]],
+  ["What is a chain reaction?", "In fission each U-235 nucleus releases 2–3 neutrons, which can split further nuclei, which release more neutrons, and so on. The reaction becomes self-sustaining and grows rapidly if not controlled."],
+  ["Why is a neutron the best projectile for nuclear reactions?", "It has no charge, so it is not repelled by the positively charged nucleus. Even slow neutrons can enter the nucleus and cause a reaction.", ["April 2025"]]
+ ],
+ "sa": [
+  ["What is meant by nuclear fission and chain reaction? How is a chain reaction controlled in a nuclear reactor? Name two fissile materials.", "Fission: a heavy nucleus such as U-235, on absorbing a slow neutron, splits into two medium nuclei with the release of about 200 MeV and 2–3 neutrons.\nChain reaction: these neutrons cause further fissions, so the process is self-sustaining.\nControl: the moderator (heavy water or graphite) slows the neutrons, and cadmium or boron control rods absorb the extra neutrons so that on average exactly one neutron per fission causes another.\nFissile materials: U-235 and Pu-239.", ["October 2022"]],
+  ["Distinguish between nuclear fission and nuclear fusion.", "Fission: a heavy nucleus splits into lighter ones; triggered by slow neutrons at ordinary temperatures; can be controlled (reactors); produces radioactive waste.\nFusion: light nuclei combine into a heavier one; needs about 10⁷ K; occurs in the sun and stars; not yet controlled for power; gives more energy per unit mass and less radioactive waste."]
+ ],
+ "la": [
+  ["Describe the main parts of a nuclear reactor and the function of each.", "(1) Fuel — U-235 or Pu-239 rods, in which fission occurs.\n(2) Moderator — heavy water or graphite, which slows fast neutrons to thermal speeds so they can cause further fission.\n(3) Control rods — cadmium or boron, which absorb neutrons; moving them in or out controls the rate of reaction.\n(4) Coolant — water, heavy water or liquid sodium, which carries the heat to a heat exchanger to make steam that drives turbines.\n(5) Shielding — thick concrete and lead walls protect workers from radiation.\nThe reactor keeps the chain reaction controlled so that energy is released steadily."]
+ ]
+}

@@ -1,0 +1,285 @@
+{
+  "subject": "physics",
+  "lesson": 3,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 3: Laws of Motion — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Inertia and Newton's first law"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Inertia is a body's tendency to resist any change in its state of rest or uniform motion. Mass is the measure of inertia."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Inertia of rest throws passengers backward when a bus starts suddenly. Inertia of motion throws them forward when it stops suddenly."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "First law: a body stays at rest, or in uniform motion in a straight line, as long as the net external force on it is zero. This law defines force (what changes the state of motion) and inertia. A body need not move in the direction of the force acting on it; a ball thrown sideways still falls downward."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Momentum and Newton's second law"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Linear momentum is p = mv, a vector measured in kg m/s."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Second law: the rate of change of momentum is proportional to the net force and takes place in its direction, F = dp/dt. For constant mass, F = ma. One newton gives 1 kg an acceleration of 1 m/s²."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Acceleration (and change in momentum) is always in the direction of the net force; velocity and displacement need not be. A constant net force means constant acceleration."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Impulse = F × t = change in momentum (Ft = mv − mu). It equals the area under the force–time graph."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Example: a ball of mass m rebounds from a wall with the same speed u. Impulse = m(u − (−u)) = 2mu. A ball thrown up with v returns with v downward, so the change in momentum is 2mv even though its magnitude is unchanged."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "A fielder draws his hands back while catching to increase the time of impact, which reduces the force (F = Δp/t)."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Newton's third law"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "To every action there is an equal and opposite reaction. The two forces act on different bodies, so they never cancel each other."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "A book on a table pushes the table down (action) and the table pushes the book up (reaction). A horse pulls a cart: the horse pushes the ground backward, and the ground's forward push on the horse moves the system."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Conservation of linear momentum"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "If no net external force acts on a system, its total momentum stays constant: m₁u₁ + m₂u₂ = m₁v₁ + m₂v₂."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Proof from the third law: during a collision F₁₂ = −F₂₁ for the same time t, so the changes in momentum are equal and opposite and the total is unchanged."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Examples: recoil of a gun (m_g v_g = −m_b v_b), rocket propulsion, and an explosion of a body at rest, where the fragments' momenta add to zero."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Equilibrium of forces"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Concurrent forces are in equilibrium when their resultant is zero. A body moving with constant velocity has zero net force: a raindrop at terminal speed, a floating cork, a car at steady speed. The minimum number of non-coplanar forces that can keep a body in equilibrium is 4."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Apparent weight in a lift"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "The scale reading is R = m(g + a) when the lift accelerates up, m(g − a) when it accelerates down, and zero in free fall or in an orbiting satellite (weightlessness)."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Connected bodies"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Atwood machine (m₂ > m₁ over a pulley): a = (m₂ − m₁)g/(m₁ + m₂) and T = 2m₁m₂g/(m₁ + m₂)."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Blocks pulled by a force F on a smooth surface: each string's tension equals the force needed to accelerate the blocks behind it."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Friction"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Friction acts parallel to the surfaces in contact and opposes relative motion. Limiting static friction is f_s(max) = μ_s N, and kinetic friction is f_k = μ_k N, with μ_k < μ_s. Rolling friction is much smaller than sliding friction."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "On an incline, a block just begins to slide when tan θ = μ_s, where θ is the angle of repose."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Friction can be reduced by lubricants, ball bearings, polishing and streamlining. Lubricants cannot reduce inertia."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Newton's laws hold only in inertial frames."
+        ]
+      ]
+    }
+  ]
+}

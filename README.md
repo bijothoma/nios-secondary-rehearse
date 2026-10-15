@@ -1,6 +1,8 @@
 # NIOS Secondary Rehearse
 
-Practice app for NIOS 10th (Secondary) model question papers, one paper per lesson.
+Practice app for NIOS Secondary (10th) and Senior Secondary (12th) model question papers, one paper
+per lesson. The home page lists the courses in `levels` of `data/subjects.json`; each subject has a
+`level` (Secondary if missing), and `#/secondary` or `#/senior-secondary` lists that course's subjects.
 Multiple-choice, fill-in-the-blank, true/false and match-the-following questions are
 tappable; the rest have a **Show answer** button. Questions and options are shuffled on
 every try, while sections keep the exam order.
@@ -91,6 +93,9 @@ The lesson then opens with a menu: Lesson, Lesson with translation, and the mode
 - `tools/build_eco.py`: builds Economics from `data/economics/src/lesson-<n>.json` with the same source
   format (54 questions, 100 marks). Numerical answers (cost, revenue, credit, mean) show their working.
   Only the 14 public-exam (theory) lessons of the NIOS syllabus bifurcation are included.
+- `tools/build_phy.py`: builds Senior Secondary Physics (312) from `data/physics/src/lesson-<n>.json` with the
+  same source format (43 questions, 80 marks) and registers it with `level` `senior-secondary`
+  (`build_sci.LEVEL`). Only the 18 public-exam lessons of the NIOS syllabus bifurcation are included.
 - All of these builders share `build_question` in `tools/build_ss.py`. It marks an MCQ `fixed` (options
   keep their printed order instead of being shuffled) when an option refers to the others, such as
   "all of these", "none of the above" or "both (A) and (B)".

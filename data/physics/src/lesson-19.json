@@ -1,0 +1,62 @@
+{
+ "lesson": 19,
+ "title": "Electromagnetic Induction and Alternating Current",
+ "module": 5,
+ "summary": [
+  "## Faraday's laws",
+  "Magnetic flux φ = BA cos θ, measured in webers.",
+  "First law: an emf is induced in a coil whenever the magnetic flux linked with it changes; the cause is the change in flux.",
+  "Second law: the induced emf equals the rate of change of flux linkage, e = −N dφ/dt.",
+  "Lenz's law gives the direction: the induced current opposes the change that produces it, which is a consequence of conservation of energy.",
+  "Motional emf: e = Blv. A rod of length l rotating with angular speed ω (frequency ν) in a field B has e = ½Bωl² = πνBl².",
+  "Eddy currents are induced in bulk conductors. A magnet falling through a copper tube is slowed by them. They are used in induction furnaces, speedometers and electromagnetic brakes, and reduced by laminating transformer cores.",
+  "## Self and mutual induction",
+  "Self-inductance: e = −L dI/dt. For a solenoid L = μ₀N²A/l, measured in henry. Mutual inductance is the basis of the transformer.",
+  "## Alternating current",
+  "e = e₀ sin ωt, with ω = 2πν. The rms value is peak/√2.",
+  "Pure resistor: V and I are in phase. Pure inductor: X_L = ωL and the voltage leads the current by π/2. Pure capacitor: X_C = 1/ωC and the current leads the voltage by π/2. The average power in a pure L or pure C is zero.",
+  "Series LCR circuit: Z = √[R² + (X_L − X_C)²] and tan φ = (X_L − X_C)/R. If X_C > X_L the current leads the voltage. At resonance X_L = X_C, ν₀ = 1/2π√(LC), Z = R and the power factor cos φ = 1.",
+  "Example: L = 60 mH, C = 50 µF, R = 20 Ω and ω = 400 rad/s give X_L = 24 Ω, X_C = 50 Ω and Z ≈ 32.8 Ω.",
+  "A coil carrying 1 A on 100 V dc but only 0.6 A on 100 V ac has R = 100 Ω and Z ≈ 167 Ω, so X_L ≈ 133 Ω. Inductive reactance reduces the ac current.",
+  "## Transformer",
+  "A transformer works by mutual induction and changes ac voltage. Vₛ/Vₚ = Nₛ/Nₚ = Iₚ/Iₛ for an ideal transformer. A step-up transformer has Nₛ > Nₚ; a step-down transformer has Nₛ < Nₚ. Efficiency η = P_out/P_in.",
+  "Energy losses: copper loss (I²R), eddy currents (reduced by a laminated core), hysteresis (reduced by a soft-iron core) and flux leakage.",
+  "Examples: 240 V to 12 V needs Nₚ : Nₛ = 20 : 1, with Iₚ : Iₛ = 1 : 20. 100 : 500 turns with 120 V and 3 A gives 600 V and 0.6 A.",
+  "An ac generator converts mechanical energy into electrical energy by electromagnetic induction."
+ ],
+ "mcq": [
+  ["The cause of induced emf in a closed coil is —", ["electric flux", "magnetic flux", "change in magnetic flux", "change in electric flux"], "C", ["October 2025"]],
+  ["In a purely capacitive circuit, the current —", ["lags the voltage by π/2", "leads the voltage by π/2", "is in phase with the voltage", "leads by π"], "B", ["April 2025"]],
+  ["The average power dissipated in a purely inductive ac circuit is —", ["V_rms I_rms", "½V₀I₀", "zero", "I²X_L"], "C", ["April 2025"]],
+  ["A transformer has 100 turns in the primary and 500 in the secondary. With 120 V and 3 A in the primary, the secondary voltage and current are —", ["600 V, 0.6 A", "24 V, 15 A", "600 V, 15 A", "24 V, 0.6 A"], "A", ["April 2026"], {"work": "Vₛ = Vₚ × Nₛ/Nₚ = 120 × 5 = 600 V.\nIₛ = Iₚ × Nₚ/Nₛ = 3/5 = 0.6 A (power conserved: 360 W)."}],
+  ["The direction of induced emf is given by —", ["Faraday's first law", "Lenz's law", "Ohm's law", "Ampère's law"], "B", ["April 2017"]],
+  ["A bar falling through a hollow copper cylinder is retarded. The bar must be —", ["unmagnetised iron", "a magnet", "copper", "wood"], "B", ["October 2022"]],
+  ["In a series LCR circuit at resonance —", ["X_L > X_C", "X_L < X_C", "X_L = X_C and Z = R", "Z is maximum"], "C"],
+  ["The SI unit of self-inductance is —", ["weber", "tesla", "henry", "farad"], "C"],
+  ["A step-down transformer converts 240 V to 12 V. The ratio of turns Nₚ : Nₛ is —", ["1 : 20", "20 : 1", "12 : 240", "1 : 2"], "B", ["April 2018"], {"work": "Nₚ/Nₛ = Vₚ/Vₛ = 240/12 = 20, i.e. 20 : 1."}],
+  ["In a pure inductor, the voltage —", ["lags the current by π/2", "leads the current by π/2", "is in phase with the current", "leads by π"], "B", ["April 2026"]]
+ ],
+ "objective": [
+  ["Fill in the blanks: (a) In a purely capacitive circuit the current leads the voltage by ______. (b) In a purely inductive circuit the average power dissipated is ______.", "(a) π/2 (90°)\n(b) zero", ["April 2025"]],
+  ["Fill in the blanks: (a) The induced current opposes the cause producing it — this is ______'s law. (b) Transformer cores are laminated to reduce ______ currents.", "(a) Lenz\n(b) eddy"],
+  ["Complete: (a) Inductive reactance X_L = ______. (b) Capacitive reactance X_C = ______.", "(a) ωL (= 2πνL)\n(b) 1/ωC"],
+  ["State True or False: (a) A transformer works on dc. (b) A step-up transformer has more turns in the secondary.", "(a) False — it needs a changing flux (ac).\n(b) True."],
+  ["Complete: a 250 V, 500 W mixer runs on a 125 V line through an ideal transformer. (a) Turns ratio Nₚ : Nₛ = ______. (b) Line current = ______.", "(a) 125 : 250 = 1 : 2 (step-up).\n(b) I = P/V = 500/125 = 4 A.", ["April 2022"]]
+ ],
+ "vsa": [
+  ["A bar falling through the hollow region of a thick copper cylinder experiences a retarding force. What can you conclude about the bar? Explain.", "The bar is a magnet. As it falls, the changing flux induces eddy currents in the copper which, by Lenz's law, oppose its motion — hence the retarding force. An unmagnetised bar would fall freely.", ["October 2022"]],
+  ["State Lenz's law. Show that it follows from conservation of energy.", "The induced current flows in a direction that opposes the change producing it. If it aided the change, a small motion would produce ever-growing current and energy from nothing; opposing it means work must be done, which becomes electrical energy.", ["April 2017"]],
+  ["A coil carries 1 A on 100 V dc and 0.6 A on 100 V ac. Explain, and find its reactance.", "On dc only resistance acts: R = 100/1 = 100 Ω. On ac the inductive reactance also acts: Z = 100/0.6 ≈ 167 Ω.\nX_L = √(Z² − R²) = √(167² − 100²) ≈ 133 Ω.", ["October 2016"]],
+  ["State Faraday's laws of electromagnetic induction.", "First law: whenever the magnetic flux linked with a circuit changes, an emf is induced in it.\nSecond law: the induced emf equals the rate of change of flux linkage: e = −N dφ/dt.", ["October 2022", "April 2024"]]
+ ],
+ "sa": [
+  ["State Faraday's laws of electromagnetic induction and explain them with an example.", "First law: an emf is induced whenever the flux linked with a coil changes. Second law: e = −N dφ/dt.\nExample: pushing a bar magnet into a coil connected to a galvanometer gives a deflection. Pulling it out deflects the other way, and moving it faster gives a bigger deflection. When the magnet is still there is no deflection, because the flux is not changing.", ["April 2024"]],
+  ["A transformer is to run machines needing (i) 25000 V and (ii) 25 V from a 250 V, 50 Hz supply. Name the transformers and give their turns ratios.", "(i) Step-up transformer, Nₚ : Nₛ = 250 : 25000 = 1 : 100.\n(ii) Step-down transformer, Nₚ : Nₛ = 250 : 25 = 10 : 1.\nThe primary is connected to the supply and the secondary to the machine.", ["October 2018"]],
+  ["What is a transformer? How does it work? Give three causes of energy loss in it.", "A device that changes ac voltage (step up or step down) using mutual induction.\nWorking: ac in the primary makes a changing flux in the laminated soft-iron core, which induces an emf in the secondary: Vₛ/Vₚ = Nₛ/Nₚ.\nLosses: (1) copper loss I²R in the windings; (2) eddy-current loss in the core; (3) hysteresis loss; also flux leakage.", ["April 2018"]]
+ ],
+ "la": [
+  ["A transformer has 200 turns in its primary and 1000 in its secondary, with resistances 0.4 Ω and 2 Ω. The secondary output is 13.5 kW at 1200 V and the efficiency is 90%. Find (i) the input voltage, (ii) the input power, (iii) the primary and secondary currents and (iv) the power lost in the primary.", "(i) Vₚ = Vₛ × Nₚ/Nₛ = 1200 × 200/1000 = 240 V.\n(ii) P_in = P_out/η = 13500/0.9 = 15000 W = 15 kW.\n(iii) Iₚ = P_in/Vₚ = 15000/240 = 62.5 A; Iₛ = P_out/Vₛ = 13500/1200 = 11.25 A.\n(iv) Primary copper loss = Iₚ²Rₚ = 62.5² × 0.4 ≈ 1562.5 W.\nTotal loss = 1500 W = 10% of the input.", ["October 2024"], {"or": ["A 60 mH inductor, 50 µF capacitor and 20 Ω resistor are in series across an ac source of peak 210 V and ω = 400 rad/s. Find the impedance, the rms current and the rms voltages across L, C and R. Does the current lead or lag?", "X_L = ωL = 400 × 0.06 = 24 Ω; X_C = 1/ωC = 1/(400 × 50 × 10⁻⁶) = 50 Ω.\nZ = √(20² + (24 − 50)²) = √(400 + 676) ≈ 32.8 Ω.\nV_rms = 210/√2 ≈ 148.5 V; I_rms = 148.5/32.8 ≈ 4.53 A.\nV_R = 4.53 × 20 ≈ 91 V; V_L = 4.53 × 24 ≈ 109 V; V_C = 4.53 × 50 ≈ 226 V.\nX_C > X_L, so the circuit is capacitive and the current leads the voltage."]}],
+  ["A metal rod of length l rotates with frequency ν about one end, which is at the centre of a circular metal ring, the other end touching the ring. A uniform field B is parallel to the axis. Obtain the emf between the centre and the ring.", "Take an element dr at distance r; its speed is v = ωr. The emf across it is de = Bv dr = Bωr dr.\ne = ∫₀ˡ Bωr dr = ½Bωl².\nWith ω = 2πν: e = πνBl².", ["April 2024"]],
+  ["An ac voltage e = e₀ sin ωt is applied to a series LCR circuit. Draw the phasor diagram and obtain the impedance and the phase angle. When is the current maximum?", "The same current I flows through all three. V_R is in phase with I, V_L leads I by 90° and V_C lags I by 90°.\nFrom the phasor diagram: V² = V_R² + (V_L − V_C)² ⇒ Z = √[R² + (X_L − X_C)²], with X_L = ωL and X_C = 1/ωC.\nPhase angle: tan φ = (X_L − X_C)/R.\nThe current is maximum at resonance, X_L = X_C, i.e. ω₀ = 1/√(LC), when Z = R.", ["January-February 2021"]]
+ ]
+}

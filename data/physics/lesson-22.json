@@ -1,0 +1,417 @@
+{
+  "subject": "physics",
+  "lesson": 22,
+  "title": "Wave Phenomena and Light",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "12 × 1 = 12",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "Which is the correct definition of interference?",
+          "options": [
+            "Superposition of light waves",
+            "Superposition of light from two incoherent sources",
+            "Redistribution of energy due to superposition of light waves from two coherent sources",
+            "Superposition of light waves from two coherent sources"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "Two coherent monochromatic beams of intensities I and 4I superpose. The maximum and minimum intensities are —",
+          "options": [
+            "5I and I",
+            "5I and 3I",
+            "3I and I",
+            "9I and I"
+          ],
+          "answer": "D",
+          "years": [
+            "April 2026"
+          ],
+          "work": "I_max = (√I + √4I)² = (3√I)² = 9I.\nI_min = (√4I − √I)² = (√I)² = I."
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "Two coherent waves with intensities in the ratio 9 : 1 interfere. The ratio of maximum to minimum intensity is —",
+          "options": [
+            "2 : 1",
+            "4 : 1",
+            "9 : 1",
+            "10 : 8"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2025"
+          ],
+          "work": "Amplitude ratio = √9 : √1 = 3 : 1.\nI_max : I_min = (3 + 1)² : (3 − 1)² = 16 : 4 = 4 : 1."
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "In Young's experiment the slit separation is halved and the slit–screen distance doubled. The fringe width becomes —",
+          "options": [
+            "unchanged",
+            "halved",
+            "doubled",
+            "quadrupled"
+          ],
+          "answer": "D",
+          "years": [
+            "April 2023"
+          ],
+          "work": "β = λD/d. D × 2 and d ÷ 2 ⇒ β × 4."
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "The width of a diffraction band varies —",
+          "options": [
+            "directly as the slit width",
+            "inversely as the wavelength",
+            "directly as the slit–screen distance",
+            "inversely as the source size"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2023"
+          ]
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "Two light waves of wavelength λ reach a point with a path difference of λ/4. Their phase difference is —",
+          "options": [
+            "π/4",
+            "π/2",
+            "π",
+            "2π"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2018"
+          ],
+          "work": "Phase difference = (2π/λ) × (λ/4) = π/2."
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "When collimated light falls on a surface at the polarizing angle, the angle between the reflected and refracted rays is —",
+          "options": [
+            "0°",
+            "45°",
+            "90°",
+            "180°"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "An optically active substance —",
+          "options": [
+            "rotates the plane of polarised light",
+            "changes the direction of light",
+            "stops polarised light",
+            "none of these"
+          ],
+          "answer": "A",
+          "fixed": true,
+          "years": [
+            "October 2021"
+          ]
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "If the angle of maximum polarization on a medium is P, the speed of light in it is —",
+          "options": [
+            "c tan P",
+            "c cot P",
+            "c sec P",
+            "c cosec P"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2024"
+          ],
+          "work": "Brewster: μ = tan P = c/v ⇒ v = c/tan P = c cot P."
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "Two coherent sources of intensity I each interfere with zero intensity at minima. The intensity at maxima is —",
+          "options": [
+            "I²",
+            "I",
+            "2I",
+            "4I"
+          ],
+          "answer": "D",
+          "years": [
+            "April 2024"
+          ],
+          "work": "I_max = (√I + √I)² = 4I."
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "An object immersed in a fluid becomes invisible if it —",
+          "options": [
+            "is a perfect reflector",
+            "absorbs all light",
+            "has refractive index one",
+            "has the same refractive index as the fluid"
+          ],
+          "answer": "D",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "Which phenomenon shows that light is a transverse wave?",
+          "options": [
+            "Interference",
+            "Diffraction",
+            "Polarization",
+            "Reflection"
+          ],
+          "answer": "C"
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark (fill in the blanks, true/false, match or one word).",
+      "marks": "6 × 2 = 12",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "(a) The locus of particles vibrating in the same phase at any instant is called a ______. (b) What is the phase difference between two points on the same wavefront?",
+          "answer": "(a) wavefront\n(b) Zero.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Fill in the blanks: (a) In Young's experiment, if the slit separation is tripled the fringe width becomes ______ times. (b) 99 fringes are seen with 6000 Å; with 5500 Å in the same space, ______ fringes are seen.",
+          "answer": "(a) ⅓\n(b) 99 × 6000/5500 = 108",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "State True or False: (a) In interference the central maximum is twice as wide as the others. (b) Huygens' theory explains optical phenomena in terms of wavefronts.",
+          "answer": "(a) False — interference fringes are equally wide (that is true of diffraction).\n(b) True.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "State True or False: (i) All types of waves can be polarized. (ii) All points on a wavefront are in the same phase.",
+          "answer": "(i) False — only transverse waves.\n(ii) True.",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "Passage: fringe width x̄ = λD/d. (a) Relation between fringe width and λ when d is halved and D doubled? (b) How does fringe width change if the apparatus is in a liquid of μ = 1.3?",
+          "answer": "(a) β = λ(2D)/(d/2) = 4λD/d — four times, still ∝ λ.\n(b) λ becomes λ/1.3, so the fringe width falls to β/1.3.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "(a) When light passes into another medium, which does not change: frequency, wavelength or amplitude? (b) A convex lens of μ₁ in a liquid of μ₂ acts as a plane sheet when ______.",
+          "answer": "(a) Frequency.\n(b) μ₁ = μ₂.",
+          "years": [
+            "April 2026"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "6 × 2 = 12",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "Two polaroids are set for maximum transmission. Through what angle should one be rotated to reduce the transmitted intensity to (a) half and (b) zero?",
+          "answer": "Malus' law I = I₀ cos² θ.\n(a) cos² θ = ½ ⇒ θ = 45°.\n(b) cos² θ = 0 ⇒ θ = 90°.",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "In Young's experiment, how is a dark fringe produced on the screen?",
+          "answer": "Where the waves from the two slits arrive with a path difference of (2n − 1)λ/2 (a phase difference of an odd multiple of π), crest meets trough and they cancel, giving darkness.",
+          "years": [
+            "April 2024"
+          ],
+          "or": {
+            "q": "In a single-slit diffraction pattern, what can you say about the width of the central fringe and the intensity of the bright fringes?",
+            "answer": "(a) The central bright fringe is twice as wide as each of the others. (b) Its intensity is greatest, and the intensity of the later bright fringes falls off rapidly."
+          }
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "You can hear a horn blown on the road while sitting in your room but cannot see the light of a roadside lamp. Why?",
+          "answer": "Sound has a wavelength (about 1 m) comparable to doors and walls, so it diffracts round them. Light's wavelength (about 5 × 10⁻⁷ m) is far too small, so it travels in straight lines and is blocked.",
+          "years": [
+            "April 2022"
+          ]
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "Write one point of difference between interference and diffraction of light.",
+          "answer": "Interference is superposition of waves from two coherent sources, giving fringes of equal width and intensity. Diffraction is superposition of wavelets from different parts of the same wavefront, giving a wide central maximum and fringes of rapidly decreasing intensity.",
+          "years": [
+            "April 2023",
+            "October 2016"
+          ]
+        },
+        {
+          "id": "3.5",
+          "type": "open",
+          "q": "Find the polarizing angle for light incident from air on a medium of refractive index √3.",
+          "answer": "Brewster's law: tan iₚ = μ = √3 ⇒ iₚ = 60°.",
+          "years": [
+            "October 2018"
+          ]
+        },
+        {
+          "id": "3.6",
+          "type": "open",
+          "q": "Light from a star shows a red shift of 0.032%. Calculate its velocity of recession.",
+          "answer": "Δλ/λ = v/c ⇒ v = c × Δλ/λ = 3 × 10⁸ × 0.00032 = 9.6 × 10⁴ m/s.",
+          "years": [
+            "October 2016"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "4 × 3 = 12",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "What happens to the interference pattern in Young's experiment when (a) the slit separation is increased, (b) white light replaces monochromatic light and (c) the experiment is done in water instead of air?",
+          "answer": "β = λD/d.\n(a) d increases ⇒ the fringes become narrower (β decreases).\n(b) The central fringe is white; on either side are a few coloured fringes (violet nearer the centre, red farther) that soon overlap.\n(c) λ in water = λ/μ, so β decreases by a factor μ ≈ 1.33.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "Write three distinguishing features of fringe patterns in Young's double-slit experiment and in single-slit diffraction.",
+          "answer": "(1) In YDSE all fringes are of equal width; in diffraction the central maximum is twice as wide as the rest.\n(2) In YDSE bright fringes are equally bright; in diffraction their intensity falls rapidly away from the centre.\n(3) YDSE uses light from two coherent sources; diffraction uses wavelets from different parts of a single wavefront.",
+          "years": [
+            "October 2024"
+          ],
+          "or": {
+            "q": "In single-slit diffraction, how does the angular width of the central maximum change when (i) the slit is narrowed, (ii) the screen is moved farther and (iii) light of shorter wavelength is used?",
+            "answer": "Angular width = 2λ/a.\n(i) a decreases ⇒ angular width increases.\n(ii) Unchanged — the angle does not depend on D (the linear width increases).\n(iii) λ decreases ⇒ angular width decreases."
+          }
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "Monochromatic light of 450 nm illuminates two slits 0.15 mm apart, with the screen 1.0 m away. Find the separation between the second bright fringe and the seventh dark fringe (same side).",
+          "answer": "β = λD/d = 450 × 10⁻⁹ × 1/0.15 × 10⁻³ = 3 × 10⁻³ m = 3 mm.\nSecond bright fringe: 2β = 6 mm.\nSeventh dark fringe: (2 × 7 − 1)β/2 = 6.5β = 19.5 mm.\nSeparation = 19.5 − 6 = 13.5 mm.",
+          "years": [
+            "January-February 2021"
+          ]
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "What are coherent sources? Why are they needed for interference? Give an everyday example of interference.",
+          "answer": "Coherent sources emit waves of the same frequency with a constant phase difference, e.g. two slits lit by one source.\nOnly then do bright and dark fringes stay in fixed places; with independent sources the phase changes randomly and the pattern averages out to uniform illumination.\nExample: the colours of thin films such as soap bubbles or oil on water.",
+          "years": [
+            "January-February 2021"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Long answer questions. Answer in 80–120 words.",
+      "marks": "3 × 5 = 15",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "Describe an experiment showing that light is transverse. Unpolarized light passes from a rarer to a denser medium; show the polarization of the reflected and refracted light and obtain Brewster's law.",
+          "answer": "Place two polaroids (or tourmaline crystals) one behind the other and rotate the second. The transmitted light varies from maximum to zero twice per rotation. Only transverse waves can behave like this, so light is transverse.\nPolarization by reflection: at one angle of incidence iₚ the reflected light is completely plane-polarized (vibrations perpendicular to the plane of incidence), while the refracted light is partly polarized.\nAt this angle the reflected and refracted rays are perpendicular: iₚ + r = 90°.\nSnell's law: μ = sin iₚ/sin r = sin iₚ/sin(90° − iₚ) = tan iₚ — Brewster's law.",
+          "years": [
+            "April 2023",
+            "October 2021",
+            "October 2016"
+          ]
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "What is a wavefront? Explain Huygens' principle with a diagram. Use it to verify the laws of reflection.",
+          "answer": "A wavefront is the locus of points vibrating in the same phase; rays are perpendicular to it.\nHuygens' principle: each point on a wavefront is a source of secondary wavelets moving at the wave speed; the common tangent to the wavelets after time t is the new wavefront. A distant source gives a plane wavefront.\nReflection: a plane wavefront AB strikes a mirror. While B travels BC = vt to the mirror, a wavelet from A spreads to radius AD = vt. The tangent CD is the reflected wavefront. Triangles ABC and CDA are congruent (common side AC, BC = AD, right angles), so the angle of incidence equals the angle of reflection, and the rays lie in one plane.",
+          "years": [
+            "April 2022",
+            "April 2023"
+          ]
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "Describe Young's double-slit experiment. Obtain the conditions for bright and dark fringes and the expression for fringe width.",
+          "answer": "Light from a narrow slit falls on two close slits S₁ and S₂ (coherent sources, d apart); fringes form on a screen at distance D.\nAt a point P at height y, the path difference S₂P − S₁P = yd/D.\nBright fringe: yd/D = nλ ⇒ yₙ = nλD/d (phase difference 2nπ).\nDark fringe: yd/D = (2n − 1)λ/2 (phase difference an odd multiple of π).\nFringe width β = y_(n+1) − yₙ = λD/d, the same for all fringes.",
+          "years": [
+            "April 2018",
+            "April 2017",
+            "October 2018"
+          ]
+        }
+      ]
+    }
+  ]
+}

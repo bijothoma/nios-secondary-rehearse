@@ -1,0 +1,596 @@
+{
+  "subject": "physics",
+  "lesson": 902,
+  "title": "Model Question Paper 2",
+  "meta": "Time: 3 hours · Maximum marks: 80 · Modelled on the April 2026 NIOS paper",
+  "instructions": [
+    "All questions are compulsory. Where a question has OR, answer either one.",
+    "Section A: questions 1–16 are MCQs (1 mark each). Questions 17–28 have two parts of 1 mark each.",
+    "Section B: 2-mark answers in 30–50 words, 3-mark answers in 50–80 words, 5-mark answers in 80–120 words. Show the working in numerical questions.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "16 × 1 = 16",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "Proper use of lubricants cannot reduce —",
+          "options": [
+            "static friction",
+            "inertia",
+            "sliding friction",
+            "rolling friction"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 3."
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "Two bodies of different masses have equal momentum. Then —",
+          "options": [
+            "the lighter body has more kinetic energy",
+            "the heavier body has more kinetic energy",
+            "both have equal kinetic energy",
+            "both have equal velocities"
+          ],
+          "answer": "A",
+          "fixed": true,
+          "years": [
+            "April 2023",
+            "October 2022"
+          ],
+          "work": "K = p²/2m. With p the same, K is larger for the smaller m.",
+          "note": "Lesson 6."
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "The Reynolds number of a flow is 1200. The flow is —",
+          "options": [
+            "laminar",
+            "unsteady",
+            "turbulent",
+            "not possible"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2018"
+          ],
+          "note": "Lesson 9."
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "If ΔW is the work done by a system and ΔU the rise in internal energy, which is correct?",
+          "options": [
+            "ΔU = ΔW in an isothermal process",
+            "ΔU = −ΔW in an adiabatic process",
+            "ΔU = ΔW in an adiabatic process",
+            "ΔU = −ΔW in an isothermal process"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2016"
+          ],
+          "note": "Lesson 11."
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "Which harmonic of the fundamental is missing from a closed pipe?",
+          "options": [
+            "Second",
+            "Third",
+            "Fifth",
+            "Seventh"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Lesson 14."
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "The SI unit of electric field is —",
+          "options": [
+            "A/m",
+            "C²/m²",
+            "V/m",
+            "C/m²"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Lesson 15."
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "Two conducting spheres of radii r₁ and r₂ are at the same potential. The ratio of their charges q₁ : q₂ is —",
+          "options": [
+            "r₁ : r₂",
+            "r₂ : r₁",
+            "r₁² : r₂²",
+            "r₂² : r₁²"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2022"
+          ],
+          "work": "V = kq/r is the same, so q ∝ r ⇒ q₁ : q₂ = r₁ : r₂.",
+          "note": "Lesson 16."
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "The device used for accurately measuring the emf of a primary cell is —",
+          "options": [
+            "galvanometer",
+            "ammeter",
+            "voltmeter",
+            "potentiometer"
+          ],
+          "answer": "D",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 17."
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "A wire of diameter 0.5 mm carrying 1 A is replaced by a 1 mm wire carrying the same current. The magnetic field at a far point is —",
+          "options": [
+            "twice",
+            "half",
+            "a quarter",
+            "the same as before"
+          ],
+          "answer": "D",
+          "years": [
+            "October 2025"
+          ],
+          "work": "B = μ₀I/2πr depends on the current and the distance, not on the wire's thickness.",
+          "note": "Lesson 18."
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "An optically active substance —",
+          "options": [
+            "rotates the plane of polarised light",
+            "changes the direction of light",
+            "stops polarised light",
+            "none of these"
+          ],
+          "answer": "A",
+          "fixed": true,
+          "years": [
+            "October 2021"
+          ],
+          "note": "Lesson 22."
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "The maximum wavelength of the Paschen series is (R = Rydberg constant) —",
+          "options": [
+            "144/7R",
+            "100/21R",
+            "9/R",
+            "36/5R"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2018"
+          ],
+          "work": "Longest line: 4 → 3. 1/λ = R(1/9 − 1/16) = 7R/144 ⇒ λ = 144/7R.",
+          "note": "Lesson 24."
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "A proton, a neutron, an electron and an α-particle have the same kinetic energy. Their de Broglie wavelengths compare as —",
+          "options": [
+            "λp = λn > λe > λα",
+            "λα < λp = λn < λe",
+            "λe < λp = λn > λα",
+            "λe = λp = λn = λα"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2026"
+          ],
+          "work": "λ = h/√(2mK). With K equal, λ ∝ 1/√m.\nm_α > m_p ≈ m_n > m_e, so λ_α < λ_p = λ_n < λ_e.",
+          "note": "Lesson 25."
+        },
+        {
+          "id": "1.13",
+          "type": "mcq",
+          "q": "Which radiation has the greatest penetrating power?",
+          "options": [
+            "α",
+            "β",
+            "γ",
+            "all equal"
+          ],
+          "answer": "C",
+          "note": "Lesson 26."
+        },
+        {
+          "id": "1.14",
+          "type": "mcq",
+          "q": "In ²⁷₁₃Al + ⁴₂He → ³⁰₁₄Si + x, the particle x is —",
+          "options": [
+            "electron",
+            "proton",
+            "neutron",
+            "photon"
+          ],
+          "answer": "B",
+          "years": [
+            "January-February 2021"
+          ],
+          "work": "Mass numbers: 27 + 4 = 30 + A ⇒ A = 1.\nCharges: 13 + 2 = 14 + Z ⇒ Z = 1. So x = ¹₁H, a proton.",
+          "note": "Lesson 27."
+        },
+        {
+          "id": "1.15",
+          "type": "mcq",
+          "q": "At 0 K, germanium behaves as —",
+          "options": [
+            "a conductor",
+            "an intrinsic semiconductor",
+            "an insulator",
+            "an extrinsic semiconductor"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2017"
+          ],
+          "note": "Lesson 28."
+        },
+        {
+          "id": "1.16",
+          "type": "mcq",
+          "q": "The current gain of a transistor in common base is 0.95. Its gain in common emitter is —",
+          "options": [
+            "0.95",
+            "95",
+            "19",
+            "1/19"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2017"
+          ],
+          "work": "β = α/(1 − α) = 0.95/0.05 = 19.",
+          "note": "Lesson 29."
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark (fill in the blanks, true/false, match or one word).",
+      "marks": "12 × 2 = 24",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "Complete: (a) 50 N opposes a 10 kg body moving at 10 m/s; deceleration = ______. (b) Time to stop = ______.",
+          "answer": "(a) a = F/m = 50/10 = 5 m/s².\n(b) t = u/a = 10/5 = 2 s.",
+          "years": [
+            "October 2016"
+          ],
+          "note": "Lesson 3."
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "(a) Two bodies stick together after collision — elastic or inelastic? (b) Name the energy stored in a stretched spring.",
+          "answer": "(a) Perfectly inelastic.\n(b) Elastic potential energy.",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 6."
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "Fill in the blanks: (a) Surface tension of a liquid ______ with rise in temperature. (b) If a liquid neither rises nor falls in a capillary tube, the angle of contact is ______.",
+          "answer": "(a) decreases\n(b) 90°",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 9."
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "(a) Which law forbids the conversion of 100% heat into work? (b) With which form of energy is heat most closely associated?",
+          "answer": "(a) The second law of thermodynamics.\n(b) Kinetic energy (of the molecules).",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 11."
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "Complete: y = 2 sin(πx/10) cos(100πt), x in cm. (a) Wavelength = ______. (b) Distance between a node and the next antinode = ______.",
+          "answer": "(a) k = π/10 ⇒ λ = 2π/k = 20 cm.\n(b) λ/4 = 5 cm.",
+          "years": [
+            "October 2024"
+          ],
+          "note": "Lesson 14."
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "(a) Name the physical quantity whose SI unit is V m. (b) A neutral pith ball is connected by a copper wire to a negatively charged rod. What charge does it acquire?",
+          "answer": "(a) Electric flux.\n(b) Negative.",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 15."
+        },
+        {
+          "id": "2.7",
+          "type": "open",
+          "q": "(a) In a region of constant potential, what is the electric field? (b) What is the shape of the equipotential surfaces of a single isolated charge?",
+          "answer": "(a) Zero (E = −dV/dr).\n(b) Concentric spheres centred on the charge.",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 16."
+        },
+        {
+          "id": "2.8",
+          "type": "open",
+          "q": "Complete: a lamp is rated 40 W, 220 V. (a) Its resistance = ______. (b) Its safe current = ______.",
+          "answer": "(a) R = V²/P = 220²/40 = 1210 Ω.\n(b) I = P/V = 40/220 ≈ 0.18 A.",
+          "years": [
+            "April 2023"
+          ],
+          "note": "Lesson 17."
+        },
+        {
+          "id": "2.9",
+          "type": "open",
+          "q": "Passage on conservation of energy: (a) The apparent breach of energy conservation was seen in ______ decay. (b) It led to the discovery of the ______.",
+          "answer": "(a) beta\n(b) neutrino",
+          "years": [
+            "October 2024"
+          ],
+          "note": "Lesson 26."
+        },
+        {
+          "id": "2.10",
+          "type": "open",
+          "q": "State True or False: (a) Fusion requires a very high temperature. (b) An uncontrolled chain reaction is used in a nuclear power station.",
+          "answer": "(a) True — about 10⁷ K.\n(b) False — a power station uses a controlled chain reaction.",
+          "note": "Lesson 27."
+        },
+        {
+          "id": "2.11",
+          "type": "open",
+          "q": "(a) A photodiode is operated in ______ bias. (b) The narrow region near the junction that lacks mobile charges is the ______ region.",
+          "answer": "(a) reverse\n(b) depletion",
+          "years": [
+            "April 2026",
+            "October 2024"
+          ],
+          "note": "Lesson 28."
+        },
+        {
+          "id": "2.12",
+          "type": "open",
+          "q": "State True or False: (a) A NOT gate has two inputs. (b) NAND and NOR are universal gates.",
+          "answer": "(a) False — it has one input.\n(b) True.",
+          "note": "Lesson 29."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "9 × 2 = 18",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "A ball of mass m is thrown up with speed v and returns to the thrower with the same speed. Find the change in its momentum.",
+          "answer": "Initial momentum = mv upward; final = mv downward.\nTaking up as positive: Δp = (−mv) − (mv) = −2mv, i.e. 2mv downward. The magnitude of momentum is unchanged.",
+          "years": [
+            "April 2025",
+            "April 2022",
+            "April 2024"
+          ],
+          "or": {
+            "q": "Identify the action–reaction forces on a book lying on a table.",
+            "answer": "The book pushes down on the table with a force equal to its weight (action); the table pushes up on the book with an equal force (reaction). They act on different bodies."
+          },
+          "note": "Lesson 3."
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "A particle moving with kinetic energy 3.6 J hits a spring of force constant 180 N/m. Find the maximum compression.",
+          "answer": "All the KE becomes spring energy: ½kx² = 3.6.\nx² = 2 × 3.6/180 = 0.04 ⇒ x = 0.2 m.",
+          "years": [
+            "October 2022"
+          ],
+          "note": "Lesson 6."
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "Calculate the excess pressure inside a soap bubble of radius 4 cm. (T = 25 × 10⁻³ N/m)",
+          "answer": "P = 4T/r = 4 × 25 × 10⁻³/0.04 = 2.5 Pa.",
+          "years": [
+            "October 2024"
+          ],
+          "or": {
+            "q": "A 50 kg body is placed on the smaller piston (0.1 m²) of a hydraulic lift whose bigger piston is 10 m². Find the weight it can lift. (g = 10 m/s²)",
+            "answer": "F₂ = F₁ × A₂/A₁ = 500 × 10/0.1 = 5 × 10⁴ N."
+          },
+          "note": "Lesson 9."
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "A Carnot engine between an unknown temperature and the ice point has an efficiency of 75%. Find the unknown temperature.",
+          "answer": "η = 1 − T₂/T₁ ⇒ 0.75 = 1 − 273/T₁ ⇒ 273/T₁ = 0.25 ⇒ T₁ = 1092 K (819 °C).",
+          "years": [
+            "April 2023"
+          ],
+          "note": "Lesson 11."
+        },
+        {
+          "id": "3.5",
+          "type": "open",
+          "q": "An open pipe of length l₁ and a closed pipe of length l₂ resonate with the same fork in their fundamental modes. Find l₁/l₂.",
+          "answer": "Open: ν = v/2l₁. Closed: ν = v/4l₂.\nv/2l₁ = v/4l₂ ⇒ l₁ = 2l₂ ⇒ l₁/l₂ = 2.",
+          "years": [
+            "April 2017"
+          ],
+          "note": "Lesson 14."
+        },
+        {
+          "id": "3.6",
+          "type": "open",
+          "q": "The electric flux through a Gaussian surface is zero. Does it mean that (a) the charge enclosed is zero and (b) the field is zero everywhere on the surface?",
+          "answer": "(a) Yes — by Gauss's theorem φ = q/ε₀, so the net charge enclosed is zero.\n(b) Not necessarily — field lines may enter and leave, giving zero net flux even where E ≠ 0 (e.g. a surface near an outside charge).",
+          "years": [
+            "April 2023"
+          ],
+          "note": "Lesson 15."
+        },
+        {
+          "id": "3.7",
+          "type": "open",
+          "q": "Write the expression for the energy stored in a capacitor in three forms.",
+          "answer": "U = ½CV² = Q²/2C = ½QV. It is stored in the electric field between the plates.",
+          "note": "Lesson 16."
+        },
+        {
+          "id": "3.8",
+          "type": "open",
+          "q": "What is meant by the unidirectional (rectifying) property of a p-n junction? Give one application.",
+          "answer": "It conducts easily in forward bias but hardly at all in reverse bias, so current flows in one direction only. Application: a rectifier converting ac to dc.",
+          "years": [
+            "April 2017"
+          ],
+          "note": "Lesson 28."
+        },
+        {
+          "id": "3.9",
+          "type": "open",
+          "q": "Draw the symbol and truth table of a NOT gate.",
+          "answer": "Symbol: a triangle with a small circle at the output. Truth table: A = 0 → Y = 1; A = 1 → Y = 0 (Y = Ā).",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 29."
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "4 × 3 = 12",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "Verify Stokes' law (F = 6πηrv) by dimensional analysis.",
+          "answer": "Let F = k ηᵃ rᵇ vᶜ.\n[MLT⁻²] = [ML⁻¹T⁻¹]ᵃ[L]ᵇ[LT⁻¹]ᶜ.\nM: a = 1. T: −a − c = −2 ⇒ c = 1. L: −a + b + c = 1 ⇒ b = 1.\nSo F = kηrv, with k = 6π found by experiment.",
+          "years": [
+            "October 2025"
+          ],
+          "or": {
+            "q": "Obtain the terminal velocity of a sphere of radius r and density ρ falling through a fluid of viscosity η and density σ.",
+            "answer": "At terminal velocity, weight = upthrust + viscous drag:\n(4/3)πr³ρg = (4/3)πr³σg + 6πηrv.\nv = 2r²(ρ − σ)g/9η."
+          },
+          "note": "Lesson 9."
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "What are electric field lines? State three properties. Draw them for a single positive charge and for a dipole.",
+          "answer": "Field lines are imaginary curves whose tangent at any point gives the direction of the field there.\nProperties: (1) they start on positive and end on negative charges; (2) two lines never cross; (3) they are dense where the field is strong; (4) they meet a conductor's surface at right angles.\nPositive charge: straight lines pointing radially outward. Dipole: lines curve from +q round to −q.",
+          "years": [
+            "October 2021"
+          ],
+          "note": "Lesson 15."
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "Explain the principle, construction and working of a moving-coil galvanometer.",
+          "answer": "Principle: a current-carrying coil in a magnetic field feels a torque.\nConstruction: a rectangular coil on a soft-iron core between concave poles (radial field), suspended by a phosphor-bronze strip or springs, with a pointer and scale.\nWorking: the deflecting torque NBIA is balanced by the restoring torque kθ, so I = (k/NBA)θ ∝ θ. The scale is linear.",
+          "years": [
+            "April 2017"
+          ],
+          "or": {
+            "q": "Explain the principle and working of a cyclotron.",
+            "answer": "Principle: a charge moving perpendicular to B moves in a circle, with period T = 2πm/qB independent of speed.\nTwo hollow dees between magnet poles have an alternating voltage of frequency f = qB/2πm across the gap. Ions accelerate across the gap each half-cycle and move in larger semicircles inside the dees, gaining energy each time until they emerge at high speed."
+          },
+          "note": "Lesson 18."
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "Write three distinguishing features of fringe patterns in Young's double-slit experiment and in single-slit diffraction.",
+          "answer": "(1) In YDSE all fringes are of equal width; in diffraction the central maximum is twice as wide as the rest.\n(2) In YDSE bright fringes are equally bright; in diffraction their intensity falls rapidly away from the centre.\n(3) YDSE uses light from two coherent sources; diffraction uses wavelets from different parts of a single wavefront.",
+          "years": [
+            "October 2024"
+          ],
+          "or": {
+            "q": "In single-slit diffraction, how does the angular width of the central maximum change when (i) the slit is narrowed, (ii) the screen is moved farther and (iii) light of shorter wavelength is used?",
+            "answer": "Angular width = 2λ/a.\n(i) a decreases ⇒ angular width increases.\n(ii) Unchanged — the angle does not depend on D (the linear width increases).\n(iii) λ decreases ⇒ angular width decreases."
+          },
+          "note": "Lesson 22."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Long answer questions. Answer in 80–120 words.",
+      "marks": "2 × 5 = 10",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "Derive the capacitance of a parallel-plate capacitor and show how a dielectric changes it. How do the charge, p.d., field and energy change when a dielectric slab is inserted (a) with the battery connected and (b) after disconnecting the battery?",
+          "answer": "Plates of area A, separation d, charge ±Q: σ = Q/A, E = σ/ε₀, V = Ed = Qd/ε₀A, so C = Q/V = ε₀A/d. With a dielectric filling the gap, E is reduced K times, so C = Kε₀A/d.\n(a) Battery connected (V fixed): C → KC; Q → KQ; E = V/d unchanged; U = ½CV² → KU.\n(b) Battery disconnected (Q fixed): C → KC; V → V/K; E → E/K; U = Q²/2C → U/K.",
+          "years": [
+            "October 2016"
+          ],
+          "note": "Lesson 16."
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "A metal rod of length l rotates with frequency ν about one end, which is at the centre of a circular metal ring, the other end touching the ring. A uniform field B is parallel to the axis. Obtain the emf between the centre and the ring.",
+          "answer": "Take an element dr at distance r; its speed is v = ωr. The emf across it is de = Bv dr = Bωr dr.\ne = ∫₀ˡ Bωr dr = ½Bωl².\nWith ω = 2πν: e = πνBl².",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Lesson 19."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "subject": "physics",
+  "lesson": 9,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 9: Properties of Fluids — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Pressure in fluids"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Pressure is force per unit area, P = F/A, measured in pascals (N/m²). At a depth h in a liquid, P = hρg (written hdg in the NIOS text). It depends on depth, density and g, but not on the shape of the vessel or the viscosity of the liquid. A barometer works on P = hρg."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Example: two thigh bones of 10 cm² each support 40 kg, so P = 400 N/(2 × 10⁻³ m²) = 2 × 10⁵ Pa."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Pascal's law and buoyancy"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Pascal's law: pressure applied to an enclosed liquid is transmitted undiminished to every part of it. Hence F₁/A₁ = F₂/A₂, which is used in hydraulic lifts, jacks and brakes. With piston diameters of 30 cm and 2.5 cm, 50 kg wt lifts 50 × (30/2.5)² = 7200 kg wt."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Buoyancy (Archimedes): upthrust = weight of the fluid displaced. For a floating body, ρ_body/ρ_liquid = fraction of its volume immersed."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Surface tension"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Surface tension T is the force per unit length on an imaginary line in the liquid surface (N/m). It makes the surface behave like a stretched elastic membrane and tend to the minimum area, which is why drops are spherical and mercury droplets join together. It numerically equals the surface energy per unit area (J/m²). It decreases as temperature rises, and detergents reduce it."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "The angle of contact θ is the angle between the liquid surface and the wall, measured inside the liquid. It is less than 90° for water on glass (rises, concave surface), greater than 90° for mercury (falls, convex surface), and 90° when the liquid neither rises nor falls."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Excess pressure: 2T/r inside a liquid drop or an air bubble in a liquid, and 4T/r inside a soap bubble (two surfaces). A smaller bubble has the larger pressure, so it shrinks into a bigger one."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Capillarity is the rise or fall of a liquid in a narrow tube: h = 2T cos θ/(rρg). It explains kerosene rising in a lamp wick and water rising in plants. In a tube shorter than h, the liquid reaches the top without overflowing. The weight of the raised column equals 2πrT = πDT."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Viscosity"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Viscosity is the fluid's internal friction that opposes relative motion between its layers: F = −ηA dv/dx. The coefficient η has unit N s/m² (Pa s, also called poiseuille) and dimensions ML⁻¹T⁻¹. Glycerine is more viscous than water. Viscosity brings a churned liquid to rest."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Stokes' law: F = 6πηrv for a sphere moving slowly through a fluid; it can be checked by dimensions."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Terminal velocity v = 2r²(ρ − σ)g/9η, so v ∝ r². Raindrops and parachutists fall at a small terminal speed, which is why a parachute works. A sphere 8 times heavier has a radius twice as large and so falls 4 times faster."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Flow is streamline (laminar) below the critical velocity and turbulent above it. Reynolds number Re = ρvD/η is dimensionless: below about 2000 the flow is laminar, above about 3000 it is turbulent."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Equation of continuity and Bernoulli's theorem"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Continuity: A₁v₁ = A₂v₂, so the flow is faster where the tube is narrower. Halving the diameter makes the speed 4 times greater."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Bernoulli's theorem: P + ½ρv² + ρgh = constant along a streamline. It follows from conservation of energy. Where the speed is greater, the pressure is lower."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Applications: the venturimeter (flow meter); the danger of standing near a fast train, since low pressure between you and the train pushes you towards it; the curving of a spinning ball (Magnus effect); aeroplane lift. Speed of efflux from a hole at depth h: v = √(2gh) (Torricelli)."
+        ]
+      ]
+    }
+  ]
+}

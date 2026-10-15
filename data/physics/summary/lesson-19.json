@@ -1,0 +1,195 @@
+{
+  "subject": "physics",
+  "lesson": 19,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 19: Electromagnetic Induction and Alternating Current — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Faraday's laws"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Magnetic flux φ = BA cos θ, measured in webers."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "First law: an emf is induced in a coil whenever the magnetic flux linked with it changes; the cause is the change in flux."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Second law: the induced emf equals the rate of change of flux linkage, e = −N dφ/dt."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Lenz's law gives the direction: the induced current opposes the change that produces it, which is a consequence of conservation of energy."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Motional emf: e = Blv. A rod of length l rotating with angular speed ω (frequency ν) in a field B has e = ½Bωl² = πνBl²."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Eddy currents are induced in bulk conductors. A magnet falling through a copper tube is slowed by them. They are used in induction furnaces, speedometers and electromagnetic brakes, and reduced by laminating transformer cores."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Self and mutual induction"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Self-inductance: e = −L dI/dt. For a solenoid L = μ₀N²A/l, measured in henry. Mutual inductance is the basis of the transformer."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Alternating current"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "e = e₀ sin ωt, with ω = 2πν. The rms value is peak/√2."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Pure resistor: V and I are in phase. Pure inductor: X_L = ωL and the voltage leads the current by π/2. Pure capacitor: X_C = 1/ωC and the current leads the voltage by π/2. The average power in a pure L or pure C is zero."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Series LCR circuit: Z = √[R² + (X_L − X_C)²] and tan φ = (X_L − X_C)/R. If X_C > X_L the current leads the voltage. At resonance X_L = X_C, ν₀ = 1/2π√(LC), Z = R and the power factor cos φ = 1."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Example: L = 60 mH, C = 50 µF, R = 20 Ω and ω = 400 rad/s give X_L = 24 Ω, X_C = 50 Ω and Z ≈ 32.8 Ω."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "A coil carrying 1 A on 100 V dc but only 0.6 A on 100 V ac has R = 100 Ω and Z ≈ 167 Ω, so X_L ≈ 133 Ω. Inductive reactance reduces the ac current."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Transformer"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "A transformer works by mutual induction and changes ac voltage. Vₛ/Vₚ = Nₛ/Nₚ = Iₚ/Iₛ for an ideal transformer. A step-up transformer has Nₛ > Nₚ; a step-down transformer has Nₛ < Nₚ. Efficiency η = P_out/P_in."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Energy losses: copper loss (I²R), eddy currents (reduced by a laminated core), hysteresis (reduced by a soft-iron core) and flux leakage."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Examples: 240 V to 12 V needs Nₚ : Nₛ = 20 : 1, with Iₚ : Iₛ = 1 : 20. 100 : 500 turns with 120 V and 3 A gives 600 V and 0.6 A."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "An ac generator converts mechanical energy into electrical energy by electromagnetic induction."
+        ]
+      ]
+    }
+  ]
+}

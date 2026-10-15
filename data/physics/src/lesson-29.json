@@ -1,0 +1,65 @@
+{
+ "lesson": 29,
+ "title": "Applications of Semiconductor Devices",
+ "module": 8,
+ "summary": [
+  "## Rectifiers and power supply",
+  "A half-wave rectifier uses one diode, which conducts only on alternate half-cycles. A full-wave rectifier (centre-tap with two diodes, or a bridge with four) conducts on both half-cycles, giving pulsating dc.",
+  "A capacitor filter connected across the load smooths out the fluctuations.",
+  "A stabilized power supply has four stages: a step-down transformer, a full-wave rectifier, a capacitor filter and a Zener diode regulator, which keeps the output voltage constant.",
+  "## Optoelectronic devices",
+  "Photodiode: reverse biased; light increases the reverse current, and its V–I graph lies in the third quadrant. Light separates electron–hole pairs in the depletion region.",
+  "LED: forward biased; recombination gives out light.",
+  "Solar cell: no bias; it gives an emf in light, and its I–V characteristic lies in the fourth quadrant.",
+  "## Transistor",
+  "A transistor can be used in common-base (CB), common-emitter (CE) or common-collector (CC) configuration. The emitter–base junction is forward biased and the collector–base junction reverse biased.",
+  "Current gains: α = I_c/Iₑ (CB, slightly less than 1) and β = I_c/I_b (CE), with β = α/(1 − α), so β → ∞ as α → 1. Examples: α = 0.95 gives β = 19. I_b = 0.001 mA and I_c = 1 mA give β = 1000. With β = 49, ΔI_c = 9.8 mA needs ΔI_b = 0.2 mA.",
+  "If the emitter and base were equally doped, fewer carriers would reach the collector, so I_c would fall and I_b would rise.",
+  "CE amplifier: voltage gain A_v = β R_L/R_i and power gain = β × A_v. The output is 180° out of phase with the input.",
+  "As a switch, a transistor is either in cut-off (off) or saturation (on).",
+  "Oscillator: an amplifier with positive feedback through an LC tank circuit produces sustained oscillations of frequency f = 1/2π√(LC). With L = 1 mH and C = 0.1 µF, f ≈ 15.9 kHz.",
+  "A transistor can act as an amplifier, an oscillator or a switch, but not as an LED.",
+  "Transistor codes: in AC 125, A means germanium and C means an audio (low-power) transistor.",
+  "## Logic gates",
+  "Logic gates work with digital signals, 1 (high) and 0 (low).",
+  "OR: Y = A + B, giving 0, 1, 1, 1 for the inputs 00, 01, 10, 11. AND: Y = A·B, giving 0, 0, 0, 1. NOT: Y = Ā, giving 1, 0.",
+  "NAND (AND then NOT): 1, 1, 1, 0. NOR (OR then NOT): 1, 0, 0, 0. NAND and NOR are universal gates — any gate can be built from them. NAND followed by NOT gives AND."
+ ],
+ "mcq": [
+  ["Which of the following is called a universal gate?", ["AND gate", "NAND gate", "OR gate", "NOT gate"], "B", ["April 2025", "April 2022"]],
+  ["The junction diode whose I–V characteristic lies in the fourth quadrant is —", ["Zener diode", "LED", "photodiode", "solar cell"], "D", ["January-February 2021", "April 2024"]],
+  ["The current gain of a transistor in common base is 0.95. Its gain in common emitter is —", ["0.95", "95", "19", "1/19"], "C", ["April 2017"], {"work": "β = α/(1 − α) = 0.95/0.05 = 19."}],
+  ["In a CE n-p-n transistor, I_b = 0.001 mA and I_c = 1 mA. The current gain is —", ["1000", "more than 1000", "between 100 and 1000", "less than 100"], "A", ["January-February 2021"], {"work": "β = I_c/I_b = 1/0.001 = 1000."}],
+  ["The current gain β of a transistor in CE mode is 49. If the collector current changes by 9.8 mA, the change in base current is —", ["0.1 mA", "0.15 mA", "0.2 mA", "0.25 mA"], "C", ["April 2023"], {"work": "ΔI_b = ΔI_c/β = 9.8/49 = 0.2 mA."}],
+  ["An OR gate followed by a NOT gate forms a —", ["NAND gate", "NOR gate", "AND gate", "OR gate"], "B", ["April 2023"]],
+  ["A transistor cannot act as —", ["an LED", "an amplifier", "an oscillator", "a switch"], "A", ["April 2018"]],
+  ["A solar cell is operated —", ["in forward bias", "in reverse bias", "in both", "without any external bias"], "D", ["April 2018"]],
+  ["Which semiconductor device works in forward bias?", ["Zener diode", "LED", "Photodiode", "Solar cell"], "B", ["April 2017"]],
+  ["The output of an AND gate for inputs A = 1, B = 0 is —", ["0", "1", "undefined", "2"], "A"]
+ ],
+ "objective": [
+  ["(a) A photodiode is operated in ______ bias. (b) A Zener diode is used as a ______.", "(a) reverse\n(b) voltage regulator", ["April 2026"]],
+  ["Match: (a) Use of a p-n junction diode — ? (b) Use of a transistor — ? [rectifier / oscillator / remote receiver / stabilizer]", "(a) Rectifier.\n(b) Oscillator (or amplifier).", ["October 2024"]],
+  ["Complete the truth table of a NAND gate: (a) A = 0, B = 0 → Y = ? (b) A = 1, B = 1 → Y = ?", "(a) 1\n(b) 0"],
+  ["Fill in the blanks: (a) β = ______ in terms of α. (b) The output of a CE amplifier is ______ out of phase with the input.", "(a) α/(1 − α)\n(b) 180°"],
+  ["State True or False: (a) A NOT gate has two inputs. (b) NAND and NOR are universal gates.", "(a) False — it has one input.\n(b) True."]
+ ],
+ "vsa": [
+  ["Complete the truth table of an AND gate.", "A B Y: 0 0 → 0; 0 1 → 0; 1 0 → 0; 1 1 → 1. (Y = A·B; the output is 1 only when both inputs are 1.)", ["April 2026"], {"or": ["Complete the truth table of a NOR gate.", "A B Y: 0 0 → 1; 0 1 → 0; 1 0 → 0; 1 1 → 0. (Y = NOT(A + B).)"]}],
+  ["Draw the symbol and truth table of a NOT gate.", "Symbol: a triangle with a small circle at the output. Truth table: A = 0 → Y = 1; A = 1 → Y = 0 (Y = Ā).", ["April 2025"]],
+  ["Name the gate formed when an AND gate is followed by a NOT gate, and complete its truth table.", "A NAND gate. A B: 00 → Y' = 0, Y = 1; 01 → 0, 1; 10 → 0, 1; 11 → 1, 0.", ["October 2025"]],
+  ["The output of a NAND gate is fed to a NOT gate. Name the resulting gate and write its truth table.", "An AND gate (NOT of NAND = AND). A B Y: 00 → 0; 01 → 0; 10 → 0; 11 → 1.", ["April 2023"]],
+  ["Write the relation between β and α and show that as α approaches 1, β approaches infinity.", "Iₑ = I_b + I_c. Dividing by I_c: 1/α = 1/β + 1 ⇒ β = α/(1 − α).\nAs α → 1, the denominator (1 − α) → 0, so β → ∞.", ["April 2024"]],
+  ["Draw a circuit diagram of a stabilized power supply showing a step-down transformer, a full-wave rectifier, a capacitor filter and a Zener diode.", "AC mains → step-down transformer → full-wave rectifier (bridge of four diodes) → a capacitor across the output (filter) → a series resistor and a Zener diode in reverse bias across the load. The Zener keeps the load voltage constant.", ["April 2025"]]
+ ],
+ "sa": [
+  ["What does the transistor code AC 125 signify? Name the three configurations of a transistor and draw an n-p-n transistor in CB configuration with biasing.", "A — germanium material; C — audio-frequency (low-power) transistor; 125 — the serial number.\nConfigurations: common base, common emitter, common collector.\nCB (n-p-n): the base is common; the emitter–base junction is forward biased (emitter to −) and the collector–base junction reverse biased (collector to +).", ["April 2022"]],
+  ["Draw the circuit of a full-wave rectifier with a filter and show the input and output waveforms.", "Centre-tap transformer with two diodes D₁ and D₂ to the load (or a bridge of four diodes), with a capacitor across the load.\nIn one half-cycle D₁ conducts; in the other D₂ conducts — current through the load is in the same direction both times.\nInput: a sine wave. Output without the filter: positive humps for every half-cycle. With the capacitor: a nearly steady dc with a small ripple.", ["April 2022", "October 2016"]],
+  ["If the emitter and base of an n-p-n transistor had the same doping, how would the collector and base currents be affected?", "Normally the emitter is heavily doped and the base lightly, so most electrons from the emitter cross the thin base to the collector.\nWith equal doping, many electrons recombine with holes in the base. So I_b increases, I_c decreases, and the current gain β falls — the transistor becomes a poor amplifier.", ["October 2022"]]
+ ],
+ "la": [
+  ["Draw the circuit of an n-p-n transistor as a common-emitter amplifier. Explain its working and define its voltage gain and power gain.", "Circuit: the emitter is common; the base–emitter junction is forward biased by V_BB through the input signal, and the collector is reverse biased by V_CC through a load resistor R_L. The output is taken across R_L.\nWorking: a small change in base current ΔI_b (from the input signal) produces a large change ΔI_c = βΔI_b in the collector current, so the voltage across R_L changes greatly — the signal is amplified. When the input rises, I_c rises and V_CE falls, so the output is 180° out of phase.\nVoltage gain A_v = ΔV_out/ΔV_in = β R_L/R_i.\nPower gain = A_v × β = β² R_L/R_i.", ["October 2022", "April 2023", "October 2018"]],
+  ["Give the Boolean expression, logic symbol, truth table and an implementation circuit of a NOT gate.", "Boolean expression: Y = Ā.\nSymbol: a triangle with a small bubble at the output.\nTruth table: A = 0 → Y = 1; A = 1 → Y = 0.\nImplementation: an n-p-n transistor switch in CE mode with the output taken from the collector. When A = 0 the transistor is cut off and the output is high (1); when A = 1 it is saturated and the output is near 0 V (0).", ["April 2024"], {"or": ["What is a rectifier? Which property of a p-n junction suits it for rectification? Draw the circuit of a half-wave rectifier and its input and output. How are fluctuations removed?", "A rectifier converts ac into dc. A p-n junction conducts only in forward bias (unidirectional conduction).\nHalf-wave rectifier: transformer secondary → diode → load resistor. In the positive half-cycle the diode conducts and current flows; in the negative half-cycle it is cut off.\nInput: a sine wave. Output: only the positive half-cycles (pulsating dc).\nFluctuations are removed by a filter — a capacitor across the load (or an LC or π filter)."]}],
+  ["Explain how a transistor works as an oscillator. A parallel LC circuit has L = 1 mH and C = 0.1 µF. Calculate the frequency.", "An oscillator is an amplifier with positive feedback. The LC tank in the collector circuit oscillates; part of its energy is fed back in phase to the base through a feedback coil (mutual induction), making up for losses so the oscillations are sustained. No input signal is needed.\nFrequency f = 1/2π√(LC) = 1/(2π√(1 × 10⁻³ × 0.1 × 10⁻⁶)) = 1/(2π × 10⁻⁵) ≈ 15.9 kHz.", ["April 2018"]]
+ ]
+}

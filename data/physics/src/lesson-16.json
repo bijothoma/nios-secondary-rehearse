@@ -1,0 +1,62 @@
+{
+ "lesson": 16,
+ "title": "Electric Potential and Capacitors",
+ "module": 5,
+ "summary": [
+  "## Electric potential",
+  "The potential at a point is the work done per unit positive charge in bringing it from infinity: V = W/q. It is a scalar, measured in volts (1 V = 1 J/C).",
+  "The potential of a point charge is V = q/4πε₀r. It falls as 1/r, decreasing non-linearly as you move away from a positive charge. Potential difference V_A − V_B = W_AB/q.",
+  "Potential energy of a charge in a field: U = qV. For example, −1 µC at 100 V has U = −10⁻⁴ J.",
+  "The relation between field and potential is E = −dV/dr, so in a region of constant potential the field is zero.",
+  "## Equipotential surfaces",
+  "Every point on an equipotential surface has the same potential. No work is done in moving a charge along it, and E is perpendicular to it.",
+  "Two equipotential surfaces can never intersect, because the meeting point would have two potentials and two field directions. For a point charge they are concentric spheres; for a uniform field, parallel planes.",
+  "A conductor's surface is an equipotential, so no work is done in moving a charge between two points on a charged sphere.",
+  "For two spheres at the same potential, kq₁/r₁ = kq₂/r₂, so q ∝ r.",
+  "## Capacitance",
+  "C = Q/V, measured in farads (1 F = 1 C/V; µF and pF are common). Capacitance depends on the size and shape of the conductors, their separation and the medium, but not on the charge or the voltage.",
+  "Parallel-plate capacitor: C = ε₀A/d in air and Kε₀A/d with a dielectric of constant K, so a dielectric multiplies C by K. A thin metal foil placed midway between the plates leaves C unchanged.",
+  "Series: 1/C = 1/C₁ + 1/C₂ + … Parallel: C = C₁ + C₂ + … Ten 5 µF capacitors give 50 µF in parallel and 0.5 µF in series, a ratio of 100 : 1.",
+  "## Energy stored",
+  "U = ½CV² = Q²/2C = ½QV, stored in the electric field between the plates.",
+  "Battery disconnected (Q constant): increasing d makes C fall and V = Q/C rise; inserting a dielectric makes C = KC₀, V = V₀/K and U = U₀/K.",
+  "Battery connected (V constant): doubling d halves C and halves U; inserting a dielectric makes C and U grow K times, while E = V/d stays unchanged.",
+  "On a Q–V graph the slope is C, so at the same V the steeper line (larger C) stores more energy."
+ ],
+ "mcq": [
+  ["As we move away from a positively charged particle, the potential due to it —", ["increases linearly", "increases non-linearly", "decreases linearly", "decreases non-linearly"], "D", ["April 2025"], {"work": "V = kq/r, which falls as 1/r — a curve, not a straight line."}],
+  ["The potential due to a point charge Q at distance r is —", ["inversely proportional to r", "inversely proportional to r²", "directly proportional to r", "directly proportional to r²"], "A", ["April 2022"]],
+  ["A parallel-plate capacitor is charged by a battery, the battery is disconnected and the plate separation increased. The potential difference —", ["increases", "decreases", "remains unchanged", "increases then decreases"], "A", ["April 2025"], {"work": "Q stays constant (isolated). C = ε₀A/d falls as d increases, so V = Q/C increases."}],
+  ["Which does NOT affect the capacitance of a capacitor?", ["Separation between the plates", "Area of the plates", "Dielectric between the plates", "Charge on the plates"], "D", ["April 2025"]],
+  ["The p.d. across a parallel-plate capacitor is kept constant. When air is replaced by a dielectric, the field between the plates —", ["decreases", "remains unchanged", "increases", "becomes zero"], "B", ["October 2025"], {"work": "With V and d fixed, E = V/d does not change (the extra charge drawn from the battery compensates)."}],
+  ["The work done in moving a charge q on an equipotential surface through a distance r is —", ["q/4πε₀r", "4πε₀rq", "q/2πε₀r", "zero"], "D", ["October 2024", "October 2018"]],
+  ["A charge of −1 µC is placed where the potential is 100 V. Its electric potential energy is —", ["10⁻⁴ J", "−10⁻⁴ J", "10⁴ J", "−100 J"], "B", ["October 2024"], {"work": "U = qV = (−1 × 10⁻⁶) × 100 = −10⁻⁴ J."}],
+  ["Ten capacitors of 5 µF each are connected first in parallel and then in series. The ratio of the maximum to minimum capacitance is —", ["100 : 1", "50 : 1", "10 : 1", "5 : 1"], "A", ["April 2024"], {"work": "Parallel: 10 × 5 = 50 µF. Series: 5/10 = 0.5 µF.\n50 : 0.5 = 100 : 1."}],
+  ["An air capacitor is filled with a dielectric of constant 6. Its capacitance becomes —", ["6 times", "1/6 times", "36 times", "1/36 times"], "A", ["April 2017"]],
+  ["Two conducting spheres of radii r₁ and r₂ are at the same potential. The ratio of their charges q₁ : q₂ is —", ["r₁ : r₂", "r₂ : r₁", "r₁² : r₂²", "r₂² : r₁²"], "A", ["October 2022"], {"work": "V = kq/r is the same, so q ∝ r ⇒ q₁ : q₂ = r₁ : r₂."}],
+  ["In a region of constant potential —", ["the field is uniform", "the field is zero", "there must be charge inside", "the field changes if a charge is placed outside"], "B", ["April 2026"]],
+  ["A very thin metal foil is placed midway between the plates of a capacitor C, parallel to them. The new capacitance is —", ["zero", "C", "2C", "C/2"], "B", ["April 2024"]]
+ ],
+ "objective": [
+  ["(a) In a region of constant potential, what is the electric field? (b) What is the shape of the equipotential surfaces of a single isolated charge?", "(a) Zero (E = −dV/dr).\n(b) Concentric spheres centred on the charge.", ["April 2026"]],
+  ["Fill in the blanks: (a) The SI unit of capacitance is ______. (b) The energy stored in a capacitor is ______.", "(a) farad\n(b) ½CV² (= Q²/2C)"],
+  ["State True or False: (a) Two equipotential surfaces can intersect. (b) The electric field is perpendicular to an equipotential surface.", "(a) False.\n(b) True."],
+  ["Complete: a 2 µF capacitor is charged to 12 V. (a) Charge = ______. (b) Energy stored = ______.", "(a) Q = CV = 2 × 10⁻⁶ × 12 = 24 µC.\n(b) U = ½CV² = ½ × 2 × 10⁻⁶ × 144 = 144 µJ."],
+  ["Fill in the blanks: (a) Capacitors in ______ have their capacitances added. (b) A dielectric of constant K increases the capacitance ______ times.", "(a) parallel\n(b) K"]
+ ],
+ "vsa": [
+  ["What is an equipotential surface? Why can two equipotential surfaces not intersect?", "A surface on which every point has the same potential; no work is done moving a charge along it.\nIf two intersected, the common point would have two different potentials and two field directions, which is impossible.", ["April 2018"]],
+  ["A capacitor is kept connected to a battery of voltage V. How does the energy stored change when the plate separation is doubled?", "C = ε₀A/d halves when d is doubled. With V fixed, U = ½CV² also halves.", ["January-February 2021"]],
+  ["The Q–V graphs of two capacitors X and Y are straight lines, X being steeper. Which stores more energy at the same voltage?", "The slope Q/V = C, so X has the larger capacitance. U = ½CV², so at the same V, X stores more energy.", ["October 2025"]],
+  ["Write the expression for the energy stored in a capacitor in three forms.", "U = ½CV² = Q²/2C = ½QV. It is stored in the electric field between the plates."]
+ ],
+ "sa": [
+  ["A 2 µF air capacitor is charged to 12 V and the source removed. A slab of dielectric constant 5 then fills the space. Find the ratio of the energies stored before and after.", "Before: U₁ = ½CV² = ½ × 2 × 10⁻⁶ × 144 = 1.44 × 10⁻⁴ J.\nQ stays constant; C becomes 5 × 2 = 10 µF.\nAfter: U₂ = Q²/2C' = U₁/5 = 2.88 × 10⁻⁵ J.\nU₁ : U₂ = 5 : 1 (energy is drawn into the slab).", ["April 2018"]],
+  ["Derive the expression for the energy stored in a parallel-plate capacitor of capacitance C charged to potential V.", "While charging, at charge q the p.d. is q/C. Adding dq needs work dW = (q/C) dq.\nTotal work W = ∫₀^Q (q/C) dq = Q²/2C.\nWith Q = CV: U = ½CV² = ½QV, stored in the field between the plates.", ["October 2016"]],
+  ["Three capacitors of 2 µF, 3 µF and 6 µF are connected (a) in series and (b) in parallel. Find the equivalent capacitance in each case.", "(a) Series: 1/C = 1/2 + 1/3 + 1/6 = (3 + 2 + 1)/6 = 1 ⇒ C = 1 µF.\n(b) Parallel: C = 2 + 3 + 6 = 11 µF.", ["April 2018"]]
+ ],
+ "la": [
+  ["Derive the capacitance of a parallel-plate capacitor and show how a dielectric changes it. How do the charge, p.d., field and energy change when a dielectric slab is inserted (a) with the battery connected and (b) after disconnecting the battery?", "Plates of area A, separation d, charge ±Q: σ = Q/A, E = σ/ε₀, V = Ed = Qd/ε₀A, so C = Q/V = ε₀A/d. With a dielectric filling the gap, E is reduced K times, so C = Kε₀A/d.\n(a) Battery connected (V fixed): C → KC; Q → KQ; E = V/d unchanged; U = ½CV² → KU.\n(b) Battery disconnected (Q fixed): C → KC; V → V/K; E → E/K; U = Q²/2C → U/K.", ["October 2016"]],
+  ["Define electric potential and potential difference. Derive the potential at a point due to a point charge, and state the relation between field and potential.", "Potential at a point: the work done per unit positive charge in bringing a test charge from infinity to the point, V = W/q₀ (volt = J/C). Potential difference between A and B is W_AB/q₀.\nPoint charge q: the field at distance x is kq/x². The work against it from ∞ to r is W = −∫∞^r (kq/x²) q₀ dx = kqq₀/r, so V = q/4πε₀r.\nRelation: E = −dV/dr — the field points in the direction of decreasing potential, and E = 0 where V is constant."]
+ ]
+}

@@ -1,0 +1,204 @@
+{
+  "subject": "physics",
+  "lesson": 28,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 28: Semiconductors and Semiconducting Devices — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Energy bands"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "In a solid, the energy levels of the atoms spread into bands. The valence band is the highest filled band; the conduction band is the one above it. The energy gap E_g lies between them."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Conductors have overlapping bands (no gap). Insulators have a large gap (about 6 eV or more, e.g. diamond). Semiconductors have a small gap: Si about 1.1 eV and Ge about 0.7 eV."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "At 0 K a pure semiconductor such as germanium behaves as an insulator. As temperature rises, more electrons cross the gap, so its conductivity increases and its resistivity decreases exponentially — the opposite of a metal."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Intrinsic and extrinsic semiconductors"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "An intrinsic (pure) semiconductor has equal numbers of electrons and holes (nₑ = n_h)."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "An extrinsic semiconductor is doped to raise its conductivity. n-type: a pentavalent impurity (group 15: P, As, Sb), called a donor, makes electrons the majority carriers. p-type: a trivalent impurity (group 13: B, Al, Ga, In), called an acceptor, makes holes the majority carriers. Each type remains electrically neutral."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "p-n junction"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "When p- and n-regions are joined, electrons and holes diffuse across and recombine. This leaves a thin depletion region near the junction with no free carriers, which has high resistance, and a potential barrier of about 0.7 V (Si) or 0.3 V (Ge)."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Forward bias (p to +, n to −): the barrier is lowered and the depletion layer narrows. Current rises sharply beyond the knee voltage of about 0.7 V for Si and 0.3 V for Ge, and the resistance is low."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Reverse bias: the depletion layer widens and only a tiny reverse saturation current flows, until breakdown occurs."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "So a p-n junction conducts in one direction only (its unidirectional property), which makes it useful as a rectifier."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "On a diode, the end marked with a band is the cathode (n-side). Identifying the ends matters because a wrongly connected diode blocks the current."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Special diodes"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Zener diode: a heavily doped junction designed to work in the reverse breakdown region, where the voltage stays constant; it is used as a voltage regulator."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Photodiode: worked in reverse bias; light produces electron–hole pairs and the reverse current increases."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "LED: forward biased; it emits light as electrons and holes recombine."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Solar cell: needs no external bias; light generates an emf, and its I–V curve lies in the fourth quadrant."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Transistor"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "A transistor has three regions: emitter (most heavily doped), base (thin and lightly doped) and collector (largest). It may be n-p-n or p-n-p. In the symbol, the arrow on the emitter shows the direction of conventional current: outward for n-p-n, inward for p-n-p."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "In normal use the emitter–base junction is forward biased and the collector–base junction reverse biased, with Iₑ = I_b + I_c."
+        ]
+      ]
+    }
+  ]
+}
