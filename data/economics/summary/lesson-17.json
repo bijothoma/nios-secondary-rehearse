@@ -1,0 +1,285 @@
+{
+  "subject": "economics",
+  "lesson": 17,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 17: Collection and Presentation of Data — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Information and data"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Information can be qualitative or quantitative. Qualitative information describes qualities: good, bad, beautiful, educated. Quantitative information is given in numbers: income, height, marks, population. Economics mostly uses quantitative information."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Data means quantitative information giving facts in an aggregate manner. It is also called statistical data or statistics. 'Data' is plural; the singular is 'datum'."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Features of data (statistics)"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "(1) An aggregate of facts. One student's marks (95) is a single fact; the marks of the whole class are data and can be compared and analysed."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "(2) Numerically expressed. Qualities such as good or ugly are attributes, not data."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "(3) Affected by many causes. A rise in prices may come from lower supply, higher demand, higher taxes or higher wages."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "(4) A reasonable standard of accuracy. 100% accuracy is neither possible nor desirable."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "(5) Collected for a predetermined purpose."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Importance of data in economics"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "(1) Economic planning: past data are used to plan the future, such as spending on primary education. Planning is based on forecasts made from statistics."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "(2) National income: data on wages, rent, interest and profit are needed to work it out."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "(3) Government policies: data on poverty and unemployment led to MGNREGA (100 days of wage employment). The Census, held every 10 years, showed 938 females per 1,000 males in India (848 in Haryana), which led to policies to save the girl child."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Primary and secondary data"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Primary data are collected for the first time by the investigator for the survey. The investigator collects the information; the respondent (informant) answers. They can be collected in five ways."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "(1) Direct personal investigation: the investigator meets respondents personally. It is the most reliable method, but it risks personal bias and suits a small number of respondents."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "(2) Indirect investigation: information is obtained from third persons who know the facts. It is used by government commissions."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "(3) Through correspondents: agents in different places send information to the investigator. It is used by newspapers."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "(4) Mailed questionnaire: respondents fill in a questionnaire sent by post. It is used only when respondents are literate."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "(5) Schedules: field workers ask the questions and write down the answers. It is useful when respondents are illiterate."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Secondary data are collected by others earlier and used again. Published sources include newspaper and RBI reports, trade associations, annual reports, SEBI, official publications, and the UNO and World Bank. Unpublished sources include internal government reports, institutional records and students' research reports."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Classification"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Classification arranges raw (unorganised) data into classes or groups by their resemblance."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "A variable can be measured by size or time, such as height, weight, distance or income. A discrete variable takes specific whole values, such as the number of children. A continuous variable can take any value in a range, such as height. An attribute cannot be measured, such as beauty, bravery, intelligence, laziness or being educated."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Series"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "An individual series shows items individually. Raw data arranged in ascending or descending order is an array. A discrete series shows exact values with their frequencies, e.g. marks 30, 40, 50 with f 4, 6, 10. A continuous series shows class intervals with their frequencies, e.g. 0–10, 10–20 with f 7, 13; it may be exclusive or inclusive."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Tabulation and diagrams"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Tabulation puts classified data in rows and columns. A table has a title, captions, stubs, a body, a source and footnotes."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Diagrams present data geometrically, so they can be understood at a glance. Bar diagrams are one-dimensional: only the height of a bar matters. In a simple bar diagram the bars are of uniform width and placed at equal distances, usually vertical on a horizontal base."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Graphs show time series or frequency distributions as lines or curves, with time on the X-axis and the variable on the Y-axis."
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+ "lesson": 10,
+ "title": "Supply",
+ "module": 4,
+ "summary": [
+  "## Meaning of supply",
+  "Supply of a commodity is the quantity that a seller offers for sale at a given price in a given period of time. Like demand, the definition has three parts: quantity, price and time. Example: Ganga Singh sold 120 litres of milk at ₹25 a litre last week.",
+  "Firms — farmers, manufacturers and sellers — supply goods. A good being available in the market does not mean it has been supplied.",
+  "## Stock and supply",
+  "Stock is the total quantity a seller has at a particular point of time. Supply is the part of the stock the seller is ready to sell at a given price during a period of time. Stock is measured at a point of time; supply is a flow, measured over a period. Example: a grain merchant has a stock of 820 quintals of rice on 1 August and supplies 300 quintals at ₹2,300 during August.",
+  "## Determinants of individual supply",
+  "(1) Price of the commodity: a higher price means higher AR and TR, so more is supplied.",
+  "(2) Technology: better technology lowers the cost per unit and raises profit, so supply increases. Old technology raises cost and lowers supply.",
+  "(3) Price of inputs: if milk becomes cheaper, ice cream costs less to make and its supply rises. Dearer inputs reduce supply.",
+  "(4) Prices of other related goods: if the price of rice rises, a farmer shifts land from wheat to rice, so rice supply rises and wheat supply falls.",
+  "(5) Objective of the firm: a firm that wants to maximise sales may supply more even at a lower price. Other firms aim at profit, goodwill or employment.",
+  "(6) Government policy: a higher tax (VAT, excise or sales tax) raises cost and reduces supply. A tax cut or subsidy increases supply.",
+  "## Supply schedule and law of supply",
+  "An individual supply schedule is a table of the quantities one firm supplies at different prices. X Ltd's sugar: ₹2,800 – 8 quintals; ₹2,900 – 9; ₹3,000 – 10; ₹3,100 – 12; ₹3,200 – 15.",
+  "Law of supply: other factors remaining constant, the price of a commodity and its quantity supplied are directly (positively) related. More is supplied at a higher price and less at a lower price.",
+  "## Supply curve",
+  "The supply curve is the diagram of the law of supply, with price on the Y-axis and quantity on the X-axis. It slopes upward from left to right, for three reasons. (1) A higher price brings higher profit, so firms supply more. (2) A higher price makes sellers release part of their stock. (3) Higher profit attracts new firms into the market.",
+  "## Market supply",
+  "Market supply is the total quantity all firms offer at a given price and time — the sum of individual supplies. At ₹2,800, firms X, Y and Z supply 8, 10 and 15 quintals, so market supply = 33 quintals.",
+  "Market supply depends on the factors behind individual supply, plus two more. (1) Number of firms: more firms means more supply. (2) Expected future price: if prices are expected to rise, firms supply less now; if they are expected to fall, firms supply more now."
+ ],
+ "mcq": [
+  ["The supply of a commodity is influenced by —", ["number of sellers", "number of firms", "expected future price", "all of the above"], "D", ["April 2026"]],
+  ["The quantity of a commodity a seller offers for sale at a given price at a given time is —", ["demand", "supply", "stock", "market"], "B", ["October 2022", "April 2024"]],
+  ["Supply of a commodity by one firm is called —", ["market supply", "individual supply", "stock", "joint supply"], "B", ["April 2024"]],
+  ["The supply curve slopes —", ["downward from left to right", "upward from left to right", "parallel to the X-axis", "parallel to the Y-axis"], "B", ["April 2024"]],
+  ["Firms A, B and C supply 10 kg, 15 kg and 20 kg of a commodity at ₹100. The market supply is —", ["20 kg", "35 kg", "45 kg", "100 kg"], "C", ["October 2025"], {"work": "Market supply = 10 + 15 + 20 = 45 kg."}],
+  ["An improvement in the technology of production will —", ["increase supply", "decrease supply", "not affect supply", "make supply zero"], "A", ["October 2025"]],
+  ["An increase in excise duty on TV sets will —", ["increase the supply of TV sets", "decrease the supply of TV sets", "not change supply", "raise demand"], "B", ["October 2019", "October 2017"]],
+  ["The total quantity of a commodity with a seller at a point of time is —", ["supply", "stock", "demand", "output"], "B", ["April 2019"]],
+  ["If the price of a commodity is expected to rise in future, its present supply will —", ["rise", "fall", "remain the same", "double"], "B"],
+  ["If the price of milk falls, the supply of ice cream will —", ["increase", "decrease", "remain unchanged", "become zero"], "A"],
+  ["The law of supply states that price and quantity supplied are —", ["inversely related", "directly related", "unrelated", "equal"], "B"]
+ ],
+ "objective": [
+  ["Fill in the blanks: (a) The price of a commodity and its quantity supplied are ______ related. (b) The supply curve slopes ______.", "(a) positively (directly)\n(b) upward from left to right", ["April 2026", "April 2024"]],
+  ["Fill in the blanks: (a) The graphical representation of the law of supply is the ______. (b) Market supply is the ______ of individual supplies.", "(a) supply curve\n(b) sum", ["April 2025"]],
+  ["State True or False: (a) Better technology raises cost and lowers supply. (b) Factors affecting individual supply also affect market supply.", "(a) False — better technology lowers cost and raises supply.\n(b) True.", ["April 2025", "April 2024"]],
+  ["Give one word: (a) The definition of supply includes price, time and ______. (b) The quantity with a seller at a point of time.", "(a) quantity\n(b) Stock", ["October 2025"]],
+  ["Complete the market supply table: at ₹10, firm A supplies 150 units, firm C 200 units and market supply is 650. At ₹11, A supplies 200, C 300 and market supply is 1,000. Find firm B's supply at (a) ₹10 and (b) ₹11.", "B = market supply − A − C.\n(a) 650 − 150 − 200 = 300 units.\n(b) 1,000 − 200 − 300 = 500 units.", ["October 2024", "October 2019"]],
+  ["Fill in the blanks: (a) If more firms enter the market, market supply will ______. (b) A rise in wage rate will ______ supply.", "(a) increase\n(b) decrease"]
+ ],
+ "vsa": [
+  ["State the law of supply.", "Other factors remaining constant, the price of a commodity and its quantity supplied are directly related: more is supplied at a higher price and less at a lower price.", ["April 2026", "April 2022"]],
+  ["Three firms A, B and C supply 10, 15 and 20 kg of a commodity at ₹100. Find the market supply.", "Market supply = sum of individual supplies = 10 + 15 + 20 = 45 kg at ₹100.", ["October 2025"]],
+  ["How does improved technology affect supply?", "Better technology lowers the cost of production per unit and raises the profit margin, so firms supply more of the commodity at the same price.", ["October 2025"]],
+  ["How does taxation influence supply?", "A higher tax (VAT, excise or sales tax) raises the cost per unit, so supply falls. A cut in tax lowers cost and increases supply.", ["October 2019", "October 2017"]],
+  ["Explain the relation between the price of a commodity and its quantity supplied.", "They are directly related. A higher price raises the seller's revenue and profit, so more is supplied. A lower price reduces supply.", ["October 2016"]],
+  ["Draw a supply curve and give the reason for its shape.", "Plot price on the Y-axis and quantity on the X-axis using a schedule such as ₹1 – 50, ₹2 – 100, ₹3 – 150, ₹4 – 200 units. The curve slopes upward from left to right because price and quantity supplied are directly related: a higher price brings higher profit.", ["April 2023"]]
+ ],
+ "sa": [
+  ["Distinguish between supply and stock with an example.", "Stock is the total quantity a seller has at a point of time. Supply is the part of the stock offered for sale at a given price over a period.\nStock is measured at a point of time; supply is a flow.\nExample: a merchant holds 820 quintals of rice on 1 August (stock) and sells 300 quintals at ₹2,300 during August (supply).", ["April 2019"]],
+  ["Firms A, B and C supply 40, 50 and 60 quintals of sugar at ₹3,000 a quintal. Find the market supply. What two factors, besides price, affect market supply?", "Market supply = 40 + 50 + 60 = 150 quintals at ₹3,000.\nOther factors: (1) the number of firms — more firms means more supply; (2) the expected future price — if prices are expected to rise, firms hold back supply now.", ["April 2021"]],
+  ["Explain how the price of the commodity and government policy determine the supply of a commodity.", "Price: a higher price means higher average and total revenue, so firms supply more; a lower price reduces supply (the law of supply).\nGovernment policy: higher taxes such as VAT or excise raise cost per unit and reduce supply. Tax cuts and subsidies lower cost and increase supply.", ["October 2016", "October 2017"]],
+  ["Why does the supply curve slope upward?", "(1) A higher price raises profit, so firms offer more.\n(2) A higher price makes sellers release part of their stock.\n(3) Higher profit attracts new firms into the market, adding to supply.\nSo more is supplied at higher prices."]
+ ],
+ "la": [
+  ["Explain market supply with the help of a market supply schedule.", "Market supply is the total quantity all firms offer for sale at a given price and time — the sum of individual supplies.\nSchedule (sugar, quintals a day) for firms X, Y and Z:\n₹2,800: 8 + 10 + 15 = 33\n₹2,900: 9 + 11 + 16 = 36\n₹3,000: 10 + 12 + 17 = 39\n₹3,100: 12 + 14 + 20 = 46\nMarket supply rises with price. It also depends on the number of firms and the expected future price.", ["April 2026", "April 2025"]],
+  ["How is the supply of a commodity affected by (a) a fall in the price of related goods and (b) an improvement in technology?", "(a) Related goods: a farmer can grow wheat or rice with the same land. If the price of rice falls, rice becomes less profitable, so the farmer shifts resources to wheat. The supply of wheat rises and the supply of rice falls. A fall in the price of a related good raises the supply of the commodity.\n(b) Technology: better technology reduces the cost per unit and raises the profit margin, so firms supply more at each price and supply increases. Old technology raises cost and reduces supply.", ["April 2017"]],
+  ["State the law of supply with a supply schedule.", "Law: other things being equal, quantity supplied rises when price rises and falls when price falls — a direct relation.\nSchedule (Mohan's mangoes a day): ₹20 – 100 kg; ₹30 – 200 kg; ₹40 – 300 kg; ₹50 – 400 kg; ₹60 – 500 kg.\nAs the price rises from ₹20 to ₹60, supply rises from 100 to 500 kg. The supply curve slopes upward because higher prices bring higher profit, sellers release stock, and new firms enter.", ["April 2016", "April 2022"]],
+  ["Explain the factors affecting individual supply.", "(1) Price of the commodity — higher price, more supply.\n(2) Technology — better technology lowers cost and raises supply.\n(3) Price of inputs — dearer inputs raise cost and reduce supply.\n(4) Prices of related goods — if rice becomes dearer, a farmer supplies more rice and less wheat.\n(5) Objective of the firm — a firm that wants to maximise sales supplies more even at lower prices.\n(6) Government policy — taxes reduce supply; subsidies and tax cuts increase it."]
+ ]
+}

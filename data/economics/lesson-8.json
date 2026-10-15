@@ -1,0 +1,436 @@
+{
+  "subject": "economics",
+  "lesson": 8,
+  "title": "Cost and Revenue",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "14 × 1 = 14",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "70 units are produced with TFC ₹250 and TVC ₹450. The average cost is —",
+          "options": [
+            "₹3.50",
+            "₹6.40",
+            "₹7",
+            "₹10"
+          ],
+          "answer": "D",
+          "years": [
+            "October 2024"
+          ],
+          "work": "TC = TFC + TVC = 250 + 450 = ₹700.\nAC = TC ÷ output = 700 ÷ 70 = ₹10."
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "A seller sells 20 kg of dal at ₹15 a kg, or 21 kg at ₹19 a kg. The marginal revenue is —",
+          "options": [
+            "₹4",
+            "₹19",
+            "₹99",
+            "₹399"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2025"
+          ],
+          "work": "TR at 20 kg = 20 × 15 = ₹300.\nTR at 21 kg = 21 × 19 = ₹399.\nMR = 399 − 300 = ₹99."
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "The revenue which is equal to price is —",
+          "options": [
+            "total revenue",
+            "average revenue",
+            "marginal revenue",
+            "net revenue"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2024",
+            "April 2025"
+          ]
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "Revenue is equal to —",
+          "options": [
+            "price + quantity",
+            "price × quantity sold",
+            "price ÷ quantity",
+            "cost × quantity"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "Costs that are compulsory and have nothing to do with the amount of output are —",
+          "options": [
+            "variable cost",
+            "fixed cost",
+            "marginal cost",
+            "implicit cost"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "The cost of self-supplied factors is —",
+          "options": [
+            "fixed cost",
+            "variable cost",
+            "implicit cost",
+            "explicit cost"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2019",
+            "April 2023"
+          ]
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "Direct payments that are properly calculated and recorded are —",
+          "options": [
+            "variable cost",
+            "fixed cost",
+            "implicit cost",
+            "explicit cost"
+          ],
+          "answer": "D",
+          "years": [
+            "October 2016"
+          ]
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "Rent paid for land is —",
+          "options": [
+            "an explicit cost",
+            "a fixed cost",
+            "both explicit and fixed cost",
+            "an implicit cost"
+          ],
+          "answer": "C",
+          "years": [
+            "October 2019"
+          ],
+          "fixed": true
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "The increase in TC between two successive units of output is —",
+          "options": [
+            "average cost",
+            "marginal cost",
+            "fixed cost",
+            "total cost"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "Marginal revenue is —",
+          "options": [
+            "the amount received by selling a quantity",
+            "revenue per unit sold",
+            "the increase in TR from selling one more unit",
+            "total money received in a period"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2017"
+          ]
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "Total revenue minus total cost is —",
+          "options": [
+            "average revenue",
+            "marginal cost",
+            "profit",
+            "saving"
+          ],
+          "answer": "C",
+          "years": [
+            "October 2022"
+          ]
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "A seller sells 10 kg of mangoes at ₹60 a kg. The revenue is —",
+          "options": [
+            "₹6",
+            "₹60",
+            "₹70",
+            "₹600"
+          ],
+          "answer": "D",
+          "years": [
+            "October 2025"
+          ],
+          "work": "TR = P × Q = 60 × 10 = ₹600."
+        },
+        {
+          "id": "1.13",
+          "type": "mcq",
+          "q": "The amount a seller receives by selling a certain quantity of a commodity is —",
+          "options": [
+            "revenue",
+            "cost",
+            "output",
+            "profit"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2019",
+            "April 2016"
+          ]
+        },
+        {
+          "id": "1.14",
+          "type": "mcq",
+          "q": "10 shirts cost ₹1,110 and 11 shirts cost ₹1,199. The marginal cost of the 11th shirt is —",
+          "options": [
+            "₹89",
+            "₹109",
+            "₹111",
+            "₹1,199"
+          ],
+          "answer": "A",
+          "work": "MC = TC₁₁ − TC₁₀ = 1,199 − 1,110 = ₹89."
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark (fill in the blanks, true/false, match, one word or complete the table).",
+      "marks": "5 × 2 = 10",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "Fill in the blanks: (a) Cost is the money expenditure incurred by the producer to purchase ______ of production. (b) Profit = TR − ______.",
+          "answer": "(a) factors\n(b) TC (total cost)",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Fill in the blanks: (a) Rent is a ______ cost. (b) Wages are a ______ cost.",
+          "answer": "(a) fixed\n(b) variable",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "Complete the revenue table: (a) 10 kg sold at AR ₹25 — TR = ? (b) 11 kg sold with TR ₹275 — AR = ?",
+          "answer": "(a) TR = AR × Q = 25 × 10 = ₹250.\n(b) AR = TR ÷ Q = 275 ÷ 11 = ₹25.",
+          "years": [
+            "October 2021"
+          ]
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Give one word: (a) Cost per unit of output. (b) Revenue per unit sold.",
+          "answer": "(a) Average cost.\n(b) Average revenue (= price)."
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "State True or False: (a) AR and MR are equal when every unit sells at the same price. (b) Implicit costs have bills and receipts.",
+          "answer": "(a) True.\n(b) False — implicit costs are self-supplied, so no money is paid; explicit costs have bills."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "9 × 2 = 18",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "The total cost of producing 15 units is ₹195. Calculate the average cost.",
+          "answer": "AC = TC ÷ output = 195 ÷ 15 = ₹13 per unit.",
+          "years": [
+            "April 2017"
+          ]
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "50 units are produced with TFC ₹720 and TVC ₹780. Find AC.",
+          "answer": "TC = TFC + TVC = 720 + 780 = ₹1,500.\nAC = TC ÷ output = 1,500 ÷ 50 = ₹30 per unit.",
+          "years": [
+            "April 2023"
+          ]
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "25 units are produced with TFC ₹150 and TVC ₹350. Calculate AC.",
+          "answer": "TC = 150 + 350 = ₹500.\nAC = 500 ÷ 25 = ₹20 per unit.",
+          "years": [
+            "October 2016"
+          ]
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "50 units are produced with TFC ₹1,500 and TVC ₹3,500. Calculate AC.",
+          "answer": "TC = 1,500 + 3,500 = ₹5,000.\nAC = 5,000 ÷ 50 = ₹100 per unit.",
+          "years": [
+            "October 2019"
+          ]
+        },
+        {
+          "id": "3.5",
+          "type": "open",
+          "q": "A seller sells 40 kg of rice at ₹30 a kg and 30 kg of wheat at ₹20 a kg. Find total revenue.",
+          "answer": "TR from rice = 40 × 30 = ₹1,200.\nTR from wheat = 30 × 20 = ₹600.\nTotal revenue = 1,200 + 600 = ₹1,800.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "3.6",
+          "type": "open",
+          "q": "Mahesh sold 150 kg wheat at ₹20, 100 kg rice at ₹30 and 30 kg oilseed at ₹80 a kg. Calculate his total revenue.",
+          "answer": "Wheat: 150 × 20 = ₹3,000.\nRice: 100 × 30 = ₹3,000.\nOilseed: 30 × 80 = ₹2,400.\nTR = 3,000 + 3,000 + 2,400 = ₹8,400.",
+          "years": [
+            "April 2019"
+          ]
+        },
+        {
+          "id": "3.7",
+          "type": "open",
+          "q": "Sanjay sells 80 kg wheat at ₹30, 50 kg rice at ₹60 and 50 litres of oil at ₹110. Find his total revenue.",
+          "answer": "Wheat: 80 × 30 = ₹2,400.\nRice: 50 × 60 = ₹3,000.\nOil: 50 × 110 = ₹5,500.\nTR = 2,400 + 3,000 + 5,500 = ₹10,900.",
+          "years": [
+            "April 2022"
+          ]
+        },
+        {
+          "id": "3.8",
+          "type": "open",
+          "q": "20 kg of potatoes are sold for a TR of ₹220. Find AR.",
+          "answer": "AR = TR ÷ Q = 220 ÷ 20 = ₹11 per kg (equal to the price).",
+          "years": [
+            "April 2016"
+          ]
+        },
+        {
+          "id": "3.9",
+          "type": "open",
+          "q": "Define fixed cost.",
+          "answer": "Fixed cost is the expenditure on fixed factors, such as rent for land or a tractor. It is compulsory and does not change with the amount of output; it must be paid even if nothing is produced.",
+          "years": [
+            "April 2017"
+          ],
+          "or": {
+            "q": "What is meant by cost of production?",
+            "answer": "Cost of production is the money expenditure a producer incurs to buy or hire factors of production (land, labour, capital) and raw materials to produce goods and services."
+          }
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "4 × 3 = 12",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "Distinguish between explicit cost and implicit cost.",
+          "answer": "Explicit cost: money actually paid out for fixed and variable factors and raw materials — rent, wages and raw materials. These are direct payments, recorded with bills and receipts.\nImplicit cost: the cost of the producer's own self-supplied factors, e.g. a farmer's own tractor or land. No money is paid; its value is estimated at market rates (the ₹3,000 rent the tractor could have earned).",
+          "years": [
+            "April 2025",
+            "April 2021"
+          ]
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "Distinguish between fixed cost and variable cost with examples.",
+          "answer": "Fixed cost is spending on fixed factors. It does not change with output and must be paid even at zero output, e.g. rent of land or a tractor.\nVariable cost is spending on variable factors. It changes with output, e.g. wages and raw materials. A farmer paid ₹18,000 in wages when 4 workers were needed and ₹9,000 when only 2 were needed."
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "A firm produces 50 units sold at ₹10 each. Its fixed cost is ₹110 and variable cost ₹150. Find the profit.",
+          "answer": "TR = 50 × 10 = ₹500.\nTC = TFC + TVC = 110 + 150 = ₹260.\nProfit = TR − TC = 500 − 260 = ₹240."
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "A shopkeeper sells 10 kg of rice at ₹30 a kg, or 11 kg at ₹29 a kg. Find AR in each case and MR.",
+          "answer": "TR at 10 kg = 10 × 30 = ₹300, so AR = ₹30.\nTR at 11 kg = 11 × 29 = ₹319, so AR = ₹29.\nMR = 319 − 300 = ₹19.\nAR equals the price; MR differs from AR because the price fell."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Long answer questions. Answer in 80–120 words.",
+      "marks": "3 × 5 = 15",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "What is meant by cost? Distinguish between explicit cost and implicit cost.",
+          "answer": "Cost is the money a producer spends to buy or hire factors of production and raw materials. It is the producer's sacrifice.\nExplicit cost: actual money payments to outsiders for land, labour, capital and raw materials — rent, wages, interest and material bills. They are direct, properly calculated and recorded.\nImplicit cost: the value of factors the producer owns and uses, e.g. their own land, tractor or labour. Nothing is paid, but it is estimated at the market price the factor could have earned. Both must be counted to know the true cost.",
+          "years": [
+            "April 2021"
+          ]
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "Explain TR, AR and MR with a numerical example. Why are AR and price the same?",
+          "answer": "TR = P × Q, the total money received from sales.\nAR = TR ÷ Q, the revenue per unit.\nMR = TR(n) − TR(n−1), the extra revenue from one more unit.\nExample: guavas at ₹50 a kg. 20 kg gives TR = ₹1,000 and AR = ₹50. 21 kg gives TR = ₹1,050 and MR = ₹50.\nAR = (P × Q) ÷ Q = P, so average revenue always equals price. When every unit sells at the same price, MR = AR."
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "Explain TC, AC and MC with an example.",
+          "answer": "TC = TFC + TVC.\nAC = TC ÷ output, the cost per unit.\nMC = the increase in TC from one more unit of output.\nExample: a tailor's TC is ₹1,110 for 10 shirts and ₹1,199 for 11 shirts.\nAC = 1,110 ÷ 10 = ₹111 and 1,199 ÷ 11 = ₹109.\nMC = 1,199 − 1,110 = ₹89.\nAC is worked out at each level of output; MC is worked out between two successive levels."
+        }
+      ]
+    }
+  ]
+}

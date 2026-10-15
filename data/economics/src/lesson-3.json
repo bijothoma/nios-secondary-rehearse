@@ -1,0 +1,73 @@
+{
+ "lesson": 3,
+ "title": "Goods and Services",
+ "module": 1,
+ "summary": [
+  "## Goods and services",
+  "Human wants are unlimited, and they are satisfied by goods and services. Goods are things like food, pens, chairs, houses and television sets. Services are the work of people such as a hairdresser, doctor, tailor or cobbler. Both goods and services satisfy human wants.",
+  "## Goods vs services",
+  "Goods are tangible: they can be seen and touched. There is a time gap between their production and consumption, since a chair is made first and used later. Goods can be stored and used when needed, and they can be transferred from one place or person to another.",
+  "Services are non-tangible: they cannot be seen or touched. There is no time gap between production and consumption. A service is produced and consumed at the same time, as when a doctor examines a patient. Services cannot be stored, and they cannot be transferred.",
+  "## Free and economic goods",
+  "Free goods are free gifts of nature, such as air, sunlight, or sand in a desert. Their supply is more than their demand, so they have utility but are not scarce and have no price.",
+  "Economic goods are scarce, because their demand is more than their supply. So they command a price and are bought in the market. They may be man-made (soap, bread, machines) or gifts of nature that have become scarce (water, sand in a city, minerals).",
+  "## Free and economic services",
+  "Free services cannot be bought in the market. They are given out of love and affection, such as a parent's care or a mother cooking dinner. Economic services are bought in the market, such as the services of doctors, engineers and lawyers.",
+  "## Consumer and producer goods",
+  "This classification is based on the purpose for which a good is used. Consumer goods satisfy wants directly, like bread, fruit, milk and clothes. Producer goods satisfy wants indirectly by helping to produce other goods, like machinery, tools, raw materials, seeds, manure and tractors. Intermediate goods are raw materials, power and fuel used to produce final goods; for example, wheat flour is an intermediate good for a bakery.",
+  "## Consumer and producer services",
+  "Consumer services are used directly by households: a tailor stitching your shirt, a doctor treating you, a plumber fixing your tap. Producer services help produce other goods and services: a tailor stitching shirts for a garment shop, an electrician repairing a factory's wiring, a truck carrying raw material to a factory.",
+  "## Single-use and durable-use goods",
+  "Single-use goods are finished in one use. Single-use consumer goods include bread, butter, eggs and milk. Single-use producer goods include coal, raw material, seeds and manure; sugarcane, for example, is used up in making sugar. Durable-use goods are used again and again for a long time. Durable consumer goods include clothes, furniture, TV sets and scooters; durable producer goods include machines, tools and tractors. Durable goods lose value (depreciate) with continued use.",
+  "## Private and public goods",
+  "This classification is based on ownership. Private goods are owned and enjoyed exclusively by individuals, such as your watch, pen, scooter, or the machinery of your factory. Public goods are owned and enjoyed by society as a whole, such as roads, bridges, parks and town halls. They are available to all without discrimination. Both the government and private entrepreneurs may produce public goods.",
+  "## Role of goods and services",
+  "Human wants: more goods and services satisfy more wants.",
+  "Production: the supply of consumer goods depends on the quantity and quality of producer goods and services (machines, seeds, transport, banking).",
+  "Investment: the part of production that is not consumed is used for further production, which is capital formation. The larger the surplus, the larger the productive capacity of the economy."
+ ],
+ "mcq": [
+  ["Which of the following is correct about services?", ["They are non-tangible", "They cannot be stored", "They cannot be transferred", "All of the above"], "D", ["April 2026"]],
+  ["A good which has a price and can be bought in the market is —", ["an economic good", "a free good", "a public good", "a free service"], "A", ["April 2026"]],
+  ["Which of the following statements is correct?", ["Free goods have more supply than demand", "Public goods are collectively owned", "Durable goods can be used again and again", "All of the above"], "D", ["April 2026"]],
+  ["A mother cooking dinner for her family is an example of —", ["an economic service", "a free service", "a producer service", "a public good"], "B", ["October 2024"]],
+  ["Which of the following is correct?", ["Durable producer goods depreciate with use", "Economic goods can be bought in the market", "Private goods are privately owned", "All of the above"], "D", ["October 2024"]],
+  ["Which of the following is NOT a characteristic of a good?", ["It can be seen and touched", "It can be stored", "It can be transferred", "There is no time gap between its production and consumption"], "D", ["October 2025"]],
+  ["Goods owned by society as a whole are called —", ["private goods", "public goods", "free goods", "consumer goods"], "B", ["October 2025"]],
+  ["Which statement is correct?", ["Only goods satisfy our wants", "Only services satisfy our wants", "Both goods and services satisfy our wants", "Neither goods nor services satisfy our wants"], "C", ["April 2025"]],
+  ["Which of the following can be both a single-use producer good and a single-use consumer good?", ["Tractor", "Sugarcane", "Television", "Machine"], "B", ["April 2025"]],
+  ["Machinery, tools, seeds and tractors are examples of —", ["consumer goods", "producer goods", "free goods", "public goods"], "B"],
+  ["Wheat flour used by a bakery to make bread is —", ["a final good", "an intermediate good", "a free good", "a durable consumer good"], "B"],
+  ["An electrician repairing the wiring of a factory provides a —", ["consumer service", "free service", "producer service", "public good"], "C"],
+  ["Goods whose supply is more than their demand and which have no price are —", ["economic goods", "free goods", "private goods", "producer goods"], "B"]
+ ],
+ "objective": [
+  ["Fill in the blanks: (a) Seeds used by a farmer are ______ goods. (b) Tractors used by a farmer are ______ goods.", "(a) intermediate (single-use producer)\n(b) capital (durable-use producer)", ["April 2026"]],
+  ["State True or False: (a) Transfer of services is not possible. (b) Consumer goods help in producing other goods.", "(a) True.\n(b) False — producer goods help in producing other goods; consumer goods satisfy wants directly.", ["October 2024"]],
+  ["Fill in the blanks: (a) Public goods may be produced by both private and ______ entrepreneurs. (b) In a service, production and consumption take place ______.", "(a) government\n(b) simultaneously (at the same time)", ["October 2024", "October 2025", "April 2026"]],
+  ["State True or False: (a) Free goods are free gifts of nature. (b) Durable consumer goods depreciate with use.", "(a) True.\n(b) True.", ["April 2025"]],
+  ["State True or False: (a) We buy goods and services from the market. (b) The market is not flooded with goods today.", "(a) True.\n(b) False — markets today are full of a wide variety of goods.", ["April 2024"]],
+  ["Give one word: (a) Goods used only once, e.g. milk or coal. (b) Goods used again and again, e.g. a scooter or a machine.", "(a) Single-use goods.\n(b) Durable-use goods."],
+  ["Classify as free or economic: (a) sunlight; (b) bottled drinking water.", "(a) Free good — a gift of nature, supply more than demand, no price.\n(b) Economic good — scarce and bought for a price."]
+ ],
+ "vsa": [
+  ["Distinguish between goods and services.", "Goods are tangible, can be stored and transferred, and are produced first and consumed later.\nServices are non-tangible, cannot be stored or transferred, and are produced and consumed at the same time.", ["April 2021", "April 2019", "October 2022"]],
+  ["Distinguish between consumer goods and producer goods.", "Consumer goods satisfy wants directly, e.g. bread, milk, clothes.\nProducer goods satisfy wants indirectly by helping to produce other goods, e.g. machines, tools, seeds, tractors.", ["April 2026", "October 2025"], {"or": ["Distinguish between free service and economic service.", "A free service cannot be bought in the market and is given out of love and affection, e.g. a mother's care.\nAn economic service is bought in the market for a price, e.g. a doctor's or lawyer's service."]}],
+  ["What are public goods? Give two examples you use.", "Public goods are owned and enjoyed by society as a whole and are available to everyone without discrimination.\nExamples: roads, bridges, parks, street lights, a town hall.", ["October 2017", "October 2021"]],
+  ["What are private goods? Give examples.", "Private goods are owned privately and enjoyed exclusively by individuals.\nExamples: your watch, pen, scooter, books, clothes, and the building and machines of your own factory.", ["April 2024"]],
+  ["Explain the free services used in daily consumption with an example.", "Free services cannot be bought in the market. They are given out of love and affection.\nExample: parents caring for their children, or a mother cooking dinner for the family.", ["October 2016", "October 2022"]],
+  ["'Services cannot be stored.' Explain.", "A service is produced and consumed at the same moment. A doctor's examination is used up as it is given, so it cannot be kept for later or passed to someone else.", ["April 2024"]]
+ ],
+ "sa": [
+  ["Distinguish between free services and economic services with examples.", "(1) Free services cannot be bought in the market; economic services are bought and sold for a price.\n(2) Free services are given out of love, affection or goodwill, e.g. a mother cooking dinner or a parent teaching a child.\n(3) Economic services are given for payment, e.g. a doctor treating a patient, a lawyer, an engineer or a tailor.", ["April 2024"]],
+  ["'There is no time gap between production and consumption of services.' Explain with an example.", "A service is produced and consumed at the same time.\nWhen a doctor examines a patient, the service is delivered at that moment and the patient uses it at that moment.\nSo, unlike a chair made today and used later, a service cannot be stored or transferred.", ["October 2024"]],
+  ["What are producer services? Explain with a suitable example.", "Producer services are used to produce other goods and services, so they satisfy wants indirectly.\nExamples: a tailor stitching shirts for a readymade garment shop, an electrician repairing wiring in a factory, a truck carrying raw material to a factory.\nThey differ from consumer services, which households use directly.", ["April 2017"]],
+  ["Distinguish between single-use and durable-use consumer goods with examples.", "Single-use consumer goods are finished in one use, e.g. bread, butter, eggs, milk.\nDurable-use consumer goods are used again and again over a long time, e.g. clothes, furniture, a TV set, a scooter.\nDurable goods lose value (depreciate) with use; single-use goods are used up at once.", ["April 2016"]],
+  ["Explain the role of goods and services in relation to production and investment.", "Production: the supply of consumer goods depends on the quantity and quality of producer goods and services such as machines, seeds, transport and banking.\nInvestment: the part of output that is not consumed is used for further production, which is capital formation.\nThe larger the surplus, the larger the productive capacity of the economy.", ["April 2024"]]
+ ],
+ "la": [
+  ["Distinguish between goods and services with suitable examples.", "(1) Goods are tangible and can be seen and touched, e.g. a chair. Services are non-tangible, e.g. a doctor's treatment.\n(2) Goods are produced first and consumed later, so there is a time gap. Services are produced and consumed at the same time.\n(3) Goods can be stored and used when needed. Services cannot be stored.\n(4) Goods can be transferred to another place or person. Services cannot be transferred.\n(5) Both satisfy human wants.", ["April 2019", "October 2022"]],
+  ["Explain the classification of goods into (a) consumer and producer goods and (b) private and public goods.", "(a) This classification is based on use. Consumer goods satisfy wants directly, e.g. bread, milk and clothes. Producer goods help to produce other goods and so satisfy wants indirectly, e.g. machines, tools, seeds, manure and tractors.\n(b) This classification is based on ownership. Private goods are owned and enjoyed by individuals, e.g. a watch or scooter. Public goods are owned by society as a whole and open to all, e.g. roads, bridges and parks. Both the government and private entrepreneurs may produce public goods."],
+  ["Distinguish between free goods and economic goods. Why can a natural thing like water become an economic good?", "Free goods are gifts of nature whose supply is more than their demand. They have utility but are not scarce, so they have no price, e.g. air and sunlight.\nEconomic goods are scarce, because their demand is more than their supply. They command a price and are bought in the market, e.g. soap, bread and machines.\nWater, sand and minerals are gifts of nature, but where they are scarce they command a price and so become economic goods. Sand is free in a desert but has to be bought in a city."]
+ ]
+}

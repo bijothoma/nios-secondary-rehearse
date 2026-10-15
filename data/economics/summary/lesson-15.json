@@ -1,0 +1,168 @@
+{
+  "subject": "economics",
+  "lesson": 15,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 15: Banking and Credit — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Bank and banking"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "A bank is an institution that accepts money from the public as deposits and gives loans. Banking means accepting deposits from the public for lending or investment. The deposits are repayable on demand or otherwise and can be withdrawn by cheque, draft or order. Money and banking go together."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Functions of a bank"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "(1) Accepting deposits. The bank opens an account with an account number, adds deposits, deducts withdrawals, pays interest on some deposits, and issues cheque books for withdrawals and payments."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "(2) Giving loans to people who can repay later: for a TV, refrigerator, car or house, or to start a business."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "(3) Keeping valuables such as jewellery and property documents in safe custody through lockers."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Credit and credit creation"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Credit is the claim to receive payment. When the bank lends, it becomes the lender and the borrower owes it money; this lending and borrowing creates credit. A bank keeps only a fraction of its deposits as cash, called the cash reserve ratio (CRR) and set by the banking authority. It lends the rest."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Example with CRR of 20%. A deposits ₹100. The bank keeps ₹20 and lends ₹80 to B, creating a deposit of ₹80. It keeps ₹16 of that and lends ₹64 to C, and so on. After three rounds, total deposits are 100 + 80 + 64 = ₹244."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Total credit = initial deposit × 1/CRR = 100 × 1/20% = 100 × 5 = ₹500. Of this, ₹100 is cash reserve and ₹400 is loans."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "The primary deposit is the initial new deposit (₹100). Secondary deposits are created by the loans (₹80, ₹64 …). If ₹10,000 is deposited and ₹8,000 lent, the secondary deposit is ₹8,000. Credit creation comes from the secondary deposits."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "A lower CRR means more credit. With CRR 10%: 100 × 10 = ₹1,000. Commercial banks create credit; the RBI does not."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Types of banks in India"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Reserve Bank of India (RBI): the central bank and head of the banking system, with its headquarters in Mumbai. All banks follow its rules. It issues currency notes, which carry the Governor's signature. One-rupee notes and coins are issued by the Ministry of Finance. It is also banker to the central and state governments."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Commercial banks accept deposits, lend and create credit, and earn profit from interest and fees. Public sector examples are SBI, PNB, BOI, Canara Bank and Bank of Baroda; private sector examples are ICICI, HDFC and Yes Bank."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Cooperative banks are run by cooperative societies under state laws. Rural cooperative banks lend for farming, cattle and fishery. Urban ones lend for self-employment, small industry, durable goods and personal finance. Examples are state cooperative banks, primary agricultural credit societies, urban cooperative banks, land development banks and district central cooperative banks."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Development banks give long-term credit to private and public units to set up industries and infrastructure. Examples are IDBI, IFCI and State Finance Corporations."
+        ]
+      ]
+    }
+  ]
+}

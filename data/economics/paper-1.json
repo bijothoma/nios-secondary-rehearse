@@ -1,0 +1,705 @@
+{
+  "subject": "economics",
+  "lesson": 901,
+  "title": "Model Question Paper 1",
+  "meta": "Time: 3 hours · Maximum marks: 100 · Modelled on the April 2026 NIOS paper",
+  "instructions": [
+    "All questions are compulsory. Where a question has OR, answer either one.",
+    "Section A: questions 1–20 are MCQs (1 mark each). Section B: questions 21–35 have two parts of 1 mark each.",
+    "Section C: 2-mark answers in 30–50 words, 3-mark answers in 50–80 words, 5-mark answers in 80–120 words. Show the working in numerical questions.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "20 × 1 = 20",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "A good which has a price and can be bought in the market is —",
+          "options": [
+            "an economic good",
+            "a free good",
+            "a public good",
+            "a free service"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 3."
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "Which of the following is correct?",
+          "options": [
+            "Durable producer goods depreciate with use",
+            "Economic goods can be bought in the market",
+            "Private goods are privately owned",
+            "All of the above"
+          ],
+          "answer": "D",
+          "years": [
+            "October 2024"
+          ],
+          "fixed": true,
+          "note": "Lesson 3."
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "The use of goods and services for the direct satisfaction of wants is called —",
+          "options": [
+            "production",
+            "consumption",
+            "capital formation",
+            "distribution"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2019"
+          ],
+          "note": "Lesson 6."
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "Which factor of production becomes obsolete after a certain period?",
+          "options": [
+            "Land",
+            "Labour",
+            "Capital",
+            "Entrepreneurship"
+          ],
+          "answer": "C",
+          "years": [
+            "October 2016"
+          ],
+          "note": "Lesson 6."
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "The output contributed by the last unit of labour is —",
+          "options": [
+            "total product",
+            "average product",
+            "marginal product",
+            "fixed product"
+          ],
+          "answer": "C",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 7."
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "When marginal product is zero, total product is —",
+          "options": [
+            "zero",
+            "minimum",
+            "maximum",
+            "negative"
+          ],
+          "answer": "C",
+          "note": "Lesson 7."
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "Costs that are compulsory and have nothing to do with the amount of output are —",
+          "options": [
+            "variable cost",
+            "fixed cost",
+            "marginal cost",
+            "implicit cost"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2024"
+          ],
+          "note": "Lesson 8."
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "Direct payments that are properly calculated and recorded are —",
+          "options": [
+            "variable cost",
+            "fixed cost",
+            "implicit cost",
+            "explicit cost"
+          ],
+          "answer": "D",
+          "years": [
+            "October 2016"
+          ],
+          "note": "Lesson 8."
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "The definition of demand includes —",
+          "options": [
+            "price",
+            "quantity",
+            "time",
+            "all of these"
+          ],
+          "answer": "D",
+          "years": [
+            "October 2019",
+            "October 2021"
+          ],
+          "fixed": true,
+          "note": "Lesson 9."
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "The demand curve slopes —",
+          "options": [
+            "upward from left to right",
+            "downward from left to right",
+            "parallel to the X-axis",
+            "parallel to the Y-axis"
+          ],
+          "answer": "B",
+          "note": "Lesson 9."
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "An increase in excise duty on TV sets will —",
+          "options": [
+            "increase the supply of TV sets",
+            "decrease the supply of TV sets",
+            "not change supply",
+            "raise demand"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2019",
+            "October 2017"
+          ],
+          "note": "Lesson 10."
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "The supply of a commodity is influenced by —",
+          "options": [
+            "number of sellers",
+            "number of firms",
+            "expected future price",
+            "all of the above"
+          ],
+          "answer": "D",
+          "years": [
+            "April 2026"
+          ],
+          "fixed": true,
+          "note": "Lesson 10."
+        },
+        {
+          "id": "1.13",
+          "type": "mcq",
+          "q": "A bag of 25 kg of rice at ₹20 a kg has a value of —",
+          "options": [
+            "₹45",
+            "₹200",
+            "₹250",
+            "₹500"
+          ],
+          "answer": "D",
+          "work": "Value = price × quantity = 20 × 25 = ₹500 — money as a measure of value.",
+          "note": "Lesson 14."
+        },
+        {
+          "id": "1.14",
+          "type": "mcq",
+          "q": "A bank receives ₹200 and lends ₹180. The cash reserve ratio is —",
+          "options": [
+            "5%",
+            "10%",
+            "18%",
+            "20%"
+          ],
+          "answer": "B",
+          "work": "Cash kept = 200 − 180 = ₹20. CRR = 20 ÷ 200 × 100 = 10%.",
+          "note": "Lesson 15."
+        },
+        {
+          "id": "1.15",
+          "type": "mcq",
+          "q": "Data collected for the first time for a survey are —",
+          "options": [
+            "primary data",
+            "secondary data",
+            "personal data",
+            "public data"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2019"
+          ],
+          "note": "Lesson 17."
+        },
+        {
+          "id": "1.16",
+          "type": "mcq",
+          "q": "The mean of 4, 6, 3, 7, 8, 2 and 5 is —",
+          "options": [
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2026"
+          ],
+          "work": "Σx = 4 + 6 + 3 + 7 + 8 + 2 + 5 = 35; N = 7.\nMean = 35 ÷ 7 = 5.",
+          "note": "Lesson 18."
+        },
+        {
+          "id": "1.17",
+          "type": "mcq",
+          "q": "The minimum spending on plant and machinery to set up a small-scale industry is (as per the NIOS text) —",
+          "options": [
+            "₹5 lakh",
+            "₹10 lakh",
+            "₹25 lakh",
+            "₹1 crore"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2026",
+            "October 2024"
+          ],
+          "note": "Lesson 20."
+        },
+        {
+          "id": "1.18",
+          "type": "mcq",
+          "q": "A country that has economic relations with other countries is —",
+          "options": [
+            "a closed economy",
+            "an open economy",
+            "a socialist economy",
+            "a traditional economy"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 22."
+        },
+        {
+          "id": "1.19",
+          "type": "mcq",
+          "q": "A waste that causes an undesirable change in natural resources is called —",
+          "options": [
+            "a resource",
+            "a pollutant",
+            "a nutrient",
+            "biodiversity"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 23."
+        },
+        {
+          "id": "1.20",
+          "type": "mcq",
+          "q": "The Act that applies to all goods and services is the —",
+          "options": [
+            "Essential Commodities Act",
+            "Consumer Protection Act",
+            "Companies Act",
+            "Cooperative Societies Act"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2024"
+          ],
+          "note": "Lesson 24."
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark (fill in the blanks, true/false, match, one word or complete the table).",
+      "marks": "15 × 2 = 30",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "Give one word: (a) Goods used only once, e.g. milk or coal. (b) Goods used again and again, e.g. a scooter or a machine.",
+          "answer": "(a) Single-use goods.\n(b) Durable-use goods.",
+          "note": "Lesson 3."
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "State True or False: (a) Roads constructed by the government are production. (b) Purchase of a tractor by a farmer is consumption.",
+          "answer": "(a) True.\n(b) False — a tractor adds to the farmer's capital stock, so it is investment (capital formation) for production, not consumption.",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 6."
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "State True or False: (a) In a foreign production unit, foreigners contribute more than 50% of the capital. (b) A production unit owned by two or more persons is a partnership.",
+          "answer": "(a) True.\n(b) True — a partnership has 2 to 20 owners.",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 7."
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Fill in the blanks: (a) Rent is a ______ cost. (b) Wages are a ______ cost.",
+          "answer": "(a) fixed\n(b) variable",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 8."
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "State True or False: (a) AR and MR are equal when every unit sells at the same price. (b) Implicit costs have bills and receipts.",
+          "answer": "(a) True.\n(b) False — implicit costs are self-supplied, so no money is paid; explicit costs have bills.",
+          "note": "Lesson 8."
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "Give one word: (a) Car and petrol are ______ goods. (b) The definition of demand includes price, quantity and ______.",
+          "answer": "(a) complementary\n(b) time",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 9."
+        },
+        {
+          "id": "2.7",
+          "type": "open",
+          "q": "Give one word: (a) The definition of supply includes price, time and ______. (b) The quantity with a seller at a point of time.",
+          "answer": "(a) quantity\n(b) Stock",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 10."
+        },
+        {
+          "id": "2.8",
+          "type": "open",
+          "q": "Fill in the blanks: (a) The currency of the USA is the ______. (b) The common currency of Europe is the ______.",
+          "answer": "(a) US dollar ($)\n(b) euro (€)",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Lesson 14."
+        },
+        {
+          "id": "2.9",
+          "type": "open",
+          "q": "Complete: A bank receives a deposit of ₹200 and lends ₹180. (a) Primary deposit = ? (b) Total deposit after the loan = ?",
+          "answer": "(a) ₹200.\n(b) 200 + 180 = ₹380.",
+          "note": "Lesson 15."
+        },
+        {
+          "id": "2.10",
+          "type": "open",
+          "q": "Fill in the blanks: (a) Unpublished secondary data include internal reports of ______. (b) They also include research reports of ______.",
+          "answer": "(a) government departments\n(b) students (in universities)",
+          "years": [
+            "October 2024"
+          ],
+          "note": "Lesson 17."
+        },
+        {
+          "id": "2.11",
+          "type": "open",
+          "q": "State True or False: (a) There are not various measures of central tendency. (b) The arithmetic mean is a measure of central tendency.",
+          "answer": "(a) False — there are several (mean, median, mode).\n(b) True.",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 18."
+        },
+        {
+          "id": "2.12",
+          "type": "open",
+          "q": "Fill in the blanks: (a) The ______ sector pays more than the agricultural sector. (b) Agriculture belongs to the ______ sector.",
+          "answer": "(a) service (tertiary)\n(b) primary",
+          "years": [
+            "October 2024",
+            "April 2024"
+          ],
+          "note": "Lesson 20."
+        },
+        {
+          "id": "2.13",
+          "type": "open",
+          "q": "Match: (a) Selling to foreign citizens — ? (b) International trade leads to — ? [specialisation / exports]",
+          "answer": "(a) Exports.\n(b) Specialisation.",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 22."
+        },
+        {
+          "id": "2.14",
+          "type": "open",
+          "q": "Give one word: (a) A resource that gets replenished over time. (b) Reusing rainwater collected from roofs.",
+          "answer": "(a) Renewable resource.\n(b) Rainwater harvesting.",
+          "note": "Lesson 23."
+        },
+        {
+          "id": "2.15",
+          "type": "open",
+          "q": "State True or False: (a) A consumer buys both goods and services. (b) The CPA covers only the private sector.",
+          "answer": "(a) True.\n(b) False — it covers the private, public and cooperative sectors.",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Lesson 24."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "11 × 2 = 22",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "Explain the free services used in daily consumption with an example.",
+          "answer": "Free services cannot be bought in the market. They are given out of love and affection.\nExample: parents caring for their children, or a mother cooking dinner for the family.",
+          "years": [
+            "October 2016",
+            "October 2022"
+          ],
+          "note": "Lesson 3."
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "Explain consumption as a basic economic activity.",
+          "answer": "Consumption is the use of goods and services for the direct satisfaction of individual or collective wants, such as a household buying food, clothes, a cycle or a doctor's service.\nIt is the goal of production.",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 6."
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "Three firms A, B and C supply 10, 15 and 20 kg of a commodity at ₹100. Find the market supply.",
+          "answer": "Market supply = sum of individual supplies = 10 + 15 + 20 = 45 kg at ₹100.",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 10."
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "What is the barter system? Give an example.",
+          "answer": "Barter is the exchange of goods and services for other goods and services without money. Examples: 10 kg of wheat for 5 kg of sugar, or 8 kg of rice for a pair of shoes.",
+          "years": [
+            "April 2022"
+          ],
+          "note": "Lesson 14."
+        },
+        {
+          "id": "3.5",
+          "type": "open",
+          "q": "What credit do development banks provide?",
+          "answer": "Development banks give long-term credit to private companies and public sector units to set up industries and build infrastructure, e.g. IDBI, IFCI and State Finance Corporations.",
+          "years": [
+            "October 2025"
+          ],
+          "or": {
+            "q": "Distinguish between a lender and a borrower.",
+            "answer": "The lender gives money as a loan and has the right to claim it back with interest, e.g. a bank. The borrower takes the loan now and promises to repay it later with interest."
+          },
+          "note": "Lesson 15."
+        },
+        {
+          "id": "3.6",
+          "type": "open",
+          "q": "'Statistics are numerically expressed.' Explain.",
+          "answer": "Only facts put into numbers by counting, measuring or estimating are statistics, e.g. 409 students admitted to a college. Qualities such as good or ugly cannot be quantified, so they are not statistics.",
+          "years": [
+            "October 2019",
+            "April 2025"
+          ],
+          "note": "Lesson 17."
+        },
+        {
+          "id": "3.7",
+          "type": "open",
+          "q": "Explain the concept of central tendency.",
+          "answer": "Central tendency is the tendency of data to cluster around a central value. The average (e.g. the arithmetic mean) measures it and gives one representative value for the whole data.",
+          "years": [
+            "April 2026",
+            "April 2017"
+          ],
+          "note": "Lesson 18."
+        },
+        {
+          "id": "3.8",
+          "type": "open",
+          "q": "How do rural people earn a living?",
+          "answer": "Through agriculture and allied activities (crops, livestock, poultry, dairy), forestry (timber, firewood, herbs), fishery and mining.",
+          "years": [
+            "April 2024"
+          ],
+          "or": {
+            "q": "Name some forest products.",
+            "answer": "Timber, firewood, herbal medicines, bamboo and grass (for paper)."
+          },
+          "note": "Lesson 20."
+        },
+        {
+          "id": "3.9",
+          "type": "open",
+          "q": "Distinguish between imports and exports.",
+          "answer": "Exports: selling domestic goods and services to citizens of foreign countries, which earns foreign exchange.\nImports: buying goods and services from foreign countries, which uses foreign exchange.",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 22."
+        },
+        {
+          "id": "3.10",
+          "type": "open",
+          "q": "Name two kinds of environmental degradation.",
+          "answer": "(1) Soil degradation — loss of soil quality and fertility.\n(2) Habitat degradation — loss of a habitat's ability to support native life.",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 23."
+        },
+        {
+          "id": "3.11",
+          "type": "open",
+          "q": "Explain the right to information.",
+          "answer": "Sellers must give full information — price, weight, brand, manufacturing and expiry dates, ingredients, quality marks and contact details — so consumers can make informed choices. Example: an air fare of ₹1,500 turned out to be ₹4,995 with hidden taxes.",
+          "years": [
+            "April 2025"
+          ],
+          "or": {
+            "q": "Explain the right to consumer education.",
+            "answer": "Consumers have the right to programmes and information that help them decide before and after purchase — government and NGO guidelines and awareness of marks such as ISI, AGMARK and BIS."
+          },
+          "note": "Lesson 24."
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "6 × 3 = 18",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "What are the functions of an entrepreneur?",
+          "answer": "(1) Brings land, labour and capital together in the right proportion.\n(2) Decides what and how much to produce and how much to spend on factors.\n(3) Bears the risk and uncertainty of production.\n(4) Pays rent, wages and interest, arranges the sale of output and earns profit.",
+          "note": "Lesson 6."
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "Explain the law of demand on the basis of diminishing marginal utility.",
+          "answer": "As a person consumes more units of a good, the satisfaction from each extra unit falls. The first chapati gives most satisfaction, the second less, and so on.\nA buyer pays only as much as the satisfaction is worth, so they buy more units only at a lower price.\nSo quantity demanded rises as price falls — the law of demand.",
+          "years": [
+            "October 2019"
+          ],
+          "note": "Lesson 9."
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "An urban unemployed person wants a loan to start a small business. Which bank should they approach and why?",
+          "answer": "They should approach an urban cooperative bank (or a commercial bank).\nUrban cooperative banks give credit for self-employment activities, small-scale industry and personal finance at reasonable terms.\nCommercial banks also give loans to start businesses to people able to repay in future.",
+          "years": [
+            "October 2024"
+          ],
+          "note": "Lesson 15."
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "What is central tendency? State two precautions in using the arithmetic mean.",
+          "answer": "Central tendency is the tendency of data to cluster around a central value, measured by an average.\nPrecautions: (1) The mean is a theoretical value that may not exist in fact — 2.7 children per family is impossible for any one family. (2) The mean cannot be used for qualitative data such as honesty or beauty.",
+          "years": [
+            "October 2017"
+          ],
+          "note": "Lesson 18."
+        },
+        {
+          "id": "4.5",
+          "type": "open",
+          "q": "'The primary sector provides raw materials to industries.' Explain.",
+          "answer": "Many industries depend on agriculture.\nSugar mills need sugarcane, jute mills need jute, textile mills need cotton, and vanaspati needs oilseeds.\nPaper needs grass and bamboo.\nThe food-processing industry (pickles, jam, juice, biscuits) runs on farm produce.",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Lesson 20."
+        },
+        {
+          "id": "4.6",
+          "type": "open",
+          "q": "'Habitat degradation reduces the carrying capacity of an area.' Explain.",
+          "answer": "Carrying capacity is the number of plants and animals of a species an area can support.\nWhen forests are cut and land is cleared, food and shelter are lost, so fewer animals and plants can survive there.\nPopulations fall, food chains are upset, and species may become extinct.",
+          "years": [
+            "October 2024"
+          ],
+          "note": "Lesson 23."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Long answer questions. Answer in 80–120 words.",
+      "marks": "2 × 5 = 10",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "State and explain the law of diminishing marginal product of labour.",
+          "answer": "Law: when more units of a variable factor (labour) are added to fixed factors, MP first rises, then falls, and may become negative.\nReason: at first the extra workers share work efficiently, so MP rises. Beyond a point the fixed machine is over-used and extra workers add less and less.\nExample: MP 10, 12, 14, then 8, 6, 4, 2, 0, −2. TP is at its maximum (56) when MP = 0, so labour should not be increased beyond that point.",
+          "note": "Lesson 7."
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "Explain the consumer redressal system in India.",
+          "answer": "Laws: the Consumer Protection Act 1986 is the most important law, giving cheap, simple and quick justice for all goods and services. Others are PFA 1954, ECA 1955 and SWMA 1976.\nCouncils: the Central Consumer Protection Council (headed by the Union minister) and State Councils.\nConsumer courts (quasi-judicial, three tiers): District Consumer Forums (604, up to ₹20 lakh), State Commissions (35, up to ₹1 crore), and the National Commission (above ₹1 crore). Relief should come within 90–150 days, with appeals to the higher tier.\nNGOs also help consumers file cases.",
+          "years": [
+            "October 2017",
+            "October 2024"
+          ],
+          "note": "Lesson 24."
+        }
+      ]
+    }
+  ]
+}

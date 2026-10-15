@@ -1,0 +1,710 @@
+{
+  "subject": "economics",
+  "lesson": 902,
+  "title": "Model Question Paper 2",
+  "meta": "Time: 3 hours · Maximum marks: 100 · Modelled on the April 2026 NIOS paper",
+  "instructions": [
+    "All questions are compulsory. Where a question has OR, answer either one.",
+    "Section A: questions 1–20 are MCQs (1 mark each). Section B: questions 21–35 have two parts of 1 mark each.",
+    "Section C: 2-mark answers in 30–50 words, 3-mark answers in 50–80 words, 5-mark answers in 80–120 words. Show the working in numerical questions.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "20 × 1 = 20",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "An electrician repairing the wiring of a factory provides a —",
+          "options": [
+            "consumer service",
+            "free service",
+            "producer service",
+            "public good"
+          ],
+          "answer": "C",
+          "note": "Lesson 3."
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "Which of the following is NOT a characteristic of a good?",
+          "options": [
+            "It can be seen and touched",
+            "It can be stored",
+            "It can be transferred",
+            "There is no time gap between its production and consumption"
+          ],
+          "answer": "D",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 3."
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "Purchase of a car by a household is —",
+          "options": [
+            "investment",
+            "consumption by the household",
+            "production",
+            "capital formation"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2021"
+          ],
+          "note": "Lesson 6."
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "Purchase of a cycle by a household is treated as —",
+          "options": [
+            "capital formation",
+            "production by the household",
+            "consumption",
+            "production for self-consumption"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 6."
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "Foreign production units are classified as —",
+          "options": [
+            "multinationals",
+            "collaborations",
+            "both (A) and (B)",
+            "partnerships"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2025"
+          ],
+          "fixed": true,
+          "note": "Lesson 7."
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "MMTC is a —",
+          "options": [
+            "departmental enterprise",
+            "private company",
+            "public sector undertaking",
+            "cooperative society"
+          ],
+          "answer": "C",
+          "years": [
+            "October 2024"
+          ],
+          "note": "Lesson 7."
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "70 units are produced with TFC ₹250 and TVC ₹450. The average cost is —",
+          "options": [
+            "₹3.50",
+            "₹6.40",
+            "₹7",
+            "₹10"
+          ],
+          "answer": "D",
+          "years": [
+            "October 2024"
+          ],
+          "work": "TC = TFC + TVC = 250 + 450 = ₹700.\nAC = TC ÷ output = 700 ÷ 70 = ₹10.",
+          "note": "Lesson 8."
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "If the price of one brand of cold drink falls, the demand for another brand will —",
+          "options": [
+            "rise",
+            "fall",
+            "remain the same",
+            "double"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2023"
+          ],
+          "note": "Lesson 9."
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "The total quantity of a commodity with a seller at a point of time is —",
+          "options": [
+            "supply",
+            "stock",
+            "demand",
+            "output"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2019"
+          ],
+          "note": "Lesson 10."
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "The currency of Japan is the —",
+          "options": [
+            "yuan",
+            "yen",
+            "won",
+            "pound"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 14."
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "With an initial deposit of ₹100 and a cash reserve ratio of 20%, total credit created is —",
+          "options": [
+            "₹120",
+            "₹200",
+            "₹400",
+            "₹500"
+          ],
+          "answer": "D",
+          "work": "Total credit = initial deposit × 1/CRR = 100 × 1/20% = 100 × 5 = ₹500.",
+          "note": "Lesson 15."
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "Which of the following is a variable?",
+          "options": [
+            "Beauty",
+            "Honesty",
+            "Distance",
+            "Intelligence"
+          ],
+          "answer": "C",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 17."
+        },
+        {
+          "id": "1.13",
+          "type": "mcq",
+          "q": "If the sum of items is 40 and the mean is 4, the number of items is —",
+          "options": [
+            "4",
+            "10",
+            "36",
+            "160"
+          ],
+          "answer": "B",
+          "work": "N = Σx ÷ mean = 40 ÷ 4 = 10.",
+          "note": "Lesson 18."
+        },
+        {
+          "id": "1.14",
+          "type": "mcq",
+          "q": "The sector that attracts the most foreign funds is the —",
+          "options": [
+            "primary sector",
+            "agricultural sector",
+            "service sector",
+            "mining sector"
+          ],
+          "answer": "C",
+          "years": [
+            "October 2024"
+          ],
+          "note": "Lesson 20."
+        },
+        {
+          "id": "1.15",
+          "type": "mcq",
+          "q": "Buying goods and services from foreign countries is —",
+          "options": [
+            "exports",
+            "imports",
+            "production",
+            "investment"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2024"
+          ],
+          "note": "Lesson 22."
+        },
+        {
+          "id": "1.16",
+          "type": "mcq",
+          "q": "China's share in world exports in 2010 was about —",
+          "options": [
+            "1.4%",
+            "10%",
+            "25%",
+            "50%"
+          ],
+          "answer": "B",
+          "note": "Lesson 22."
+        },
+        {
+          "id": "1.17",
+          "type": "mcq",
+          "q": "All definitions of sustainable development require that we see —",
+          "options": [
+            "the environment as a whole",
+            "the country as a whole",
+            "the world as a whole",
+            "the society as a whole"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2019"
+          ],
+          "note": "Lesson 23."
+        },
+        {
+          "id": "1.18",
+          "type": "mcq",
+          "q": "Which of the following is a non-renewable resource?",
+          "options": [
+            "Forest",
+            "Fish",
+            "Coal",
+            "Solar energy"
+          ],
+          "answer": "C",
+          "note": "Lesson 23."
+        },
+        {
+          "id": "1.19",
+          "type": "mcq",
+          "q": "Consumer awareness includes knowledge of —",
+          "options": [
+            "quality of products",
+            "hazards of marketing",
+            "rights and responsibilities",
+            "all of these"
+          ],
+          "answer": "D",
+          "years": [
+            "April 2016"
+          ],
+          "fixed": true,
+          "note": "Lesson 24."
+        },
+        {
+          "id": "1.20",
+          "type": "mcq",
+          "q": "The number of District Consumer Forums in the country (as per the NIOS text) is —",
+          "options": [
+            "35",
+            "100",
+            "604",
+            "1,000"
+          ],
+          "answer": "C",
+          "years": [
+            "October 2024"
+          ],
+          "note": "Lesson 24."
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark (fill in the blanks, true/false, match, one word or complete the table).",
+      "marks": "15 × 2 = 30",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "Fill in the blanks: (a) Seeds used by a farmer are ______ goods. (b) Tractors used by a farmer are ______ goods.",
+          "answer": "(a) intermediate (single-use producer)\n(b) capital (durable-use producer)",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 3."
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "State True or False: (a) Transfer of services is not possible. (b) Consumer goods help in producing other goods.",
+          "answer": "(a) True.\n(b) False — producer goods help in producing other goods; consumer goods satisfy wants directly.",
+          "years": [
+            "October 2024"
+          ],
+          "note": "Lesson 3."
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "Fill in the blanks: (a) Production is the making of goods and ______. (b) Labour and capital get ______ and interest respectively.",
+          "answer": "(a) services\n(b) wages",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Lesson 6."
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Fill in the blanks: (a) The use of ______ in producing goods and services determines the level of production. (b) A powerloom is an example of ______-intensive technology.",
+          "answer": "(a) technology (capital)\n(b) capital",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 7."
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "Fill in the blanks: (a) Cost is the money expenditure incurred by the producer to purchase ______ of production. (b) Profit = TR − ______.",
+          "answer": "(a) factors\n(b) TC (total cost)",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 8."
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "State True or False: (a) Demand rises for goods in fashion. (b) Demand is directly related to the price of complementary goods.",
+          "answer": "(a) True.\n(b) False — it is inversely related.",
+          "years": [
+            "October 2024"
+          ],
+          "note": "Lesson 9."
+        },
+        {
+          "id": "2.7",
+          "type": "open",
+          "q": "Fill in the blanks: (a) The graphical representation of the law of supply is the ______. (b) Market supply is the ______ of individual supplies.",
+          "answer": "(a) supply curve\n(b) sum",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 10."
+        },
+        {
+          "id": "2.8",
+          "type": "open",
+          "q": "Fill in the blanks: (a) The symbol of the rupee is ______. (b) One-rupee notes are issued by the ______.",
+          "answer": "(a) ₹\n(b) Ministry of Finance (Government of India)",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Lesson 14."
+        },
+        {
+          "id": "2.9",
+          "type": "open",
+          "q": "Fill in the blanks: (a) The initial new deposit in a bank is the ______ deposit. (b) Deposits created by the bank's loans are ______ deposits.",
+          "answer": "(a) primary\n(b) secondary",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 15."
+        },
+        {
+          "id": "2.10",
+          "type": "open",
+          "q": "State True or False: (a) Items are shown individually in an individual series. (b) A discrete variable has a specific value.",
+          "answer": "(a) True.\n(b) True.",
+          "years": [
+            "October 2024"
+          ],
+          "note": "Lesson 17."
+        },
+        {
+          "id": "2.11",
+          "type": "open",
+          "q": "Find: (a) The mean of 2, 7, 10, 8, 6, 3, 5, 4, 5, 0. (b) The new mean if an 11th student scoring 5 joins a group of 10 whose mean is 5.",
+          "answer": "(a) Σx = 50, N = 10, so mean = 5.\n(b) Σx = 50 + 5 = 55, N = 11, so mean = 55 ÷ 11 = 5.",
+          "note": "Lesson 18."
+        },
+        {
+          "id": "2.12",
+          "type": "open",
+          "q": "Give one word: (a) Building roads, bridges and dams. (b) Raising crops on fields.",
+          "answer": "(a) Construction.\n(b) Agriculture (cultivation).",
+          "years": [
+            "October 2024"
+          ],
+          "note": "Lesson 20."
+        },
+        {
+          "id": "2.13",
+          "type": "open",
+          "q": "State True or False: (a) Buying from foreign countries is exports. (b) Trade gives a variety of goods.",
+          "answer": "(a) False — it is imports.\n(b) True.",
+          "years": [
+            "October 2024"
+          ],
+          "note": "Lesson 22."
+        },
+        {
+          "id": "2.14",
+          "type": "open",
+          "q": "Fill in the blanks: (a) The environment includes ______ and abiotic factors. (b) Water pollution affects the ______ of water.",
+          "answer": "(a) biotic\n(b) chemistry (quality)",
+          "years": [
+            "April 2024",
+            "April 2022"
+          ],
+          "note": "Lesson 23."
+        },
+        {
+          "id": "2.15",
+          "type": "open",
+          "q": "Fill in the blanks: (a) A complaint must be filed within ______ years of the defect. (b) An appeal to a higher consumer court must be made within ______ days.",
+          "answer": "(a) 2\n(b) 30",
+          "note": "Lesson 24."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "11 × 2 = 22",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "What is the importance of creating infrastructure?",
+          "answer": "Infrastructure means energy, transport, communication, health, education and housing. It is the base on which all production rests. Without it the all-round development of the country is not possible.",
+          "years": [
+            "April 2019"
+          ],
+          "note": "Lesson 7."
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "20 kg of potatoes are sold for a TR of ₹220. Find AR.",
+          "answer": "AR = TR ÷ Q = 220 ÷ 20 = ₹11 per kg (equal to the price).",
+          "years": [
+            "April 2016"
+          ],
+          "note": "Lesson 8."
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "Distinguish between demand and desire.",
+          "answer": "Desire is a mere wish to have a good.\nDemand is desire backed by the ability (money) and willingness to pay the price. A wish for a car without the money to buy it is only a desire.",
+          "years": [
+            "April 2023",
+            "April 2024",
+            "April 2025"
+          ],
+          "or": {
+            "q": "How does climate affect demand?",
+            "answer": "Demand changes with the season: ice, coolers and cold drinks in summer, umbrellas and raincoats in the rainy season, woollens in winter."
+          },
+          "note": "Lesson 9."
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "Draw a supply curve and give the reason for its shape.",
+          "answer": "Plot price on the Y-axis and quantity on the X-axis using a schedule such as ₹1 – 50, ₹2 – 100, ₹3 – 150, ₹4 – 200 units. The curve slopes upward from left to right because price and quantity supplied are directly related: a higher price brings higher profit.",
+          "years": [
+            "April 2023"
+          ],
+          "note": "Lesson 10."
+        },
+        {
+          "id": "3.5",
+          "type": "open",
+          "q": "Explain the store of value function of money with an example.",
+          "answer": "Money keeps purchasing power for later use. Sushila cannot store mangoes for long, but she can keep the ₹250 she got by selling them and spend it later.",
+          "years": [
+            "October 2021",
+            "October 2024",
+            "April 2026"
+          ],
+          "note": "Lesson 14."
+        },
+        {
+          "id": "3.6",
+          "type": "open",
+          "q": "How many types of banks are there in India? Name them.",
+          "answer": "Four: (1) the Reserve Bank of India, the central bank; (2) commercial banks; (3) cooperative banks; (4) development banks.",
+          "years": [
+            "April 2019"
+          ],
+          "note": "Lesson 15."
+        },
+        {
+          "id": "3.7",
+          "type": "open",
+          "q": "Draw a simple bar diagram for: Rajasthan 200, Punjab 400, Gujarat 150, Kerala 300 management colleges.",
+          "answer": "Take the states on the X-axis and the number of colleges on the Y-axis (scale: 1 cm = 100).\nDraw four vertical bars of equal width with equal gaps, of heights 2 cm, 4 cm, 1.5 cm and 3 cm.\nGive a title and label both axes.",
+          "years": [
+            "October 2024"
+          ],
+          "note": "Lesson 17."
+        },
+        {
+          "id": "3.8",
+          "type": "open",
+          "q": "Write the short-cut (assumed mean) formula for the arithmetic mean.",
+          "answer": "X̄ = A + Σfd ÷ N, where A is the assumed mean, d = x − A, f is the frequency and N = Σf. For an individual series, X̄ = A + Σd ÷ N.",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 18."
+        },
+        {
+          "id": "3.9",
+          "type": "open",
+          "q": "What is the share of the primary sector in national income?",
+          "answer": "Agriculture contributed more than 50% of national income at independence. Its share fell to about 15% in 2009–10 as industry and services grew.",
+          "years": [
+            "October 2025"
+          ],
+          "or": {
+            "q": "What are non-agricultural activities?",
+            "answer": "Activities in urban areas other than farming: manufacturing, construction, and gas, water and electricity supply (secondary), and trade, transport, banking and other services (tertiary)."
+          },
+          "note": "Lesson 20."
+        },
+        {
+          "id": "3.10",
+          "type": "open",
+          "q": "Name India's main imports.",
+          "answer": "Petroleum and lubricants (from OPEC countries such as Iran, the UAE and Saudi Arabia), non-ferrous metals, capital goods such as machinery and transport equipment, and fertilisers.",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 22."
+        },
+        {
+          "id": "3.11",
+          "type": "open",
+          "q": "What is water pollution? Name two sources.",
+          "answer": "Water pollution is the contamination of rivers, lakes, seas and groundwater by untreated wastes.\nSources: sewage from towns, industrial effluents, farm runoff of pesticides and fertilisers, oil spills.",
+          "years": [
+            "April 2021",
+            "April 2024"
+          ],
+          "note": "Lesson 23."
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "6 × 3 = 18",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "Explain the four factor incomes.",
+          "answer": "(1) Rent: paid to the landlord for the services of land.\n(2) Wages: paid to labourers for their physical or mental work.\n(3) Interest: paid to the owners of capital, e.g. a bank that lends money to buy a tractor.\n(4) Profit: earned by the entrepreneur for organising production and bearing risk.",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 6."
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "Explain how the price of the commodity and the prices of related goods determine individual demand.",
+          "answer": "Price of the commodity: at a lower price, more is bought; at a higher price, less is bought (the law of demand).\nRelated goods: demand moves with the price of a substitute (dearer coffee → more tea) and against the price of a complement (dearer petrol → fewer cars).",
+          "years": [
+            "April 2021",
+            "October 2021"
+          ],
+          "note": "Lesson 9."
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "'The lack of double coincidence of wants is a common problem with the barter system.' Explain.",
+          "answer": "In barter, the person with rice who wants cloth must find someone who has cloth and wants rice.\nSuch a match is rare, so exchange often does not take place and much time is wasted searching, especially when transport and communication were poor.\nMoney solves this, since anyone accepts money for their goods.",
+          "years": [
+            "April 2021",
+            "October 2017"
+          ],
+          "note": "Lesson 14."
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "Describe the steps in opening a savings account in a bank.",
+          "answer": "(1) Visit the bank and ask for an account-opening form.\n(2) Fill in the form with name, address and nominee details and attach photographs and proof of identity and address (KYC).\n(3) Deposit the minimum initial amount.\n(4) The bank opens the account, gives an account number and issues a passbook and cheque book for deposits and withdrawals.",
+          "years": [
+            "October 2017",
+            "October 2021"
+          ],
+          "note": "Lesson 15."
+        },
+        {
+          "id": "4.5",
+          "type": "open",
+          "q": "Calculate the mean: marks 0, 1, 2, 3, 4, 5 with f = 3, 7, 8, 5, 3, 4.",
+          "answer": "fx = 0, 7, 16, 15, 12, 20.\nΣfx = 70 and N = 30.\nMean = 70 ÷ 30 = 2.33.",
+          "note": "Lesson 18."
+        },
+        {
+          "id": "4.6",
+          "type": "open",
+          "q": "What is noise pollution? What are its effects?",
+          "answer": "Noise pollution is excessive, displeasing noise from traffic, industry, construction and appliances.\nEffects: annoyance and aggression, stress, hypertension, sleep disturbance, heart problems and noise-induced hearing loss.",
+          "years": [
+            "April 2019"
+          ],
+          "note": "Lesson 23."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Long answer questions. Answer in 80–120 words.",
+      "marks": "2 × 5 = 10",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "Explain the production activities of the secondary sector and its role in the economy.",
+          "answer": "Activities: (1) manufacturing — small-scale (shoes, textiles, furniture) and large-scale (steel, automobiles); (2) construction — buildings, roads, bridges, dams; (3) gas, water and electricity supply.\nRole: (1) its share of national income rose from 14% at independence to 28% in 2009–10; (2) it employs about 3.3 crore people; (3) it builds infrastructure — roads, railways, dams such as Hirakud and Bhakra-Nangal, towers; (4) it supplies consumer goods such as clothes, soap, cycles and cars.",
+          "years": [
+            "April 2024",
+            "April 2023",
+            "October 2022",
+            "April 2022"
+          ],
+          "note": "Lesson 20."
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "How does the Consumer Protection Act 1986 provide support and guidance to consumers?",
+          "answer": "(1) It gives cheap, simple and quick justice, with less paperwork and less delay.\n(2) It applies to all goods and services in the private, public and cooperative sectors, including municipal services.\n(3) It sets up three-tier consumer courts and protection councils.\n(4) Consumers can choose where to seek redressal, and a company cannot insist on its own court.\n(5) It covers real estate developers and foreign e-commerce sellers, and it guarantees rights to information, choice, safety, being heard, redressal and education.",
+          "years": [
+            "October 2016"
+          ],
+          "note": "Lesson 24."
+        }
+      ]
+    }
+  ]
+}

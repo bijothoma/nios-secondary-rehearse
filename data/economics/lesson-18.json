@@ -1,0 +1,355 @@
+{
+  "subject": "economics",
+  "lesson": 18,
+  "title": "Analysis of Data",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "9 × 1 = 9",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "The tendency of data to cluster around a central value is called —",
+          "options": [
+            "dispersion",
+            "correlation",
+            "central tendency",
+            "classification"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2026",
+            "April 2016"
+          ]
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "The mean of 4, 6, 3, 7, 8, 2 and 5 is —",
+          "options": [
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2026"
+          ],
+          "work": "Σx = 4 + 6 + 3 + 7 + 8 + 2 + 5 = 35; N = 7.\nMean = 35 ÷ 7 = 5."
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "The arithmetic mean is obtained by —",
+          "options": [
+            "adding the items",
+            "dividing the sum of items by the number of items",
+            "multiplying the items",
+            "taking the middle item"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2016"
+          ]
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "If the sum of items is 40 and the mean is 4, the number of items is —",
+          "options": [
+            "4",
+            "10",
+            "36",
+            "160"
+          ],
+          "answer": "B",
+          "work": "N = Σx ÷ mean = 40 ÷ 4 = 10."
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "Weekly sugar consumption is 35 kg. The average daily consumption is —",
+          "options": [
+            "3.5 kg",
+            "5 kg",
+            "7 kg",
+            "28 kg"
+          ],
+          "answer": "B",
+          "work": "Daily average = 35 ÷ 7 = 5 kg."
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "The mid-value of the class 40–50 is —",
+          "options": [
+            "40",
+            "45",
+            "50",
+            "90"
+          ],
+          "answer": "B",
+          "work": "Mid-value = (40 + 50) ÷ 2 = 45."
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "In the short-cut method, the mean is equal to —",
+          "options": [
+            "A + Σfd ÷ N",
+            "A − N",
+            "Σf ÷ N",
+            "A × N"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "The arithmetic mean cannot be calculated for —",
+          "options": [
+            "marks",
+            "income",
+            "honesty",
+            "height"
+          ],
+          "answer": "C",
+          "years": [
+            "October 2017"
+          ]
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "Sachin scores 59, 78, 100, 50 and 63 runs in five innings. His average score is —",
+          "options": [
+            "63",
+            "70",
+            "78",
+            "350"
+          ],
+          "answer": "B",
+          "work": "Total = 350; average = 350 ÷ 5 = 70."
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark (fill in the blanks, true/false, match, one word or complete the table).",
+      "marks": "5 × 2 = 10",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "Fill in the blanks: (a) The mean is obtained by dividing the sum of the items by the ______ of items. (b) Arithmetic mean = Σx ÷ ______.",
+          "answer": "(a) number\n(b) N",
+          "years": [
+            "April 2026",
+            "October 2025",
+            "October 2024"
+          ]
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Fill in the blanks: (a) A weekly consumption of 2.1 kg means a daily consumption of ______ kg. (b) For 10 days it is ______ kg.",
+          "answer": "(a) 2.1 ÷ 7 = 0.3\n(b) 0.3 × 10 = 3",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "State True or False: (a) There are not various measures of central tendency. (b) The arithmetic mean is a measure of central tendency.",
+          "answer": "(a) False — there are several (mean, median, mode).\n(b) True.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Give one word: (a) A single value representative of the whole data. (b) The value assumed in the short-cut method.",
+          "answer": "(a) Average (mean).\n(b) Assumed mean (A)."
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "Find: (a) The mean of 2, 7, 10, 8, 6, 3, 5, 4, 5, 0. (b) The new mean if an 11th student scoring 5 joins a group of 10 whose mean is 5.",
+          "answer": "(a) Σx = 50, N = 10, so mean = 5.\n(b) Σx = 50 + 5 = 55, N = 11, so mean = 55 ÷ 11 = 5."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "5 × 2 = 10",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "Explain the concept of central tendency.",
+          "answer": "Central tendency is the tendency of data to cluster around a central value. The average (e.g. the arithmetic mean) measures it and gives one representative value for the whole data.",
+          "years": [
+            "April 2026",
+            "April 2017"
+          ]
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "State the purpose of an average.",
+          "answer": "An average gives a single value representative of all the items. It sums up large data briefly, makes comparison between groups easy, and helps in framing policy.",
+          "years": [
+            "April 2025"
+          ],
+          "or": {
+            "q": "State two functions of an average.",
+            "answer": "(1) It presents raw data briefly in one representative figure.\n(2) It makes comparison between two or more groups easy."
+          }
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "Write the short-cut (assumed mean) formula for the arithmetic mean.",
+          "answer": "X̄ = A + Σfd ÷ N, where A is the assumed mean, d = x − A, f is the frequency and N = Σf. For an individual series, X̄ = A + Σd ÷ N.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "How is the arithmetic mean obtained?",
+          "answer": "Add all the items and divide by the number of items: X̄ = Σx ÷ N. Example: 50 marks scored by 10 students gives a mean of 5.",
+          "years": [
+            "April 2016"
+          ]
+        },
+        {
+          "id": "3.5",
+          "type": "open",
+          "q": "Find the mean of 7, 4, 17, 19, 11, 16, 15, 14, 9 and 11.",
+          "answer": "Σx = 7 + 4 + 17 + 19 + 11 + 16 + 15 + 14 + 9 + 11 = 123.\nN = 10, so mean = 123 ÷ 10 = 12.3."
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "4 × 3 = 12",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "Find the mean: x = 0, 1, 2, 3, 4 with f = 1, 13, 20, 40, 40.",
+          "answer": "fx = 0, 13, 40, 120, 160.\nΣfx = 333 and N = Σf = 1 + 13 + 20 + 40 + 40 = 114.\nMean = 333 ÷ 114 = 2.92 (approx.).",
+          "years": [
+            "April 2026"
+          ],
+          "or": {
+            "q": "What is a discrete series? Give an example.",
+            "answer": "A discrete series shows exact (separate) values of a variable with their frequencies.\nExample: marks 30, 40, 50, 60, 70 with 4, 6, 10, 20, 10 students.\nIt is used for discrete variables such as the number of children per family."
+          }
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "What is central tendency? State two precautions in using the arithmetic mean.",
+          "answer": "Central tendency is the tendency of data to cluster around a central value, measured by an average.\nPrecautions: (1) The mean is a theoretical value that may not exist in fact — 2.7 children per family is impossible for any one family. (2) The mean cannot be used for qualitative data such as honesty or beauty.",
+          "years": [
+            "October 2017"
+          ]
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "Calculate the mean: marks 0, 1, 2, 3, 4, 5 with f = 3, 7, 8, 5, 3, 4.",
+          "answer": "fx = 0, 7, 16, 15, 12, 20.\nΣfx = 70 and N = 30.\nMean = 70 ÷ 30 = 2.33."
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "Calculate the mean (discrete, short-cut): children 0–6 with families 13, 17, 20, 40, 20, 17, 13.",
+          "answer": "Take A = 2, so d = −2, −1, 0, 1, 2, 3, 4.\nfd = −26, −17, 0, 40, 40, 51, 52, so Σfd = 183 − 43 = 140.\nN = 140, so mean = 2 + 140 ÷ 140 = 3 children per family."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Long answer questions. Answer in 80–120 words.",
+      "marks": "6 × 5 = 30",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "Calculate the mean marks of 60 students by the short-cut method: 50–60 (2), 60–70 (15), 70–80 (20), 80–90 (15), 90–100 (8).",
+          "answer": "Mid-values x: 55, 65, 75, 85, 95.\nTake A = 75 and c = 10, so d′ = −2, −1, 0, 1, 2.\nfd′ = −4, −15, 0, 15, 16, so Σfd′ = 12; N = 60.\nMean = A + (Σfd′ ÷ N) × c = 75 + (12 ÷ 60) × 10 = 75 + 2 = 77 marks.",
+          "years": [
+            "April 2021"
+          ]
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "Calculate the mean marks of 60 students by the short-cut method: 0–20 (8), 20–40 (15), 40–60 (20), 60–80 (15), 80–100 (2).",
+          "answer": "Mid-values x: 10, 30, 50, 70, 90.\nTake A = 50 and c = 20, so d′ = −2, −1, 0, 1, 2.\nfd′ = −16, −15, 0, 15, 4, so Σfd′ = −12; N = 60.\nMean = 50 + (−12 ÷ 60) × 20 = 50 − 4 = 46 marks.",
+          "years": [
+            "April 2019"
+          ]
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "Calculate the mean weight of 100 students by the short-cut method: 20–30 (7), 30–40 (10), 40–50 (35), 50–60 (30), 60–70 (8), 70–80 (10).",
+          "answer": "Mid-values: 25, 35, 45, 55, 65, 75.\nTake A = 45 and c = 10, so d′ = −2, −1, 0, 1, 2, 3.\nfd′ = −14, −10, 0, 30, 16, 30, so Σfd′ = 52; N = 100.\nMean = 45 + (52 ÷ 100) × 10 = 45 + 5.2 = 50.2 kg.",
+          "years": [
+            "April 2017"
+          ]
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "Calculate the mean by step deviation: 0–10 (5), 10–20 (25), 20–30 (15), 30–40 (7), 40–50 (8), 50–60 (30), 60–70 (10).",
+          "answer": "Mid-values: 5, 15, 25, 35, 45, 55, 65.\nTake A = 35 and c = 10, so d′ = −3, −2, −1, 0, 1, 2, 3.\nfd′ = −15, −50, −15, 0, 8, 60, 30, so Σfd′ = 18; N = 100.\nMean = 35 + (18 ÷ 100) × 10 = 35 + 1.8 = 36.8.",
+          "years": [
+            "April 2023"
+          ]
+        },
+        {
+          "id": "5.5",
+          "type": "open",
+          "q": "Calculate the mean by step deviation: 0–10 (20), 10–20 (40), 20–30 (10), 30–40 (5), 40–50 (25).",
+          "answer": "Mid-values: 5, 15, 25, 35, 45.\nTake A = 25 and c = 10, so d′ = −2, −1, 0, 1, 2.\nfd′ = −40, −40, 0, 5, 50, so Σfd′ = −25; N = 100.\nMean = 25 + (−25 ÷ 100) × 10 = 25 − 2.5 = 22.5.",
+          "years": [
+            "October 2021",
+            "October 2019"
+          ]
+        },
+        {
+          "id": "5.6",
+          "type": "open",
+          "q": "Calculate the mean marks of 300 students: 0–10 (23), 10–20 (27), 20–30 (40), 30–40 (120), 40–50 (40), 50–60 (27), 60–70 (23).",
+          "answer": "Mid-values: 5, 15, 25, 35, 45, 55, 65.\nDirect: fx = 115, 405, 1000, 4200, 1800, 1485, 1495, so Σfx = 10,500; N = 300; mean = 10,500 ÷ 300 = 35.\nCheck by step deviation: with A = 25 and c = 10, d′ = −2 … 4, fd′ = −46, −27, 0, 120, 80, 81, 92, so Σfd′ = 300; mean = 25 + (300 ÷ 300) × 10 = 35.",
+          "years": [
+            "April 2016",
+            "October 2022"
+          ]
+        }
+      ]
+    }
+  ]
+}

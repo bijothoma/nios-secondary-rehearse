@@ -1,0 +1,583 @@
+{
+  "subject": "economics",
+  "lesson": 7,
+  "title": "Production",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "19 × 1 = 19",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "5 labourers produce a total product of 95 units. The average product is —",
+          "options": [
+            "15",
+            "19",
+            "90",
+            "100"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2026"
+          ],
+          "work": "AP = TP ÷ L = 95 ÷ 5 = 19 units."
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "2 labourers produce a total product of 22 units. The average product is —",
+          "options": [
+            "11",
+            "20",
+            "22",
+            "44"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2021"
+          ],
+          "work": "AP = TP ÷ L = 22 ÷ 2 = 11 units."
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "Which of the following is NOT a characteristic of land?",
+          "options": [
+            "Mobile",
+            "Gift of nature",
+            "Limited in quantity",
+            "Indestructible"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "The output contributed by the last unit of labour is —",
+          "options": [
+            "total product",
+            "average product",
+            "marginal product",
+            "fixed product"
+          ],
+          "answer": "C",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "The maximum number of owners in a partnership production unit is —",
+          "options": [
+            "2",
+            "10",
+            "20",
+            "50"
+          ],
+          "answer": "C",
+          "years": [
+            "October 2017",
+            "October 2019",
+            "October 2025"
+          ]
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "The minimum number of members of a cooperative society is —",
+          "options": [
+            "2",
+            "7",
+            "10",
+            "20"
+          ],
+          "answer": "C",
+          "years": [
+            "October 2022",
+            "April 2023"
+          ]
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "A production unit owned by a single individual is —",
+          "options": [
+            "a partnership",
+            "a private company",
+            "a sole proprietorship",
+            "a public distribution unit"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2017"
+          ]
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "The resources used in production are called —",
+          "options": [
+            "goods",
+            "inputs",
+            "revenue",
+            "cost"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2019",
+            "October 2022"
+          ]
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "Man-made appliances used in production are called —",
+          "options": [
+            "land",
+            "labour",
+            "capital",
+            "entrepreneurship"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2023"
+          ]
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "Production units located in a country and owned by its residents are —",
+          "options": [
+            "foreign production units",
+            "indigenous production units",
+            "multinationals",
+            "collaborations"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "MMTC is a —",
+          "options": [
+            "departmental enterprise",
+            "private company",
+            "public sector undertaking",
+            "cooperative society"
+          ],
+          "answer": "C",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "Maruti-Suzuki Ltd. is an example of a —",
+          "options": [
+            "multinational",
+            "collaboration",
+            "cooperative society",
+            "departmental enterprise"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2017"
+          ]
+        },
+        {
+          "id": "1.13",
+          "type": "mcq",
+          "q": "Foreign production units are classified as —",
+          "options": [
+            "multinationals",
+            "collaborations",
+            "both (A) and (B)",
+            "partnerships"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2025"
+          ],
+          "fixed": true
+        },
+        {
+          "id": "1.14",
+          "type": "mcq",
+          "q": "Self-employed doctors are an example of —",
+          "options": [
+            "foreign production units",
+            "indigenous production units",
+            "multinationals",
+            "public sector undertakings"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "1.15",
+          "type": "mcq",
+          "q": "Indian Railways is a —",
+          "options": [
+            "private unit",
+            "public unit",
+            "sole proprietorship",
+            "partnership"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2016"
+          ]
+        },
+        {
+          "id": "1.16",
+          "type": "mcq",
+          "q": "A private indigenous production unit among the following is —",
+          "options": [
+            "partnership",
+            "HMT",
+            "MMTC",
+            "a collaboration"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2016"
+          ]
+        },
+        {
+          "id": "1.17",
+          "type": "mcq",
+          "q": "Production requires —",
+          "options": [
+            "skilled labour only",
+            "unskilled labour only",
+            "both skilled and unskilled labour",
+            "no labour"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2022"
+          ],
+          "fixed": true
+        },
+        {
+          "id": "1.18",
+          "type": "mcq",
+          "q": "One worker stitches 2 shirts; with a second worker, 6 shirts are stitched. The MP of the second worker is —",
+          "options": [
+            "2",
+            "3",
+            "4",
+            "6"
+          ],
+          "answer": "C",
+          "work": "MP = TP₂ − TP₁ = 6 − 2 = 4 shirts."
+        },
+        {
+          "id": "1.19",
+          "type": "mcq",
+          "q": "When marginal product is zero, total product is —",
+          "options": [
+            "zero",
+            "minimum",
+            "maximum",
+            "negative"
+          ],
+          "answer": "C"
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark (fill in the blanks, true/false, match, one word or complete the table).",
+      "marks": "7 × 2 = 14",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "State True or False: (a) In a foreign production unit, foreigners contribute more than 50% of the capital. (b) A production unit owned by two or more persons is a partnership.",
+          "answer": "(a) True.\n(b) True — a partnership has 2 to 20 owners.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Fill in the blanks: (a) The resources used in production are called ______. (b) The goods and services produced are called ______.",
+          "answer": "(a) inputs\n(b) output",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "Fill in the blanks: (a) There is a ______ relationship between the amount of inputs and the amount of output. (b) The ratio in which inputs are combined is called the ______ of production.",
+          "answer": "(a) direct\n(b) technology (method)",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Fill in the blanks: (a) The use of ______ in producing goods and services determines the level of production. (b) A powerloom is an example of ______-intensive technology.",
+          "answer": "(a) technology (capital)\n(b) capital",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "Give one word: (a) Output per unit of labour. (b) The group of all firms producing the same commodity.",
+          "answer": "(a) Average product.\n(b) Industry."
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "Match: (a) Indian Railways — ? (b) LIC — ? [public sector undertaking / departmental enterprise]",
+          "answer": "(a) Departmental enterprise.\n(b) Public sector undertaking."
+        },
+        {
+          "id": "2.7",
+          "type": "open",
+          "q": "Complete: (a) L = 3, TP = 36, so AP = ______. (b) TP rises from 36 to 44 when the 4th worker joins, so MP = ______.",
+          "answer": "(a) AP = 36 ÷ 3 = 12.\n(b) MP = 44 − 36 = 8.",
+          "years": [
+            "October 2017"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "7 × 2 = 14",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "What does a production function tell us?",
+          "answer": "It shows the technical relationship between inputs and output: the maximum output that can be produced from given quantities of inputs such as land, labour, capital and raw materials.",
+          "years": [
+            "April 2019",
+            "April 2024"
+          ],
+          "or": {
+            "q": "Name the factors of production.",
+            "answer": "Land, labour, capital and entrepreneurship, combined with raw materials."
+          }
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "Distinguish between land and labour as factors of production.",
+          "answer": "Land is a free gift of nature — plains, mountains, plateaus, minerals and forests. It is limited and immobile.\nLabour is human effort, physical or mental, used in production. It is supplied by people and earns wages.",
+          "years": [
+            "October 2024",
+            "October 2025"
+          ]
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "What is division of labour?",
+          "answer": "Division of labour means splitting the production of a good into many processes and giving each process to the worker best suited to it. It raises efficiency and makes large-scale production possible.",
+          "years": [
+            "October 2019",
+            "April 2026"
+          ],
+          "or": {
+            "q": "What is working capital?",
+            "answer": "Working capital is the raw material used up in a single round of production, such as yarn, clay, seeds and fertilisers. Fixed capital, by contrast, lasts many years."
+          }
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "What is capital-intensive technology?",
+          "answer": "Capital-intensive technology uses more capital and less labour per unit of output, e.g. a powerloom, or a tractor and harvester. It is used in large-scale production by corporations and government enterprises.",
+          "years": [
+            "April 2023"
+          ]
+        },
+        {
+          "id": "3.5",
+          "type": "open",
+          "q": "Explain the importance of firms and industries as a source of employment.",
+          "answer": "Most people get jobs in firms and industries and earn the income they need to satisfy their wants. Industries such as agriculture, textiles, transport and IT employ millions of people.",
+          "years": [
+            "October 2024",
+            "October 2021"
+          ],
+          "or": {
+            "q": "Explain the production process.",
+            "answer": "The production process involves getting factors from their owners, combining them in the right proportion, buying and storing raw materials, producing, storing and selling the output. The entrepreneur organises it."
+          }
+        },
+        {
+          "id": "3.6",
+          "type": "open",
+          "q": "What is meant by entrepreneurship as a factor of production?",
+          "answer": "Entrepreneurship is the art of organising production. The entrepreneur brings land, labour and capital together, takes decisions, bears risk and earns profit.",
+          "years": [
+            "April 2017"
+          ]
+        },
+        {
+          "id": "3.7",
+          "type": "open",
+          "q": "What is the importance of creating infrastructure?",
+          "answer": "Infrastructure means energy, transport, communication, health, education and housing. It is the base on which all production rests. Without it the all-round development of the country is not possible.",
+          "years": [
+            "April 2019"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "7 × 3 = 21",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "Distinguish between labour-intensive and capital-intensive technology with examples.",
+          "answer": "Labour-intensive technology uses more labour and less capital per unit of output. Examples are a handloom, or a wooden plough with bullocks. It is used in small-scale, household and self-consumption production.\nCapital-intensive technology uses more capital and less labour per unit of output. Examples are a powerloom, or a tractor, pump set and harvester. It is used in large-scale production for sale by corporations and government enterprises.",
+          "years": [
+            "April 2019",
+            "October 2019",
+            "April 2021",
+            "October 2021",
+            "April 2024",
+            "October 2024",
+            "April 2025"
+          ]
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "Distinguish between product-based and process-based division of labour with examples.",
+          "answer": "Product-based: a worker makes a whole good or service himself. Examples are a village potter, cobbler or carpenter, or a small farmer. It is common in small-scale production.\nProcess-based: production is split into many processes and each worker does one or two of them. In a bread factory, for example, different workers make dough, bake, cut and pack. It is used in large units, where nobody can claim to have made the whole product.",
+          "years": [
+            "October 2016",
+            "April 2017",
+            "April 2023",
+            "April 2025",
+            "October 2024"
+          ]
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "What is entrepreneurship? State the qualities of an entrepreneur.",
+          "answer": "Entrepreneurship is the art of organising production. The entrepreneur brings land, labour and capital together in the right proportion, takes decisions, bears risk and uncertainty, pays the other factors and earns profit.\nQualities: knowledge, courage to take risks, leadership, decision-making ability and organising ability.",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "Explain capital as a factor of production.",
+          "answer": "Capital is man-made wealth used in production: machines, tools, buildings and materials.\nIt raises the efficiency of land and labour, for example through irrigation and machines.\nIt is a passive factor that needs labour to work it, and it has a limited life and becomes obsolete.\nFixed capital lasts many years; working capital, such as raw materials, is used up.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "4.5",
+          "type": "open",
+          "q": "Distinguish between fixed capital and working capital. Why is human resource important in production?",
+          "answer": "Fixed capital (machines, tractors, buildings) is used for many years. Working capital (yarn, seeds, fertiliser) is used up in one round of production.\nHuman resource: labour, physical and mental, skilled and unskilled, works the machines and land. Without it, capital, a passive factor, cannot be used. Education and training raise its productivity.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "4.6",
+          "type": "open",
+          "q": "Explain the classification of foreign production units.",
+          "answer": "A foreign production unit is located in the country but more than 50% of its capital comes from non-residents.\n(1) Multinationals have their head office in one country and business in many countries, e.g. Coca-Cola, Nokia, Samsung, Hyundai.\n(2) Collaborations are owned jointly by Indian and foreign entrepreneurs, e.g. Maruti-Suzuki. They count as foreign if foreigners hold more than 50% of the capital.",
+          "years": [
+            "April 2026"
+          ],
+          "or": {
+            "q": "What is a cooperative society?",
+            "answer": "A cooperative society is a voluntary association of persons for mutual benefit, working through self-help and collective effort. It is formed under the Cooperative Societies Act 1912, has at least 10 members and no upper limit, and divides profit according to shares. Examples are cooperative stores, housing societies and Kendriya Bhandar."
+          }
+        },
+        {
+          "id": "4.7",
+          "type": "open",
+          "q": "Calculate AP and MP from the table: Labour 1, 2, 3, 4 — TP 10, 18, 24, 28.",
+          "answer": "AP = TP ÷ L: 10 ÷ 1 = 10; 18 ÷ 2 = 9; 24 ÷ 3 = 8; 28 ÷ 4 = 7.\nMP = TP(L) − TP(L−1): 10 − 0 = 10; 18 − 10 = 8; 24 − 18 = 6; 28 − 24 = 4.\nMP falls as labour increases — the law of diminishing marginal product.",
+          "years": [
+            "October 2017"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Long answer questions. Answer in 80–120 words.",
+      "marks": "4 × 5 = 20",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "Explain the role and importance of firms and industries.",
+          "answer": "A firm is a single production unit; an industry is all the firms making one commodity.\n(1) Goods and services for consumption: they supply food, clothes, TV sets and services to satisfy growing wants.\n(2) Goods for investment: they make machines, plants, buses, trucks, railways and ships.\n(3) Employment: most people earn their income working in firms and industries.\n(4) Infrastructure: they provide energy, transport, communication, health, education and housing, without which all-round development is not possible.",
+          "years": [
+            "October 2017",
+            "April 2022"
+          ]
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "What is the production function? Explain TP, AP and MP with an example.",
+          "answer": "The production function is the technical relationship between inputs and output: the maximum output producible from given inputs.\nTP is the total output at a given level of labour, with other inputs fixed.\nAP = TP ÷ L, output per worker.\nMP = TP(L) − TP(L−1), the output added by the last worker.\nExample: with 3 workers TP = 36, so AP = 12. With 4 workers TP = 44, so MP of the 4th worker = 44 − 36 = 8 and AP = 11.",
+          "years": [
+            "October 2016"
+          ]
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "State and explain the law of diminishing marginal product of labour.",
+          "answer": "Law: when more units of a variable factor (labour) are added to fixed factors, MP first rises, then falls, and may become negative.\nReason: at first the extra workers share work efficiently, so MP rises. Beyond a point the fixed machine is over-used and extra workers add less and less.\nExample: MP 10, 12, 14, then 8, 6, 4, 2, 0, −2. TP is at its maximum (56) when MP = 0, so labour should not be increased beyond that point."
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "Describe the types of private indigenous production units.",
+          "answer": "(1) Sole proprietorship: one owner, who bears all profit and loss and manages the unit.\n(2) Partnership: 2 to 20 owners who manage jointly and share profit as agreed.\n(3) Company: owned by shareholders; a private company has 2–50, a public company at least 7 and no maximum (Companies Act 1956). Directors manage it.\n(4) Cooperative society: at least 10 members, voluntary, for mutual benefit (Act 1912), e.g. Kendriya Bhandar.\n(5) Private non-profit organisations: charitable schools and hospitals that serve society, not profit.",
+          "years": [
+            "October 2022"
+          ]
+        }
+      ]
+    }
+  ]
+}

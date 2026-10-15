@@ -1,0 +1,150 @@
+{
+  "subject": "economics",
+  "lesson": 18,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 18: Analysis of Data — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Analysis and central tendency"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "After data are collected, edited and presented, they are analysed to draw out the important facts. The first step is to find one representative value for the whole data, called the average or measure of central tendency."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Central tendency is the tendency of data to cluster around a central value. An average is a single figure, typical of all the items, that the mind can grasp quickly. Example: Sachin scores 59, 78, 100, 50 and 63 in five innings, a total of 350, so his average is 350 ÷ 5 = 70, though he never scored exactly 70."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Purpose and functions of an average"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "(1) It sums up raw data in brief. (2) It makes comparison between groups easy. (3) It gives a single representative value. (4) It helps in planning future policy and programmes."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Arithmetic mean"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "There are various measures of central tendency, and the arithmetic mean is one of them. The arithmetic mean is the sum of the items divided by the number of items: X̄ = Σx ÷ N."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Example: the marks 4, 6, 3, 7, 8, 2, 5 add up to 35, and 35 ÷ 7 = 5. A weekly use of 2.1 kg gives 2.1 ÷ 7 = 0.3 kg a day, so 3 kg in 10 days."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Mean in different series"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Individual series. Direct method: X̄ = Σx ÷ N. Short-cut (assumed mean) method: X̄ = A + Σd ÷ N, where d = x − A."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Discrete series. Direct method: X̄ = Σfx ÷ Σf. Short-cut method: X̄ = A + Σfd ÷ Σf. Example: children per family 0–6 with f 13, 17, 20, 40, 20, 17, 13 gives Σfx = 420 and N = 140, so X̄ = 3."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Continuous series: first find the mid-values, x = (lower limit + upper limit) ÷ 2. Then use one of three methods: direct, X̄ = Σfx ÷ N; short-cut, X̄ = A + Σfd ÷ N; or step deviation, X̄ = A + (Σfd′ ÷ N) × c, where d′ = (x − A) ÷ c and c is the common class width."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Worked example (step deviation): class intervals 0–10 … 40–50 with f 20, 40, 10, 5, 25. The mid-values are 5, 15, 25, 35, 45. Take A = 25 and c = 10, so d′ = −2, −1, 0, 1, 2 and fd′ = −40, −40, 0, 5, 50, giving Σfd′ = −25. Then X̄ = 25 + (−25 ÷ 100) × 10 = 25 − 2.5 = 22.5."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Precautions"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "(1) The mean is a theoretical value that may not exist in fact. 27 children in 10 families gives an average of 2.7 children, which is impossible for any one family. (2) The mean cannot be found for qualitative data such as honesty, bravery or beauty."
+        ]
+      ]
+    }
+  ]
+}

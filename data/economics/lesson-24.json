@@ -1,0 +1,443 @@
+{
+  "subject": "economics",
+  "lesson": 24,
+  "title": "Consumer Awareness",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "12 × 1 = 12",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "A tax placed on a product whenever value is added is —",
+          "options": [
+            "VAT",
+            "income tax",
+            "customs duty",
+            "wealth tax"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "The most important law to protect consumers is the —",
+          "options": [
+            "Essential Commodities Act",
+            "Prevention of Food Adulteration Act",
+            "Consumer Protection Act",
+            "Standard of Weights and Measures Act"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2026",
+            "April 2021",
+            "April 2023"
+          ]
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "The Act that applies to all goods and services is the —",
+          "options": [
+            "Essential Commodities Act",
+            "Consumer Protection Act",
+            "Companies Act",
+            "Cooperative Societies Act"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "The number of District Consumer Forums in the country (as per the NIOS text) is —",
+          "options": [
+            "35",
+            "100",
+            "604",
+            "1,000"
+          ],
+          "answer": "C",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "A consumer help organisation is —",
+          "options": [
+            "the Consumer Guidance Society of India",
+            "SEBI",
+            "RBI",
+            "NABARD"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "The right that lets consumers voice complaints fearlessly is the —",
+          "options": [
+            "right to choose",
+            "right to be heard",
+            "right to safety",
+            "right to information"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2025",
+            "October 2019"
+          ]
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "For a successful consumer movement, people need to be —",
+          "options": [
+            "rich",
+            "aware and educated",
+            "organised as traders",
+            "employed"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "Justice delayed is justice —",
+          "options": [
+            "reformed",
+            "changed",
+            "accepted",
+            "denied"
+          ],
+          "answer": "D",
+          "years": [
+            "April 2021"
+          ]
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "The institution that tests the quality of consumer goods and gives its mark is the —",
+          "options": [
+            "Indian Standards Institute (BIS)",
+            "RBI",
+            "SEBI",
+            "NCDRC"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2022"
+          ]
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "Consumer awareness includes knowledge of —",
+          "options": [
+            "quality of products",
+            "hazards of marketing",
+            "rights and responsibilities",
+            "all of these"
+          ],
+          "answer": "D",
+          "years": [
+            "April 2016"
+          ],
+          "fixed": true
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "A complaint for a product worth up to ₹20 lakh is filed before the —",
+          "options": [
+            "National Commission",
+            "State Commission",
+            "District Consumer Forum",
+            "Supreme Court"
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "A person who buys goods for resale is —",
+          "options": [
+            "a consumer",
+            "not a consumer",
+            "a green consumer",
+            "a manager"
+          ],
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark (fill in the blanks, true/false, match, one word or complete the table).",
+      "marks": "6 × 2 = 12",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "State True or False: (a) The ISI mark certifies the quality of agricultural food products. (b) AGMARK certifies industrial consumer goods.",
+          "answer": "(a) False — ISI is for industrial and consumer goods.\n(b) False — AGMARK is for agricultural and food products.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Fill in the blanks: (a) Consumers should not indulge in ______ consumption. (b) Consumers should avoid ______ consumption.",
+          "answer": "(a) excessive (unnecessary)\n(b) wasteful (conspicuous)",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "Give one word: (a) The bottom tier of consumer courts. (b) The top tier of consumer courts.",
+          "answer": "(a) District Consumer Forum.\n(b) National Consumer Disputes Redressal Commission (NCDRC)."
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Name the consumer right in each case: (a) A person falls sick after eating a packaged food. (b) A seller forces a buyer to buy one brand and shows no other.",
+          "answer": "(a) Right to safety.\n(b) Right to choose."
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "Fill in the blanks: (a) A complaint must be filed within ______ years of the defect. (b) An appeal to a higher consumer court must be made within ______ days.",
+          "answer": "(a) 2\n(b) 30"
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "State True or False: (a) A consumer buys both goods and services. (b) The CPA covers only the private sector.",
+          "answer": "(a) True.\n(b) False — it covers the private, public and cooperative sectors.",
+          "years": [
+            "April 2024"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "7 × 2 = 14",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "Who is a green consumer?",
+          "answer": "A green consumer buys and uses products that do not harm the environment — biodegradable goods instead of plastic bags — saves electricity and gas, and uses public transport or eco-friendly vehicles.",
+          "years": [
+            "April 2026",
+            "October 2021",
+            "October 2017"
+          ]
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "Explain the right to be heard.",
+          "answer": "It ensures consumers' interests receive due consideration in the right forums, and it empowers them to complain fearlessly against defective products and erring sellers.",
+          "years": [
+            "October 2025",
+            "April 2024"
+          ]
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "Explain the right to information.",
+          "answer": "Sellers must give full information — price, weight, brand, manufacturing and expiry dates, ingredients, quality marks and contact details — so consumers can make informed choices. Example: an air fare of ₹1,500 turned out to be ₹4,995 with hidden taxes.",
+          "years": [
+            "April 2025"
+          ],
+          "or": {
+            "q": "Explain the right to consumer education.",
+            "answer": "Consumers have the right to programmes and information that help them decide before and after purchase — government and NGO guidelines and awareness of marks such as ISI, AGMARK and BIS."
+          }
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "Why is consumer awareness needed?",
+          "answer": "The market is flooded with goods and sellers, advertisements mislead, expiry dates and bills are often skipped, and consumers are unorganised. So they must know their rights to avoid being cheated, and their duties to avoid waste.",
+          "years": [
+            "October 2024"
+          ],
+          "or": {
+            "q": "Describe the consumer redressal system in India in brief.",
+            "answer": "It has three tiers of consumer courts: District Forums (up to ₹20 lakh), State Commissions (up to ₹1 crore) and the National Commission (above ₹1 crore). They give cheap, quick relief under the CPA 1986."
+          }
+        },
+        {
+          "id": "3.5",
+          "type": "open",
+          "q": "Who is a consumer?",
+          "answer": "A consumer is a person who buys goods or services, or uses them with the buyer's permission. A person who buys goods for resale is not a consumer.",
+          "years": [
+            "April 2021"
+          ]
+        },
+        {
+          "id": "3.6",
+          "type": "open",
+          "q": "Why is a bill important when buying goods and services?",
+          "answer": "The bill is proof of purchase, needed to return a faulty product or file a complaint in a consumer court. It also ensures the seller pays tax (VAT) to the government.",
+          "years": [
+            "October 2022",
+            "October 2016"
+          ]
+        },
+        {
+          "id": "3.7",
+          "type": "open",
+          "q": "Explain the right to safety.",
+          "answer": "Consumers have the right to protection against goods and services that are dangerous to health and life, such as adulterated food, spurious medicines and unsafe electrical goods.",
+          "years": [
+            "April 2016"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "5 × 3 = 15",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "'Children are the worst victims of deceptive advertisements.' Explain.",
+          "answer": "Advertisements use attractive audio-visuals, show only eye-catching parts and hide crucial information.\nChildren cannot judge such claims and easily want junk food, toys and gadgets they see on TV.\nSo parents must guide them and teach them not to be misled.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "Explain the need for consumer awareness in rural India.",
+          "answer": "Rising incomes have expanded rural markets, and companies now sell there.\nBut rural consumers are often illiterate and ignorant of their rights.\nThey face fake brands, spurious goods, no warranties, imitations and unreasonable prices.\nAwareness helps them demand bills, check quality marks and expiry dates, and seek redressal.",
+          "years": [
+            "April 2019",
+            "October 2021"
+          ]
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "Explain the right to safety and the right to be heard.",
+          "answer": "Right to safety: protection against goods dangerous to health and life — adulterated food, spurious medicines, faulty electrical goods.\nRight to be heard: consumers' interests receive due consideration in proper forums, and they can voice complaints fearlessly against erring sellers.",
+          "years": [
+            "April 2022",
+            "April 2017"
+          ]
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "What problems may you face if you buy a geyser at a lower price without taking the bill?",
+          "answer": "(1) If the geyser is defective, you cannot get it repaired under warranty, replaced or refunded, since there is no proof of purchase.\n(2) You cannot file a complaint in a consumer court.\n(3) You help the seller evade VAT, so the government loses revenue.\n(4) It may even be a spurious or unsafe product.",
+          "years": [
+            "October 2016"
+          ]
+        },
+        {
+          "id": "4.5",
+          "type": "open",
+          "q": "What are the grounds for filing a consumer complaint?",
+          "answer": "(1) Defective goods.\n(2) Deficiency of service — any fault, imperfection or shortcoming in the quality or manner of a service.\n(3) Unfair or restrictive trade practices.\n(4) Overcharging or short weight.\n(5) Goods hazardous to life and safety.",
+          "years": [
+            "April 2016"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Long answer questions. Answer in 80–120 words.",
+      "marks": "5 × 5 = 25",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "Describe the procedure for filing a consumer complaint.",
+          "answer": "(1) Keep the bill, cash memo or receipt as proof of purchase.\n(2) Write the complaint in the prescribed format (from the CPA booklet), choosing the category — unfair trade practice or deficiency of service.\n(3) State the fault clearly and the remedy wanted: replacement, refund or compensation.\n(4) Attach the evidence and make three copies — for yourself, the other party and the court.\n(5) File before the right court by value (District up to ₹20 lakh, State up to ₹1 crore, National above), and pay a nominal fee by demand draft.\n(6) File within 2 years of the defect, in person or through a representative, a lawyer or a letter, or by email. Appeal within 30 days.",
+          "years": [
+            "October 2024"
+          ],
+          "or": {
+            "q": "Explain the role of NGOs in consumer protection.",
+            "answer": "When the seller ignores a complaint, NGOs such as the Consumer Guidance Society of India, Common Cause, Consumer Grievance and Consumer Forum help.\n(1) They help consumers file cases in consumer courts.\n(2) They provide logistic, manpower and legal support.\n(3) They run programmes to educate consumers about their rights and responsibilities.\n(4) They test products and publicise unfair practices. The government's Jago Grahak Jago campaign also spreads awareness."
+          }
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "Explain the consumer redressal system in India.",
+          "answer": "Laws: the Consumer Protection Act 1986 is the most important law, giving cheap, simple and quick justice for all goods and services. Others are PFA 1954, ECA 1955 and SWMA 1976.\nCouncils: the Central Consumer Protection Council (headed by the Union minister) and State Councils.\nConsumer courts (quasi-judicial, three tiers): District Consumer Forums (604, up to ₹20 lakh), State Commissions (35, up to ₹1 crore), and the National Commission (above ₹1 crore). Relief should come within 90–150 days, with appeals to the higher tier.\nNGOs also help consumers file cases.",
+          "years": [
+            "October 2017",
+            "October 2024"
+          ]
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "Why is consumer awareness needed today?",
+          "answer": "(1) The market is flooded with goods and sellers, so genuine products are hard to identify.\n(2) Advertisements mislead by hiding information.\n(3) Expiry dates and full information are often not given.\n(4) Goods are sold without bills to avoid VAT, leaving consumers without proof.\n(5) Consumers are unorganised while producers are organised.\n(6) Consumers must also learn their responsibilities: avoid wasteful consumption, dispose of waste safely and demand bills.",
+          "years": [
+            "April 2023"
+          ]
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "What kinds of knowledge are needed for consumer awareness?",
+          "answer": "(1) Knowledge of the product's quality — whether it is good for health and safe for the environment.\n(2) Education about the hazards of marketing — misleading advertisements must be verified.\n(3) Knowledge of consumer rights — to get the right product and to claim compensation under the law if it is faulty.\n(4) Knowledge of the consumer's own responsibilities — no wasteful or unnecessary consumption, demanding a bill, being a green consumer.",
+          "years": [
+            "October 2017"
+          ]
+        },
+        {
+          "id": "5.5",
+          "type": "open",
+          "q": "How does the Consumer Protection Act 1986 provide support and guidance to consumers?",
+          "answer": "(1) It gives cheap, simple and quick justice, with less paperwork and less delay.\n(2) It applies to all goods and services in the private, public and cooperative sectors, including municipal services.\n(3) It sets up three-tier consumer courts and protection councils.\n(4) Consumers can choose where to seek redressal, and a company cannot insist on its own court.\n(5) It covers real estate developers and foreign e-commerce sellers, and it guarantees rights to information, choice, safety, being heard, redressal and education.",
+          "years": [
+            "October 2016"
+          ]
+        }
+      ]
+    }
+  ]
+}

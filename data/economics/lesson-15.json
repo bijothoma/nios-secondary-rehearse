@@ -1,0 +1,369 @@
+{
+  "subject": "economics",
+  "lesson": 15,
+  "title": "Banking and Credit",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "10 × 1 = 10",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "The functions of a bank include —",
+          "options": [
+            "giving loans",
+            "accepting deposits",
+            "keeping valuables in safe custody",
+            "all of these"
+          ],
+          "answer": "D",
+          "years": [
+            "October 2024"
+          ],
+          "fixed": true
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "The head of the banking system in India is —",
+          "options": [
+            "State Bank of India",
+            "Reserve Bank of India",
+            "Punjab National Bank",
+            "NABARD"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "A person deposits ₹10,000 in a bank and the bank lends ₹8,000. The secondary deposit is —",
+          "options": [
+            "₹2,000",
+            "₹8,000",
+            "₹10,000",
+            "₹18,000"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2024",
+            "April 2025"
+          ],
+          "work": "The primary deposit is the new deposit of ₹10,000. The loan of ₹8,000 creates a new deposit, so the secondary deposit is ₹8,000."
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "In credit creation, the deposits recorded are —",
+          "options": [
+            "primary deposits",
+            "secondary deposits",
+            "both primary and secondary",
+            "neither"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2025"
+          ],
+          "fixed": true
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "The bank that issues currency notes in India is —",
+          "options": [
+            "State Bank of India",
+            "Reserve Bank of India",
+            "a cooperative bank",
+            "a development bank"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "The headquarters of the RBI is in —",
+          "options": [
+            "New Delhi",
+            "Kolkata",
+            "Mumbai",
+            "Bengaluru"
+          ],
+          "answer": "C",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "The Industrial Development Bank of India is a —",
+          "options": [
+            "commercial bank",
+            "cooperative bank",
+            "development bank",
+            "central bank"
+          ],
+          "answer": "C",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "With an initial deposit of ₹100 and a cash reserve ratio of 20%, total credit created is —",
+          "options": [
+            "₹120",
+            "₹200",
+            "₹400",
+            "₹500"
+          ],
+          "answer": "D",
+          "work": "Total credit = initial deposit × 1/CRR = 100 × 1/20% = 100 × 5 = ₹500."
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "A bank receives ₹200 and lends ₹180. The cash reserve ratio is —",
+          "options": [
+            "5%",
+            "10%",
+            "18%",
+            "20%"
+          ],
+          "answer": "B",
+          "work": "Cash kept = 200 − 180 = ₹20. CRR = 20 ÷ 200 × 100 = 10%."
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "Which of the following is a private sector commercial bank?",
+          "options": [
+            "State Bank of India",
+            "HDFC Bank",
+            "Bank of Baroda",
+            "Canara Bank"
+          ],
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark (fill in the blanks, true/false, match, one word or complete the table).",
+      "marks": "6 × 2 = 12",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "State True or False: (a) The RBI creates credit. (b) The RBI's headquarters is in Bengaluru.",
+          "answer": "(a) False — commercial banks create credit.\n(b) False — it is in Mumbai.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Fill in the blanks: (a) A bank accepts ______ from the public. (b) A bank gives ______ to the public.",
+          "answer": "(a) deposits\n(b) loans",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "Give one word: (a) The claim to receive payment. (b) The fraction of deposits a bank must keep as cash.",
+          "answer": "(a) Credit.\n(b) Cash reserve ratio (CRR)."
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Fill in the blanks: (a) The initial new deposit in a bank is the ______ deposit. (b) Deposits created by the bank's loans are ______ deposits.",
+          "answer": "(a) primary\n(b) secondary",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "Match: (a) SBI — ? (b) IFCI — ? [development bank / commercial bank]",
+          "answer": "(a) Commercial bank (public sector).\n(b) Development bank.",
+          "years": [
+            "April 2019"
+          ]
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "Complete: A bank receives a deposit of ₹200 and lends ₹180. (a) Primary deposit = ? (b) Total deposit after the loan = ?",
+          "answer": "(a) ₹200.\n(b) 200 + 180 = ₹380."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "5 × 2 = 10",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "How does a bank create credit?",
+          "answer": "A bank keeps a fraction of each deposit as cash (CRR) and lends the rest. Each loan creates a new (secondary) deposit, which is again partly lent. Total credit = initial deposit × 1/CRR, e.g. ₹100 × 5 = ₹500 at a CRR of 20%.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "What is the meaning of banking?",
+          "answer": "Banking means accepting deposits of money from the public for lending or investment. The deposits are repayable on demand or otherwise and can be withdrawn by cheque, draft or order.",
+          "years": [
+            "October 2019"
+          ]
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "Distinguish between a bank and banking.",
+          "answer": "A bank is an institution that accepts deposits and gives loans.\nBanking is the activity a bank carries on: accepting deposits for lending or investment, repayable on demand and withdrawable by cheque.",
+          "years": [
+            "April 2024"
+          ],
+          "or": {
+            "q": "How does a bank keep valuables in safe custody?",
+            "answer": "A bank provides locker facilities in which customers keep jewellery, property documents and other valuables safely, for a rent."
+          }
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "What credit do development banks provide?",
+          "answer": "Development banks give long-term credit to private companies and public sector units to set up industries and build infrastructure, e.g. IDBI, IFCI and State Finance Corporations.",
+          "years": [
+            "October 2025"
+          ],
+          "or": {
+            "q": "Distinguish between a lender and a borrower.",
+            "answer": "The lender gives money as a loan and has the right to claim it back with interest, e.g. a bank. The borrower takes the loan now and promises to repay it later with interest."
+          }
+        },
+        {
+          "id": "3.5",
+          "type": "open",
+          "q": "How many types of banks are there in India? Name them.",
+          "answer": "Four: (1) the Reserve Bank of India, the central bank; (2) commercial banks; (3) cooperative banks; (4) development banks.",
+          "years": [
+            "April 2019"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "5 × 3 = 15",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "An urban unemployed person wants a loan to start a small business. Which bank should they approach and why?",
+          "answer": "They should approach an urban cooperative bank (or a commercial bank).\nUrban cooperative banks give credit for self-employment activities, small-scale industry and personal finance at reasonable terms.\nCommercial banks also give loans to start businesses to people able to repay in future.",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "Explain the working of commercial banks in India.",
+          "answer": "Commercial banks accept deposits from the public and give loans to individuals and businesses.\nThey create credit through their lending and earn profit by charging interest and fees for drafts and money transfers.\nThey are in the public sector (SBI, PNB, Bank of Baroda) or the private sector (ICICI, HDFC, Yes Bank).",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "Distinguish between a commercial bank and a cooperative bank.",
+          "answer": "Commercial bank: a company in the public or private sector that aims at profit and serves the general public — SBI, HDFC.\nCooperative bank: run by a cooperative society under state laws for the mutual benefit of members. It gives credit in rural areas (farming, cattle, fishery) and urban areas (self-employment, small industry, consumer durables).",
+          "years": [
+            "October 2021"
+          ]
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "What are development banks? Give examples.",
+          "answer": "Development banks give long-term credit to private companies and public sector units to set up industries and create infrastructure, which economic development needs.\nExamples: Industrial Development Bank of India (IDBI), Industrial Finance Corporation of India (IFCI) and State Finance Corporations.",
+          "years": [
+            "October 2019"
+          ]
+        },
+        {
+          "id": "4.5",
+          "type": "open",
+          "q": "Describe the steps in opening a savings account in a bank.",
+          "answer": "(1) Visit the bank and ask for an account-opening form.\n(2) Fill in the form with name, address and nominee details and attach photographs and proof of identity and address (KYC).\n(3) Deposit the minimum initial amount.\n(4) The bank opens the account, gives an account number and issues a passbook and cheque book for deposits and withdrawals.",
+          "years": [
+            "October 2017",
+            "October 2021"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Long answer questions. Answer in 80–120 words.",
+      "marks": "3 × 5 = 15",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "How does a bank create credit? Explain with a numerical example.",
+          "answer": "A bank keeps a fraction of deposits as cash (CRR) and lends the rest; each loan becomes a new deposit.\nExample with CRR 20%:\nRound 1: A deposits ₹100; the bank keeps ₹20 and lends ₹80.\nRound 2: ₹80 is deposited; the bank keeps ₹16 and lends ₹64.\nRound 3: ₹64 is deposited; the bank keeps ₹12.80 and lends ₹51.20 … and so on.\nTotal credit = 100 × 1/20% = ₹500, made up of ₹100 cash reserve and ₹400 loans.\nThe primary deposit is ₹100; the secondary deposits total ₹400. A lower CRR creates more credit (10% gives ₹1,000).",
+          "years": [
+            "April 2016",
+            "April 2017",
+            "April 2026"
+          ]
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "Explain the primary functions of a bank.",
+          "answer": "(1) Accepting deposits: the bank opens an account with an account number, adds deposits and deducts withdrawals, pays interest on some deposits, and issues cheque books for withdrawals and payments.\n(2) Giving loans: it lends to people who can repay in future — for TVs, refrigerators, cars and houses, or to start a business — and charges interest.\nIt also keeps valuables such as jewellery and documents safe in lockers.",
+          "years": [
+            "April 2022",
+            "April 2023"
+          ]
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "Write short notes on (a) the Reserve Bank of India and (b) cooperative banks.",
+          "answer": "(a) RBI: the central bank and head of the banking system, with its headquarters in Mumbai. All banks follow its rules. It issues currency notes (except one-rupee notes and coins, which the Ministry of Finance issues) and acts as banker to the central and state governments.\n(b) Cooperative banks: run by cooperative societies under state laws. Rural ones lend for farming, cattle and fishery; urban ones lend for self-employment, small industry, durable goods and personal finance. Examples are state cooperative banks, PACS, urban cooperative banks and land development banks."
+        }
+      ]
+    }
+  ]
+}

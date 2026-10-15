@@ -88,3 +88,7 @@ The lesson then opens with a menu: Lesson, Lesson with translation, and the mode
 - `tools/build_bst.py`: builds Business Studies from `data/business-studies/src/lesson-<n>.json` with the same
   source format (51 questions, 100 marks; no passage section — case questions are long answers). Only the
   13 public-exam (theory) lessons of the NIOS syllabus bifurcation are included.
+- `tools/build_eco.py`: builds Economics from `data/economics/src/lesson-<n>.json` with the same source
+  format (54 questions, 100 marks). Numerical answers (cost, revenue, credit, mean) show their working, and
+  MCQs whose options include "all of these" or "both" keep their printed order. Only the 14 public-exam
+  (theory) lessons of the NIOS syllabus bifurcation are included.

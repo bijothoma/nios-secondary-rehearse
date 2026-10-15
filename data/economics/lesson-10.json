@@ -1,0 +1,387 @@
+{
+  "subject": "economics",
+  "lesson": 10,
+  "title": "Supply",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "11 × 1 = 11",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "The supply of a commodity is influenced by —",
+          "options": [
+            "number of sellers",
+            "number of firms",
+            "expected future price",
+            "all of the above"
+          ],
+          "answer": "D",
+          "years": [
+            "April 2026"
+          ],
+          "fixed": true
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "The quantity of a commodity a seller offers for sale at a given price at a given time is —",
+          "options": [
+            "demand",
+            "supply",
+            "stock",
+            "market"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2022",
+            "April 2024"
+          ]
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "Supply of a commodity by one firm is called —",
+          "options": [
+            "market supply",
+            "individual supply",
+            "stock",
+            "joint supply"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "The supply curve slopes —",
+          "options": [
+            "downward from left to right",
+            "upward from left to right",
+            "parallel to the X-axis",
+            "parallel to the Y-axis"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "Firms A, B and C supply 10 kg, 15 kg and 20 kg of a commodity at ₹100. The market supply is —",
+          "options": [
+            "20 kg",
+            "35 kg",
+            "45 kg",
+            "100 kg"
+          ],
+          "answer": "C",
+          "years": [
+            "October 2025"
+          ],
+          "work": "Market supply = 10 + 15 + 20 = 45 kg."
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "An improvement in the technology of production will —",
+          "options": [
+            "increase supply",
+            "decrease supply",
+            "not affect supply",
+            "make supply zero"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "An increase in excise duty on TV sets will —",
+          "options": [
+            "increase the supply of TV sets",
+            "decrease the supply of TV sets",
+            "not change supply",
+            "raise demand"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2019",
+            "October 2017"
+          ]
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "The total quantity of a commodity with a seller at a point of time is —",
+          "options": [
+            "supply",
+            "stock",
+            "demand",
+            "output"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2019"
+          ]
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "If the price of a commodity is expected to rise in future, its present supply will —",
+          "options": [
+            "rise",
+            "fall",
+            "remain the same",
+            "double"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "If the price of milk falls, the supply of ice cream will —",
+          "options": [
+            "increase",
+            "decrease",
+            "remain unchanged",
+            "become zero"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "The law of supply states that price and quantity supplied are —",
+          "options": [
+            "inversely related",
+            "directly related",
+            "unrelated",
+            "equal"
+          ],
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark (fill in the blanks, true/false, match, one word or complete the table).",
+      "marks": "6 × 2 = 12",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "Fill in the blanks: (a) The price of a commodity and its quantity supplied are ______ related. (b) The supply curve slopes ______.",
+          "answer": "(a) positively (directly)\n(b) upward from left to right",
+          "years": [
+            "April 2026",
+            "April 2024"
+          ]
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Fill in the blanks: (a) The graphical representation of the law of supply is the ______. (b) Market supply is the ______ of individual supplies.",
+          "answer": "(a) supply curve\n(b) sum",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "State True or False: (a) Better technology raises cost and lowers supply. (b) Factors affecting individual supply also affect market supply.",
+          "answer": "(a) False — better technology lowers cost and raises supply.\n(b) True.",
+          "years": [
+            "April 2025",
+            "April 2024"
+          ]
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Give one word: (a) The definition of supply includes price, time and ______. (b) The quantity with a seller at a point of time.",
+          "answer": "(a) quantity\n(b) Stock",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "Complete the market supply table: at ₹10, firm A supplies 150 units, firm C 200 units and market supply is 650. At ₹11, A supplies 200, C 300 and market supply is 1,000. Find firm B's supply at (a) ₹10 and (b) ₹11.",
+          "answer": "B = market supply − A − C.\n(a) 650 − 150 − 200 = 300 units.\n(b) 1,000 − 200 − 300 = 500 units.",
+          "years": [
+            "October 2024",
+            "October 2019"
+          ]
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "Fill in the blanks: (a) If more firms enter the market, market supply will ______. (b) A rise in wage rate will ______ supply.",
+          "answer": "(a) increase\n(b) decrease"
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "6 × 2 = 12",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "State the law of supply.",
+          "answer": "Other factors remaining constant, the price of a commodity and its quantity supplied are directly related: more is supplied at a higher price and less at a lower price.",
+          "years": [
+            "April 2026",
+            "April 2022"
+          ]
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "Three firms A, B and C supply 10, 15 and 20 kg of a commodity at ₹100. Find the market supply.",
+          "answer": "Market supply = sum of individual supplies = 10 + 15 + 20 = 45 kg at ₹100.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "How does improved technology affect supply?",
+          "answer": "Better technology lowers the cost of production per unit and raises the profit margin, so firms supply more of the commodity at the same price.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "How does taxation influence supply?",
+          "answer": "A higher tax (VAT, excise or sales tax) raises the cost per unit, so supply falls. A cut in tax lowers cost and increases supply.",
+          "years": [
+            "October 2019",
+            "October 2017"
+          ]
+        },
+        {
+          "id": "3.5",
+          "type": "open",
+          "q": "Explain the relation between the price of a commodity and its quantity supplied.",
+          "answer": "They are directly related. A higher price raises the seller's revenue and profit, so more is supplied. A lower price reduces supply.",
+          "years": [
+            "October 2016"
+          ]
+        },
+        {
+          "id": "3.6",
+          "type": "open",
+          "q": "Draw a supply curve and give the reason for its shape.",
+          "answer": "Plot price on the Y-axis and quantity on the X-axis using a schedule such as ₹1 – 50, ₹2 – 100, ₹3 – 150, ₹4 – 200 units. The curve slopes upward from left to right because price and quantity supplied are directly related: a higher price brings higher profit.",
+          "years": [
+            "April 2023"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "4 × 3 = 12",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "Distinguish between supply and stock with an example.",
+          "answer": "Stock is the total quantity a seller has at a point of time. Supply is the part of the stock offered for sale at a given price over a period.\nStock is measured at a point of time; supply is a flow.\nExample: a merchant holds 820 quintals of rice on 1 August (stock) and sells 300 quintals at ₹2,300 during August (supply).",
+          "years": [
+            "April 2019"
+          ]
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "Firms A, B and C supply 40, 50 and 60 quintals of sugar at ₹3,000 a quintal. Find the market supply. What two factors, besides price, affect market supply?",
+          "answer": "Market supply = 40 + 50 + 60 = 150 quintals at ₹3,000.\nOther factors: (1) the number of firms — more firms means more supply; (2) the expected future price — if prices are expected to rise, firms hold back supply now.",
+          "years": [
+            "April 2021"
+          ]
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "Explain how the price of the commodity and government policy determine the supply of a commodity.",
+          "answer": "Price: a higher price means higher average and total revenue, so firms supply more; a lower price reduces supply (the law of supply).\nGovernment policy: higher taxes such as VAT or excise raise cost per unit and reduce supply. Tax cuts and subsidies lower cost and increase supply.",
+          "years": [
+            "October 2016",
+            "October 2017"
+          ]
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "Why does the supply curve slope upward?",
+          "answer": "(1) A higher price raises profit, so firms offer more.\n(2) A higher price makes sellers release part of their stock.\n(3) Higher profit attracts new firms into the market, adding to supply.\nSo more is supplied at higher prices."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Long answer questions. Answer in 80–120 words.",
+      "marks": "4 × 5 = 20",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "Explain market supply with the help of a market supply schedule.",
+          "answer": "Market supply is the total quantity all firms offer for sale at a given price and time — the sum of individual supplies.\nSchedule (sugar, quintals a day) for firms X, Y and Z:\n₹2,800: 8 + 10 + 15 = 33\n₹2,900: 9 + 11 + 16 = 36\n₹3,000: 10 + 12 + 17 = 39\n₹3,100: 12 + 14 + 20 = 46\nMarket supply rises with price. It also depends on the number of firms and the expected future price.",
+          "years": [
+            "April 2026",
+            "April 2025"
+          ]
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "How is the supply of a commodity affected by (a) a fall in the price of related goods and (b) an improvement in technology?",
+          "answer": "(a) Related goods: a farmer can grow wheat or rice with the same land. If the price of rice falls, rice becomes less profitable, so the farmer shifts resources to wheat. The supply of wheat rises and the supply of rice falls. A fall in the price of a related good raises the supply of the commodity.\n(b) Technology: better technology reduces the cost per unit and raises the profit margin, so firms supply more at each price and supply increases. Old technology raises cost and reduces supply.",
+          "years": [
+            "April 2017"
+          ]
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "State the law of supply with a supply schedule.",
+          "answer": "Law: other things being equal, quantity supplied rises when price rises and falls when price falls — a direct relation.\nSchedule (Mohan's mangoes a day): ₹20 – 100 kg; ₹30 – 200 kg; ₹40 – 300 kg; ₹50 – 400 kg; ₹60 – 500 kg.\nAs the price rises from ₹20 to ₹60, supply rises from 100 to 500 kg. The supply curve slopes upward because higher prices bring higher profit, sellers release stock, and new firms enter.",
+          "years": [
+            "April 2016",
+            "April 2022"
+          ]
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "Explain the factors affecting individual supply.",
+          "answer": "(1) Price of the commodity — higher price, more supply.\n(2) Technology — better technology lowers cost and raises supply.\n(3) Price of inputs — dearer inputs raise cost and reduce supply.\n(4) Prices of related goods — if rice becomes dearer, a farmer supplies more rice and less wheat.\n(5) Objective of the firm — a firm that wants to maximise sales supplies more even at lower prices.\n(6) Government policy — taxes reduce supply; subsidies and tax cuts increase it."
+        }
+      ]
+    }
+  ]
+}

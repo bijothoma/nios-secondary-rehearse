@@ -802,6 +802,115 @@
           "file": "data/business-studies/paper-3.json"
         }
       ]
+    },
+    {
+      "id": "economics",
+      "name": "Economics",
+      "label": "",
+      "lessons": [
+        {
+          "no": 3,
+          "title": "Goods and Services",
+          "file": "data/economics/lesson-3.json",
+          "summary": "data/economics/summary/lesson-3.json"
+        },
+        {
+          "no": 6,
+          "title": "Basic Economic Activities",
+          "file": "data/economics/lesson-6.json",
+          "summary": "data/economics/summary/lesson-6.json"
+        },
+        {
+          "no": 7,
+          "title": "Production",
+          "file": "data/economics/lesson-7.json",
+          "summary": "data/economics/summary/lesson-7.json"
+        },
+        {
+          "no": 8,
+          "title": "Cost and Revenue",
+          "file": "data/economics/lesson-8.json",
+          "summary": "data/economics/summary/lesson-8.json"
+        },
+        {
+          "no": 9,
+          "title": "Demand",
+          "file": "data/economics/lesson-9.json",
+          "summary": "data/economics/summary/lesson-9.json"
+        },
+        {
+          "no": 10,
+          "title": "Supply",
+          "file": "data/economics/lesson-10.json",
+          "summary": "data/economics/summary/lesson-10.json"
+        },
+        {
+          "no": 14,
+          "title": "Money and its Role",
+          "file": "data/economics/lesson-14.json",
+          "summary": "data/economics/summary/lesson-14.json"
+        },
+        {
+          "no": 15,
+          "title": "Banking and Credit",
+          "file": "data/economics/lesson-15.json",
+          "summary": "data/economics/summary/lesson-15.json"
+        },
+        {
+          "no": 17,
+          "title": "Collection and Presentation of Data",
+          "file": "data/economics/lesson-17.json",
+          "summary": "data/economics/summary/lesson-17.json"
+        },
+        {
+          "no": 18,
+          "title": "Analysis of Data",
+          "file": "data/economics/lesson-18.json",
+          "summary": "data/economics/summary/lesson-18.json"
+        },
+        {
+          "no": 20,
+          "title": "Sectoral Aspects of Indian Economy",
+          "file": "data/economics/lesson-20.json",
+          "summary": "data/economics/summary/lesson-20.json"
+        },
+        {
+          "no": 22,
+          "title": "Indian Economy in the Global Context",
+          "file": "data/economics/lesson-22.json",
+          "summary": "data/economics/summary/lesson-22.json"
+        },
+        {
+          "no": 23,
+          "title": "Environment and Sustainable Development",
+          "file": "data/economics/lesson-23.json",
+          "summary": "data/economics/summary/lesson-23.json"
+        },
+        {
+          "no": 24,
+          "title": "Consumer Awareness",
+          "file": "data/economics/lesson-24.json",
+          "summary": "data/economics/summary/lesson-24.json"
+        },
+        {
+          "no": 901,
+          "tag": "Full paper",
+          "title": "Model Question Paper 1",
+          "file": "data/economics/paper-1.json"
+        },
+        {
+          "no": 902,
+          "tag": "Full paper",
+          "title": "Model Question Paper 2",
+          "file": "data/economics/paper-2.json"
+        },
+        {
+          "no": 903,
+          "tag": "Full paper",
+          "title": "Model Question Paper 3",
+          "file": "data/economics/paper-3.json"
+        }
+      ]
     }
   ]
 }

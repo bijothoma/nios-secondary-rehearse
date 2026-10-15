@@ -1,0 +1,521 @@
+{
+  "subject": "economics",
+  "lesson": 17,
+  "title": "Collection and Presentation of Data",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "14 × 1 = 14",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "The person who collects the data is the —",
+          "options": [
+            "investigator",
+            "respondent",
+            "enumerator's informant",
+            "editor"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "Data that can be classified by magnitude of time or size are —",
+          "options": [
+            "attributes",
+            "variables",
+            "qualitative",
+            "raw data"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "The term 'data' is —",
+          "options": [
+            "singular",
+            "plural",
+            "both singular and plural",
+            "imaginary"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2025",
+            "October 2022",
+            "April 2021"
+          ],
+          "fixed": true
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "The singular of data is —",
+          "options": [
+            "datas",
+            "datum",
+            "date",
+            "dato"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "Which of the following is a variable?",
+          "options": [
+            "Beauty",
+            "Honesty",
+            "Distance",
+            "Intelligence"
+          ],
+          "answer": "C",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "Which of the following is an attribute?",
+          "options": [
+            "Height",
+            "Weight",
+            "Income",
+            "Laziness"
+          ],
+          "answer": "D",
+          "years": [
+            "April 2023"
+          ]
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "Economics mostly uses —",
+          "options": [
+            "qualitative information",
+            "quantitative information",
+            "fiction",
+            "opinions"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2022"
+          ]
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "A source of secondary data is —",
+          "options": [
+            "direct personal investigation",
+            "mailed questionnaire",
+            "publications of international bodies like the World Bank",
+            "schedules"
+          ],
+          "answer": "C",
+          "years": [
+            "October 2021"
+          ]
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "Classified data presented in rows and columns is called —",
+          "options": [
+            "a diagram",
+            "a graph",
+            "tabular presentation",
+            "raw data"
+          ],
+          "answer": "C",
+          "years": [
+            "October 2019"
+          ]
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "Data collected for the first time for a survey are —",
+          "options": [
+            "primary data",
+            "secondary data",
+            "personal data",
+            "public data"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2019"
+          ]
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "Data means —",
+          "options": [
+            "quantitative and qualitative information",
+            "quantitative and qualitative information providing facts in aggregate manner",
+            "qualitative information in aggregate manner",
+            "quantitative information providing facts in aggregate manner"
+          ],
+          "answer": "D",
+          "years": [
+            "April 2017"
+          ]
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "A variable that has a specific (whole-number) value is —",
+          "options": [
+            "a continuous variable",
+            "a discrete variable",
+            "an attribute",
+            "a constant"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2017"
+          ]
+        },
+        {
+          "id": "1.13",
+          "type": "mcq",
+          "q": "Primary data obtained from third persons who know the facts is collected by —",
+          "options": [
+            "indirect investigation",
+            "direct personal investigation",
+            "mailed questionnaire",
+            "schedules"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2016"
+          ]
+        },
+        {
+          "id": "1.14",
+          "type": "mcq",
+          "q": "Mailed questionnaires can be used only when respondents are —",
+          "options": [
+            "illiterate",
+            "literate",
+            "children",
+            "very few"
+          ],
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark (fill in the blanks, true/false, match, one word or complete the table).",
+      "marks": "9 × 2 = 18",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "Fill in the blanks: (a) The person who collects data is the ______. (b) The person who gives the information is the ______.",
+          "answer": "(a) investigator\n(b) respondent (informant)",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Fill in the blanks: (a) 'Educated' is ______ data. (b) Income is ______ data.",
+          "answer": "(a) qualitative (attribute)\n(b) quantitative (variable)",
+          "years": [
+            "October 2025",
+            "April 2025"
+          ]
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "Give one word: (a) Statistics is a science and an ______. (b) Another term for statistics.",
+          "answer": "(a) art\n(b) Data",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Fill in the blanks: (a) Data collected for the first time are ______ data. (b) Data already collected by others are ______ data.",
+          "answer": "(a) primary\n(b) secondary",
+          "years": [
+            "October 2025",
+            "April 2024"
+          ]
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "State True or False: (a) 100% accuracy in statistics is neither possible nor desirable. (b) Forecasting is done on the basis of economic planning.",
+          "answer": "(a) True.\n(b) False — economic planning is done on the basis of forecasts made from statistical data.",
+          "years": [
+            "April 2025",
+            "April 2024"
+          ]
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "Fill in the blanks: (a) The direct personal investigation method is used when respondents are ______. (b) Variables are discrete and ______.",
+          "answer": "(a) few (a small number)\n(b) continuous",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "2.7",
+          "type": "open",
+          "q": "Fill in the blanks: (a) Unpublished secondary data include internal reports of ______. (b) They also include research reports of ______.",
+          "answer": "(a) government departments\n(b) students (in universities)",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "2.8",
+          "type": "open",
+          "q": "State True or False: (a) Items are shown individually in an individual series. (b) A discrete variable has a specific value.",
+          "answer": "(a) True.\n(b) True.",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "2.9",
+          "type": "open",
+          "q": "Arrange in ascending order: 25, 100, 15, 45, 90, 20, 35, 65, 81, 72. (a) Lowest and highest? (b) The full array?",
+          "answer": "(a) Lowest 15, highest 100.\n(b) 15, 20, 25, 35, 45, 65, 72, 81, 90, 100.",
+          "years": [
+            "October 2025"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "8 × 2 = 16",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "Distinguish between primary and secondary data.",
+          "answer": "Primary data are collected for the first time by the investigator for the survey's own purpose, e.g. a survey of tea-drinking habits in a village.\nSecondary data were collected earlier by others and are used again, e.g. RBI reports or World Bank publications.",
+          "years": [
+            "April 2026",
+            "October 2021",
+            "October 2019"
+          ]
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "What is meant by data?",
+          "answer": "Data are quantitative information giving facts in an aggregate manner, useful for decisions. Data are numerically expressed, affected by many causes and collected for a purpose. 'Data' is plural; the singular is 'datum'.",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "Distinguish between direct personal investigation and indirect investigation.",
+          "answer": "Direct: the investigator collects information personally from the respondents. It is reliable but open to personal bias.\nIndirect: information is taken from third persons who know the facts. It is used by government commissions.",
+          "years": [
+            "October 2024",
+            "October 2022"
+          ]
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "Why is 100% accuracy in statistics neither possible nor desirable?",
+          "answer": "Data are collected from large numbers and affected by many causes, so complete accuracy is impossible and costly. A reasonable standard of accuracy, such as 90% of patients responding to a medicine, is enough for decisions.",
+          "years": [
+            "October 2021"
+          ]
+        },
+        {
+          "id": "3.5",
+          "type": "open",
+          "q": "'Statistics are numerically expressed.' Explain.",
+          "answer": "Only facts put into numbers by counting, measuring or estimating are statistics, e.g. 409 students admitted to a college. Qualities such as good or ugly cannot be quantified, so they are not statistics.",
+          "years": [
+            "October 2019",
+            "April 2025"
+          ]
+        },
+        {
+          "id": "3.6",
+          "type": "open",
+          "q": "Distinguish between diagrammatic and graphic presentation of data.",
+          "answer": "Diagrams, such as bar diagrams, present data geometrically and can be grasped at a glance.\nGraphs plot values on X and Y axes as lines or curves and suit time series and frequency distributions.",
+          "years": [
+            "October 2016"
+          ]
+        },
+        {
+          "id": "3.7",
+          "type": "open",
+          "q": "Draw a simple bar diagram for: Rajasthan 200, Punjab 400, Gujarat 150, Kerala 300 management colleges.",
+          "answer": "Take the states on the X-axis and the number of colleges on the Y-axis (scale: 1 cm = 100).\nDraw four vertical bars of equal width with equal gaps, of heights 2 cm, 4 cm, 1.5 cm and 3 cm.\nGive a title and label both axes.",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "3.8",
+          "type": "open",
+          "q": "What is the importance of data in determining national income?",
+          "answer": "National income is worked out from quantitative information on wages and salaries, rent, interest and profit earned in the year. Without such data the state of the economy cannot be known.",
+          "years": [
+            "October 2022"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "6 × 3 = 18",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "Are statistical data always quantitative? Explain.",
+          "answer": "Yes. Statistics are numerically expressed facts obtained by counting, measuring or estimating, e.g. marks or income.\nQualitative information such as good, honest or beautiful (attributes) cannot be measured, so it is not statistics.\nAttributes can be used only when counted, e.g. the number of literate persons.",
+          "years": [
+            "October 2024"
+          ],
+          "or": {
+            "q": "'Data are collected for a predetermined purpose.' Explain.",
+            "answer": "Data are collected with a definite aim in mind.\nMarks of a whole class are collected to evaluate performance in mathematics; numbers admitted to colleges are collected to judge higher education in a city.\nData without a purpose are useless and may be misleading."
+          }
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "Explain 'statistics are an aggregate of facts' with an example.",
+          "answer": "A single fact is not statistics: 'a student scored 95 in mathematics' cannot be analysed.\nThe marks of all 18 students of the class are statistics, because we can see how many scored above 90, how many failed, and so on.\nSo only an aggregate of facts allows comparison and analysis.",
+          "years": [
+            "April 2025",
+            "October 2021",
+            "April 2021"
+          ]
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "Explain the collection of primary data through correspondents.",
+          "answer": "The investigator appoints local agents (correspondents) in different places.\nThey collect information in their areas and pass it to the investigator or central office.\nIt is cheap and covers a wide area, and it is widely used by newspapers, but its accuracy depends on the correspondents' judgement.",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "Distinguish between a variable and an attribute with examples.",
+          "answer": "A variable can be measured in size or time, e.g. height, weight, income or distance. It may be discrete (number of children) or continuous (height).\nAn attribute is a quality that cannot be measured, e.g. beauty, bravery, intelligence or laziness. It can only be counted for limited study.\nFrom height, beauty, intelligence and weight: height and weight are variables; beauty and intelligence are attributes.",
+          "years": [
+            "October 2016",
+            "April 2016"
+          ]
+        },
+        {
+          "id": "4.5",
+          "type": "open",
+          "q": "What is an individual series and a discrete series? Give examples.",
+          "answer": "Individual series: each item is shown separately with its value, e.g. the marks of 20 students listed one by one; arranged in order, it is an array.\nDiscrete series: exact values are shown with their frequencies, e.g. marks 30, 40, 50, 60 with 4, 6, 10, 20 students.",
+          "years": [
+            "April 2017",
+            "April 2026"
+          ]
+        },
+        {
+          "id": "4.6",
+          "type": "open",
+          "q": "Explain a one-dimensional diagram and the properties of a simple bar diagram.",
+          "answer": "In a one-dimensional diagram only the length (height) of a bar matters, not its width.\nA simple bar diagram shows one variable. The bars are of uniform width, placed at equal distances, usually vertical on a horizontal base, and drawn to a suitable scale with a title.",
+          "years": [
+            "April 2023"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Long answer questions. Answer in 80–120 words.",
+      "marks": "4 × 5 = 20",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "What are primary data? Explain any two methods of collecting primary data.",
+          "answer": "Primary data are collected for the first time by the investigator for the purpose of the survey.\n(1) Direct personal investigation: the investigator personally meets the respondents and collects the information. It is the most reliable and suits a small area, but it may be affected by the investigator's bias.\n(2) Mailed questionnaire: a well-structured questionnaire is posted to respondents, who fill it in and return it. It is cheap and covers a wide area but works only with literate respondents.\nOther methods: indirect investigation, correspondents and schedules.",
+          "years": [
+            "April 2019",
+            "April 2016"
+          ]
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "Explain (a) direct personal investigation and (b) indirect investigation.",
+          "answer": "(a) Direct personal investigation: the investigator goes to the respondents and collects the data personally. The data are original and most reliable, and the investigator can cross-check. But it is costly and slow and suits a small area, and the investigator's bias may creep in.\n(b) Indirect investigation: information is collected from third persons who are expected to know the facts about the person or matter under study, e.g. witnesses. It is used by government commissions and enquiry committees, covers a wide field and suits cases where people would not answer directly. Its accuracy depends on the third persons.",
+          "years": [
+            "April 2021"
+          ]
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "Explain the importance of data in (a) economic planning and (b) framing government policies.",
+          "answer": "(a) Economic planning: past data are the base for future plans. To plan spending on primary education, data on past enrolment and expenditure are needed. To forecast growth in per-capita income, data on population and national income are needed.\n(b) Government policies: data on poverty and unemployment led to MGNREGA, guaranteeing 100 days of wage employment. Census data showing 938 females per 1,000 males (848 in Haryana) led to policies to save the girl child. Data also guide fiscal and monetary policy.",
+          "years": [
+            "April 2019",
+            "April 2022",
+            "April 2023",
+            "April 2024",
+            "October 2019"
+          ]
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "Explain the features of statistics.",
+          "answer": "(1) An aggregate of facts — a single fact is not statistics.\n(2) Numerically expressed — qualities are not statistics.\n(3) Affected by many causes — prices rise from many factors.\n(4) A reasonable standard of accuracy — 100% accuracy is neither possible nor desirable.\n(5) Collected for a predetermined purpose.\n(6) Placed in relation to each other, so they can be compared.",
+          "years": [
+            "October 2022"
+          ]
+        }
+      ]
+    }
+  ]
+}

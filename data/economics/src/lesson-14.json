@@ -1,0 +1,64 @@
+{
+ "lesson": 14,
+ "title": "Money and its Role",
+ "module": 5,
+ "summary": [
+  "## Barter system",
+  "The barter system is the exchange of one kind of goods and services for another, with no money involved. It is a sign of ancient civilisation. Examples: European traders exchanged fur and crafts for eastern perfumes and silk; tribal families in India exchange labour for labour at harvest; farmers, artisans, cobblers and carpenters swapped their products.",
+  "## Demerits of barter: the need for money",
+  "(1) Lack of double coincidence of wants. A person with rice who wants cloth must find someone who has cloth and also wants rice. Such a person is rarely found, and searching for one wastes time.",
+  "(2) Lack of divisibility. A cow cannot be cut up to buy small amounts of cloth or grain.",
+  "(3) No common measure of value. Because there is no common unit, it is hard to equate the values of different goods — how many yards of cloth is a cow worth?",
+  "(4) Storage. A farmer had to store large amounts of wheat in a warehouse to trade day by day.",
+  "(5) No store of value. Goods such as salt and vegetables perish and lose value, so they could not be used for future payments or lending.",
+  "These problems led people to adopt money, a common medium that is easy to carry, store and use to express value.",
+  "## Definition and functions of money",
+  "Money is anything generally accepted by society as a medium of exchange, which also acts as a unit of account, a store of value and a means of repaying debt. It has four functions.",
+  "(1) Medium of exchange, the primary function: goods are bought and sold for money. You pay ₹10 for a pen, so the pen is exchanged for ₹10. This removes the need for double coincidence of wants.",
+  "(2) Measure of value (unit of account): the value of a good is expressed in money. Value = price × quantity: a 25 kg bag of rice at ₹20 a kg is worth ₹500.",
+  "(3) Store of value: money holds purchasing power for later. Sushila cannot store mangoes, but she can store the ₹250 she got by selling them.",
+  "(4) Standard of deferred payments: loans are repaid in money at a future date, with interest. A friend borrows ₹300 and repays ₹301 after a week. A used book would not be accepted in repayment, but money keeps its value.",
+  "## Types of money",
+  "Over time, money has taken the form of cattle, salt, and gold, silver and copper coins. Today it is paper currency notes, coins and bank deposits (cheques). Indian notes are rupees, with the symbol ₹. Smaller amounts are paise (50 paise is half a rupee), and coins go up to ₹10.",
+  "Currency notes and coins are guaranteed by the Government of India. One-rupee notes and coins are issued by the Ministry of Finance; all other notes are issued by the Reserve Bank of India. Indian currency is valid only in India.",
+  "Other currencies: USA — dollar ($); Europe — euro (€); United Kingdom — pound (£); Japan — yen (¥); China — yuan."
+ ],
+ "mcq": [
+  ["Which currency and symbol are NOT correctly matched?", ["Dollar — $", "Euro — €", "Pound — ¥", "Rupee — ₹"], "C", ["April 2026"], {"work": "The pound's symbol is £. ¥ is the symbol of the Japanese yen."}],
+  ["The currency of the United Kingdom is the —", ["dollar", "euro", "pound", "yen"], "C", ["October 2025"]],
+  ["Money guaranteed by the government is —", ["cheques", "currency notes and coins", "bank drafts", "gold"], "B", ["April 2025"]],
+  ["The mutual exchange of goods for goods is called —", ["the monetary system", "the barter system", "the banking system", "the credit system"], "B", ["April 2025", "October 2024", "April 2021"]],
+  ["One-rupee notes and coins below one rupee are issued by —", ["the Reserve Bank of India", "the Ministry of Finance, Government of India", "the State Bank of India", "the Central Bank of India"], "B", ["April 2021"]],
+  ["The primary function of money is —", ["store of value", "medium of exchange", "standard of deferred payment", "measure of value"], "B"],
+  ["The lack of double coincidence of wants is a problem of —", ["the monetary system", "the barter system", "banking", "insurance"], "B", ["October 2017"]],
+  ["A bag of 25 kg of rice at ₹20 a kg has a value of —", ["₹45", "₹200", "₹250", "₹500"], "D", null, {"work": "Value = price × quantity = 20 × 25 = ₹500 — money as a measure of value."}],
+  ["The currency of Japan is the —", ["yuan", "yen", "won", "pound"], "B", ["October 2025"]]
+ ],
+ "objective": [
+  ["Fill in the blanks: (a) The yen is the currency of ______. (b) The yuan is the currency of ______.", "(a) Japan\n(b) China", ["October 2025"]],
+  ["Fill in the blanks: (a) Money is exchanged as paper currency, coins and ______. (b) Money used for future repayment of loans acts as a standard of ______ payments.", "(a) cheques (bank deposits)\n(b) deferred", ["April 2026"]],
+  ["Fill in the blanks: (a) The symbol of the rupee is ______. (b) One-rupee notes are issued by the ______.", "(a) ₹\n(b) Ministry of Finance (Government of India)", ["April 2024"]],
+  ["Fill in the blanks: (a) The need for money arose from the difficulties of the ______ system. (b) Under barter, a person must find someone who wants his good and has the good he wants — the double ______ of wants.", "(a) barter\n(b) coincidence", ["April 2024"]],
+  ["Fill in the blanks: (a) The currency of the USA is the ______. (b) The common currency of Europe is the ______.", "(a) US dollar ($)\n(b) euro (€)", ["April 2024"]],
+  ["State True or False: (a) Barter involved no money. (b) Perishable goods could serve as a store of value under barter.", "(a) True.\n(b) False — they lose quality and value, so they could not store value.", ["April 2024"]]
+ ],
+ "vsa": [
+  ["Explain the store of value function of money with an example.", "Money keeps purchasing power for later use. Sushila cannot store mangoes for long, but she can keep the ₹250 she got by selling them and spend it later.", ["October 2021", "October 2024", "April 2026"]],
+  ["Explain money as a measure of value.", "Money is the common unit in which the value of every good is expressed. Value = price × quantity: 25 kg of rice at ₹20 a kg is worth ₹500. This makes it easy to compare goods.", ["April 2025"], {"or": ["Explain the lack of divisibility under barter.", "Some goods cannot be divided into small parts. A person with a cow cannot cut it up to exchange part of it for cloth and part for grain, so small exchanges become impossible."]}],
+  ["What is the barter system? Give an example.", "Barter is the exchange of goods and services for other goods and services without money. Examples: 10 kg of wheat for 5 kg of sugar, or 8 kg of rice for a pair of shoes.", ["April 2022"]],
+  ["Explain money as a medium of exchange.", "People buy and sell goods and services using money. The seller receives money and the buyer pays it: you pay ₹10 and get a pen. This removes the need for double coincidence of wants.", ["April 2023"]],
+  ["Why was it difficult to equate the values of different goods under barter?", "There was no common unit of measurement. A cow cannot be divided, and no one good could measure the value of all others, so it was hard to say how much cloth or grain equalled a cow.", ["October 2016"]],
+  ["What is double coincidence of wants?", "For a barter exchange, each person must want what the other has. A person with rice who wants cloth must find someone who has cloth and wants rice. Without this, no exchange can take place.", ["October 2017"]]
+ ],
+ "sa": [
+  ["Explain money as a standard of deferred payment with an example.", "Money is used to make payments in the future. A friend borrows ₹300 to buy a book and promises to repay it after a week with ₹1 interest, i.e. ₹301.\nThe lender accepts money because it keeps its value; a used book would not be accepted.\nSo loans and future payments are settled in money.", ["April 2025", "October 2016"]],
+  ["What is money? State two of its functions.", "Money is anything generally accepted as a medium of exchange, which also serves as a unit of account, a store of value and a means of repaying debt.\n(1) Medium of exchange: goods are bought and sold for money.\n(2) Measure of value: prices and values of goods are expressed in money.", ["April 2026", "April 2016", "April 2017"]],
+  ["'The lack of double coincidence of wants is a common problem with the barter system.' Explain.", "In barter, the person with rice who wants cloth must find someone who has cloth and wants rice.\nSuch a match is rare, so exchange often does not take place and much time is wasted searching, especially when transport and communication were poor.\nMoney solves this, since anyone accepts money for their goods.", ["April 2021", "October 2017"]],
+  ["Explain the main demerits of the barter system.", "(1) Lack of double coincidence of wants.\n(2) Lack of divisibility — a cow cannot be split.\n(3) No common measure of value.\n(4) Large stocks had to be stored for trade.\n(5) Perishable goods could not store value, so lending and future payment were not possible."]
+ ],
+ "la": [
+  ["Explain the functions of money: medium of exchange and measure of value.", "Medium of exchange: the primary function. People sell goods for money and use money to buy other goods; you pay ₹10 for a pen and the seller receives ₹10. Exchange no longer needs a double coincidence of wants, and buying and selling become quick and easy.\nMeasure of value: money is the common unit of account. The value of every good is expressed in money, value = price × quantity — a 25 kg bag of rice at ₹20 a kg is worth ₹500. This makes comparison, accounting and pricing simple, which was not possible under barter.", ["April 2021", "October 2017", "October 2022", "April 2019"]],
+  ["Why did the need for money arise? Explain the demerits of barter.", "Money arose because barter failed.\n(1) Lack of double coincidence of wants — a matching trader was hard to find.\n(2) Lack of divisibility — a cow cannot be divided to buy small items.\n(3) No common measure of value — values of different goods could not be equated.\n(4) Storage — large stocks of goods had to be kept in warehouses.\n(5) No store of value — perishable goods lost value, so lending and future payment were impossible.\nPeople therefore adopted money, a common medium that is easy to carry and store and that expresses value."],
+  ["Define money and explain its four functions.", "Money is anything generally accepted by society as a medium of exchange, which also acts as a unit of account, a store of value and a means of repaying debt.\n(1) Medium of exchange — goods are bought and sold for money.\n(2) Measure of value — value is expressed in money (price × quantity).\n(3) Store of value — money holds purchasing power for later use.\n(4) Standard of deferred payment — loans are repaid in money at a future date, with interest.", ["April 2026"]]
+ ]
+}

@@ -1,0 +1,285 @@
+{
+  "subject": "economics",
+  "lesson": 7,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 7: Production — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Production function"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Production is the transformation of inputs into output. Inputs are the resources used in production: land, labour, capital, entrepreneurship and raw materials. Output is the goods and services produced. To grow rice, for example, you need land, seeds, fertiliser, water, a plough and diesel."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "The production function is the technical relationship between inputs and output. It shows the maximum output that can be produced from given quantities of inputs. There is a direct relationship between the amount of inputs and the amount of output. The ratio in which inputs are combined is called the technology (method) of production."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Technologies of production"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Labour-intensive technology uses more labour and less capital per unit of output, for example a handloom, or a wooden plough with bullocks. It is used in household enterprises, in small-scale production and in production for self-consumption."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Capital-intensive technology uses more capital and less labour per unit of output, for example a powerloom, or a tractor, pump set and harvester. It is used in large-scale production for sale, by corporations and government enterprises."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Division of labour"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Division of labour means splitting production into processes and giving each process to the worker best suited to it. It raises efficiency, makes large-scale production possible, leads to inventions, and encourages the use of machines and capital-intensive methods."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Product-based division of labour: a worker specialises in making a whole good or service. Examples are a potter, cobbler or carpenter in a village, and small farmers. It is common in household enterprises and small-scale production."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Process-based division of labour: production is split into many processes and each worker does one or two of them. Examples are a bread factory, where workers make dough, bake, cut and pack, and street lighting, where different teams fix poles, wiring, bulbs and supply. It is used in large units."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "TP, AP and MP"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Total product (TP) is the total output at a given level of a variable input such as labour, with all other inputs fixed."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Average product (AP) is output per unit of labour: AP = TP ÷ L. For example, 5 workers with TP 95 give AP = 95 ÷ 5 = 19."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Marginal product (MP) is the change in TP from one more unit of labour: MP = TP(L) − TP(L−1). It is the output added by the last worker. If 1 worker stitches 2 shirts and 2 workers stitch 6, MP of the second worker = 6 − 2 = 4."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Law of diminishing marginal product"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "When more and more labour is added to a fixed factor such as a machine, MP first rises, then falls, and can become negative. When MP is zero, TP is at its maximum. A producer should stop adding labour before MP becomes negative."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Production process, firm and industry"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "The production process involves arranging the factors from their owners, combining them in the right proportion, buying and storing raw materials, producing, storing and selling the output. The entrepreneur organises it."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "A firm is a single production unit, such as Bata. An industry is the group of all firms making the same commodity, such as the shoe industry."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Firms and industries are important because they (1) provide goods and services for consumption, (2) provide goods for investment such as machines and vehicles, (3) give employment, and (4) provide infrastructure — energy, transport, communication, health, education and housing."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Types of producers"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Indigenous units are located in the country and owned by its residents. Examples are farms, shops, factories, schools, and self-employed doctors, lawyers and teachers. They may be private or government units."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Private units are of five kinds:"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "(a) Sole proprietorship has one owner."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "(b) Partnership has 2 to 20 owners (the maximum is 20)."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "(c) Company: a private company has 2 to 50 shareholders; a public company has at least 7 and no maximum. Companies are formed under the Companies Act 1956."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "(d) Cooperative society is a voluntary association for mutual benefit with at least 10 members and no maximum, formed under the Cooperative Societies Act 1912. Kendriya Bhandar is an example."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "(e) Private non-profit organisations include charitable hospitals and schools."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Government units are of two kinds. Departmental enterprises are directly controlled by a ministry, such as Indian Railways, All India Radio and Doordarshan. Public sector undertakings are autonomous corporations, such as HMT, MMTC, LIC, GIC, IOC and Indian Airlines."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Foreign units are located in the country but owned by non-residents, who contribute more than 50% of the capital. Multinationals have their head office in one country and work in many, e.g. Coca-Cola, Nokia, Samsung and Hyundai. Collaborations are jointly owned by Indian and foreign partners, e.g. Maruti-Suzuki."
+        ]
+      ]
+    }
+  ]
+}

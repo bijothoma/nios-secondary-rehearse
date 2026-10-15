@@ -1,0 +1,355 @@
+{
+  "subject": "economics",
+  "lesson": 6,
+  "title": "Basic Economic Activities",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "11 × 1 = 11",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "Purchase of a cycle by a household is treated as —",
+          "options": [
+            "capital formation",
+            "production by the household",
+            "consumption",
+            "production for self-consumption"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "Purchase of a car by a household is —",
+          "options": [
+            "investment",
+            "consumption by the household",
+            "production",
+            "capital formation"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2021"
+          ]
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "The use of goods and services for the direct satisfaction of wants is called —",
+          "options": [
+            "production",
+            "consumption",
+            "capital formation",
+            "distribution"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2019"
+          ]
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "Which of the following is NOT a factor income?",
+          "options": [
+            "Profit",
+            "Interest",
+            "Wages",
+            "Labour"
+          ],
+          "answer": "D",
+          "years": [
+            "October 2016"
+          ]
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "The factor income earned by capital is —",
+          "options": [
+            "rent",
+            "wages",
+            "interest",
+            "profit"
+          ],
+          "answer": "C",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "A person's consumption is ₹10,000 and saving ₹2,000. Their income is —",
+          "options": [
+            "₹8,000",
+            "₹10,000",
+            "₹12,000",
+            "₹20,000"
+          ],
+          "answer": "C",
+          "years": [
+            "October 2025"
+          ],
+          "work": "Income = Consumption + Saving = ₹10,000 + ₹2,000 = ₹12,000."
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "A producer can expand productive capacity when —",
+          "options": [
+            "production is more than consumption",
+            "consumption is more than production",
+            "production equals consumption",
+            "there is no saving"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "Which factor of production becomes obsolete after a certain period?",
+          "options": [
+            "Land",
+            "Labour",
+            "Capital",
+            "Entrepreneurship"
+          ],
+          "answer": "C",
+          "years": [
+            "October 2016"
+          ]
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "Raw materials such as yarn, seeds and fertilisers used up in production are —",
+          "options": [
+            "fixed capital",
+            "working capital",
+            "land",
+            "public goods"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "Which of the following is NOT a characteristic of land?",
+          "options": [
+            "Gift of nature",
+            "Limited in quantity",
+            "Mobile",
+            "Indestructible"
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "The person who organises production and bears its risk is the —",
+          "options": [
+            "labourer",
+            "landlord",
+            "capitalist",
+            "entrepreneur"
+          ],
+          "answer": "D"
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark (fill in the blanks, true/false, match, one word or complete the table).",
+      "marks": "6 × 2 = 12",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "Fill in the blanks: (a) Stock is measured at a ______ of time. (b) Flow is measured over a ______ of time.",
+          "answer": "(a) point\n(b) period\n(Capital is a stock; capital formation is a flow.)",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "State True or False: (a) Roads constructed by the government are production. (b) Purchase of a tractor by a farmer is consumption.",
+          "answer": "(a) True.\n(b) False — a tractor adds to the farmer's capital stock, so it is investment (capital formation) for production, not consumption.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "Fill in the blanks: (a) Capital formation is done by refraining from present ______. (b) Saving kept idle at home ______ (does / does not) lead to capital formation.",
+          "answer": "(a) consumption\n(b) does not",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Fill in the blanks: (a) Production is the making of goods and ______. (b) Labour and capital get ______ and interest respectively.",
+          "answer": "(a) services\n(b) wages",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "Give one word: (a) Payment for the services of land. (b) Reward of the entrepreneur.",
+          "answer": "(a) Rent.\n(b) Profit."
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "State True or False: (a) A teacher teaching in a school is production. (b) Growing vegetables in a kitchen garden is not production.",
+          "answer": "(a) True — a service is produced.\n(b) False — it creates utility, so it is production."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "5 × 2 = 10",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "What are factor incomes? Name them.",
+          "answer": "Factor incomes are the payments received by the owners of the factors of production for their productive services.\nLand gets rent, labour gets wages, capital gets interest and the entrepreneur gets profit.",
+          "years": [
+            "April 2016",
+            "April 2026"
+          ],
+          "or": {
+            "q": "What is meant by the production process?",
+            "answer": "Production is the creation of utility. In the production process the producer combines land, labour, capital and entrepreneurship with raw materials to turn them into goods and services that satisfy wants."
+          }
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "Explain consumption as a basic economic activity.",
+          "answer": "Consumption is the use of goods and services for the direct satisfaction of individual or collective wants, such as a household buying food, clothes, a cycle or a doctor's service.\nIt is the goal of production.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "In what two ways is production disposed of?",
+          "answer": "Production is used for (1) consumption, the direct satisfaction of wants, and (2) capital formation, the part not consumed that is added to the stock of machines, buildings and so on to expand future production.",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "What are factor payments?",
+          "answer": "Factor payments are what a firm pays the owners of factors for their services: rent to landlords, wages to workers, interest to owners of capital and profit to the entrepreneur.\nFor the owners, the same payments are factor incomes.",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "3.5",
+          "type": "open",
+          "q": "Distinguish between fixed capital and working capital.",
+          "answer": "Fixed capital is used in production for many years, e.g. machines, tractors and buildings.\nWorking capital is used up in a single round of production, e.g. raw materials such as yarn, seeds and fertilisers."
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "4 × 3 = 12",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "Explain the four factor incomes.",
+          "answer": "(1) Rent: paid to the landlord for the services of land.\n(2) Wages: paid to labourers for their physical or mental work.\n(3) Interest: paid to the owners of capital, e.g. a bank that lends money to buy a tractor.\n(4) Profit: earned by the entrepreneur for organising production and bearing risk.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "How does saving lead to capital formation? Is all saving capital formation?",
+          "answer": "Income not spent on consumption is saved and deposited in banks, which lend it to producers to buy machines, buildings and other capital goods. This addition to the capital stock is capital formation.\nNot all saving is capital formation: money saved and locked up at home is idle, so no capital is formed."
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "'The larger the surplus, the larger the productive capacity of the economy.' Explain.",
+          "answer": "The surplus is the part of production not consumed.\nIt is invested in capital goods such as plant, machinery and buildings, which is capital formation.\nA larger surplus means more capital goods, so the economy can produce more in future.",
+          "years": [
+            "April 2024",
+            "October 2024"
+          ]
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "What are the functions of an entrepreneur?",
+          "answer": "(1) Brings land, labour and capital together in the right proportion.\n(2) Decides what and how much to produce and how much to spend on factors.\n(3) Bears the risk and uncertainty of production.\n(4) Pays rent, wages and interest, arranges the sale of output and earns profit."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Long answer questions. Answer in 80–120 words.",
+      "marks": "3 × 5 = 15",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "Explain the three basic economic activities and show how they are inter-related.",
+          "answer": "(1) Production is the creation of utility by combining land, labour, capital and entrepreneurship to make goods and services.\n(2) Consumption is the use of goods and services for the direct satisfaction of wants.\n(3) Capital formation is the surplus of production over consumption that is added to the stock of capital goods.\nInter-relation: more production allows more consumption and more capital formation; more capital formation raises future production; rising consumption shows a higher standard of living. Together they take the economy towards development."
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "Describe the four factors of production.",
+          "answer": "(1) Land: a gift of nature — plains, mountains, plateaus, minerals and forests. It is limited and immobile.\n(2) Labour: human effort, physical or mental, skilled or unskilled.\n(3) Capital: man-made aids such as machines, tools and buildings. It raises the efficiency of land and labour. Fixed capital lasts many years; working capital is used up.\n(4) Entrepreneurship: organises the other factors, takes decisions, bears risk and earns profit.",
+          "years": [
+            "October 2019"
+          ]
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "Explain the types of occupations or economic activities and their components.",
+          "answer": "Activities can be grouped by the basic economic activity they perform:\n(1) Production activities create goods and services. They include agriculture and allied activities, manufacturing, and services such as teaching, transport and banking.\n(2) Consumption activities are households buying and using goods and services to satisfy wants.\n(3) Capital formation activities are saving and investing in machines, buildings, roads and wells.\nIn every occupation, factors earn rent, wages, interest and profit.",
+          "years": [
+            "October 2019"
+          ]
+        }
+      ]
+    }
+  ]
+}

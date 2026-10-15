@@ -1,0 +1,177 @@
+{
+  "subject": "economics",
+  "lesson": 8,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 8: Cost and Revenue — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Cost"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Cost is the money a producer spends to buy or hire factors of production and raw materials to produce goods and services. It is the producer's sacrifice."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Example: a farmer pays ₹5,000 rent for land, ₹31,500 in wages, ₹3,000 for seeds and fertiliser and ₹2,500 for a tractor. The total cost is ₹42,000 for 30 quintals of rice."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Types of cost"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Fixed cost is spending on fixed factors, such as rent for land or a tractor. It is compulsory and has nothing to do with the amount of output; it must be paid even if nothing is produced."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Variable cost is spending on variable factors, such as wages and raw materials. It changes with output."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Explicit cost is the money actually paid out for fixed and variable factors and raw materials. These are direct payments, properly calculated and recorded with bills and receipts. Rent paid is both an explicit and a fixed cost."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Implicit cost is the cost of self-supplied factors, such as a farmer using their own tractor. No money is paid, but its value is worked out at market rates."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Total, average and marginal cost"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "TC = TFC + TVC."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "AC = TC ÷ output; it is the cost per unit. Example: TFC ₹180 and TVC ₹300 for 48 units gives TC ₹480 and AC = 480 ÷ 48 = ₹10."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "MC is the increase in TC when output rises by one unit. It is calculated between two successive levels of output. Example: 10 shirts cost ₹1,110 and 11 shirts cost ₹1,199, so MC = ₹89, with AC ₹111 and ₹109."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Revenue"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Revenue is the money a seller receives by selling a quantity of a commodity: TR = Price × Quantity. TR is also called total sales proceeds. For several goods, add the TR of each. Example: 100 kg rice at ₹35 + 70 L oil at ₹90 + 150 kg flour at ₹22 + 100 packets of biscuits at ₹10 = ₹3,500 + ₹6,300 + ₹3,300 + ₹1,000 = ₹14,100."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "AR = TR ÷ Q = P, so average revenue is the same as price."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "MR is the increase in TR from selling one more unit: MR = TR(n) − TR(n−1). If every unit sells at the same price, AR = MR. Example: 10 kg at ₹30 gives TR ₹300 and 11 kg at ₹29 gives TR ₹319, so MR = ₹19."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Profit"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Profit is the surplus of revenue over cost: Profit = TR − TC. Example: 50 units at ₹10 gives TR ₹500; TC = 110 + 150 = ₹260; so profit = ₹240."
+        ]
+      ]
+    }
+  ]
+}

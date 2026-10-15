@@ -1,0 +1,75 @@
+{
+ "lesson": 9,
+ "title": "Demand",
+ "module": 4,
+ "summary": [
+  "## Meaning of demand",
+  "Demand for a good is the quantity of the good bought at a given price in a given period of time. The definition has three parts: price, quantity and time. A statement that leaves one out is not demand. \"Nitin bought 2 pairs of shoes last month\" is not demand, because no price is given.",
+  "Demand vs desire: demand is desire backed by the ability (money) and willingness to pay the price. A wish for a car without the money to buy it is only a desire.",
+  "## Individual demand and its determinants",
+  "Individual demand is the quantity one buyer is willing to buy at a given price per unit of time. It depends on four things.",
+  "(1) Price of the commodity: more is bought at a lower price and less at a higher price.",
+  "(2) Prices of related goods. Substitutes can be used in place of each other, like tea and coffee or Coke and Pepsi. Demand is directly related to the price of a substitute: if coffee becomes dearer, demand for tea rises; if one brand of cold drink becomes cheaper, demand for the other brand falls. Complements are used together, like a car and petrol, a pen and ink, or tea and sugar. Demand is inversely related to the price of a complement: if petrol becomes dearer, demand for cars falls.",
+  "(3) Income of the buyer. For normal goods (fruit, butter, full-cream milk), demand rises with income — a direct relation. For inferior goods (jowar, bajra, toned milk), demand falls as income rises — an inverse relation.",
+  "(4) Tastes, preferences and fashion: demand rises for goods that are preferred or in fashion, and falls for goods that go out of fashion.",
+  "## Demand schedule and law of demand",
+  "A demand schedule is a table of the quantities demanded at different prices. Varsha's demand for mangoes: ₹80 – 0.5 kg; ₹70 – 1 kg; ₹60 – 1.5 kg; ₹50 – 2 kg; ₹40 – 2.5 kg; ₹30 – 3 kg.",
+  "Law of demand: other things remaining constant, when the price falls the quantity demanded rises, and when the price rises the quantity demanded falls. Price and quantity demanded are inversely related. The other things held constant are income, prices of related goods, and tastes.",
+  "## Demand curve",
+  "The demand curve is the diagram of the demand schedule and the law of demand, with price on the Y-axis and quantity on the X-axis. It slopes downward from left to right, for three reasons.",
+  "(1) Diminishing marginal utility: each extra unit gives less satisfaction, so the buyer will pay less for it. The first chapati satisfies most.",
+  "(2) Income effect: a fall in price raises real income or purchasing power. If mangoes fall from ₹40 to ₹20, the same money buys 4 kg instead of 2.",
+  "(3) Substitution effect: a cheaper good is bought in place of its now relatively dearer substitute.",
+  "## Market demand",
+  "Market demand is the total quantity all buyers in the market will buy at a given price and time. It is the sum of the individual demands. If X, Y and Z buy 2, 3 and 5 kg, market demand is 10 kg. Market demand depends on the determinants of individual demand plus three more.",
+  "(1) Number of buyers: more buyers means more market demand.",
+  "(2) Distribution of income and wealth: if it favours the rich, the goods the rich prefer are demanded more; if it favours the poor, the goods the poor use are demanded more.",
+  "(3) Climate: ice and coolers sell in summer, umbrellas and raincoats in the rainy season, and woollens in winter."
+ ],
+ "mcq": [
+  ["Demand is affected by —", ["taste and preference of consumers", "income of the producer", "cost of production", "technology"], "A", ["April 2026"]],
+  ["X and Y are complementary goods. If the price of X rises, the demand for Y will —", ["rise", "fall", "remain the same", "become zero"], "B", ["October 2025"]],
+  ["X, Y and Z are the only buyers. They buy 2 kg, 3 kg and 5 kg of mangoes. The market demand is —", ["3 kg", "5 kg", "10 kg", "30 kg"], "C", ["October 2025", "April 2019"], {"work": "Market demand = sum of individual demands = 2 + 3 + 5 = 10 kg."}],
+  ["If the price of one brand of cold drink falls, the demand for another brand will —", ["rise", "fall", "remain the same", "double"], "B", ["April 2023"]],
+  ["The quantity of a commodity an individual buyer is willing to buy at a given price per unit of time is —", ["individual demand", "market demand", "trade demand", "perfect demand"], "A", ["April 2021"]],
+  ["The definition of demand includes —", ["price", "quantity", "time", "all of these"], "D", ["October 2019", "October 2021"]],
+  ["Goods whose demand falls when income rises are —", ["normal goods", "inferior goods", "luxury goods", "complementary goods"], "B", ["October 2017"]],
+  ["The quantity of a good purchased at a given price at a given time is —", ["supply", "demand", "stock", "store"], "B", ["April 2019", "April 2024"]],
+  ["Demand for a commodity refers to the quantity —", ["a buyer is willing to buy at a given price per unit of time", "purchased per unit of time", "a buyer is willing to buy", "purchased at a given price"], "A", ["April 2017"]],
+  ["The demand curve slopes —", ["upward from left to right", "downward from left to right", "parallel to the X-axis", "parallel to the Y-axis"], "B"],
+  ["Tea and sugar are —", ["substitute goods", "complementary goods", "inferior goods", "free goods"], "B"],
+  ["If the price of coffee rises, the demand for tea will —", ["rise", "fall", "stay the same", "become zero"], "A"]
+ ],
+ "objective": [
+  ["Match: (a) Tea and coffee — ? (b) Pen and ink — ? [complementary goods / substitute goods]", "(a) Substitute goods.\n(b) Complementary goods.", ["April 2026"]],
+  ["State True or False: (a) Demand and desire are different terms. (b) Demand does not depend on income.", "(a) True — demand is desire backed by ability to pay.\n(b) False — income is a determinant of demand.", ["October 2025", "April 2025"]],
+  ["Give one word: (a) Car and petrol are ______ goods. (b) The definition of demand includes price, quantity and ______.", "(a) complementary\n(b) time", ["October 2025"]],
+  ["Fill in the blanks: (a) If the number of buyers is large, market demand will be ______. (b) The law of demand shows an inverse relation, so the demand curve slopes ______.", "(a) large (more)\n(b) downward (from left to right)", ["April 2025"]],
+  ["State True or False: (a) Demand rises for goods in fashion. (b) Demand is directly related to the price of complementary goods.", "(a) True.\n(b) False — it is inversely related.", ["October 2024"]],
+  ["Fill in the blanks: (a) The demand curve is a diagrammatic representation of the demand ______. (b) The demand of one buyer is called ______ demand.", "(a) schedule\n(b) individual", ["October 2024"]],
+  ["State True or False: (a) One buyer's demand is individual demand. (b) If A buys 2 kg and B buys 3 kg, market demand is 6 kg.", "(a) True.\n(b) False — market demand = 2 + 3 = 5 kg.", ["April 2024"]],
+  ["Complete the market demand table: price ₹1–4; household A buys 12, 9, 6, 3; household C buys 10, 8, 6, 4; market demand 30, 23, 16, 9. Find household B's demand at (a) ₹1 and (b) ₹4.", "B = market demand − A − C.\n(a) At ₹1: 30 − 12 − 10 = 8 units.\n(b) At ₹4: 9 − 3 − 4 = 2 units.", ["October 2016"]]
+ ],
+ "vsa": [
+  ["Distinguish between normal goods and inferior goods.", "Normal goods: demand rises as the buyer's income rises (direct relation), e.g. fruit, butter, full-cream milk.\nInferior goods: demand falls as income rises (inverse relation), e.g. jowar, bajra, toned milk.", ["April 2026", "October 2017"]],
+  ["Distinguish between demand and desire.", "Desire is a mere wish to have a good.\nDemand is desire backed by the ability (money) and willingness to pay the price. A wish for a car without the money to buy it is only a desire.", ["April 2023", "April 2024", "April 2025"], {"or": ["How does climate affect demand?", "Demand changes with the season: ice, coolers and cold drinks in summer, umbrellas and raincoats in the rainy season, woollens in winter."]}],
+  ["Distinguish between individual demand and market demand.", "Individual demand is the quantity one buyer is willing to buy at a given price per unit of time.\nMarket demand is the total quantity all buyers in the market will buy at that price — the sum of individual demands.", ["October 2021"]],
+  ["How does the income of a buyer affect individual demand?", "For normal goods, demand rises as income rises (direct relation).\nFor inferior goods, such as jowar, bajra and toned milk, demand falls as income rises (inverse relation).", ["October 2024", "October 2022"]],
+  ["How do the tastes of buyers affect demand?", "Demand rises for goods the buyer prefers or that are in fashion, such as jeans and tops, and falls for goods that are not preferred or are out of fashion.", ["October 2025"]],
+  ["What is a demand curve?", "A demand curve is the diagram of the demand schedule. Price is on the Y-axis and quantity demanded on the X-axis. It slopes downward from left to right, showing the law of demand.", ["April 2024"]],
+  ["What is the relation between price and quantity demanded?", "Other things being equal, they are inversely related: when the price falls, more is demanded; when the price rises, less is demanded. This is the law of demand.", ["April 2022"]]
+ ],
+ "sa": [
+  ["Explain how the prices of related goods affect demand.", "Substitutes (tea and coffee, Coke and Pepsi) are used in place of each other. If the price of coffee rises, demand for tea rises — a direct relation.\nComplements (car and petrol, pen and ink) are used together. If the price of petrol rises, demand for cars falls — an inverse relation.", ["October 2017", "April 2023", "April 2024"]],
+  ["How do climatic conditions affect market demand?", "Market demand changes with the season.\nIn summer, demand rises for ice, cold drinks, coolers and cotton clothes.\nIn the rainy season, demand rises for umbrellas and raincoats.\nIn winter, demand rises for woollens and heaters.\nSo the same good is in high demand in one season and low demand in another.", ["October 2025", "October 2022"]],
+  ["Explain how the price of the commodity and the prices of related goods determine individual demand.", "Price of the commodity: at a lower price, more is bought; at a higher price, less is bought (the law of demand).\nRelated goods: demand moves with the price of a substitute (dearer coffee → more tea) and against the price of a complement (dearer petrol → fewer cars).", ["April 2021", "October 2021"]],
+  ["What are the factors affecting individual demand?", "(1) Price of the commodity.\n(2) Prices of related goods — substitutes and complements.\n(3) Income of the buyer — normal and inferior goods.\n(4) Tastes, preferences and fashion.", ["April 2019", "April 2016"]],
+  ["Explain the law of demand on the basis of diminishing marginal utility.", "As a person consumes more units of a good, the satisfaction from each extra unit falls. The first chapati gives most satisfaction, the second less, and so on.\nA buyer pays only as much as the satisfaction is worth, so they buy more units only at a lower price.\nSo quantity demanded rises as price falls — the law of demand.", ["October 2019"]]
+ ],
+ "la": [
+  ["State and explain the law of demand with a demand schedule.", "Law: other things remaining constant, quantity demanded rises when price falls and falls when price rises; price and quantity demanded are inversely related.\nAssumptions: income, prices of related goods, and tastes do not change.\nSchedule (mangoes): ₹80 – 0.5 kg; ₹70 – 1 kg; ₹60 – 1.5 kg; ₹50 – 2 kg; ₹40 – 2.5 kg.\nAs the price falls from ₹80 to ₹40, demand rises from 0.5 kg to 2.5 kg. Plotted, these points give a demand curve sloping downward from left to right.", ["April 2026", "October 2024"], {"or": ["Explain market supply with an example.", "Market supply is the total quantity all firms offer for sale at a given price per unit of time — the sum of individual supplies.\nExample: at ₹3,000 a quintal, firms A, B and C offer 40, 50 and 60 quintals of sugar, so market supply = 40 + 50 + 60 = 150 quintals.\nIt rises with price, and depends also on the number of firms, technology, input prices and government policy."]}],
+  ["Why does the demand curve slope downward from left to right?", "(1) Diminishing marginal utility: each extra unit gives less satisfaction, so the buyer buys more only at a lower price.\n(2) Income effect: a fall in price raises real income. If mangoes fall from ₹40 to ₹20 a kg, the same money buys 4 kg instead of 2.\n(3) Substitution effect: when a good becomes cheaper, buyers switch to it from its substitutes (Coke in place of Pepsi).\nSo more is bought at lower prices, giving a downward-sloping curve.", ["October 2016"]],
+  ["Explain the effect of (a) the number of buyers and (b) the distribution of income and wealth on market demand.", "(a) Number of buyers: market demand is the sum of individual demands. When a new buyer such as Abha joins Varsha, Vibha and Somya in buying mangoes, market demand rises. More buyers mean more demand; fewer buyers mean less.\n(b) Distribution of income and wealth: if it favours the rich, demand rises for goods the rich prefer, such as cars and luxuries. If it is more equal or favours the poor, demand rises for goods the poor use, such as food grains and basic clothing.", ["April 2021", "October 2021", "April 2023", "October 2022"]],
+  ["Explain how the prices of related goods determine demand.", "Related goods are substitutes or complements.\nSubstitutes can be used in place of each other — tea and coffee, Coke and Pepsi. If the price of coffee rises, people switch to tea and demand for tea rises; if coffee becomes cheaper, demand for tea falls. So demand is directly related to the price of a substitute.\nComplements are used together — car and petrol, pen and ink. If petrol becomes dearer, demand for cars falls; if it becomes cheaper, demand for cars rises. So demand is inversely related to the price of a complement.", ["October 2019"]]
+ ]
+}
