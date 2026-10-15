@@ -343,7 +343,8 @@
             "both oxygen and water",
             "neither"
           ],
-          "answer": "C"
+          "answer": "C",
+          "fixed": true
         }
       ],
       "fixed": true,

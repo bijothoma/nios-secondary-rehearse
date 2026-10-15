@@ -87,7 +87,8 @@
             "parallel to the field but perpendicular to the current",
             "perpendicular to the field but parallel to the current"
           ],
-          "answer": "B"
+          "answer": "B",
+          "fixed": true
         },
         {
           "id": "1.7",
@@ -99,7 +100,8 @@
             "Earth wire",
             "None of these"
           ],
-          "answer": "C"
+          "answer": "C",
+          "fixed": true
         },
         {
           "id": "1.8",
@@ -269,7 +271,8 @@
             "Either AC or DC",
             "None of these"
           ],
-          "answer": "B"
+          "answer": "B",
+          "fixed": true
         },
         {
           "id": "3.4",

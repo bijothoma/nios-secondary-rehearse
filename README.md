@@ -89,6 +89,8 @@ The lesson then opens with a menu: Lesson, Lesson with translation, and the mode
   source format (51 questions, 100 marks; no passage section — case questions are long answers). Only the
   13 public-exam (theory) lessons of the NIOS syllabus bifurcation are included.
 - `tools/build_eco.py`: builds Economics from `data/economics/src/lesson-<n>.json` with the same source
-  format (54 questions, 100 marks). Numerical answers (cost, revenue, credit, mean) show their working, and
-  MCQs whose options include "all of these" or "both" keep their printed order. Only the 14 public-exam
-  (theory) lessons of the NIOS syllabus bifurcation are included.
+  format (54 questions, 100 marks). Numerical answers (cost, revenue, credit, mean) show their working.
+  Only the 14 public-exam (theory) lessons of the NIOS syllabus bifurcation are included.
+- All of these builders share `build_question` in `tools/build_ss.py`. It marks an MCQ `fixed` (options
+  keep their printed order instead of being shuffled) when an option refers to the others, such as
+  "all of these", "none of the above" or "both (A) and (B)".

@@ -239,10 +239,10 @@
             "A is false but R is true."
           ],
           "answer": "B",
+          "fixed": true,
           "years": [
             "April 2026"
-          ],
-          "fixed": true
+          ]
         },
         {
           "id": "2.2",
@@ -255,10 +255,10 @@
             "A is false but R is true."
           ],
           "answer": "A",
+          "fixed": true,
           "years": [
             "April 2026"
-          ],
-          "fixed": true
+          ]
         },
         {
           "id": "2.3",
@@ -271,10 +271,10 @@
             "A is false but R is true."
           ],
           "answer": "A",
+          "fixed": true,
           "years": [
             "October 2025"
-          ],
-          "fixed": true
+          ]
         },
         {
           "id": "2.4",
@@ -287,10 +287,10 @@
             "A is false but R is true."
           ],
           "answer": "A",
+          "fixed": true,
           "years": [
             "October 2025"
-          ],
-          "fixed": true
+          ]
         },
         {
           "id": "2.5",

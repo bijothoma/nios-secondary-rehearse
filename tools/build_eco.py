@@ -11,26 +11,11 @@ The April 2026 paper (54 questions, 100 marks) has: 20 MCQs; fifteen 2-mark obje
 of two 1-mark parts; 11 very short (2), 6 short (3) and 2 long (5) answer questions, with internal
 choices. There is no passage section.
 """
-import re
 import sys
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import build_sci  # noqa: E402
-
-COMBINED = re.compile(r'\b(all of|both|neither|none of)\b|\(A\) and \(B\)', re.I)
-
-
-def build_question(item, qid):
-    """Keep printed option order when an option refers to the others ('all of these', 'both')."""
-    q = build_ss_question(item, qid)
-    if q['type'] == 'mcq' and any(COMBINED.search(o) for o in q['options']):
-        q['fixed'] = True
-    return q
-
-
-build_ss_question = build_sci.build_question
-build_sci.build_question = build_question
 
 build_sci.SUBJECT = 'economics'
 build_sci.NAME = 'Economics'

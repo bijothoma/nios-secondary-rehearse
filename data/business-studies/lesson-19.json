@@ -145,6 +145,7 @@
             "all of the above"
           ],
           "answer": "A",
+          "fixed": true,
           "years": [
             "April 2025"
           ]
@@ -175,6 +176,7 @@
             "none of the above"
           ],
           "answer": "B",
+          "fixed": true,
           "years": [
             "April 2024",
             "October 2021",
@@ -208,6 +210,7 @@
             "none of these"
           ],
           "answer": "C",
+          "fixed": true,
           "years": [
             "April 2024"
           ]

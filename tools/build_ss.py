@@ -19,6 +19,7 @@ three full papers (51 questions, April 2026 layout) are drawn from all chapters 
 repeating a question between them.
 """
 import json
+import re
 import sys
 from pathlib import Path
 
@@ -64,6 +65,11 @@ INSTRUCTIONS_CHAPTER = [
 ]
 
 
+# An option that refers to the others ('all of these', 'both (A) and (B)') only makes sense in printed order.
+COMBINED = re.compile(r'\b(all|none) of (these|those|the above|them)\b|\b(both|neither)\b|\bA and B\b'
+                      r'|\([A-D]\) (and|or|&) \([A-D]\)', re.I)
+
+
 def build_question(item, qid):
     if len(item) >= 3 and isinstance(item[1], list):
         q, options, answer = item[:3]
@@ -72,6 +78,8 @@ def build_question(item, qid):
         if len(set(options)) != len(options):
             raise ValueError(f'duplicate options in {qid}')
         out = {'id': qid, 'type': 'mcq', 'q': q, 'options': options, 'answer': answer}
+        if any(COMBINED.search(o) for o in options):
+            out['fixed'] = True
         rest = item[3:]
     else:
         q, answer = item[:2]

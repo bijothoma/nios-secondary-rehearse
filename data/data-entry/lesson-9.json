@@ -230,10 +230,10 @@
             "A is false but R is true."
           ],
           "answer": "A",
+          "fixed": true,
           "years": [
             "October 2022"
-          ],
-          "fixed": true
+          ]
         }
       ]
     },

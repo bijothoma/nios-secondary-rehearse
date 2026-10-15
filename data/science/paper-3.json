@@ -117,6 +117,7 @@
             "Light is totally reflected in A"
           ],
           "answer": "B",
+          "fixed": true,
           "years": [
             "October 2025"
           ],
@@ -149,6 +150,7 @@
             "perpendicular to the field but parallel to the current"
           ],
           "answer": "B",
+          "fixed": true,
           "note": "Lesson 17."
         },
         {
@@ -411,7 +413,8 @@
             "both oxygen and water",
             "neither"
           ],
-          "answer": "C"
+          "answer": "C",
+          "fixed": true
         }
       ],
       "fixed": true,

@@ -297,11 +297,11 @@
             "A is false but R is true."
           ],
           "answer": "C",
+          "fixed": true,
           "years": [
             "April 2024"
           ],
-          "note": "Ctrl+Shift+A makes text ALL CAPS; you deselect by clicking elsewhere or pressing an arrow key.",
-          "fixed": true
+          "note": "Ctrl+Shift+A makes text ALL CAPS; you deselect by clicking elsewhere or pressing an arrow key."
         },
         {
           "id": "2.2",
@@ -314,11 +314,11 @@
             "A is false but R is true."
           ],
           "answer": "A",
+          "fixed": true,
           "years": [
             "April 2024",
             "April 2025"
-          ],
-          "fixed": true
+          ]
         },
         {
           "id": "2.3",
@@ -331,10 +331,10 @@
             "A is false but R is true."
           ],
           "answer": "D",
+          "fixed": true,
           "years": [
             "April 2024"
-          ],
-          "fixed": true
+          ]
         },
         {
           "id": "2.4",
@@ -347,10 +347,10 @@
             "A is false but R is true."
           ],
           "answer": "D",
+          "fixed": true,
           "years": [
             "October 2024"
-          ],
-          "fixed": true
+          ]
         },
         {
           "id": "2.5",
@@ -363,10 +363,10 @@
             "A is false but R is true."
           ],
           "answer": "A",
+          "fixed": true,
           "years": [
             "October 2024"
-          ],
-          "fixed": true
+          ]
         },
         {
           "id": "2.6",
@@ -379,10 +379,10 @@
             "A is false but R is true."
           ],
           "answer": "C",
+          "fixed": true,
           "years": [
             "April 2025"
-          ],
-          "fixed": true
+          ]
         },
         {
           "id": "2.7",
@@ -395,10 +395,10 @@
             "A is false but R is true."
           ],
           "answer": "C",
+          "fixed": true,
           "years": [
             "April 2024"
-          ],
-          "fixed": true
+          ]
         }
       ]
     },

@@ -143,11 +143,11 @@
             "A is false but R is true."
           ],
           "answer": "A",
+          "fixed": true,
           "years": [
             "April 2024",
             "April 2025"
           ],
-          "fixed": true,
           "note": "Lesson 4."
         },
         {
@@ -161,11 +161,11 @@
             "A is false but R is true."
           ],
           "answer": "D",
+          "fixed": true,
           "years": [
             "October 2024"
           ],
-          "note": "=SUM(A10, A20) adds only the two cells A10 and A20. Lesson 8.",
-          "fixed": true
+          "note": "=SUM(A10, A20) adds only the two cells A10 and A20. Lesson 8."
         }
       ]
     },
