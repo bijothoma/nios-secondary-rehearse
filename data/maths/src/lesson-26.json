@@ -23,7 +23,7 @@
     ["The probability of guessing a correct answer is x/6. If the probability of not guessing it correctly is 2/3, then x is —", ["2", "3", "4", "6"], "A", ["October 2025"], {"work": "x/6 + 2/3 = 1 ⇒ x/6 = 1/3 ⇒ x = 2."}],
     ["The probability of an impossible event is —", ["1", "0", "1/2", "−1"], "B", ["April 2024"], {"work": "No outcome is favourable, so P = 0/n = 0."}],
     ["Which of the following cannot be a probability?", ["0.3", "1/2", "1", "5/4"], "D", ["October 2024"], {"work": "5/4 is greater than 1, and no probability can exceed 1."}],
-    ["Two dice are thrown together. The probability of the same number on both is —", ["1/36", "1/6", "1", "5/6"], "B", ["October 2016"], {"work": "Favourable: (1,1), (2,2), …, (6,6) = 6. Total 36. P = 6/36 = 1/6."}],
+    ["Two dice are thrown together. The probability of the same number on both is —", ["1/36", "1/6", "1", "5/6"], "B", ["October 2016", "October 2019"], {"work": "Favourable: (1,1), (2,2), …, (6,6) = 6. Total 36. P = 6/36 = 1/6."}],
     ["A die is thrown once. The probability of a number greater than 4 is —", ["1/6", "1/3", "1/2", "2/3"], "B", ["April 2024"], {"work": "5 and 6: 2 outcomes of 6 ⇒ 2/6 = 1/3."}],
     ["A card is drawn from a pack of 52. The probability that it is an ace is —", ["1/52", "1/13", "1/4", "4/13"], "B", ["October 2017"], {"work": "There are 4 aces: P = 4/52 = 1/13."}],
     ["A coin is tossed twice. The probability of at least one tail is —", ["1/4", "1/2", "3/4", "1"], "C", ["April 2025"], {"work": "Outcomes HH, HT, TH, TT. At least one tail: HT, TH, TT = 3 of 4 ⇒ 3/4."}]
@@ -50,7 +50,7 @@
     ["A card is drawn from a well-shuffled pack of 52. Find the probability of (i) the queen of hearts (ii) not a jack.", "(i) Only one queen of hearts: 1/52.\n(ii) 4 jacks, so 48 non-jacks: 48/52 = 12/13.", ["October 2025"]],
     ["A coin is tossed two times. Find the probability of getting at most one head.", "Outcomes HH, HT, TH, TT. At most one head: HT, TH, TT = 3.\nP = 3/4.", ["October 2022"]],
     ["Two different dice are rolled together. Find the probability of an even number on both.", "Each die has 3 even numbers: 3 × 3 = 9 favourable of 36.\nP = 9/36 = 1/4.", ["April 2022"]],
-    ["Two dice are thrown together. Find the probability of the same number on both.", "Favourable: (1,1), (2,2), (3,3), (4,4), (5,5), (6,6) = 6 of 36.\nP = 1/6.", ["October 2019"]],
+    ["Two dice are thrown together. Find the probability that the sum of the numbers is 8.", "Total outcomes = 6 × 6 = 36.\nSum 8: (2,6), (3,5), (4,4), (5,3), (6,2) = 5 outcomes.\nP(sum 8) = 5/36."],
     ["A card is drawn from a pack of 52. Find the probability of (i) a king of red colour (ii) the queen of diamonds.", "(i) Red kings: hearts and diamonds = 2 ⇒ 2/52 = 1/26.\n(ii) 1/52.", ["April 2022"]]
   ],
   "sa": [

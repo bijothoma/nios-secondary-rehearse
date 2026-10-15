@@ -48,17 +48,14 @@
         {
           "id": "1.3",
           "type": "mcq",
-          "q": "The number of chromosomes stays constant from generation to generation because of —",
+          "q": "Of the 46 chromosomes in a child's body cell, the child receives —",
           "options": [
-            "doubling of chromosomes in the zygote",
-            "halving of chromosomes during gamete formation",
-            "mitosis in body cells",
-            "replication of DNA"
+            "all 46 from the mother",
+            "all 46 from the father",
+            "23 from each parent",
+            "23 from the mother only"
           ],
-          "answer": "B",
-          "years": [
-            "October 2021"
-          ]
+          "answer": "C"
         },
         {
           "id": "1.4",

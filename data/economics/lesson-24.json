@@ -291,12 +291,9 @@
           "q": "Why is consumer awareness needed?",
           "answer": "The market is flooded with goods and sellers, advertisements mislead, expiry dates and bills are often skipped, and consumers are unorganised. So they must know their rights to avoid being cheated, and their duties to avoid waste.",
           "years": [
-            "October 2024"
-          ],
-          "or": {
-            "q": "Describe the consumer redressal system in India in brief.",
-            "answer": "It has three tiers of consumer courts: District Forums (up to ₹20 lakh), State Commissions (up to ₹1 crore) and the National Commission (above ₹1 crore). They give cheap, quick relief under the CPA 1986."
-          }
+            "October 2024",
+            "April 2023"
+          ]
         },
         {
           "id": "3.5",
@@ -385,7 +382,7 @@
     {
       "no": 5,
       "title": "Long answer questions. Answer in 80–120 words.",
-      "marks": "5 × 5 = 25",
+      "marks": "4 × 5 = 20",
       "questions": [
         {
           "id": "5.1",
@@ -413,15 +410,6 @@
         {
           "id": "5.3",
           "type": "open",
-          "q": "Why is consumer awareness needed today?",
-          "answer": "(1) The market is flooded with goods and sellers, so genuine products are hard to identify.\n(2) Advertisements mislead by hiding information.\n(3) Expiry dates and full information are often not given.\n(4) Goods are sold without bills to avoid VAT, leaving consumers without proof.\n(5) Consumers are unorganised while producers are organised.\n(6) Consumers must also learn their responsibilities: avoid wasteful consumption, dispose of waste safely and demand bills.",
-          "years": [
-            "April 2023"
-          ]
-        },
-        {
-          "id": "5.4",
-          "type": "open",
           "q": "What kinds of knowledge are needed for consumer awareness?",
           "answer": "(1) Knowledge of the product's quality — whether it is good for health and safe for the environment.\n(2) Education about the hazards of marketing — misleading advertisements must be verified.\n(3) Knowledge of consumer rights — to get the right product and to claim compensation under the law if it is faulty.\n(4) Knowledge of the consumer's own responsibilities — no wasteful or unnecessary consumption, demanding a bill, being a green consumer.",
           "years": [
@@ -429,7 +417,7 @@
           ]
         },
         {
-          "id": "5.5",
+          "id": "5.4",
           "type": "open",
           "q": "How does the Consumer Protection Act 1986 provide support and guidance to consumers?",
           "answer": "(1) It gives cheap, simple and quick justice, with less paperwork and less delay.\n(2) It applies to all goods and services in the private, public and cooperative sectors, including municipal services.\n(3) It sets up three-tier consumer courts and protection councils.\n(4) Consumers can choose where to seek redressal, and a company cannot insist on its own court.\n(5) It covers real estate developers and foreign e-commerce sellers, and it guarantees rights to information, choice, safety, being heard, redressal and education.",

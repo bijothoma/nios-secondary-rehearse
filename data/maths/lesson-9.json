@@ -240,8 +240,8 @@
             "April 2024"
           ],
           "or": {
-            "q": "A TV costs ₹20,000 cash or ₹5,000 down and ₹15,500 after 4 months. Find the rate of interest.",
-            "answer": "Balance = 20000 − 5000 = ₹15,000; interest = 15500 − 15000 = ₹500 for 4 months.\n500 = 15000 × R × (4/12)/100 = 50R ⇒ R = 10% per annum."
+            "q": "A mixer costs ₹8,000 cash or ₹2,000 down and ₹6,240 after 3 months. Find the rate of interest.",
+            "answer": "Balance = 8000 − 2000 = ₹6,000; interest = 6240 − 6000 = ₹240 for 3 months.\n240 = 6000 × R × (3/12)/100 = 15R ⇒ R = 16% per annum."
           }
         },
         {

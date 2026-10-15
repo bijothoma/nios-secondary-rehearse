@@ -355,18 +355,15 @@
             "October 2025"
           ],
           "or": {
-            "q": "Mention any three differences between wholesalers and retailers.",
-            "answer": "Quantity: wholesalers deal in bulk; retailers in small quantities.\nCapital: wholesalers need more; retailers less.\nContact with consumers: wholesalers have none; retailers have direct contact."
+            "q": "State any three services of wholesalers to manufacturers.",
+            "answer": "(1) Bulk buying — they buy in large quantities, so the manufacturer is spared many small orders.\n(2) Storage — they keep goods in their own warehouses, relieving the manufacturer of storage.\n(3) Finance and information — they often pay in cash or in advance and pass on market information about demand and tastes."
           }
         },
         {
           "id": "4.3",
           "type": "open",
-          "q": "State any three differences between wholesalers and retailers.",
-          "answer": "(1) Buying: wholesalers buy from producers in bulk; retailers buy from wholesalers in small quantities.\n(2) Variety: wholesalers deal in a limited line; retailers in a wide range.\n(3) Purpose of sale: wholesalers sell for resale; retailers sell for consumption.",
-          "years": [
-            "April 2024"
-          ]
+          "q": "What services do wholesalers provide to retailers? State any three.",
+          "answer": "(1) Ready supply — retailers can get a variety of goods from one wholesaler in small lots whenever needed.\n(2) Credit facility — wholesalers often sell on credit, so retailers need less capital.\n(3) Information — they tell retailers about new products, prices and market trends.\n(4) Less risk of storage — retailers need not keep large stocks."
         },
         {
           "id": "4.4",
@@ -429,7 +426,8 @@
           "q": "State any six differences between wholesalers and retailers.",
           "answer": "(1) Quantity — bulk vs small.\n(2) Buy from — producers vs wholesalers.\n(3) Variety — limited line vs wide range.\n(4) Capital — more vs less.\n(5) Sale — for resale vs for consumption.\n(6) Contact with consumers — none vs direct.\n(7) Decoration of shop — little vs much.",
           "years": [
-            "April 2021"
+            "April 2021",
+            "April 2024"
           ]
         }
       ]

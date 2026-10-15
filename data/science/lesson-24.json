@@ -445,11 +445,8 @@
         {
           "id": "5.5",
           "type": "open",
-          "q": "Describe the types of asexual reproduction in lower organisms with an example each.",
-          "answer": "Binary fission — the parent cell divides into two (Amoeba, bacteria). Budding — a bud forms on the parent and separates (yeast, Hydra). Spore formation — the cell divides into many spores, each growing into a new individual (Chlamydomonas, fungi).",
-          "years": [
-            "October 2021"
-          ]
+          "q": "What is micropropagation (tissue culture)? State two of its advantages.",
+          "answer": "Micropropagation is growing many plants from a small piece of plant tissue in a nutrient medium. Every plant cell is totipotent: the tissue forms an undifferentiated mass, the callus, which with hormones grows into plantlets.\nAdvantages: a large number of identical plants is obtained quickly from a small piece of tissue; disease-free plants can be raised in any season, including plants that do not produce viable seeds."
         }
       ]
     },
@@ -461,10 +458,11 @@
         {
           "id": "6.1",
           "type": "open",
-          "q": "Describe the types of asexual reproduction in lower organisms with diagrams.",
+          "q": "Describe the types of asexual reproduction in lower organisms with diagrams and an example each.",
           "answer": "(1) Binary fission: in Amoeba and bacteria the nucleus divides, then the cytoplasm, giving two daughter cells; the parent loses its identity. (2) Budding: in yeast a bud forms from the mother cell and the elongated nucleus divides, one part entering the bud; in Hydra a bud develops all body parts and detaches. (3) Spore formation: in Chlamydomonas the nucleus and cytoplasm divide to form 4–8 spores, each of which grows into a new individual on release; spores also form in fungi, mosses and ferns. Diagrams show each process.",
           "years": [
-            "October 2019"
+            "October 2019",
+            "October 2021"
           ]
         },
         {

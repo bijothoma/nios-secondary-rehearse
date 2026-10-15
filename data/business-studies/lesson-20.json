@@ -361,23 +361,20 @@
         {
           "id": "4.4",
           "type": "open",
-          "q": "State any three qualities of a successful entrepreneur.",
-          "answer": "(1) Initiative — taking prompt action on opportunities.\n(2) Willingness to take risk.\n(3) Self-confidence and decision-making ability.",
+          "q": "What factors would you consider if you start a small enterprise to produce paper cups?",
+          "answer": "(1) Finance — fixed capital for machines and working capital for paper and wages.\n(2) Location — near suppliers of paper and near the market (hotels, tea stalls), with power and transport.\n(3) Availability of labour, technology and machinery; demand in the market; legal formalities.",
           "years": [
             "April 2024"
-          ],
-          "or": {
-            "q": "What factors would you consider if you start a small enterprise to produce paper cups?",
-            "answer": "(1) Finance — fixed capital for machines and working capital for paper and wages.\n(2) Location — near suppliers of paper and near the market (hotels, tea stalls), with power and transport.\n(3) Availability of labour, technology and machinery; demand in the market; legal formalities."
-          }
+          ]
         },
         {
           "id": "4.5",
           "type": "open",
           "q": "Describe any four qualities of a successful entrepreneur.",
-          "answer": "(1) Initiative. (2) Willingness to assume risk. (3) Ability to learn from experience. (4) Motivation. (Also self-confidence and decision-making ability.)",
+          "answer": "(1) Initiative — taking prompt action on opportunities.\n(2) Willingness to assume risk.\n(3) Ability to learn from experience.\n(4) Motivation, self-confidence and decision-making ability.",
           "years": [
-            "April 2021"
+            "April 2021",
+            "April 2024"
           ]
         }
       ]
@@ -409,11 +406,7 @@
           "years": [
             "April 2025",
             "October 2022"
-          ],
-          "or": {
-            "q": "Who is an entrepreneur? Explain any four functions of an entrepreneur.",
-            "answer": "An entrepreneur is a person who identifies a business opportunity, sets up and manages an enterprise and bears its risk.\nFunctions: identifying opportunities; turning ideas into action and feasibility study; resourcing; setting up and managing the enterprise; growth and development."
-          }
+          ]
         },
         {
           "id": "5.3",

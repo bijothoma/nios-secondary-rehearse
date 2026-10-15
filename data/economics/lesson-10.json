@@ -79,18 +79,15 @@
         {
           "id": "1.5",
           "type": "mcq",
-          "q": "Firms A, B and C supply 10 kg, 15 kg and 20 kg of a commodity at ₹100. The market supply is —",
+          "q": "At ₹3,000 a quintal, firms X, Y and Z supply 8, 10 and 15 quintals of sugar. The market supply is —",
           "options": [
-            "20 kg",
-            "35 kg",
-            "45 kg",
-            "100 kg"
+            "15 quintals",
+            "18 quintals",
+            "33 quintals",
+            "3,000 quintals"
           ],
           "answer": "C",
-          "years": [
-            "October 2025"
-          ],
-          "work": "Market supply = 10 + 15 + 20 = 45 kg."
+          "work": "Market supply = sum of individual supplies = 8 + 10 + 15 = 33 quintals."
         },
         {
           "id": "1.6",

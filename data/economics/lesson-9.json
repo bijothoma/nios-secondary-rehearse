@@ -353,21 +353,10 @@
     {
       "no": 4,
       "title": "Short answer questions. Answer in 50–80 words.",
-      "marks": "5 × 3 = 15",
+      "marks": "4 × 3 = 12",
       "questions": [
         {
           "id": "4.1",
-          "type": "open",
-          "q": "Explain how the prices of related goods affect demand.",
-          "answer": "Substitutes (tea and coffee, Coke and Pepsi) are used in place of each other. If the price of coffee rises, demand for tea rises — a direct relation.\nComplements (car and petrol, pen and ink) are used together. If the price of petrol rises, demand for cars falls — an inverse relation.",
-          "years": [
-            "October 2017",
-            "April 2023",
-            "April 2024"
-          ]
-        },
-        {
-          "id": "4.2",
           "type": "open",
           "q": "How do climatic conditions affect market demand?",
           "answer": "Market demand changes with the season.\nIn summer, demand rises for ice, cold drinks, coolers and cotton clothes.\nIn the rainy season, demand rises for umbrellas and raincoats.\nIn winter, demand rises for woollens and heaters.\nSo the same good is in high demand in one season and low demand in another.",
@@ -377,7 +366,7 @@
           ]
         },
         {
-          "id": "4.3",
+          "id": "4.2",
           "type": "open",
           "q": "Explain how the price of the commodity and the prices of related goods determine individual demand.",
           "answer": "Price of the commodity: at a lower price, more is bought; at a higher price, less is bought (the law of demand).\nRelated goods: demand moves with the price of a substitute (dearer coffee → more tea) and against the price of a complement (dearer petrol → fewer cars).",
@@ -387,7 +376,7 @@
           ]
         },
         {
-          "id": "4.4",
+          "id": "4.3",
           "type": "open",
           "q": "What are the factors affecting individual demand?",
           "answer": "(1) Price of the commodity.\n(2) Prices of related goods — substitutes and complements.\n(3) Income of the buyer — normal and inferior goods.\n(4) Tastes, preferences and fashion.",
@@ -397,7 +386,7 @@
           ]
         },
         {
-          "id": "4.5",
+          "id": "4.4",
           "type": "open",
           "q": "Explain the law of demand on the basis of diminishing marginal utility.",
           "answer": "As a person consumes more units of a good, the satisfaction from each extra unit falls. The first chapati gives most satisfaction, the second less, and so on.\nA buyer pays only as much as the satisfaction is worth, so they buy more units only at a lower price.\nSo quantity demanded rises as price falls — the law of demand.",
@@ -453,7 +442,10 @@
           "q": "Explain how the prices of related goods determine demand.",
           "answer": "Related goods are substitutes or complements.\nSubstitutes can be used in place of each other — tea and coffee, Coke and Pepsi. If the price of coffee rises, people switch to tea and demand for tea rises; if coffee becomes cheaper, demand for tea falls. So demand is directly related to the price of a substitute.\nComplements are used together — car and petrol, pen and ink. If petrol becomes dearer, demand for cars falls; if it becomes cheaper, demand for cars rises. So demand is inversely related to the price of a complement.",
           "years": [
-            "October 2019"
+            "October 2019",
+            "October 2017",
+            "April 2023",
+            "April 2024"
           ]
         }
       ]
