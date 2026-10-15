@@ -1,0 +1,231 @@
+{
+  "subject": "sr-maths",
+  "lesson": 31,
+  "title": "Definite Integrals",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Every answer shows the working. Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "5 × 1 = 5",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "∫₀¹ x/(x² + 1) dx is equal to —",
+          "options": [
+            "½",
+            "log 2",
+            "2 log 2",
+            "½ log 2"
+          ],
+          "answer": "D",
+          "years": [
+            "April 2026"
+          ],
+          "work": "Put t = x² + 1, dt = 2x dx: ½∫₁² dt/t = ½(log 2 − log 1) = ½ log 2."
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "∫₋ₐᵃ x e^(x²)/(1 + x²) dx is —",
+          "options": [
+            "0",
+            "2a",
+            "e^(a²)",
+            "1"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2024"
+          ],
+          "work": "The integrand changes sign when x → −x: it is odd, so the integral over [−a, a] is 0."
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "∫₀^(π/4) sin 2x dx is —",
+          "options": [
+            "1",
+            "½",
+            "0",
+            "2"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2024"
+          ],
+          "work": "[−cos 2x/2]₀^(π/4) = −(cos(π/2))/2 + (cos 0)/2 = 0 + ½ = ½."
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "∫₀^(π/2) cos³x/(sin³x + cos³x) dx is —",
+          "options": [
+            "0",
+            "π/4",
+            "π/2",
+            "1"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2024"
+          ],
+          "work": "I = ∫ sin³x/(sin³x + cos³x) dx too (x → π/2 − x). Adding: 2I = π/2 ⇒ I = π/4."
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "The area bounded by y = x³, x = 0, x = 1 and y = 0 is —",
+          "options": [
+            "¼",
+            "½",
+            "1",
+            "1/3"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2025"
+          ],
+          "work": "∫₀¹ x³dx = [x⁴/4]₀¹ = ¼."
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions of two 1-mark parts.",
+      "marks": "2 × 2 = 4",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "True or False: (a) ∫₂³ 3ˣ dx = 18. (b) ∫_(−½)^(½) cos x log((1 + x)/(1 − x)) dx = 1.",
+          "answer": "(a) False — [3ˣ/log 3]₂³ = (27 − 9)/log 3 = 18/log 3.\n(b) False — cos x is even and log((1 + x)/(1 − x)) is odd, so the product is odd and the integral is 0.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "True or False: (a) ∫ₐᵇ f(x)dx = ∫ₐᵇ f(a + b − x)dx. (b) ∫₀² 3ˣ dx = 8/log 3.",
+          "answer": "(a) True.\n(b) True — (3² − 3⁰)/log 3 = 8/log 3.",
+          "years": [
+            "October 2024",
+            "April 2026"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Answer the following (2 marks each).",
+      "marks": "2 × 2 = 4",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "Evaluate ∫₀² 3ˣ dx.",
+          "answer": "[3ˣ/log 3]₀² = (9 − 1)/log 3 = 8/log 3.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "Find the area of the region bounded by y = x² and y = 4.",
+          "answer": "They meet at x = ±2. Area = ∫₋₂² (4 − x²)dx = [4x − x³/3]₋₂² = (8 − 8/3) − (−8 + 8/3) = 32/3.",
+          "years": [
+            "April 2025"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Answer the following (4 marks each).",
+      "marks": "4 × 4 = 16",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "Evaluate ∫₋₅⁵ |x + 2| dx.",
+          "answer": "x + 2 < 0 for x < −2.\n∫₋₅⁻² −(x + 2)dx = [−(x + 2)²/2]₋₅⁻² = 0 + 9/2 = 9/2.\n∫₋₂⁵ (x + 2)dx = [(x + 2)²/2]₋₂⁵ = 49/2.\nTotal = 9/2 + 49/2 = 29.",
+          "years": [
+            "April 2026"
+          ],
+          "or": {
+            "q": "Find the area enclosed by y = x² and y = x + 2.",
+            "answer": "x² = x + 2 ⇒ x = −1, 2.\nArea = ∫₋₁² (x + 2 − x²)dx = [x²/2 + 2x − x³/3]₋₁² = (2 + 4 − 8/3) − (½ − 2 + 1/3) = 10/3 + 7/6 = 9/2."
+          }
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "Evaluate ∫₀^(π/2) (sin x − cos x)/(1 + sin x cos x) dx.",
+          "answer": "Replace x by π/2 − x: I = ∫₀^(π/2) (cos x − sin x)/(1 + sin x cos x) dx = −I.\nSo 2I = 0 ⇒ I = 0.",
+          "years": [
+            "October 2024"
+          ],
+          "or": {
+            "q": "Evaluate ∫₋₃³ |x + 1| dx.",
+            "answer": "∫₋₃⁻¹ −(x + 1)dx = [−(x + 1)²/2]₋₃⁻¹ = 0 + 2 = 2.\n∫₋₁³ (x + 1)dx = [(x + 1)²/2]₋₁³ = 8.\nTotal = 10."
+          }
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "Evaluate ∫_(π/6)^(π/3) dx/(1 + √tan x).",
+          "answer": "I = ∫ √cos x/(√cos x + √sin x) dx. Replacing x by π/2 − x (which keeps the limits π/6, π/3) gives I = ∫ √sin x/(√sin x + √cos x) dx.\nAdding: 2I = ∫_(π/6)^(π/3) dx = π/6 ⇒ I = π/12.",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "Prove that y² = 4x and x² = 4y divide the square bounded by x = 0, x = 4, y = 4 and y = 0 into three equal parts.",
+          "answer": "The curves meet at (0, 0) and (4, 4).\nMiddle part: ∫₀⁴ (2√x − x²/4)dx = [(4/3)x^(3/2) − x³/12]₀⁴ = 32/3 − 16/3 = 16/3.\nLower part (under x² = 4y): ∫₀⁴ x²/4 dx = 16/3.\nUpper part = 16 − 16/3 − 16/3 = 16/3. All three are equal.",
+          "years": [
+            "April 2025"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Answer the following (6 marks each).",
+      "marks": "2 × 6 = 12",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "Evaluate ∫₂⁴ 2ˣ dx as the limit of a sum.",
+          "answer": "a = 2, b = 4, nh = 2. ∫ = lim h→0 h[2² + 2^(2+h) + … + 2^(2+(n−1)h)] = lim 4h(2^(nh) − 1)/(2^h − 1)\n= 4(2² − 1) lim h/(2^h − 1) = 12 × 1/log 2 = 12/log 2.\nCheck: [2ˣ/log 2]₂⁴ = (16 − 4)/log 2 = 12/log 2.",
+          "years": [
+            "October 2025"
+          ],
+          "or": {
+            "q": "Find the area of the smaller region bounded by x²/a² + y²/b² = 1 and x/a + y/b = 1.",
+            "answer": "Quarter ellipse area = πab/4. Triangle under the line from (a, 0) to (0, b) has area ab/2.\nSmaller region = πab/4 − ab/2 = (π − 2)ab/4."
+          }
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "Find the smaller area enclosed by the circle x² + y² = 4 and the line x + y = 2.",
+          "answer": "The line meets the circle at (2, 0) and (0, 2).\nArea = ∫₀² [√(4 − x²) − (2 − x)]dx = [quarter circle] − [triangle] = π − 2.",
+          "years": [
+            "January-February 2021"
+          ]
+        }
+      ]
+    }
+  ]
+}

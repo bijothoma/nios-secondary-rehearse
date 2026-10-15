@@ -1,0 +1,96 @@
+{
+  "subject": "sr-maths",
+  "lesson": 13,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 13: Cartesian System of Rectangular Co-ordinates — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Distance formula"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "The distance between P(x₁, y₁) and Q(x₂, y₂) is PQ = √[(x₂ − x₁)² + (y₂ − y₁)²]. It is used to test the type of a triangle: equal sides (isosceles or equilateral) and Pythagoras (right-angled)."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Section formula"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "The point dividing the join of (x₁, y₁) and (x₂, y₂) internally in the ratio m : n is ((mx₂ + nx₁)/(m + n), (my₂ + ny₁)/(m + n)). Externally, use m − n in place of m + n and −n in place of n. The midpoint is ((x₁ + x₂)/2, (y₁ + y₂)/2)."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "To find the ratio in which an axis divides a segment, take the ratio as k : 1 and set the other coordinate to zero. A negative k means external division."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Area of a triangle"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Area = ½|x₁(y₂ − y₃) + x₂(y₃ − y₁) + x₃(y₁ − y₂)|. Three points are collinear when this area is zero."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Centroid and slope"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "The centroid of a triangle is ((x₁ + x₂ + x₃)/3, (y₁ + y₂ + y₃)/3). The slope of the line joining two points is m = (y₂ − y₁)/(x₂ − x₁) = tan θ, where θ is the angle the line makes with the positive x-axis."
+        ]
+      ]
+    }
+  ]
+}

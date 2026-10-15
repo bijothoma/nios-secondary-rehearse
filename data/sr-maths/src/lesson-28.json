@@ -1,0 +1,35 @@
+{
+ "lesson": 28,
+ "title": "Differentiation of Exponential and Logarithmic Functions",
+ "module": 8,
+ "summary": [
+  "## Basic derivatives",
+  "d/dx eˣ = eˣ; d/dx aˣ = aˣ log a; d/dx log x = 1/x (x > 0). With the chain rule: d/dx e^(f(x)) = e^(f(x)) f'(x) and d/dx log f(x) = f'(x)/f(x). For example d/dx log(2x + 3) = 2/(2x + 3).",
+  "Simplify first: e^(−3 log x) = x⁻³, so its derivative is −3x⁻⁴.",
+  "## Logarithmic differentiation",
+  "For y = u^v (variable base and power), take logs: log y = v log u, then differentiate: (1/y) dy/dx = v' log u + v u'/u. Example: d/dx(xˣ) = xˣ(1 + log x).",
+  "## Parametric and second derivatives",
+  "For y = Ae^(kx) + Be^(−kx), y'' = k²y. Example: y = 500e^(7x) + 600e^(−7x) gives y'' = 49y.",
+  "Derivative of sin x with respect to log x = (cos x)/(1/x) = x cos x."
+ ],
+ "mcq": [
+  ["If y = log(2x + 3), then dy/dx is —", ["1/(2x + 3)", "(2x + 3)²", "2/(2x + 3)", "1/(2(2x + 3))"], "C", ["April 2026"], {"work": "d/dx log u = u'/u = 2/(2x + 3)."}],
+  ["If y = e^(−3 log x), then dy/dx is —", ["−3/x", "−3/x²", "−3/x⁴", "−3x"], "C", ["April 2025"], {"work": "e^(−3 log x) = e^(log x⁻³) = x⁻³ ⇒ dy/dx = −3x⁻⁴."}],
+  ["The derivative of sin x with respect to log x is —", ["cos x/x", "x cos x", "1/(x cos x)", "x/cos x"], "B", ["April 2024", "April 2025"], {"work": "(d sin x/dx)/(d log x/dx) = cos x/(1/x) = x cos x."}],
+  ["d/dx(2ˣ) is —", ["x 2ˣ⁻¹", "2ˣ log 2", "2ˣ", "2ˣ/log 2"], "B", {"work": "d/dx aˣ = aˣ log a."}],
+  ["d/dx(e^(x²)) is —", ["e^(x²)", "2x e^(x²)", "x² e^(x²−1)", "2e^(x²)"], "B", {"work": "Chain rule: e^(x²) × 2x."}]
+ ],
+ "objective": [
+  ["Fill in the blanks: (a) If y = e^(sin⁻¹x), then dy/dx = ______. (b) d/dx(xˣ) = ______.", "(a) e^(sin⁻¹x) × 1/√(1 − x²).\n(b) log y = x log x ⇒ y'/y = log x + 1 ⇒ xˣ(1 + log x).", ["April 2026", "April 2025"]],
+  ["True or False: (a) If y = 500e^(7x) + 600e^(−7x), then d²y/dx² = 49y. (b) d/dx(log x²) = 1/x².", "(a) True: y' = 3500e^(7x) − 4200e^(−7x), y'' = 24500e^(7x) + 29400e^(−7x) = 49y.\n(b) False — log x² = 2 log x, derivative 2/x.", ["April 2025"]]
+ ],
+ "vsa": [
+  ["If y = eˣ log(1 + x²), find dy/dx.", "Product rule: eˣ log(1 + x²) + eˣ × 2x/(1 + x²) = eˣ[log(1 + x²) + 2x/(1 + x²)].", ["October 2025"]],
+  ["If y = eˣ/x, find dy/dx.", "Quotient rule: (eˣ·x − eˣ·1)/x² = eˣ(x − 1)/x².", ["October 2024"]],
+  ["Find dy/dx for y = x^(x cos x).", "log y = x cos x log x.\n(1/y)y' = cos x log x − x sin x log x + cos x.\ny' = x^(x cos x)[cos x(1 + log x) − x sin x log x].", ["April 2024"]]
+ ],
+ "sa": [
+  ["If x = a(cos θ + log tan(θ/2)) and y = a sin θ, find d²y/dx².", "dx/dθ = a(−sin θ + 1/sin θ) = a cos²θ/sin θ. dy/dθ = a cos θ.\ndy/dx = a cos θ × sin θ/(a cos²θ) = tan θ.\nd²y/dx² = sec²θ × dθ/dx = sec²θ × sin θ/(a cos²θ) = sin θ/(a cos⁴θ).", ["April 2024"]]
+ ],
+ "la": []
+}

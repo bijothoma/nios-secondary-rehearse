@@ -1,0 +1,96 @@
+{
+  "subject": "sr-maths",
+  "lesson": 26,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 26: Differentiation — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Derivative from first principles"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "f'(x) = lim h→0 [f(x + h) − f(x)]/h. It is the slope of the tangent and the rate of change of f."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Rules"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "d/dx(xⁿ) = nxⁿ⁻¹; d/dx(c) = 0. Sum: (u ± v)' = u' ± v'. Product: (uv)' = u'v + uv'. Quotient: (u/v)' = (u'v − uv')/v². Chain rule: dy/dx = (dy/du)(du/dx), e.g. d/dx(1 − x²)⁵ = 5(1 − x²)⁴(−2x)."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Special methods"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Implicit functions: differentiate both sides treating y as a function of x, then collect dy/dx."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Parametric form: dy/dx = (dy/dt)/(dx/dt). For x = at², y = 2at: dy/dx = 2a/(2at) = 1/t."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Second derivative: d²y/dx² = d/dx(dy/dx). For parametric curves, d²y/dx² = [d/dt(dy/dx)]/(dx/dt) — for x = at², y = 2at it is −1/(2at³), not t."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Derivative of one function with respect to another: d(u)/d(v) = (du/dx)/(dv/dx)."
+        ]
+      ]
+    }
+  ]
+}

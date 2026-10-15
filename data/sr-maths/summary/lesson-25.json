@@ -1,0 +1,87 @@
+{
+  "subject": "sr-maths",
+  "lesson": 25,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 25: Limits and Continuity — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Limits"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "lim x→a f(x) = L means f(x) gets as close to L as we like when x is close to (but not equal to) a. The limit exists only if the left-hand and right-hand limits are equal."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Methods: direct substitution; factorise and cancel for 0/0 forms; rationalise expressions with square roots; use standard limits."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Standard limits"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "lim x→a (xⁿ − aⁿ)/(x − a) = naⁿ⁻¹. lim x→0 sin x/x = 1 (x in radians), so lim x→0 sin kx/x = k. lim x→0 (1 − cos x)/x² = ½. lim x→0 (eˣ − 1)/x = 1, so lim x→0 (e^(kx) − 1)/x = k. lim x→0 log(1 + x)/x = 1."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "lim x→3 |x − 3|/(x − 3) does not exist: the left limit is −1 and the right limit is +1."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Continuity"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "f is continuous at x = a if f(a) is defined and lim x→a f(x) = f(a), i.e. LHL = RHL = f(a). Polynomials, sin x, cos x, eˣ and |x| are continuous everywhere. To find an unknown constant, equate the limit to the value at the point."
+        ]
+      ]
+    }
+  ]
+}

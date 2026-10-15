@@ -1,0 +1,166 @@
+{
+ "lesson": 32,
+ "title": "Differential Equations",
+ "module": 8,
+ "summary": [
+  "## Order and degree",
+  "The order is the order of the highest derivative. The degree is the power of the highest-order derivative after the equation is made free of radicals and fractions in the derivatives. If a derivative appears inside log, sin etc., the degree is not defined.",
+  "Examples: (d²y/dx²)² + x⁶(dy/dx)⁴ = 0 has degree 2; (d²y/dx²)^(1/3) = x becomes d²y/dx² = x³, degree 1.",
+  "## Forming a differential equation",
+  "Differentiate as many times as there are arbitrary constants and eliminate them. y = a cos x + b sin x gives y'' + y = 0. A particular solution has no arbitrary constants; the general solution of an nth-order equation has n.",
+  "## Variables separable",
+  "Write f(y)dy = g(x)dx and integrate both sides. Example: dy/dx = e^(x+y) ⇒ e^(−y)dy = eˣdx ⇒ −e^(−y) = eˣ + C.",
+  "## Linear equations",
+  "dy/dx + Py = Q has integrating factor IF = e^(∫P dx), and solution y·IF = ∫Q·IF dx + C. For (x² − 1)dy/dx + 2xy = 2/(x² − 1), P = 2x/(x² − 1) and IF = x² − 1.",
+  "## Homogeneous equations",
+  "If dy/dx = F(y/x), put y = vx."
+ ],
+ "mcq": [
+  [
+   "The degree of d³y/dx³ + 3(dy/dx)² = y² log(d²y/dx²) is —",
+   [
+    "2",
+    "3",
+    "5",
+    "not defined"
+   ],
+   "D",
+   [
+    "April 2026"
+   ],
+   {
+    "work": "A derivative appears inside log, so the equation is not a polynomial in the derivatives: degree not defined."
+   }
+  ],
+  [
+   "The integrating factor of (x² − 1)dy/dx + 2xy = 2/(x² − 1) is —",
+   [
+    "2x",
+    "x² − 1",
+    "x − 1",
+    "1/(x² − 1)"
+   ],
+   "B",
+   [
+    "April 2025"
+   ],
+   {
+    "work": "Divide by x² − 1: P = 2x/(x² − 1). ∫P dx = log(x² − 1) ⇒ IF = x² − 1."
+   }
+  ],
+  [
+   "The degree of (d²y/dx²)² + x⁶(dy/dx)⁴ = 0 is —",
+   [
+    "2",
+    "4",
+    "6",
+    "10"
+   ],
+   "A",
+   [
+    "October 2024"
+   ],
+   {
+    "work": "Highest derivative is d²y/dx², with power 2."
+   }
+  ],
+  [
+   "The degree of 4(d²y/dx²)³ − 3d²y/dx² − 5(dy/dx)⁴ − 1 = 0 is —",
+   [
+    "1",
+    "3",
+    "4",
+    "2"
+   ],
+   "B",
+   [
+    "April 2024"
+   ],
+   {
+    "work": "Highest order is 2; its highest power is 3."
+   }
+  ],
+  [
+   "The integrating factor of dy/dx + 4y/x = 1/x is —",
+   [
+    "4x",
+    "x²",
+    "x⁴",
+    "4/x"
+   ],
+   "C",
+   [
+    "April 2024"
+   ],
+   {
+    "work": "P = 4/x ⇒ ∫P dx = 4 log x ⇒ IF = x⁴."
+   }
+  ]
+ ],
+ "objective": [
+  [
+   "(a) The distance between r·(i + j − k) + 4 = 0 and r·(i + j − k) + 5 = 0 is ______. (b) The order of y = dy/dx + (dy/dx)⁻¹ is ______.",
+   "(a) |5 − 4|/√3 = 1/√3.\n(b) Highest derivative is dy/dx ⇒ order 1.",
+   [
+    "April 2026"
+   ]
+  ],
+  [
+   "Fill in the blanks: (a) If y = √(sin³x), dy/dx = ______. (b) The order of x dx + y dy = 0 is ______.",
+   "(a) (3/2)√(sin x) cos x.\n(b) 1.",
+   [
+    "October 2024"
+   ]
+  ]
+ ],
+ "objective4": [
+  [
+   "Fill in the blanks: (i) The degree of (d²y/dx²)^(1/3) = x is ______. (ii) The differential equation with solution y = a cos x + b sin x is ______. (iii) The solution of dy/dx = e^(x+y) is e^y = ______. (iv) The number of arbitrary constants in a particular solution of a third-order equation is ______.",
+   "(i) Cube both sides: d²y/dx² = x³ ⇒ degree 1.\n(ii) y' = −a sin x + b cos x, y'' = −a cos x − b sin x = −y ⇒ y'' + y = 0.\n(iii) e^(−y)dy = eˣdx ⇒ −e^(−y) = eˣ + C ⇒ e^y = −1/(eˣ + C).\n(iv) 0.",
+   [
+    "October 2025",
+    "April 2026"
+   ]
+  ]
+ ],
+ "vsa": [
+  [
+   "Solve x dy/dx + 2y = x².",
+   "dy/dx + (2/x)y = x. IF = e^(∫2/x dx) = x².\nyx² = ∫x·x² dx = x⁴/4 + C ⇒ y = x²/4 + C/x².",
+   [
+    "April 2024"
+   ]
+  ],
+  [
+   "Find the general solution of log(dy/dx) = 2x + y.",
+   "dy/dx = e^(2x)e^y ⇒ e^(−y)dy = e^(2x)dx.\n−e^(−y) = e^(2x)/2 + C ⇒ e^(2x)/2 + e^(−y) = C.",
+   [
+    "April 2025"
+   ]
+  ]
+ ],
+ "sa": [
+  [
+   "Solve sec²y(1 + x²)dy + 2x tan y dx = 0, given y = π/4 when x = 1.",
+   "Separate: sec²y/tan y dy = −2x/(1 + x²) dx.\nlog|tan y| = −log(1 + x²) + log C ⇒ tan y (1 + x²) = C.\nAt x = 1, y = π/4: 1 × 2 = C ⇒ (1 + x²)tan y = 2.",
+   [
+    "April 2025"
+   ]
+  ],
+  [
+   "Solve dy/dx + y cot x = 2 cos x.",
+   "IF = e^(∫cot x dx) = sin x.\ny sin x = ∫2 cos x sin x dx = ∫sin 2x dx = −cos 2x/2 + C.",
+   [
+    "January-February 2021"
+   ]
+  ],
+  [
+   "Solve dy/dx = sin(x + y) + sin(x − y).",
+   "sin(x + y) + sin(x − y) = 2 sin x cos y.\nSeparate: sec y dy = 2 sin x dx.\nIntegrate: log|sec y + tan y| = −2 cos x + C, i.e. log|sec y + tan y| + 2 cos x = C.",
+   [
+    "January-February 2021"
+   ]
+  ]
+ ],
+ "la": []
+}

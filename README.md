@@ -96,6 +96,9 @@ The lesson then opens with a menu: Lesson, Lesson with translation, and the mode
 - `tools/build_phy.py`: builds Senior Secondary Physics (312) from `data/physics/src/lesson-<n>.json` with the
   same source format (43 questions, 80 marks) and registers it with `level` `senior-secondary`
   (`build_sci.LEVEL`). Only the 18 public-exam lessons of the NIOS syllabus bifurcation are included.
+- `tools/build_srmath.py`: builds Senior Secondary Mathematics (311) from `data/sr-maths/src/lesson-<n>.json`
+  (45 questions, 100 marks). Besides the usual blocks it has `objective4` (four 1-mark parts) and
+  `objective6` (six 1-mark parts). Every answer shows its working. Only the 23 public-exam lessons are included.
 - All of these builders share `build_question` in `tools/build_ss.py`. It marks an MCQ `fixed` (options
   keep their printed order instead of being shuffled) when an option refers to the others, such as
   "all of these", "none of the above" or "both (A) and (B)".

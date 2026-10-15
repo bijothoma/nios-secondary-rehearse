@@ -1,0 +1,78 @@
+{
+  "subject": "sr-maths",
+  "lesson": 37,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 37: Linear Programming — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "The problem"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "A linear programming problem (LPP) maximises or minimises a linear objective function Z = ax + by subject to linear constraints (inequalities) and x, y ≥ 0. The variables x, y are the decision variables."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Formulating"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Name the quantities to be decided, write the objective (profit to maximise or cost to minimise), and turn each resource limit or requirement into an inequality. Percentages become decimals: 10% nitrogen in x kg gives 0.1x."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Graphical method"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Draw each constraint as a line, shade the side that satisfies it, and find the feasible region common to all. The optimum of Z always occurs at a corner point of the feasible region (if it exists). Evaluate Z at every corner and pick the largest (max) or smallest (min) value. If two adjacent corners give the same optimum, every point on the segment joining them is optimal."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "For an unbounded region, a minimum found at a corner is valid only if the half-plane Z < that value has no point in common with the region."
+        ]
+      ]
+    }
+  ]
+}

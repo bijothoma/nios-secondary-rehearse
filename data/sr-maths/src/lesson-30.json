@@ -1,0 +1,161 @@
+{
+ "lesson": 30,
+ "title": "Integration",
+ "module": 8,
+ "summary": [
+  "## Integration as anti-differentiation",
+  "∫f(x)dx = F(x) + C where F'(x) = f(x). Standard results: ∫xⁿdx = xⁿ⁺¹/(n + 1) (n ≠ −1); ∫dx/x = log|x|; ∫eˣdx = eˣ; ∫aˣdx = aˣ/log a; ∫sin x dx = −cos x; ∫cos x dx = sin x; ∫sec²x dx = tan x; ∫cosec²x dx = −cot x; ∫sec x tan x dx = sec x; ∫cosec x cot x dx = −cosec x.",
+  "∫dx/(x² + a²) = (1/a)tan⁻¹(x/a); ∫dx/(x² − a²) = (1/2a)log|(x − a)/(x + a)|; ∫dx/√(a² − x²) = sin⁻¹(x/a).",
+  "## Substitution",
+  "If the integrand contains a function and its derivative, put t = that function. Examples: ∫cos√x/√x dx = 2 sin√x (t = √x); ∫(log x)²/x dx = (log x)³/3 (t = log x).",
+  "## By parts",
+  "∫u v dx = u∫v dx − ∫[u'∫v dx]dx (choose u by ILATE). ∫x cos x dx = x sin x + cos x + C. ∫eˣ[f(x) + f'(x)]dx = eˣf(x) + C.",
+  "## Partial fractions and simplification",
+  "Split rational functions, complete the square for quadratics, and use identities first: cos²x/(1 + sin x) = 1 − sin x; e^(3 log x) = x³."
+ ],
+ "mcq": [
+  [
+   "If ∫2ˣdx = f(x) + C, then f(x) is —",
+   [
+    "2ˣ",
+    "2x logₑ2",
+    "2ˣ/logₑ2",
+    "2ˣ⁺¹/(x + 1)"
+   ],
+   "C",
+   [
+    "April 2025"
+   ],
+   {
+    "work": "∫aˣdx = aˣ/log a."
+   }
+  ],
+  [
+   "∫cos²x/(1 + sin x) dx equals —",
+   [
+    "x − cos x + c",
+    "x + cos x + c",
+    "x + sin x + c",
+    "x − sin x + c"
+   ],
+   "B",
+   [
+    "April 2024"
+   ],
+   {
+    "work": "cos²x/(1 + sin x) = (1 − sin x)(1 + sin x)/(1 + sin x) = 1 − sin x.\n∫(1 − sin x)dx = x + cos x + c."
+   }
+  ],
+  [
+   "∫(log x)²/x dx equals —",
+   [
+    "(log x/3)³ + c",
+    "log x³/3 + c",
+    "(log x)³/3 + c",
+    "(log(x/3))³ + c"
+   ],
+   "C",
+   [
+    "April 2024"
+   ],
+   {
+    "work": "Put t = log x, dt = dx/x: ∫t²dt = t³/3 = (log x)³/3 + c."
+   }
+  ],
+  [
+   "∫sin x dx is —",
+   [
+    "cos x + c",
+    "−cos x + c",
+    "sin x + c",
+    "tan x + c"
+   ],
+   "B",
+   [
+    "April 2024"
+   ]
+  ],
+  [
+   "∫eˣ(1/x − 1/x²)dx equals —",
+   [
+    "eˣ/x + c",
+    "eˣ/x² + c",
+    "eˣ log x + c",
+    "−eˣ/x + c"
+   ],
+   "A",
+   [
+    "April 2026"
+   ],
+   {
+    "work": "f(x) = 1/x has f'(x) = −1/x², so ∫eˣ[f + f']dx = eˣf(x) = eˣ/x + c."
+   }
+  ]
+ ],
+ "objective": [
+  [
+   "Match: (a) ∫sin x dx; (b) ∫sec²x dx. [cos x + c, log(sin x) + c, tan x + c, −cos x + c]",
+   "(a) −cos x + c.\n(b) tan x + c.",
+   [
+    "April 2024"
+   ]
+  ],
+  [
+   "True or False: (a) ∫x cos x dx = x cos x + sin x + c. (b) ∫eˣ(2 log x + 2/x)dx = eˣ log x² + c.",
+   "(a) False — by parts: x sin x − ∫sin x dx = x sin x + cos x + c.\n(b) True — 2 log x = log x² and its derivative is 2/x, so the form eˣ[f + f'] applies.",
+   [
+    "October 2025"
+   ]
+  ]
+ ],
+ "objective4": [
+  [
+   "Evaluate: (i) ∫cos√x/√x dx; (ii) ∫e^(3 log x)·x⁴ dx; (iii) ∫sec²x/√(1 − tan²x) dx; (iv) ∫cosec x(cosec x + cot x)dx.",
+   "(i) t = √x, dt = dx/(2√x): 2∫cos t dt = 2 sin√x + c.\n(ii) e^(3 log x) = x³, so ∫x⁷dx = x⁸/8 + c.\n(iii) t = tan x: ∫dt/√(1 − t²) = sin⁻¹(tan x) + c.\n(iv) ∫(cosec²x + cosec x cot x)dx = −cot x − cosec x + c.",
+   [
+    "April 2024"
+   ]
+  ]
+ ],
+ "vsa": [
+  [
+   "Find ∫dx/(x² − 9).",
+   "∫dx/(x² − a²) = (1/2a)log|(x − a)/(x + a)| with a = 3:\n(1/6)log|(x − 3)/(x + 3)| + C.",
+   [
+    "April 2026"
+   ]
+  ],
+  [
+   "Find ∫sin⁻¹(cos x) dx.",
+   "sin⁻¹(cos x) = π/2 − x (0 ≤ x ≤ π).\n∫(π/2 − x)dx = πx/2 − x²/2 + C.",
+   [
+    "April 2026"
+   ]
+  ],
+  [
+   "Find ∫3ˣ5⁻ˣ dx.",
+   "3ˣ5⁻ˣ = (3/5)ˣ ⇒ ∫(3/5)ˣdx = (3/5)ˣ/log(3/5) + C.",
+   [
+    "October 2024"
+   ]
+  ],
+  [
+   "Find ∫dx/(x − √x).",
+   "Put t = √x, dx = 2t dt: ∫2t dt/(t² − t) = 2∫dt/(t − 1) = 2 log|√x − 1| + C."
+  ]
+ ],
+ "sa": [
+  [
+   "Find ∫x²/(x² + 6x + 12) dx.",
+   "x²/(x² + 6x + 12) = 1 − (6x + 12)/(x² + 6x + 12).\n6x + 12 = 3(2x + 6) − 6. So ∫ = x − 3 log(x² + 6x + 12) + 6∫dx/((x + 3)² + 3).\n= x − 3 log(x² + 6x + 12) + (6/√3)tan⁻¹((x + 3)/√3) + C\n= x − 3 log(x² + 6x + 12) + 2√3 tan⁻¹((x + 3)/√3) + C.",
+   [
+    "April 2024"
+   ]
+  ],
+  [
+   "Find ∫x²/[(x² + 4)(x² + 9)] dx.",
+   "Put x² = t: t/[(t + 4)(t + 9)] = A/(t + 4) + B/(t + 9) with A = −4/5, B = 9/5.\n∫ = −(4/5)(1/2)tan⁻¹(x/2) + (9/5)(1/3)tan⁻¹(x/3) + C = −(2/5)tan⁻¹(x/2) + (3/5)tan⁻¹(x/3) + C."
+  ]
+ ],
+ "la": []
+}

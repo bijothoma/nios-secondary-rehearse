@@ -1,0 +1,650 @@
+{
+  "subject": "sr-maths",
+  "lesson": 901,
+  "title": "Model Question Paper 1",
+  "meta": "Time: 3 hours · Maximum marks: 100 · Modelled on the April 2026 NIOS paper",
+  "instructions": [
+    "All questions are compulsory. Where a question has OR, answer either one.",
+    "Section A: questions 1–20 are MCQs (1 mark each); 21–24 have two 1-mark parts; 25–28 have four 1-mark parts; 29 has six 1-mark parts.",
+    "Section B: questions 30–38 carry 2 marks, 39–43 carry 4 marks and 44–45 carry 6 marks.",
+    "Every answer shows the working. Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "20 × 1 = 20",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "The point P with ordinate −3 divides the join of A(6, 5) and B(−1, 4) in the ratio —",
+          "options": [
+            "7 : 8 externally",
+            "7 : 8 internally",
+            "8 : 7 externally",
+            "8 : 7 internally"
+          ],
+          "answer": "C",
+          "years": [
+            "October 2025"
+          ],
+          "work": "Let the ratio be k : 1. y = (4k + 5)/(k + 1) = −3 ⇒ 4k + 5 = −3k − 3 ⇒ k = −8/7.\nNegative k means external division in the ratio 8 : 7.",
+          "note": "Lesson 13."
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "The slope of a line which makes 60° with the negative direction of the x-axis is —",
+          "options": [
+            "1/√3",
+            "−1/√3",
+            "√3",
+            "−√3"
+          ],
+          "answer": "D",
+          "years": [
+            "October 2024"
+          ],
+          "work": "Angle with the positive x-axis = 180° − 60° = 120°; slope = tan 120° = −√3.",
+          "note": "Lesson 14."
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "If (3, 4) is one end of a diameter of x² + y² + 2x − 4y − 15 = 0, the other end is —",
+          "options": [
+            "(5, 0)",
+            "(0, 5)",
+            "(−5, 0)",
+            "(0, −5)"
+          ],
+          "answer": "C",
+          "years": [
+            "October 2025"
+          ],
+          "work": "Centre (−1, 2). Other end = (2·(−1) − 3, 2·2 − 4) = (−5, 0).",
+          "note": "Lesson 15."
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "The major axis of an ellipse is 3 times its minor axis. Its eccentricity is —",
+          "options": [
+            "2√2/3",
+            "3/(2√2)",
+            "√2/3",
+            "1/(2√3)"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2025"
+          ],
+          "work": "a = 3b ⇒ e² = 1 − b²/a² = 1 − 1/9 = 8/9 ⇒ e = 2√2/3.",
+          "note": "Lesson 16."
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "For A = [[2, 3], [0, 1]] and B = [0, −1, 3]ᵀ —",
+          "options": [
+            "AB exists",
+            "BA exists",
+            "both exist",
+            "neither exists"
+          ],
+          "answer": "D",
+          "fixed": true,
+          "years": [
+            "October 2024"
+          ],
+          "work": "A is 2 × 2 and B is 3 × 1. AB needs 2 = 3 (no); BA needs 1 = 2 (no). Neither exists.",
+          "note": "Lesson 20."
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "The cofactor of a₂₃ in |1 0 4; 3 5 −1; 0 1 2| is —",
+          "options": [
+            "1",
+            "−1",
+            "2",
+            "4"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2026"
+          ],
+          "work": "Delete row 2, column 3: M₂₃ = |1 0; 0 1| = 1.\nC₂₃ = (−1)^(2+3) × 1 = −1.",
+          "note": "Lesson 21."
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "If I[x, y, z]ᵀ = [5, −4, 1]ᵀ, then x + y + z is —",
+          "options": [
+            "0",
+            "−2",
+            "1",
+            "2"
+          ],
+          "answer": "D",
+          "years": [
+            "April 2024"
+          ],
+          "work": "I X = X, so x = 5, y = −4, z = 1 ⇒ x + y + z = 2.",
+          "note": "Lesson 22."
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "The binary operation a * b = ab on N is —",
+          "options": [
+            "commutative only",
+            "associative only",
+            "commutative and associative",
+            "neither"
+          ],
+          "answer": "C",
+          "fixed": true,
+          "years": [
+            "October 2024"
+          ],
+          "note": "Lesson 23."
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "sin⁻¹(√3/2) + cos⁻¹(√3/2) equals —",
+          "options": [
+            "π/2",
+            "π/3",
+            "π",
+            "0"
+          ],
+          "answer": "A",
+          "work": "sin⁻¹x + cos⁻¹x = π/2 for every x in [−1, 1].",
+          "note": "Lesson 24."
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "lim x→0 √(½(1 − cos 2x))/x is —",
+          "options": [
+            "1",
+            "−1",
+            "0",
+            "none of these"
+          ],
+          "answer": "D",
+          "fixed": true,
+          "years": [
+            "April 2025"
+          ],
+          "work": "½(1 − cos 2x) = sin²x, so the expression is |sin x|/x.\nRight-hand limit = 1, left-hand limit = −1. They differ, so the limit does not exist.",
+          "note": "Lesson 25."
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "If x = at² and y = 2at, then dy/dx is —",
+          "options": [
+            "t",
+            "1/t",
+            "2t",
+            "at"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2026"
+          ],
+          "work": "dx/dt = 2at, dy/dt = 2a ⇒ dy/dx = 2a/(2at) = 1/t.",
+          "note": "Lesson 26."
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "If y = cot x°, then dy/dx is —",
+          "options": [
+            "cosec x°",
+            "cosec x° cot x°",
+            "−(π/180) cosec²x°",
+            "−(π/180) cosec x° cot x°"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2025"
+          ],
+          "work": "cot x° = cot(πx/180) ⇒ dy/dx = −cosec²(πx/180) × π/180.",
+          "note": "Lesson 27."
+        },
+        {
+          "id": "1.13",
+          "type": "mcq",
+          "q": "d/dx(2ˣ) is —",
+          "options": [
+            "x 2ˣ⁻¹",
+            "2ˣ log 2",
+            "2ˣ",
+            "2ˣ/log 2"
+          ],
+          "answer": "B",
+          "work": "d/dx aˣ = aˣ log a.",
+          "note": "Lesson 28."
+        },
+        {
+          "id": "1.14",
+          "type": "mcq",
+          "q": "f(x) = sin x, x ∈ (0, 2π), is decreasing in —",
+          "options": [
+            "(0, π/2)",
+            "(0, π)",
+            "(π/2, 3π/2)",
+            "(π, 2π)"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2024"
+          ],
+          "work": "f'(x) = cos x < 0 for π/2 < x < 3π/2.",
+          "note": "Lesson 29."
+        },
+        {
+          "id": "1.15",
+          "type": "mcq",
+          "q": "If ∫2ˣdx = f(x) + C, then f(x) is —",
+          "options": [
+            "2ˣ",
+            "2x logₑ2",
+            "2ˣ/logₑ2",
+            "2ˣ⁺¹/(x + 1)"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2025"
+          ],
+          "work": "∫aˣdx = aˣ/log a.",
+          "note": "Lesson 30."
+        },
+        {
+          "id": "1.16",
+          "type": "mcq",
+          "q": "∫₋ₐᵃ x e^(x²)/(1 + x²) dx is —",
+          "options": [
+            "0",
+            "2a",
+            "e^(a²)",
+            "1"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2024"
+          ],
+          "work": "The integrand changes sign when x → −x: it is odd, so the integral over [−a, a] is 0.",
+          "note": "Lesson 31."
+        },
+        {
+          "id": "1.17",
+          "type": "mcq",
+          "q": "The degree of (d²y/dx²)² + x⁶(dy/dx)⁴ = 0 is —",
+          "options": [
+            "2",
+            "4",
+            "6",
+            "10"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2024"
+          ],
+          "work": "Highest derivative is d²y/dx², with power 2.",
+          "note": "Lesson 32."
+        },
+        {
+          "id": "1.18",
+          "type": "mcq",
+          "q": "The three coordinate planes divide space into —",
+          "options": [
+            "4 quadrants",
+            "8 octants",
+            "6 parts",
+            "2 halves"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Lesson 33."
+        },
+        {
+          "id": "1.19",
+          "type": "mcq",
+          "q": "The unit vector parallel to the resultant of a = 3i − 2j + k and b = −2i + 4j + k is —",
+          "options": [
+            "i + 2j + 2k",
+            "(i + 2j + 2k)/5",
+            "(i + 2j + 2k)/3",
+            "±(i + 2j + 2k)/3"
+          ],
+          "answer": "C",
+          "years": [
+            "October 2024"
+          ],
+          "work": "a + b = i + 2j + 2k, magnitude √(1 + 4 + 4) = 3.",
+          "note": "Lesson 34."
+        },
+        {
+          "id": "1.20",
+          "type": "mcq",
+          "q": "The distance of the plane 3x − 4y + 12z = 3 from the origin is —",
+          "options": [
+            "3/13",
+            "19/13",
+            "3",
+            "1"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2025"
+          ],
+          "work": "|−3|/√(9 + 16 + 144) = 3/13.",
+          "note": "Lesson 35."
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions of two 1-mark parts.",
+      "marks": "4 × 2 = 8",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "Fill in the blanks: (a) The eccentricity of 3x² + 4y² = 12 is ______. (b) The length of the major axis of 5x² + 6y² = 3 is ______.",
+          "answer": "(a) x²/4 + y²/3 = 1: e² = 1 − 3/4 = 1/4 ⇒ e = ½.\n(b) x²/(3/5) + y²/(1/2) = 1: a² = 3/5 ⇒ major axis 2a = 2√(3/5) = 2√15/5.",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 16."
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Fill in the blanks: (a) If AX = B has a unique solution, X = ______. (b) A⁻¹ = ______ in terms of adj A.",
+          "answer": "(a) A⁻¹B.\n(b) (1/|A|) adj A.",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Lesson 22."
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "Fill in the blanks: (a) lim x→1 (x⁴ − 1)/(x − 1) = ______. (b) lim x→0 (e^(2x) − 1)/x = ______.",
+          "answer": "(a) Using (xⁿ − aⁿ)/(x − a) → naⁿ⁻¹: 4·1³ = 4.\n(b) 2 · (e^(2x) − 1)/(2x) → 2.",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Lesson 25."
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Fill in the blanks: (a) If y = e^(sin⁻¹x), then dy/dx = ______. (b) d/dx(xˣ) = ______.",
+          "answer": "(a) e^(sin⁻¹x) × 1/√(1 − x²).\n(b) log y = x log x ⇒ y'/y = log x + 1 ⇒ xˣ(1 + log x).",
+          "years": [
+            "April 2026",
+            "April 2025"
+          ],
+          "note": "Lesson 28."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Objective type questions of four 1-mark parts.",
+      "marks": "4 × 4 = 16",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "Answer: (a) Is R = {(1,2), (2,1)} on {1, 2, 3} an equivalence relation? (b) Is f(x) = 3 − 4x on R one-one and onto? (c) If f(x) = 2ˣ, find (f∘f)(0). (d) A binary operation on A is a function from ______ to A.",
+          "answer": "(a) No — (1,1) ∉ R, so it is not reflexive (it is also not transitive: (1,2), (2,1) but no (1,1)).\n(b) Yes. One-one: 3 − 4a = 3 − 4b ⇒ a = b. Onto: for any y, x = (3 − y)/4 gives f(x) = y.\n(c) f(0) = 1, f(1) = 2 ⇒ (f∘f)(0) = 2.\n(d) A × A.",
+          "years": [
+            "April 2026",
+            "April 2024"
+          ],
+          "note": "Lesson 23."
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "Fill in the blanks: (a) f(x) = x − cos x is ______ for all x. (b) The local minimum of f(x) = 2x³ − 3x² − 12x + 8 is at x = ______. (c) The slope of the normal to x³ + x² + 3xy + y² − 5 = 0 at (1, 1) is ______. (d) The tangent to y = f(x) at (x₁, y₁) is parallel to the x-axis if ______.",
+          "answer": "(a) f'(x) = 1 + sin x ≥ 0 ⇒ increasing.\n(b) f' = 6x² − 6x − 12 = 6(x − 2)(x + 1) = 0; f'' = 12x − 6 > 0 at x = 2 ⇒ x = 2.\n(c) 3x² + 2x + 3y + 3xy' + 2yy' = 0 at (1, 1): 3 + 2 + 3 + 3y' + 2y' = 0 ⇒ y' = −8/5. Normal slope = 5/8.\n(d) dy/dx = 0 at (x₁, y₁).",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 29."
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "Fill in the blanks: (i) The degree of (d²y/dx²)^(1/3) = x is ______. (ii) The differential equation with solution y = a cos x + b sin x is ______. (iii) The solution of dy/dx = e^(x+y) is e^y = ______. (iv) The number of arbitrary constants in a particular solution of a third-order equation is ______.",
+          "answer": "(i) Cube both sides: d²y/dx² = x³ ⇒ degree 1.\n(ii) y' = −a sin x + b cos x, y'' = −a cos x − b sin x = −y ⇒ y'' + y = 0.\n(iii) e^(−y)dy = eˣdx ⇒ −e^(−y) = eˣ + C ⇒ e^y = −1/(eˣ + C).\n(iv) 0.",
+          "years": [
+            "October 2025",
+            "April 2026"
+          ],
+          "note": "Lesson 32."
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "Fill in the blanks: (i) The plane through (1, 4, 6) normal to i − 2j + k is ______. (ii) The sum of the intercepts of 2x + 3y + 4z = 24 is ______. (iii) The plane through points with position vectors a, b, c is ______. (iv) The distance of (−1, 2, −3) from 2x − y + 2z = 13 is ______.",
+          "answer": "(i) r·(i − 2j + k) = (i + 4j + 6k)·(i − 2j + k) = 1 − 8 + 6 = −1.\n(ii) Intercepts 12, 8, 6 ⇒ sum 26.\n(iii) (r − a)·[(b − a) × (c − a)] = 0.\n(iv) |−2 − 2 − 6 − 13|/3 = 23/3.",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 35."
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Objective type question of six 1-mark parts.",
+      "marks": "1 × 6 = 6",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "f(x) = (1 − x + x²)/(1 + x + x²). (i) How many critical points? (ii) Their signs? (iii) Nature at the positive one? (iv) Nature at the negative one? (v) Local minimum value? (vi) Local maximum value?",
+          "answer": "f'(x) = [(−1 + 2x)(1 + x + x²) − (1 − x + x²)(1 + 2x)]/(1 + x + x²)² = 2(x² − 1)/(1 + x + x²)².\n(i) f' = 0 at x = ±1: 2 critical points.\n(ii) One positive (1), one negative (−1).\n(iii) f' changes − to + at x = 1: local minimum.\n(iv) f' changes + to − at x = −1: local maximum.\n(v) f(1) = 1/3. (vi) f(−1) = 3/1 = 3.",
+          "years": [
+            "October 2024"
+          ],
+          "note": "Lesson 29."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Answer the following (2 marks each).",
+      "marks": "9 × 2 = 18",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "Show that |1 a bc; 1 b ca; 1 c ab| = (a − b)(b − c)(c − a).",
+          "answer": "R₁ → R₁ − R₂, R₂ → R₂ − R₃:\n|0 a−b c(b−a); 0 b−c a(c−b); 1 c ab| = (a − b)(b − c)|0 1 −c; 0 1 −a; 1 c ab|.\nExpand along C₁: 1 × (1·(−a) − (−c)·1) = c − a.\nSo Δ = (a − b)(b − c)(c − a).",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 21."
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "Solve the matrix equation [[2, −3], [1, 1]][x, y]ᵀ = [1, 3]ᵀ.",
+          "answer": "|A| = 2 + 3 = 5; A⁻¹ = (1/5)[[1, 3], [−1, 2]].\nX = (1/5)[1 + 9, −1 + 6] = (1/5)[10, 5] = [2, 1] ⇒ x = 2, y = 1.",
+          "years": [
+            "October 2024"
+          ],
+          "note": "Lesson 22."
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "If A = {1, 2, 3} and R = {(2, 3)}, check whether R is reflexive, symmetric or transitive.",
+          "answer": "Not reflexive: (1,1) ∉ R.\nNot symmetric: (2,3) ∈ R but (3,2) ∉ R.\nTransitive: there are no pairs (a,b), (b,c) both in R, so the condition holds vacuously.",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 23."
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "Solve 2tan⁻¹(cos x) = tan⁻¹(2 cosec x).",
+          "answer": "2tan⁻¹(cos x) = tan⁻¹[2 cos x/(1 − cos²x)] = tan⁻¹[2 cos x/sin²x].\nSo 2 cos x/sin²x = 2/sin x ⇒ cos x = sin x ⇒ x = π/4.",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Lesson 24."
+        },
+        {
+          "id": "5.5",
+          "type": "open",
+          "q": "Evaluate lim x→3 |x − 3|/(x − 3).",
+          "answer": "For x > 3 the expression is 1; for x < 3 it is −1.\nRHL = 1 ≠ LHL = −1, so the limit does not exist.",
+          "years": [
+            "October 2024"
+          ],
+          "or": {
+            "q": "Evaluate lim x→0 sin 3x/x.",
+            "answer": "sin 3x/x = 3 × sin 3x/(3x) → 3 × 1 = 3."
+          },
+          "note": "Lesson 25."
+        },
+        {
+          "id": "5.6",
+          "type": "open",
+          "q": "If y = (x + 1)/(x − 1), x ≠ 1, find d²y/dx².",
+          "answer": "dy/dx = [(x − 1) − (x + 1)]/(x − 1)² = −2(x − 1)⁻².\nd²y/dx² = −2 × (−2)(x − 1)⁻³ = 4/(x − 1)³.",
+          "years": [
+            "October 2024"
+          ],
+          "note": "Lesson 26."
+        },
+        {
+          "id": "5.7",
+          "type": "open",
+          "q": "Differentiate x sin x + cos x with respect to x.",
+          "answer": "(1·sin x + x cos x) − sin x = x cos x.",
+          "note": "Lesson 27."
+        },
+        {
+          "id": "5.8",
+          "type": "open",
+          "q": "Find dy/dx for y = x^(x cos x).",
+          "answer": "log y = x cos x log x.\n(1/y)y' = cos x log x − x sin x log x + cos x.\ny' = x^(x cos x)[cos x(1 + log x) − x sin x log x].",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Lesson 28."
+        },
+        {
+          "id": "5.9",
+          "type": "open",
+          "q": "Show that y = log(1 + x) − 2x/(2 + x), x > −1, is increasing throughout its domain.",
+          "answer": "dy/dx = 1/(1 + x) − [2(2 + x) − 2x]/(2 + x)² = 1/(1 + x) − 4/(2 + x)²\n= [(2 + x)² − 4(1 + x)]/[(1 + x)(2 + x)²] = x²/[(1 + x)(2 + x)²] ≥ 0 for x > −1.\nSo y is increasing.",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 29."
+        }
+      ]
+    },
+    {
+      "no": 6,
+      "title": "Answer the following (4 marks each).",
+      "marks": "5 × 4 = 20",
+      "questions": [
+        {
+          "id": "6.1",
+          "type": "open",
+          "q": "Determine a and b so that f(x) = |x − 2|/(x − 2) + a (x < 2), a + b (x = 2), |x − 2|/(x − 2) + b (x > 2) is continuous at x = 2.",
+          "answer": "LHL = −1 + a; RHL = 1 + b; f(2) = a + b.\n−1 + a = a + b ⇒ b = −1. 1 + b = a + b ⇒ a = 1.\nSo a = 1, b = −1.",
+          "note": "Lesson 25."
+        },
+        {
+          "id": "6.2",
+          "type": "open",
+          "q": "If x = a(cos θ + log tan(θ/2)) and y = a sin θ, find d²y/dx².",
+          "answer": "dx/dθ = a(−sin θ + 1/sin θ) = a cos²θ/sin θ. dy/dθ = a cos θ.\ndy/dx = a cos θ × sin θ/(a cos²θ) = tan θ.\nd²y/dx² = sec²θ × dθ/dx = sec²θ × sin θ/(a cos²θ) = sin θ/(a cos⁴θ).",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Lesson 28."
+        },
+        {
+          "id": "6.3",
+          "type": "open",
+          "q": "Prove that y² = 4x and x² = 4y divide the square bounded by x = 0, x = 4, y = 4 and y = 0 into three equal parts.",
+          "answer": "The curves meet at (0, 0) and (4, 4).\nMiddle part: ∫₀⁴ (2√x − x²/4)dx = [(4/3)x^(3/2) − x³/12]₀⁴ = 32/3 − 16/3 = 16/3.\nLower part (under x² = 4y): ∫₀⁴ x²/4 dx = 16/3.\nUpper part = 16 − 16/3 − 16/3 = 16/3. All three are equal.",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 31."
+        },
+        {
+          "id": "6.4",
+          "type": "open",
+          "q": "Show that the points with position vectors 4i + 8j + 12k, 2i + 4j + 6k, 3i + 5j + 4k and 5i + 8j + 5k are coplanar.",
+          "answer": "AB = −2i − 4j − 6k, AC = −i − 3j − 8k, AD = i + 0j − 7k.\n[AB AC AD] = |−2 −4 −6; −1 −3 −8; 1 0 −7| = −2(21 − 0) + 4(7 + 8) − 6(0 + 3) = −42 + 60 − 18 = 0.\nSo the four points are coplanar.",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 34."
+        },
+        {
+          "id": "6.5",
+          "type": "open",
+          "q": "A dealer has ₹5760 to buy fans (₹360 each) and sewing machines (₹240 each), and space for at most 20 items. Profit is ₹22 per fan and ₹18 per machine. Formulate the LPP and find the maximum profit.",
+          "answer": "Maximise Z = 22x + 18y subject to 360x + 240y ≤ 5760 (3x + 2y ≤ 48), x + y ≤ 20, x, y ≥ 0.\nCorners: (0, 0), (16, 0), (8, 12), (0, 20).\nZ: 0, 352, 176 + 216 = 392, 360.\nMaximum profit ₹392 with 8 fans and 12 sewing machines.",
+          "note": "Lesson 37."
+        }
+      ]
+    },
+    {
+      "no": 7,
+      "title": "Answer the following (6 marks each).",
+      "marks": "2 × 6 = 12",
+      "questions": [
+        {
+          "id": "7.1",
+          "type": "open",
+          "q": "Show that of all rectangles with a given perimeter, the square has the greatest area.",
+          "answer": "Let the perimeter be 2p and the sides x and p − x. Area A = x(p − x) = px − x².\nA' = p − 2x = 0 ⇒ x = p/2. A'' = −2 < 0 ⇒ maximum.\nThen both sides are p/2: the rectangle is a square.",
+          "years": [
+            "October 2024"
+          ],
+          "or": {
+            "q": "Find the point on y² = 4x nearest to (2, 1).",
+            "answer": "Take the point (t², 2t). D² = (t² − 2)² + (2t − 1)².\nd(D²)/dt = 4t(t² − 2) + 4(2t − 1) = 4t³ − 4 = 0 ⇒ t = 1 (second derivative 12t² > 0 ⇒ minimum).\nNearest point: (1, 2)."
+          },
+          "note": "Lesson 29."
+        },
+        {
+          "id": "7.2",
+          "type": "open",
+          "q": "Find the vector and Cartesian equations of the plane through A(−2, 3, −1), B(−3, 7, −4) and C(−1, 0, −1). Also find its intercepts and its distance from the origin.",
+          "answer": "AB = (−1, 4, −3), AC = (1, −3, 0).\nn = AB × AC = i(0 − 9) − j(0 + 3) + k(3 − 4) = (−9, −3, −1), i.e. (9, 3, 1).\n9(x + 2) + 3(y − 3) + (z + 1) = 0 ⇒ 9x + 3y + z + 10 = 0.\nVector form: r·(9i + 3j + k) = −10.\nIntercepts: x = −10/9, y = −10/3, z = −10.\nDistance from origin = 10/√(81 + 9 + 1) = 10/√91.",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Lesson 35."
+        }
+      ]
+    }
+  ]
+}

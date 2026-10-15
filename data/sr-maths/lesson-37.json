@@ -1,0 +1,171 @@
+{
+  "subject": "sr-maths",
+  "lesson": 37,
+  "title": "Linear Programming",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Every answer shows the working. Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "3 × 1 = 3",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "The optimum value of the objective function of an LPP occurs —",
+          "options": [
+            "inside the feasible region",
+            "on the boundary line only",
+            "at a corner point of the feasible region",
+            "none of the above"
+          ],
+          "answer": "C",
+          "fixed": true,
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "The feasible region has corners (0, 0), (6, 0), (4, 4) and (0, 5). The maximum of Z = 3x + 8y occurs at —",
+          "options": [
+            "(0, 5)",
+            "(4, 4)",
+            "(6, 0) and (0, 5)",
+            "every point of the segment from (4, 4) to (6, 0)"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2024"
+          ],
+          "work": "Z(0,0) = 0, Z(6,0) = 18, Z(4,4) = 12 + 32 = 44, Z(0,5) = 40. Maximum 44 at (4, 4)."
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "Which of the following is NOT part of an LPP?",
+          "options": [
+            "Objective function",
+            "Constraints",
+            "Non-negativity conditions",
+            "A quadratic equation"
+          ],
+          "answer": "D"
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions of two 1-mark parts.",
+      "marks": "1 × 2 = 2",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "(a) The common region satisfying all constraints is the ______ region. (b) Z = 2x + 3y at corner points (0, 0), (4, 0), (0, 3) and (3, 2) is maximum at ______.",
+          "answer": "(a) feasible\n(b) Z = 0, 8, 9, 12 ⇒ maximum 12 at (3, 2)."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Answer the following (2 marks each).",
+      "marks": "1 × 2 = 2",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "A firm makes chairs (x) and tables (y). Each chair needs 2 hours and each table 3 hours; 30 hours are available. Profit is ₹40 per chair and ₹70 per table. Formulate the LPP.",
+          "answer": "Maximise Z = 40x + 70y\nsubject to 2x + 3y ≤ 30, x ≥ 0, y ≥ 0."
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Answer the following (4 marks each).",
+      "marks": "1 × 4 = 4",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "A dealer has ₹5760 to buy fans (₹360 each) and sewing machines (₹240 each), and space for at most 20 items. Profit is ₹22 per fan and ₹18 per machine. Formulate the LPP and find the maximum profit.",
+          "answer": "Maximise Z = 22x + 18y subject to 360x + 240y ≤ 5760 (3x + 2y ≤ 48), x + y ≤ 20, x, y ≥ 0.\nCorners: (0, 0), (16, 0), (8, 12), (0, 20).\nZ: 0, 352, 176 + 216 = 392, 360.\nMaximum profit ₹392 with 8 fans and 12 sewing machines."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Answer the following (6 marks each).",
+      "marks": "5 × 6 = 30",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "Find the maximum and minimum of Z = x + 2y subject to x + 2y ≥ 100, 2x − y ≤ 0, 2x + y ≤ 200, x, y ≥ 0, graphically.",
+          "answer": "Corners of the feasible region: x + 2y = 100 meets x = 0 at (0, 50) and 2x − y = 0 at (20, 40); 2x − y = 0 meets 2x + y = 200 at (50, 100); 2x + y = 200 meets x = 0 at (0, 200).\nZ(0, 50) = 100, Z(20, 40) = 100, Z(50, 100) = 250, Z(0, 200) = 400.\nMaximum 400 at (0, 200); minimum 100 at every point of the segment joining (0, 50) and (20, 40).",
+          "years": [
+            "April 2026"
+          ],
+          "or": {
+            "q": "A drink needs at least 80 units of chemical A and 60 units of chemical B. Supplier S's packet has 4 units of A and 2 of B and costs ₹10; supplier T's has 1 of A and 1 of B and costs ₹4. Formulate the LPP and find the minimum cost.",
+            "answer": "Let x packets from S and y from T. Minimise C = 10x + 4y\nsubject to 4x + y ≥ 80, 2x + y ≥ 60, x, y ≥ 0.\nCorners of the (unbounded) region: (0, 80), (10, 40), (30, 0).\nC = 320, 260, 300 ⇒ minimum ₹260 at x = 10, y = 40."
+          }
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "Minimise and maximise Z = 5x + 2y subject to x − 2y ≤ 2, 3x + 2y ≤ 12, −3x + 2y ≤ 3, x, y ≥ 0.",
+          "answer": "Corners: (0, 0); (2, 0) on x − 2y = 2; (7/2, 3/4) where x − 2y = 2 meets 3x + 2y = 12; (3/2, 15/4) where 3x + 2y = 12 meets −3x + 2y = 3; (0, 3/2).\nZ: 0, 10, 19, 15, 3.\nMaximum 19 at (7/2, 3/4); minimum 0 at (0, 0).",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "A machine makes products A and B. A needs 2 units of chemical and 1 of compound; B needs 1 of chemical and 2 of compound. 800 units of chemical and 1000 of compound are available. Profit is ₹30 on A and ₹20 on B. Find the maximum profit.",
+          "answer": "Maximise Z = 30x + 20y subject to 2x + y ≤ 800, x + 2y ≤ 1000, x, y ≥ 0.\nCorners: (0, 0), (400, 0), (200, 400), (0, 500).\nZ: 0, 12000, 6000 + 8000 = 14000, 10000.\nMaximum profit ₹14,000 with 200 units of A and 400 of B.",
+          "years": [
+            "October 2024"
+          ],
+          "or": {
+            "q": "Nuts take 1 h on machine A and 3 h on B; bolts take 3 h on A and 1 h on B. Each machine runs at most 12 h a day. Profit ₹17.50 per package of nuts and ₹7 per package of bolts. Maximise profit.",
+            "answer": "Maximise Z = 17.5x + 7y subject to x + 3y ≤ 12, 3x + y ≤ 12, x, y ≥ 0.\nCorners: (0, 0), (4, 0), (3, 3), (0, 4).\nZ: 0, 70, 52.5 + 21 = 73.5, 28.\nMaximum ₹73.50 with 3 packages of each."
+          }
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "Maximise Z = 3x + 4y subject to 2x + y ≤ 1000, x + y ≤ 800, x ≤ 400, y ≤ 700, x, y ≥ 0.",
+          "answer": "Corners: (0, 0), (400, 0), (400, 200), (200, 600), (100, 700), (0, 700).\nZ: 0, 1200, 2000, 3000, 3100, 2800.\nMaximum 3100 at (100, 700).",
+          "years": [
+            "October 2025"
+          ],
+          "or": {
+            "q": "Fertiliser A has 12% nitrogen and 5% phosphoric acid; B has 4% and 5%. At least 12 kg of each is needed. A costs ₹110/kg and B ₹48/kg. Find the minimum cost.",
+            "answer": "Minimise C = 110x + 48y subject to 0.12x + 0.04y ≥ 12 (3x + y ≥ 300), 0.05x + 0.05y ≥ 12 (x + y ≥ 240), x, y ≥ 0.\nCorners: (0, 300), (30, 210), (240, 0).\nC = 14400, 3300 + 10080 = 13380, 26400.\nMinimum ₹13,380 with 30 kg of A and 210 kg of B."
+          }
+        },
+        {
+          "id": "5.5",
+          "type": "open",
+          "q": "A cooperative has 50 hectares for crops A and B, with profits ₹10,500 and ₹9,000 per hectare. Herbicide use is 20 L/ha for A and 10 L/ha for B, at most 800 L. Maximise profit.",
+          "answer": "Maximise Z = 10500x + 9000y subject to x + y ≤ 50, 20x + 10y ≤ 800 (2x + y ≤ 80), x, y ≥ 0.\nCorners: (0, 0), (40, 0), (30, 20), (0, 50).\nZ: 0, 420000, 315000 + 180000 = 495000, 450000.\nMaximum ₹4,95,000 with 30 ha of A and 20 ha of B.",
+          "years": [
+            "April 2024"
+          ],
+          "or": {
+            "q": "Minimise Z = 20x + 10y subject to x + 2y ≤ 40, 3x + y ≥ 30, 4x + 3y ≥ 60, x, y ≥ 0.",
+            "answer": "Corners of the feasible region: (15, 0), (40, 0), (4, 18), (6, 12).\nZ: 300, 800, 80 + 180 = 260, 120 + 120 = 240.\nMinimum 240 at (6, 12)."
+          }
+        }
+      ]
+    }
+  ]
+}

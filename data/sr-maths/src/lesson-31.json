@@ -1,0 +1,40 @@
+{
+ "lesson": 31,
+ "title": "Definite Integrals",
+ "module": 8,
+ "summary": [
+  "## Evaluating definite integrals",
+  "∫ₐᵇ f(x)dx = F(b) − F(a), where F is an antiderivative. The constant C cancels. With a substitution, change the limits too.",
+  "As the limit of a sum: ∫ₐᵇ f(x)dx = lim h→0 h[f(a) + f(a + h) + … + f(a + (n − 1)h)], with nh = b − a.",
+  "## Properties",
+  "∫ₐᵇ f(x)dx = ∫ₐᵇ f(a + b − x)dx; ∫₀ᵃ f(x)dx = ∫₀ᵃ f(a − x)dx. ∫₋ₐᵃ f(x)dx = 2∫₀ᵃ f(x)dx if f is even, and 0 if f is odd. Split the integral where |…| changes sign.",
+  "Typical use: I = ∫₀^(π/2) cos³x/(sin³x + cos³x)dx. Replacing x by π/2 − x gives the same with sin and cos swapped; adding, 2I = ∫₀^(π/2) 1 dx = π/2, so I = π/4.",
+  "## Area",
+  "Area under y = f(x) from a to b (f ≥ 0) = ∫ₐᵇ y dx. Area between two curves = ∫ₐᵇ (upper − lower) dx, with a and b the x-coordinates of the intersections."
+ ],
+ "mcq": [
+  ["∫₀¹ x/(x² + 1) dx is equal to —", ["½", "log 2", "2 log 2", "½ log 2"], "D", ["April 2026"], {"work": "Put t = x² + 1, dt = 2x dx: ½∫₁² dt/t = ½(log 2 − log 1) = ½ log 2."}],
+  ["∫₋ₐᵃ x e^(x²)/(1 + x²) dx is —", ["0", "2a", "e^(a²)", "1"], "A", ["October 2024"], {"work": "The integrand changes sign when x → −x: it is odd, so the integral over [−a, a] is 0."}],
+  ["∫₀^(π/4) sin 2x dx is —", ["1", "½", "0", "2"], "B", ["April 2024"], {"work": "[−cos 2x/2]₀^(π/4) = −(cos(π/2))/2 + (cos 0)/2 = 0 + ½ = ½."}],
+  ["∫₀^(π/2) cos³x/(sin³x + cos³x) dx is —", ["0", "π/4", "π/2", "1"], "B", ["April 2024"], {"work": "I = ∫ sin³x/(sin³x + cos³x) dx too (x → π/2 − x). Adding: 2I = π/2 ⇒ I = π/4."}],
+  ["The area bounded by y = x³, x = 0, x = 1 and y = 0 is —", ["¼", "½", "1", "1/3"], "A", ["October 2025"], {"work": "∫₀¹ x³dx = [x⁴/4]₀¹ = ¼."}]
+ ],
+ "objective": [
+  ["True or False: (a) ∫₂³ 3ˣ dx = 18. (b) ∫_(−½)^(½) cos x log((1 + x)/(1 − x)) dx = 1.", "(a) False — [3ˣ/log 3]₂³ = (27 − 9)/log 3 = 18/log 3.\n(b) False — cos x is even and log((1 + x)/(1 − x)) is odd, so the product is odd and the integral is 0.", ["April 2025"]],
+  ["True or False: (a) ∫ₐᵇ f(x)dx = ∫ₐᵇ f(a + b − x)dx. (b) ∫₀² 3ˣ dx = 8/log 3.", "(a) True.\n(b) True — (3² − 3⁰)/log 3 = 8/log 3.", ["October 2024", "April 2026"]]
+ ],
+ "vsa": [
+  ["Evaluate ∫₀² 3ˣ dx.", "[3ˣ/log 3]₀² = (9 − 1)/log 3 = 8/log 3.", ["April 2026"]],
+  ["Find the area of the region bounded by y = x² and y = 4.", "They meet at x = ±2. Area = ∫₋₂² (4 − x²)dx = [4x − x³/3]₋₂² = (8 − 8/3) − (−8 + 8/3) = 32/3.", ["April 2025"]]
+ ],
+ "sa": [
+  ["Evaluate ∫₋₅⁵ |x + 2| dx.", "x + 2 < 0 for x < −2.\n∫₋₅⁻² −(x + 2)dx = [−(x + 2)²/2]₋₅⁻² = 0 + 9/2 = 9/2.\n∫₋₂⁵ (x + 2)dx = [(x + 2)²/2]₋₂⁵ = 49/2.\nTotal = 9/2 + 49/2 = 29.", ["April 2026"], {"or": ["Find the area enclosed by y = x² and y = x + 2.", "x² = x + 2 ⇒ x = −1, 2.\nArea = ∫₋₁² (x + 2 − x²)dx = [x²/2 + 2x − x³/3]₋₁² = (2 + 4 − 8/3) − (½ − 2 + 1/3) = 10/3 + 7/6 = 9/2."]}],
+  ["Evaluate ∫₀^(π/2) (sin x − cos x)/(1 + sin x cos x) dx.", "Replace x by π/2 − x: I = ∫₀^(π/2) (cos x − sin x)/(1 + sin x cos x) dx = −I.\nSo 2I = 0 ⇒ I = 0.", ["October 2024"], {"or": ["Evaluate ∫₋₃³ |x + 1| dx.", "∫₋₃⁻¹ −(x + 1)dx = [−(x + 1)²/2]₋₃⁻¹ = 0 + 2 = 2.\n∫₋₁³ (x + 1)dx = [(x + 1)²/2]₋₁³ = 8.\nTotal = 10."]}],
+  ["Evaluate ∫_(π/6)^(π/3) dx/(1 + √tan x).", "I = ∫ √cos x/(√cos x + √sin x) dx. Replacing x by π/2 − x (which keeps the limits π/6, π/3) gives I = ∫ √sin x/(√sin x + √cos x) dx.\nAdding: 2I = ∫_(π/6)^(π/3) dx = π/6 ⇒ I = π/12.", ["April 2024"]],
+  ["Prove that y² = 4x and x² = 4y divide the square bounded by x = 0, x = 4, y = 4 and y = 0 into three equal parts.", "The curves meet at (0, 0) and (4, 4).\nMiddle part: ∫₀⁴ (2√x − x²/4)dx = [(4/3)x^(3/2) − x³/12]₀⁴ = 32/3 − 16/3 = 16/3.\nLower part (under x² = 4y): ∫₀⁴ x²/4 dx = 16/3.\nUpper part = 16 − 16/3 − 16/3 = 16/3. All three are equal.", ["April 2025"]]
+ ],
+ "la": [
+  ["Evaluate ∫₂⁴ 2ˣ dx as the limit of a sum.", "a = 2, b = 4, nh = 2. ∫ = lim h→0 h[2² + 2^(2+h) + … + 2^(2+(n−1)h)] = lim 4h(2^(nh) − 1)/(2^h − 1)\n= 4(2² − 1) lim h/(2^h − 1) = 12 × 1/log 2 = 12/log 2.\nCheck: [2ˣ/log 2]₂⁴ = (16 − 4)/log 2 = 12/log 2.", ["October 2025"], {"or": ["Find the area of the smaller region bounded by x²/a² + y²/b² = 1 and x/a + y/b = 1.", "Quarter ellipse area = πab/4. Triangle under the line from (a, 0) to (0, b) has area ab/2.\nSmaller region = πab/4 − ab/2 = (π − 2)ab/4."]}],
+  ["Find the smaller area enclosed by the circle x² + y² = 4 and the line x + y = 2.", "The line meets the circle at (2, 0) and (0, 2).\nArea = ∫₀² [√(4 − x²) − (2 − x)]dx = [quarter circle] − [triangle] = π − 2.", ["January-February 2021"]]
+ ]
+}

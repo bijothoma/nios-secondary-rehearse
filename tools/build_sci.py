@@ -129,7 +129,7 @@ def build_full_papers(sources):
                 used.add((lesson, 'case', i))
                 sections.append(case_section(no, case, f'Lesson {lesson}.'))
                 continue
-            start = (p * 11 + {'mcq': 0, 'objective': 3, 'vsa': 5, 'sa': 9, 'la': 13}[key]) % len(order)
+            start = (p * 11 + {'mcq': 0, 'objective': 3, 'vsa': 5, 'sa': 9, 'la': 13}.get(key, 7)) % len(order)
             picked = []
             k = 0
             while len(picked) < count and k < 10 * len(order):

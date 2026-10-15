@@ -1,0 +1,123 @@
+{
+  "subject": "sr-maths",
+  "lesson": 20,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 20: Matrices — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Matrix and its order"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "A matrix is a rectangular array of numbers. One with m rows and n columns has order m × n; its element in row i and column j is aᵢⱼ. Example: aᵢⱼ = (i − j)/(i + j) gives a₂₃ = −1/5 and a₁₂ = −1/3."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Types: row, column, square, zero, diagonal, scalar (diagonal with equal entries), identity I (scalar with 1s), upper and lower triangular. Every identity matrix is a scalar matrix, but not every scalar matrix is an identity matrix."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Two matrices are equal when they have the same order and equal corresponding elements; equate them entry by entry."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Operations"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Addition and subtraction need matrices of the same order. Scalar multiplication multiplies every element."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Product AB exists only when the number of columns of A equals the number of rows of B; an m × n times an n × p matrix gives m × p. In general AB ≠ BA, and AB = O does not force A = O or B = O."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Transpose"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "A' is obtained by turning rows into columns. (A')' = A, (A + B)' = A' + B', (kA)' = kA' and (AB)' = B'A'."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "A is symmetric if A' = A and skew-symmetric if A' = −A; every diagonal element of a skew-symmetric matrix is 0."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Useful results"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "If A² = A then (I + A)² − 3A = I + 2A + A² − 3A = I. For A = [[cos α, −sin α], [sin α, cos α]], A + A' = 2 cos α · I, so A + A' = I gives cos α = ½, i.e. α = π/3."
+        ]
+      ]
+    }
+  ]
+}

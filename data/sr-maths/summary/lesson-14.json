@@ -1,0 +1,114 @@
+{
+  "subject": "sr-maths",
+  "lesson": 14,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 14: Straight Lines — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Slope"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "The slope of a line making angle θ with the positive x-axis is m = tan θ. A line parallel to the x-axis has slope 0. Parallel lines have equal slopes; perpendicular lines have m₁m₂ = −1. A line making 60° with the negative x-axis makes 120° with the positive x-axis, so its slope is tan 120° = −√3."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Forms of the equation"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Slope–intercept: y = mx + c. Point–slope: y − y₁ = m(x − x₁). Two-point: y − y₁ = [(y₂ − y₁)/(x₂ − x₁)](x − x₁). Intercept form: x/a + y/b = 1. Normal form: x cos α + y sin α = p. General form: Ax + By + C = 0, with slope −A/B, x-intercept −C/A and y-intercept −C/B."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "A line cutting equal intercepts has equation x + y = a, so its slope is −1."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Distances"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "The perpendicular distance of (x₁, y₁) from Ax + By + C = 0 is |Ax₁ + By₁ + C|/√(A² + B²). The distance between parallel lines Ax + By + C₁ = 0 and Ax + By + C₂ = 0 is |C₁ − C₂|/√(A² + B²)."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Family of lines"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "A line through the intersection of L₁ = 0 and L₂ = 0 has the form L₁ + λL₂ = 0, or find the point of intersection first and use the point–slope form."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Foot of the perpendicular"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "The foot of the perpendicular from (x₁, y₁) to Ax + By + C = 0 is given by (x − x₁)/A = (y − y₁)/B = −(Ax₁ + By₁ + C)/(A² + B²)."
+        ]
+      ]
+    }
+  ]
+}

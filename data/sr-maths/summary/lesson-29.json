@@ -1,0 +1,132 @@
+{
+  "subject": "sr-maths",
+  "lesson": 29,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 29: Application of Derivatives — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Rate of change and approximation"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "dy/dx is the rate of change of y with respect to x. For a circle, dA/dr = 2πr (8π when r = 4)."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Differentials: f(x + Δx) ≈ f(x) + f'(x)Δx. For √26: f(x) = √x, x = 25, Δx = 1, so √26 ≈ 5 + 1/(2·5) = 5.1."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Tangents and normals"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "The slope of the tangent at (x₁, y₁) is dy/dx there; the tangent is y − y₁ = m(x − x₁). The normal has slope −1/m (−dx/dy). A tangent is parallel to the x-axis where dy/dx = 0, and parallel to the y-axis where dx/dy = 0. Curves cut at right angles when the product of their slopes at the point of intersection is −1."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Rolle's and Mean Value theorems"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Rolle: if f is continuous on [a, b], differentiable on (a, b) and f(a) = f(b), there is c in (a, b) with f'(c) = 0. (f(x) = x on [−1, 1] fails, since f(−1) ≠ f(1).)"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Lagrange's MVT: if f is continuous on [a, b] and differentiable on (a, b), there is c with f'(c) = [f(b) − f(a)]/(b − a)."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Increasing and decreasing"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "f is increasing where f'(x) > 0 and decreasing where f'(x) < 0. Find the critical points (f' = 0) and test the sign of f' in each interval."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Maxima and minima"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "At a critical point c: f''(c) < 0 gives a local maximum and f''(c) > 0 a local minimum (second derivative test). For word problems, write the quantity as a function of one variable, differentiate, set to zero and check with f''."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "In cost problems: AC = C/x, MC = dC/dx; AC is minimum where AC = MC."
+        ]
+      ]
+    }
+  ]
+}

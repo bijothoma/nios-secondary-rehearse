@@ -1,0 +1,96 @@
+{
+  "subject": "sr-maths",
+  "lesson": 35,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 35: Plane — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Equations of a plane"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "General form: ax + by + cz + d = 0; (a, b, c) are the direction ratios of its normal. Normal (vector) form: r·n = p. Through a point A with normal n: (r − a)·n = 0, i.e. a(x − x₁) + b(y − y₁) + c(z − z₁) = 0."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Intercept form: x/a + y/b + z/c = 1. Divide the general equation by −d to get it; for 4x − 5y + 6z = 60 the intercepts are 15, −12, 10."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Through three points: (r − a)·[(b − a) × (c − a)] = 0, or a 3 × 3 determinant in x − x₁, y − y₁, z − z₁."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "A plane perpendicular to the x-axis is x = constant."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Distances and angles"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Distance of (x₁, y₁, z₁) from ax + by + cz + d = 0: |ax₁ + by₁ + cz₁ + d|/√(a² + b² + c²). Distance of the origin from r·n = p (with unit n): p."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Distance between parallel planes r·n + d₁ = 0 and r·n + d₂ = 0: |d₁ − d₂|/|n|."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Angle between two planes = angle between their normals: cos θ = |a₁a₂ + b₁b₂ + c₁c₂|/(√(a₁² + b₁² + c₁²)√(a₂² + b₂² + c₂²))."
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "subject": "sr-maths",
+  "lesson": 38,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 38: Mathematical Reasoning — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Statements"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "A statement is a sentence that is either true or false, not both. Commands, questions and opinions are not statements."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Negation"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "~p is true when p is false. 'All A are B' is negated as 'Some A are not B' (or 'Not all A are B'); 'x < 5' as 'x is not less than 5'."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Compound statements"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "p ∧ q (and) is true only when both are true; p ∨ q (or) is false only when both are false. 'p if and only if q' (p ⇔ q) means both p ⇒ q and q ⇒ p."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Conditional statements"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "For 'if p then q' (p ⇒ q):"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Converse: if q then p. Inverse: if not p then not q. Contrapositive: if not q then not p. A statement and its contrapositive are equivalent; the converse need not be true."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "'It never rains when it is cold' becomes 'If it is cold, then it never rains'. 'p if q' means 'if q then p'."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Validating statements"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "By direct method, contrapositive, contradiction, or a counterexample to show a statement false."
+        ]
+      ]
+    }
+  ]
+}

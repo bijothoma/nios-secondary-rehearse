@@ -1,0 +1,105 @@
+{
+  "subject": "sr-maths",
+  "lesson": 34,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 34: Vectors — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Vectors and components"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "A vector has magnitude and direction (velocity, force); a scalar has magnitude only (mass, time, distance, work). a = a₁i + a₂j + a₃k has |a| = √(a₁² + a₂² + a₃²) and unit vector â = a/|a|. a₁i, a₂j, a₃k are the component vectors of a."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Position vector of the point dividing AB internally in m : n: (mb + na)/(m + n). Centroid: (a + b + c)/3. Collinear vectors are scalar multiples of each other (a₁/b₁ = a₂/b₂ = a₃/b₃)."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Scalar (dot) product"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "a·b = |a||b| cos θ = a₁b₁ + a₂b₂ + a₃b₃. a ⊥ b ⇔ a·b = 0. Projection of a on b = a·b/|b|. i·i = 1, i·j = 0. |b − a|² = |a|² + |b|² − 2a·b."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Vector (cross) product"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "a × b = |a||b| sin θ n̂ = determinant |i j k; a₁ a₂ a₃; b₁ b₂ b₃|. b × a = −(a × b). i × j = k, j × k = i, k × i = j. |a × b|² + (a·b)² = |a|²|b|² (Lagrange's identity)."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Area of a parallelogram with sides a, b = |a × b|; with diagonals d₁, d₂ = ½|d₁ × d₂|. A unit vector perpendicular to a and b is (a × b)/|a × b|."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Scalar triple product"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "[a b c] = a·(b × c) = the 3 × 3 determinant of the components. Three vectors are coplanar when [a b c] = 0; four points A, B, C, D are coplanar when [AB AC AD] = 0."
+        ]
+      ]
+    }
+  ]
+}

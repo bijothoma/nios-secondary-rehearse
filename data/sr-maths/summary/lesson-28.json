@@ -1,0 +1,87 @@
+{
+  "subject": "sr-maths",
+  "lesson": 28,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 28: Differentiation of Exponential and Logarithmic Functions — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Basic derivatives"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "d/dx eˣ = eˣ; d/dx aˣ = aˣ log a; d/dx log x = 1/x (x > 0). With the chain rule: d/dx e^(f(x)) = e^(f(x)) f'(x) and d/dx log f(x) = f'(x)/f(x). For example d/dx log(2x + 3) = 2/(2x + 3)."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Simplify first: e^(−3 log x) = x⁻³, so its derivative is −3x⁻⁴."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Logarithmic differentiation"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "For y = u^v (variable base and power), take logs: log y = v log u, then differentiate: (1/y) dy/dx = v' log u + v u'/u. Example: d/dx(xˣ) = xˣ(1 + log x)."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Parametric and second derivatives"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "For y = Ae^(kx) + Be^(−kx), y'' = k²y. Example: y = 500e^(7x) + 600e^(−7x) gives y'' = 49y."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Derivative of sin x with respect to log x = (cos x)/(1/x) = x cos x."
+        ]
+      ]
+    }
+  ]
+}

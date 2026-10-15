@@ -1,0 +1,114 @@
+{
+  "subject": "sr-maths",
+  "lesson": 32,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 32: Differential Equations — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Order and degree"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "The order is the order of the highest derivative. The degree is the power of the highest-order derivative after the equation is made free of radicals and fractions in the derivatives. If a derivative appears inside log, sin etc., the degree is not defined."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Examples: (d²y/dx²)² + x⁶(dy/dx)⁴ = 0 has degree 2; (d²y/dx²)^(1/3) = x becomes d²y/dx² = x³, degree 1."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Forming a differential equation"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Differentiate as many times as there are arbitrary constants and eliminate them. y = a cos x + b sin x gives y'' + y = 0. A particular solution has no arbitrary constants; the general solution of an nth-order equation has n."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Variables separable"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Write f(y)dy = g(x)dx and integrate both sides. Example: dy/dx = e^(x+y) ⇒ e^(−y)dy = eˣdx ⇒ −e^(−y) = eˣ + C."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Linear equations"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "dy/dx + Py = Q has integrating factor IF = e^(∫P dx), and solution y·IF = ∫Q·IF dx + C. For (x² − 1)dy/dx + 2xy = 2/(x² − 1), P = 2x/(x² − 1) and IF = x² − 1."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Homogeneous equations"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "If dy/dx = F(y/x), put y = vx."
+        ]
+      ]
+    }
+  ]
+}

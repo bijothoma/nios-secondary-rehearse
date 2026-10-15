@@ -1,0 +1,284 @@
+{
+ "lesson": 34,
+ "title": "Vectors",
+ "module": 9,
+ "summary": [
+  "## Vectors and components",
+  "A vector has magnitude and direction (velocity, force); a scalar has magnitude only (mass, time, distance, work). a = a₁i + a₂j + a₃k has |a| = √(a₁² + a₂² + a₃²) and unit vector â = a/|a|. a₁i, a₂j, a₃k are the component vectors of a.",
+  "Position vector of the point dividing AB internally in m : n: (mb + na)/(m + n). Centroid: (a + b + c)/3. Collinear vectors are scalar multiples of each other (a₁/b₁ = a₂/b₂ = a₃/b₃).",
+  "## Scalar (dot) product",
+  "a·b = |a||b| cos θ = a₁b₁ + a₂b₂ + a₃b₃. a ⊥ b ⇔ a·b = 0. Projection of a on b = a·b/|b|. i·i = 1, i·j = 0. |b − a|² = |a|² + |b|² − 2a·b.",
+  "## Vector (cross) product",
+  "a × b = |a||b| sin θ n̂ = determinant |i j k; a₁ a₂ a₃; b₁ b₂ b₃|. b × a = −(a × b). i × j = k, j × k = i, k × i = j. |a × b|² + (a·b)² = |a|²|b|² (Lagrange's identity).",
+  "Area of a parallelogram with sides a, b = |a × b|; with diagonals d₁, d₂ = ½|d₁ × d₂|. A unit vector perpendicular to a and b is (a × b)/|a × b|.",
+  "## Scalar triple product",
+  "[a b c] = a·(b × c) = the 3 × 3 determinant of the components. Three vectors are coplanar when [a b c] = 0; four points A, B, C, D are coplanar when [AB AC AD] = 0."
+ ],
+ "mcq": [
+  [
+   "Which of the following is a vector quantity?",
+   [
+    "Distance",
+    "Velocity",
+    "Time period",
+    "Work done"
+   ],
+   "B",
+   [
+    "April 2026"
+   ]
+  ],
+  [
+   "A unit vector in the direction of a = 2i + 3j + k is —",
+   [
+    "i + j + k",
+    "5(2i + 3j + k)",
+    "(2i + 3j + k)/√6",
+    "(2i + 3j + k)/√14"
+   ],
+   "D",
+   [
+    "April 2026"
+   ],
+   {
+    "work": "|a| = √(4 + 9 + 1) = √14 ⇒ â = a/√14."
+   }
+  ],
+  [
+   "If OACB is a parallelogram with OC = a and AB = b, then OA is —",
+   [
+    "a + b",
+    "a − b",
+    "½(a − b)",
+    "½(b − a)"
+   ],
+   "C",
+   [
+    "April 2026"
+   ],
+   {
+    "work": "OC = OA + OB = a and AB = OB − OA = b. Subtract: 2OA = a − b ⇒ OA = ½(a − b)."
+   }
+  ],
+  [
+   "The value of p for which p(i + j + k) is a unit vector is —",
+   [
+    "1/√3",
+    "−1/√3",
+    "±1/√3",
+    "±√3"
+   ],
+   "C",
+   [
+    "April 2025"
+   ],
+   {
+    "work": "|p|√3 = 1 ⇒ p = ±1/√3."
+   }
+  ],
+  [
+   "For non-zero a, b, a × b is a unit vector and |a| = |b| = √2. The angle between them is —",
+   [
+    "π/2",
+    "π/3",
+    "π/6",
+    "−π/2"
+   ],
+   "C",
+   [
+    "April 2025"
+   ],
+   {
+    "work": "|a × b| = |a||b| sin θ = 2 sin θ = 1 ⇒ sin θ = ½ ⇒ θ = π/6."
+   }
+  ],
+  [
+   "(i × j)·k + i·j equals —",
+   [
+    "0",
+    "1",
+    "2",
+    "−1"
+   ],
+   "B",
+   [
+    "April 2025"
+   ],
+   {
+    "work": "i × j = k, so k·k = 1; i·j = 0. Total 1."
+   }
+  ],
+  [
+   "Which of these is a vector quantity?",
+   [
+    "Mass",
+    "Density",
+    "Force",
+    "Time"
+   ],
+   "C",
+   [
+    "October 2024"
+   ]
+  ],
+  [
+   "The unit vector parallel to the resultant of a = 3i − 2j + k and b = −2i + 4j + k is —",
+   [
+    "i + 2j + 2k",
+    "(i + 2j + 2k)/5",
+    "(i + 2j + 2k)/3",
+    "±(i + 2j + 2k)/3"
+   ],
+   "C",
+   [
+    "October 2024"
+   ],
+   {
+    "work": "a + b = i + 2j + 2k, magnitude √(1 + 4 + 4) = 3."
+   }
+  ],
+  [
+   "P, Q, R have position vectors a − 2b, 3a − 4b, 7a − 8b. If QR = λPQ, then λ is —",
+   [
+    "2",
+    "4",
+    "½",
+    "−2"
+   ],
+   "A",
+   [
+    "April 2024"
+   ],
+   {
+    "work": "PQ = 2a − 2b; QR = 4a − 4b = 2(2a − 2b) ⇒ λ = 2."
+   }
+  ],
+  [
+   "If |a| = 10, |b| = 2 and |a·b| = 12, then |a × b| is —",
+   [
+    "5",
+    "10",
+    "14",
+    "16"
+   ],
+   "D",
+   [
+    "October 2025"
+   ],
+   {
+    "work": "|a × b|² = |a|²|b|² − (a·b)² = 400 − 144 = 256 ⇒ 16."
+   }
+  ],
+  [
+   "If a + b = i and a = 2i − 2j + 2k, then |b| is —",
+   [
+    "1/3",
+    "3",
+    "1",
+    "−3"
+   ],
+   "B",
+   [
+    "October 2025"
+   ],
+   {
+    "work": "b = i − a = −i + 2j − 2k ⇒ |b| = √(1 + 4 + 4) = 3."
+   }
+  ],
+  [
+   "If a and b are unit vectors, (a·b)² + |a × b|² is —",
+   [
+    "0",
+    "1",
+    "2",
+    "sin θ + cos θ"
+   ],
+   "B",
+   [
+    "April 2024"
+   ],
+   {
+    "work": "cos²θ + sin²θ = 1."
+   }
+  ]
+ ],
+ "objective": [
+  [
+   "Fill in the blanks: (a) The unit vector along 2i + j + 2k is ______. (b) (a − b) × (a + b) = ______.",
+   "(a) |a| = 3 ⇒ (2i + j + 2k)/3.\n(b) a × a + a × b − b × a − b × b = 0 + a × b + a × b − 0 = 2(a × b).",
+   [
+    "April 2024"
+   ]
+  ],
+  [
+   "Fill in the blanks: (a) If a = 2i − 3j and b = −6i + mj are collinear, m = ______. (b) The position vector of the centroid of ΔABC is ______.",
+   "(a) 2/(−6) = −3/m ⇒ m = 9.\n(b) (a + b + c)/3.",
+   [
+    "October 2025",
+    "October 2024"
+   ]
+  ]
+ ],
+ "objective4": [
+  [
+   "Answer: (i) What are xi, yj, zk called for r = xi + yj + zk? (ii) If |OA| = 4, |OB| = 5, |OC| = 6 along the axes, express OP. (iii) The centroid of ΔABC with position vectors a, b, c? (iv) The point dividing AB internally in 2 : 3?",
+   "(i) The component vectors of r along the axes.\n(ii) OP = 4i + 5j + 6k.\n(iii) (a + b + c)/3.\n(iv) (2b + 3a)/(2 + 3) = (3a + 2b)/5.",
+   [
+    "October 2024"
+   ]
+  ]
+ ],
+ "objective6": [
+  [
+   "a = i + j + k and b = i − j + k. (a) Find a × b. (b) Find the angle between a and b. (c) Find the projection of a on b. (d) Is a × b = b × a? (e) Find the area of the parallelogram with a and b as diagonals. (f) Check whether |a × b|² = |a|²|b|² − (a·b)².",
+   "(a) a × b = |i j k; 1 1 1; 1 −1 1| = i(1 + 1) − j(1 − 1) + k(−1 − 1) = 2i − 2k.\n(b) a·b = 1 − 1 + 1 = 1; cos θ = 1/(√3·√3) = 1/3 ⇒ θ = cos⁻¹(1/3).\n(c) a·b/|b| = 1/√3.\n(d) No — b × a = −(a × b) = −2i + 2k.\n(e) ½|a × b| = ½√(4 + 4) = √2.\n(f) |a × b|² = 8; |a|²|b|² − (a·b)² = 9 − 1 = 8. True.",
+   [
+    "April 2026"
+   ]
+  ],
+  [
+   "a = i + j + k and b = i + j. (a) a·b; (b) a unit vector ⊥ both; (c) area with a and b as diagonals; (d) verify |a × b|² = a²b² − (a·b)²; (e) |2b × a|; (f) is a × b = b × a?",
+   "(a) 1 + 1 + 0 = 2.\n(b) a × b = |i j k; 1 1 1; 1 1 0| = −i + j + 0k; unit vector (−i + j)/√2.\n(c) ½|a × b| = ½√2 = √2/2.\n(d) |a × b|² = 2; a²b² − (a·b)² = 3·2 − 4 = 2. Verified.\n(e) |2b × a| = 2|a × b| = 2√2.\n(f) No — they are opposite vectors.",
+   [
+    "April 2025"
+   ]
+  ]
+ ],
+ "vsa": [
+  [
+   "If |a| = 2, |b| = 3 and a·b = 4, find |b − a|.",
+   "|b − a|² = |b|² + |a|² − 2a·b = 9 + 4 − 8 = 5 ⇒ |b − a| = √5.",
+   [
+    "April 2025"
+   ]
+  ],
+  [
+   "Find a vector of magnitude 6 perpendicular to a = 4i − j + 3k and b = −2i + j − 2k.",
+   "a × b = |i j k; 4 −1 3; −2 1 −2| = i(2 − 3) − j(−8 + 6) + k(4 − 2) = −i + 2j + 2k, magnitude 3.\nRequired vector = ±6(−i + 2j + 2k)/3 = ±2(−i + 2j + 2k).",
+   [
+    "April 2024"
+   ]
+  ],
+  [
+   "Find the projection of a = 2i + 3j + 2k on b = i + 2j + k.",
+   "a·b = 2 + 6 + 2 = 10; |b| = √6.\nProjection = a·b/|b| = 10/√6."
+  ]
+ ],
+ "sa": [
+  [
+   "Show that the points with position vectors 4i + 8j + 12k, 2i + 4j + 6k, 3i + 5j + 4k and 5i + 8j + 5k are coplanar.",
+   "AB = −2i − 4j − 6k, AC = −i − 3j − 8k, AD = i + 0j − 7k.\n[AB AC AD] = |−2 −4 −6; −1 −3 −8; 1 0 −7| = −2(21 − 0) + 4(7 + 8) − 6(0 + 3) = −42 + 60 − 18 = 0.\nSo the four points are coplanar.",
+   [
+    "April 2026"
+   ]
+  ],
+  [
+   "Show that the points with position vectors 4i + 5j + k, −j − k, 3i + 9j + 4k and −4i + 4j + 4k are coplanar.",
+   "AB = −4i − 6j − 2k, AC = −i + 4j + 3k, AD = −8i − j + 3k.\n|−4 −6 −2; −1 4 3; −8 −1 3| = −4(12 + 3) + 6(−3 + 24) − 2(1 + 32) = −60 + 126 − 66 = 0.\nCoplanar.",
+   [
+    "April 2025"
+   ]
+  ]
+ ],
+ "la": []
+}

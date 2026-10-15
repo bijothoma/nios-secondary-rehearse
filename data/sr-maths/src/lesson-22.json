@@ -1,0 +1,177 @@
+{
+ "lesson": 22,
+ "title": "Inverse of a Matrix and its Applications",
+ "module": 6,
+ "summary": [
+  "## Adjoint",
+  "adj A is the transpose of the matrix of cofactors. For A = [[a, b], [c, d]], adj A = [[d, −b], [−c, a]] (swap the diagonal, change the sign of the off-diagonal). A(adj A) = (adj A)A = |A|I.",
+  "## Inverse",
+  "A⁻¹ exists only when A is non-singular (|A| ≠ 0): A⁻¹ = (1/|A|) adj A. Then (A⁻¹)⁻¹ = A, (AB)⁻¹ = B⁻¹A⁻¹ and (A')⁻¹ = (A⁻¹)'. For [[k, 2], [3, 4]] to be invertible, 4k − 6 ≠ 0, i.e. k ≠ 3/2.",
+  "## Elementary transformations",
+  "Write A = IA and apply row operations to both sides until the left side becomes I; then I = (A⁻¹)A. With column operations write A = AI instead. Do not mix row and column operations.",
+  "## Solving equations",
+  "A system AX = B with |A| ≠ 0 has the unique solution X = A⁻¹B. Steps: find |A|, the cofactors, adj A, A⁻¹, then multiply by B."
+ ],
+ "mcq": [
+  [
+   "If A = [[2, 5], [1, 3]], then A⁻¹ is —",
+   [
+    "[[2, −1], [−5, 3]]",
+    "[[3, −5], [−1, 2]]",
+    "[[−3, 5], [1, −2]]",
+    "[[2, −5], [−1, 3]]"
+   ],
+   "B",
+   [
+    "April 2025"
+   ],
+   {
+    "work": "|A| = 6 − 5 = 1. adj A = [[3, −5], [−1, 2]]. A⁻¹ = adj A / 1."
+   }
+  ],
+  [
+   "The value of k for which [[k, 2], [3, 4]] is invertible is —",
+   [
+    "k = 2/3",
+    "k ≠ 2/3",
+    "k ≠ 3/2",
+    "k = 3/2"
+   ],
+   "C",
+   [
+    "April 2025"
+   ],
+   {
+    "work": "Invertible ⇔ |A| = 4k − 6 ≠ 0 ⇔ k ≠ 3/2."
+   }
+  ],
+  [
+   "If I[x, y, z]ᵀ = [5, −4, 1]ᵀ, then x + y + z is —",
+   [
+    "0",
+    "−2",
+    "1",
+    "2"
+   ],
+   "D",
+   [
+    "April 2024"
+   ],
+   {
+    "work": "I X = X, so x = 5, y = −4, z = 1 ⇒ x + y + z = 2."
+   }
+  ],
+  [
+   "If A is invertible, (A⁻¹)⁻¹ is —",
+   [
+    "A",
+    "A'",
+    "I",
+    "adj A"
+   ],
+   "A",
+   [
+    "October 2024"
+   ]
+  ],
+  [
+   "If A is a 3 × 3 matrix with |A| = 4, then |adj A| is —",
+   [
+    "4",
+    "8",
+    "16",
+    "64"
+   ],
+   "C",
+   {
+    "work": "|adj A| = |A|ⁿ⁻¹ = 4² = 16 for n = 3."
+   }
+  ]
+ ],
+ "objective": [
+  [
+   "Fill in the blanks: (a) If AX = B has a unique solution, X = ______. (b) A⁻¹ = ______ in terms of adj A.",
+   "(a) A⁻¹B.\n(b) (1/|A|) adj A.",
+   [
+    "April 2024"
+   ]
+  ],
+  [
+   "True or False: (a) The adjoint of [[2, 3], [1, −2]] is [[−2, −3], [−1, 2]]. (b) Adj A = Adj B for non-singular A and B implies A = B.",
+   "(a) True — swap 2 and −2, negate 3 and 1: [[−2, −3], [−1, 2]].\n(b) False — for 3 × 3 matrices adj(−A) = (−1)² adj A = adj A, yet −A ≠ A.",
+   [
+    "April 2026",
+    "October 2025"
+   ]
+  ]
+ ],
+ "vsa": [
+  [
+   "Using the matrix method, solve 5x − 7y = 3, x + 3y = 5.",
+   "A = [[5, −7], [1, 3]], B = [3, 5]ᵀ. |A| = 15 + 7 = 22.\nA⁻¹ = (1/22)[[3, 7], [−1, 5]].\nX = A⁻¹B = (1/22)[3·3 + 7·5, −3 + 25] = (1/22)[44, 22] = [2, 1].\nx = 2, y = 1.",
+   [
+    "April 2026"
+   ]
+  ],
+  [
+   "Using elementary row operations, find the inverse of A = [[3, 5], [4, 7]].",
+   "Write A = IA.\nR₂ → R₂ − R₁: [[3, 5], [1, 2]] = [[1, 0], [−1, 1]]A.\nR₁ → R₁ − 3R₂: [[0, −1], [1, 2]] = [[4, −3], [−1, 1]]A.\nR₂ → R₂ + 2R₁: [[0, −1], [1, 0]] = [[4, −3], [7, −5]]A.\nR₁ → −R₁, then interchange R₁ and R₂: I = [[7, −5], [−4, 3]]A.\nA⁻¹ = [[7, −5], [−4, 3]]. (Check: |A| = 21 − 20 = 1 and adj A gives the same.)",
+   [
+    "April 2026"
+   ]
+  ],
+  [
+   "Solve the matrix equation [[2, −3], [1, 1]][x, y]ᵀ = [1, 3]ᵀ.",
+   "|A| = 2 + 3 = 5; A⁻¹ = (1/5)[[1, 3], [−1, 2]].\nX = (1/5)[1 + 9, −1 + 6] = (1/5)[10, 5] = [2, 1] ⇒ x = 2, y = 1.",
+   [
+    "October 2024"
+   ]
+  ],
+  [
+   "Find A⁻¹ for A = [[1, 2], [2, 5]].",
+   "|A| = 5 − 4 = 1. adj A = [[5, −2], [−2, 1]] ⇒ A⁻¹ = [[5, −2], [−2, 1]].",
+   [
+    "April 2024"
+   ]
+  ]
+ ],
+ "sa": [
+  [
+   "Using elementary column transformations, find the inverse of A = [[2, −6], [1, −2]].",
+   "|A| = −4 + 6 = 2, so A⁻¹ exists. Write A = AI.\nC₂ → C₂ + 3C₁: [[2, 0], [1, 1]] = A[[1, 3], [0, 1]].\nC₁ → C₁ − C₂: [[2, 0], [0, 1]] = A[[−2, 3], [−1, 1]].\nC₁ → C₁/2: [[1, 0], [0, 1]] = A[[−1, 3], [−½, 1]].\nA⁻¹ = [[−1, 3], [−½, 1]].",
+   [
+    "October 2024"
+   ]
+  ],
+  [
+   "Using the matrix method, solve 2x − 3y + 5z = 16, 3x + 2y − 4z = −4, x + y − 2z = −3.",
+   "|A| = 2(−4 + 4) + 3(−6 + 4) + 5(3 − 2) = 0 − 6 + 5 = −1.\nCofactors: C₁₁ = 0, C₁₂ = 2, C₁₃ = 1; C₂₁ = −1, C₂₂ = −9, C₂₃ = −5; C₃₁ = 2, C₃₂ = 23, C₃₃ = 13.\nA⁻¹ = −adj A = −[[0, −1, 2], [2, −9, 23], [1, −5, 13]].\nX = A⁻¹B: x = −(0 + 4 − 6) = 2; y = −(32 + 36 − 69) = 1; z = −(16 + 20 − 39) = 3.\nx = 2, y = 1, z = 3.",
+   [
+    "April 2025"
+   ]
+  ],
+  [
+   "Using the matrix method, solve x + 2y + 3z = 0, 2x + 3y + 2z = −2, 3x − 3y + 4z = 13.",
+   "|A| = 1(12 + 6) − 2(8 − 6) + 3(−6 − 9) = 18 − 4 − 45 = −31.\nadj A = [[18, −17, −5], [−2, −5, 4], [−15, 9, −1]].\nX = A⁻¹B = (−1/31)[18·0 − 17(−2) − 5·13, −2·0 − 5(−2) + 4·13, −15·0 + 9(−2) − 13]\n= (−1/31)[−31, 62, −31] = [1, −2, 1].\nx = 1, y = −2, z = 1.",
+   [
+    "October 2025"
+   ]
+  ]
+ ],
+ "la": [
+  [
+   "If A = [[1, 1, 1], [1, 2, −3], [2, −1, 3]], find A⁻¹ and use it to solve x + y + z = −2, x + 2y − 3z = 12, 2x − y + 3z = −13.",
+   "|A| = 1(6 − 3) − 1(3 + 6) + 1(−1 − 4) = 3 − 9 − 5 = −11.\nCofactors: C₁₁ = 3, C₁₂ = −9, C₁₃ = −5; C₂₁ = −4, C₂₂ = 1, C₂₃ = 3; C₃₁ = −5, C₃₂ = 4, C₃₃ = 1.\nadj A = [[3, −4, −5], [−9, 1, 4], [−5, 3, 1]]; A⁻¹ = (−1/11) adj A.\nX = A⁻¹B with B = [−2, 12, −13]:\nx = (−1/11)(−6 − 48 + 65) = (−1/11)(11) = −1.\ny = (−1/11)(18 + 12 − 52) = (−1/11)(−22) = 2.\nz = (−1/11)(10 + 36 − 13) = (−1/11)(33) = −3.\nx = −1, y = 2, z = −3.",
+   [
+    "April 2026"
+   ]
+  ],
+  [
+   "Using the matrix method, solve 3x + y + z = 1, 2x + 2z = 0, 5x − y + 2z = 4.",
+   "|A| = 3(0 + 2) − 1(4 − 10) + 1(−2 − 0) = 6 + 6 − 2 = 10.\nCofactors: C₁₁ = 2, C₁₂ = 6, C₁₃ = −2; C₂₁ = −3, C₂₂ = 1, C₂₃ = 8; C₃₁ = 2, C₃₂ = −4, C₃₃ = −2.\nadj A = [[2, −3, 2], [6, 1, −4], [−2, 8, −2]].\nX = (1/10)adj A · [1, 0, 4] = (1/10)[2 + 8, 6 − 16, −2 − 8] = [1, −1, −1].\nx = 1, y = −1, z = −1.",
+   [
+    "January-February 2021"
+   ]
+  ]
+ ]
+}

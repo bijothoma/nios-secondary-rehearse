@@ -1,0 +1,105 @@
+{
+  "subject": "sr-maths",
+  "lesson": 16,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 16: Conic Sections — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Conic as a locus"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "A conic is the locus of a point whose distance from a fixed point (focus) bears a constant ratio e (eccentricity) to its distance from a fixed line (directrix): PS = e·PM. e = 1 gives a parabola, e < 1 an ellipse and e > 1 a hyperbola."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Parabola"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "y² = 4ax: vertex (0, 0), focus (a, 0), directrix x = −a, axis y = 0, latus rectum 4a. Similarly x² = 4ay has focus (0, a). With vertex (h, k): (y − k)² = 4a(x − h). The normal at the vertex is the axis, so it passes through the focus."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Ellipse"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "x²/a² + y²/b² = 1 (a > b): b² = a²(1 − e²), foci (±ae, 0), vertices (±a, 0), major axis 2a, minor axis 2b, latus rectum 2b²/a, directrices x = ±a/e. If b > a the major axis is along the y-axis and the roles of x and y swap."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Hyperbola"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "x²/a² − y²/b² = 1: b² = a²(e² − 1), foci (±ae, 0), vertices (±a, 0), transverse axis 2a, latus rectum 2b²/a. For y²/a² − x²/b² = 1 the vertices and foci are on the y-axis."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Method"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Bring the equation to standard form by dividing by the constant, read a² and b², find e, then the foci, vertices and latus rectum."
+        ]
+      ]
+    }
+  ]
+}

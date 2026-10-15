@@ -1,0 +1,47 @@
+{
+ "lesson": 20,
+ "title": "Matrices",
+ "module": 6,
+ "summary": [
+  "## Matrix and its order",
+  "A matrix is a rectangular array of numbers. One with m rows and n columns has order m × n; its element in row i and column j is aᵢⱼ. Example: aᵢⱼ = (i − j)/(i + j) gives a₂₃ = −1/5 and a₁₂ = −1/3.",
+  "Types: row, column, square, zero, diagonal, scalar (diagonal with equal entries), identity I (scalar with 1s), upper and lower triangular. Every identity matrix is a scalar matrix, but not every scalar matrix is an identity matrix.",
+  "Two matrices are equal when they have the same order and equal corresponding elements; equate them entry by entry.",
+  "## Operations",
+  "Addition and subtraction need matrices of the same order. Scalar multiplication multiplies every element.",
+  "Product AB exists only when the number of columns of A equals the number of rows of B; an m × n times an n × p matrix gives m × p. In general AB ≠ BA, and AB = O does not force A = O or B = O.",
+  "## Transpose",
+  "A' is obtained by turning rows into columns. (A')' = A, (A + B)' = A' + B', (kA)' = kA' and (AB)' = B'A'.",
+  "A is symmetric if A' = A and skew-symmetric if A' = −A; every diagonal element of a skew-symmetric matrix is 0.",
+  "## Useful results",
+  "If A² = A then (I + A)² − 3A = I + 2A + A² − 3A = I. For A = [[cos α, −sin α], [sin α, cos α]], A + A' = 2 cos α · I, so A + A' = I gives cos α = ½, i.e. α = π/3."
+ ],
+ "mcq": [
+  ["If [[4, 3], [x, 5]] = [[y, z], [1, 5]], then —", ["x = 1, y = 3, z = 4", "x = 1, y = 4, z = 3", "x = 3, y = 1, z = 4", "x = 3, y = 4, z = 1"], "B", ["April 2026"], {"work": "Equal matrices have equal corresponding entries: y = 4, z = 3, x = 1."}],
+  ["In A = [[0, 6, 3], [−6, −3, 4], [2, −2, 0]], the value of a₁₃a₂₃ + a₃₁ is —", ["0", "12", "−4", "14"], "D", ["April 2026"], {"work": "a₁₃ = 3, a₂₃ = 4, a₃₁ = 2 ⇒ 3 × 4 + 2 = 14."}],
+  ["If A is a square matrix with A² = A, then (I + A)² − 3A equals —", ["I", "2A", "3I", "A"], "A", ["April 2025"], {"work": "(I + A)² = I + 2A + A² = I + 3A (since A² = A). So (I + A)² − 3A = I."}],
+  ["If A = [[cos α, −sin α], [sin α, cos α]] and A + A' = I, then α is —", ["π/2", "π/3", "π/4", "π/6"], "B", ["April 2025", "April 2024"], {"work": "A + A' = [[2 cos α, 0], [0, 2 cos α]] = I ⇒ 2 cos α = 1 ⇒ α = π/3."}],
+  ["[[2a, b], [−4, 6]] = [[3, −2], [d, 3c]] for —", ["a = 3/2, b = −2, c = −2, d = 4", "a = −3/2, b = −2, c = 2, d = 4", "a = 3/2, b = −2, c = 2, d = −4", "a = 3/2, b = −2, c = 2, d = 4"], "C", ["October 2024"], {"work": "2a = 3 ⇒ a = 3/2; b = −2; d = −4; 3c = 6 ⇒ c = 2."}],
+  ["For A = [[2, 3], [0, 1]] and B = [0, −1, 3]ᵀ —", ["AB exists", "BA exists", "both exist", "neither exists"], "D", ["October 2024"], {"work": "A is 2 × 2 and B is 3 × 1. AB needs 2 = 3 (no); BA needs 1 = 2 (no). Neither exists."}],
+  ["If A = [[2, −1, 3], [−4, 5, 1]] and B = [[2, 3], [4, −2], [1, 5]], then —", ["only AB is defined", "only BA is defined", "neither is defined", "both AB and BA are defined"], "D", ["October 2025"], {"work": "A is 2 × 3, B is 3 × 2. AB is 2 × 2 and BA is 3 × 3 — both defined."}],
+  ["If AB = O for matrices A and B, then —", ["it is not necessary that A = O or B = O", "A = O or B = O", "A = O and B = O", "all of the above are wrong"], "A", ["October 2025"], {"work": "Example: A = [[1, 0], [0, 0]], B = [[0, 0], [0, 1]] are non-zero but AB = O."}],
+  ["The 2 × 3 matrix with aᵢⱼ = (i + 2j)/2 is —", ["[[3/2, 3], [2, 3], [5/2, 7/2]]", "[[3/2, 2], [5/2, 3], [7/2, 4]]", "[[3/2, 5/2, 7/2], [2, 3, 4]]", "[[3/2, 2, 5/2], [3, 3, 7/2]]"], "C", ["April 2024"], {"work": "Row 1 (i = 1): (1 + 2)/2, (1 + 4)/2, (1 + 6)/2 = 3/2, 5/2, 7/2.\nRow 2 (i = 2): 4/2, 6/2, 8/2 = 2, 3, 4."}],
+  ["Which statement is true?", ["Every scalar matrix is an identity matrix", "Every identity matrix is a scalar matrix", "Every diagonal matrix is an identity matrix", "A square matrix of all 1s is an identity matrix"], "B", ["April 2024"]]
+ ],
+ "objective": [
+  ["For the 2 × 3 matrix with aᵢⱼ = (i − j)/(i + j), find (a) a₂₃ and (b) a₁₂.", "(a) a₂₃ = (2 − 3)/(2 + 3) = −1/5.\n(b) a₁₂ = (1 − 2)/(1 + 2) = −1/3.", ["April 2026"]],
+  ["Fill in the blanks: (a) It is not possible to add two matrices of ______ orders. (b) A square matrix A with A' = −A is called ______.", "(a) different\n(b) skew-symmetric", ["October 2024"]]
+ ],
+ "objective4": [
+  ["A and B are 2 × 2 matrices with aᵢⱼ = i + j and bᵢⱼ = i − j. Find (i) A + 2B, (ii) AB, (iii) A', (iv) B⁻¹.", "A = [[2, 3], [3, 4]], B = [[0, −1], [1, 0]].\n(i) A + 2B = [[2, 1], [5, 4]].\n(ii) AB = [[2·0 + 3·1, 2·(−1) + 3·0], [3·0 + 4·1, 3·(−1) + 4·0]] = [[3, −2], [4, −3]].\n(iii) A' = [[2, 3], [3, 4]] (A is symmetric).\n(iv) |B| = 0·0 − (−1)(1) = 1; B⁻¹ = [[0, 1], [−1, 0]].", ["October 2025"]],
+  ["True or False: (a) Two matrices are comparable if they have the same number of rows and columns. (b) If A is skew-symmetric, all its diagonal elements are zero. (c) (AB)' = A'B'. (d) If A = [[2, −1, 5], [3, 8, 7]], then A' = [[2, 3], [−1, 8], [5, 7]].", "(a) True.\n(b) True — aᵢᵢ = −aᵢᵢ ⇒ aᵢᵢ = 0.\n(c) False — (AB)' = B'A'.\n(d) True — rows become columns.", ["April 2026", "April 2024"]]
+ ],
+ "vsa": [
+  ["For any 3 × 3 matrix A, prove that (A')' = A.", "Let A = [aᵢⱼ]. Then A' = [bᵢⱼ] with bᵢⱼ = aⱼᵢ, and (A')' = [cᵢⱼ] with cᵢⱼ = bⱼᵢ = aᵢⱼ.\nSo (A')' and A have the same order and equal elements: (A')' = A.", ["April 2025"]],
+  ["For what values of x and y are [[2x + 1, 3y], [0, y² − 5y]] and [[x + 3, y² + 2], [0, −6]] equal?", "2x + 1 = x + 3 ⇒ x = 2.\n3y = y² + 2 ⇒ y² − 3y + 2 = 0 ⇒ y = 1 or 2.\ny² − 5y = −6 ⇒ y² − 5y + 6 = 0 ⇒ y = 2 or 3.\nCommon value: y = 2. So x = 2, y = 2.", ["October 2025"]]
+ ],
+ "sa": [
+  ["If A = [[1, 0, 2], [0, 2, 1], [2, 0, 3]] and B = [[2, 0, 1], [2, 1, 3], [1, −1, 0]], find A² + B² + 2AB.", "A² = [[5, 0, 8], [2, 4, 5], [8, 0, 13]].\nB² = [[5, −1, 2], [9, −2, 5], [0, −1, −2]].\nAB = [[4, −2, 1], [5, 1, 6], [7, −3, 2]], so 2AB = [[8, −4, 2], [10, 2, 12], [14, −6, 4]].\nSum = [[18, −5, 12], [21, 4, 22], [22, −7, 15]].", ["April 2024"]]
+ ],
+ "la": []
+}

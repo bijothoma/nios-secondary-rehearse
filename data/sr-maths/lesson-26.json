@@ -1,0 +1,157 @@
+{
+  "subject": "sr-maths",
+  "lesson": 26,
+  "title": "Differentiation",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Every answer shows the working. Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "5 × 1 = 5",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "If y = (1 − x²)⁵, then dy/dx is —",
+          "options": [
+            "5(1 − x²)⁴",
+            "(1 − 2x)⁵",
+            "5(1 − x²)⁴(−2x)",
+            "5(1 − 2x)⁴"
+          ],
+          "answer": "C",
+          "years": [
+            "October 2024"
+          ],
+          "work": "Chain rule: 5(1 − x²)⁴ × d/dx(1 − x²) = 5(1 − x²)⁴(−2x)."
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "If x = at² and y = 2at, then dy/dx is —",
+          "options": [
+            "t",
+            "1/t",
+            "2t",
+            "at"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2026"
+          ],
+          "work": "dx/dt = 2at, dy/dt = 2a ⇒ dy/dx = 2a/(2at) = 1/t."
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "The derivative of x³ − 3x² + 5 at x = 2 is —",
+          "options": [
+            "0",
+            "4",
+            "−4",
+            "12"
+          ],
+          "answer": "A",
+          "work": "3x² − 6x at x = 2: 12 − 12 = 0."
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "If y = (x + 1)/(x − 1), then dy/dx is —",
+          "options": [
+            "−2/(x − 1)²",
+            "2/(x − 1)²",
+            "1",
+            "−1/(x − 1)²"
+          ],
+          "answer": "A",
+          "work": "[(1)(x − 1) − (x + 1)(1)]/(x − 1)² = −2/(x − 1)²."
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "If x² + y² = 25, then dy/dx is —",
+          "options": [
+            "x/y",
+            "−x/y",
+            "y/x",
+            "−y/x"
+          ],
+          "answer": "B",
+          "work": "2x + 2y dy/dx = 0 ⇒ dy/dx = −x/y."
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions of two 1-mark parts.",
+      "marks": "2 × 2 = 4",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "True or False: (a) If x = at² and y = 2at, then d²y/dx² = t. (b) The derivative of a constant is zero.",
+          "answer": "(a) False — dy/dx = 1/t; d²y/dx² = (−1/t²)/(2at) = −1/(2at³).\n(b) True.",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Find: (a) d/dx(√x); (b) d/dx(x³ + 1/x).",
+          "answer": "(a) ½x^(−1/2) = 1/(2√x).\n(b) 3x² − 1/x²."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Answer the following (2 marks each).",
+      "marks": "3 × 2 = 6",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "If y = (x + 1)/(x − 1), x ≠ 1, find d²y/dx².",
+          "answer": "dy/dx = [(x − 1) − (x + 1)]/(x − 1)² = −2(x − 1)⁻².\nd²y/dx² = −2 × (−2)(x − 1)⁻³ = 4/(x − 1)³.",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "Find the derivative of x² from first principles.",
+          "answer": "f(x + h) − f(x) = (x + h)² − x² = 2xh + h².\n[2xh + h²]/h = 2x + h → 2x as h → 0."
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "If x³ + y³ = 3axy, find dy/dx.",
+          "answer": "3x² + 3y² dy/dx = 3a(y + x dy/dx).\ndy/dx(y² − ax) = ay − x² ⇒ dy/dx = (ay − x²)/(y² − ax)."
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Answer the following (4 marks each).",
+      "marks": "1 × 4 = 4",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "Find the derivative of tan x from first principles.",
+          "answer": "f'(x) = lim h→0 [tan(x + h) − tan x]/h = lim [sin(x + h)cos x − cos(x + h)sin x]/[h cos(x + h) cos x]\n= lim sin h/[h cos(x + h) cos x] = 1 × 1/cos²x = sec²x.",
+          "years": [
+            "January-February 2021"
+          ]
+        }
+      ]
+    }
+  ]
+}

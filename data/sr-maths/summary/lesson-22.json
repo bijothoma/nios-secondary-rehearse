@@ -1,0 +1,87 @@
+{
+  "subject": "sr-maths",
+  "lesson": 22,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 22: Inverse of a Matrix and its Applications — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Adjoint"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "adj A is the transpose of the matrix of cofactors. For A = [[a, b], [c, d]], adj A = [[d, −b], [−c, a]] (swap the diagonal, change the sign of the off-diagonal). A(adj A) = (adj A)A = |A|I."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Inverse"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "A⁻¹ exists only when A is non-singular (|A| ≠ 0): A⁻¹ = (1/|A|) adj A. Then (A⁻¹)⁻¹ = A, (AB)⁻¹ = B⁻¹A⁻¹ and (A')⁻¹ = (A⁻¹)'. For [[k, 2], [3, 4]] to be invertible, 4k − 6 ≠ 0, i.e. k ≠ 3/2."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Elementary transformations"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Write A = IA and apply row operations to both sides until the left side becomes I; then I = (A⁻¹)A. With column operations write A = AI instead. Do not mix row and column operations."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Solving equations"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "A system AX = B with |A| ≠ 0 has the unique solution X = A⁻¹B. Steps: find |A|, the cofactors, adj A, A⁻¹, then multiply by B."
+        ]
+      ]
+    }
+  ]
+}

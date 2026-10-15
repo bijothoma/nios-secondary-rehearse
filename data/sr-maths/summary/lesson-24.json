@@ -1,0 +1,87 @@
+{
+  "subject": "sr-maths",
+  "lesson": 24,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 24: Inverse Trigonometric Functions — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Principal value branches"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "sin⁻¹x: domain [−1, 1], range [−π/2, π/2]. cos⁻¹x: domain [−1, 1], range [0, π]. tan⁻¹x: domain R, range (−π/2, π/2). cot⁻¹x: range (0, π). sec⁻¹x: domain |x| ≥ 1, range [0, π] − {π/2}. cosec⁻¹x: domain |x| ≥ 1, range [−π/2, π/2] − {0}."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Key identities"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "sin⁻¹(−x) = −sin⁻¹x, tan⁻¹(−x) = −tan⁻¹x, cos⁻¹(−x) = π − cos⁻¹x. sin⁻¹x + cos⁻¹x = π/2 and tan⁻¹x + cot⁻¹x = π/2."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "tan⁻¹x + tan⁻¹y = tan⁻¹[(x + y)/(1 − xy)] (xy < 1). 2tan⁻¹x = tan⁻¹[2x/(1 − x²)]."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "tan⁻¹(tan θ) = θ only when θ is in (−π/2, π/2); otherwise shift by π. For example tan⁻¹(tan 5π/6) = 5π/6 − π = −π/6."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Simplifying"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Put x = sin θ, tan θ etc. and draw a right triangle. Example: cos(sin⁻¹x) = √(1 − x²); cot(cosec⁻¹x) = √(x² − 1); tan⁻¹[(√(1 + x²) − 1)/x] = ½tan⁻¹x (put x = tan θ)."
+        ]
+      ]
+    }
+  ]
+}

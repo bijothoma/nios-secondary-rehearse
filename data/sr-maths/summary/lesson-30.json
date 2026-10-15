@@ -1,0 +1,96 @@
+{
+  "subject": "sr-maths",
+  "lesson": 30,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 30: Integration — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Integration as anti-differentiation"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "∫f(x)dx = F(x) + C where F'(x) = f(x). Standard results: ∫xⁿdx = xⁿ⁺¹/(n + 1) (n ≠ −1); ∫dx/x = log|x|; ∫eˣdx = eˣ; ∫aˣdx = aˣ/log a; ∫sin x dx = −cos x; ∫cos x dx = sin x; ∫sec²x dx = tan x; ∫cosec²x dx = −cot x; ∫sec x tan x dx = sec x; ∫cosec x cot x dx = −cosec x."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "∫dx/(x² + a²) = (1/a)tan⁻¹(x/a); ∫dx/(x² − a²) = (1/2a)log|(x − a)/(x + a)|; ∫dx/√(a² − x²) = sin⁻¹(x/a)."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Substitution"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "If the integrand contains a function and its derivative, put t = that function. Examples: ∫cos√x/√x dx = 2 sin√x (t = √x); ∫(log x)²/x dx = (log x)³/3 (t = log x)."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "By parts"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "∫u v dx = u∫v dx − ∫[u'∫v dx]dx (choose u by ILATE). ∫x cos x dx = x sin x + cos x + C. ∫eˣ[f(x) + f'(x)]dx = eˣf(x) + C."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Partial fractions and simplification"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Split rational functions, complete the square for quadratics, and use identities first: cos²x/(1 + sin x) = 1 − sin x; e^(3 log x) = x³."
+        ]
+      ]
+    }
+  ]
+}

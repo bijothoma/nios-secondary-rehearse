@@ -1,0 +1,292 @@
+{
+  "subject": "sr-maths",
+  "lesson": 29,
+  "title": "Application of Derivatives",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Every answer shows the working. Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "6 × 1 = 6",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "The local minimum value of y = x³ − 3x + 2 in [0, 2] is —",
+          "options": [
+            "6",
+            "4",
+            "2",
+            "0"
+          ],
+          "answer": "D",
+          "years": [
+            "April 2025"
+          ],
+          "work": "y' = 3x² − 3 = 0 ⇒ x = 1 (in [0, 2]). y'' = 6x = 6 > 0 ⇒ minimum.\ny(1) = 1 − 3 + 2 = 0."
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "The slope of the tangent to √x + √y = 1 at (¼, ¼) is —",
+          "options": [
+            "1",
+            "−1",
+            "2",
+            "−½"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2024"
+          ],
+          "work": "1/(2√x) + y'/(2√y) = 0 ⇒ y' = −√y/√x = −(½)/(½) = −1."
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "f(x) = sin x, x ∈ (0, 2π), is decreasing in —",
+          "options": [
+            "(0, π/2)",
+            "(0, π)",
+            "(π/2, 3π/2)",
+            "(π, 2π)"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2024"
+          ],
+          "work": "f'(x) = cos x < 0 for π/2 < x < 3π/2."
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "f(x) = 2 cos x + x has a maximum or minimum at x =",
+          "options": [
+            "π/6",
+            "π/3",
+            "π/2",
+            "π"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2024"
+          ],
+          "work": "f'(x) = −2 sin x + 1 = 0 ⇒ sin x = ½ ⇒ x = π/6."
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "The interval in which f(x) = 2x² − 4x + 15 is increasing is —",
+          "options": [
+            "(−1, ∞)",
+            "(1, ∞)",
+            "(0, 1)",
+            "(1, 4)"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2025"
+          ],
+          "work": "f'(x) = 4x − 4 > 0 ⇒ x > 1."
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "The rate of change of the area of a circle with respect to its radius when r = 4 cm is —",
+          "options": [
+            "8π cm²/cm",
+            "16π cm²/cm",
+            "4π cm²/cm",
+            "2π cm²/cm"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2024"
+          ],
+          "work": "A = πr² ⇒ dA/dr = 2πr = 8π at r = 4."
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions of two 1-mark parts.",
+      "marks": "2 × 2 = 4",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "(a) Find the maximum value of f(x) = 1/(4x² + 2x + 1). (b) Using differentials, find √49.5.",
+          "answer": "(a) 4x² + 2x + 1 = 4(x + ¼)² + ¾ has least value ¾ at x = −¼, so f has maximum 4/3.\n(b) f(x) = √x, x = 49, Δx = 0.5: √49.5 ≈ 7 + 0.5/(2·7) = 7 + 0.0357 ≈ 7.036.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "True or False: (a) Rolle's theorem applies to f(x) = x on [−1, 1]. (b) The tangent to y = 2x³ − 15x² + 36x − 21 at (1, 2) is parallel to the x-axis.",
+          "answer": "(a) False — f(−1) = −1 ≠ f(1) = 1.\n(b) False — y' = 6x² − 30x + 36 = 12 at x = 1, not 0.",
+          "years": [
+            "April 2025",
+            "October 2025"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Objective type questions of four 1-mark parts.",
+      "marks": "1 × 4 = 4",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "Fill in the blanks: (a) f(x) = x − cos x is ______ for all x. (b) The local minimum of f(x) = 2x³ − 3x² − 12x + 8 is at x = ______. (c) The slope of the normal to x³ + x² + 3xy + y² − 5 = 0 at (1, 1) is ______. (d) The tangent to y = f(x) at (x₁, y₁) is parallel to the x-axis if ______.",
+          "answer": "(a) f'(x) = 1 + sin x ≥ 0 ⇒ increasing.\n(b) f' = 6x² − 6x − 12 = 6(x − 2)(x + 1) = 0; f'' = 12x − 6 > 0 at x = 2 ⇒ x = 2.\n(c) 3x² + 2x + 3y + 3xy' + 2yy' = 0 at (1, 1): 3 + 2 + 3 + 3y' + 2y' = 0 ⇒ y' = −8/5. Normal slope = 5/8.\n(d) dy/dx = 0 at (x₁, y₁).",
+          "years": [
+            "April 2026"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Objective type question of six 1-mark parts.",
+      "marks": "2 × 6 = 12",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "Cost C = x³/3 − 18x² + 160x for x units. Find (i) AC, (ii) MC, (iii) the output where AC = MC, (iv) the output where MC is minimum, (v) the output where AC is minimum, (vi) the minimum MC.",
+          "answer": "(i) AC = C/x = x²/3 − 18x + 160.\n(ii) MC = dC/dx = x² − 36x + 160.\n(iii) x²/3 − 18x = x² − 36x ⇒ 18x = (2/3)x² ⇒ x = 27 units.\n(iv) d(MC)/dx = 2x − 36 = 0 ⇒ x = 18 units.\n(v) d(AC)/dx = 2x/3 − 18 = 0 ⇒ x = 27 units.\n(vi) MC(18) = 324 − 648 + 160 = −164.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "f(x) = (1 − x + x²)/(1 + x + x²). (i) How many critical points? (ii) Their signs? (iii) Nature at the positive one? (iv) Nature at the negative one? (v) Local minimum value? (vi) Local maximum value?",
+          "answer": "f'(x) = [(−1 + 2x)(1 + x + x²) − (1 − x + x²)(1 + 2x)]/(1 + x + x²)² = 2(x² − 1)/(1 + x + x²)².\n(i) f' = 0 at x = ±1: 2 critical points.\n(ii) One positive (1), one negative (−1).\n(iii) f' changes − to + at x = 1: local minimum.\n(iv) f' changes + to − at x = −1: local maximum.\n(v) f(1) = 1/3. (vi) f(−1) = 3/1 = 3.",
+          "years": [
+            "October 2024"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Answer the following (2 marks each).",
+      "marks": "3 × 2 = 6",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "Show that y = log(1 + x) − 2x/(2 + x), x > −1, is increasing throughout its domain.",
+          "answer": "dy/dx = 1/(1 + x) − [2(2 + x) − 2x]/(2 + x)² = 1/(1 + x) − 4/(2 + x)²\n= [(2 + x)² − 4(1 + x)]/[(1 + x)(2 + x)²] = x²/[(1 + x)(2 + x)²] ≥ 0 for x > −1.\nSo y is increasing.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "Using differentials, find the approximate value of √0.6.",
+          "answer": "f(x) = √x, x = 0.64, Δx = −0.04.\n√0.6 ≈ 0.8 + (−0.04)/(2 × 0.8) = 0.8 − 0.025 = 0.775.",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "Find the intervals in which f(x) = 2x³ + x² − 20x is decreasing.",
+          "answer": "f'(x) = 6x² + 2x − 20 = 2(3x² + x − 10) = 2(3x − 5)(x + 2).\nf' < 0 between the roots: −2 < x < 5/3. Decreasing on (−2, 5/3).",
+          "years": [
+            "October 2025"
+          ],
+          "or": {
+            "q": "State Rolle's theorem.",
+            "answer": "If f is continuous on [a, b], differentiable on (a, b) and f(a) = f(b), then there is at least one c in (a, b) with f'(c) = 0."
+          }
+        }
+      ]
+    },
+    {
+      "no": 6,
+      "title": "Answer the following (4 marks each).",
+      "marks": "3 × 4 = 12",
+      "questions": [
+        {
+          "id": "6.1",
+          "type": "open",
+          "q": "Find the intervals in which f(x) = 2x³ − 3x² − 12x + 6 is increasing or decreasing.",
+          "answer": "f'(x) = 6x² − 6x − 12 = 6(x − 2)(x + 1).\nf' > 0 for x < −1 and x > 2; f' < 0 for −1 < x < 2.\nIncreasing on (−∞, −1) ∪ (2, ∞); decreasing on (−1, 2).",
+          "years": [
+            "April 2026"
+          ],
+          "or": {
+            "q": "Show that the tangents to 6y = 3x⁵ + 2x³ − 3x at x = ±3 are parallel.",
+            "answer": "6y' = 15x⁴ + 6x² − 3 ⇒ y' = (15x⁴ + 6x² − 3)/6.\nOnly even powers appear, so y'(3) = y'(−3) = (1215 + 54 − 3)/6 = 211.\nEqual slopes ⇒ the tangents are parallel."
+          }
+        },
+        {
+          "id": "6.2",
+          "type": "open",
+          "q": "Find the points where the tangents to y = 2x³ − 15x² + 36x − 21 are parallel to the x-axis, and their equations.",
+          "answer": "y' = 6x² − 30x + 36 = 6(x − 2)(x − 3) = 0 ⇒ x = 2, 3.\ny(2) = 16 − 60 + 72 − 21 = 7; y(3) = 54 − 135 + 108 − 21 = 6.\nPoints (2, 7) and (3, 6); tangents y = 7 and y = 6.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "6.3",
+          "type": "open",
+          "q": "Divide 75 into two parts such that the product of one part and the square of the other is maximum.",
+          "answer": "Let the parts be x and 75 − x; P = x²(75 − x) = 75x² − x³.\nP' = 150x − 3x² = 3x(50 − x) = 0 ⇒ x = 50. P'' = 150 − 6x = −150 < 0 ⇒ maximum.\nParts: 50 and 25.",
+          "years": [
+            "January-February 2021"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 7,
+      "title": "Answer the following (6 marks each).",
+      "marks": "2 × 6 = 12",
+      "questions": [
+        {
+          "id": "7.1",
+          "type": "open",
+          "q": "Verify Lagrange's mean value theorem for f(x) = (x − 1)(x − 2)(x − 3) on [0, 4].",
+          "answer": "f is a polynomial, so it is continuous on [0, 4] and differentiable on (0, 4).\nf(0) = −6, f(4) = 6 ⇒ [f(4) − f(0)]/(4 − 0) = 12/4 = 3.\nf(x) = x³ − 6x² + 11x − 6 ⇒ f'(x) = 3x² − 12x + 11.\n3c² − 12c + 11 = 3 ⇒ 3c² − 12c + 8 = 0 ⇒ c = 2 ± 2/√3 ≈ 3.15 or 0.85, both in (0, 4).\nHence the theorem is verified.",
+          "years": [
+            "April 2025"
+          ],
+          "or": {
+            "q": "Verify Rolle's theorem for f(x) = x(x − 1)(x − 2) on [0, 2].",
+            "answer": "Polynomial ⇒ continuous and differentiable. f(0) = f(2) = 0.\nf(x) = x³ − 3x² + 2x ⇒ f'(x) = 3x² − 6x + 2 = 0 ⇒ c = 1 ± 1/√3 ≈ 1.58 or 0.42, both in (0, 2).\nVerified."
+          }
+        },
+        {
+          "id": "7.2",
+          "type": "open",
+          "q": "Show that of all rectangles with a given perimeter, the square has the greatest area.",
+          "answer": "Let the perimeter be 2p and the sides x and p − x. Area A = x(p − x) = px − x².\nA' = p − 2x = 0 ⇒ x = p/2. A'' = −2 < 0 ⇒ maximum.\nThen both sides are p/2: the rectangle is a square.",
+          "years": [
+            "October 2024"
+          ],
+          "or": {
+            "q": "Find the point on y² = 4x nearest to (2, 1).",
+            "answer": "Take the point (t², 2t). D² = (t² − 2)² + (2t − 1)².\nd(D²)/dt = 4t(t² − 2) + 4(2t − 1) = 4t³ − 4 = 0 ⇒ t = 1 (second derivative 12t² > 0 ⇒ minimum).\nNearest point: (1, 2)."
+          }
+        }
+      ]
+    }
+  ]
+}

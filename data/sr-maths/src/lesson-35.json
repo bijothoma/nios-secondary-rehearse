@@ -1,0 +1,161 @@
+{
+ "lesson": 35,
+ "title": "Plane",
+ "module": 9,
+ "summary": [
+  "## Equations of a plane",
+  "General form: ax + by + cz + d = 0; (a, b, c) are the direction ratios of its normal. Normal (vector) form: r·n = p. Through a point A with normal n: (r − a)·n = 0, i.e. a(x − x₁) + b(y − y₁) + c(z − z₁) = 0.",
+  "Intercept form: x/a + y/b + z/c = 1. Divide the general equation by −d to get it; for 4x − 5y + 6z = 60 the intercepts are 15, −12, 10.",
+  "Through three points: (r − a)·[(b − a) × (c − a)] = 0, or a 3 × 3 determinant in x − x₁, y − y₁, z − z₁.",
+  "A plane perpendicular to the x-axis is x = constant.",
+  "## Distances and angles",
+  "Distance of (x₁, y₁, z₁) from ax + by + cz + d = 0: |ax₁ + by₁ + cz₁ + d|/√(a² + b² + c²). Distance of the origin from r·n = p (with unit n): p.",
+  "Distance between parallel planes r·n + d₁ = 0 and r·n + d₂ = 0: |d₁ − d₂|/|n|.",
+  "Angle between two planes = angle between their normals: cos θ = |a₁a₂ + b₁b₂ + c₁c₂|/(√(a₁² + b₁² + c₁²)√(a₂² + b₂² + c₂²))."
+ ],
+ "mcq": [
+  [
+   "The distance of the plane 3x − 4y + 12z = 3 from the origin is —",
+   [
+    "3/13",
+    "19/13",
+    "3",
+    "1"
+   ],
+   "A",
+   [
+    "April 2025"
+   ],
+   {
+    "work": "|−3|/√(9 + 16 + 144) = 3/13."
+   }
+  ],
+  [
+   "The x-intercept of the plane 2x − y + 2z + 7 = 0 is —",
+   [
+    "2",
+    "7/2",
+    "−7/2",
+    "−2"
+   ],
+   "C",
+   [
+    "April 2025"
+   ],
+   {
+    "work": "Put y = z = 0: 2x + 7 = 0 ⇒ x = −7/2."
+   }
+  ],
+  [
+   "The distance of (3, 4, −5) from 2x − 3y + 3z + 27 = 0 is —",
+   [
+    "6",
+    "√22",
+    "6/√22",
+    "√132"
+   ],
+   "C",
+   [
+    "October 2024"
+   ],
+   {
+    "work": "|6 − 12 − 15 + 27|/√(4 + 9 + 9) = 6/√22."
+   }
+  ],
+  [
+   "The distance of the plane r·(2i/7 − 3j/7 + 6k/7) = 4 from the origin is —",
+   [
+    "4",
+    "28",
+    "1/7",
+    "√7"
+   ],
+   "A",
+   [
+    "April 2024"
+   ],
+   {
+    "work": "The normal (2/7, −3/7, 6/7) is a unit vector (4 + 9 + 36 = 49), so the distance is 4."
+   }
+  ],
+  [
+   "The angle between x + 2y + z = 9 and 2x − y + z = 15 is —",
+   [
+    "tan⁻¹(1/6)",
+    "sin⁻¹(1/6)",
+    "cos⁻¹(1/6)",
+    "π/6"
+   ],
+   "C",
+   [
+    "October 2025"
+   ],
+   {
+    "work": "cos θ = (2 − 2 + 1)/(√6·√6) = 1/6."
+   }
+  ]
+ ],
+ "objective": [
+  [
+   "Fill in the blanks: (a) The z-intercept of 2x − 3y + 5z − 30 = 0 is ______. (b) The plane through (2, −3, 4) perpendicular to a line with direction ratios 1, 3, −2 is ______.",
+   "(a) x = y = 0 ⇒ 5z = 30 ⇒ 6.\n(b) 1(x − 2) + 3(y + 3) − 2(z − 4) = 0 ⇒ x + 3y − 2z + 15 = 0, i.e. r·(i + 3j − 2k) = −15.",
+   [
+    "April 2024"
+   ]
+  ]
+ ],
+ "objective4": [
+  [
+   "Fill in the blanks: (i) The plane through (1, 4, 6) normal to i − 2j + k is ______. (ii) The sum of the intercepts of 2x + 3y + 4z = 24 is ______. (iii) The plane through points with position vectors a, b, c is ______. (iv) The distance of (−1, 2, −3) from 2x − y + 2z = 13 is ______.",
+   "(i) r·(i − 2j + k) = (i + 4j + 6k)·(i − 2j + k) = 1 − 8 + 6 = −1.\n(ii) Intercepts 12, 8, 6 ⇒ sum 26.\n(iii) (r − a)·[(b − a) × (c − a)] = 0.\n(iv) |−2 − 2 − 6 − 13|/3 = 23/3.",
+   [
+    "October 2025"
+   ]
+  ]
+ ],
+ "vsa": [
+  [
+   "Reduce 4x − 5y + 6z − 60 = 0 to intercept form and find its intercepts.",
+   "4x − 5y + 6z = 60. Divide by 60: x/15 + y/(−12) + z/10 = 1.\nIntercepts: 15, −12, 10.",
+   [
+    "October 2024"
+   ]
+  ],
+  [
+   "Find the distance between the parallel planes 2x − y + 2z + 3 = 0 and 4x − 2y + 4z + 5 = 0.",
+   "Write the second as 2x − y + 2z + 5/2 = 0.\nDistance = |3 − 5/2|/√(4 + 1 + 4) = (1/2)/3 = 1/6."
+  ],
+  [
+   "Find the plane through (1, 2, 1) perpendicular to the x-axis.",
+   "The normal is i, so the plane is 1(x − 1) = 0 ⇒ x = 1.",
+   [
+    "October 2025"
+   ]
+  ]
+ ],
+ "sa": [
+  [
+   "Find the Cartesian equation of the plane through (1, 1, 0), (1, 2, 1) and (−2, 2, −1), and its vector equation.",
+   "AB = (0, 1, 1), AC = (−3, 1, −1).\nn = AB × AC = |i j k; 0 1 1; −3 1 −1| = i(−1 − 1) − j(0 + 3) + k(0 + 3) = (−2, −3, 3).\n−2(x − 1) − 3(y − 1) + 3z = 0 ⇒ 2x + 3y − 3z = 5.\nVector form: r·(2i + 3j − 3k) = 5.",
+   [
+    "April 2026"
+   ]
+  ],
+  [
+   "Reduce 4x − 5y + 6z − 60 = 0 to (a) intercept form and (b) normal form, and find the distance from the origin.",
+   "(a) x/15 + y/(−12) + z/10 = 1; intercepts 15, −12, 10.\n(b) |n| = √(16 + 25 + 36) = √77. Divide: (4x − 5y + 6z)/√77 = 60/√77.\nDistance from the origin = 60/√77.",
+   [
+    "April 2025"
+   ]
+  ]
+ ],
+ "la": [
+  [
+   "Find the vector and Cartesian equations of the plane through A(−2, 3, −1), B(−3, 7, −4) and C(−1, 0, −1). Also find its intercepts and its distance from the origin.",
+   "AB = (−1, 4, −3), AC = (1, −3, 0).\nn = AB × AC = i(0 − 9) − j(0 + 3) + k(3 − 4) = (−9, −3, −1), i.e. (9, 3, 1).\n9(x + 2) + 3(y − 3) + (z + 1) = 0 ⇒ 9x + 3y + z + 10 = 0.\nVector form: r·(9i + 3j + k) = −10.\nIntercepts: x = −10/9, y = −10/3, z = −10.\nDistance from origin = 10/√(81 + 9 + 1) = 10/√91.",
+   [
+    "April 2024"
+   ]
+  ]
+ ]
+}

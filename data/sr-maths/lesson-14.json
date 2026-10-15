@@ -1,0 +1,224 @@
+{
+  "subject": "sr-maths",
+  "lesson": 14,
+  "title": "Straight Lines",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Every answer shows the working. Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "7 × 1 = 7",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "The slope of a line which cuts off intercepts of equal length on the positive sides of the two axes is —",
+          "options": [
+            "−1",
+            "1",
+            "0",
+            "2"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2026"
+          ],
+          "work": "The line is x/a + y/a = 1, i.e. x + y = a, so y = −x + a and the slope is −1."
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "The foot of the perpendicular from (2, 3) to the line y = 3x + 4 is —",
+          "options": [
+            "(37/10, −1/10)",
+            "(−1/10, 37/10)",
+            "(10/37, −10)",
+            "(2/3, −1/3)"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2026"
+          ],
+          "work": "Line: 3x − y + 4 = 0. (x − 2)/3 = (y − 3)/(−1) = −(6 − 3 + 4)/(9 + 1) = −7/10.\nx = 2 − 21/10 = −1/10; y = 3 + 7/10 = 37/10."
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "The slope of a line which makes 60° with the negative direction of the x-axis is —",
+          "options": [
+            "1/√3",
+            "−1/√3",
+            "√3",
+            "−√3"
+          ],
+          "answer": "D",
+          "years": [
+            "October 2024"
+          ],
+          "work": "Angle with the positive x-axis = 180° − 60° = 120°; slope = tan 120° = −√3."
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "The equation x + 7y − 4 = 0 in slope–intercept form is —",
+          "options": [
+            "x/4 + 7y/4 = 1",
+            "x = −7y + 4",
+            "y = −x/7 + 4/7",
+            "y = x/7 + 4/7"
+          ],
+          "answer": "C",
+          "years": [
+            "October 2024"
+          ],
+          "work": "7y = −x + 4 ⇒ y = −(1/7)x + 4/7."
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "The x- and y-intercepts of 4x − 3y + 6 = 0 are —",
+          "options": [
+            "−3/2, −2",
+            "2/3, −1/2",
+            "−3/2, 2",
+            "−2/3, 1/2"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2024"
+          ],
+          "work": "y = 0 ⇒ x = −6/4 = −3/2. x = 0 ⇒ y = 6/3 = 2."
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "The distance between the lines 3x + 4y = 5 and 3x + 4y + 5 = 0 is —",
+          "options": [
+            "10",
+            "2",
+            "1",
+            "4"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2025"
+          ],
+          "work": "Write them as 3x + 4y − 5 = 0 and 3x + 4y + 5 = 0.\nDistance = |−5 − 5|/√(9 + 16) = 10/5 = 2."
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "The line with slope −3/2 through (−1, 2) is —",
+          "options": [
+            "3x − 2y + 1 = 0",
+            "3x + 2y + 1 = 0",
+            "3x − 2y − 1 = 0",
+            "3x + 2y − 1 = 0"
+          ],
+          "answer": "D",
+          "years": [
+            "April 2024"
+          ],
+          "work": "y − 2 = −(3/2)(x + 1) ⇒ 2y − 4 = −3x − 3 ⇒ 3x + 2y − 1 = 0."
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions of two 1-mark parts.",
+      "marks": "2 × 2 = 4",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "(a) The slope of the line y + 3 = 0 is ______. (b) The slope of the line through (2, 5) and (4, 9) is ______.",
+          "answer": "(a) y = −3 is parallel to the x-axis ⇒ slope 0.\n(b) (9 − 5)/(4 − 2) = 2.",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Fill in the blanks: (a) The line through (1, −2) cutting equal intercepts on the axes is ______. (b) Two lines are perpendicular if m₁m₂ = ______.",
+          "answer": "(a) x + y = a passes through (1, −2) ⇒ a = −1 ⇒ x + y + 1 = 0.\n(b) −1",
+          "years": [
+            "April 2025"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Objective type questions of four 1-mark parts.",
+      "marks": "1 × 4 = 4",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "For the line 3x − 4y + 12 = 0 find: (a) its slope; (b) its x-intercept; (c) its y-intercept; (d) its distance from the origin.",
+          "answer": "(a) 4y = 3x + 12 ⇒ slope = 3/4.\n(b) y = 0 ⇒ x = −4.\n(c) x = 0 ⇒ y = 3.\n(d) |12|/√(9 + 16) = 12/5."
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Answer the following (2 marks each).",
+      "marks": "3 × 2 = 6",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "Find the value of k for which the line (k − 3)x − (4 − k²)y + k² − 7k + 6 = 0 is parallel to the x-axis.",
+          "answer": "Parallel to the x-axis means the coefficient of x is zero: k − 3 = 0 ⇒ k = 3.\n(Check: the y-coefficient −(4 − 9) = 5 ≠ 0, so it is a genuine line.)",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "Find the equation of the line through the intersection of x + y = 5 and 2x − y − 7 = 0, parallel to the x-axis.",
+          "answer": "Adding: 3x = 12 ⇒ x = 4, then y = 1. A line parallel to the x-axis through (4, 1) is y = 1.",
+          "years": [
+            "April 2025"
+          ],
+          "or": {
+            "q": "Find the distance between the lines 2x + 3y = 4 and 4x + 6y = 20.",
+            "answer": "Write the second as 2x + 3y = 10. Distance = |10 − 4|/√(4 + 9) = 6/√13."
+          }
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "Find the angle between the x-axis and the line joining (5, 4) and (6, 3).",
+          "answer": "Slope m = (3 − 4)/(6 − 5) = −1 = tan θ ⇒ θ = 135°.",
+          "years": [
+            "April 2024"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Answer the following (4 marks each).",
+      "marks": "1 × 4 = 4",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "Find the equation of the line passing through the intersection of 5x − 3y = 1 and 2x + 3y = 23 and perpendicular to 5x + 3y = 1.",
+          "answer": "Adding the two equations: 7x = 24 ⇒ x = 24/7; then 3y = 5(24/7) − 1 = 113/7 ⇒ y = 113/21.\nSlope of 5x + 3y = 1 is −5/3, so the required slope is 3/5.\ny − 113/21 = (3/5)(x − 24/7) ⇒ 105y − 565 = 63x − 216 ⇒ 63x − 105y + 349 = 0.",
+          "years": [
+            "October 2025"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+ "lesson": 36,
+ "title": "Straight Line",
+ "module": 9,
+ "summary": [
+  "## Equations of a line in space",
+  "Through a point a parallel to b: r = a + λb. Cartesian: (x − x₁)/a = (y − y₁)/b = (z − z₁)/c, where a, b, c are direction ratios. Through two points: r = a + λ(b − a), i.e. (x − x₁)/(x₂ − x₁) = (y − y₁)/(y₂ − y₁) = (z − z₁)/(z₂ − z₁).",
+  "A term like z = −1 in (x − 2)/3 = (y − 5)/(−2), z = −1 means the direction ratio in z is 0.",
+  "Any point on a line: (x₁ + aλ, y₁ + bλ, z₁ + cλ) — use it to find points at a given distance.",
+  "## Angle between lines",
+  "cos θ = |a₁a₂ + b₁b₂ + c₁c₂|/(√(a₁² + b₁² + c₁²)√(a₂² + b₂² + c₂²)). A line given as the intersection of two planes has direction n₁ × n₂.",
+  "## Coplanar lines",
+  "Lines through A (direction d₁) and B (direction d₂) are coplanar when (B − A)·(d₁ × d₂) = 0. The plane containing them has normal d₁ × d₂ and passes through A."
+ ],
+ "mcq": [
+  ["The vector equation of the line through (2, −1, 4) parallel to i + 2j − k is —", ["r = i + 2j − k + λ(2i − j + 4k)", "r = i + 2j − k", "r = i − 2j − k", "r = 2i − j + 4k + λ(i + 2j − k)"], "D", ["October 2025"], {"work": "r = a + λb with a = 2i − j + 4k and b = i + 2j − k."}],
+  ["The line through (1, 4, 7) and (3, −2, 5) is —", ["(x − 1)/2 = (y − 4)/(−6) = (z − 7)/(−2)", "(x − 1)/2 = (y − 4)/2 = z/12", "(x − 1)/2 = (y − 4)/6 = (z − 7)/(−2)", "(x − 1)/2 = (y − 4)/(−2) = (z − 7)/2"], "A", ["October 2024"], {"work": "Direction ratios 3 − 1, −2 − 4, 5 − 7 = 2, −6, −2."}],
+  ["The direction ratios of the line (x − 1)/2 = (3 − y)/1 = (z + 4)/5 are —", ["2, 1, 5", "2, −1, 5", "1, 3, −4", "2, 3, 5"], "B", {"work": "(3 − y)/1 = (y − 3)/(−1), so the ratios are 2, −1, 5."}]
+ ],
+ "objective": [
+  ["Find the Cartesian form of r = (3i + 4j − 2k) + λ(i − j − 3k).", "Point (3, 4, −2), direction (1, −1, −3):\n(x − 3)/1 = (y − 4)/(−1) = (z + 2)/(−3).", ["April 2024"]]
+ ],
+ "vsa": [
+  ["Find the Cartesian equation of the line through (1, −1, 5) parallel to (x − 2)/3 = (y − 5)/(−2), z = −1.", "The given line has direction ratios 3, −2, 0 (z is constant).\nRequired line: (x − 1)/3 = (y + 1)/(−2), z = 5.", ["April 2026"]],
+  ["Find the vector equation of the line through (4, 3, 0) parallel to the join of (2, 5, −1) and (−1, 4, 3).", "Direction = (−1 − 2, 4 − 5, 3 + 1) = (−3, −1, 4).\nr = (4i + 3j) + λ(−3i − j + 4k).", ["April 2024"]],
+  ["Find the point on (x + 2)/3 = (y + 1)/2 = (z − 3)/2 at distance 3√2 from (1, 2, 3).", "General point (3λ − 2, 2λ − 1, 2λ + 3).\nDistance² = (3λ − 3)² + (2λ − 3)² + (2λ)² = 18 ⇒ 17λ² − 30λ = 0 ⇒ λ = 0 or 30/17.\nPoints (−2, −1, 3) and (56/17, 43/17, 111/17).", ["April 2025"]]
+ ],
+ "sa": [
+  ["Find the angle between the line x − 2y + z = 0 = x + 2y − 2z and the line (x − 1)/3 = (1 − y)/1 = z/0.", "Direction of the first = (1, −2, 1) × (1, 2, −2) = i(4 − 2) − j(−2 − 1) + k(2 + 2) = (2, 3, 4).\nSecond: (x − 1)/3 = (y − 1)/(−1) = z/0 ⇒ (3, −1, 0).\ncos θ = |6 − 3 + 0|/(√29 √10) = 3/√290 ⇒ θ = cos⁻¹(3/√290).", ["October 2025"]],
+  ["Prove that (x + 1)/3 = (y + 3)/5 = (z + 5)/7 and (x − 2)/1 = (y − 4)/4 = (z − 6)/7 are coplanar and find the plane containing them.", "A = (−1, −3, −5), d₁ = (3, 5, 7); B = (2, 4, 6), d₂ = (1, 4, 7).\nd₁ × d₂ = i(35 − 28) − j(21 − 7) + k(12 − 5) = (7, −14, 7).\n(B − A)·(d₁ × d₂) = (3, 7, 11)·(7, −14, 7) = 21 − 98 + 77 = 0 ⇒ coplanar.\nPlane: 7(x + 1) − 14(y + 3) + 7(z + 5) = 0 ⇒ x − 2y + z = 0.", ["October 2024", "April 2024"]]
+ ],
+ "la": [
+  ["Find the equation of the line through (−1, −3, −2) perpendicular to the lines x/1 = y/2 = z/3 and (x + 2)/(−3) = (y − 1)/2 = (z + 1)/5.", "The required direction is perpendicular to (1, 2, 3) and (−3, 2, 5):\n(1, 2, 3) × (−3, 2, 5) = i(10 − 6) − j(5 + 9) + k(2 + 6) = (4, −14, 8), i.e. (2, −7, 4).\nLine: (x + 1)/2 = (y + 3)/(−7) = (z + 2)/4."]
+ ]
+}

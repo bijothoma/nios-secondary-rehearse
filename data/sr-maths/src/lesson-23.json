@@ -1,0 +1,51 @@
+{
+ "lesson": 23,
+ "title": "Relations and Functions-II",
+ "module": 7,
+ "summary": [
+  "## Types of relations",
+  "A relation R on a set A is a subset of A × A. R is reflexive if (a, a) ∈ R for every a ∈ A; symmetric if (a, b) ∈ R ⇒ (b, a) ∈ R; transitive if (a, b), (b, c) ∈ R ⇒ (a, c) ∈ R. A relation with all three properties is an equivalence relation (for example equality, similarity of triangles, ad = bc on N × N).",
+  "To disprove a property give one counterexample. Example: |x − y| ≤ 2 on Z is reflexive and symmetric but not transitive (1R3, 3R5, but not 1R5).",
+  "## Types of functions",
+  "f is one-one (injective) if f(x₁) = f(x₂) ⇒ x₁ = x₂; it is onto (surjective) if every element of the codomain has a pre-image. f(x) = x² or x⁴ on R is many-one (f(−1) = f(1)) and not onto (negatives are missed). Linear functions such as 3 − 4x are one-one and onto R.",
+  "A graph is a function only if every vertical line meets it at most once — a circle is not a function.",
+  "## Composition and inverse",
+  "(f∘g)(x) = f(g(x)). Usually f∘g ≠ g∘f. f is invertible exactly when it is one-one and onto; find f⁻¹ by solving y = f(x) for x.",
+  "## Binary operations",
+  "A binary operation * on A is a function from A × A to A. It is commutative if a * b = b * a and associative if (a * b) * c = a * (b * c). Ordinary multiplication on N is both."
+ ],
+ "mcq": [
+  ["If f : R → R is f(x) = x⁴, then —", ["f is one-one and onto", "f is many-one and onto", "f is one-one but not onto", "f is neither one-one nor onto"], "D", ["April 2026"], {"work": "f(−1) = f(1) = 1, so not one-one. No real x gives f(x) = −1, so not onto."}],
+  ["If f(x) = x² + 2 and g(x) = 1 − 1/(1 − x), then f∘g(x) is —", ["x", "x⁴ + 4x² + 6", "x²/(1 − x)² + 2", "(x² + 2)/(x² + 1)"], "C", ["April 2026"], {"work": "g(x) = (1 − x − 1)/(1 − x) = −x/(1 − x).\nf(g(x)) = x²/(1 − x)² + 2."}],
+  ["R = {(1,1), (2,2), (3,3), (1,2), (2,3)} on {1, 2, 3} is —", ["reflexive only", "symmetric only", "transitive only", "symmetric and transitive"], "A", ["April 2026"], {"work": "All (a, a) are present: reflexive. (1,2) ∈ R but (2,1) ∉ R: not symmetric. (1,2), (2,3) ∈ R but (1,3) ∉ R: not transitive."}],
+  ["If a * b = ab/3 on R⁺, then (2 * 3) * 5 is —", ["7", "10", "13/3", "10/3"], "D", ["April 2026"], {"work": "2 * 3 = 6/3 = 2. Then 2 * 5 = 10/3."}],
+  ["A reflexive relation on A = {1, 2, 3} is —", ["{(1,2), (1,3)}", "{(1,1), (2,2), (3,3)}", "{(1,1), (2,2), (3,1), (1,3)}", "{(3,1), (2,1), (1,1)}"], "B", ["April 2025"], {"work": "Reflexive needs (1,1), (2,2) and (3,3) all present — only option B has them."}],
+  ["If f(x) = x³ and g(x) = cos 3x, then f∘g(x) is —", ["x³ cos 3x", "cos 3x³", "cos³ 3x", "3 cos x³"], "C", ["April 2025"], {"work": "f(g(x)) = (cos 3x)³ = cos³ 3x."}],
+  ["x R y if |x − y| ≤ 2 on Z. R is —", ["reflexive and transitive", "reflexive and symmetric", "symmetric and transitive", "an equivalence relation"], "B", ["October 2025"], {"work": "|x − x| = 0 ≤ 2: reflexive. |x − y| = |y − x|: symmetric. 1R3 and 3R5 but |1 − 5| = 4 > 2: not transitive."}],
+  ["If f(x) = 8x³ and g(x) = ∛x, then (f∘g)(x) is —", ["8x", "2x", "2∛x", "8∛x"], "A", ["October 2025"], {"work": "f(g(x)) = 8(∛x)³ = 8x."}],
+  ["The binary operation a * b = ab on N is —", ["commutative only", "associative only", "commutative and associative", "neither"], "C", ["October 2024"]],
+  ["The inverse of f(x) = x² on R —", ["is −x", "is x", "is |x|", "does not exist"], "D", ["October 2024"], {"work": "x² is not one-one on R (f(−2) = f(2)), so it has no inverse."}],
+  ["The relation R = {(a, b) : a = b} on A = {x ∈ Z : 0 ≤ x ≤ 12} is —", ["reflexive only", "transitive only", "symmetric only", "an equivalence relation"], "D", ["October 2024"]],
+  ["Which graph does NOT represent a function?", ["A parabola opening up", "A sine curve", "A circle", "A parabola opening down"], "C", ["April 2024"], {"work": "A vertical line cuts a circle at two points, so one x has two y-values."}]
+ ],
+ "objective": [
+  ["Fill in the blanks: (a) If f(x) = (x − 1)/|x − 1|, x ≠ 1, the range of f is ______. (b) If f(x) = 2x³ − 1, then f⁻¹(x) = ______.", "(a) For x > 1 f = 1; for x < 1 f = −1 ⇒ range {−1, 1}.\n(b) y = 2x³ − 1 ⇒ x = ((y + 1)/2)^(1/3) ⇒ f⁻¹(x) = ∛((x + 1)/2).", ["April 2025"]],
+  ["Fill in the blanks: (a) If a * b = b − 2a, then (1 * 2) * 3 = ______. (b) R is ______ if (a, b), (b, c) ∈ R ⇒ (a, c) ∈ R.", "(a) 1 * 2 = 2 − 2 = 0; 0 * 3 = 3 − 0 = 3.\n(b) transitive", ["April 2024"]],
+  ["True or False: (a) 'is a factor of' on R is reflexive and transitive but not symmetric. (b) f(x) = x² + 3 on R is one-one and onto.", "(a) True — a | a; a | b, b | c ⇒ a | c; but 2 | 4 while 4 ∤ 2.\n(b) False — f(−1) = f(1), and values below 3 are not attained.", ["October 2024"]]
+ ],
+ "objective4": [
+  ["Answer: (a) Is R = {(1,2), (2,1)} on {1, 2, 3} an equivalence relation? (b) Is f(x) = 3 − 4x on R one-one and onto? (c) If f(x) = 2ˣ, find (f∘f)(0). (d) A binary operation on A is a function from ______ to A.", "(a) No — (1,1) ∉ R, so it is not reflexive (it is also not transitive: (1,2), (2,1) but no (1,1)).\n(b) Yes. One-one: 3 − 4a = 3 − 4b ⇒ a = b. Onto: for any y, x = (3 − y)/4 gives f(x) = y.\n(c) f(0) = 1, f(1) = 2 ⇒ (f∘f)(0) = 2.\n(d) A × A.", ["April 2026", "April 2024"]]
+ ],
+ "vsa": [
+  ["If A = {1, 2, 3} and R = {(2, 3)}, check whether R is reflexive, symmetric or transitive.", "Not reflexive: (1,1) ∉ R.\nNot symmetric: (2,3) ∈ R but (3,2) ∉ R.\nTransitive: there are no pairs (a,b), (b,c) both in R, so the condition holds vacuously.", ["April 2025"]],
+  ["Show that the signum function f(x) = 1 (x > 0), 0 (x = 0), −1 (x < 0) on R is neither one-one nor onto.", "f(1) = f(2) = 1, so it is not one-one.\nIts range is {−1, 0, 1}; for example 2 has no pre-image, so it is not onto.", ["April 2025"]],
+  ["If f : {3, 4, 5, 6} → {4, 5, 6, 10} and g : {4, 5, 6, 10} → {8, 12, 16} with f(3) = 4, f(4) = 5, f(5) = f(6) = 6, g(4) = g(5) = 8, g(6) = g(10) = 12, find g∘f.", "g(f(3)) = g(4) = 8; g(f(4)) = g(5) = 8; g(f(5)) = g(6) = 12; g(f(6)) = g(6) = 12.\ng∘f = {(3, 8), (4, 8), (5, 12), (6, 12)}.", ["April 2024"]]
+ ],
+ "sa": [
+  ["Show that the relation 'T₁ is similar to T₂' on the set of all triangles is an equivalence relation.", "Reflexive: every triangle is similar to itself.\nSymmetric: if T₁ ~ T₂ (corresponding angles equal), then T₂ ~ T₁.\nTransitive: if T₁ ~ T₂ and T₂ ~ T₃, the angles of T₁ equal those of T₃, so T₁ ~ T₃.\nHence R is an equivalence relation.", ["April 2026"]],
+  ["Show that (a, b) R (c, d) ⇔ ad = bc is an equivalence relation on N × N.", "Reflexive: ab = ba ⇒ (a, b) R (a, b).\nSymmetric: ad = bc ⇒ cb = da ⇒ (c, d) R (a, b).\nTransitive: ad = bc and cf = de. Multiply: adcf = bcde ⇒ af = be (c, d ≠ 0) ⇒ (a, b) R (e, f).\nHence R is an equivalence relation.", ["April 2025"]],
+  ["Let f : R⁺ → (−4, ∞), f(x) = x² − 4. Show that f is invertible and find f⁻¹.", "One-one: x₁² − 4 = x₂² − 4 ⇒ x₁ = x₂ (both positive).\nOnto: for y > −4, x = √(y + 4) > 0 and f(x) = y.\nSo f is invertible and f⁻¹(y) = √(y + 4).", ["April 2024"]],
+  ["Show that f : R → R, f(x) = x² − 1 is neither one-one nor onto.", "f(1) = f(−1) = 0, so it is not one-one.\nx² − 1 ≥ −1 for all x, so −2 has no pre-image: not onto.", ["October 2025"]]
+ ],
+ "la": []
+}

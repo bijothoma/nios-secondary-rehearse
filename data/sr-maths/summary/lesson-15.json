@@ -1,0 +1,87 @@
+{
+  "subject": "sr-maths",
+  "lesson": 15,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 15: Circles — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Standard and general forms"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "A circle with centre (h, k) and radius r: (x − h)² + (y − k)² = r². With centre at the origin: x² + y² = r²."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "General form: x² + y² + 2gx + 2fy + c = 0, with centre (−g, −f) and radius √(g² + f² − c). If the x² and y² coefficients are not 1, divide by them first."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Special circles"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Diameter form: with ends (x₁, y₁) and (x₂, y₂), the circle is (x − x₁)(x − x₂) + (y − y₁)(y − y₂) = 0. The centre is the midpoint of any diameter, so the other end of a diameter is (2h − x₁, 2k − y₁)."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "A circle touching the y-axis at the origin has its centre on the x-axis: (x ∓ r)² + y² = r², i.e. x² + y² ∓ 2rx = 0. A circle through (0, 0), (a, 0) and (0, b) has centre (a/2, b/2)."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Circle through three points"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Substitute each point in x² + y² + 2gx + 2fy + c = 0 and solve the three equations for g, f and c. If the centre lies on a given line, use two points and that line instead."
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "subject": "sr-maths",
+  "lesson": 28,
+  "title": "Differentiation of Exponential and Logarithmic Functions",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Every answer shows the working. Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "5 × 1 = 5",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "If y = log(2x + 3), then dy/dx is —",
+          "options": [
+            "1/(2x + 3)",
+            "(2x + 3)²",
+            "2/(2x + 3)",
+            "1/(2(2x + 3))"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2026"
+          ],
+          "work": "d/dx log u = u'/u = 2/(2x + 3)."
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "If y = e^(−3 log x), then dy/dx is —",
+          "options": [
+            "−3/x",
+            "−3/x²",
+            "−3/x⁴",
+            "−3x"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2025"
+          ],
+          "work": "e^(−3 log x) = e^(log x⁻³) = x⁻³ ⇒ dy/dx = −3x⁻⁴."
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "The derivative of sin x with respect to log x is —",
+          "options": [
+            "cos x/x",
+            "x cos x",
+            "1/(x cos x)",
+            "x/cos x"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2024",
+            "April 2025"
+          ],
+          "work": "(d sin x/dx)/(d log x/dx) = cos x/(1/x) = x cos x."
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "d/dx(2ˣ) is —",
+          "options": [
+            "x 2ˣ⁻¹",
+            "2ˣ log 2",
+            "2ˣ",
+            "2ˣ/log 2"
+          ],
+          "answer": "B",
+          "work": "d/dx aˣ = aˣ log a."
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "d/dx(e^(x²)) is —",
+          "options": [
+            "e^(x²)",
+            "2x e^(x²)",
+            "x² e^(x²−1)",
+            "2e^(x²)"
+          ],
+          "answer": "B",
+          "work": "Chain rule: e^(x²) × 2x."
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions of two 1-mark parts.",
+      "marks": "2 × 2 = 4",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "Fill in the blanks: (a) If y = e^(sin⁻¹x), then dy/dx = ______. (b) d/dx(xˣ) = ______.",
+          "answer": "(a) e^(sin⁻¹x) × 1/√(1 − x²).\n(b) log y = x log x ⇒ y'/y = log x + 1 ⇒ xˣ(1 + log x).",
+          "years": [
+            "April 2026",
+            "April 2025"
+          ]
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "True or False: (a) If y = 500e^(7x) + 600e^(−7x), then d²y/dx² = 49y. (b) d/dx(log x²) = 1/x².",
+          "answer": "(a) True: y' = 3500e^(7x) − 4200e^(−7x), y'' = 24500e^(7x) + 29400e^(−7x) = 49y.\n(b) False — log x² = 2 log x, derivative 2/x.",
+          "years": [
+            "April 2025"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Answer the following (2 marks each).",
+      "marks": "3 × 2 = 6",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "If y = eˣ log(1 + x²), find dy/dx.",
+          "answer": "Product rule: eˣ log(1 + x²) + eˣ × 2x/(1 + x²) = eˣ[log(1 + x²) + 2x/(1 + x²)].",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "If y = eˣ/x, find dy/dx.",
+          "answer": "Quotient rule: (eˣ·x − eˣ·1)/x² = eˣ(x − 1)/x².",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "Find dy/dx for y = x^(x cos x).",
+          "answer": "log y = x cos x log x.\n(1/y)y' = cos x log x − x sin x log x + cos x.\ny' = x^(x cos x)[cos x(1 + log x) − x sin x log x].",
+          "years": [
+            "April 2024"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Answer the following (4 marks each).",
+      "marks": "1 × 4 = 4",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "If x = a(cos θ + log tan(θ/2)) and y = a sin θ, find d²y/dx².",
+          "answer": "dx/dθ = a(−sin θ + 1/sin θ) = a cos²θ/sin θ. dy/dθ = a cos θ.\ndy/dx = a cos θ × sin θ/(a cos²θ) = tan θ.\nd²y/dx² = sec²θ × dθ/dx = sec²θ × sin θ/(a cos²θ) = sin θ/(a cos⁴θ).",
+          "years": [
+            "April 2024"
+          ]
+        }
+      ]
+    }
+  ]
+}

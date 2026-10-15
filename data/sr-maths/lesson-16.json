@@ -1,0 +1,239 @@
+{
+  "subject": "sr-maths",
+  "lesson": 16,
+  "title": "Conic Sections",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Every answer shows the working. Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "6 × 1 = 6",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "The length of the latus rectum of the ellipse 3x² + y² = 12 is —",
+          "options": [
+            "8",
+            "4",
+            "2/√3",
+            "4/√3"
+          ],
+          "answer": "D",
+          "years": [
+            "April 2026"
+          ],
+          "work": "x²/4 + y²/12 = 1: major axis along y, a² = 12, b² = 4.\nLR = 2b²/a = 2·4/√12 = 8/(2√3) = 4/√3."
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "The parabola with vertex (−3, 0) and directrix x + 5 = 0 is —",
+          "options": [
+            "x² = 8(y + 3)",
+            "y² = 8(x + 3)",
+            "x² = −8(y + 3)",
+            "y² = −8(x + 3)"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2026"
+          ],
+          "work": "Vertex to directrix: −3 − (−5) = 2 = a, opening to the right.\n(y − 0)² = 4·2(x + 3) = 8(x + 3)."
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "The length of the latus rectum of the hyperbola x²/16 − y²/9 = 1 is —",
+          "options": [
+            "9/2",
+            "8/3",
+            "3",
+            "4"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2024"
+          ],
+          "work": "a² = 16, b² = 9. LR = 2b²/a = 18/4 = 9/2."
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "The foci of the hyperbola x²/16 − y²/9 = 1 are —",
+          "options": [
+            "(±7, 0)",
+            "(0, ±7)",
+            "(0, ±5)",
+            "(±5, 0)"
+          ],
+          "answer": "D",
+          "years": [
+            "October 2025"
+          ],
+          "work": "c² = a² + b² = 16 + 9 = 25 ⇒ c = 5; foci (±5, 0)."
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "The major axis of an ellipse is 3 times its minor axis. Its eccentricity is —",
+          "options": [
+            "2√2/3",
+            "3/(2√2)",
+            "√2/3",
+            "1/(2√3)"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2025"
+          ],
+          "work": "a = 3b ⇒ e² = 1 − b²/a² = 1 − 1/9 = 8/9 ⇒ e = 2√2/3."
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "The focus of the parabola y² = 12x is —",
+          "options": [
+            "(3, 0)",
+            "(0, 3)",
+            "(12, 0)",
+            "(−3, 0)"
+          ],
+          "answer": "A",
+          "work": "4a = 12 ⇒ a = 3; focus (a, 0) = (3, 0)."
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions of two 1-mark parts.",
+      "marks": "2 × 2 = 4",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "Match for the ellipse x²/36 + y²/16 = 1: (a) coordinates of the foci; (b) eccentricity. [√5/3, (0, ±2√5), (±2√5, 0), 3/√5]",
+          "answer": "a² = 36, b² = 16 ⇒ c² = 20 ⇒ c = 2√5.\n(a) (±2√5, 0).\n(b) e = c/a = 2√5/6 = √5/3.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Fill in the blanks: (a) The eccentricity of 3x² + 4y² = 12 is ______. (b) The length of the major axis of 5x² + 6y² = 3 is ______.",
+          "answer": "(a) x²/4 + y²/3 = 1: e² = 1 − 3/4 = 1/4 ⇒ e = ½.\n(b) x²/(3/5) + y²/(1/2) = 1: a² = 3/5 ⇒ major axis 2a = 2√(3/5) = 2√15/5.",
+          "years": [
+            "October 2025"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Objective type questions of four 1-mark parts.",
+      "marks": "2 × 4 = 8",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "For the ellipse 16x² + y² = 16 find: (a) the length of the major axis; (b) the length of the minor axis; (c) the eccentricity; (d) the foci.",
+          "answer": "x²/1 + y²/16 = 1: major axis along y, a = 4, b = 1.\n(a) 2a = 8. (b) 2b = 2.\n(c) e² = 1 − 1/16 = 15/16 ⇒ e = √15/4.\n(d) c = ae = √15 ⇒ foci (0, ±√15). (Latus rectum 2b²/a = ½; directrices y = ±16/√15.)",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "Fill in the blanks: (a) The length of the latus rectum of y² = 24x is ______. (b) The eccentricity of x²/a² − y²/b² = 1 passing through (3, 0) and (3√2, 2) is ______. (c) The directrix of y² = 8x is ______. (d) The eccentricity of a parabola is ______.",
+          "answer": "(a) 4a = 24.\n(b) (3, 0) ⇒ a² = 9. (3√2, 2) ⇒ 18/9 − 4/b² = 1 ⇒ b² = 4. e² = 1 + 4/9 = 13/9 ⇒ e = √13/3.\n(c) 4a = 8 ⇒ a = 2 ⇒ x = −2.\n(d) 1.",
+          "years": [
+            "April 2025"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Answer the following (2 marks each).",
+      "marks": "4 × 2 = 8",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "Find the foci, vertices, eccentricity and latus rectum of x²/16 − y²/9 = 1.",
+          "answer": "a² = 16, b² = 9; c² = 25 ⇒ c = 5.\nFoci (±5, 0); vertices (±4, 0); e = 5/4; LR = 2b²/a = 18/4 = 9/2.",
+          "years": [
+            "April 2026"
+          ],
+          "or": {
+            "q": "Find the foci, vertices, eccentricity and latus rectum of 4x² + 9y² = 36.",
+            "answer": "x²/9 + y²/4 = 1: a = 3, b = 2, c = √5.\nFoci (±√5, 0); vertices (±3, 0); e = √5/3; LR = 2·4/3 = 8/3."
+          }
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "Find the equation of the hyperbola whose vertices are (±2, 0) and foci (±3, 0).",
+          "answer": "a = 2, c = 3 ⇒ b² = c² − a² = 9 − 4 = 5.\nx²/4 − y²/5 = 1.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "Find the equation of the hyperbola with vertices (0, ±6) and e = 5/3.",
+          "answer": "a = 6, c = ae = 10 ⇒ b² = 100 − 36 = 64.\nVertices on the y-axis: y²/36 − x²/64 = 1.",
+          "years": [
+            "October 2024"
+          ],
+          "or": {
+            "q": "Find the ellipse with focus (−1, 1), directrix x − y + 3 = 0 and e = ½.",
+            "answer": "PS = e·PM: (x + 1)² + (y − 1)² = ¼ · (x − y + 3)²/2.\n8[(x + 1)² + (y − 1)²] = (x − y + 3)².\n8x² + 8y² + 16x − 16y + 16 = x² + y² − 2xy + 6x − 6y + 9\n⇒ 7x² + 2xy + 7y² + 10x − 10y + 7 = 0."
+          }
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "Find the eccentricity and foci of the ellipse 4x² + 9y² = 1.",
+          "answer": "x²/(1/4) + y²/(1/9) = 1: a² = 1/4, b² = 1/9.\ne² = 1 − (1/9)/(1/4) = 1 − 4/9 = 5/9 ⇒ e = √5/3.\nc = ae = (1/2)(√5/3) = √5/6 ⇒ foci (±√5/6, 0).",
+          "years": [
+            "October 2025"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Answer the following (4 marks each).",
+      "marks": "2 × 4 = 8",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "The eccentricity of an ellipse is 5/8 and the distance between its foci is 10. Find the length of its latus rectum.",
+          "answer": "2ae = 10 ⇒ ae = 5 ⇒ a = 5/(5/8) = 8.\nb² = a²(1 − e²) = 64(1 − 25/64) = 39.\nLR = 2b²/a = 78/8 = 39/4.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "For the ellipse 3x² + 2y² = 6 find the lengths of the axes, the foci, the vertices and the eccentricity.",
+          "answer": "x²/2 + y²/3 = 1: major axis along y, a² = 3, b² = 2.\nMajor axis 2√3, minor axis 2√2.\nc² = 3 − 2 = 1 ⇒ foci (0, ±1); vertices (0, ±√3); e = c/a = 1/√3.",
+          "years": [
+            "October 2024"
+          ]
+        }
+      ]
+    }
+  ]
+}

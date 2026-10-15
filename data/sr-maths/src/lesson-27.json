@@ -1,0 +1,34 @@
+{
+ "lesson": 27,
+ "title": "Differentiation of Trigonometric Functions",
+ "module": 8,
+ "summary": [
+  "## Basic derivatives",
+  "d/dx sin x = cos x; cos x → −sin x; tan x → sec²x; cot x → −cosec²x; sec x → sec x tan x; cosec x → −cosec x cot x (x in radians).",
+  "If x is in degrees, x° = πx/180, so d/dx(cot x°) = −(π/180) cosec²x°.",
+  "## Inverse trigonometric functions",
+  "d/dx sin⁻¹x = 1/√(1 − x²); cos⁻¹x → −1/√(1 − x²); tan⁻¹x → 1/(1 + x²); cot⁻¹x → −1/(1 + x²); sec⁻¹x → 1/(|x|√(x² − 1)).",
+  "## With the chain rule",
+  "d/dx sin³x = 3 sin²x cos x. d/dx sin⁻¹(x²) = 2x/√(1 − x⁴). d/dx √(sin³x) = (3/2)√(sin x) cos x.",
+  "Simplify first when possible: sin⁻¹(cos x) = π/2 − x, so its derivative is −1."
+ ],
+ "mcq": [
+  ["The derivative of y = sin³x with respect to x is —", ["cos³x", "3 sin²x", "sin²x cos x", "3 sin²x cos x"], "D", ["April 2026"], {"work": "Chain rule: 3 sin²x × cos x."}],
+  ["If y = sin 2x cos 3x, then dy/dx is —", ["2 cos 2x cos 3x − 3 sin 2x sin 3x", "2 cos 2x cos 3x + 3 sin 2x sin 3x", "6 cos 2x sin 3x − 6 cos 2x sin 3x", "6 cos 2x sin 3x + 6 cos 2x sin 3x"], "A", ["October 2024"], {"work": "Product rule: (2 cos 2x)(cos 3x) + (sin 2x)(−3 sin 3x)."}],
+  ["If y = cot x°, then dy/dx is —", ["cosec x°", "cosec x° cot x°", "−(π/180) cosec²x°", "−(π/180) cosec x° cot x°"], "C", ["April 2025"], {"work": "cot x° = cot(πx/180) ⇒ dy/dx = −cosec²(πx/180) × π/180."}],
+  ["If y = (1/a) cot⁻¹(x/a), then dy/dx is —", ["1/(x² + a²)", "1/(a² − x²)", "1/√(x² + a²)", "−1/(x² + a²)"], "D", ["October 2025"], {"work": "(1/a) × [−1/(1 + x²/a²)] × (1/a) = −1/(a² + x²)."}],
+  ["If y = sin⁻¹(cos x), then dy/dx is —", ["−1/sin x", "cosec x", "1", "−1"], "D", ["April 2024"], {"work": "sin⁻¹(cos x) = sin⁻¹(sin(π/2 − x)) = π/2 − x (0 ≤ x ≤ π) ⇒ dy/dx = −1."}]
+ ],
+ "objective": [
+  ["Fill in the blanks: (a) If y = √(sin³x), then dy/dx = ______. (b) If y = sin⁻¹(x²), then dy/dx = ______.", "(a) y = (sin x)^(3/2) ⇒ (3/2)(sin x)^(1/2) cos x.\n(b) 2x/√(1 − x⁴).", ["October 2024"]],
+  ["Find: (a) d/dx(tan √x); (b) d/dx(sec 2x).", "(a) sec²√x × 1/(2√x) = sec²√x/(2√x).\n(b) 2 sec 2x tan 2x.", ["April 2024"]]
+ ],
+ "vsa": [
+  ["If cos y = x cos(a + y), prove that dy/dx = cos²(a + y)/sin a.", "x = cos y/cos(a + y). dx/dy = [−sin y cos(a + y) + cos y sin(a + y)]/cos²(a + y) = sin(a + y − y)/cos²(a + y) = sin a/cos²(a + y).\nSo dy/dx = cos²(a + y)/sin a.", ["October 2024"]],
+  ["Differentiate x sin x + cos x with respect to x.", "(1·sin x + x cos x) − sin x = x cos x."]
+ ],
+ "sa": [
+  ["If y = sin⁻¹x, show that (1 − x²) d²y/dx² − x dy/dx = 0.", "dy/dx = 1/√(1 − x²) ⇒ √(1 − x²) y' = 1.\nDifferentiate: √(1 − x²) y'' + y'(−x/√(1 − x²)) = 0.\nMultiply by √(1 − x²): (1 − x²)y'' − xy' = 0."]
+ ],
+ "la": []
+}

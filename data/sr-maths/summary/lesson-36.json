@@ -1,0 +1,87 @@
+{
+  "subject": "sr-maths",
+  "lesson": 36,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 36: Straight Line — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Equations of a line in space"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Through a point a parallel to b: r = a + λb. Cartesian: (x − x₁)/a = (y − y₁)/b = (z − z₁)/c, where a, b, c are direction ratios. Through two points: r = a + λ(b − a), i.e. (x − x₁)/(x₂ − x₁) = (y − y₁)/(y₂ − y₁) = (z − z₁)/(z₂ − z₁)."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "A term like z = −1 in (x − 2)/3 = (y − 5)/(−2), z = −1 means the direction ratio in z is 0."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Any point on a line: (x₁ + aλ, y₁ + bλ, z₁ + cλ) — use it to find points at a given distance."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Angle between lines"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "cos θ = |a₁a₂ + b₁b₂ + c₁c₂|/(√(a₁² + b₁² + c₁²)√(a₂² + b₂² + c₂²)). A line given as the intersection of two planes has direction n₁ × n₂."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Coplanar lines"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Lines through A (direction d₁) and B (direction d₂) are coplanar when (B − A)·(d₁ × d₂) = 0. The plane containing them has normal d₁ × d₂ and passes through A."
+        ]
+      ]
+    }
+  ]
+}

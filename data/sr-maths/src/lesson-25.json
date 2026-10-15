@@ -1,0 +1,157 @@
+{
+ "lesson": 25,
+ "title": "Limits and Continuity",
+ "module": 8,
+ "summary": [
+  "## Limits",
+  "lim x→a f(x) = L means f(x) gets as close to L as we like when x is close to (but not equal to) a. The limit exists only if the left-hand and right-hand limits are equal.",
+  "Methods: direct substitution; factorise and cancel for 0/0 forms; rationalise expressions with square roots; use standard limits.",
+  "## Standard limits",
+  "lim x→a (xⁿ − aⁿ)/(x − a) = naⁿ⁻¹. lim x→0 sin x/x = 1 (x in radians), so lim x→0 sin kx/x = k. lim x→0 (1 − cos x)/x² = ½. lim x→0 (eˣ − 1)/x = 1, so lim x→0 (e^(kx) − 1)/x = k. lim x→0 log(1 + x)/x = 1.",
+  "lim x→3 |x − 3|/(x − 3) does not exist: the left limit is −1 and the right limit is +1.",
+  "## Continuity",
+  "f is continuous at x = a if f(a) is defined and lim x→a f(x) = f(a), i.e. LHL = RHL = f(a). Polynomials, sin x, cos x, eˣ and |x| are continuous everywhere. To find an unknown constant, equate the limit to the value at the point."
+ ],
+ "mcq": [
+  [
+   "lim x→0 √(½(1 − cos 2x))/x is —",
+   [
+    "1",
+    "−1",
+    "0",
+    "none of these"
+   ],
+   "D",
+   [
+    "April 2025"
+   ],
+   {
+    "work": "½(1 − cos 2x) = sin²x, so the expression is |sin x|/x.\nRight-hand limit = 1, left-hand limit = −1. They differ, so the limit does not exist."
+   }
+  ],
+  [
+   "lim x→0 sin 5x/x is —",
+   [
+    "1",
+    "5",
+    "0",
+    "1/5"
+   ],
+   "B",
+   {
+    "work": "sin 5x/x = 5 × (sin 5x)/(5x) → 5 × 1 = 5."
+   }
+  ],
+  [
+   "lim x→2 (x² − 4)/(x − 2) is —",
+   [
+    "0",
+    "2",
+    "4",
+    "does not exist"
+   ],
+   "C",
+   {
+    "work": "(x − 2)(x + 2)/(x − 2) = x + 2 → 4."
+   }
+  ],
+  [
+   "The function f(x) = |x| is —",
+   [
+    "continuous at all points of R",
+    "discontinuous at 0",
+    "continuous only for x > 0",
+    "discontinuous everywhere"
+   ],
+   "A",
+   [
+    "April 2026"
+   ]
+  ],
+  [
+   "lim x→0 (1 − cos 2x)/x² equals —",
+   [
+    "0",
+    "1",
+    "2",
+    "4"
+   ],
+   "C",
+   {
+    "work": "1 − cos 2x = 2 sin²x ⇒ 2(sin x/x)² → 2."
+   }
+  ]
+ ],
+ "objective": [
+  [
+   "True or False: (a) f(x) = 1 (x ≠ 0), 2 (x = 0) is continuous at x = 0. (b) f(x) = |x| is continuous at all points of R.",
+   "(a) False — the limit at 0 is 1 but f(0) = 2.\n(b) True.",
+   [
+    "April 2026"
+   ]
+  ],
+  [
+   "Fill in the blanks: (a) lim x→1 (x⁴ − 1)/(x − 1) = ______. (b) lim x→0 (e^(2x) − 1)/x = ______.",
+   "(a) Using (xⁿ − aⁿ)/(x − a) → naⁿ⁻¹: 4·1³ = 4.\n(b) 2 · (e^(2x) − 1)/(2x) → 2.",
+   [
+    "April 2024"
+   ]
+  ]
+ ],
+ "vsa": [
+  [
+   "Find lim x→3 (x⁴ − 81)/(2x² − 5x − 3).",
+   "Both are 0 at x = 3. Factorise:\nx⁴ − 81 = (x − 3)(x + 3)(x² + 9); 2x² − 5x − 3 = (x − 3)(2x + 1).\nLimit = (6)(18)/7 = 108/7.",
+   [
+    "April 2026"
+   ],
+   {
+    "or": [
+     "Find lim x→0 (1 − cos x)/x².",
+     "1 − cos x = 2 sin²(x/2).\n2 sin²(x/2)/x² = ½[sin(x/2)/(x/2)]² → ½ × 1 = ½."
+    ]
+   }
+  ],
+  [
+   "Evaluate lim x→3 |x − 3|/(x − 3).",
+   "For x > 3 the expression is 1; for x < 3 it is −1.\nRHL = 1 ≠ LHL = −1, so the limit does not exist.",
+   [
+    "October 2024"
+   ],
+   {
+    "or": [
+     "Evaluate lim x→0 sin 3x/x.",
+     "sin 3x/x = 3 × sin 3x/(3x) → 3 × 1 = 3."
+    ]
+   }
+  ],
+  [
+   "Find lim x→π (1 + cos x)/tan²x.",
+   "tan²x = sin²x/cos²x = (1 − cos x)(1 + cos x)/cos²x.\n(1 + cos x)cos²x/[(1 − cos x)(1 + cos x)] = cos²x/(1 − cos x) → 1/(1 + 1) = ½.",
+   [
+    "October 2025"
+   ]
+  ],
+  [
+   "If f(x) = ax − 1 (x ≠ 3) and f(3) = 5 is continuous at x = 3, find a.",
+   "lim x→3 (ax − 1) = 3a − 1 = f(3) = 5 ⇒ a = 2.",
+   [
+    "April 2024"
+   ]
+  ]
+ ],
+ "sa": [
+  [
+   "f(x) = (1 − cos 4x)/x² for x < 0, a for x = 0, √x/(√(16 + √x) − 4) for x > 0. If f is continuous at 0, find a.",
+   "LHL: 1 − cos 4x = 2 sin²2x ⇒ 2 sin²2x/x² = 8[sin 2x/(2x)]² → 8.\nRHL: rationalise: √x(√(16 + √x) + 4)/(16 + √x − 16) = √(16 + √x) + 4 → 4 + 4 = 8.\nContinuity: a = 8.",
+   [
+    "October 2025"
+   ]
+  ],
+  [
+   "Determine a and b so that f(x) = |x − 2|/(x − 2) + a (x < 2), a + b (x = 2), |x − 2|/(x − 2) + b (x > 2) is continuous at x = 2.",
+   "LHL = −1 + a; RHL = 1 + b; f(2) = a + b.\n−1 + a = a + b ⇒ b = −1. 1 + b = a + b ⇒ a = 1.\nSo a = 1, b = −1."
+  ]
+ ],
+ "la": []
+}

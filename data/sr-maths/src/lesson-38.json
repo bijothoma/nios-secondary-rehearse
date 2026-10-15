@@ -1,0 +1,40 @@
+{
+ "lesson": 38,
+ "title": "Mathematical Reasoning",
+ "module": 10,
+ "summary": [
+  "## Statements",
+  "A statement is a sentence that is either true or false, not both. Commands, questions and opinions are not statements.",
+  "## Negation",
+  "~p is true when p is false. 'All A are B' is negated as 'Some A are not B' (or 'Not all A are B'); 'x < 5' as 'x is not less than 5'.",
+  "## Compound statements",
+  "p ∧ q (and) is true only when both are true; p ∨ q (or) is false only when both are false. 'p if and only if q' (p ⇔ q) means both p ⇒ q and q ⇒ p.",
+  "## Conditional statements",
+  "For 'if p then q' (p ⇒ q):",
+  "Converse: if q then p. Inverse: if not p then not q. Contrapositive: if not q then not p. A statement and its contrapositive are equivalent; the converse need not be true.",
+  "'It never rains when it is cold' becomes 'If it is cold, then it never rains'. 'p if q' means 'if q then p'.",
+  "## Validating statements",
+  "By direct method, contrapositive, contradiction, or a counterexample to show a statement false."
+ ],
+ "mcq": [
+  ["The converse of 'if a number is divisible by 9, then it is divisible by 3' is —", ["if a number is divisible by 3, then it is divisible by 9", "if a number is divisible by 9, then it is not divisible by 3", "if a number is not divisible by 3, it is not divisible by 9", "if a number is not divisible by 9, then it is also not divisible by 3"], "A", ["April 2026"], {"work": "Converse of p ⇒ q is q ⇒ p: swap the two parts."}],
+  ["The converse of 'If x is divisible by 4, then x is even' is —", ["If x is not divisible by 4, then x is not even", "If x is even, then x is divisible by 4", "If x is even, then x is not divisible by 4", "If x is not divisible by 4, then x is even"], "B", ["October 2024"]],
+  ["The converse of 'If n is a positive number, then n³ is a positive number' is —", ["If n is not positive, then n³ is not positive", "If n³ is not positive, then n is not positive", "If n³ is positive, then n is positive", "If n is positive, then n³ is not positive"], "C", ["April 2024"]],
+  ["The contrapositive of 'If you are born in India, then you are a citizen of India' is —", ["If you are a citizen of India, then you are born in India", "If you are not a citizen of India, then you are not born in India", "You are born in India if and only if you are a citizen of India", "You are born in India or you are a citizen of India"], "B", ["October 2025"], {"work": "Contrapositive of p ⇒ q is ~q ⇒ ~p."}],
+  ["Which of these is a statement?", ["Close the door.", "How old are you?", "7 is a prime number.", "What a lovely day!"], "C"]
+ ],
+ "objective": [
+  ["Write the negation of: (a) The capital of Gujarat is Ahmedabad. (b) All circles are congruent.", "(a) The capital of Gujarat is not Ahmedabad.\n(b) Some circles are not congruent (not all circles are congruent).", ["April 2026"]],
+  ["Write the negation of: (i) The number is less than 5. (ii) All prime numbers are odd.", "(i) The number is not less than 5.\n(ii) Some prime numbers are not odd (e.g. 2).", ["October 2024"]],
+  ["Write the contrapositive of: (i) If ABCD is a square, then it is a rhombus. (ii) If a and b are rational numbers, then ab is a real number.", "(i) If ABCD is not a rhombus, then it is not a square.\n(ii) If ab is not a real number, then a and b are not both rational.", ["October 2025"]],
+  ["Write in the form 'if … then': (a) It never rains when it is cold. (b) A quadrilateral is a parallelogram if its diagonals bisect each other.", "(a) If it is cold, then it never rains.\n(b) If the diagonals of a quadrilateral bisect each other, then it is a parallelogram.", ["April 2025"]]
+ ],
+ "objective4": [
+  ["(a) Negate: '√5 is not a rational number.' (b) Converse of 'If x is a prime number, then x is even.' (c) Contrapositive of 'If a number is odd, then its square is not negative.' (d) Combine with 'if and only if': P: if two angles of a triangle are equal, it is isosceles; Q: if a triangle is isosceles, two of its angles are equal.", "(a) √5 is a rational number.\n(b) If x is even, then x is a prime number.\n(c) If the square of a number is negative, then the number is not odd.\n(d) A triangle is isosceles if and only if two of its angles are equal.", ["April 2024"]]
+ ],
+ "vsa": [
+  ["Write the converse and contrapositive of 'If a triangle is equilateral, then it is isosceles'.", "Converse: if a triangle is isosceles, then it is equilateral (false in general).\nContrapositive: if a triangle is not isosceles, then it is not equilateral (true, equivalent to the original)."]
+ ],
+ "sa": [],
+ "la": []
+}

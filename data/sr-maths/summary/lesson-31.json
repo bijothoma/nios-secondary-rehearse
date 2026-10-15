@@ -1,0 +1,87 @@
+{
+  "subject": "sr-maths",
+  "lesson": 31,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 31: Definite Integrals — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Evaluating definite integrals"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "∫ₐᵇ f(x)dx = F(b) − F(a), where F is an antiderivative. The constant C cancels. With a substitution, change the limits too."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "As the limit of a sum: ∫ₐᵇ f(x)dx = lim h→0 h[f(a) + f(a + h) + … + f(a + (n − 1)h)], with nh = b − a."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Properties"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "∫ₐᵇ f(x)dx = ∫ₐᵇ f(a + b − x)dx; ∫₀ᵃ f(x)dx = ∫₀ᵃ f(a − x)dx. ∫₋ₐᵃ f(x)dx = 2∫₀ᵃ f(x)dx if f is even, and 0 if f is odd. Split the integral where |…| changes sign."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Typical use: I = ∫₀^(π/2) cos³x/(sin³x + cos³x)dx. Replacing x by π/2 − x gives the same with sin and cos swapped; adding, 2I = ∫₀^(π/2) 1 dx = π/2, so I = π/4."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Area"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Area under y = f(x) from a to b (f ≥ 0) = ∫ₐᵇ y dx. Area between two curves = ∫ₐᵇ (upper − lower) dx, with a and b the x-coordinates of the intersections."
+        ]
+      ]
+    }
+  ]
+}

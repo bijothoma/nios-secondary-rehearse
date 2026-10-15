@@ -1,0 +1,36 @@
+{
+ "lesson": 26,
+ "title": "Differentiation",
+ "module": 8,
+ "summary": [
+  "## Derivative from first principles",
+  "f'(x) = lim h→0 [f(x + h) − f(x)]/h. It is the slope of the tangent and the rate of change of f.",
+  "## Rules",
+  "d/dx(xⁿ) = nxⁿ⁻¹; d/dx(c) = 0. Sum: (u ± v)' = u' ± v'. Product: (uv)' = u'v + uv'. Quotient: (u/v)' = (u'v − uv')/v². Chain rule: dy/dx = (dy/du)(du/dx), e.g. d/dx(1 − x²)⁵ = 5(1 − x²)⁴(−2x).",
+  "## Special methods",
+  "Implicit functions: differentiate both sides treating y as a function of x, then collect dy/dx.",
+  "Parametric form: dy/dx = (dy/dt)/(dx/dt). For x = at², y = 2at: dy/dx = 2a/(2at) = 1/t.",
+  "Second derivative: d²y/dx² = d/dx(dy/dx). For parametric curves, d²y/dx² = [d/dt(dy/dx)]/(dx/dt) — for x = at², y = 2at it is −1/(2at³), not t.",
+  "Derivative of one function with respect to another: d(u)/d(v) = (du/dx)/(dv/dx)."
+ ],
+ "mcq": [
+  ["If y = (1 − x²)⁵, then dy/dx is —", ["5(1 − x²)⁴", "(1 − 2x)⁵", "5(1 − x²)⁴(−2x)", "5(1 − 2x)⁴"], "C", ["October 2024"], {"work": "Chain rule: 5(1 − x²)⁴ × d/dx(1 − x²) = 5(1 − x²)⁴(−2x)."}],
+  ["If x = at² and y = 2at, then dy/dx is —", ["t", "1/t", "2t", "at"], "B", ["April 2026"], {"work": "dx/dt = 2at, dy/dt = 2a ⇒ dy/dx = 2a/(2at) = 1/t."}],
+  ["The derivative of x³ − 3x² + 5 at x = 2 is —", ["0", "4", "−4", "12"], "A", {"work": "3x² − 6x at x = 2: 12 − 12 = 0."}],
+  ["If y = (x + 1)/(x − 1), then dy/dx is —", ["−2/(x − 1)²", "2/(x − 1)²", "1", "−1/(x − 1)²"], "A", {"work": "[(1)(x − 1) − (x + 1)(1)]/(x − 1)² = −2/(x − 1)²."}],
+  ["If x² + y² = 25, then dy/dx is —", ["x/y", "−x/y", "y/x", "−y/x"], "B", {"work": "2x + 2y dy/dx = 0 ⇒ dy/dx = −x/y."}]
+ ],
+ "objective": [
+  ["True or False: (a) If x = at² and y = 2at, then d²y/dx² = t. (b) The derivative of a constant is zero.", "(a) False — dy/dx = 1/t; d²y/dx² = (−1/t²)/(2at) = −1/(2at³).\n(b) True.", ["October 2024"]],
+  ["Find: (a) d/dx(√x); (b) d/dx(x³ + 1/x).", "(a) ½x^(−1/2) = 1/(2√x).\n(b) 3x² − 1/x²."]
+ ],
+ "vsa": [
+  ["If y = (x + 1)/(x − 1), x ≠ 1, find d²y/dx².", "dy/dx = [(x − 1) − (x + 1)]/(x − 1)² = −2(x − 1)⁻².\nd²y/dx² = −2 × (−2)(x − 1)⁻³ = 4/(x − 1)³.", ["October 2024"]],
+  ["Find the derivative of x² from first principles.", "f(x + h) − f(x) = (x + h)² − x² = 2xh + h².\n[2xh + h²]/h = 2x + h → 2x as h → 0."],
+  ["If x³ + y³ = 3axy, find dy/dx.", "3x² + 3y² dy/dx = 3a(y + x dy/dx).\ndy/dx(y² − ax) = ay − x² ⇒ dy/dx = (ay − x²)/(y² − ax)."]
+ ],
+ "sa": [
+  ["Find the derivative of tan x from first principles.", "f'(x) = lim h→0 [tan(x + h) − tan x]/h = lim [sin(x + h)cos x − cos(x + h)sin x]/[h cos(x + h) cos x]\n= lim sin h/[h cos(x + h) cos x] = 1 × 1/cos²x = sec²x.", ["January-February 2021"]]
+ ],
+ "la": []
+}

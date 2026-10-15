@@ -1,0 +1,105 @@
+{
+  "subject": "sr-maths",
+  "lesson": 23,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 23: Relations and Functions-II — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Types of relations"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "A relation R on a set A is a subset of A × A. R is reflexive if (a, a) ∈ R for every a ∈ A; symmetric if (a, b) ∈ R ⇒ (b, a) ∈ R; transitive if (a, b), (b, c) ∈ R ⇒ (a, c) ∈ R. A relation with all three properties is an equivalence relation (for example equality, similarity of triangles, ad = bc on N × N)."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "To disprove a property give one counterexample. Example: |x − y| ≤ 2 on Z is reflexive and symmetric but not transitive (1R3, 3R5, but not 1R5)."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Types of functions"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "f is one-one (injective) if f(x₁) = f(x₂) ⇒ x₁ = x₂; it is onto (surjective) if every element of the codomain has a pre-image. f(x) = x² or x⁴ on R is many-one (f(−1) = f(1)) and not onto (negatives are missed). Linear functions such as 3 − 4x are one-one and onto R."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "A graph is a function only if every vertical line meets it at most once — a circle is not a function."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Composition and inverse"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "(f∘g)(x) = f(g(x)). Usually f∘g ≠ g∘f. f is invertible exactly when it is one-one and onto; find f⁻¹ by solving y = f(x) for x."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Binary operations"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "A binary operation * on A is a function from A × A to A. It is commutative if a * b = b * a and associative if (a * b) * c = a * (b * c). Ordinary multiplication on N is both."
+        ]
+      ]
+    }
+  ]
+}

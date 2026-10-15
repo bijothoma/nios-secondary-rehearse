@@ -1065,6 +1065,170 @@
           "file": "data/physics/paper-3.json"
         }
       ]
+    },
+    {
+      "id": "sr-maths",
+      "name": "Mathematics",
+      "label": "",
+      "level": "senior-secondary",
+      "lessons": [
+        {
+          "no": 13,
+          "title": "Cartesian System of Rectangular Co-ordinates",
+          "file": "data/sr-maths/lesson-13.json",
+          "summary": "data/sr-maths/summary/lesson-13.json"
+        },
+        {
+          "no": 14,
+          "title": "Straight Lines",
+          "file": "data/sr-maths/lesson-14.json",
+          "summary": "data/sr-maths/summary/lesson-14.json"
+        },
+        {
+          "no": 15,
+          "title": "Circles",
+          "file": "data/sr-maths/lesson-15.json",
+          "summary": "data/sr-maths/summary/lesson-15.json"
+        },
+        {
+          "no": 16,
+          "title": "Conic Sections",
+          "file": "data/sr-maths/lesson-16.json",
+          "summary": "data/sr-maths/summary/lesson-16.json"
+        },
+        {
+          "no": 20,
+          "title": "Matrices",
+          "file": "data/sr-maths/lesson-20.json",
+          "summary": "data/sr-maths/summary/lesson-20.json"
+        },
+        {
+          "no": 21,
+          "title": "Determinants",
+          "file": "data/sr-maths/lesson-21.json",
+          "summary": "data/sr-maths/summary/lesson-21.json"
+        },
+        {
+          "no": 22,
+          "title": "Inverse of a Matrix and its Applications",
+          "file": "data/sr-maths/lesson-22.json",
+          "summary": "data/sr-maths/summary/lesson-22.json"
+        },
+        {
+          "no": 23,
+          "title": "Relations and Functions-II",
+          "file": "data/sr-maths/lesson-23.json",
+          "summary": "data/sr-maths/summary/lesson-23.json"
+        },
+        {
+          "no": 24,
+          "title": "Inverse Trigonometric Functions",
+          "file": "data/sr-maths/lesson-24.json",
+          "summary": "data/sr-maths/summary/lesson-24.json"
+        },
+        {
+          "no": 25,
+          "title": "Limits and Continuity",
+          "file": "data/sr-maths/lesson-25.json",
+          "summary": "data/sr-maths/summary/lesson-25.json"
+        },
+        {
+          "no": 26,
+          "title": "Differentiation",
+          "file": "data/sr-maths/lesson-26.json",
+          "summary": "data/sr-maths/summary/lesson-26.json"
+        },
+        {
+          "no": 27,
+          "title": "Differentiation of Trigonometric Functions",
+          "file": "data/sr-maths/lesson-27.json",
+          "summary": "data/sr-maths/summary/lesson-27.json"
+        },
+        {
+          "no": 28,
+          "title": "Differentiation of Exponential and Logarithmic Functions",
+          "file": "data/sr-maths/lesson-28.json",
+          "summary": "data/sr-maths/summary/lesson-28.json"
+        },
+        {
+          "no": 29,
+          "title": "Application of Derivatives",
+          "file": "data/sr-maths/lesson-29.json",
+          "summary": "data/sr-maths/summary/lesson-29.json"
+        },
+        {
+          "no": 30,
+          "title": "Integration",
+          "file": "data/sr-maths/lesson-30.json",
+          "summary": "data/sr-maths/summary/lesson-30.json"
+        },
+        {
+          "no": 31,
+          "title": "Definite Integrals",
+          "file": "data/sr-maths/lesson-31.json",
+          "summary": "data/sr-maths/summary/lesson-31.json"
+        },
+        {
+          "no": 32,
+          "title": "Differential Equations",
+          "file": "data/sr-maths/lesson-32.json",
+          "summary": "data/sr-maths/summary/lesson-32.json"
+        },
+        {
+          "no": 33,
+          "title": "Introduction to Three Dimensional Geometry",
+          "file": "data/sr-maths/lesson-33.json",
+          "summary": "data/sr-maths/summary/lesson-33.json"
+        },
+        {
+          "no": 34,
+          "title": "Vectors",
+          "file": "data/sr-maths/lesson-34.json",
+          "summary": "data/sr-maths/summary/lesson-34.json"
+        },
+        {
+          "no": 35,
+          "title": "Plane",
+          "file": "data/sr-maths/lesson-35.json",
+          "summary": "data/sr-maths/summary/lesson-35.json"
+        },
+        {
+          "no": 36,
+          "title": "Straight Line",
+          "file": "data/sr-maths/lesson-36.json",
+          "summary": "data/sr-maths/summary/lesson-36.json"
+        },
+        {
+          "no": 37,
+          "title": "Linear Programming",
+          "file": "data/sr-maths/lesson-37.json",
+          "summary": "data/sr-maths/summary/lesson-37.json"
+        },
+        {
+          "no": 38,
+          "title": "Mathematical Reasoning",
+          "file": "data/sr-maths/lesson-38.json",
+          "summary": "data/sr-maths/summary/lesson-38.json"
+        },
+        {
+          "no": 901,
+          "tag": "Full paper",
+          "title": "Model Question Paper 1",
+          "file": "data/sr-maths/paper-1.json"
+        },
+        {
+          "no": 902,
+          "tag": "Full paper",
+          "title": "Model Question Paper 2",
+          "file": "data/sr-maths/paper-2.json"
+        },
+        {
+          "no": 903,
+          "tag": "Full paper",
+          "title": "Model Question Paper 3",
+          "file": "data/sr-maths/paper-3.json"
+        }
+      ]
     }
   ]
 }

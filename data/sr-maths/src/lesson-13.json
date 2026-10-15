@@ -1,0 +1,39 @@
+{
+ "lesson": 13,
+ "title": "Cartesian System of Rectangular Co-ordinates",
+ "module": 4,
+ "summary": [
+  "## Distance formula",
+  "The distance between P(x₁, y₁) and Q(x₂, y₂) is PQ = √[(x₂ − x₁)² + (y₂ − y₁)²]. It is used to test the type of a triangle: equal sides (isosceles or equilateral) and Pythagoras (right-angled).",
+  "## Section formula",
+  "The point dividing the join of (x₁, y₁) and (x₂, y₂) internally in the ratio m : n is ((mx₂ + nx₁)/(m + n), (my₂ + ny₁)/(m + n)). Externally, use m − n in place of m + n and −n in place of n. The midpoint is ((x₁ + x₂)/2, (y₁ + y₂)/2).",
+  "To find the ratio in which an axis divides a segment, take the ratio as k : 1 and set the other coordinate to zero. A negative k means external division.",
+  "## Area of a triangle",
+  "Area = ½|x₁(y₂ − y₃) + x₂(y₃ − y₁) + x₃(y₁ − y₂)|. Three points are collinear when this area is zero.",
+  "## Centroid and slope",
+  "The centroid of a triangle is ((x₁ + x₂ + x₃)/3, (y₁ + y₂ + y₃)/3). The slope of the line joining two points is m = (y₂ − y₁)/(x₂ − x₁) = tan θ, where θ is the angle the line makes with the positive x-axis."
+ ],
+ "mcq": [
+  ["The points A(−1, −1), B(2, 3) and C(−2, 6) are the vertices of —", ["an equilateral triangle", "an isosceles triangle", "a scalene triangle", "an isosceles right triangle"], "D", ["October 2024"], {"work": "AB² = 3² + 4² = 25; BC² = 4² + 3² = 25; AC² = 1² + 7² = 50.\nAB = BC and AB² + BC² = AC², so it is an isosceles right triangle."}],
+  ["The point P with ordinate −3 divides the join of A(6, 5) and B(−1, 4) in the ratio —", ["7 : 8 externally", "7 : 8 internally", "8 : 7 externally", "8 : 7 internally"], "C", ["October 2025"], {"work": "Let the ratio be k : 1. y = (4k + 5)/(k + 1) = −3 ⇒ 4k + 5 = −3k − 3 ⇒ k = −8/7.\nNegative k means external division in the ratio 8 : 7."}],
+  ["The midpoint of the join of (4, −2) and (−2, 6) is —", ["(1, 2)", "(2, 4)", "(3, −4)", "(1, 4)"], "A", {"work": "((4 − 2)/2, (−2 + 6)/2) = (1, 2)."}],
+  ["The centroid of the triangle with vertices (1, 2), (3, −4) and (5, 5) is —", ["(3, 1)", "(9, 3)", "(3, 3)", "(1, 3)"], "A", {"work": "((1 + 3 + 5)/3, (2 − 4 + 5)/3) = (9/3, 3/3) = (3, 1)."}],
+  ["The distance between (3, −2) and (−3, 6) is —", ["10", "8", "6", "12"], "A", {"work": "√[(−3 − 3)² + (6 + 2)²] = √(36 + 64) = √100 = 10."}]
+ ],
+ "objective": [
+  ["Fill in the blanks: (a) The area of the triangle with vertices (0, 0), (4, 0) and (0, 3) is ______. (b) Three points are collinear if the area of the triangle formed by them is ______.", "(a) ½ × base × height = ½ × 4 × 3 = 6 square units.\n(b) zero"],
+  ["Find: (a) the point dividing (2, 3) and (8, 9) internally in 1 : 2; (b) the distance of (6, 8) from the origin.", "(a) x = (1·8 + 2·2)/3 = 12/3 = 4; y = (1·9 + 2·3)/3 = 15/3 = 5 ⇒ (4, 5).\n(b) √(36 + 64) = 10."]
+ ],
+ "objective4": [
+  ["For A(1, 2), B(4, 6) and C(7, 2), find: (a) AB; (b) the midpoint of AC; (c) the centroid of ΔABC; (d) the area of ΔABC.", "(a) AB = √(3² + 4²) = 5.\n(b) Midpoint of AC = ((1 + 7)/2, (2 + 2)/2) = (4, 2).\n(c) Centroid = ((1 + 4 + 7)/3, (2 + 6 + 2)/3) = (4, 10/3).\n(d) Area = ½|1(6 − 2) + 4(2 − 2) + 7(2 − 6)| = ½|4 + 0 − 28| = 12 square units."]
+ ],
+ "vsa": [
+  ["Find the ratio in which the line segment joining (2, −3) and (5, 6) is divided by the y-axis.", "Let the ratio be k : 1. On the y-axis x = 0: (5k + 2)/(k + 1) = 0 ⇒ k = −2/5.\nSo the y-axis divides it externally in the ratio 2 : 5.", ["April 2024"]],
+  ["Find the area of the triangle whose vertices are (1, 2), (−2, 3) and (−3, −4).", "Area = ½|1(3 + 4) + (−2)(−4 − 2) + (−3)(2 − 3)|\n= ½|7 + 12 + 3| = ½ × 22 = 11 square units.", ["October 2025"]],
+  ["Show that (1, −1), (5, 2) and (9, 5) are collinear.", "Area = ½|1(2 − 5) + 5(5 + 1) + 9(−1 − 2)| = ½|−3 + 30 − 27| = 0.\nThe area is zero, so the points are collinear."]
+ ],
+ "sa": [
+  ["The vertices of ΔABC are A(−3, 3), B(5, −2) and C(−1, −4). If M and N are the midpoints of AB and AC, show that MN = ½BC.", "M = ((−3 + 5)/2, (3 − 2)/2) = (1, ½); N = ((−3 − 1)/2, (3 − 4)/2) = (−2, −½).\nMN = √[(1 + 2)² + (½ + ½)²] = √(9 + 1) = √10.\nBC = √[(5 + 1)² + (−2 + 4)²] = √(36 + 4) = √40 = 2√10.\nSo MN = ½BC.", ["April 2024"]]
+ ],
+ "la": []
+}

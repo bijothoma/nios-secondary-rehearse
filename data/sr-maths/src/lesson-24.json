@@ -1,0 +1,37 @@
+{
+ "lesson": 24,
+ "title": "Inverse Trigonometric Functions",
+ "module": 7,
+ "summary": [
+  "## Principal value branches",
+  "sin⁻¹x: domain [−1, 1], range [−π/2, π/2]. cos⁻¹x: domain [−1, 1], range [0, π]. tan⁻¹x: domain R, range (−π/2, π/2). cot⁻¹x: range (0, π). sec⁻¹x: domain |x| ≥ 1, range [0, π] − {π/2}. cosec⁻¹x: domain |x| ≥ 1, range [−π/2, π/2] − {0}.",
+  "## Key identities",
+  "sin⁻¹(−x) = −sin⁻¹x, tan⁻¹(−x) = −tan⁻¹x, cos⁻¹(−x) = π − cos⁻¹x. sin⁻¹x + cos⁻¹x = π/2 and tan⁻¹x + cot⁻¹x = π/2.",
+  "tan⁻¹x + tan⁻¹y = tan⁻¹[(x + y)/(1 − xy)] (xy < 1). 2tan⁻¹x = tan⁻¹[2x/(1 − x²)].",
+  "tan⁻¹(tan θ) = θ only when θ is in (−π/2, π/2); otherwise shift by π. For example tan⁻¹(tan 5π/6) = 5π/6 − π = −π/6.",
+  "## Simplifying",
+  "Put x = sin θ, tan θ etc. and draw a right triangle. Example: cos(sin⁻¹x) = √(1 − x²); cot(cosec⁻¹x) = √(x² − 1); tan⁻¹[(√(1 + x²) − 1)/x] = ½tan⁻¹x (put x = tan θ)."
+ ],
+ "mcq": [
+  ["The value of tan⁻¹(tan 5π/6) is —", ["−π/6", "π/6", "5π/6", "−5π/6"], "A", ["October 2025"], {"work": "5π/6 is outside (−π/2, π/2). tan(5π/6) = tan(5π/6 − π) = tan(−π/6), and −π/6 is in range."}],
+  ["The domain of f(x) = cos⁻¹(x² − 4) is —", ["[−√5, −√3]", "[√3, √5]", "[−√5, √3]", "[−√5, −√3] ∪ [√3, √5]"], "D", ["October 2025"], {"work": "−1 ≤ x² − 4 ≤ 1 ⇒ 3 ≤ x² ≤ 5 ⇒ √3 ≤ |x| ≤ √5."}],
+  ["The domain of y = sec⁻¹x is —", ["[−1, 1]", "R", "x ≥ 1 or x ≤ −1", "R − {0}"], "C", ["October 2024"]],
+  ["The principal value of cos⁻¹(−½) is —", ["−π/3", "π/3", "2π/3", "4π/3"], "C", ["April 2024"], {"work": "cos⁻¹(−x) = π − cos⁻¹x = π − π/3 = 2π/3."}],
+  ["sin⁻¹(√3/2) + cos⁻¹(√3/2) equals —", ["π/2", "π/3", "π", "0"], "A", {"work": "sin⁻¹x + cos⁻¹x = π/2 for every x in [−1, 1]."}]
+ ],
+ "objective": [
+  ["Match: (i) cos⁻¹(½ sin(π/3 + sin⁻¹ ½)); (ii) cos⁻¹(−sin 7π/6). [π/3, 2π/3]", "(i) sin⁻¹½ = π/6, so sin(π/3 + π/6) = sin π/2 = 1 ⇒ cos⁻¹(½) = π/3.\n(ii) sin 7π/6 = −½ ⇒ −sin 7π/6 = ½ ⇒ cos⁻¹(½) = π/3.", ["October 2025"]],
+  ["Fill in the blanks: (a) cos⁻¹(½) + 2 sin⁻¹(½) = ______. (b) If cot⁻¹(3/4) = x, then cos x = ______.", "(a) π/3 + 2(π/6) = 2π/3.\n(b) cot x = 3/4 ⇒ adjacent 3, opposite 4, hypotenuse 5 ⇒ cos x = 3/5.", ["April 2024"]]
+ ],
+ "vsa": [
+  ["Simplify cos(sin⁻¹x).", "Let sin⁻¹x = θ, so sin θ = x and θ ∈ [−π/2, π/2], where cos θ ≥ 0.\ncos θ = √(1 − sin²θ) = √(1 − x²).", ["April 2026"], {"or": ["Simplify cot(cosec⁻¹x).", "Let cosec⁻¹x = θ, so cosec θ = x. cot θ = √(cosec²θ − 1) = √(x² − 1) (taking x ≥ 1)."]}],
+  ["Express tan⁻¹[(√(1 + x²) − 1)/x], x ≠ 0, in the simplest form.", "Put x = tan θ: √(1 + tan²θ) = sec θ.\n(sec θ − 1)/tan θ = (1 − cos θ)/sin θ = 2 sin²(θ/2)/(2 sin(θ/2) cos(θ/2)) = tan(θ/2).\nSo the expression = θ/2 = ½ tan⁻¹x.", ["April 2025"]],
+  ["Solve cos(tan⁻¹x + cot⁻¹√3) = 0.", "cot⁻¹√3 = π/6. cos(tan⁻¹x + π/6) = 0 ⇒ tan⁻¹x + π/6 = π/2 ⇒ tan⁻¹x = π/3 ⇒ x = √3.", ["October 2025"]],
+  ["Simplify tan[sin⁻¹√(1 − x)].", "Let sin θ = √(1 − x). Then cos θ = √(1 − (1 − x)) = √x.\ntan θ = √(1 − x)/√x = √((1 − x)/x).", ["October 2024"]],
+  ["Solve 2tan⁻¹(cos x) = tan⁻¹(2 cosec x).", "2tan⁻¹(cos x) = tan⁻¹[2 cos x/(1 − cos²x)] = tan⁻¹[2 cos x/sin²x].\nSo 2 cos x/sin²x = 2/sin x ⇒ cos x = sin x ⇒ x = π/4.", ["April 2024"]]
+ ],
+ "sa": [
+  ["Prove that tan⁻¹(1/7) + tan⁻¹(1/13) = tan⁻¹(2/9).", "tan⁻¹x + tan⁻¹y = tan⁻¹[(x + y)/(1 − xy)] (xy < 1).\n(1/7 + 1/13)/(1 − 1/91) = (20/91)/(90/91) = 20/90 = 2/9.\nSo the sum = tan⁻¹(2/9).", ["October 2024"]]
+ ],
+ "la": []
+}

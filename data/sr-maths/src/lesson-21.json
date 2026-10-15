@@ -1,0 +1,45 @@
+{
+ "lesson": 21,
+ "title": "Determinants",
+ "module": 6,
+ "summary": [
+  "## Value of a determinant",
+  "|a b; c d| = ad − bc. A 3 × 3 determinant is expanded along any row or column: Δ = a₁₁C₁₁ + a₁₂C₁₂ + a₁₃C₁₃.",
+  "Minor Mᵢⱼ: the determinant left after deleting row i and column j. Cofactor Cᵢⱼ = (−1)^(i+j) Mᵢⱼ.",
+  "## Properties",
+  "(1) |A'| = |A|. (2) Interchanging two rows changes the sign. (3) Two identical (or proportional) rows make Δ = 0. (4) A common factor of a row can be taken out, so |kA| = kⁿ|A| for an n × n matrix. (5) Adding a multiple of one row to another leaves Δ unchanged (R₁ → R₁ + kR₂). (6) A row of sums splits into two determinants only one row at a time.",
+  "A skew-symmetric determinant of odd order is 0, because |A| = |A'| = |−A| = −|A|.",
+  "## Applications",
+  "Area of a triangle = ½|x₁ y₁ 1; x₂ y₂ 1; x₃ y₃ 1|. The points are collinear when this determinant is 0.",
+  "A is singular if |A| = 0 and non-singular if |A| ≠ 0.",
+  "Cube roots of unity: 1 + w + w² = 0 and w³ = 1 — use them to simplify determinants containing w."
+ ],
+ "mcq": [
+  ["The cofactor of a₂₃ in |1 0 4; 3 5 −1; 0 1 2| is —", ["1", "−1", "2", "4"], "B", ["April 2026"], {"work": "Delete row 2, column 3: M₂₃ = |1 0; 0 1| = 1.\nC₂₃ = (−1)^(2+3) × 1 = −1."}],
+  ["The value of |6 0 −1; 2 1 4; 1 1 3| is —", ["−7", "7", "8", "10"], "A", ["April 2025"], {"work": "Expand along row 1: 6(1·3 − 4·1) − 0 + (−1)(2·1 − 1·1) = 6(−1) − 1 = −7."}],
+  ["If A = [[1, 6], [3, 2]], then |A'| is —", ["−16", "16", "−8", "8"], "A", ["October 2024"], {"work": "|A'| = |A| = 1·2 − 6·3 = −16."}],
+  ["If |x 2; 18 x| = |9 2; 18 4| and x > 0, then x is —", ["4", "9", "6", "36"], "C", ["April 2024"], {"work": "x² − 36 = 36 − 36 = 0 ⇒ x² = 36 ⇒ x = 6 (x > 0)."}],
+  ["If A is of order 3 and |A| = 5, then |2A'| is —", ["−40", "10", "−10", "40"], "D", ["April 2024"], {"work": "|2A'| = 2³|A'| = 8|A| = 8 × 5 = 40."}],
+  ["det [[1, w², w²], [w², 1, w], [w², w, 1]], where w is a cube root of 1, equals —", ["−w", "−w²", "−1", "−3w"], "D", ["October 2025"], {"work": "Expand: 1(1 − w²) − w²(w² − w³) + w²(w³ − w²).\nWith w³ = 1: 1 − w² − w²(w² − 1) + w²(1 − w²) = 1 − w² − w⁴ + w² + w² − w⁴ = 1 + w² − 2w (w⁴ = w).\n= (1 + w + w²) − 3w = −3w."}]
+ ],
+ "objective": [
+  ["Fill in the blanks: (a) If A is a square matrix of order 2, |kA| = ______. (b) If x ∈ N and |x + 3 −2; −3x 2x| = 8, then x = ______.", "(a) k²|A|.\n(b) 2x(x + 3) − 6x = 8 ⇒ 2x² = 8 ⇒ x = 2 (x ∈ N).", ["April 2025"]],
+  ["Match: (a) the cofactor of −2 in [[−1, 3, 6], [2, 5, −2], [4, 1, 3]]; (b) |adj A| for A = [[−4, 5], [2, −3]]. [13, −2, −13, 2]", "(a) −2 is a₂₃: M₂₃ = |−1 3; 4 1| = −1 − 12 = −13; C₂₃ = (−1)⁵(−13) = 13.\n(b) |A| = 12 − 10 = 2; for a 2 × 2 matrix |adj A| = |A| = 2.", ["October 2024"]]
+ ],
+ "objective4": [
+  ["True or False: (a) Matrix A is singular if |A| ≠ 0. (b) |a+b c+d; e+f g+h| = |a c; e g| + |b d; f h|. (c) Interchanging two rows changes the sign of a determinant. (d) The determinant of a 3 × 3 skew-symmetric matrix is 0.", "(a) False — singular means |A| = 0.\n(b) False — a determinant splits along one row (or column) at a time only.\n(c) True.\n(d) True — |A| = |A'| = |−A| = −|A| ⇒ |A| = 0.", ["April 2026", "October 2025"]]
+ ],
+ "vsa": [
+  ["Without expanding, prove that |0 a −b; −a 0 −c; b c 0| = 0.", "Let Δ be the determinant. Its transpose has every element negated (it is skew-symmetric), so Δ = |A'| = |−A| = (−1)³Δ = −Δ.\nHence 2Δ = 0 ⇒ Δ = 0.", ["April 2026"]],
+  ["Show that |1 a bc; 1 b ca; 1 c ab| = (a − b)(b − c)(c − a).", "R₁ → R₁ − R₂, R₂ → R₂ − R₃:\n|0 a−b c(b−a); 0 b−c a(c−b); 1 c ab| = (a − b)(b − c)|0 1 −c; 0 1 −a; 1 c ab|.\nExpand along C₁: 1 × (1·(−a) − (−c)·1) = c − a.\nSo Δ = (a − b)(b − c)(c − a).", ["April 2025"]],
+  ["If A = [[sin x, 1, 1], [1, eˣ, 1], [cos x, 0, 1]], show that |4A| = 64|A|.", "Each of the 3 rows has the factor 4 taken out: |4A| = 4³|A| = 64|A|.", ["October 2025"]],
+  ["Prove that |−a² ab ac; ab −b² bc; ac bc −c²| = 4a²b²c².", "Take a, b, c from R₁, R₂, R₃ and a, b, c from C₁, C₂, C₃: Δ = a²b²c² |−1 1 1; 1 −1 1; 1 1 −1|.\n= a²b²c² [−1(1 − 1) − 1(−1 − 1) + 1(1 + 1)] = a²b²c²(0 + 2 + 2) = 4a²b²c².", ["October 2024"]],
+  ["Solve |0 1 0; x 2 x; 1 3 x| = 0.", "Expand along R₁: −1 × (x·x − x·1) = −(x² − x) = 0 ⇒ x(x − 1) = 0 ⇒ x = 0 or 1.", ["October 2024"]]
+ ],
+ "sa": [
+  ["Using determinants, check whether (a, b + c), (b, c + a) and (c, a + b) form a triangle.", "Δ = |a b+c 1; b c+a 1; c a+b 1|. C₁ → C₁ + C₂: every entry of C₁ becomes a + b + c.\nΔ = (a + b + c)|1 b+c 1; 1 c+a 1; 1 a+b 1| = 0 (C₁ = C₃).\nThe area is 0, so the points are collinear and do not form a triangle.", ["April 2024"], {"or": ["Prove |x+4 2x 2x; 2x x+4 2x; 2x 2x x+4| = (5x + 4)(4 − x)².", "C₁ → C₁ + C₂ + C₃: C₁ becomes 5x + 4 in every row. Take it out.\nR₂ → R₂ − R₁, R₃ → R₃ − R₁: |1 2x 2x; 0 4−x 0; 0 0 4−x|.\nΔ = (5x + 4)(4 − x)²."]}]
+ ],
+ "la": [
+  ["Using properties of determinants, prove |a−b−c 2a 2a; 2b b−c−a 2b; 2c 2c c−a−b| = (a + b + c)³.", "R₁ → R₁ + R₂ + R₃: R₁ becomes (a + b + c, a + b + c, a + b + c). Take (a + b + c) out:\nΔ = (a + b + c)|1 1 1; 2b b−c−a 2b; 2c 2c c−a−b|.\nC₂ → C₂ − C₁, C₃ → C₃ − C₁: |1 0 0; 2b −(a+b+c) 0; 2c 0 −(a+b+c)|.\nExpand along R₁: (a + b + c) × (a + b + c)² = (a + b + c)³.", ["April 2026"]]
+ ]
+}

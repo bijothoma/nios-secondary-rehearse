@@ -1,0 +1,105 @@
+{
+  "subject": "sr-maths",
+  "lesson": 21,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 21: Determinants — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Value of a determinant"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "|a b; c d| = ad − bc. A 3 × 3 determinant is expanded along any row or column: Δ = a₁₁C₁₁ + a₁₂C₁₂ + a₁₃C₁₃."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Minor Mᵢⱼ: the determinant left after deleting row i and column j. Cofactor Cᵢⱼ = (−1)^(i+j) Mᵢⱼ."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Properties"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "(1) |A'| = |A|. (2) Interchanging two rows changes the sign. (3) Two identical (or proportional) rows make Δ = 0. (4) A common factor of a row can be taken out, so |kA| = kⁿ|A| for an n × n matrix. (5) Adding a multiple of one row to another leaves Δ unchanged (R₁ → R₁ + kR₂). (6) A row of sums splits into two determinants only one row at a time."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "A skew-symmetric determinant of odd order is 0, because |A| = |A'| = |−A| = −|A|."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Applications"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Area of a triangle = ½|x₁ y₁ 1; x₂ y₂ 1; x₃ y₃ 1|. The points are collinear when this determinant is 0."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "A is singular if |A| = 0 and non-singular if |A| ≠ 0."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Cube roots of unity: 1 + w + w² = 0 and w³ = 1 — use them to simplify determinants containing w."
+        ]
+      ]
+    }
+  ]
+}

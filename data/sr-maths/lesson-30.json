@@ -1,0 +1,202 @@
+{
+  "subject": "sr-maths",
+  "lesson": 30,
+  "title": "Integration",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Every answer shows the working. Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "5 × 1 = 5",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "If ∫2ˣdx = f(x) + C, then f(x) is —",
+          "options": [
+            "2ˣ",
+            "2x logₑ2",
+            "2ˣ/logₑ2",
+            "2ˣ⁺¹/(x + 1)"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2025"
+          ],
+          "work": "∫aˣdx = aˣ/log a."
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "∫cos²x/(1 + sin x) dx equals —",
+          "options": [
+            "x − cos x + c",
+            "x + cos x + c",
+            "x + sin x + c",
+            "x − sin x + c"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2024"
+          ],
+          "work": "cos²x/(1 + sin x) = (1 − sin x)(1 + sin x)/(1 + sin x) = 1 − sin x.\n∫(1 − sin x)dx = x + cos x + c."
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "∫(log x)²/x dx equals —",
+          "options": [
+            "(log x/3)³ + c",
+            "log x³/3 + c",
+            "(log x)³/3 + c",
+            "(log(x/3))³ + c"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2024"
+          ],
+          "work": "Put t = log x, dt = dx/x: ∫t²dt = t³/3 = (log x)³/3 + c."
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "∫sin x dx is —",
+          "options": [
+            "cos x + c",
+            "−cos x + c",
+            "sin x + c",
+            "tan x + c"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "∫eˣ(1/x − 1/x²)dx equals —",
+          "options": [
+            "eˣ/x + c",
+            "eˣ/x² + c",
+            "eˣ log x + c",
+            "−eˣ/x + c"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2026"
+          ],
+          "work": "f(x) = 1/x has f'(x) = −1/x², so ∫eˣ[f + f']dx = eˣf(x) = eˣ/x + c."
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions of two 1-mark parts.",
+      "marks": "2 × 2 = 4",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "Match: (a) ∫sin x dx; (b) ∫sec²x dx. [cos x + c, log(sin x) + c, tan x + c, −cos x + c]",
+          "answer": "(a) −cos x + c.\n(b) tan x + c.",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "True or False: (a) ∫x cos x dx = x cos x + sin x + c. (b) ∫eˣ(2 log x + 2/x)dx = eˣ log x² + c.",
+          "answer": "(a) False — by parts: x sin x − ∫sin x dx = x sin x + cos x + c.\n(b) True — 2 log x = log x² and its derivative is 2/x, so the form eˣ[f + f'] applies.",
+          "years": [
+            "October 2025"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Objective type questions of four 1-mark parts.",
+      "marks": "1 × 4 = 4",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "Evaluate: (i) ∫cos√x/√x dx; (ii) ∫e^(3 log x)·x⁴ dx; (iii) ∫sec²x/√(1 − tan²x) dx; (iv) ∫cosec x(cosec x + cot x)dx.",
+          "answer": "(i) t = √x, dt = dx/(2√x): 2∫cos t dt = 2 sin√x + c.\n(ii) e^(3 log x) = x³, so ∫x⁷dx = x⁸/8 + c.\n(iii) t = tan x: ∫dt/√(1 − t²) = sin⁻¹(tan x) + c.\n(iv) ∫(cosec²x + cosec x cot x)dx = −cot x − cosec x + c.",
+          "years": [
+            "April 2024"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Answer the following (2 marks each).",
+      "marks": "4 × 2 = 8",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "Find ∫dx/(x² − 9).",
+          "answer": "∫dx/(x² − a²) = (1/2a)log|(x − a)/(x + a)| with a = 3:\n(1/6)log|(x − 3)/(x + 3)| + C.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "Find ∫sin⁻¹(cos x) dx.",
+          "answer": "sin⁻¹(cos x) = π/2 − x (0 ≤ x ≤ π).\n∫(π/2 − x)dx = πx/2 − x²/2 + C.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "Find ∫3ˣ5⁻ˣ dx.",
+          "answer": "3ˣ5⁻ˣ = (3/5)ˣ ⇒ ∫(3/5)ˣdx = (3/5)ˣ/log(3/5) + C.",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "Find ∫dx/(x − √x).",
+          "answer": "Put t = √x, dx = 2t dt: ∫2t dt/(t² − t) = 2∫dt/(t − 1) = 2 log|√x − 1| + C."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Answer the following (4 marks each).",
+      "marks": "2 × 4 = 8",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "Find ∫x²/(x² + 6x + 12) dx.",
+          "answer": "x²/(x² + 6x + 12) = 1 − (6x + 12)/(x² + 6x + 12).\n6x + 12 = 3(2x + 6) − 6. So ∫ = x − 3 log(x² + 6x + 12) + 6∫dx/((x + 3)² + 3).\n= x − 3 log(x² + 6x + 12) + (6/√3)tan⁻¹((x + 3)/√3) + C\n= x − 3 log(x² + 6x + 12) + 2√3 tan⁻¹((x + 3)/√3) + C.",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "Find ∫x²/[(x² + 4)(x² + 9)] dx.",
+          "answer": "Put x² = t: t/[(t + 4)(t + 9)] = A/(t + 4) + B/(t + 9) with A = −4/5, B = 9/5.\n∫ = −(4/5)(1/2)tan⁻¹(x/2) + (9/5)(1/3)tan⁻¹(x/3) + C = −(2/5)tan⁻¹(x/2) + (3/5)tan⁻¹(x/3) + C."
+        }
+      ]
+    }
+  ]
+}

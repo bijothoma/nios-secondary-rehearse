@@ -1,0 +1,246 @@
+{
+  "subject": "sr-maths",
+  "lesson": 21,
+  "title": "Determinants",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Every answer shows the working. Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "6 × 1 = 6",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "The cofactor of a₂₃ in |1 0 4; 3 5 −1; 0 1 2| is —",
+          "options": [
+            "1",
+            "−1",
+            "2",
+            "4"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2026"
+          ],
+          "work": "Delete row 2, column 3: M₂₃ = |1 0; 0 1| = 1.\nC₂₃ = (−1)^(2+3) × 1 = −1."
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "The value of |6 0 −1; 2 1 4; 1 1 3| is —",
+          "options": [
+            "−7",
+            "7",
+            "8",
+            "10"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2025"
+          ],
+          "work": "Expand along row 1: 6(1·3 − 4·1) − 0 + (−1)(2·1 − 1·1) = 6(−1) − 1 = −7."
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "If A = [[1, 6], [3, 2]], then |A'| is —",
+          "options": [
+            "−16",
+            "16",
+            "−8",
+            "8"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2024"
+          ],
+          "work": "|A'| = |A| = 1·2 − 6·3 = −16."
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "If |x 2; 18 x| = |9 2; 18 4| and x > 0, then x is —",
+          "options": [
+            "4",
+            "9",
+            "6",
+            "36"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2024"
+          ],
+          "work": "x² − 36 = 36 − 36 = 0 ⇒ x² = 36 ⇒ x = 6 (x > 0)."
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "If A is of order 3 and |A| = 5, then |2A'| is —",
+          "options": [
+            "−40",
+            "10",
+            "−10",
+            "40"
+          ],
+          "answer": "D",
+          "years": [
+            "April 2024"
+          ],
+          "work": "|2A'| = 2³|A'| = 8|A| = 8 × 5 = 40."
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "det [[1, w², w²], [w², 1, w], [w², w, 1]], where w is a cube root of 1, equals —",
+          "options": [
+            "−w",
+            "−w²",
+            "−1",
+            "−3w"
+          ],
+          "answer": "D",
+          "years": [
+            "October 2025"
+          ],
+          "work": "Expand: 1(1 − w²) − w²(w² − w³) + w²(w³ − w²).\nWith w³ = 1: 1 − w² − w²(w² − 1) + w²(1 − w²) = 1 − w² − w⁴ + w² + w² − w⁴ = 1 + w² − 2w (w⁴ = w).\n= (1 + w + w²) − 3w = −3w."
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions of two 1-mark parts.",
+      "marks": "2 × 2 = 4",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "Fill in the blanks: (a) If A is a square matrix of order 2, |kA| = ______. (b) If x ∈ N and |x + 3 −2; −3x 2x| = 8, then x = ______.",
+          "answer": "(a) k²|A|.\n(b) 2x(x + 3) − 6x = 8 ⇒ 2x² = 8 ⇒ x = 2 (x ∈ N).",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Match: (a) the cofactor of −2 in [[−1, 3, 6], [2, 5, −2], [4, 1, 3]]; (b) |adj A| for A = [[−4, 5], [2, −3]]. [13, −2, −13, 2]",
+          "answer": "(a) −2 is a₂₃: M₂₃ = |−1 3; 4 1| = −1 − 12 = −13; C₂₃ = (−1)⁵(−13) = 13.\n(b) |A| = 12 − 10 = 2; for a 2 × 2 matrix |adj A| = |A| = 2.",
+          "years": [
+            "October 2024"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Objective type questions of four 1-mark parts.",
+      "marks": "1 × 4 = 4",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "True or False: (a) Matrix A is singular if |A| ≠ 0. (b) |a+b c+d; e+f g+h| = |a c; e g| + |b d; f h|. (c) Interchanging two rows changes the sign of a determinant. (d) The determinant of a 3 × 3 skew-symmetric matrix is 0.",
+          "answer": "(a) False — singular means |A| = 0.\n(b) False — a determinant splits along one row (or column) at a time only.\n(c) True.\n(d) True — |A| = |A'| = |−A| = −|A| ⇒ |A| = 0.",
+          "years": [
+            "April 2026",
+            "October 2025"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Answer the following (2 marks each).",
+      "marks": "5 × 2 = 10",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "Without expanding, prove that |0 a −b; −a 0 −c; b c 0| = 0.",
+          "answer": "Let Δ be the determinant. Its transpose has every element negated (it is skew-symmetric), so Δ = |A'| = |−A| = (−1)³Δ = −Δ.\nHence 2Δ = 0 ⇒ Δ = 0.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "Show that |1 a bc; 1 b ca; 1 c ab| = (a − b)(b − c)(c − a).",
+          "answer": "R₁ → R₁ − R₂, R₂ → R₂ − R₃:\n|0 a−b c(b−a); 0 b−c a(c−b); 1 c ab| = (a − b)(b − c)|0 1 −c; 0 1 −a; 1 c ab|.\nExpand along C₁: 1 × (1·(−a) − (−c)·1) = c − a.\nSo Δ = (a − b)(b − c)(c − a).",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "If A = [[sin x, 1, 1], [1, eˣ, 1], [cos x, 0, 1]], show that |4A| = 64|A|.",
+          "answer": "Each of the 3 rows has the factor 4 taken out: |4A| = 4³|A| = 64|A|.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "Prove that |−a² ab ac; ab −b² bc; ac bc −c²| = 4a²b²c².",
+          "answer": "Take a, b, c from R₁, R₂, R₃ and a, b, c from C₁, C₂, C₃: Δ = a²b²c² |−1 1 1; 1 −1 1; 1 1 −1|.\n= a²b²c² [−1(1 − 1) − 1(−1 − 1) + 1(1 + 1)] = a²b²c²(0 + 2 + 2) = 4a²b²c².",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "4.5",
+          "type": "open",
+          "q": "Solve |0 1 0; x 2 x; 1 3 x| = 0.",
+          "answer": "Expand along R₁: −1 × (x·x − x·1) = −(x² − x) = 0 ⇒ x(x − 1) = 0 ⇒ x = 0 or 1.",
+          "years": [
+            "October 2024"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Answer the following (4 marks each).",
+      "marks": "1 × 4 = 4",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "Using determinants, check whether (a, b + c), (b, c + a) and (c, a + b) form a triangle.",
+          "answer": "Δ = |a b+c 1; b c+a 1; c a+b 1|. C₁ → C₁ + C₂: every entry of C₁ becomes a + b + c.\nΔ = (a + b + c)|1 b+c 1; 1 c+a 1; 1 a+b 1| = 0 (C₁ = C₃).\nThe area is 0, so the points are collinear and do not form a triangle.",
+          "years": [
+            "April 2024"
+          ],
+          "or": {
+            "q": "Prove |x+4 2x 2x; 2x x+4 2x; 2x 2x x+4| = (5x + 4)(4 − x)².",
+            "answer": "C₁ → C₁ + C₂ + C₃: C₁ becomes 5x + 4 in every row. Take it out.\nR₂ → R₂ − R₁, R₃ → R₃ − R₁: |1 2x 2x; 0 4−x 0; 0 0 4−x|.\nΔ = (5x + 4)(4 − x)²."
+          }
+        }
+      ]
+    },
+    {
+      "no": 6,
+      "title": "Answer the following (6 marks each).",
+      "marks": "1 × 6 = 6",
+      "questions": [
+        {
+          "id": "6.1",
+          "type": "open",
+          "q": "Using properties of determinants, prove |a−b−c 2a 2a; 2b b−c−a 2b; 2c 2c c−a−b| = (a + b + c)³.",
+          "answer": "R₁ → R₁ + R₂ + R₃: R₁ becomes (a + b + c, a + b + c, a + b + c). Take (a + b + c) out:\nΔ = (a + b + c)|1 1 1; 2b b−c−a 2b; 2c 2c c−a−b|.\nC₂ → C₂ − C₁, C₃ → C₃ − C₁: |1 0 0; 2b −(a+b+c) 0; 2c 0 −(a+b+c)|.\nExpand along R₁: (a + b + c) × (a + b + c)² = (a + b + c)³.",
+          "years": [
+            "April 2026"
+          ]
+        }
+      ]
+    }
+  ]
+}

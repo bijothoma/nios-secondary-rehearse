@@ -1,0 +1,87 @@
+{
+  "subject": "sr-maths",
+  "lesson": 27,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 27: Differentiation of Trigonometric Functions — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Basic derivatives"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "d/dx sin x = cos x; cos x → −sin x; tan x → sec²x; cot x → −cosec²x; sec x → sec x tan x; cosec x → −cosec x cot x (x in radians)."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "If x is in degrees, x° = πx/180, so d/dx(cot x°) = −(π/180) cosec²x°."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Inverse trigonometric functions"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "d/dx sin⁻¹x = 1/√(1 − x²); cos⁻¹x → −1/√(1 − x²); tan⁻¹x → 1/(1 + x²); cot⁻¹x → −1/(1 + x²); sec⁻¹x → 1/(|x|√(x² − 1))."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "With the chain rule"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "d/dx sin³x = 3 sin²x cos x. d/dx sin⁻¹(x²) = 2x/√(1 − x⁴). d/dx √(sin³x) = (3/2)√(sin x) cos x."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Simplify first when possible: sin⁻¹(cos x) = π/2 − x, so its derivative is −1."
+        ]
+      ]
+    }
+  ]
+}

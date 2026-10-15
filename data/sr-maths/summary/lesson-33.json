@@ -1,0 +1,78 @@
+{
+  "subject": "sr-maths",
+  "lesson": 33,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 33: Introduction to Three Dimensional Geometry — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Coordinates in space"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Three mutually perpendicular axes divide space into eight octants. A point is (x, y, z). On the x-axis y = z = 0; in the xy-plane z = 0."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Distance: PQ = √[(x₂ − x₁)² + (y₂ − y₁)² + (z₂ − z₁)²]. Section formula: ((mx₂ + nx₁)/(m + n), (my₂ + ny₁)/(m + n), (mz₂ + nz₁)/(m + n)). To find the point with a known coordinate on a segment, use the ratio k : 1."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Direction cosines and ratios"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "If a line makes angles α, β, γ with the axes, l = cos α, m = cos β, n = cos γ are its direction cosines, with l² + m² + n² = 1. The x-, y- and z-axes have direction cosines (1, 0, 0), (0, 1, 0) and (0, 0, 1)."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Direction ratios a, b, c are any numbers proportional to l, m, n; for the line through two points they are x₂ − x₁, y₂ − y₁, z₂ − z₁. l = a/√(a² + b² + c²) and so on."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Example: a vector making π/3 with OX and π/2 with OY has cos²γ = 1 − ¼ − 0 = ¾, so γ = π/6."
+        ]
+      ]
+    }
+  ]
+}

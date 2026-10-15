@@ -1,0 +1,632 @@
+{
+  "subject": "sr-maths",
+  "lesson": 902,
+  "title": "Model Question Paper 2",
+  "meta": "Time: 3 hours · Maximum marks: 100 · Modelled on the April 2026 NIOS paper",
+  "instructions": [
+    "All questions are compulsory. Where a question has OR, answer either one.",
+    "Section A: questions 1–20 are MCQs (1 mark each); 21–24 have two 1-mark parts; 25–28 have four 1-mark parts; 29 has six 1-mark parts.",
+    "Section B: questions 30–38 carry 2 marks, 39–43 carry 4 marks and 44–45 carry 6 marks.",
+    "Every answer shows the working. Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "20 × 1 = 20",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "The centroid of the triangle with vertices (1, 2), (3, −4) and (5, 5) is —",
+          "options": [
+            "(3, 1)",
+            "(9, 3)",
+            "(3, 3)",
+            "(1, 3)"
+          ],
+          "answer": "A",
+          "work": "((1 + 3 + 5)/3, (2 − 4 + 5)/3) = (9/3, 3/3) = (3, 1).",
+          "note": "Lesson 13."
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "The foot of the perpendicular from (2, 3) to the line y = 3x + 4 is —",
+          "options": [
+            "(37/10, −1/10)",
+            "(−1/10, 37/10)",
+            "(10/37, −10)",
+            "(2/3, −1/3)"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2026"
+          ],
+          "work": "Line: 3x − y + 4 = 0. (x − 2)/3 = (y − 3)/(−1) = −(6 − 3 + 4)/(9 + 1) = −7/10.\nx = 2 − 21/10 = −1/10; y = 3 + 7/10 = 37/10.",
+          "note": "Lesson 14."
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "If a circle passes through (0, 0), (a, 0) and (0, b), its centre is —",
+          "options": [
+            "(a, b)",
+            "(−a/2, −b/2)",
+            "(−a, −b)",
+            "(a/2, b/2)"
+          ],
+          "answer": "D",
+          "years": [
+            "April 2026"
+          ],
+          "work": "The centre is equidistant from (0, 0) and (a, 0), so h = a/2; from (0, 0) and (0, b), so k = b/2.",
+          "note": "Lesson 15."
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "The parabola with vertex (−3, 0) and directrix x + 5 = 0 is —",
+          "options": [
+            "x² = 8(y + 3)",
+            "y² = 8(x + 3)",
+            "x² = −8(y + 3)",
+            "y² = −8(x + 3)"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2026"
+          ],
+          "work": "Vertex to directrix: −3 − (−5) = 2 = a, opening to the right.\n(y − 0)² = 4·2(x + 3) = 8(x + 3).",
+          "note": "Lesson 16."
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "[[2a, b], [−4, 6]] = [[3, −2], [d, 3c]] for —",
+          "options": [
+            "a = 3/2, b = −2, c = −2, d = 4",
+            "a = −3/2, b = −2, c = 2, d = 4",
+            "a = 3/2, b = −2, c = 2, d = −4",
+            "a = 3/2, b = −2, c = 2, d = 4"
+          ],
+          "answer": "C",
+          "years": [
+            "October 2024"
+          ],
+          "work": "2a = 3 ⇒ a = 3/2; b = −2; d = −4; 3c = 6 ⇒ c = 2.",
+          "note": "Lesson 20."
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "If A is of order 3 and |A| = 5, then |2A'| is —",
+          "options": [
+            "−40",
+            "10",
+            "−10",
+            "40"
+          ],
+          "answer": "D",
+          "years": [
+            "April 2024"
+          ],
+          "work": "|2A'| = 2³|A'| = 8|A| = 8 × 5 = 40.",
+          "note": "Lesson 21."
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "If A = [[2, 5], [1, 3]], then A⁻¹ is —",
+          "options": [
+            "[[2, −1], [−5, 3]]",
+            "[[3, −5], [−1, 2]]",
+            "[[−3, 5], [1, −2]]",
+            "[[2, −5], [−1, 3]]"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2025"
+          ],
+          "work": "|A| = 6 − 5 = 1. adj A = [[3, −5], [−1, 2]]. A⁻¹ = adj A / 1.",
+          "note": "Lesson 22."
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "If a * b = ab/3 on R⁺, then (2 * 3) * 5 is —",
+          "options": [
+            "7",
+            "10",
+            "13/3",
+            "10/3"
+          ],
+          "answer": "D",
+          "years": [
+            "April 2026"
+          ],
+          "work": "2 * 3 = 6/3 = 2. Then 2 * 5 = 10/3.",
+          "note": "Lesson 23."
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "If y = (1/a) cot⁻¹(x/a), then dy/dx is —",
+          "options": [
+            "1/(x² + a²)",
+            "1/(a² − x²)",
+            "1/√(x² + a²)",
+            "−1/(x² + a²)"
+          ],
+          "answer": "D",
+          "years": [
+            "October 2025"
+          ],
+          "work": "(1/a) × [−1/(1 + x²/a²)] × (1/a) = −1/(a² + x²).",
+          "note": "Lesson 27."
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "d/dx(e^(x²)) is —",
+          "options": [
+            "e^(x²)",
+            "2x e^(x²)",
+            "x² e^(x²−1)",
+            "2e^(x²)"
+          ],
+          "answer": "B",
+          "work": "Chain rule: e^(x²) × 2x.",
+          "note": "Lesson 28."
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "The interval in which f(x) = 2x² − 4x + 15 is increasing is —",
+          "options": [
+            "(−1, ∞)",
+            "(1, ∞)",
+            "(0, 1)",
+            "(1, 4)"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2025"
+          ],
+          "work": "f'(x) = 4x − 4 > 0 ⇒ x > 1.",
+          "note": "Lesson 29."
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "∫(log x)²/x dx equals —",
+          "options": [
+            "(log x/3)³ + c",
+            "log x³/3 + c",
+            "(log x)³/3 + c",
+            "(log(x/3))³ + c"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2024"
+          ],
+          "work": "Put t = log x, dt = dx/x: ∫t²dt = t³/3 = (log x)³/3 + c.",
+          "note": "Lesson 30."
+        },
+        {
+          "id": "1.13",
+          "type": "mcq",
+          "q": "∫₀^(π/2) cos³x/(sin³x + cos³x) dx is —",
+          "options": [
+            "0",
+            "π/4",
+            "π/2",
+            "1"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2024"
+          ],
+          "work": "I = ∫ sin³x/(sin³x + cos³x) dx too (x → π/2 − x). Adding: 2I = π/2 ⇒ I = π/4.",
+          "note": "Lesson 31."
+        },
+        {
+          "id": "1.14",
+          "type": "mcq",
+          "q": "The integrating factor of dy/dx + 4y/x = 1/x is —",
+          "options": [
+            "4x",
+            "x²",
+            "x⁴",
+            "4/x"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2024"
+          ],
+          "work": "P = 4/x ⇒ ∫P dx = 4 log x ⇒ IF = x⁴.",
+          "note": "Lesson 32."
+        },
+        {
+          "id": "1.15",
+          "type": "mcq",
+          "q": "The direction cosines of the y-axis are —",
+          "options": [
+            "1, 1, 0",
+            "1, 0, 1",
+            "0, 1, 0",
+            "0, 1, 1"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Lesson 33."
+        },
+        {
+          "id": "1.16",
+          "type": "mcq",
+          "q": "If OACB is a parallelogram with OC = a and AB = b, then OA is —",
+          "options": [
+            "a + b",
+            "a − b",
+            "½(a − b)",
+            "½(b − a)"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2026"
+          ],
+          "work": "OC = OA + OB = a and AB = OB − OA = b. Subtract: 2OA = a − b ⇒ OA = ½(a − b).",
+          "note": "Lesson 34."
+        },
+        {
+          "id": "1.17",
+          "type": "mcq",
+          "q": "The distance of the plane r·(2i/7 − 3j/7 + 6k/7) = 4 from the origin is —",
+          "options": [
+            "4",
+            "28",
+            "1/7",
+            "√7"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2024"
+          ],
+          "work": "The normal (2/7, −3/7, 6/7) is a unit vector (4 + 9 + 36 = 49), so the distance is 4.",
+          "note": "Lesson 35."
+        },
+        {
+          "id": "1.18",
+          "type": "mcq",
+          "q": "The vector equation of the line through (2, −1, 4) parallel to i + 2j − k is —",
+          "options": [
+            "r = i + 2j − k + λ(2i − j + 4k)",
+            "r = i + 2j − k",
+            "r = i − 2j − k",
+            "r = 2i − j + 4k + λ(i + 2j − k)"
+          ],
+          "answer": "D",
+          "years": [
+            "October 2025"
+          ],
+          "work": "r = a + λb with a = 2i − j + 4k and b = i + 2j − k.",
+          "note": "Lesson 36."
+        },
+        {
+          "id": "1.19",
+          "type": "mcq",
+          "q": "The feasible region has corners (0, 0), (6, 0), (4, 4) and (0, 5). The maximum of Z = 3x + 8y occurs at —",
+          "options": [
+            "(0, 5)",
+            "(4, 4)",
+            "(6, 0) and (0, 5)",
+            "every point of the segment from (4, 4) to (6, 0)"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2024"
+          ],
+          "work": "Z(0,0) = 0, Z(6,0) = 18, Z(4,4) = 12 + 32 = 44, Z(0,5) = 40. Maximum 44 at (4, 4).",
+          "note": "Lesson 37."
+        },
+        {
+          "id": "1.20",
+          "type": "mcq",
+          "q": "The converse of 'If n is a positive number, then n³ is a positive number' is —",
+          "options": [
+            "If n is not positive, then n³ is not positive",
+            "If n³ is not positive, then n is not positive",
+            "If n³ is positive, then n is positive",
+            "If n is positive, then n³ is not positive"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Lesson 38."
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions of two 1-mark parts.",
+      "marks": "4 × 2 = 8",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "Find: (a) the point dividing (2, 3) and (8, 9) internally in 1 : 2; (b) the distance of (6, 8) from the origin.",
+          "answer": "(a) x = (1·8 + 2·2)/3 = 12/3 = 4; y = (1·9 + 2·3)/3 = 15/3 = 5 ⇒ (4, 5).\n(b) √(36 + 64) = 10.",
+          "note": "Lesson 13."
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Match: (a) ∫sin x dx; (b) ∫sec²x dx. [cos x + c, log(sin x) + c, tan x + c, −cos x + c]",
+          "answer": "(a) −cos x + c.\n(b) tan x + c.",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Lesson 30."
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "(a) Find the distance of (2, 3, 6) from the origin. (b) Write the direction ratios of the line through (1, 2, 3) and (4, 0, 5).",
+          "answer": "(a) √(4 + 9 + 36) = 7.\n(b) 4 − 1, 0 − 2, 5 − 3 = 3, −2, 2.",
+          "note": "Lesson 33."
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Find the Cartesian form of r = (3i + 4j − 2k) + λ(i − j − 3k).",
+          "answer": "Point (3, 4, −2), direction (1, −1, −3):\n(x − 3)/1 = (y − 4)/(−1) = (z + 2)/(−3).",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Lesson 36."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Objective type questions of four 1-mark parts.",
+      "marks": "4 × 4 = 16",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "For the line 3x − 4y + 12 = 0 find: (a) its slope; (b) its x-intercept; (c) its y-intercept; (d) its distance from the origin.",
+          "answer": "(a) 4y = 3x + 12 ⇒ slope = 3/4.\n(b) y = 0 ⇒ x = −4.\n(c) x = 0 ⇒ y = 3.\n(d) |12|/√(9 + 16) = 12/5.",
+          "note": "Lesson 14."
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "True or False: (a) Two matrices are comparable if they have the same number of rows and columns. (b) If A is skew-symmetric, all its diagonal elements are zero. (c) (AB)' = A'B'. (d) If A = [[2, −1, 5], [3, 8, 7]], then A' = [[2, 3], [−1, 8], [5, 7]].",
+          "answer": "(a) True.\n(b) True — aᵢᵢ = −aᵢᵢ ⇒ aᵢᵢ = 0.\n(c) False — (AB)' = B'A'.\n(d) True — rows become columns.",
+          "years": [
+            "April 2026",
+            "April 2024"
+          ],
+          "note": "Lesson 20."
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "Answer: (i) What are xi, yj, zk called for r = xi + yj + zk? (ii) If |OA| = 4, |OB| = 5, |OC| = 6 along the axes, express OP. (iii) The centroid of ΔABC with position vectors a, b, c? (iv) The point dividing AB internally in 2 : 3?",
+          "answer": "(i) The component vectors of r along the axes.\n(ii) OP = 4i + 5j + 6k.\n(iii) (a + b + c)/3.\n(iv) (2b + 3a)/(2 + 3) = (3a + 2b)/5.",
+          "years": [
+            "October 2024"
+          ],
+          "note": "Lesson 34."
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "(a) Negate: '√5 is not a rational number.' (b) Converse of 'If x is a prime number, then x is even.' (c) Contrapositive of 'If a number is odd, then its square is not negative.' (d) Combine with 'if and only if': P: if two angles of a triangle are equal, it is isosceles; Q: if a triangle is isosceles, two of its angles are equal.",
+          "answer": "(a) √5 is a rational number.\n(b) If x is even, then x is a prime number.\n(c) If the square of a number is negative, then the number is not odd.\n(d) A triangle is isosceles if and only if two of its angles are equal.",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Lesson 38."
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Objective type question of six 1-mark parts.",
+      "marks": "1 × 6 = 6",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "a = i + j + k and b = i − j + k. (a) Find a × b. (b) Find the angle between a and b. (c) Find the projection of a on b. (d) Is a × b = b × a? (e) Find the area of the parallelogram with a and b as diagonals. (f) Check whether |a × b|² = |a|²|b|² − (a·b)².",
+          "answer": "(a) a × b = |i j k; 1 1 1; 1 −1 1| = i(1 + 1) − j(1 − 1) + k(−1 − 1) = 2i − 2k.\n(b) a·b = 1 − 1 + 1 = 1; cos θ = 1/(√3·√3) = 1/3 ⇒ θ = cos⁻¹(1/3).\n(c) a·b/|b| = 1/√3.\n(d) No — b × a = −(a × b) = −2i + 2k.\n(e) ½|a × b| = ½√(4 + 4) = √2.\n(f) |a × b|² = 8; |a|²|b|² − (a·b)² = 9 − 1 = 8. True.",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 34."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Answer the following (2 marks each).",
+      "marks": "9 × 2 = 18",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "Find the area of the triangle whose vertices are (1, 2), (−2, 3) and (−3, −4).",
+          "answer": "Area = ½|1(3 + 4) + (−2)(−4 − 2) + (−3)(2 − 3)|\n= ½|7 + 12 + 3| = ½ × 22 = 11 square units.",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 13."
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "Find the angle between the x-axis and the line joining (5, 4) and (6, 3).",
+          "answer": "Slope m = (3 − 4)/(6 − 5) = −1 = tan θ ⇒ θ = 135°.",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Lesson 14."
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "Solve x dy/dx + 2y = x².",
+          "answer": "dy/dx + (2/x)y = x. IF = e^(∫2/x dx) = x².\nyx² = ∫x·x² dx = x⁴/4 + C ⇒ y = x²/4 + C/x².",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Lesson 32."
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "Determine a point on the x-axis equidistant from (2, 0, 0) and (0, 3, 0).",
+          "answer": "Let P = (x, 0, 0). (x − 2)² = x² + 9 ⇒ −4x = 5 ⇒ x = −5/4. P = (−5/4, 0, 0).",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 33."
+        },
+        {
+          "id": "5.5",
+          "type": "open",
+          "q": "Find the projection of a = 2i + 3j + 2k on b = i + 2j + k.",
+          "answer": "a·b = 2 + 6 + 2 = 10; |b| = √6.\nProjection = a·b/|b| = 10/√6.",
+          "note": "Lesson 34."
+        },
+        {
+          "id": "5.6",
+          "type": "open",
+          "q": "Reduce 4x − 5y + 6z − 60 = 0 to intercept form and find its intercepts.",
+          "answer": "4x − 5y + 6z = 60. Divide by 60: x/15 + y/(−12) + z/10 = 1.\nIntercepts: 15, −12, 10.",
+          "years": [
+            "October 2024"
+          ],
+          "note": "Lesson 35."
+        },
+        {
+          "id": "5.7",
+          "type": "open",
+          "q": "Find the vector equation of the line through (4, 3, 0) parallel to the join of (2, 5, −1) and (−1, 4, 3).",
+          "answer": "Direction = (−1 − 2, 4 − 5, 3 + 1) = (−3, −1, 4).\nr = (4i + 3j) + λ(−3i − j + 4k).",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Lesson 36."
+        },
+        {
+          "id": "5.8",
+          "type": "open",
+          "q": "A firm makes chairs (x) and tables (y). Each chair needs 2 hours and each table 3 hours; 30 hours are available. Profit is ₹40 per chair and ₹70 per table. Formulate the LPP.",
+          "answer": "Maximise Z = 40x + 70y\nsubject to 2x + 3y ≤ 30, x ≥ 0, y ≥ 0.",
+          "note": "Lesson 37."
+        },
+        {
+          "id": "5.9",
+          "type": "open",
+          "q": "Write the converse and contrapositive of 'If a triangle is equilateral, then it is isosceles'.",
+          "answer": "Converse: if a triangle is isosceles, then it is equilateral (false in general).\nContrapositive: if a triangle is not isosceles, then it is not equilateral (true, equivalent to the original).",
+          "note": "Lesson 38."
+        }
+      ]
+    },
+    {
+      "no": 6,
+      "title": "Answer the following (4 marks each).",
+      "marks": "5 × 4 = 20",
+      "questions": [
+        {
+          "id": "6.1",
+          "type": "open",
+          "q": "The vertices of ΔABC are A(−3, 3), B(5, −2) and C(−1, −4). If M and N are the midpoints of AB and AC, show that MN = ½BC.",
+          "answer": "M = ((−3 + 5)/2, (3 − 2)/2) = (1, ½); N = ((−3 − 1)/2, (3 − 4)/2) = (−2, −½).\nMN = √[(1 + 2)² + (½ + ½)²] = √(9 + 1) = √10.\nBC = √[(5 + 1)² + (−2 + 4)²] = √(36 + 4) = √40 = 2√10.\nSo MN = ½BC.",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Lesson 13."
+        },
+        {
+          "id": "6.2",
+          "type": "open",
+          "q": "The eccentricity of an ellipse is 5/8 and the distance between its foci is 10. Find the length of its latus rectum.",
+          "answer": "2ae = 10 ⇒ ae = 5 ⇒ a = 5/(5/8) = 8.\nb² = a²(1 − e²) = 64(1 − 25/64) = 39.\nLR = 2b²/a = 78/8 = 39/4.",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 16."
+        },
+        {
+          "id": "6.3",
+          "type": "open",
+          "q": "Using elementary column transformations, find the inverse of A = [[2, −6], [1, −2]].",
+          "answer": "|A| = −4 + 6 = 2, so A⁻¹ exists. Write A = AI.\nC₂ → C₂ + 3C₁: [[2, 0], [1, 1]] = A[[1, 3], [0, 1]].\nC₁ → C₁ − C₂: [[2, 0], [0, 1]] = A[[−2, 3], [−1, 1]].\nC₁ → C₁/2: [[1, 0], [0, 1]] = A[[−1, 3], [−½, 1]].\nA⁻¹ = [[−1, 3], [−½, 1]].",
+          "years": [
+            "October 2024"
+          ],
+          "note": "Lesson 22."
+        },
+        {
+          "id": "6.4",
+          "type": "open",
+          "q": "f(x) = (1 − cos 4x)/x² for x < 0, a for x = 0, √x/(√(16 + √x) − 4) for x > 0. If f is continuous at 0, find a.",
+          "answer": "LHL: 1 − cos 4x = 2 sin²2x ⇒ 2 sin²2x/x² = 8[sin 2x/(2x)]² → 8.\nRHL: rationalise: √x(√(16 + √x) + 4)/(16 + √x − 16) = √(16 + √x) + 4 → 4 + 4 = 8.\nContinuity: a = 8.",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 25."
+        },
+        {
+          "id": "6.5",
+          "type": "open",
+          "q": "Find the angle between the line x − 2y + z = 0 = x + 2y − 2z and the line (x − 1)/3 = (1 − y)/1 = z/0.",
+          "answer": "Direction of the first = (1, −2, 1) × (1, 2, −2) = i(4 − 2) − j(−2 − 1) + k(2 + 2) = (2, 3, 4).\nSecond: (x − 1)/3 = (y − 1)/(−1) = z/0 ⇒ (3, −1, 0).\ncos θ = |6 − 3 + 0|/(√29 √10) = 3/√290 ⇒ θ = cos⁻¹(3/√290).",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 36."
+        }
+      ]
+    },
+    {
+      "no": 7,
+      "title": "Answer the following (6 marks each).",
+      "marks": "2 × 6 = 12",
+      "questions": [
+        {
+          "id": "7.1",
+          "type": "open",
+          "q": "Using properties of determinants, prove |a−b−c 2a 2a; 2b b−c−a 2b; 2c 2c c−a−b| = (a + b + c)³.",
+          "answer": "R₁ → R₁ + R₂ + R₃: R₁ becomes (a + b + c, a + b + c, a + b + c). Take (a + b + c) out:\nΔ = (a + b + c)|1 1 1; 2b b−c−a 2b; 2c 2c c−a−b|.\nC₂ → C₂ − C₁, C₃ → C₃ − C₁: |1 0 0; 2b −(a+b+c) 0; 2c 0 −(a+b+c)|.\nExpand along R₁: (a + b + c) × (a + b + c)² = (a + b + c)³.",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 21."
+        },
+        {
+          "id": "7.2",
+          "type": "open",
+          "q": "Verify Lagrange's mean value theorem for f(x) = (x − 1)(x − 2)(x − 3) on [0, 4].",
+          "answer": "f is a polynomial, so it is continuous on [0, 4] and differentiable on (0, 4).\nf(0) = −6, f(4) = 6 ⇒ [f(4) − f(0)]/(4 − 0) = 12/4 = 3.\nf(x) = x³ − 6x² + 11x − 6 ⇒ f'(x) = 3x² − 12x + 11.\n3c² − 12c + 11 = 3 ⇒ 3c² − 12c + 8 = 0 ⇒ c = 2 ± 2/√3 ≈ 3.15 or 0.85, both in (0, 4).\nHence the theorem is verified.",
+          "years": [
+            "April 2025"
+          ],
+          "or": {
+            "q": "Verify Rolle's theorem for f(x) = x(x − 1)(x − 2) on [0, 2].",
+            "answer": "Polynomial ⇒ continuous and differentiable. f(0) = f(2) = 0.\nf(x) = x³ − 3x² + 2x ⇒ f'(x) = 3x² − 6x + 2 = 0 ⇒ c = 1 ± 1/√3 ≈ 1.58 or 0.42, both in (0, 2).\nVerified."
+          },
+          "note": "Lesson 29."
+        }
+      ]
+    }
+  ]
+}

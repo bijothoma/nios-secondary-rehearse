@@ -1,0 +1,204 @@
+{
+  "subject": "sr-maths",
+  "lesson": 35,
+  "title": "Plane",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Every answer shows the working. Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "5 × 1 = 5",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "The distance of the plane 3x − 4y + 12z = 3 from the origin is —",
+          "options": [
+            "3/13",
+            "19/13",
+            "3",
+            "1"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2025"
+          ],
+          "work": "|−3|/√(9 + 16 + 144) = 3/13."
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "The x-intercept of the plane 2x − y + 2z + 7 = 0 is —",
+          "options": [
+            "2",
+            "7/2",
+            "−7/2",
+            "−2"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2025"
+          ],
+          "work": "Put y = z = 0: 2x + 7 = 0 ⇒ x = −7/2."
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "The distance of (3, 4, −5) from 2x − 3y + 3z + 27 = 0 is —",
+          "options": [
+            "6",
+            "√22",
+            "6/√22",
+            "√132"
+          ],
+          "answer": "C",
+          "years": [
+            "October 2024"
+          ],
+          "work": "|6 − 12 − 15 + 27|/√(4 + 9 + 9) = 6/√22."
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "The distance of the plane r·(2i/7 − 3j/7 + 6k/7) = 4 from the origin is —",
+          "options": [
+            "4",
+            "28",
+            "1/7",
+            "√7"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2024"
+          ],
+          "work": "The normal (2/7, −3/7, 6/7) is a unit vector (4 + 9 + 36 = 49), so the distance is 4."
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "The angle between x + 2y + z = 9 and 2x − y + z = 15 is —",
+          "options": [
+            "tan⁻¹(1/6)",
+            "sin⁻¹(1/6)",
+            "cos⁻¹(1/6)",
+            "π/6"
+          ],
+          "answer": "C",
+          "years": [
+            "October 2025"
+          ],
+          "work": "cos θ = (2 − 2 + 1)/(√6·√6) = 1/6."
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions of two 1-mark parts.",
+      "marks": "1 × 2 = 2",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "Fill in the blanks: (a) The z-intercept of 2x − 3y + 5z − 30 = 0 is ______. (b) The plane through (2, −3, 4) perpendicular to a line with direction ratios 1, 3, −2 is ______.",
+          "answer": "(a) x = y = 0 ⇒ 5z = 30 ⇒ 6.\n(b) 1(x − 2) + 3(y + 3) − 2(z − 4) = 0 ⇒ x + 3y − 2z + 15 = 0, i.e. r·(i + 3j − 2k) = −15.",
+          "years": [
+            "April 2024"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Objective type questions of four 1-mark parts.",
+      "marks": "1 × 4 = 4",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "Fill in the blanks: (i) The plane through (1, 4, 6) normal to i − 2j + k is ______. (ii) The sum of the intercepts of 2x + 3y + 4z = 24 is ______. (iii) The plane through points with position vectors a, b, c is ______. (iv) The distance of (−1, 2, −3) from 2x − y + 2z = 13 is ______.",
+          "answer": "(i) r·(i − 2j + k) = (i + 4j + 6k)·(i − 2j + k) = 1 − 8 + 6 = −1.\n(ii) Intercepts 12, 8, 6 ⇒ sum 26.\n(iii) (r − a)·[(b − a) × (c − a)] = 0.\n(iv) |−2 − 2 − 6 − 13|/3 = 23/3.",
+          "years": [
+            "October 2025"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Answer the following (2 marks each).",
+      "marks": "3 × 2 = 6",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "Reduce 4x − 5y + 6z − 60 = 0 to intercept form and find its intercepts.",
+          "answer": "4x − 5y + 6z = 60. Divide by 60: x/15 + y/(−12) + z/10 = 1.\nIntercepts: 15, −12, 10.",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "Find the distance between the parallel planes 2x − y + 2z + 3 = 0 and 4x − 2y + 4z + 5 = 0.",
+          "answer": "Write the second as 2x − y + 2z + 5/2 = 0.\nDistance = |3 − 5/2|/√(4 + 1 + 4) = (1/2)/3 = 1/6."
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "Find the plane through (1, 2, 1) perpendicular to the x-axis.",
+          "answer": "The normal is i, so the plane is 1(x − 1) = 0 ⇒ x = 1.",
+          "years": [
+            "October 2025"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Answer the following (4 marks each).",
+      "marks": "2 × 4 = 8",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "Find the Cartesian equation of the plane through (1, 1, 0), (1, 2, 1) and (−2, 2, −1), and its vector equation.",
+          "answer": "AB = (0, 1, 1), AC = (−3, 1, −1).\nn = AB × AC = |i j k; 0 1 1; −3 1 −1| = i(−1 − 1) − j(0 + 3) + k(0 + 3) = (−2, −3, 3).\n−2(x − 1) − 3(y − 1) + 3z = 0 ⇒ 2x + 3y − 3z = 5.\nVector form: r·(2i + 3j − 3k) = 5.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "Reduce 4x − 5y + 6z − 60 = 0 to (a) intercept form and (b) normal form, and find the distance from the origin.",
+          "answer": "(a) x/15 + y/(−12) + z/10 = 1; intercepts 15, −12, 10.\n(b) |n| = √(16 + 25 + 36) = √77. Divide: (4x − 5y + 6z)/√77 = 60/√77.\nDistance from the origin = 60/√77.",
+          "years": [
+            "April 2025"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 6,
+      "title": "Answer the following (6 marks each).",
+      "marks": "1 × 6 = 6",
+      "questions": [
+        {
+          "id": "6.1",
+          "type": "open",
+          "q": "Find the vector and Cartesian equations of the plane through A(−2, 3, −1), B(−3, 7, −4) and C(−1, 0, −1). Also find its intercepts and its distance from the origin.",
+          "answer": "AB = (−1, 4, −3), AC = (1, −3, 0).\nn = AB × AC = i(0 − 9) − j(0 + 3) + k(3 − 4) = (−9, −3, −1), i.e. (9, 3, 1).\n9(x + 2) + 3(y − 3) + (z + 1) = 0 ⇒ 9x + 3y + z + 10 = 0.\nVector form: r·(9i + 3j + k) = −10.\nIntercepts: x = −10/9, y = −10/3, z = −10.\nDistance from origin = 10/√(81 + 9 + 1) = 10/√91.",
+          "years": [
+            "April 2024"
+          ]
+        }
+      ]
+    }
+  ]
+}
