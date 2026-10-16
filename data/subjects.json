@@ -1352,6 +1352,68 @@
           "file": "data/sr-english/paper-3.json"
         }
       ]
+    },
+    {
+      "id": "sr-deo",
+      "name": "Data Entry Operations",
+      "label": "",
+      "level": "senior-secondary",
+      "lessons": [
+        {
+          "no": 1,
+          "title": "Basics of Computer",
+          "file": "data/sr-deo/lesson-1.json",
+          "summary": "data/sr-deo/summary/lesson-1.json"
+        },
+        {
+          "no": 4,
+          "title": "Formatting Documents",
+          "file": "data/sr-deo/lesson-4.json",
+          "summary": "data/sr-deo/summary/lesson-4.json"
+        },
+        {
+          "no": 5,
+          "title": "Mail Merge",
+          "file": "data/sr-deo/lesson-5.json",
+          "summary": "data/sr-deo/summary/lesson-5.json"
+        },
+        {
+          "no": 8,
+          "title": "Formulas, Functions and Charts",
+          "file": "data/sr-deo/lesson-8.json",
+          "summary": "data/sr-deo/summary/lesson-8.json"
+        },
+        {
+          "no": 9,
+          "title": "Creating Presentation",
+          "file": "data/sr-deo/lesson-9.json",
+          "summary": "data/sr-deo/summary/lesson-9.json"
+        },
+        {
+          "no": 10,
+          "title": "Introduction to Internet",
+          "file": "data/sr-deo/lesson-10.json",
+          "summary": "data/sr-deo/summary/lesson-10.json"
+        },
+        {
+          "no": 901,
+          "tag": "Full paper",
+          "title": "Model Question Paper 1",
+          "file": "data/sr-deo/paper-1.json"
+        },
+        {
+          "no": 902,
+          "tag": "Full paper",
+          "title": "Model Question Paper 2",
+          "file": "data/sr-deo/paper-2.json"
+        },
+        {
+          "no": 903,
+          "tag": "Full paper",
+          "title": "Model Question Paper 3",
+          "file": "data/sr-deo/paper-3.json"
+        }
+      ]
     }
   ]
 }

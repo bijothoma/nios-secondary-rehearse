@@ -1,0 +1,168 @@
+{
+  "subject": "sr-deo",
+  "lesson": 5,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 5: Mail Merge — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "What is mail merge?"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Mail merge combines a list of names and addresses (or other information) with a single document, so that one letter can be sent to many people, each copy carrying that person's name and address. Uses: (1) merge an address list into one form letter for many people; (2) create letters with variable fields in the body, or labels; (3) produce directory lists, invoices, address lists, and print addresses on envelopes and mailing labels; the merged result can also be sent by e-mail (needs an internet connection) or fax."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Types of documents in mail merge"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "(a) Main document — the personalised document (letter, envelope or label) with the text and graphics that stay the same in every copy, e.g. the return address and body of a form letter. (b) Data source — a file containing the names, addresses or other information that change in each copy, e.g. a list of clients. (c) Merge document — the third document produced when the main document is merged with the data source; it contains one personalised copy per record. It can be sent to the screen (a new document), directly to the printer, or saved for later. Merge fields such as «City» in the main document are replaced by the data, e.g. 'New Delhi'."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "In Word 2007 the Mailings tab holds the groups Create, Start Mail Merge, Write & Insert Fields, Preview Results and Finish & Merge."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "The Mail Merge Wizard (6 steps)"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Mailings → Start Mail Merge → Step by Step Mail Merge Wizard. (1) Select document type — Letters, E-mail messages, Envelopes, Labels or Directory; Letters is the most common. (2) Select starting document — Use the current document, Start from a template, or Start from existing document. Leave 6–7 blank lines for the address, type and save the letter body. (3) Select recipients — Use an existing list, Select from Outlook contacts, or Type a new list. (4) Write your letter — insert the Address Block, Greeting Line or individual merge fields where needed. (5) Preview your letters — use the << and >> buttons to see each copy. (6) Complete the merge — print or edit individual letters."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Creating a data source"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "(a) With the wizard (Mail Merge Helper): in step 3 choose 'Type a new list' → Create. The New Address List dialog has fields such as Title, First Name, Last Name, Company Name, Address Line 1, City, State, PIN code. Type the records; click Customize Columns to add, delete or rename fields; click OK, choose a folder and file name and Save. The list is saved as a Microsoft Office Address List (.mdb database)."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "(b) Editing existing data records: in step 3 choose 'Use an existing list' → Browse → select the data file (Access, Excel, Word, RTF etc.) → Open. Click Edit Recipient List, move to the record (arrow buttons, record number or Find), change it and save."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "(c) Using a Word table: Insert → Table; type the field names in the top row and the records from the second row; save it as a Word document — the data source is ready."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "(d) Using an Excel worksheet: type the field names in the first row and records below, save; or select and copy the data, paste it into a new Word document as a table and save it."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Merging"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Click in the main document where the address should go and choose Address Block (or Insert Merge Field) to insert merge fields; save the main document. Preview Results shows the letters with real data; Finish & Merge → Edit Individual Documents, Print Documents or Send E-mail Messages completes the merge."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Mailing labels and envelopes"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Labels: Mailings → Start Mail Merge → Labels → Label Options (choose printer type and label product, or New Label for a custom size) → Select Recipients (Type New List / Use Existing List / Outlook Contacts) → Edit Recipient List if needed → Insert Merge Field for each address field → Preview Results → Finish & Merge → Print Documents."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Envelopes: printing addresses directly on envelopes instead of sticking printed labels. Mailings → Start Mail Merge → Envelopes → Envelope Options (choose envelope size or Custom size, address font and position; Printing Options for the feed) → select recipients → insert merge fields → Preview Results → Finish & Merge → Print Documents."
+        ]
+      ]
+    }
+  ]
+}

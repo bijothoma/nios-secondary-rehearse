@@ -1,0 +1,711 @@
+{
+ "lesson": 8,
+ "title": "Formulas, Functions and Charts",
+ "summary": [
+  "## Formulas",
+  "Formulas calculate results from worksheet data and update automatically when the data changes. Elements of a formula: it must begin with the equal to (=) sign; mathematical operators (+ − * /) and logical operators (<, >); cell references (including named ranges); text or values; worksheet functions such as SUM or AVERAGE. The cell shows the result; the formula itself appears in the formula bar when the cell is selected. The Formulas tab holds the function library.",
+  "Example: in F3 type =B3+C3+D3+E3 to add four subjects' marks. If A1=2, B1=3, C1=4, D1=5: =B1*C1 gives 12; =A1*B1−C1+D1 gives 7; =((A1*B1)+C1)/D1 gives 2.",
+  "Copying a formula: drag the fill handle (small square at the bottom-right of the cell) down or across; the formula is copied and its cell references adjust to each row (relative references). Copying formulas saves time and reduces errors. A $ sign (e.g. $A$1) makes a reference absolute so it does not change when copied.",
+  "AutoSum: click the cell, Formulas (or Home) tab → AutoSum → Sum → Enter; or type =SUM(B3:E3).",
+  "## Functions",
+  "Functions are built-in formulas; you give the cell references (arguments) inside parentheses. SUM(number1, number2, …) adds numbers (up to 255 arguments); a range is written with a colon, e.g. =SUM(A10:A20). SUMIF(range, criteria, sum_range) adds only the cells that meet a condition, such as \">99\"; blank and text values are ignored. AVERAGE() returns the arithmetic mean; MIN() returns the smallest value; MAX() returns the largest value. COUNT() counts cells containing numbers; COUNTA() counts non-empty cells; COUNTBLANK() counts empty cells; COUNTIF() counts cells meeting a condition. More functions: AutoSum → More Functions (Insert Function dialog).",
+  "## Charts",
+  "Charts present worksheet data visually; a chart is a visual representation of data. Types: Column — compares values across categories; Line — shows trends over time at equal intervals; Pie — shows the proportion of each part to the whole; only one data series and preferably 5–6 slices, all positive; Bar — compares individual items (horizontal bars); Area — highlights the degree of change over time and the total value; XY (Scatter) — both axes show values; shows the relationship between two variables; Stock — shows fluctuations in stock prices (High-Low-Close) or temperatures; Surface — finds optimum combinations between two sets of numeric data, coloured like a topographic map; Doughnut — like a pie (parts of a whole) but can have more than one series; Bubble — x values, y values and bubble sizes; Radar — compares aggregate values of several data series.",
+  "Components of a chart: chart title; X-axis and Y-axis titles; X-axis categories (from the first column/row of the data); Y-axis values; data labels (the values plotted); legend (colour, symbol or pattern for each data series); tick marks (show the scaling of the axes); gridlines (lines at major intervals).",
+  "Drawing a chart in Excel 2007: (1) enter the data; (2) select the data range; (3) Insert tab → Charts group → choose the chart type; (4) choose the sub-type; (5) Chart Tools → Layout → Chart Title, then type the title; (6) Layout → Axis Titles → Primary Horizontal/Vertical Axis Title. Editing: Layout → Legend (position), Data Labels, Data Table, Gridlines. Resize by dragging the handles (corner handles keep proportion); move by dragging the border. Copy the chart and paste it into Word or PowerPoint. Chart Tools add three tabs: Design, Layout and Format.",
+  "## Graphics",
+  "AutoShapes (Insert → Illustrations → Shapes): lines, connectors (to join flow-chart elements), basic shapes, block arrows, flowchart shapes, stars and banners, callouts. SmartArt (Insert → SmartArt) is a visual representation of information and ideas; choose a type (List, Process, Cycle, Hierarchy, Relationship…) and a layout, then type the text; the Design tab applies effects. Clip Art (Insert → Clip Art) inserts a media file — picture, sound, animation or movie. Picture from file: Insert → Picture → choose the file → Insert; the Format tab (Adjust, Picture Styles, Arrange, Size) edits it."
+ ],
+ "mcq": [
+  [
+   "Which chart is used to show comparisons between individual items?",
+   [
+    "Bar chart",
+    "Pie chart",
+    "Radar chart",
+    "Doughnut chart"
+   ],
+   "A",
+   [
+    "April 2024"
+   ]
+  ],
+  [
+   "What is the value of =AVERAGE(2, 3, 4, 5, 6)?",
+   [
+    "4",
+    "5",
+    "3",
+    "4.5"
+   ],
+   "A",
+   [
+    "April 2024"
+   ],
+   {
+    "work": "(2 + 3 + 4 + 5 + 6)/5 = 20/5 = 4."
+   }
+  ],
+  [
+   "What is the value of =MAX(15, 16, 2, 5, 18, 17)?",
+   [
+    "18",
+    "15",
+    "17",
+    "16"
+   ],
+   "A",
+   [
+    "April 2024"
+   ]
+  ],
+  [
+   "Each Excel file is a workbook which can hold many —",
+   [
+    "worksheets",
+    "cell sheets",
+    "row sheets",
+    "column sheets"
+   ],
+   "A",
+   [
+    "April 2024"
+   ]
+  ],
+  [
+   "Process, cycle and hierarchy are examples of —",
+   [
+    "AutoShapes",
+    "SmartArt graphics",
+    "flowcharts",
+    "column charts"
+   ],
+   "B",
+   [
+    "April 2024"
+   ]
+  ],
+  [
+   "Which function syntax is written correctly?",
+   [
+    "SUM(B3:F3)",
+    "SUM(F5/A5)",
+    "SUM(=*P5)",
+    "SUM(=*P3:A3)"
+   ],
+   "A",
+   [
+    "October 2024"
+   ]
+  ],
+  [
+   "Which of the following is a valid cell reference?",
+   [
+    "25A",
+    "X59Y",
+    "A4",
+    "2001"
+   ],
+   "C",
+   [
+    "October 2024"
+   ]
+  ],
+  [
+   "Which of the following is a logical (comparison) operator?",
+   [
+    "+",
+    "/",
+    ">",
+    "*"
+   ],
+   "C",
+   [
+    "October 2024"
+   ]
+  ],
+  [
+   "If B3 = 50, C3 = 93, D3 = 89 and E3 = 30, the value of F3 = B3+C3+D3+E3 is —",
+   [
+    "259",
+    "260",
+    "261",
+    "262"
+   ],
+   "D",
+   [
+    "October 2024"
+   ],
+   {
+    "work": "50 + 93 + 89 + 30 = 262."
+   }
+  ],
+  [
+   "What is the value of =(A1/B1)+(C1/D1) if A1 = 15, B1 = 5, C1 = 10 and D1 = 2?",
+   [
+    "7",
+    "8",
+    "9",
+    "6"
+   ],
+   "B",
+   [
+    "April 2025"
+   ],
+   {
+    "work": "15/5 + 10/2 = 3 + 5 = 8."
+   }
+  ],
+  [
+   "Which of the following is a valid mathematical (arithmetic) operator in Excel?",
+   [
+    "@",
+    "#",
+    "/",
+    "&&"
+   ],
+   "C",
+   [
+    "April 2025",
+    "October 2024"
+   ]
+  ],
+  [
+   "Which type of chart is used to compare values across categories?",
+   [
+    "Pie chart",
+    "Line chart",
+    "Bar chart",
+    "Scatter chart"
+   ],
+   "C",
+   [
+    "October 2025"
+   ]
+  ],
+  [
+   "Which formula finds the highest value in the range A1:A10?",
+   [
+    "=LARGEST(A1:A10)",
+    "=MAX(A1:A10)",
+    "=HIGHEST(A1:A10)",
+    "=BIGGEST(A1:A10)"
+   ],
+   "B",
+   [
+    "October 2025"
+   ]
+  ],
+  [
+   "Which function is used to add a range of numbers in Excel?",
+   [
+    "ADD()",
+    "TOTAL()",
+    "SUM()",
+    "PLUS()"
+   ],
+   "C",
+   [
+    "October 2025"
+   ]
+  ],
+  [
+   "Block arrows, stars and banners, connectors, and two- and three-dimensional shapes are categories of ________, found under the Insert tab.",
+   [
+    "AutoShapes",
+    "All shapes",
+    "Shapes (SmartArt)",
+    "Designs"
+   ],
+   "A",
+   [
+    "April 2026"
+   ]
+  ],
+  [
+   "Which of these is a single media file including sound, animation, art or movie?",
+   [
+    "Smart art",
+    "Graphic art",
+    "Clip art",
+    "Word art"
+   ],
+   "C",
+   [
+    "April 2026"
+   ]
+  ],
+  [
+   "Which function returns the arithmetic mean of a given set of values?",
+   [
+    "MAX()",
+    "MEAN()",
+    "AVERAGE()",
+    "MIN()"
+   ],
+   "C",
+   [
+    "April 2026"
+   ]
+  ],
+  [
+   "Copying formulas in Excel helps to —",
+   [
+    "increase file size",
+    "save time and reduce errors",
+    "delete data",
+    "change formatting"
+   ],
+   "B"
+  ],
+  [
+   "Which symbol makes a cell reference absolute in Excel?",
+   [
+    "@",
+    "#",
+    "$",
+    "&"
+   ],
+   "C"
+  ],
+  [
+   "A formula in MS Excel starts with the ________ sign.",
+   [
+    "@",
+    "#",
+    "*",
+    "="
+   ],
+   "D"
+  ],
+  [
+   "Which tab lets you create charts and graphs in MS Excel?",
+   [
+    "Insert",
+    "Formulas",
+    "Data",
+    "View"
+   ],
+   "A",
+   [
+    "April 2026"
+   ]
+  ],
+  [
+   "________ help us to see the fluctuations of stock market prices.",
+   [
+    "Stock charts",
+    "Radar charts",
+    "Area charts",
+    "Line charts"
+   ],
+   "A",
+   [
+    "April 2024"
+   ]
+  ],
+  [
+   "Which function adds the cells that meet a given criterion?",
+   [
+    "SUM()",
+    "AUTOSUM()",
+    "SUMIF()",
+    "Criteria function"
+   ],
+   "C",
+   [
+    "April 2025",
+    "October 2024"
+   ]
+  ],
+  [
+   "Which function counts the number of cells containing numerical values in a range?",
+   [
+    "COUNT()",
+    "COUNTBLANK()",
+    "COUNTIF()",
+    "COUNTA()"
+   ],
+   "A"
+  ],
+  [
+   "The SUMIF function ignores blank and ________ values.",
+   [
+    "text",
+    "number",
+    "zero",
+    "negative"
+   ],
+   "A"
+  ],
+  [
+   "Which chart type would you use to show trends over time?",
+   [
+    "Pie chart",
+    "Bar chart",
+    "Line chart",
+    "Scatter chart"
+   ],
+   "C"
+  ],
+  [
+   "________ indicate the scaling of the X-axis and Y-axis in a chart.",
+   [
+    "Data labels",
+    "Tick marks",
+    "Legends",
+    "Chart title"
+   ],
+   "B"
+  ],
+  [
+   "When would you use a surface chart?",
+   [
+    "To compare individual categories",
+    "To show changes over time",
+    "To show relationships between two variables",
+    "To analyse two sets of numeric data for optimum combinations"
+   ],
+   "D"
+  ],
+  [
+   "________ allow you to present data entered in the worksheet in a visual format.",
+   [
+    "Tables",
+    "Charts",
+    "Formulas",
+    "Filters"
+   ],
+   "B"
+  ],
+  [
+   "What is the result of =SUM(A1:A5) if A1 to A5 contain 5, 10, 15, 20 and 25?",
+   [
+    "25",
+    "50",
+    "75",
+    "100"
+   ],
+   "C"
+  ],
+  [
+   "What is the result of =MAX(A1:A5) if A1 to A5 contain 5, 10, 15, 20 and 25?",
+   [
+    "5",
+    "15",
+    "25",
+    "75"
+   ],
+   "C"
+  ],
+  [
+   "If A1 = 3, B1 = 5 and C1 = 7, what is the result of =(A1*B1)+C1?",
+   [
+    "15",
+    "22",
+    "35",
+    "105"
+   ],
+   "B"
+  ],
+  [
+   "Which chart shows the proportion of each part to the whole?",
+   [
+    "Line",
+    "Pie",
+    "Scatter",
+    "Stock"
+   ],
+   "B"
+  ],
+  [
+   "In Excel, the intersection of a row and a column is called a —",
+   [
+    "cell",
+    "range",
+    "sheet",
+    "workbook"
+   ],
+   "A"
+  ]
+ ],
+ "ar": [
+  [
+   "A formula in Excel updates its result automatically when the data changes.",
+   "A formula uses cell references instead of fixed values.",
+   "A"
+  ],
+  [
+   "A pie chart can show more than one data series.",
+   "A doughnut chart, like a pie chart, shows parts of a whole and can have more than one data series.",
+   "D"
+  ],
+  [
+   "=SUM(A10, A20) adds all the cells from A10 to A20.",
+   "A range of cells is written with a colon, as in A10:A20.",
+   "D",
+   null,
+   {
+    "note": "=SUM(A10, A20) adds only the two cells A10 and A20."
+   }
+  ],
+  [
+   "Line charts are best for showing trends over equal intervals of time.",
+   "In a line chart the categories are on the horizontal axis and values are spread evenly on the vertical axis.",
+   "A"
+  ]
+ ],
+ "tf": [
+  [
+   "Pie charts are useful for comparing trends over time.",
+   false,
+   null,
+   {
+    "note": "Line charts show trends; pie charts show parts of a whole."
+   }
+  ],
+  [
+   "Line charts show the proportion of each component to the total value.",
+   false
+  ],
+  [
+   "Pie charts are used to compare values across categories.",
+   false,
+   null,
+   {
+    "note": "Column charts compare values across categories."
+   }
+  ],
+  [
+   "The SUM function can take up to 255 arguments.",
+   true
+  ],
+  [
+   "In XY (scatter) charts both axes display values.",
+   true
+  ],
+  [
+   "Arrows, flowchart elements, stars and geometrical shapes are called AutoShapes.",
+   true
+  ]
+ ],
+ "fill2": [
+  [
+   "(a) The function used to add values in a range of cells is ________. (b) A function in Excel always begins with the ________ sign.",
+   "(a) SUM (b) = (equal to)"
+  ],
+  [
+   "(a) ________ shows the colour or pattern used for each data series in a chart. (b) A ________ chart plots values as horizontal bars.",
+   "(a) Legend (b) bar"
+  ],
+  [
+   "(a) To copy a formula, drag the ________ down to the required cells. (b) The AVERAGE function returns the ________ value of its arguments.",
+   "(a) fill handle (b) average (arithmetic mean)"
+  ]
+ ],
+ "oneword": [
+  [
+   "Visual representation of information and ideas is called ________ art graphics.",
+   "Smart",
+   [
+    "April 2024"
+   ]
+  ],
+  [
+   "Which feature fills cells with the months January to December in sequence?",
+   "AutoFill (fill handle)",
+   [
+    "April 2024"
+   ]
+  ],
+  [
+   "The style of writing a function is called its ________.",
+   "syntax",
+   [
+    "April 2024"
+   ]
+  ],
+  [
+   "Which function calculates the sum of a range of cells that meet a given criterion?",
+   "SUMIF()",
+   [
+    "October 2024"
+   ]
+  ],
+  [
+   "The Basic Shapes button is found on the ________ toolbar.",
+   "Drawing (Insert → Shapes)",
+   [
+    "April 2025"
+   ]
+  ],
+  [
+   "The ________ tab helps to insert a picture in an Excel worksheet.",
+   "Insert",
+   [
+    "April 2025"
+   ]
+  ],
+  [
+   "Instead of writing a formula, which feature automatically adds numbers in spreadsheet cells?",
+   "AutoSum",
+   [
+    "October 2025"
+   ]
+  ],
+  [
+   "________ represent the values of the data series plotted in a chart.",
+   "Data labels",
+   [
+    "October 2025",
+    "April 2025"
+   ]
+  ],
+  [
+   "When data is entered in the cell in column P and row 15, the cell address is ________.",
+   "P15",
+   [
+    "April 2026"
+   ]
+  ],
+  [
+   "Name any two types of charts.",
+   "Any two: column, bar, line, pie, area, XY (scatter), stock, doughnut, radar, surface",
+   [
+    "April 2026"
+   ]
+  ],
+  [
+   "________ allow you to present data entered into the worksheet in a visual format using a variety of graph types.",
+   "Charts",
+   [
+    "April 2026"
+   ]
+  ],
+  [
+   "A reference such as $A$1, which does not change when the formula is copied, is called an ________ reference.",
+   "absolute"
+  ],
+  [
+   "In =SUM(B2:B6), B2:B6 is called a ________ of cells.",
+   "range"
+  ],
+  [
+   "Formulas are used to perform ________ on data.",
+   "calculations"
+  ],
+  [
+   "A ________ is used to perform calculations in a spreadsheet.",
+   "formula"
+  ],
+  [
+   "To find the highest value in a range, use the ________ function.",
+   "MAX"
+  ],
+  [
+   "A ________ chart is useful for comparing data across categories.",
+   "column (or bar)"
+  ],
+  [
+   "A ________ is a visual representation of data.",
+   "chart"
+  ],
+  [
+   "The AutoSum button is found on the ________ tab in Excel.",
+   "Formulas (also Home)"
+  ],
+  [
+   "Which function would you use to calculate the minimum of a range of numbers?",
+   "MIN()"
+  ],
+  [
+   "Which function calculates the average of a range of numbers?",
+   "AVERAGE()"
+  ],
+  [
+   "Rajat used =SUM(A10, A20) to add cells A10 to A20. Write the correct formula.",
+   "=SUM(A10:A20)"
+  ]
+ ],
+ "vsa": [
+  [
+   "Differentiate between the MIN() and MAX() functions.",
+   "MIN() returns the smallest number in a set of values, e.g. =MIN(B2:B6) gives the lowest mark. MAX() returns the largest number, e.g. =MAX(B2:B6) gives the highest mark. Both accept up to 255 arguments."
+  ],
+  [
+   "What is the SUMIF() function? Give its syntax.",
+   "SUMIF adds only those cells that meet a given condition. Syntax: SUMIF(range, criteria, sum_range). Example: =SUMIF(B3:E3, \">99\") adds only the values greater than 99; blank and text cells are ignored."
+  ],
+  [
+   "Differentiate between formulas and functions.",
+   "A formula is an expression written by the user, starting with =, using operators and cell references, e.g. =B3+C3+D3. A function is a built-in formula with a name, to which you give arguments in parentheses, e.g. =SUM(B3:D3) or =AVERAGE(B3:D3)."
+  ],
+  [
+   "What are the elements of a formula in an Excel spreadsheet?",
+   "A formula must begin with the = sign and can contain mathematical operators (+, −, *, /) and logical operators (<, >), cell references (including named ranges), text or values, and worksheet functions such as SUM and AVERAGE."
+  ],
+  [
+   "What is a legend in a chart?",
+   "A legend is the chart component that shows the colour, symbol or pattern used to mark each data series, so the reader knows which bar, line or slice stands for which data."
+  ],
+  [
+   "What is SmartArt? Write the steps to create a SmartArt graphic.",
+   "SmartArt is a visual representation of information and ideas (list, process, cycle, hierarchy, relationship). Steps: Insert tab → Illustrations → SmartArt → choose a category and layout → OK → click each shape and type the text."
+  ],
+  [
+   "Differentiate between AutoShapes and SmartArt graphics.",
+   "AutoShapes are ready-made shapes — lines, arrows, basic shapes, flowchart symbols, stars and callouts — drawn one by one. SmartArt creates a complete diagram of ideas, such as a process or hierarchy, from a chosen layout into which text is typed."
+  ],
+  [
+   "Differentiate between a bar chart and an area chart.",
+   "A bar chart uses horizontal bars to compare individual items. An area chart plots data as a filled area to highlight the degree of change over time and draw attention to the total value across a trend."
+  ]
+ ],
+ "sa": [
+  [
+   "Explain any five components of a chart.",
+   "(1) Chart title — the title of the whole chart. (2) Axis titles — names of the X-axis and Y-axis data. (3) X-axis categories and Y-axis values — the categories plotted and the value scale. (4) Legend — colour or pattern used for each data series. (5) Data labels — the values of the data plotted. Also tick marks (scale of axes) and gridlines (lines at major intervals)."
+  ],
+  [
+   "Write the steps to plot a pie chart with the title 'First Quarter Sales' for given sales data.",
+   "(1) Enter the item names in column A and sales percentages in column B. (2) Select the data range A1:B6. (3) Insert tab → Charts group → Pie → choose a sub-type (2-D Pie). (4) Click the chart → Chart Tools Layout → Chart Title → Above Chart. (5) Type 'First Quarter Sales'. (6) Add data labels from Layout → Data Labels if needed."
+  ],
+  [
+   "A table shows marks in 5 subjects. Write the steps to create a line chart titled 'Performance Analysis' with X-axis 'Subject' and Y-axis 'Score'.",
+   "(1) Enter subjects in column A and marks in column B; select the range. (2) Insert → Charts → Line → choose a sub-type. (3) Layout → Chart Title → type 'Performance Analysis'. (4) Layout → Axis Titles → Primary Horizontal Axis Title → type 'Subject'. (5) Layout → Axis Titles → Primary Vertical Axis Title → type 'Score'."
+  ],
+  [
+   "Rainfall of five states is in B2:B6. Write formulas for the total in B7, the maximum in B8, the average in B9 and the minimum in B10.",
+   "B7: =SUM(B2:B6). B8: =MAX(B2:B6). B9: =AVERAGE(B2:B6). B10: =MIN(B2:B6)."
+  ],
+  [
+   "Marks of four schools' toppers in Maths, Physics, Chemistry and English are in B2:E5. Write formulas for: total of row 4 in F4; maximum of all totals in F6; minimum Maths marks in B6; total of row 2 in F2.",
+   "F4: =SUM(B4:E4). F6: =MAX(F2:F5). B6: =MIN(B2:B5). F2: =SUM(B2:E2)."
+  ],
+  [
+   "Pay is in B2:B6, allowance in C2:C6 and tax in D2:D6. Write formulas for: net pay of row 3 in E3, net pay of row 4 in E4, total tax in D7 and average pay in B7.",
+   "E3: =B3+C3-D3. E4: =B4+C4-D4. D7: =SUM(D2:D6). B7: =AVERAGE(B2:B6)."
+  ],
+  [
+   "Showroom prices are in C2:C5. Write formulas for: road tax at 7% of the price in D2; net price (price + road tax) in E2; total road tax in D6; maximum showroom price in C6.",
+   "D2: =C2*7/100 (or =C2*7%). E2: =C2+D2. D6: =SUM(D2:D5). C6: =MAX(C2:C5)."
+  ]
+ ],
+ "la": [
+  [
+   "What is a chart? Explain any four types of charts available in Excel.",
+   "A chart is a visual representation of worksheet data that makes comparisons and trends easy to see. (1) Column chart — vertical bars compare values across categories. (2) Line chart — shows trends over equal intervals of time. (3) Pie chart — shows the proportion of each part to the whole; one data series, best with 5–6 slices. (4) Bar chart — horizontal bars compare individual items. Others: Area (change over time and total), XY Scatter (relationship between two variables), Stock (price fluctuations), Surface, Doughnut, Bubble and Radar.",
+   null,
+   {
+    "or": [
+     "Write the steps to draw a chart in Excel 2007 and give it titles.",
+     "(1) Enter the data in the worksheet. (2) Select the data range with the mouse. (3) Insert tab → Charts group → choose a chart type. (4) Choose the sub-type; the chart appears. (5) Click the chart → Chart Tools Layout → Chart Title → type a title. (6) Layout → Axis Titles → Primary Horizontal Axis Title and Primary Vertical Axis Title → type them. (7) Use Legend, Data Labels and Gridlines in the Layout tab to edit; drag handles to resize and the border to move."
+    ]
+   }
+  ],
+  [
+   "Explain the SUM, SUMIF, AVERAGE, MAX, MIN and COUNT functions with examples.",
+   "SUM adds numbers: =SUM(B2:B6). SUMIF adds cells meeting a condition: =SUMIF(B2:B6, \">50\"). AVERAGE gives the arithmetic mean: =AVERAGE(B2:B6). MAX gives the largest value: =MAX(B2:B6). MIN gives the smallest value: =MIN(B2:B6). COUNT counts cells with numbers: =COUNT(B2:B6) (COUNTA counts non-empty cells, COUNTBLANK empty ones, COUNTIF cells meeting a condition). Each function takes up to 255 arguments, written in parentheses after the name, starting with =."
+  ]
+ ]
+}

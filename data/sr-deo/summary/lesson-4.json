@@ -1,0 +1,222 @@
+{
+  "subject": "sr-deo",
+  "lesson": 4,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 4: Formatting Documents — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Working with text (Word 2007)"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Typing: text appears at the blinking cursor (insertion point). You need not press Enter at the end of each line — Word wraps text to the next line automatically; press Enter only to start a new paragraph. Inserting text: move the cursor with the arrow keys or mouse and type. Useful keys: Home — beginning of the line; End — end of the line; Ctrl+Home — top of the document; Ctrl+End — end of the document."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Spacebar and Tab: use the spacebar only to separate words; do not use it to move text across a line or make columns — use the Tab key instead. Show/Hide (¶) displays paragraph marks, spaces and tabs."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Selecting (highlighting) text: drag the mouse, or hold Shift and use the arrow keys. Double-click selects a word; triple-click selects a paragraph; Ctrl+A (Select All) selects the whole document. Click outside or press an arrow key to deselect."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Deleting text: Backspace deletes text to the left of the cursor; Delete erases text to the right. To delete a large block, select it and press Delete. Replacing text: select the text and start typing — the new text replaces it. Click and Type: double-click anywhere on a page and start typing there."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Formatting text"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "The Home tab's Font and Paragraph groups hold the formatting commands. Font face — the typeface, in families such as Times New Roman and Arial. Font size — measured in points (1 point = 1/72 inch); 10 or 12 points suits paragraphs. Font style — bold, italic and underline. Alignment — left, centre, right or justified. Increase/Decrease Indent, Outside Border, Highlight Color (changes the colour behind the text) and Text (font) Color. The Font dialog box (dialog launcher at the corner of the Font group) gives more options."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Format Painter (Home → Clipboard): copies formatting from one place to another. Put the cursor in the formatted text, click Format Painter (the pointer gets a paintbrush) and drag over the text to format. Double-click Format Painter to apply the format to many selections; it stays on until you press Esc."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Useful shortcuts: Ctrl+B bold, Ctrl+I italic, Ctrl+U underline, Ctrl+L left align, Ctrl+E centre, Ctrl+R right align, Ctrl+J justify, Ctrl+C copy, Ctrl+X cut, Ctrl+V paste, Ctrl+Z undo, Ctrl+A select all, Ctrl+F find, Ctrl+H replace, Ctrl+P print, Ctrl+S save, Ctrl+O open, Ctrl+Enter page break, Shift+Enter new line in the same paragraph, F7 spelling and grammar, Ctrl+Shift+A all caps."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Formatting paragraphs"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "A paragraph is any text or item followed by a paragraph mark (inserted when you press Enter). Paragraph formats apply to the whole paragraph and are stored in the paragraph mark; a new paragraph keeps the formatting of the one before. Shift+Enter inserts a line break without starting a new paragraph. By default text in Word is left aligned."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Indenting: drag the indent markers on the ruler, or use Increase/Decrease Indent. A first-line indent moves only the first line inward; a hanging indent indents all lines except the first. Tab stops: by default every 0.5 inch; set them from Home → Paragraph → Tabs or by clicking on the ruler. Tab types: left, centre, right and decimal. Drag a tab marker to move it; drag it off the ruler to clear it."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Line spacing: the height of each line; single spacing = 12 points, 1½ = 18 points, double = 24 points; set in the Paragraph dialog box (Indents and Spacing → Line spacing). Paragraph spacing: Before and After spacing in points; advantages — it does not change the text size, different combinations can be used, precise adjustment is possible, spacing moves with the paragraph without leaving blank lines, and it can be part of a style."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Borders and shading: Home → Paragraph → Borders and Shading. Choose a border on the Borders tab and a fill on the Shading tab, select 'Paragraph' under Apply to, and click OK."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Bulleted and numbered lists"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Lists bring main points to the reader's attention. Click the Bullets or Numbering button, type an entry and press Enter for the next item; press Enter twice to end the list; Shift+Enter starts a new line without a bullet. Increase Indent creates a nested (multi-level) list. Change the bullet symbol, picture or number style in the Bullets and Numbering dialog (Home → Paragraph or right-click). A numbered list suits steps in order, such as a recipe."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Copying and moving text"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Cut or copied text goes to the Clipboard, an area of memory; Word's clipboard holds the last 12 (24 in later versions) items, viewed from Home → Clipboard. Moving (cutting) removes the text from one place and puts it in another: select, Cut (Ctrl+X), place the cursor, Paste (Ctrl+V); or drag and drop. Copying leaves the original unchanged: select, Copy (Ctrl+C), place the cursor, Paste (Ctrl+V). The Cut, Copy and Paste buttons are in the Clipboard group of the Home tab."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Spelling and grammar"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Word checks as you type: red wavy lines mark spelling errors and green wavy lines mark grammar errors. Press F7 (Review → Spelling & Grammar) to open the dialog box: Ignore / Ignore All for correct words, Change / Change All to accept a suggestion, Add to put a word (such as your name) in the dictionary. Untick Check Grammar to skip grammar."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Page formatting (Page Layout tab)"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Margins — the space between the edge of the page and the text; change them by dragging on the ruler or with Page Layout → Margins (Normal, Narrow, Moderate, Wide, Mirrored, Office 2003 Default, or Custom Margins). Size — Letter, Legal, A4 or More Paper Sizes. Orientation — Portrait or Landscape; it can be changed at any time, even for selected pages only."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Headers and footers: a header is text in the top margin of every page (title, page number) and a footer is text in the bottom margin; Insert → Header or Footer. Page numbers: Insert → Page Number; choose Top or Bottom of page; Format Page Numbers → Start at changes the first number. Page break: Word inserts one automatically at the end of a page; insert a manual break with Insert → Page Break or Ctrl+Enter rather than pressing Enter many times; delete a page break by selecting the break line (in Normal/Draft view) and pressing Delete. View → Zoom shows many pages at once."
+        ]
+      ]
+    }
+  ]
+}

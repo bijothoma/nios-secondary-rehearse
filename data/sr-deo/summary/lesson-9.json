@@ -1,0 +1,195 @@
+{
+  "subject": "sr-deo",
+  "lesson": 9,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 9: Creating Presentation — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Presentations and PowerPoint"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "A presentation is any occasion when you put your ideas before an audience — a speech, lecture or conference. Its basic purpose is communication. It has four elements: you, your audience, your message and your tools. MS PowerPoint 2007 is presentation software that helps create slides and slide shows with text, pictures, sound, tables and charts."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Features of PowerPoint: several ways to create a presentation; slides are the building blocks; text puts ideas into words; multimedia (clip art, sound, music, video) makes slides attractive; slides can be ordered, timed and presented to an audience."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Starting PowerPoint: Start → All Programs → Microsoft Office → Microsoft Office PowerPoint 2007. In PowerPoint 2007 the Office Button replaces the File menu, and the Ribbon (below the title bar) has task-oriented Tabs (Home, Insert, Design…), each with Groups of command buttons."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Creating a presentation"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Office Button → New offers: (1) Installed Templates — ready-made presentations for different purposes; choose one and click Create. (2) Installed Themes (design templates) — backgrounds and text formatting to begin with; preview and click Create. (3) Blank Presentation — start from scratch with your own design when no template suits. Open an existing presentation with Office Button → Open."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Slide layouts (nine): Title Slide (title with subtitle — for the beginning), Title and Content (a list under a subject), Section Header (a major section), Two Content, Comparison (pro/con lists), Title Only (title without subtitle), Blank, Content with Caption, Picture with Caption. Change the layout with Home → Layout (or right-click the slide). A content placeholder can insert a table, chart, SmartArt graphic, picture from file, clip art or media clip."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Views"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Normal view — the main working view, with the slide pane, the outline/slides pane on the left and the notes pane at the bottom; notes are added here. Slide Sorter view — small images (thumbnails) of all slides, used to order and sort slides and add transitions. Slide Show view — full-screen show with all sounds, animations and transitions working; used to preview and to deliver the presentation (F5 starts the show). Change views with the buttons at the bottom of the window or the View tab."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Design tips"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Use contrasting colours for text and background; use a font size of 24 points or more; use short phrases; use simple transitions (too many distract); avoid cluttering slides with too much text or graphics; keep text simple without many effects on one slide."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Working with slides"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Apply a design template from the Design tab. Change a layout with Home → Layout. Home → New Slide → Duplicate Selected Slides (or right-click → Duplicate Slide, Ctrl+Shift+D), Slides from Outline, or Reuse Slides. Reorder slides by dragging them in Slide Sorter view or in the slides pane. Hide a slide that should not appear in the show but should not be deleted: right-click it in the slide pane → Hide Slide (do the same to unhide). Move between slides with the scroll bars, the Next/Previous Slide buttons (double arrows) or the outline pane."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Transitions are the effects seen when one slide changes to the next; animations are effects applied to text or objects on a slide, making them appear, move or disappear to draw attention."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Working with text"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Insert text with outline text (Heading 1 becomes the slide title) or text boxes (Insert → Text Box, then draw it). Resize a text box by dragging its eight handles; delete it by clicking its border and pressing Delete. Format fonts from Home → Font; Replace Fonts (Home → Replace → Replace Fonts) changes a font throughout the presentation. Line spacing: Home → Paragraph → Line Spacing (1 = single, 2 = double)."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Change Case (Home → Font): Sentence case — capital first letter of each sentence; lowercase; UPPERCASE; Capitalize Each Word (Title case) — first letter of every word capital; tOGGLE cASE — first letter small and the rest capital. Bullets: press Enter for a new bullet, Shift+Enter for a new line without one; Home → Paragraph → Bullets or Numbering lets you change size, colour, picture or character bullets; numbered lists can Start at any number. In the outline, Tab (or Alt+Shift+Right) demotes a line to a bullet and Alt+Shift+Left promotes it."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Text box properties: right-click → Format Shape — Fill colour, Line colour and style, Shadow, 3-D Format/Rotation and Text Box layout. Notes are added in Normal view and printed with Notes Pages. Spell check: Review → Spelling or F7."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Saving and printing"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Save with Office Button → Save As (or the Save button). Save as Web Page lets visitors view the presentation in a web browser even without PowerPoint. Print with Office Button → Print: Print range (All, Current slide, or slide numbers), Copies (with Collate), and Print What: Slides (one full-page slide per page), Handouts (several slides per page), Notes Pages (one slide with its notes per page) and Outline View (the text outline). Close with Office Button → Close; quit with Exit PowerPoint."
+        ]
+      ]
+    }
+  ]
+}

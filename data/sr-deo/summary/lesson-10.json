@@ -1,0 +1,213 @@
+{
+  "subject": "sr-deo",
+  "lesson": 10,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 10: Introduction to Internet — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "What is the Internet?"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "The Internet (the Net) is a worldwide network of computer networks — an interconnection of large and small networks around the globe. With it you can exchange e-mail, transfer files and software, browse information on any topic, chat in real time, search databases, read news, send pictures and animation, and set up your own website."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Getting connected"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "You need a PC with a browser, a telephone line or leased line, a modem and an account with an Internet Service Provider (ISP), who charges for installation and rent."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Dial-up — the most common basic connection: the computer dials a number given by the ISP and connects through the ISP's server; suited to a single PC or a small group."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "ISDN (Integrated Services Digital Network) — like dial-up but over digital phone lines; two 64 Kbps channels give up to 128 Kbps, and you can make or receive calls on the same line while connected."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Leased line (direct Internet access) — a permanent, dedicated connection used by large institutions, companies and government agencies; the ISP places a router at your site to connect your local network to the Internet."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "DSL (Digital Subscriber Line) broadband — an 'always-on' high-speed connection over the ordinary telephone wire; like ISDN you can use the phone while online. Wireless (Wi-Fi) connections need a Wi-Fi card."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "How does the Internet work?"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Data (e.g. a web page) is broken into equal-sized packets. A header added to each packet says where it came from, where it is going and how it fits with the others. Packets travel from computer to computer; each decides the next hop, so packets may take different routes. At the destination they are checked and put back together in order. TCP/IP, the set of rules for this, is called the 'glue' of the Internet."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Common terms"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "WWW (World Wide Web) — a collection of linked electronic documents (web pages) stored on servers around the world. Web server — a computer that stores web pages and serves them on request, connected 24×7; programs: IIS and Apache. Hyperlink — an element (usually underlined, coloured text or a button) that links to another place or document. HTML (Hypertext Markup Language) — the language of key words called tags used to write web pages. Web page — an electronic document written in HTML that can contain text, graphics, video, animation, sound and forms, with a unique URL. Website — one or more web pages of a company, institute or person; its first page is the home page (index.htm)."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "URL (Uniform Resource Locator) — the unique address of a page, e.g. http://www.learnthenet.com/english/glossary/url.htm: protocol (http), domain name (server), directory and file name. IP address — the unique number of each host, written xxx.xxx.xxx.xxx with each part from 0 to 255, e.g. 192.100.8.56. DNS (Domain Name System) — translates easy-to-remember domain names into IP addresses."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Internet addresses"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Read a domain name from the right: in www.nios.ac.in — www (World Wide Web), nios (host computer), ac (academic organisation), in (India). Organisational domains: ac (academic), com (commercial), edu (educational), gov (government), net (network resources), org (non-profit). Geographic domains: au (Australia), in (India), jp (Japan), uk (United Kingdom), us (United States)."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Browsers and downloading"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "A web browser (client software) requests pages from web servers and displays them, e.g. Internet Explorer, Netscape Navigator (today Chrome, Firefox, Edge). Steps: type the URL → the browser sends a request → the server processes it → the server responds with the page → the browser displays it."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Saving a web page: Text File (text only), Web Page HTML only (no images), Web Page Complete (HTML plus a folder of images), Web Archive single file (.mht). Downloading: click the download link → Save → choose a folder (e.g. Temporary Files) → after download double-click the file to install → delete the setup file to free space."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Internet services"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Search engine — a program that finds information meeting given criteria, e.g. Google, Yahoo, MSN Search, Ask Jeeves, AltaVista."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "E-mail — a paperless, fast, cheap way of sending messages, letters, pictures and files, 24×7; free services: Gmail, Yahoo Mail, Hotmail, Rediffmail. Mail passes from mail server to mail server and waits in the recipient's mailbox. SMTP (Simple Mail Transfer Protocol) sends mail and works with POP (Post Office Protocol) servers. An address such as sksharma@yahoo.com has a user ID, the @ sign and a domain (host) name ending in a top-level domain (TLD) such as .com. A message has a header (To, Cc, Bcc, Subject) and a body; Cc recipients are visible to all, Bcc recipients are hidden."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Telnet — a network protocol on the Internet or LAN that connects your PC to a server so that commands typed are executed on the server (remote access and control). FTP (File Transfer Protocol) — exchanges files over a TCP/IP network between an FTP server and a client: upload, download, rename, delete; it promotes sharing of files and transfers data reliably and efficiently."
+        ]
+      ]
+    }
+  ]
+}

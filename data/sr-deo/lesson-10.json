@@ -1,0 +1,704 @@
+{
+  "subject": "sr-deo",
+  "lesson": 10,
+  "title": "Introduction to Internet",
+  "meta": "Chapter practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this chapter in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "9 × 1 = 9",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "The Internet is best described as —",
+          "options": [
+            "a single large computer",
+            "a worldwide network of computer networks",
+            "a software package",
+            "a type of printer"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "Which device does the ISP place at your site in a leased-line connection to connect your local network to the Internet?",
+          "options": [
+            "Printer",
+            "Router",
+            "Scanner",
+            "Plotter"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "ISDN offers Internet speeds of up to —",
+          "options": [
+            "56 Kbps",
+            "64 Kbps",
+            "128 Kbps",
+            "1 Gbps"
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "Which protocol is used for sending Internet e-mail?",
+          "options": [
+            "FTP",
+            "SMTP",
+            "HTTP",
+            "Telnet"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "In www.nios.ac.in, 'ac' indicates —",
+          "options": [
+            "the country",
+            "an academic organisation",
+            "a commercial company",
+            "the host computer"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "Which of these is a web server program?",
+          "options": [
+            "Google",
+            "Apache",
+            "Gmail",
+            "HTML"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "Each part of an IP address can vary between —",
+          "options": [
+            "0 and 99",
+            "0 and 255",
+            "1 and 512",
+            "0 and 1000"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "Which of these is a search engine?",
+          "options": [
+            "Rediffmail",
+            "Google",
+            "Telnet",
+            "Apache"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "Recipients entered in this field are hidden from all others:",
+          "options": [
+            "To",
+            "Cc",
+            "Bcc",
+            "Subject"
+          ],
+          "answer": "C"
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Assertion (A) and Reason (R): choose the correct option.",
+      "marks": "3 × 1 = 3",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "mcq",
+          "q": "Assertion (A): A web browser is client software. — Reason (R): A browser sends the user's request to a web server and displays the web page it returns.",
+          "options": [
+            "Both A and R are true and R is the correct explanation of A.",
+            "Both A and R are true but R is not the correct explanation of A.",
+            "A is true but R is false.",
+            "A is false but R is true."
+          ],
+          "answer": "A",
+          "fixed": true
+        },
+        {
+          "id": "2.2",
+          "type": "mcq",
+          "q": "Assertion (A): DSL is an 'always-on' connection. — Reason (R): DSL uses digital phone lines and does not allow phone calls while online.",
+          "options": [
+            "Both A and R are true and R is the correct explanation of A.",
+            "Both A and R are true but R is not the correct explanation of A.",
+            "A is true but R is false.",
+            "A is false but R is true."
+          ],
+          "answer": "C",
+          "fixed": true
+        },
+        {
+          "id": "2.3",
+          "type": "mcq",
+          "q": "Assertion (A): Domain names are used on the Internet. — Reason (R): IP addresses are numbers that are difficult for people to remember.",
+          "options": [
+            "Both A and R are true and R is the correct explanation of A.",
+            "Both A and R are true but R is not the correct explanation of A.",
+            "A is true but R is false.",
+            "A is false but R is true."
+          ],
+          "answer": "A",
+          "fixed": true
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "State True or False.",
+      "marks": "16 × 1 = 16",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "mcq",
+          "q": "SMTP stands for Simple Mail Transfer Protocol.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2023"
+          ],
+          "fixed": true
+        },
+        {
+          "id": "3.2",
+          "type": "mcq",
+          "q": "TCP/IP stands for Transmission Control Protocol and Internet Protocol.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2023"
+          ],
+          "fixed": true
+        },
+        {
+          "id": "3.3",
+          "type": "mcq",
+          "q": "Telnet is a network protocol used to transfer files on the Internet or a LAN.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2022"
+          ],
+          "note": "Telnet gives remote access to a computer; FTP transfers files.",
+          "fixed": true
+        },
+        {
+          "id": "3.4",
+          "type": "mcq",
+          "q": "Transferring files on the Internet is done through FTP.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2022"
+          ],
+          "fixed": true
+        },
+        {
+          "id": "3.5",
+          "type": "mcq",
+          "q": "In the Cc: field you enter the addresses of those to whom you want to send a blind carbon copy.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2021"
+          ],
+          "note": "Blind carbon copies go in the Bcc: field.",
+          "fixed": true
+        },
+        {
+          "id": "3.6",
+          "type": "mcq",
+          "q": "ISP stands for Internet Service Provider.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2021"
+          ],
+          "fixed": true
+        },
+        {
+          "id": "3.7",
+          "type": "mcq",
+          "q": "ISDN stands for Integrated Services Digital Network.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2018"
+          ],
+          "fixed": true
+        },
+        {
+          "id": "3.8",
+          "type": "mcq",
+          "q": "192.100.8.56 is a valid IP address.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2017"
+          ],
+          "fixed": true
+        },
+        {
+          "id": "3.9",
+          "type": "mcq",
+          "q": "File Transfer Procedure is a commonly used protocol for exchanging files over any network.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2016"
+          ],
+          "note": "FTP is File Transfer Protocol.",
+          "fixed": true
+        },
+        {
+          "id": "3.10",
+          "type": "mcq",
+          "q": "SMTP stands for Post Office Protocol.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2016"
+          ],
+          "note": "SMTP is Simple Mail Transfer Protocol; POP is Post Office Protocol.",
+          "fixed": true
+        },
+        {
+          "id": "3.11",
+          "type": "mcq",
+          "q": "The World Wide Web is a collection of electronic documents called web pages.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "fixed": true
+        },
+        {
+          "id": "3.12",
+          "type": "mcq",
+          "q": "A web server is an electronic document that links to another place in the same document.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "note": "That is a hyperlink; a web server stores and serves web pages.",
+          "fixed": true
+        },
+        {
+          "id": "3.13",
+          "type": "mcq",
+          "q": "POP stands for Post Office Protocol.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "fixed": true
+        },
+        {
+          "id": "3.14",
+          "type": "mcq",
+          "q": "E-mail is a paperless method of sending messages.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "fixed": true
+        },
+        {
+          "id": "3.15",
+          "type": "mcq",
+          "q": "With ISDN you cannot use the telephone while connected to the Internet.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "fixed": true
+        },
+        {
+          "id": "3.16",
+          "type": "mcq",
+          "q": "By default the home page of a website is named index.htm.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "fixed": true
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Fill in the blanks.",
+      "marks": "2 × 2 = 4",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "(a) FTP is used to promote ________ of files. (b) ________ is a network protocol used to access and control a remote server.",
+          "answer": "(a) sharing (b) Telnet"
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "(a) ________ is the standard for resolving names to addresses. (b) The first page of a website is called the ________ page.",
+          "answer": "(a) DNS (b) home"
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Fill in the blank or answer in one word.",
+      "marks": "13 × 1 = 13",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "The ________ Internet connection uses digital phone lines and offers up to 128 Kbps.",
+          "answer": "ISDN",
+          "years": [
+            "April 2019",
+            "April 2022"
+          ]
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "Identify the domain name in the URL https://swayam.gov.in/courses/public.htm.",
+          "answer": "swayam.gov.in",
+          "years": [
+            "April 2019"
+          ]
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "A ________ connection is permanent and used mainly by large organisations.",
+          "answer": "Leased line",
+          "years": [
+            "October 2022"
+          ]
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "DNS stands for Domain ________ System.",
+          "answer": "Name",
+          "years": [
+            "October 2022"
+          ]
+        },
+        {
+          "id": "5.5",
+          "type": "open",
+          "q": "HTML is a language that consists of key words called ________, used for writing documents on the web.",
+          "answer": "tags",
+          "years": [
+            "April 2023",
+            "October 2017"
+          ]
+        },
+        {
+          "id": "5.6",
+          "type": "open",
+          "q": ".gov is the domain code used for ________ organisations.",
+          "answer": "government",
+          "years": [
+            "April 2018"
+          ]
+        },
+        {
+          "id": "5.7",
+          "type": "open",
+          "q": "A ________ is a collection of one or more web pages; its first page is called the home page.",
+          "answer": "website",
+          "years": [
+            "April 2017",
+            "October 2017"
+          ]
+        },
+        {
+          "id": "5.8",
+          "type": "open",
+          "q": "The standard protocol used for sending e-mail is called ________.",
+          "answer": "SMTP",
+          "years": [
+            "October 2016"
+          ]
+        },
+        {
+          "id": "5.9",
+          "type": "open",
+          "q": "A ________ is used to connect your local network to the Internet.",
+          "answer": "Router"
+        },
+        {
+          "id": "5.10",
+          "type": "open",
+          "q": "The element in a document that links to another place or document is called a ________.",
+          "answer": "hyperlink"
+        },
+        {
+          "id": "5.11",
+          "type": "open",
+          "q": "The program designed to find information on the World Wide Web is called a ________.",
+          "answer": "search engine"
+        },
+        {
+          "id": "5.12",
+          "type": "open",
+          "q": "In an e-mail address, the part before the @ sign is the ________.",
+          "answer": "user ID"
+        },
+        {
+          "id": "5.13",
+          "type": "open",
+          "q": "Which country does the geographic domain '.jp' represent?",
+          "answer": "Japan"
+        }
+      ]
+    },
+    {
+      "no": 6,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "5 × 2 = 10",
+      "questions": [
+        {
+          "id": "6.1",
+          "type": "open",
+          "q": "What is the Internet? Write any two applications of it.",
+          "answer": "The Internet is a worldwide network of computer networks. Applications: exchanging e-mail, transferring files and software, browsing information, chatting, reading news, searching databases."
+        },
+        {
+          "id": "6.2",
+          "type": "open",
+          "q": "Differentiate between a website and a web page.",
+          "answer": "A web page is a single electronic document written in HTML with its own URL. A website is a collection of one or more related web pages belonging to an organisation or person; its first page is the home page."
+        },
+        {
+          "id": "6.3",
+          "type": "open",
+          "q": "What is a URL? Explain its parts with an example.",
+          "answer": "A URL (Uniform Resource Locator) is the unique address of a web page. In http://www.learnthenet.com/english/glossary/url.htm: http — protocol; www.learnthenet.com — domain name (server); /english/glossary/ — directory; url.htm — file name."
+        },
+        {
+          "id": "6.4",
+          "type": "open",
+          "q": "What are the two main parts of an e-mail address? Explain with an example.",
+          "answer": "In sksharma@yahoo.com, 'sksharma' is the user ID (mailbox) and 'yahoo.com' is the domain (host) name of the mail server, separated by @; '.com' is the top-level domain."
+        },
+        {
+          "id": "6.5",
+          "type": "open",
+          "q": "Name any four free e-mail services.",
+          "answer": "Gmail, Yahoo Mail, Hotmail (Outlook), Rediffmail."
+        }
+      ]
+    },
+    {
+      "no": 7,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "9 × 3 = 27",
+      "questions": [
+        {
+          "id": "7.1",
+          "type": "open",
+          "q": "Expand (any three): IP, KBPS, HTTP, CC.",
+          "answer": "IP — Internet Protocol; KBPS — Kilobits per second; HTTP — Hypertext Transfer Protocol; CC — Carbon Copy.",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "7.2",
+          "type": "open",
+          "q": "Expand (any three): ISP, PC, ISDN, TCP, TLD.",
+          "answer": "ISP — Internet Service Provider; PC — Personal Computer; ISDN — Integrated Services Digital Network; TCP — Transmission Control Protocol; TLD — Top-Level Domain.",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "7.3",
+          "type": "open",
+          "q": "Answer/name (any three): (a) Is workmail@gmail.com a valid e-mail ID? (b) The protocol used for sending Internet e-mail. (c) The address of a computer linked to the Internet. (d) An electronic document written in HTML. (e) The protocol known as the 'glue' of the Internet.",
+          "answer": "(a) Yes (b) SMTP (c) IP address (d) Web page (e) TCP/IP",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "7.4",
+          "type": "open",
+          "q": "Explain the role of the following in the Internet: (a) ISP (b) URL (c) ISDN.",
+          "answer": "(a) ISP (Internet Service Provider) — a company that gives users an Internet connection for a fee. (b) URL (Uniform Resource Locator) — the unique address of a web page, e.g. http://www.nios.ac.in. (c) ISDN (Integrated Services Digital Network) — a connection over digital phone lines at up to 128 Kbps that lets you use the phone while online.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "7.5",
+          "type": "open",
+          "q": "Name these: (a) a free e-mail service on the Internet, a product of Google; (b) a network protocol used on the Internet or LAN to remotely access and control a computer or network device; (c) a collection of web pages whose first page is called the home page.",
+          "answer": "(a) Gmail (b) Telnet (c) Website",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "7.6",
+          "type": "open",
+          "q": "Explain the different types of Internet connections.",
+          "answer": "Dial-up — dial the ISP's number over a phone line; basic and common. ISDN — digital phone lines, up to 128 Kbps, phone usable while online. Leased line — permanent dedicated connection for large organisations, with a router at the site. DSL broadband — always-on, high speed over the phone wire. Wireless — Wi-Fi card, no cables."
+        },
+        {
+          "id": "7.7",
+          "type": "open",
+          "q": "What is a search engine? Name two search engines and give tips for searching.",
+          "answer": "A search engine is a program that finds information on the Web meeting given criteria and lists matching pages. Examples: Google, Yahoo. Tips: use specific key words, put exact phrases in quotes, add or remove words to narrow the results."
+        },
+        {
+          "id": "7.8",
+          "type": "open",
+          "q": "Write the steps to send an e-mail.",
+          "answer": "(1) Open the mail website and log in with user ID and password. (2) Click Compose. (3) Type the recipient's address in To (and Cc/Bcc if needed). (4) Type the subject. (5) Type the message in the body and attach files if needed. (6) Click Send."
+        },
+        {
+          "id": "7.9",
+          "type": "open",
+          "q": "Write the steps to download a file from the Internet.",
+          "answer": "(1) Create a folder such as Temporary Files. (2) Click the download link of the software. (3) Click Save and choose the folder. (4) Wait for the download to finish. (5) Double-click the file to install it, following the screens. (6) Delete the downloaded file to free space."
+        }
+      ]
+    },
+    {
+      "no": 8,
+      "title": "Long answer question. Answer in 80–120 words.",
+      "marks": "7 × 4 = 28",
+      "questions": [
+        {
+          "id": "8.1",
+          "type": "open",
+          "q": "(a) Explain Telnet and FTP. (b) Explain organisational domains and geographical domains.",
+          "answer": "(a) Telnet is a network protocol used on the Internet or a LAN; the Telnet program connects your PC to a server so that commands you type run on the server, letting you control it remotely. FTP (File Transfer Protocol) is used to exchange files over a TCP/IP network: an FTP client connects to an FTP server to upload, download, rename or delete files.\n(b) Organisational domains show the type of organisation: .ac, .com, .edu, .gov, .net, .org. Geographical domains are two-letter country codes: .in (India), .uk, .us, .au, .jp.",
+          "years": [
+            "April 2024"
+          ],
+          "or": {
+            "q": "What happens to a piece of data when it is transferred over the Internet? Explain.",
+            "answer": "It is broken into equal-sized packets; a header saying where each packet came from, where it is going and how it fits with the others is added; each packet travels from computer to computer, each deciding the next hop, so packets may follow different routes; at the destination they are checked and reassembled in order."
+          }
+        },
+        {
+          "id": "8.2",
+          "type": "open",
+          "q": "(a) Define organisational domain. What are its types? (b) Explain the Domain Name System with an example.",
+          "answer": "(a) The organisational domain is the rightmost part of a domain name that shows the type of organisation: .ac (academic), .com (commercial), .edu (educational), .gov (government), .net (network resources), .org (non-profit). Geographic domains show the country: .in, .uk, .us, .au, .jp.\n(b) Every computer on the Internet has a numeric IP address that is hard to remember. DNS (Domain Name System) gives each host a name and translates the name into its IP address. For example in www.nios.ac.in: www — World Wide Web, nios — host computer, ac — academic organisation, in — India.",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "8.3",
+          "type": "open",
+          "q": "(a) What is a web server? What is it responsible for? Name two web server programs. (b) Define a web page. What can a web page contain?",
+          "answer": "(a) A web server is a computer that stores web pages and is connected to the Internet round the clock. It accepts requests from users' browsers and serves them the web pages. Programs: IIS (Internet Information Server) and Apache.\n(b) A web page is an electronic document written in HTML, with its own URL. It can contain text, graphics, video, animation and sound, and interactive features such as data entry forms, and hyperlinks to other pages.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "8.4",
+          "type": "open",
+          "q": "(a) Differentiate between a web server and a web browser, with an example of each. (b) Explain the role of 'Cc' and 'Bcc' while composing an e-mail.",
+          "answer": "(a) A web server is a computer that stores web pages and serves them in response to users' requests, e.g. Apache, IIS. A web browser is the software on the user's computer that requests and displays web pages, e.g. Internet Explorer, Chrome.\n(b) Cc (carbon copy) sends a copy to other people; all recipients can see who received it. Bcc (blind carbon copy) also sends a copy, but Bcc addresses are hidden from the To, Cc and other Bcc recipients.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "8.5",
+          "type": "open",
+          "q": "(a) Define TCP/IP and HTML. (b) Explain how data is transferred over the Internet.",
+          "answer": "(a) TCP/IP (Transmission Control Protocol/Internet Protocol) is the set of rules by which computers on the Internet communicate; it is called the 'glue' of the Internet. HTML (Hypertext Markup Language) is the language of key words called tags used to write web pages.\n(b) The data (e.g. a web page) is broken into many equal-sized pieces called packets. A header is added to each packet saying where it came from, where it is going and how it fits with the other packets. Each packet is sent from computer to computer (routers) until it reaches the destination; each computer on the way decides where to send it next, so packets may take different routes. At the destination the packets are checked and put back together in the right order.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "8.6",
+          "type": "open",
+          "q": "Define WWW, hyperlink, web page, website and URL.",
+          "answer": "WWW — a collection of electronic documents (web pages) linked like a spider web and stored on servers worldwide. Hyperlink — an element that links to another place in the same or another document, shown as underlined coloured text or a button. Web page — an electronic document written in HTML that can contain text, graphics, video and sound, with a unique URL. Website — one or more web pages of an organisation or person; the first is the home page. URL — the unique address of a web page, e.g. http://www.nios.ac.in."
+        },
+        {
+          "id": "8.7",
+          "type": "open",
+          "q": "Explain how a browser connects to a website. Name two browsers.",
+          "answer": "(1) The user types a URL such as www.nios.ac.in in the browser. (2) The browser connects and sends a request to the web server. (3) The server receives and processes the request. (4) The server responds with the home page. (5) The browser displays the page and the connection is closed. Browsers: Internet Explorer, Netscape Navigator (today Chrome, Firefox)."
+        }
+      ]
+    }
+  ]
+}

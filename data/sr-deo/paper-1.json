@@ -1,0 +1,385 @@
+{
+  "subject": "sr-deo",
+  "lesson": 901,
+  "title": "Model Question Paper 1",
+  "meta": "Time: 2 hours · Maximum marks: 40 · Modelled on the April 2026 NIOS paper (336)",
+  "instructions": [
+    "All questions are compulsory. Where a question has OR, answer either one.",
+    "Section A: questions 1–7 are MCQs (1 mark each); questions 8–10 have two parts of 1 mark each (assertion–reason, true/false, fill in the blanks); questions 11–17 carry 1 mark each.",
+    "Section B: questions 18–19 carry 2 marks (30–50 words), 20–23 carry 3 marks (50–80 words) and 24 carries 4 marks (80–120 words).",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "7 × 1 = 7",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "Which of the following best describes customized packages?",
+          "options": [
+            "Pre-installed software for general use",
+            "Applications developed to meet specific organisational needs",
+            "System software used for hardware management",
+            "Default applications in an operating system"
+          ],
+          "answer": "B",
+          "note": "Lesson 1."
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "Which is the default text alignment in Word documents?",
+          "options": [
+            "Center",
+            "Right",
+            "Left",
+            "Justified"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Lesson 4."
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "Why is it beneficial to use bullets and numbering in a document?",
+          "options": [
+            "To delete unnecessary text",
+            "To present information in an organised way and bring main points to the reader's attention",
+            "To convert paragraphs into tables",
+            "To add animation to the document"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 4."
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "The most commonly used document type in mail merge is —",
+          "options": [
+            "Letters",
+            "Labels",
+            "Directory",
+            "Envelopes"
+          ],
+          "answer": "A",
+          "note": "Lesson 5."
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "What is the value of =MAX(15, 16, 2, 5, 18, 17)?",
+          "options": [
+            "18",
+            "15",
+            "17",
+            "16"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Lesson 8."
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "If B3 = 50, C3 = 93, D3 = 89 and E3 = 30, the value of F3 = B3+C3+D3+E3 is —",
+          "options": [
+            "259",
+            "260",
+            "261",
+            "262"
+          ],
+          "answer": "D",
+          "years": [
+            "October 2024"
+          ],
+          "work": "50 + 93 + 89 + 30 = 262.",
+          "note": "Lesson 8."
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "What is MS PowerPoint?",
+          "options": [
+            "A video editing software",
+            "A spreadsheet software",
+            "A word processing software",
+            "A presentation software"
+          ],
+          "answer": "D",
+          "note": "Lesson 9."
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Assertion (A) and Reason (R): choose the correct option.",
+      "marks": "2 × 1 = 2",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "mcq",
+          "q": "Assertion (A): Printed pages can have various types of margin settings. — Reason (R): Margins can be set using the ruler or the Page Setup dialog box, and custom margins can be set besides the defaults.",
+          "options": [
+            "Both A and R are true and R is the correct explanation of A.",
+            "Both A and R are true but R is not the correct explanation of A.",
+            "A is true but R is false.",
+            "A is false but R is true."
+          ],
+          "answer": "A",
+          "fixed": true,
+          "years": [
+            "April 2024"
+          ],
+          "note": "Lesson 4."
+        },
+        {
+          "id": "2.2",
+          "type": "mcq",
+          "q": "Assertion (A): =SUM(A10, A20) adds all the cells from A10 to A20. — Reason (R): A range of cells is written with a colon, as in A10:A20.",
+          "options": [
+            "Both A and R are true and R is the correct explanation of A.",
+            "Both A and R are true but R is not the correct explanation of A.",
+            "A is true but R is false.",
+            "A is false but R is true."
+          ],
+          "answer": "D",
+          "fixed": true,
+          "note": "=SUM(A10, A20) adds only the two cells A10 and A20. Lesson 8."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "State True or False.",
+      "marks": "2 × 1 = 2",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "mcq",
+          "q": "To centre-align text, press Ctrl+C.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Ctrl+E centres text; Ctrl+C copies. Lesson 4.",
+          "fixed": true
+        },
+        {
+          "id": "3.2",
+          "type": "mcq",
+          "q": "Pie charts are used to compare values across categories.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "note": "Column charts compare values across categories. Lesson 8.",
+          "fixed": true
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Fill in the blanks.",
+      "marks": "1 × 2 = 2",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "(a) The shortcut key for Find and Replace is ________. (b) The shortcut key for opening a file is ________.",
+          "answer": "(a) Ctrl+H (b) Ctrl+O",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Lesson 4."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Fill in the blank or answer in one word.",
+      "marks": "7 × 1 = 7",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "The set of programs in ROM which are executed when a computer is switched on and which activate its different units is called ________.",
+          "answer": "System software",
+          "note": "Lesson 1."
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "Which function key is pressed to get help?",
+          "answer": "F1",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Lesson 4."
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "The default alignment of text in MS Word is ________.",
+          "answer": "Left",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 4."
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "The block of merge fields that inserts a complete address is called the ________.",
+          "answer": "Address Block",
+          "note": "Lesson 5."
+        },
+        {
+          "id": "5.5",
+          "type": "open",
+          "q": "The style of writing a function is called its ________.",
+          "answer": "syntax",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Lesson 8."
+        },
+        {
+          "id": "5.6",
+          "type": "open",
+          "q": "When data is entered in the cell in column P and row 15, the cell address is ________.",
+          "answer": "P15",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 8."
+        },
+        {
+          "id": "5.7",
+          "type": "open",
+          "q": "In PowerPoint 2007, the ________ button replaces the File menu.",
+          "answer": "Office",
+          "note": "Lesson 9."
+        }
+      ]
+    },
+    {
+      "no": 6,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "2 × 2 = 4",
+      "questions": [
+        {
+          "id": "6.1",
+          "type": "open",
+          "q": "Explain the importance of high-level languages. Give two examples used for programming today.",
+          "answer": "High-level languages are close to English, easy to learn, write and correct, and machine-independent, so programs can run on different computers. Examples: C++, Java (also Python, BASIC).",
+          "years": [
+            "April 2024"
+          ],
+          "or": {
+            "q": "What is application software? How is it classified?",
+            "answer": "Application software is a set of programs written to do a specific task for the user. It is classified as generalised packages (e.g. Word, Excel, Oracle) and customised packages (made for one organisation, e.g. payroll, student management)."
+          },
+          "note": "Lesson 1."
+        },
+        {
+          "id": "6.2",
+          "type": "open",
+          "q": "What is the difference between a compiler and an assembler?",
+          "answer": "A compiler translates a whole program written in a high-level language into machine language (object program). An assembler translates a program written in assembly language (mnemonics) into machine language.",
+          "years": [
+            "October 2024"
+          ],
+          "or": {
+            "q": "What is a high-level language? Give at least two examples.",
+            "answer": "A high-level language is close to English, easy to learn and machine-independent; it is translated into machine language by a compiler or interpreter. Examples: BASIC, FORTRAN, C, C++, Java."
+          },
+          "note": "Lesson 1."
+        }
+      ]
+    },
+    {
+      "no": 7,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "4 × 3 = 12",
+      "questions": [
+        {
+          "id": "7.1",
+          "type": "open",
+          "q": "Write the names of any three commonly used generalised packages.",
+          "answer": "Word processor (MS Word), spreadsheet (MS Excel), presentation (PowerPoint) — also DBMS such as MS Access or Oracle, graphics tools such as Paint Shop Pro.",
+          "years": [
+            "October 2024"
+          ],
+          "or": {
+            "q": "Write the names of any three Database Management System (DBMS) programs.",
+            "answer": "MS Access, Oracle, MS SQL Server (also MySQL, FoxPro)."
+          },
+          "note": "Lesson 1."
+        },
+        {
+          "id": "7.2",
+          "type": "open",
+          "q": "What is a data source? Write any two methods by which you can prepare a data source.",
+          "answer": "A data source is a file containing the variable information (names, addresses, etc.) arranged as records and fields, used in mail merge. Methods: (1) type a new list in the Mail Merge Wizard (New Address List); (2) create a table in a Word document; (3) use an Excel worksheet (or an Access table).",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 5."
+        },
+        {
+          "id": "7.3",
+          "type": "open",
+          "q": "Explain the role of the documents involved in Mail Merge in MS Word.",
+          "answer": "Main document — contains the text and graphics that stay the same in every copy, with merge fields where the changing data goes. Data source — a file (Word table, Excel sheet, Access table) holding the variable information such as names and addresses in rows (records) and columns (fields). Merge document — the result: one personalised copy for each record, which can be printed, saved or e-mailed.",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 5."
+        },
+        {
+          "id": "7.4",
+          "type": "open",
+          "q": "Name these: (a) a free e-mail service on the Internet, a product of Google; (b) a network protocol used on the Internet or LAN to remotely access and control a computer or network device; (c) a collection of web pages whose first page is called the home page.",
+          "answer": "(a) Gmail (b) Telnet (c) Website",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 10."
+        }
+      ]
+    },
+    {
+      "no": 8,
+      "title": "Long answer question. Answer in 80–120 words.",
+      "marks": "1 × 4 = 4",
+      "questions": [
+        {
+          "id": "8.1",
+          "type": "open",
+          "q": "(a) Define organisational domain. What are its types? (b) Explain the Domain Name System with an example.",
+          "answer": "(a) The organisational domain is the rightmost part of a domain name that shows the type of organisation: .ac (academic), .com (commercial), .edu (educational), .gov (government), .net (network resources), .org (non-profit). Geographic domains show the country: .in, .uk, .us, .au, .jp.\n(b) Every computer on the Internet has a numeric IP address that is hard to remember. DNS (Domain Name System) gives each host a name and translates the name into its IP address. For example in www.nios.ac.in: www — World Wide Web, nios — host computer, ac — academic organisation, in — India.",
+          "years": [
+            "October 2024"
+          ],
+          "note": "Lesson 10."
+        }
+      ]
+    }
+  ]
+}

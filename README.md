@@ -114,6 +114,11 @@ question's own short note.
   (unseen passages, grammar and writing tasks of three full papers in the April 2026 new-syllabus layout:
   27 questions, 100 marks; lesson questions are dealt to the papers without repeats). Only the 16
   public-exam lessons are included; Model Question Paper 1 reuses the April 2026 unseen sections.
+- `tools/build_srdeo.py`: builds Senior Secondary Data Entry Operations (336) from `data/sr-deo/src/lesson-<n>.json`
+  with `build_deo.py` and the 336 layout (24 questions, 40 marks: 2 very short, 4 short and 1 long answer; short
+  answers from lessons 1, 5, 5 and 10). Lessons 1–9 share the 229 textbook, so their sources started from the
+  Secondary ones with the exam tags replaced by 336 ones; lesson 10 (Internet) is 336 only. Only the 6
+  public-exam lessons (1, 4, 5, 8, 9, 10) are included.
 - All of these builders share `build_question` in `tools/build_ss.py`. It marks an MCQ `fixed` (options
   keep their printed order instead of being shuffled) when an option refers to the others, such as
   "all of these", "none of the above" or "both (A) and (B)".

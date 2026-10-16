@@ -1,0 +1,466 @@
+{
+ "lesson": 10,
+ "title": "Introduction to Internet",
+ "summary": [
+  "## What is the Internet?",
+  "The Internet (the Net) is a worldwide network of computer networks — an interconnection of large and small networks around the globe. With it you can exchange e-mail, transfer files and software, browse information on any topic, chat in real time, search databases, read news, send pictures and animation, and set up your own website.",
+  "## Getting connected",
+  "You need a PC with a browser, a telephone line or leased line, a modem and an account with an Internet Service Provider (ISP), who charges for installation and rent.",
+  "Dial-up — the most common basic connection: the computer dials a number given by the ISP and connects through the ISP's server; suited to a single PC or a small group.",
+  "ISDN (Integrated Services Digital Network) — like dial-up but over digital phone lines; two 64 Kbps channels give up to 128 Kbps, and you can make or receive calls on the same line while connected.",
+  "Leased line (direct Internet access) — a permanent, dedicated connection used by large institutions, companies and government agencies; the ISP places a router at your site to connect your local network to the Internet.",
+  "DSL (Digital Subscriber Line) broadband — an 'always-on' high-speed connection over the ordinary telephone wire; like ISDN you can use the phone while online. Wireless (Wi-Fi) connections need a Wi-Fi card.",
+  "## How does the Internet work?",
+  "Data (e.g. a web page) is broken into equal-sized packets. A header added to each packet says where it came from, where it is going and how it fits with the others. Packets travel from computer to computer; each decides the next hop, so packets may take different routes. At the destination they are checked and put back together in order. TCP/IP, the set of rules for this, is called the 'glue' of the Internet.",
+  "## Common terms",
+  "WWW (World Wide Web) — a collection of linked electronic documents (web pages) stored on servers around the world. Web server — a computer that stores web pages and serves them on request, connected 24×7; programs: IIS and Apache. Hyperlink — an element (usually underlined, coloured text or a button) that links to another place or document. HTML (Hypertext Markup Language) — the language of key words called tags used to write web pages. Web page — an electronic document written in HTML that can contain text, graphics, video, animation, sound and forms, with a unique URL. Website — one or more web pages of a company, institute or person; its first page is the home page (index.htm).",
+  "URL (Uniform Resource Locator) — the unique address of a page, e.g. http://www.learnthenet.com/english/glossary/url.htm: protocol (http), domain name (server), directory and file name. IP address — the unique number of each host, written xxx.xxx.xxx.xxx with each part from 0 to 255, e.g. 192.100.8.56. DNS (Domain Name System) — translates easy-to-remember domain names into IP addresses.",
+  "## Internet addresses",
+  "Read a domain name from the right: in www.nios.ac.in — www (World Wide Web), nios (host computer), ac (academic organisation), in (India). Organisational domains: ac (academic), com (commercial), edu (educational), gov (government), net (network resources), org (non-profit). Geographic domains: au (Australia), in (India), jp (Japan), uk (United Kingdom), us (United States).",
+  "## Browsers and downloading",
+  "A web browser (client software) requests pages from web servers and displays them, e.g. Internet Explorer, Netscape Navigator (today Chrome, Firefox, Edge). Steps: type the URL → the browser sends a request → the server processes it → the server responds with the page → the browser displays it.",
+  "Saving a web page: Text File (text only), Web Page HTML only (no images), Web Page Complete (HTML plus a folder of images), Web Archive single file (.mht). Downloading: click the download link → Save → choose a folder (e.g. Temporary Files) → after download double-click the file to install → delete the setup file to free space.",
+  "## Internet services",
+  "Search engine — a program that finds information meeting given criteria, e.g. Google, Yahoo, MSN Search, Ask Jeeves, AltaVista.",
+  "E-mail — a paperless, fast, cheap way of sending messages, letters, pictures and files, 24×7; free services: Gmail, Yahoo Mail, Hotmail, Rediffmail. Mail passes from mail server to mail server and waits in the recipient's mailbox. SMTP (Simple Mail Transfer Protocol) sends mail and works with POP (Post Office Protocol) servers. An address such as sksharma@yahoo.com has a user ID, the @ sign and a domain (host) name ending in a top-level domain (TLD) such as .com. A message has a header (To, Cc, Bcc, Subject) and a body; Cc recipients are visible to all, Bcc recipients are hidden.",
+  "Telnet — a network protocol on the Internet or LAN that connects your PC to a server so that commands typed are executed on the server (remote access and control). FTP (File Transfer Protocol) — exchanges files over a TCP/IP network between an FTP server and a client: upload, download, rename, delete; it promotes sharing of files and transfers data reliably and efficiently."
+ ],
+ "mcq": [
+  [
+   "The Internet is best described as —",
+   [
+    "a single large computer",
+    "a worldwide network of computer networks",
+    "a software package",
+    "a type of printer"
+   ],
+   "B"
+  ],
+  [
+   "Which device does the ISP place at your site in a leased-line connection to connect your local network to the Internet?",
+   [
+    "Printer",
+    "Router",
+    "Scanner",
+    "Plotter"
+   ],
+   "B"
+  ],
+  [
+   "ISDN offers Internet speeds of up to —",
+   [
+    "56 Kbps",
+    "64 Kbps",
+    "128 Kbps",
+    "1 Gbps"
+   ],
+   "C"
+  ],
+  [
+   "Which protocol is used for sending Internet e-mail?",
+   [
+    "FTP",
+    "SMTP",
+    "HTTP",
+    "Telnet"
+   ],
+   "B"
+  ],
+  [
+   "In www.nios.ac.in, 'ac' indicates —",
+   [
+    "the country",
+    "an academic organisation",
+    "a commercial company",
+    "the host computer"
+   ],
+   "B"
+  ],
+  [
+   "Which of these is a web server program?",
+   [
+    "Google",
+    "Apache",
+    "Gmail",
+    "HTML"
+   ],
+   "B"
+  ],
+  [
+   "Each part of an IP address can vary between —",
+   [
+    "0 and 99",
+    "0 and 255",
+    "1 and 512",
+    "0 and 1000"
+   ],
+   "B"
+  ],
+  [
+   "Which of these is a search engine?",
+   [
+    "Rediffmail",
+    "Google",
+    "Telnet",
+    "Apache"
+   ],
+   "B"
+  ],
+  [
+   "Recipients entered in this field are hidden from all others:",
+   [
+    "To",
+    "Cc",
+    "Bcc",
+    "Subject"
+   ],
+   "C"
+  ]
+ ],
+ "ar": [
+  [
+   "A web browser is client software.",
+   "A browser sends the user's request to a web server and displays the web page it returns.",
+   "A"
+  ],
+  [
+   "DSL is an 'always-on' connection.",
+   "DSL uses digital phone lines and does not allow phone calls while online.",
+   "C"
+  ],
+  [
+   "Domain names are used on the Internet.",
+   "IP addresses are numbers that are difficult for people to remember.",
+   "A"
+  ]
+ ],
+ "tf": [
+  [
+   "SMTP stands for Simple Mail Transfer Protocol.",
+   true,
+   [
+    "April 2023"
+   ]
+  ],
+  [
+   "TCP/IP stands for Transmission Control Protocol and Internet Protocol.",
+   true,
+   [
+    "April 2023"
+   ]
+  ],
+  [
+   "Telnet is a network protocol used to transfer files on the Internet or a LAN.",
+   false,
+   [
+    "April 2022"
+   ],
+   {
+    "note": "Telnet gives remote access to a computer; FTP transfers files."
+   }
+  ],
+  [
+   "Transferring files on the Internet is done through FTP.",
+   true,
+   [
+    "October 2022"
+   ]
+  ],
+  [
+   "In the Cc: field you enter the addresses of those to whom you want to send a blind carbon copy.",
+   false,
+   [
+    "October 2021"
+   ],
+   {
+    "note": "Blind carbon copies go in the Bcc: field."
+   }
+  ],
+  [
+   "ISP stands for Internet Service Provider.",
+   true,
+   [
+    "October 2021"
+   ]
+  ],
+  [
+   "ISDN stands for Integrated Services Digital Network.",
+   true,
+   [
+    "April 2018"
+   ]
+  ],
+  [
+   "192.100.8.56 is a valid IP address.",
+   true,
+   [
+    "April 2017"
+   ]
+  ],
+  [
+   "File Transfer Procedure is a commonly used protocol for exchanging files over any network.",
+   false,
+   [
+    "October 2016"
+   ],
+   {
+    "note": "FTP is File Transfer Protocol."
+   }
+  ],
+  [
+   "SMTP stands for Post Office Protocol.",
+   false,
+   [
+    "October 2016"
+   ],
+   {
+    "note": "SMTP is Simple Mail Transfer Protocol; POP is Post Office Protocol."
+   }
+  ],
+  [
+   "The World Wide Web is a collection of electronic documents called web pages.",
+   true
+  ],
+  [
+   "A web server is an electronic document that links to another place in the same document.",
+   false,
+   null,
+   {
+    "note": "That is a hyperlink; a web server stores and serves web pages."
+   }
+  ],
+  [
+   "POP stands for Post Office Protocol.",
+   true
+  ],
+  [
+   "E-mail is a paperless method of sending messages.",
+   true
+  ],
+  [
+   "With ISDN you cannot use the telephone while connected to the Internet.",
+   false
+  ],
+  [
+   "By default the home page of a website is named index.htm.",
+   true
+  ]
+ ],
+ "fill2": [
+  [
+   "(a) FTP is used to promote ________ of files. (b) ________ is a network protocol used to access and control a remote server.",
+   "(a) sharing (b) Telnet"
+  ],
+  [
+   "(a) ________ is the standard for resolving names to addresses. (b) The first page of a website is called the ________ page.",
+   "(a) DNS (b) home"
+  ]
+ ],
+ "oneword": [
+  [
+   "The ________ Internet connection uses digital phone lines and offers up to 128 Kbps.",
+   "ISDN",
+   [
+    "April 2019",
+    "April 2022"
+   ]
+  ],
+  [
+   "Identify the domain name in the URL https://swayam.gov.in/courses/public.htm.",
+   "swayam.gov.in",
+   [
+    "April 2019"
+   ]
+  ],
+  [
+   "A ________ connection is permanent and used mainly by large organisations.",
+   "Leased line",
+   [
+    "October 2022"
+   ]
+  ],
+  [
+   "DNS stands for Domain ________ System.",
+   "Name",
+   [
+    "October 2022"
+   ]
+  ],
+  [
+   "HTML is a language that consists of key words called ________, used for writing documents on the web.",
+   "tags",
+   [
+    "April 2023",
+    "October 2017"
+   ]
+  ],
+  [
+   ".gov is the domain code used for ________ organisations.",
+   "government",
+   [
+    "April 2018"
+   ]
+  ],
+  [
+   "A ________ is a collection of one or more web pages; its first page is called the home page.",
+   "website",
+   [
+    "April 2017",
+    "October 2017"
+   ]
+  ],
+  [
+   "The standard protocol used for sending e-mail is called ________.",
+   "SMTP",
+   [
+    "October 2016"
+   ]
+  ],
+  [
+   "A ________ is used to connect your local network to the Internet.",
+   "Router"
+  ],
+  [
+   "The element in a document that links to another place or document is called a ________.",
+   "hyperlink"
+  ],
+  [
+   "The program designed to find information on the World Wide Web is called a ________.",
+   "search engine"
+  ],
+  [
+   "In an e-mail address, the part before the @ sign is the ________.",
+   "user ID"
+  ],
+  [
+   "Which country does the geographic domain '.jp' represent?",
+   "Japan"
+  ]
+ ],
+ "vsa": [
+  [
+   "What is the Internet? Write any two applications of it.",
+   "The Internet is a worldwide network of computer networks. Applications: exchanging e-mail, transferring files and software, browsing information, chatting, reading news, searching databases."
+  ],
+  [
+   "Differentiate between a website and a web page.",
+   "A web page is a single electronic document written in HTML with its own URL. A website is a collection of one or more related web pages belonging to an organisation or person; its first page is the home page."
+  ],
+  [
+   "What is a URL? Explain its parts with an example.",
+   "A URL (Uniform Resource Locator) is the unique address of a web page. In http://www.learnthenet.com/english/glossary/url.htm: http — protocol; www.learnthenet.com — domain name (server); /english/glossary/ — directory; url.htm — file name."
+  ],
+  [
+   "What are the two main parts of an e-mail address? Explain with an example.",
+   "In sksharma@yahoo.com, 'sksharma' is the user ID (mailbox) and 'yahoo.com' is the domain (host) name of the mail server, separated by @; '.com' is the top-level domain."
+  ],
+  [
+   "Name any four free e-mail services.",
+   "Gmail, Yahoo Mail, Hotmail (Outlook), Rediffmail."
+  ]
+ ],
+ "sa": [
+  [
+   "Expand (any three): IP, KBPS, HTTP, CC.",
+   "IP — Internet Protocol; KBPS — Kilobits per second; HTTP — Hypertext Transfer Protocol; CC — Carbon Copy.",
+   [
+    "April 2024"
+   ]
+  ],
+  [
+   "Expand (any three): ISP, PC, ISDN, TCP, TLD.",
+   "ISP — Internet Service Provider; PC — Personal Computer; ISDN — Integrated Services Digital Network; TCP — Transmission Control Protocol; TLD — Top-Level Domain.",
+   [
+    "October 2024"
+   ]
+  ],
+  [
+   "Answer/name (any three): (a) Is workmail@gmail.com a valid e-mail ID? (b) The protocol used for sending Internet e-mail. (c) The address of a computer linked to the Internet. (d) An electronic document written in HTML. (e) The protocol known as the 'glue' of the Internet.",
+   "(a) Yes (b) SMTP (c) IP address (d) Web page (e) TCP/IP",
+   [
+    "April 2025"
+   ]
+  ],
+  [
+   "Explain the role of the following in the Internet: (a) ISP (b) URL (c) ISDN.",
+   "(a) ISP (Internet Service Provider) — a company that gives users an Internet connection for a fee. (b) URL (Uniform Resource Locator) — the unique address of a web page, e.g. http://www.nios.ac.in. (c) ISDN (Integrated Services Digital Network) — a connection over digital phone lines at up to 128 Kbps that lets you use the phone while online.",
+   [
+    "October 2025"
+   ]
+  ],
+  [
+   "Name these: (a) a free e-mail service on the Internet, a product of Google; (b) a network protocol used on the Internet or LAN to remotely access and control a computer or network device; (c) a collection of web pages whose first page is called the home page.",
+   "(a) Gmail (b) Telnet (c) Website",
+   [
+    "April 2026"
+   ]
+  ],
+  [
+   "Explain the different types of Internet connections.",
+   "Dial-up — dial the ISP's number over a phone line; basic and common. ISDN — digital phone lines, up to 128 Kbps, phone usable while online. Leased line — permanent dedicated connection for large organisations, with a router at the site. DSL broadband — always-on, high speed over the phone wire. Wireless — Wi-Fi card, no cables."
+  ],
+  [
+   "What is a search engine? Name two search engines and give tips for searching.",
+   "A search engine is a program that finds information on the Web meeting given criteria and lists matching pages. Examples: Google, Yahoo. Tips: use specific key words, put exact phrases in quotes, add or remove words to narrow the results."
+  ],
+  [
+   "Write the steps to send an e-mail.",
+   "(1) Open the mail website and log in with user ID and password. (2) Click Compose. (3) Type the recipient's address in To (and Cc/Bcc if needed). (4) Type the subject. (5) Type the message in the body and attach files if needed. (6) Click Send."
+  ],
+  [
+   "Write the steps to download a file from the Internet.",
+   "(1) Create a folder such as Temporary Files. (2) Click the download link of the software. (3) Click Save and choose the folder. (4) Wait for the download to finish. (5) Double-click the file to install it, following the screens. (6) Delete the downloaded file to free space."
+  ]
+ ],
+ "la": [
+  [
+   "(a) Explain Telnet and FTP. (b) Explain organisational domains and geographical domains.",
+   "(a) Telnet is a network protocol used on the Internet or a LAN; the Telnet program connects your PC to a server so that commands you type run on the server, letting you control it remotely. FTP (File Transfer Protocol) is used to exchange files over a TCP/IP network: an FTP client connects to an FTP server to upload, download, rename or delete files.\n(b) Organisational domains show the type of organisation: .ac, .com, .edu, .gov, .net, .org. Geographical domains are two-letter country codes: .in (India), .uk, .us, .au, .jp.",
+   [
+    "April 2024"
+   ],
+   {
+    "or": [
+     "What happens to a piece of data when it is transferred over the Internet? Explain.",
+     "It is broken into equal-sized packets; a header saying where each packet came from, where it is going and how it fits with the others is added; each packet travels from computer to computer, each deciding the next hop, so packets may follow different routes; at the destination they are checked and reassembled in order."
+    ]
+   }
+  ],
+  [
+   "(a) Define organisational domain. What are its types? (b) Explain the Domain Name System with an example.",
+   "(a) The organisational domain is the rightmost part of a domain name that shows the type of organisation: .ac (academic), .com (commercial), .edu (educational), .gov (government), .net (network resources), .org (non-profit). Geographic domains show the country: .in, .uk, .us, .au, .jp.\n(b) Every computer on the Internet has a numeric IP address that is hard to remember. DNS (Domain Name System) gives each host a name and translates the name into its IP address. For example in www.nios.ac.in: www — World Wide Web, nios — host computer, ac — academic organisation, in — India.",
+   [
+    "October 2024"
+   ]
+  ],
+  [
+   "(a) What is a web server? What is it responsible for? Name two web server programs. (b) Define a web page. What can a web page contain?",
+   "(a) A web server is a computer that stores web pages and is connected to the Internet round the clock. It accepts requests from users' browsers and serves them the web pages. Programs: IIS (Internet Information Server) and Apache.\n(b) A web page is an electronic document written in HTML, with its own URL. It can contain text, graphics, video, animation and sound, and interactive features such as data entry forms, and hyperlinks to other pages.",
+   [
+    "April 2025"
+   ]
+  ],
+  [
+   "(a) Differentiate between a web server and a web browser, with an example of each. (b) Explain the role of 'Cc' and 'Bcc' while composing an e-mail.",
+   "(a) A web server is a computer that stores web pages and serves them in response to users' requests, e.g. Apache, IIS. A web browser is the software on the user's computer that requests and displays web pages, e.g. Internet Explorer, Chrome.\n(b) Cc (carbon copy) sends a copy to other people; all recipients can see who received it. Bcc (blind carbon copy) also sends a copy, but Bcc addresses are hidden from the To, Cc and other Bcc recipients.",
+   [
+    "October 2025"
+   ]
+  ],
+  [
+   "(a) Define TCP/IP and HTML. (b) Explain how data is transferred over the Internet.",
+   "(a) TCP/IP (Transmission Control Protocol/Internet Protocol) is the set of rules by which computers on the Internet communicate; it is called the 'glue' of the Internet. HTML (Hypertext Markup Language) is the language of key words called tags used to write web pages.\n(b) The data (e.g. a web page) is broken into many equal-sized pieces called packets. A header is added to each packet saying where it came from, where it is going and how it fits with the other packets. Each packet is sent from computer to computer (routers) until it reaches the destination; each computer on the way decides where to send it next, so packets may take different routes. At the destination the packets are checked and put back together in the right order.",
+   [
+    "April 2026"
+   ]
+  ],
+  [
+   "Define WWW, hyperlink, web page, website and URL.",
+   "WWW — a collection of electronic documents (web pages) linked like a spider web and stored on servers worldwide. Hyperlink — an element that links to another place in the same or another document, shown as underlined coloured text or a button. Web page — an electronic document written in HTML that can contain text, graphics, video and sound, with a unique URL. Website — one or more web pages of an organisation or person; the first is the home page. URL — the unique address of a web page, e.g. http://www.nios.ac.in."
+  ],
+  [
+   "Explain how a browser connects to a website. Name two browsers.",
+   "(1) The user types a URL such as www.nios.ac.in in the browser. (2) The browser connects and sends a request to the web server. (3) The server receives and processes the request. (4) The server responds with the home page. (5) The browser displays the page and the connection is closed. Browsers: Internet Explorer, Netscape Navigator (today Chrome, Firefox)."
+  ]
+ ]
+}

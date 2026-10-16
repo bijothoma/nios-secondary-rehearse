@@ -1,0 +1,911 @@
+{
+ "lesson": 4,
+ "title": "Formatting Documents",
+ "summary": [
+  "## Working with text (Word 2007)",
+  "Typing: text appears at the blinking cursor (insertion point). You need not press Enter at the end of each line — Word wraps text to the next line automatically; press Enter only to start a new paragraph. Inserting text: move the cursor with the arrow keys or mouse and type. Useful keys: Home — beginning of the line; End — end of the line; Ctrl+Home — top of the document; Ctrl+End — end of the document.",
+  "Spacebar and Tab: use the spacebar only to separate words; do not use it to move text across a line or make columns — use the Tab key instead. Show/Hide (¶) displays paragraph marks, spaces and tabs.",
+  "Selecting (highlighting) text: drag the mouse, or hold Shift and use the arrow keys. Double-click selects a word; triple-click selects a paragraph; Ctrl+A (Select All) selects the whole document. Click outside or press an arrow key to deselect.",
+  "Deleting text: Backspace deletes text to the left of the cursor; Delete erases text to the right. To delete a large block, select it and press Delete. Replacing text: select the text and start typing — the new text replaces it. Click and Type: double-click anywhere on a page and start typing there.",
+  "## Formatting text",
+  "The Home tab's Font and Paragraph groups hold the formatting commands. Font face — the typeface, in families such as Times New Roman and Arial. Font size — measured in points (1 point = 1/72 inch); 10 or 12 points suits paragraphs. Font style — bold, italic and underline. Alignment — left, centre, right or justified. Increase/Decrease Indent, Outside Border, Highlight Color (changes the colour behind the text) and Text (font) Color. The Font dialog box (dialog launcher at the corner of the Font group) gives more options.",
+  "Format Painter (Home → Clipboard): copies formatting from one place to another. Put the cursor in the formatted text, click Format Painter (the pointer gets a paintbrush) and drag over the text to format. Double-click Format Painter to apply the format to many selections; it stays on until you press Esc.",
+  "Useful shortcuts: Ctrl+B bold, Ctrl+I italic, Ctrl+U underline, Ctrl+L left align, Ctrl+E centre, Ctrl+R right align, Ctrl+J justify, Ctrl+C copy, Ctrl+X cut, Ctrl+V paste, Ctrl+Z undo, Ctrl+A select all, Ctrl+F find, Ctrl+H replace, Ctrl+P print, Ctrl+S save, Ctrl+O open, Ctrl+Enter page break, Shift+Enter new line in the same paragraph, F7 spelling and grammar, Ctrl+Shift+A all caps.",
+  "## Formatting paragraphs",
+  "A paragraph is any text or item followed by a paragraph mark (inserted when you press Enter). Paragraph formats apply to the whole paragraph and are stored in the paragraph mark; a new paragraph keeps the formatting of the one before. Shift+Enter inserts a line break without starting a new paragraph. By default text in Word is left aligned.",
+  "Indenting: drag the indent markers on the ruler, or use Increase/Decrease Indent. A first-line indent moves only the first line inward; a hanging indent indents all lines except the first. Tab stops: by default every 0.5 inch; set them from Home → Paragraph → Tabs or by clicking on the ruler. Tab types: left, centre, right and decimal. Drag a tab marker to move it; drag it off the ruler to clear it.",
+  "Line spacing: the height of each line; single spacing = 12 points, 1½ = 18 points, double = 24 points; set in the Paragraph dialog box (Indents and Spacing → Line spacing). Paragraph spacing: Before and After spacing in points; advantages — it does not change the text size, different combinations can be used, precise adjustment is possible, spacing moves with the paragraph without leaving blank lines, and it can be part of a style.",
+  "Borders and shading: Home → Paragraph → Borders and Shading. Choose a border on the Borders tab and a fill on the Shading tab, select 'Paragraph' under Apply to, and click OK.",
+  "## Bulleted and numbered lists",
+  "Lists bring main points to the reader's attention. Click the Bullets or Numbering button, type an entry and press Enter for the next item; press Enter twice to end the list; Shift+Enter starts a new line without a bullet. Increase Indent creates a nested (multi-level) list. Change the bullet symbol, picture or number style in the Bullets and Numbering dialog (Home → Paragraph or right-click). A numbered list suits steps in order, such as a recipe.",
+  "## Copying and moving text",
+  "Cut or copied text goes to the Clipboard, an area of memory; Word's clipboard holds the last 12 (24 in later versions) items, viewed from Home → Clipboard. Moving (cutting) removes the text from one place and puts it in another: select, Cut (Ctrl+X), place the cursor, Paste (Ctrl+V); or drag and drop. Copying leaves the original unchanged: select, Copy (Ctrl+C), place the cursor, Paste (Ctrl+V). The Cut, Copy and Paste buttons are in the Clipboard group of the Home tab.",
+  "## Spelling and grammar",
+  "Word checks as you type: red wavy lines mark spelling errors and green wavy lines mark grammar errors. Press F7 (Review → Spelling & Grammar) to open the dialog box: Ignore / Ignore All for correct words, Change / Change All to accept a suggestion, Add to put a word (such as your name) in the dictionary. Untick Check Grammar to skip grammar.",
+  "## Page formatting (Page Layout tab)",
+  "Margins — the space between the edge of the page and the text; change them by dragging on the ruler or with Page Layout → Margins (Normal, Narrow, Moderate, Wide, Mirrored, Office 2003 Default, or Custom Margins). Size — Letter, Legal, A4 or More Paper Sizes. Orientation — Portrait or Landscape; it can be changed at any time, even for selected pages only.",
+  "Headers and footers: a header is text in the top margin of every page (title, page number) and a footer is text in the bottom margin; Insert → Header or Footer. Page numbers: Insert → Page Number; choose Top or Bottom of page; Format Page Numbers → Start at changes the first number. Page break: Word inserts one automatically at the end of a page; insert a manual break with Insert → Page Break or Ctrl+Enter rather than pressing Enter many times; delete a page break by selecting the break line (in Normal/Draft view) and pressing Delete. View → Zoom shows many pages at once."
+ ],
+ "mcq": [
+  [
+   "The shortcut key for closing a file is —",
+   [
+    "Ctrl+Close",
+    "Ctrl+C",
+    "Ctrl+W",
+    "Ctrl+X"
+   ],
+   "C",
+   [
+    "April 2024"
+   ]
+  ],
+  [
+   "Which is the default text alignment in Word documents?",
+   [
+    "Center",
+    "Right",
+    "Left",
+    "Justified"
+   ],
+   "C",
+   [
+    "April 2024"
+   ]
+  ],
+  [
+   "Which of the following is NOT a text alignment option?",
+   [
+    "Left",
+    "Right",
+    "Center",
+    "South"
+   ],
+   "D",
+   [
+    "October 2024"
+   ]
+  ],
+  [
+   "Which function key starts the spelling and grammar check?",
+   [
+    "F1",
+    "F5",
+    "F7",
+    "F12"
+   ],
+   "C",
+   [
+    "April 2025",
+    "April 2024"
+   ]
+  ],
+  [
+   "Which of the following is NOT a page size option in Word?",
+   [
+    "Letter",
+    "Legal",
+    "A4",
+    "Postcard"
+   ],
+   "D",
+   [
+    "April 2025"
+   ]
+  ],
+  [
+   "Which tab helps to change the font type?",
+   [
+    "Insert",
+    "Layout",
+    "Design",
+    "Home"
+   ],
+   "D",
+   [
+    "April 2025"
+   ]
+  ],
+  [
+   "Which shortcut key selects all the text in a document?",
+   [
+    "Ctrl+F",
+    "Ctrl+T",
+    "Ctrl+A",
+    "Ctrl+D"
+   ],
+   "C",
+   [
+    "April 2025",
+    "October 2024"
+   ]
+  ],
+  [
+   "Why is it beneficial to use bullets and numbering in a document?",
+   [
+    "To delete unnecessary text",
+    "To present information in an organised way and bring main points to the reader's attention",
+    "To convert paragraphs into tables",
+    "To add animation to the document"
+   ],
+   "B",
+   [
+    "October 2025"
+   ]
+  ],
+  [
+   "Why would you use the 'justify' alignment in a Word document?",
+   [
+    "To align text evenly between the left and right margins",
+    "To centre the text",
+    "To align text to the right",
+    "To indent the first line of a paragraph"
+   ],
+   "A",
+   [
+    "October 2025"
+   ]
+  ],
+  [
+   "________ case capitalises the first letter of the first word in each sentence.",
+   [
+    "Lower",
+    "Upper",
+    "Sentence",
+    "Title"
+   ],
+   "C",
+   [
+    "April 2026"
+   ]
+  ],
+  [
+   "Lists created using the Increase/Decrease Indent buttons are called —",
+   [
+    "Nested lists",
+    "Format lists",
+    "Alphabetic lists",
+    "Members lists"
+   ],
+   "A",
+   [
+    "April 2026"
+   ]
+  ],
+  [
+   "Which shortcut key is pressed to cut the text?",
+   [
+    "Ctrl+X",
+    "Ctrl+A",
+    "Ctrl+I",
+    "Shift+I"
+   ],
+   "A",
+   [
+    "April 2026"
+   ]
+  ],
+  [
+   "Which key is used to delete text to the left of the cursor?",
+   [
+    "Delete",
+    "Backspace",
+    "Enter",
+    "Shift"
+   ],
+   "B"
+  ],
+  [
+   "Which option removes text from its original position?",
+   [
+    "Copy",
+    "Paste",
+    "Cut",
+    "Undo"
+   ],
+   "C"
+  ],
+  [
+   "Which option is used to find a word in a document?",
+   [
+    "Replace",
+    "Find",
+    "Go To",
+    "Select"
+   ],
+   "B"
+  ],
+  [
+   "The shortcut key to copy text is —",
+   [
+    "Ctrl + V",
+    "Ctrl + S",
+    "Ctrl + E",
+    "Ctrl + C"
+   ],
+   "D"
+  ],
+  [
+   "The size of the font is measured in —",
+   [
+    "dots",
+    "length",
+    "inches",
+    "points"
+   ],
+   "D"
+  ],
+  [
+   "Which of the following steps adds borders and shading to text and paragraphs?",
+   [
+    "Home → Paragraph → Borders and Shading",
+    "Border → Paragraphs",
+    "Paragraph → Cells",
+    "Home → Insert → Border"
+   ],
+   "A",
+   [
+    "October 2025"
+   ]
+  ],
+  [
+   "Identify the group in the Home tab where you find the Cut, Copy and Paste options.",
+   [
+    "Font",
+    "Paragraph",
+    "Editing",
+    "Clipboard"
+   ],
+   "D"
+  ],
+  [
+   "Which option is used to change the colour behind a text selection?",
+   [
+    "Font colour",
+    "Highlight colour",
+    "Shading colour",
+    "Border colour"
+   ],
+   "B"
+  ],
+  [
+   "Which of the following is NOT a way to indent text in MS Word?",
+   [
+    "Tab stops",
+    "Hanging indent",
+    "Decrease Indent button",
+    "Space bar"
+   ],
+   "D"
+  ],
+  [
+   "Give the shortcut key to reach the end of the document.",
+   [
+    "Ctrl+End",
+    "Ctrl+Home",
+    "Home",
+    "End"
+   ],
+   "A"
+  ],
+  [
+   "Which action selects an entire paragraph in a Word document?",
+   [
+    "Single click",
+    "Double click",
+    "Triple click",
+    "Shift + click"
+   ],
+   "C",
+   [
+    "October 2024"
+   ]
+  ],
+  [
+   "Which of the following is an example of a font family?",
+   [
+    "Bold",
+    "Italic",
+    "Underline",
+    "Times New Roman"
+   ],
+   "D"
+  ],
+  [
+   "What is the primary purpose of the Format Painter tool in Microsoft Word?",
+   [
+    "To change the font size",
+    "To copy formatting from one place and apply it to another",
+    "To create hyperlinks",
+    "To insert images"
+   ],
+   "B"
+  ],
+  [
+   "How can you apply formatting to multiple selections of text using the Format Painter?",
+   [
+    "Single-click the Format Painter button",
+    "Double-click the Format Painter button",
+    "Right-click the Format Painter button",
+    "Hold Ctrl and click the Format Painter button"
+   ],
+   "B"
+  ],
+  [
+   "Single line spacing causes ________ line spacing.",
+   [
+    "10-point",
+    "12-point",
+    "18-point",
+    "24-point"
+   ],
+   "B"
+  ],
+  [
+   "You can create columns of text using the ________ key.",
+   [
+    "Shift",
+    "Tab",
+    "Enter",
+    "Ctrl"
+   ],
+   "B"
+  ],
+  [
+   "By default, tab stops are set at intervals of —",
+   [
+    "0.3 inch",
+    "0.4 inch",
+    "0.5 inch",
+    "1 inch"
+   ],
+   "C",
+   [
+    "October 2024"
+   ]
+  ],
+  [
+   "The shortcut key to insert a new line without starting a new paragraph is —",
+   [
+    "Enter",
+    "Shift+Enter",
+    "Alt+Enter",
+    "Ctrl+Enter"
+   ],
+   "B"
+  ]
+ ],
+ "ar": [
+  [
+   "Bulleted lists are created in Word documents.",
+   "Bulleted lists are added to draw readers' attention to the main points of the document.",
+   "A",
+   [
+    "April 2024"
+   ]
+  ],
+  [
+   "Printed pages can have various types of margin settings.",
+   "Margins can be set using the ruler or the Page Setup dialog box, and custom margins can be set besides the defaults.",
+   "A",
+   [
+    "April 2024"
+   ]
+  ],
+  [
+   "Line spacing determines the height of text in a paragraph.",
+   "The default option is single line spacing.",
+   "B",
+   [
+    "October 2024"
+   ]
+  ],
+  [
+   "Inserting page numbers is essential for lengthy documents.",
+   "Page numbers allow easy and effective navigation and referencing within a document.",
+   "A",
+   [
+    "April 2025"
+   ]
+  ],
+  [
+   "Using bullet points for lists is preferred over long sentences.",
+   "Bullet points bring the information directly to the reader's attention and separate the list from the usual run of text.",
+   "A",
+   [
+    "April 2025"
+   ]
+  ],
+  [
+   "A page break is used to move content to the next page in MS Word.",
+   "Pressing Enter many times is the best way to start a new page in MS Word.",
+   "C",
+   [
+    "October 2025"
+   ]
+  ],
+  [
+   "Arial and Times New Roman are examples of font face families.",
+   "Font is the basic typeface in which words are displayed, and each font family has a specific way of formatting individual letters.",
+   "A",
+   [
+    "April 2026"
+   ]
+  ],
+  [
+   "The default is single line spacing, and it depends on the size of the font characters.",
+   "Line spacing determines the height of each line of text in the paragraph.",
+   "B",
+   [
+    "April 2026"
+   ]
+  ],
+  [
+   "In MS Word 2007, the entire document can be selected by choosing Select All or by pressing Ctrl+A.",
+   "Ctrl+Shift+A keys are pressed together to deselect the selected part.",
+   "C",
+   null,
+   {
+    "note": "Ctrl+Shift+A makes text ALL CAPS; you deselect by clicking elsewhere or pressing an arrow key."
+   }
+  ],
+  [
+   "The Ctrl+Z shortcut in MS Word is used to undo the last action, including the insertion of bullets or numbering.",
+   "Ctrl+Z is the undo command, which reverts the document to its previous state.",
+   "A"
+  ],
+  [
+   "Headers and footers in MS Word can only be applied to the first page of a document.",
+   "Headers and footers can be set for the first page, all pages, odd pages or even pages.",
+   "D"
+  ],
+  [
+   "In MS Word, the 'Bold' formatting option is used to make text appear larger.",
+   "Bold formatting makes text darker and thicker but does not affect its size.",
+   "D"
+  ],
+  [
+   "Headers and footers are important elements for professional document formatting.",
+   "They show information like page numbers, titles and author names consistently on all pages.",
+   "A"
+  ],
+  [
+   "In MS Word 2007, you can change the font size of the entire document at once.",
+   "The Select All function applies only to the current paragraph, not the entire document.",
+   "C"
+  ],
+  [
+   "Letter, Legal and A4 are options under paper Size in the Page Layout tab.",
+   "In MS Word 2007 there is no default setting for paper size.",
+   "C"
+  ]
+ ],
+ "tf": [
+  [
+   "Ctrl+Z undoes the last action immediately.",
+   true,
+   [
+    "April 2024"
+   ]
+  ],
+  [
+   "To centre-align text, press Ctrl+C.",
+   false,
+   [
+    "April 2024"
+   ],
+   {
+    "note": "Ctrl+E centres text; Ctrl+C copies."
+   }
+  ],
+  [
+   "Ctrl+M keys are pressed together to move the text.",
+   false,
+   [
+    "April 2024"
+   ],
+   {
+    "note": "Ctrl+M increases the indent; text is moved with Ctrl+X and Ctrl+V."
+   }
+  ],
+  [
+   "Font size is measured in metres.",
+   false,
+   [
+    "October 2024"
+   ],
+   {
+    "note": "It is measured in points (1 pt = 1/72 inch)."
+   }
+  ],
+  [
+   "Page margins cannot be changed using the ruler.",
+   false,
+   [
+    "April 2025"
+   ]
+  ],
+  [
+   "The Delete key erases the text to the right of the cursor position.",
+   true,
+   [
+    "April 2025"
+   ]
+  ],
+  [
+   "Headers and footers can contain text, page numbers, dates and images.",
+   true,
+   [
+    "October 2025"
+   ]
+  ],
+  [
+   "The 'Line and Paragraph Spacing' option is found under the Insert tab.",
+   false,
+   [
+    "October 2025"
+   ],
+   {
+    "note": "It is in the Paragraph group of the Home tab."
+   }
+  ],
+  [
+   "Bold and Italics are examples of font style.",
+   true,
+   [
+    "April 2026"
+   ]
+  ],
+  [
+   "To delete a large selection of text, highlight it and press the Shift key.",
+   false,
+   [
+    "April 2026"
+   ],
+   {
+    "note": "Highlight it and press Delete (or Backspace)."
+   }
+  ],
+  [
+   "By default, the text in a Word document is right aligned.",
+   false,
+   null,
+   {
+    "note": "It is left aligned by default."
+   }
+  ],
+  [
+   "While typing in a Word document you need not press Enter at the end of each line.",
+   true
+  ],
+  [
+   "It is not possible to change the page orientation after creating content in a Word document.",
+   false
+  ],
+  [
+   "When you reach the bottom of a page while typing, Word inserts a page break automatically.",
+   true
+  ],
+  [
+   "The 'Columns' feature in MS Word 2007 allows only two columns per page.",
+   false
+  ],
+  [
+   "Adding shading to a paragraph automatically changes its font colour.",
+   false
+  ],
+  [
+   "Headers and footers display information like page numbers, titles or dates at the top and bottom of each page.",
+   true
+  ],
+  [
+   "The Highlight Color option changes the colour behind the selected text.",
+   true
+  ],
+  [
+   "Underline is a type of font style.",
+   true
+  ],
+  [
+   "The spelling and grammar checker can be started by pressing F7.",
+   true
+  ]
+ ],
+ "fill2": [
+  [
+   "(a) A file can be saved by pressing ________. (b) For right alignment of selected text, press ________.",
+   "(a) Ctrl+S (b) Ctrl+R",
+   [
+    "April 2024"
+   ]
+  ],
+  [
+   "(a) The shortcut key for Find and Replace is ________. (b) The shortcut key for opening a file is ________.",
+   "(a) Ctrl+H (b) Ctrl+O",
+   [
+    "April 2024"
+   ]
+  ],
+  [
+   "(a) Font ________ determines the emphasis or weight of the letters when displayed. (b) ________ determines the height of each line in a paragraph.",
+   "(a) style (b) Line spacing",
+   [
+    "April 2025"
+   ]
+  ],
+  [
+   "(a) The default page orientation in MS Word is ________. (b) To add a header in a document, the ________ tab is used.",
+   "(a) Portrait (b) Insert",
+   [
+    "October 2025"
+   ]
+  ],
+  [
+   "(a) By pressing ________ keys, you can select the entire document at a time. (b) A font size is measured in ________, each 1/72 of an inch.",
+   "(a) Ctrl+A (b) points",
+   [
+    "April 2026"
+   ]
+  ],
+  [
+   "(a) The alignment that makes text even on both the left and right margins is called ________. (b) The space between the lines of a paragraph is known as ________.",
+   "(a) justified (justify) alignment (b) line spacing"
+  ],
+  [
+   "(a) To select all content in a document, press Ctrl + ________. (b) The key for deleting text towards the left of the cursor is called ________.",
+   "(a) A (b) Backspace"
+  ],
+  [
+   "(a) The shortcut key for copy is ________. (b) The shortcut key for going to the beginning of the document is ________.",
+   "(a) Ctrl+C (b) Ctrl+Home"
+  ],
+  [
+   "(a) The shortcut key for inserting a page break is ________. (b) The shortcut key for making text left aligned is ________.",
+   "(a) Ctrl+Enter (b) Ctrl+L",
+   [
+    "April 2025",
+    "October 2024"
+   ]
+  ],
+  [
+   "(a) The key used to delete text to the right of the cursor is ________. (b) The shortcut key for pasting cut text is ________.",
+   "(a) Delete (b) Ctrl+V"
+  ]
+ ],
+ "oneword": [
+  [
+   "Which font size is generally best for paragraph text?",
+   "10 to 12 points",
+   [
+    "April 2024"
+   ]
+  ],
+  [
+   "Which function key is pressed to get help?",
+   "F1",
+   [
+    "April 2024"
+   ]
+  ],
+  [
+   "A ________ is text added to the top margin of every page.",
+   "Header",
+   [
+    "October 2024"
+   ]
+  ],
+  [
+   "A ________ wavy line appears under a misspelt word.",
+   "Red",
+   [
+    "October 2024"
+   ]
+  ],
+  [
+   "In the Zoom dialog box, select the ________ option to display several pages of the document on the screen.",
+   "Many pages",
+   [
+    "April 2025"
+   ]
+  ],
+  [
+   "To change the page orientation, the ________ tab is used.",
+   "Page Layout",
+   [
+    "October 2025"
+   ]
+  ],
+  [
+   "________ is the shortcut key used in place of the Paste command.",
+   "Ctrl+V",
+   [
+    "October 2025",
+    "April 2025",
+    "October 2024"
+   ]
+  ],
+  [
+   "The default alignment of text in MS Word is ________.",
+   "Left",
+   [
+    "October 2025"
+   ]
+  ],
+  [
+   "The ________ (¶) stores the format of each paragraph; if it is deleted, the text becomes part of the next paragraph.",
+   "paragraph mark",
+   [
+    "October 2025"
+   ]
+  ],
+  [
+   "Which lists are often used to bring main points to a reader's attention?",
+   "Bulleted lists",
+   [
+    "April 2026"
+   ]
+  ],
+  [
+   "Write any one unit of measurement used for the before and after spacing of a paragraph.",
+   "Points (pt) — also inches or lines",
+   [
+    "April 2026"
+   ]
+  ],
+  [
+   "________ and ________ wavy lines are used to indicate spelling and grammar mistakes in a Word document.",
+   "Red (spelling) and green (grammar)",
+   [
+    "April 2026"
+   ]
+  ],
+  [
+   "The L icon on the ruler represents the ________ tab stop.",
+   "left",
+   [
+    "April 2026"
+   ]
+  ],
+  [
+   "The shortcut key to underline text is ________.",
+   "Ctrl+U"
+  ],
+  [
+   "The alignment that places text in the centre of the page is ________ alignment.",
+   "centre (center)"
+  ],
+  [
+   "The shortcut key used to centre a paragraph is ________.",
+   "Ctrl+E"
+  ],
+  [
+   "The first line of a paragraph can be moved inward using ________ indent.",
+   "first-line"
+  ],
+  [
+   "The space between the edge of the page and the text is called a ________.",
+   "margin"
+  ],
+  [
+   "The feature used to create a list and bring main points to a reader's attention is called ________.",
+   "bulleted (or numbered) list"
+  ],
+  [
+   "The orientation of a document can be Portrait or ________.",
+   "Landscape"
+  ],
+  [
+   "When you copy or cut text, it is stored in an area of memory called the ________.",
+   "Clipboard",
+   [
+    "April 2025",
+    "October 2024",
+    "April 2024"
+   ]
+  ],
+  [
+   "Hold down the ________ key while using the arrow keys to highlight text in MS Word.",
+   "Shift"
+  ],
+  [
+   "Font size is measured in points, where one point equals ________ of an inch.",
+   "1/72"
+  ],
+  [
+   "The ________ tab is used to add page numbers in a Word document.",
+   "Insert"
+  ],
+  [
+   "When double-clicked, the Format Painter stays active until you press the ________ key.",
+   "Esc"
+  ],
+  [
+   "You need to write the steps of a recipe. A ________ list would be most suitable.",
+   "numbered"
+  ],
+  [
+   "Name the tab that lets you adjust page margins, orientation and size in MS Word.",
+   "Page Layout"
+  ]
+ ],
+ "vsa": [
+  [
+   "What is a font face? Mention any two font families.",
+   "A font face is the basic typeface (design of letters) in which text is displayed. Each family shapes letters in its own way. Examples: Times New Roman and Arial (also Calibri, Verdana)."
+  ],
+  [
+   "Differentiate between copying text and moving text.",
+   "Copying makes a copy of the selected text and puts it in another place, leaving the original unchanged (Ctrl+C, Ctrl+V). Moving (cutting) removes the selected text from its place and inserts it in another place (Ctrl+X, Ctrl+V).",
+   null,
+   {
+    "or": [
+     "Write the steps to move a line of text from one place to another.",
+     "(1) Select the line of text. (2) Click Cut in Home → Clipboard or press Ctrl+X. (3) Place the cursor where the text should go. (4) Click Paste or press Ctrl+V. (Or drag the selection with the mouse and drop it in the new place.)"
+    ]
+   }
+  ],
+  [
+   "What are headers and footers? How do you add them?",
+   "A header is text added to the top margin of every page, such as a title or page number; a footer is text added to the bottom margin. To add: Insert tab → Header (or Footer) → choose a style → type the text → close the header/footer."
+  ],
+  [
+   "Write any two advantages of using the paragraph spacing command.",
+   "(1) Spacing before and after a paragraph does not change the size of the text, and precise adjustments can be made between headings and body text. (2) If the paragraph is moved or deleted its spacing goes with it, leaving no extra blank lines; spacing can also be included in styles."
+  ],
+  [
+   "Differentiate between inserting a page break and deleting a page break.",
+   "Inserting a page break ends a page and starts the next one before the natural end: place the cursor and choose Insert → Page Break or press Ctrl+Enter. Deleting a page break removes a manual break: select the page break line (in Normal/Draft view) and press Delete."
+  ],
+  [
+   "What is the use of the spell check feature in Word?",
+   "It finds spelling mistakes (red wavy lines) and grammar mistakes (green wavy lines). Press F7 to open the Spelling and Grammar dialog box and choose Ignore, Change, Change All or Add, so the document becomes correct without reading every word."
+  ],
+  [
+   "Differentiate between a bulleted list and a numbered list.",
+   "A bulleted list marks each item with a symbol (bullet) and is used when the order does not matter. A numbered list marks items with numbers or letters in sequence and is used when order matters, such as steps of a procedure."
+  ],
+  [
+   "Differentiate between portrait and landscape orientation of a page.",
+   "In portrait orientation (the default) the page is taller than it is wide; it is used for letters and most documents. In landscape orientation the page is wider than it is tall; it is used for wide tables, charts and certificates. Orientation is changed from Page Layout → Orientation."
+  ]
+ ],
+ "sa": [
+  [
+   "Write the steps to set the tab stops in a paragraph.",
+   "(1) Select the paragraph. (2) Click the tab selector at the left end of the horizontal ruler until the required tab type (left, centre, right or decimal) appears. (3) Click on the ruler where the tab stop is needed. Or open Home → Paragraph dialog → Tabs, type the tab stop position, choose alignment and click Set/OK. Drag a marker to move it and drag it off the ruler to clear it."
+  ],
+  [
+   "How do you set line spacing in a paragraph? What are the common line spacing values?",
+   "(1) Select the paragraph. (2) Home → Paragraph dialog launcher (or Line Spacing button). (3) In Indents and Spacing, choose Line spacing: Single, 1.5 lines, Double, etc., and click OK. Single spacing gives 12-point spacing, 1½ gives 18 points and double gives 24 points."
+  ],
+  [
+   "Write the steps to make a centre-aligned paragraph in Arial right aligned (or justified) and in Times New Roman with double line spacing.",
+   "(1) Select the paragraph (triple-click). (2) Home → Font box → choose Times New Roman. (3) Click the Align Right button (Ctrl+R) or Justify (Ctrl+J). (4) Open the Line Spacing button or Paragraph dialog and choose 2.0 (Double). (5) Click outside to deselect."
+  ],
+  [
+   "Write the steps to add page numbers to a document and start them from a chosen number.",
+   "(1) Insert tab → Page Number. (2) Choose Top of Page or Bottom of Page and a style. (3) To start from another number, choose Format Page Numbers. (4) In 'Start at', type the number. (5) Click OK."
+  ],
+  [
+   "Write the steps to create a bulleted list and change its bullet symbol.",
+   "(1) Select the paragraphs, or place the cursor where the list should begin. (2) Home tab → Paragraph group → click the Bullets button. (3) To change the symbol, click the arrow next to Bullets and choose a bullet from the Bullet Library, or choose Define New Bullet → Symbol (or Picture), select one and click OK. (4) Press Enter after each item; press Enter twice to end the list."
+  ]
+ ],
+ "la": [
+  [
+   "Explain the steps for checking spelling and grammar in a Word document.",
+   "(1) Word underlines spelling errors with red and grammar errors with green wavy lines as you type. (2) Press F7 or choose Review → Spelling & Grammar. (3) The dialog box shows the first mistake. (4) If the word is correct, click Ignore, or Ignore All if it appears many times. (5) If wrong, choose a suggestion and click Change or Change All; or type the correct word. (6) Click Add for words like your name so they are not marked again. (7) For grammar, choose a suggestion and click Change or Ignore; untick Check Grammar to skip grammar.",
+   null,
+   {
+    "or": [
+     "Explain page formatting in Word: margins, paper size, orientation and page breaks.",
+     "Margins: the space between the page edge and text; drag on the ruler or Page Layout → Margins (Normal, Narrow, Wide… or Custom). Paper size: Page Layout → Size → Letter, Legal, A4 or More Paper Sizes. Orientation: Page Layout → Orientation → Portrait or Landscape; it can be applied to selected pages. Page breaks: Word adds them automatically; insert one with Ctrl+Enter or Insert → Page Break; delete by selecting the break and pressing Delete."
+    ]
+   }
+  ],
+  [
+   "How do you create and format bulleted and numbered lists in Word?",
+   "(1) Click the Bullets or Numbering button on the Home tab. (2) Type the first item and press Enter for the next. (3) Press Shift+Enter for a new line without a bullet; press Enter twice to end the list. (4) Use Increase Indent to make a nested list. (5) Or type the text first, select it and click Bullets/Numbering. (6) To change the style, select the list, right-click → Bullets or Numbering (or Home → Paragraph) and choose a symbol, picture or number format, then click OK."
+  ]
+ ]
+}

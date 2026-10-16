@@ -1,0 +1,352 @@
+{
+  "subject": "sr-deo",
+  "lesson": 903,
+  "title": "Model Question Paper 3",
+  "meta": "Time: 2 hours · Maximum marks: 40 · Modelled on the April 2026 NIOS paper (336)",
+  "instructions": [
+    "All questions are compulsory. Where a question has OR, answer either one.",
+    "Section A: questions 1–7 are MCQs (1 mark each); questions 8–10 have two parts of 1 mark each (assertion–reason, true/false, fill in the blanks); questions 11–17 carry 1 mark each.",
+    "Section B: questions 18–19 carry 2 marks (30–50 words), 20–23 carry 3 marks (50–80 words) and 24 carries 4 marks (80–120 words).",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "7 × 1 = 7",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "Logic and comparison operations are performed in the ________ unit of a computer.",
+          "options": [
+            "ALU",
+            "CU",
+            "Memory",
+            "Input"
+          ],
+          "answer": "A",
+          "note": "Lesson 1."
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "Identify the group in the Home tab where you find the Cut, Copy and Paste options.",
+          "options": [
+            "Font",
+            "Paragraph",
+            "Editing",
+            "Clipboard"
+          ],
+          "answer": "D",
+          "note": "Lesson 4."
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "A data source created with the Mail Merge Wizard is saved with the extension —",
+          "options": [
+            ".docx",
+            ".mdb",
+            ".xlsx",
+            ".pptx"
+          ],
+          "answer": "B",
+          "note": "Lesson 5."
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "A formula in MS Excel starts with the ________ sign.",
+          "options": [
+            "@",
+            "#",
+            "*",
+            "="
+          ],
+          "answer": "D",
+          "note": "Lesson 8."
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "Which of the following is NOT a PowerPoint view?",
+          "options": [
+            "Normal",
+            "Slide Sorter",
+            "Slide Show",
+            "Content"
+          ],
+          "answer": "D",
+          "years": [
+            "October 2024"
+          ],
+          "note": "Lesson 9."
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "The basic purpose of any presentation is —",
+          "options": [
+            "communication",
+            "appreciation",
+            "comparison",
+            "calculation"
+          ],
+          "answer": "A",
+          "note": "Lesson 9."
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "Which device does the ISP place at your site in a leased-line connection to connect your local network to the Internet?",
+          "options": [
+            "Printer",
+            "Router",
+            "Scanner",
+            "Plotter"
+          ],
+          "answer": "B",
+          "note": "Lesson 10."
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Assertion (A) and Reason (R): choose the correct option.",
+      "marks": "2 × 1 = 2",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "mcq",
+          "q": "Assertion (A): In MS Word 2007, you can change the font size of the entire document at once. — Reason (R): The Select All function applies only to the current paragraph, not the entire document.",
+          "options": [
+            "Both A and R are true and R is the correct explanation of A.",
+            "Both A and R are true but R is not the correct explanation of A.",
+            "A is true but R is false.",
+            "A is false but R is true."
+          ],
+          "answer": "C",
+          "fixed": true,
+          "note": "Lesson 4."
+        },
+        {
+          "id": "2.2",
+          "type": "mcq",
+          "q": "Assertion (A): The merge document is the same as the main document. — Reason (R): The merge document is produced by combining the main document with the data source.",
+          "options": [
+            "Both A and R are true and R is the correct explanation of A.",
+            "Both A and R are true but R is not the correct explanation of A.",
+            "A is true but R is false.",
+            "A is false but R is true."
+          ],
+          "answer": "D",
+          "fixed": true,
+          "note": "Lesson 5."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "State True or False.",
+      "marks": "2 × 1 = 2",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "mcq",
+          "q": "When you reach the bottom of a page while typing, Word inserts a page break automatically.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "fixed": true,
+          "note": "Lesson 4."
+        },
+        {
+          "id": "3.2",
+          "type": "mcq",
+          "q": "A data source can be created by typing a table in Word.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "fixed": true,
+          "note": "Lesson 5."
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Fill in the blanks.",
+      "marks": "1 × 2 = 2",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "(a) A font size of ________ points or larger is recommended for slides. (b) The bar below the title bar in PowerPoint 2007 is called the ________.",
+          "answer": "(a) 24 (b) Ribbon",
+          "note": "Lesson 9."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Fill in the blank or answer in one word.",
+      "marks": "7 × 1 = 7",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "A ________ printer produces images by pushing electrically heated pins against heat-sensitive paper.",
+          "answer": "Thermal",
+          "years": [
+            "October 2024"
+          ],
+          "note": "Lesson 1."
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "The feature used to create a list and bring main points to a reader's attention is called ________.",
+          "answer": "bulleted (or numbered) list",
+          "note": "Lesson 4."
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "To print merged labels, click Finish & Merge and then ________.",
+          "answer": "Print Documents",
+          "note": "Lesson 5."
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "Which function would you use to calculate the minimum of a range of numbers?",
+          "answer": "MIN()",
+          "note": "Lesson 8."
+        },
+        {
+          "id": "5.5",
+          "type": "open",
+          "q": "The Print What option that prints several slides on each page is ________.",
+          "answer": "Handouts",
+          "note": "Lesson 9."
+        },
+        {
+          "id": "5.6",
+          "type": "open",
+          "q": "A ________ is the slide used as a starting point (template) for all other slides of a presentation.",
+          "answer": "Slide Master",
+          "years": [
+            "October 2024"
+          ],
+          "note": "Lesson 9."
+        },
+        {
+          "id": "5.7",
+          "type": "open",
+          "q": ".gov is the domain code used for ________ organisations.",
+          "answer": "government",
+          "years": [
+            "April 2018"
+          ],
+          "note": "Lesson 10."
+        }
+      ]
+    },
+    {
+      "no": 6,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "2 × 2 = 4",
+      "questions": [
+        {
+          "id": "6.1",
+          "type": "open",
+          "q": "Write in brief about the dot matrix printer.",
+          "answer": "In a dot matrix printer the print head hits the paper through an ink ribbon and forms characters and images with combinations of dots. It is cheap and versatile, but noisy, slow and of lower print quality. Its speed is measured in characters per second (CPS).",
+          "note": "Lesson 1."
+        },
+        {
+          "id": "6.2",
+          "type": "open",
+          "q": "Name (a) the electromechanical hand-held device used as a pointer; (b) the device designed to produce large drawings or images.",
+          "answer": "(a) Mouse (b) Plotter",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Lesson 1."
+        }
+      ]
+    },
+    {
+      "no": 7,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "4 × 3 = 12",
+      "questions": [
+        {
+          "id": "7.1",
+          "type": "open",
+          "q": "Name the following: (a) a low-level language in which programs are written as 0s and 1s; (b) system software programs that bridge the gap between the functionality of the operating system and users' needs; (c) an electromechanical hand-held input device used as a pointer.",
+          "answer": "(a) Machine language (b) Utility programs (utilities) (c) Mouse",
+          "years": [
+            "April 2026"
+          ],
+          "or": {
+            "q": "Name the following: (a) the process of entering data and programs into the computer; (b) a high-level language developed for solving mathematical and scientific problems; (c) an output device that produces hard copy.",
+            "answer": "(a) Input (b) FORTRAN (c) Printer"
+          },
+          "note": "Lesson 1."
+        },
+        {
+          "id": "7.2",
+          "type": "open",
+          "q": "Write the steps to create a data source using an Excel worksheet.",
+          "answer": "(1) Start Excel and open a worksheet. (2) Type the field names in the first row. (3) Type the records from the second row. (4) Save the worksheet; it can be selected through 'Use an existing list'. (5) Or select the data, copy it, paste it into a new Word document as a table and save it.",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Lesson 5."
+        },
+        {
+          "id": "7.3",
+          "type": "open",
+          "q": "ABC School wants to send annual-day invitations to parents whose names and addresses are in an Excel file. Explain the steps to merge the Excel file with the Word letter.",
+          "answer": "(1) Type the invitation in Word (main document). (2) Mailings → Start Mail Merge → Letters. (3) Select Recipients → Use Existing List → choose the Excel file and sheet. (4) Insert merge fields (Address Block, Greeting Line or individual fields) where names and addresses should appear. (5) Preview Results to check the letters. (6) Finish & Merge → Print Documents (or Edit Individual Documents).",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 5."
+        },
+        {
+          "id": "7.4",
+          "type": "open",
+          "q": "Expand (any three): IP, KBPS, HTTP, CC.",
+          "answer": "IP — Internet Protocol; KBPS — Kilobits per second; HTTP — Hypertext Transfer Protocol; CC — Carbon Copy.",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Lesson 10."
+        }
+      ]
+    },
+    {
+      "no": 8,
+      "title": "Long answer question. Answer in 80–120 words.",
+      "marks": "1 × 4 = 4",
+      "questions": [
+        {
+          "id": "8.1",
+          "type": "open",
+          "q": "(a) Differentiate between a web server and a web browser, with an example of each. (b) Explain the role of 'Cc' and 'Bcc' while composing an e-mail.",
+          "answer": "(a) A web server is a computer that stores web pages and serves them in response to users' requests, e.g. Apache, IIS. A web browser is the software on the user's computer that requests and displays web pages, e.g. Internet Explorer, Chrome.\n(b) Cc (carbon copy) sends a copy to other people; all recipients can see who received it. Bcc (blind carbon copy) also sends a copy, but Bcc addresses are hidden from the To, Cc and other Bcc recipients.",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 10."
+        }
+      ]
+    }
+  ]
+}

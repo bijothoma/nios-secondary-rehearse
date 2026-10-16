@@ -1,0 +1,645 @@
+{
+ "lesson": 1,
+ "title": "Basics of Computer",
+ "summary": [
+  "## What is a computer?",
+  "A computer is a device that transforms data into meaningful information. It can accept data, store data, process data as desired, retrieve stored data when required and print the result in the desired format. Its major characteristics are high speed, accuracy, diligence, versatility and storage. Computer components are of two kinds: hardware (the machine and its connected devices) and software (the programs that make the hardware work).",
+  "## Computer organisation",
+  "Every computer performs five basic operations: input, storage, processing, output and control (the Input–Process–Output cycle). (1) Input unit — enters data and programs into the computer. (2) Control Unit (CU) — supervises input, output, processing and storage; decides when to start and stop receiving data and where to store it; takes care of step-by-step processing. (3) Memory unit — stores data and instructions. (4) Arithmetic Logic Unit (ALU) — performs addition, subtraction, multiplication, division, logic and comparison. (5) Output unit — produces results from the data as useful information. The ALU and CU together form the Central Processing Unit (CPU), the 'brain' of the computer.",
+  "## Peripheral devices",
+  "Peripheral devices are connected to the computer externally to perform specific functions: input devices, output devices and other peripherals.",
+  "Input devices accept data and instructions from the user. Keyboard — the most common input device; the usual layout is QWERTY and a standard keyboard has 104 keys (cursor keys are duplicated on the numeric pad). Mouse — an electro-mechanical hand-held pointing device used to select menu commands, move icons, resize windows, start programs ('point and click'); older mice use a ball, newer ones are optical/laser. Light pen — a light-sensitive pointer used to select objects by pointing directly at the screen. Optical scanner — automatic data collection that removes manual input; a bar-code reader is a special image scanner; an OCR (Optical Character Recognition) device, used by banks, converts a scanned printed page into editable text. Touch screen — input given by touching buttons on the screen. Microphone — takes voice as input; desktop and hand-held types. Track ball — a 'mouse lying on its back'; the ball is rolled with the thumb or fingers; it is stationary, needs little space and is popular on portable computers.",
+  "Output devices return processed data (information) to the user. Monitor (Visual Display Unit) — the most important output device. CRT (Cathode Ray Tube) monitors use a large vacuum tube like an old TV; LCD (Liquid Crystal Display) monitors are flat panel monitors and are popular today. Resolution is measured in pixels (800 × 600, 1024 × 768, 1280 × 1024).",
+  "Printers give a hard copy (printout). Laser printer — high quality, very fast and quiet, used in publishing; up to 200 pages per minute in black and white and 100 in colour. Ink-jet printer — sprays ink through up to 64 tiny nozzles; good quality, quiet, not very fast; costs about half a laser printer. Dot matrix printer — the print head hits the paper through a ribbon and forms characters with dots; cheap and versatile but noisy, slow and lower quality; speed is measured in characters per second (CPS). Line printer — used with large computers for text reports; 100 to 3800 lines per minute.",
+  "Plotter — produces large drawings such as building plans and machine blueprints using coloured pens moved by a robotic arm; it draws curves as many short straight lines. Two designs: flat bed (small, kept on a table, limited paper size) and drum (big, uses rolls of paper of unlimited length). Speakers — output devices that let you listen to music and voice.",
+  "## Software",
+  "A program is a set of instructions given in a particular sequence; software is a set of programs that makes the hardware perform tasks in a particular order. Software is of two main types: system software and application software.",
+  "System software runs the computer, controls its operations and manages its resources. When the computer is switched on, the programs stored in ROM are executed and make the computer ready to work — this set of programs is system software. The operating system (OS) is system software that provides an interface between the user and the computer, manages hardware devices and disk file systems and supports application programs; examples are UNIX, Windows and Linux. Utilities are system software that bridge the gap between the OS and users' needs — compress (zip)/uncompress files, antivirus, split and join files.",
+  "Application software is a set of programs written for specific tasks, such as a library information system or a student information system. (a) Generalized packages are user-friendly software for general needs: word processing (WordPerfect, MS-Word, OpenOffice.org Writer), spreadsheets (Lotus Smart Suite, MS-Excel, OpenOffice.org Calc, Apple Numbers), presentations (MS-PowerPoint, OpenOffice.org Impress), databases (MS-Access, MS-SQL Server, ORACLE) and graphics (Paint Shop Pro, Adobe Photoshop). (b) Customized packages are developed for the specific needs of an organisation, such as payroll, inventory control or student details, using high-level languages.",
+  "## Computer languages",
+  "Every computer language has rules called its SYNTAX. Low-level languages are close to the machine: (a) machine language — 0s and 1s (binary), understood directly by the computer, machine dependent and difficult to write; (b) assembly language — uses symbolic codes called mnemonics instead of 0s and 1s; easier than machine language but still machine dependent.",
+  "High-level languages use English-like statements, are machine independent and easy to program: BASIC (Beginners All-purpose Symbolic Instruction Code — easy, general purpose), COBOL (Common Business Oriented Language — commercial applications), FORTRAN (Formula Translation — mathematical and scientific problems), C (structured programming for all purposes) and C++ (object-oriented, general purpose).",
+  "## Compiler and assembler",
+  "A compiler is software that reads a program written in a high-level language and translates it into an equivalent machine-language program. The programmer's program is called the source program and the translated program produced by the compiler is the object program. An assembler translates a program written in assembly language into machine language."
+ ],
+ "mcq": [
+  [
+   "Logic and comparison operations are performed in the ________ unit of a computer.",
+   [
+    "ALU",
+    "CU",
+    "Memory",
+    "Input"
+   ],
+   "A"
+  ],
+  [
+   "Which of the following devices are connected to the computer externally?",
+   [
+    "CPU",
+    "Peripheral devices",
+    "CU",
+    "RAM"
+   ],
+   "B"
+  ],
+  [
+   "A touch screen is an ________ device.",
+   [
+    "input",
+    "output",
+    "storage",
+    "processing"
+   ],
+   "A"
+  ],
+  [
+   "Which of the following is an example of system software?",
+   [
+    "MS Word",
+    "ORACLE",
+    "Windows",
+    "Adobe Photoshop"
+   ],
+   "C"
+  ],
+  [
+   "Which of the following best describes customized packages?",
+   [
+    "Pre-installed software for general use",
+    "Applications developed to meet specific organisational needs",
+    "System software used for hardware management",
+    "Default applications in an operating system"
+   ],
+   "B"
+  ],
+  [
+   "Select the odd one out.",
+   [
+    "Compress (zip) files software",
+    "Anti-virus software",
+    "Join files software",
+    "Windows software"
+   ],
+   "D",
+   null,
+   {
+    "note": "The other three are utility programs; Windows is an operating system."
+   }
+  ],
+  [
+   "Which of the following is considered an important feature of a trackball?",
+   [
+    "Output device",
+    "Pointing device",
+    "Storage device",
+    "Display device"
+   ],
+   "B"
+  ],
+  [
+   "The ALU and CU of a computer are jointly known as the —",
+   [
+    "RAM",
+    "ROM",
+    "CPU",
+    "Monitor"
+   ],
+   "C"
+  ],
+  [
+   "The speed of a dot matrix printer is measured in —",
+   [
+    "pages per minute",
+    "lines per minute",
+    "characters per second",
+    "dots per inch"
+   ],
+   "C"
+  ],
+  [
+   "Flat bed and drum are two types of —",
+   [
+    "printers",
+    "plotters",
+    "monitors",
+    "scanners"
+   ],
+   "B"
+  ],
+  [
+   "Which language is used mainly for solving mathematical and scientific problems?",
+   [
+    "COBOL",
+    "FORTRAN",
+    "BASIC",
+    "C++"
+   ],
+   "B"
+  ],
+  [
+   "The software that translates a high-level language program into machine language is called a —",
+   [
+    "compiler",
+    "assembler",
+    "operating system",
+    "utility"
+   ],
+   "A"
+  ],
+  [
+   "Which of these is an example of a customized package?",
+   [
+    "MS-Excel",
+    "Payroll package",
+    "MS-PowerPoint",
+    "Adobe Photoshop"
+   ],
+   "B"
+  ],
+  [
+   "Symbolic codes called mnemonics are used in —",
+   [
+    "machine language",
+    "assembly language",
+    "high-level language",
+    "natural language"
+   ],
+   "B"
+  ]
+ ],
+ "ar": [
+  [
+   "ORACLE is a user-friendly generalised package used for database management.",
+   "Generalised and customised packages are the two types of application software.",
+   "B",
+   [
+    "April 2024"
+   ]
+  ],
+  [
+   "The operating system is system software.",
+   "System software consists of the programs responsible for running the computer and controlling its operations.",
+   "A",
+   [
+    "April 2024"
+   ]
+  ],
+  [
+   "A bar-code reader is an image scanner.",
+   "An image scanner translates printed images into an electronic format that can be stored in the computer's memory.",
+   "A",
+   [
+    "October 2024"
+   ]
+  ],
+  [
+   "Zip/unzip and anti-virus software are utility programs.",
+   "Utility programs bridge the gap between the functionality of an operating system and the needs of users.",
+   "A",
+   [
+    "October 2025"
+   ]
+  ],
+  [
+   "Input devices are used to enter data into the computer.",
+   "Keyboard and mouse are input devices.",
+   "B"
+  ],
+  [
+   "A keyboard is an input device.",
+   "It is used to type letters, numbers and symbols.",
+   "A"
+  ],
+  [
+   "A computer follows the Input–Process–Output (IPO) cycle.",
+   "A computer receives data, processes it and then produces information as output.",
+   "A"
+  ],
+  [
+   "Printer is an output device.",
+   "A printer prints a hard copy of the document created in the computer.",
+   "A"
+  ],
+  [
+   "Assembly language is easier to program than machine language.",
+   "Assembly language is machine independent.",
+   "C"
+  ]
+ ],
+ "tf": [
+  [
+   "A standard QWERTY keyboard generally has 104 keys.",
+   true,
+   [
+    "October 2021"
+   ]
+  ],
+  [
+   "Assembly language and machine language are also called low-level languages.",
+   true,
+   [
+    "April 2018"
+   ]
+  ],
+  [
+   "An operating system is application software.",
+   false,
+   [
+    "October 2016"
+   ]
+  ],
+  [
+   "OCR stands for Optical Character Reader.",
+   false,
+   [
+    "October 2016"
+   ],
+   {
+    "note": "OCR is Optical Character Recognition."
+   }
+  ],
+  [
+   "The computer language FORTRAN is used to solve scientific and mathematical problems.",
+   true,
+   [
+    "October 2016",
+    "April 2017"
+   ]
+  ],
+  [
+   "Speakers are used to hear sound from the computer.",
+   true
+  ],
+  [
+   "A monitor displays text, pictures and videos.",
+   true
+  ],
+  [
+   "System software manages the hardware and basic system operations.",
+   true
+  ],
+  [
+   "An antivirus program is considered system software.",
+   true,
+   null,
+   {
+    "note": "Antivirus is a utility program, and utilities are a type of system software."
+   }
+  ],
+  [
+   "A mouse is an output device.",
+   false
+  ],
+  [
+   "CRT monitors are flat panel monitors.",
+   false,
+   null,
+   {
+    "note": "LCD monitors are flat panel monitors; CRT monitors use a large vacuum tube."
+   }
+  ],
+  [
+   "The program written by the programmer in a high-level language is called the object program.",
+   false,
+   null,
+   {
+    "note": "It is the source program; the compiler produces the object program."
+   }
+  ],
+  [
+   "C is an object-oriented programming language.",
+   false,
+   null,
+   {
+    "note": "C is a structured language; C++ is object-oriented."
+   }
+  ]
+ ],
+ "fill2": [
+  [
+   "(a) The ________ unit stores data and instructions. (b) Output devices return processed data, that is ________, to the user.",
+   "(a) Memory (b) information"
+  ],
+  [
+   "(a) A standard keyboard generally has ________ keys. (b) The most common keyboard layout is the ________ keyboard.",
+   "(a) 104 (b) QWERTY"
+  ],
+  [
+   "(a) The program generated by the compiler after translation is called the ________ program. (b) Every computer language is bound by rules known as its ________.",
+   "(a) object (b) syntax"
+  ]
+ ],
+ "oneword": [
+  [
+   "________ language is understood directly by the computer.",
+   "Machine",
+   [
+    "October 2021"
+   ]
+  ],
+  [
+   "All calculations in a computer are performed by the ________ in the CPU.",
+   "ALU (Arithmetic Logic Unit)",
+   [
+    "April 2018"
+   ]
+  ],
+  [
+   "A ________ printer produces images by pushing electrically heated pins against heat-sensitive paper.",
+   "Thermal",
+   [
+    "October 2024"
+   ]
+  ],
+  [
+   "The part of the CPU that performs mathematical operations is called the ________.",
+   "ALU (Arithmetic Logic Unit)",
+   [
+    "October 2025"
+   ]
+  ],
+  [
+   "The set of programs in ROM which are executed when a computer is switched on and which activate its different units is called ________.",
+   "System software"
+  ],
+  [
+   "________ is an input device that moves the pointer and selects objects by pointing directly at the screen with a pen.",
+   "Light pen"
+  ],
+  [
+   "________ type of monitors use a large vacuum tube.",
+   "CRT (Cathode Ray Tube)"
+  ],
+  [
+   "Software is a set of ________ used to operate computers and perform specific tasks.",
+   "programs"
+  ],
+  [
+   "Symbolic codes or mnemonics are used in ________ language to improve programming structure.",
+   "assembly"
+  ],
+  [
+   "________ printers are used in publishing because they give high-quality, fast and quiet printing.",
+   "Laser"
+  ],
+  [
+   "The device used by banks to convert a scanned printed page into editable text is called ________.",
+   "OCR (Optical Character Recognition) device"
+  ],
+  [
+   "________ printers spray tiny drops of ink onto the paper to print.",
+   "Inkjet"
+  ]
+ ],
+ "vsa": [
+  [
+   "Name (a) the electromechanical hand-held device used as a pointer; (b) the device designed to produce large drawings or images.",
+   "(a) Mouse (b) Plotter",
+   [
+    "April 2024"
+   ]
+  ],
+  [
+   "Explain the importance of high-level languages. Give two examples used for programming today.",
+   "High-level languages are close to English, easy to learn, write and correct, and machine-independent, so programs can run on different computers. Examples: C++, Java (also Python, BASIC).",
+   [
+    "April 2024"
+   ],
+   {
+    "or": [
+     "What is application software? How is it classified?",
+     "Application software is a set of programs written to do a specific task for the user. It is classified as generalised packages (e.g. Word, Excel, Oracle) and customised packages (made for one organisation, e.g. payroll, student management)."
+    ]
+   }
+  ],
+  [
+   "Name (a) the printer that forms text from a combination of dots; (b) the printer type that is extremely fast, quiet and has automatic paper loading.",
+   "(a) Dot matrix printer (b) Laser printer",
+   [
+    "October 2024"
+   ]
+  ],
+  [
+   "What is the difference between a compiler and an assembler?",
+   "A compiler translates a whole program written in a high-level language into machine language (object program). An assembler translates a program written in assembly language (mnemonics) into machine language.",
+   [
+    "October 2024"
+   ],
+   {
+    "or": [
+     "What is a high-level language? Give at least two examples.",
+     "A high-level language is close to English, easy to learn and machine-independent; it is translated into machine language by a compiler or interpreter. Examples: BASIC, FORTRAN, C, C++, Java."
+    ]
+   }
+  ],
+  [
+   "What is a computer? Name two input devices.",
+   "A computer is an electronic device that accepts data, processes it as instructed, stores it and gives meaningful information as output. Input devices: keyboard and mouse.",
+   [
+    "April 2025"
+   ],
+   {
+    "or": [
+     "Define operating system. Give two examples.",
+     "An operating system is system software that manages the computer's hardware and software and provides an interface between the user and the computer. Examples: Windows, Linux (also UNIX, macOS)."
+    ]
+   }
+  ],
+  [
+   "Explain the two types of application software, with an example of each.",
+   "Generalised packages are ready-made, user-friendly programs for common needs, e.g. MS Word, Excel, Oracle. Customised packages are made for the specific needs of an organisation, e.g. a student management system or railway reservation system.",
+   [
+    "October 2025"
+   ]
+  ],
+  [
+   "Identify: (a) a hand-held device for point, click, drag and drop; (b) a device that converts printed images to an electronic format; (c) a device used by banks to turn a scanned printed page into editable text; (d) a fast, quiet, high-quality printer that can print up to 200 pages per minute.",
+   "(a) Mouse (b) Image (optical) scanner (c) OCR device (d) Laser printer",
+   [
+    "October 2025"
+   ]
+  ],
+  [
+   "Name (a) an input device that takes voice as input; (b) an input device that accepts input through touching electronic buttons displayed on the screen.",
+   "(a) Microphone (b) Touch screen",
+   [
+    "April 2026"
+   ]
+  ],
+  [
+   "What is the difference between a generalised package and a customised package?",
+   "A generalised package is ready-made, user-friendly software for common needs that anyone can buy, e.g. word processors, spreadsheets, DBMS. A customised package is developed to meet the specific needs of one organisation, e.g. a student management system or payroll for a company.",
+   [
+    "April 2026"
+   ],
+   {
+    "or": [
+     "Define the memory system of a computer and give one example of each type of memory.",
+     "The memory system stores data and instructions. Primary (main) memory is accessed directly by the CPU, e.g. RAM (and ROM). Secondary memory stores data permanently, e.g. hard disk, CD/DVD, pen drive."
+    ]
+   }
+  ],
+  [
+   "What is a memory unit? What does it do?",
+   "The memory unit is the part of the computer that stores data and instructions. It holds the data before and after processing so that the CPU can use it, and results can be retrieved whenever required."
+  ],
+  [
+   "What is computer organisation?",
+   "Computer organisation is the way the parts of a computer are arranged to work together. A computer has an input unit, a memory unit, a control unit, an arithmetic logic unit and an output unit; it accepts input, stores and processes it under the control unit and gives output."
+  ],
+  [
+   "What are hardware and software?",
+   "Hardware is the physical machine and its connected devices, such as the monitor, keyboard and mouse. Software is a set of programs that makes the hardware perform tasks in a particular order, for example Windows or MS-Word.",
+   null,
+   {
+    "or": [
+     "What is the function of a mouse?",
+     "A mouse is a hand-held pointing device. It moves the pointer on the screen and is used to select menu commands, move icons, resize windows, start programs and choose options by 'point and click'."
+    ]
+   }
+  ],
+  [
+   "Give the difference between a mouse and a track ball.",
+   "A mouse is moved across a flat surface to move the pointer. A track ball is like a mouse lying on its back: it stays still and the ball is rolled with the thumb or fingers, so it needs little space and can be used on any surface — popular on portable computers.",
+   null,
+   {
+    "or": [
+     "Differentiate between a plotter and a printer.",
+     "A printer gives hard copies of documents and pictures on normal paper sizes. A plotter is designed to draw large drawings such as building plans and blueprints using pens moved by a robotic arm; it draws curves as many short straight lines."
+    ]
+   }
+  ],
+  [
+   "What are utility software? Give examples.",
+   "Utilities are system software that bridge the gap between the operating system and the needs of users. Examples: compress (zip)/uncompress (unzip) software, antivirus software, and split and join files software."
+  ],
+  [
+   "What are the programs stored in ROM known as? When are they executed?",
+   "They are system software. They are executed when the computer is switched on; they activate the different units of the computer and make it ready for use."
+  ],
+  [
+   "Write in brief about the dot matrix printer.",
+   "In a dot matrix printer the print head hits the paper through an ink ribbon and forms characters and images with combinations of dots. It is cheap and versatile, but noisy, slow and of lower print quality. Its speed is measured in characters per second (CPS)."
+  ],
+  [
+   "What is a plotter? Name its two types.",
+   "A plotter is an output device that produces large drawings or images, such as building plans and machine blueprints, using coloured pens moved by a robotic arm. Its two types are flat bed plotters and drum plotters.",
+   [
+    "April 2025",
+    "April 2024"
+   ]
+  ]
+ ],
+ "sa": [
+  [
+   "Write the names of any two graphic tools and any one DBMS program.",
+   "Graphic tools: Paint Shop Pro, Adobe Photoshop (also CorelDRAW). DBMS: MS Access (or Oracle).",
+   [
+    "April 2024"
+   ],
+   {
+    "or": [
+     "Write the names of any three types of printers.",
+     "Dot matrix printer, inkjet printer, laser printer (also line and thermal printers)."
+    ]
+   }
+  ],
+  [
+   "Write the names of any three commonly used generalised packages.",
+   "Word processor (MS Word), spreadsheet (MS Excel), presentation (PowerPoint) — also DBMS such as MS Access or Oracle, graphics tools such as Paint Shop Pro.",
+   [
+    "October 2024"
+   ],
+   {
+    "or": [
+     "Write the names of any three Database Management System (DBMS) programs.",
+     "MS Access, Oracle, MS SQL Server (also MySQL, FoxPro)."
+    ]
+   }
+  ],
+  [
+   "Name the following: (a) software that reads a high-level language program and translates it into machine language; (b) a low-level language that uses mnemonics; (c) a popular high-level object-oriented programming language.",
+   "(a) Compiler (b) Assembly language (c) C++ (or Java)",
+   [
+    "April 2025"
+   ],
+   {
+    "or": [
+     "Name the following: (a) the rules by which every computer language is bound; (b) the program generated by the compiler; (c) the language directly understood by the computer.",
+     "(a) Syntax (b) Object program (c) Machine language"
+    ]
+   }
+  ],
+  [
+   "Explain system software and its types.",
+   "System software is the set of programs that run and control the computer and its operations. Types: (1) Operating system — manages hardware and runs programs, e.g. Windows, Linux. (2) Language translators — compiler, interpreter and assembler convert programs into machine language. (3) Utility programs — help the user and OS, e.g. anti-virus, zip/unzip, disk cleanup.",
+   [
+    "October 2025"
+   ],
+   {
+    "or": [
+     "What are low-level languages? Explain their types.",
+     "Low-level languages are close to the machine. (1) Machine language — written in 0s and 1s, directly understood by the computer, fast but hard to write and machine-dependent. (2) Assembly language — uses symbolic codes (mnemonics) such as ADD, MOV; easier than machine language and translated by an assembler."
+    ]
+   }
+  ],
+  [
+   "Name the following: (a) a low-level language in which programs are written as 0s and 1s; (b) system software programs that bridge the gap between the functionality of the operating system and users' needs; (c) an electromechanical hand-held input device used as a pointer.",
+   "(a) Machine language (b) Utility programs (utilities) (c) Mouse",
+   [
+    "April 2026"
+   ],
+   {
+    "or": [
+     "Name the following: (a) the process of entering data and programs into the computer; (b) a high-level language developed for solving mathematical and scientific problems; (c) an output device that produces hard copy.",
+     "(a) Input (b) FORTRAN (c) Printer"
+    ]
+   }
+  ],
+  [
+   "What is a keyboard? Describe its various types of keys.",
+   "A keyboard is the most common input device, used to type letters, numbers and symbols; the common layout is QWERTY with about 104 keys. Types of keys: (1) alphanumeric (typing) keys — letters, numbers and symbols; (2) function keys F1–F12 for special tasks; (3) cursor control (arrow) keys plus Home, End, Page Up and Page Down; (4) the numeric keypad; (5) special keys such as Enter, Shift, Ctrl, Alt, Tab, Backspace, Delete and Esc."
+  ],
+  [
+   "What is the difference between system software and application software? Give examples.",
+   "System software runs and controls the computer and manages its resources; it works in the background and supports other programs — e.g. operating systems (Windows, Linux, UNIX) and utilities (antivirus, zip). Application software is written to do a specific task for the user — e.g. MS-Word for documents, MS-Excel for calculations, or a payroll package. Application software needs system software to run.",
+   null,
+   {
+    "or": [
+     "Differentiate between low-level and high-level languages with examples.",
+     "Low-level languages are close to the machine: machine language (0s and 1s) and assembly language (mnemonics). They are machine dependent and hard to learn. High-level languages use English-like statements, are machine independent and easy to program, e.g. BASIC, COBOL, FORTRAN, C and C++. High-level programs need a compiler to be translated into machine language."
+    ]
+   }
+  ],
+  [
+   "What are compilers? Why are they needed? What are the programs before and after translation called?",
+   "A compiler is software that reads a program written in a high-level language and translates it into an equivalent program in machine language. It is needed because the computer understands only machine language (0s and 1s). The program written by the programmer is the source program; the program produced after translation is the object program."
+  ],
+  [
+   "What is application software? Explain its types with examples.",
+   "Application software is a set of programs written to perform specific tasks for users. (1) Generalized packages cater to general needs: word processing (MS-Word), spreadsheets (MS-Excel), presentations (PowerPoint), databases (MS-Access, ORACLE) and graphics (Adobe Photoshop). (2) Customized packages are developed for the specific needs of an organisation, such as payroll, inventory control or student information systems."
+  ],
+  [
+   "What are optical scanners? Briefly describe bar-code readers and OCR devices.",
+   "Optical scanners collect data automatically and remove manual typing; an image scanner translates printed images into electronic form that can be stored and edited. A bar-code reader is a special scanner that reads bar codes on products. An OCR (Optical Character Recognition) device, used by banks, converts the scanned image of a typed or printed page into text that can be edited."
+  ]
+ ],
+ "la": [
+  [
+   "What is a computer? Draw/describe the block diagram of a computer and explain the functions of its units.",
+   "A computer is a device that transforms data into meaningful information; it accepts, stores, processes and retrieves data and gives results. Block diagram: Input unit → Memory unit ↔ ALU, all under the Control Unit → Output unit. (1) Input unit — enters data and instructions (keyboard, mouse). (2) Memory unit — stores data and instructions. (3) ALU — arithmetic (add, subtract, multiply, divide), logic and comparison. (4) Control Unit — supervises all operations step by step; decides when to start and stop receiving data and where to store it. (5) Output unit — gives the results as useful information (monitor, printer). ALU + CU = CPU, the brain of the computer.",
+   null,
+   {
+    "or": [
+     "What is an input device? Describe any four input devices.",
+     "Input devices accept data and instructions from the user. (1) Keyboard — the most common, QWERTY layout, about 104 keys. (2) Mouse — hand-held pointing device to select, move and open items by point and click. (3) Light pen — selects objects by pointing directly at the screen. (4) Scanner — converts printed pages and pictures into electronic form; bar-code readers and OCR are scanners. Also touch screen, microphone and track ball."
+    ]
+   }
+  ],
+  [
+   "What is software? Discuss its categories.",
+   "Software is a set of programs that makes the hardware perform tasks in a particular order. (1) System software runs the computer and manages its resources: the operating system (Windows, Linux, UNIX) provides the user interface and manages hardware and files; utilities (antivirus, zip, split/join) fill the gap between the OS and users' needs. (2) Application software does specific jobs: generalized packages (MS-Word, MS-Excel, PowerPoint, MS-Access, Photoshop) and customized packages made for an organisation (payroll, inventory, student information). Software is written in computer languages and translated by compilers and assemblers."
+  ]
+ ]
+}
