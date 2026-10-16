@@ -1,0 +1,536 @@
+{
+  "subject": "ecce",
+  "lesson": 902,
+  "title": "Model Question Paper 2",
+  "meta": "Time: 3 hours · Maximum marks: 80 · Modelled on the April 2026 NIOS paper",
+  "instructions": [
+    "All questions are compulsory. Where a question has OR, answer either one.",
+    "Section A: 16 MCQs (1 mark each); a reading passage with six 1-mark questions; nine questions with two parts of 1 mark each (match the columns, true/false, fill in the blanks, one-word answers).",
+    "Section B: 2-mark answers in 30–50 words, 3-mark answers in 50–80 words, 5-mark answers in 80–120 words.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "16 × 1 = 16",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "Which of the following is NOT a component of ECCE?",
+          "options": [
+            "Health, nutrition and hygiene",
+            "Care and protection",
+            "Formal teaching of reading and writing",
+            "Early stimulation"
+          ],
+          "answer": "C",
+          "note": "Lesson 1."
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "Care and stimulation are critical during —",
+          "options": [
+            "the first two years",
+            "the first four years",
+            "the first six years",
+            "the first three years"
+          ],
+          "answer": "D",
+          "years": [
+            "October 2021"
+          ],
+          "note": "Lesson 2."
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "What is one of the recommendations of the National Nutrition Policy, 1993?",
+          "options": [
+            "Emphasising physical exercise for children",
+            "Promoting technology in nutrition education",
+            "Expanding ICDS and similar programmes",
+            "Focusing on an academic curriculum of nutrition science"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Lesson 4."
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "The formal operational stage of cognitive development is from —",
+          "options": [
+            "birth to 2 years of age",
+            "11 years of age and above",
+            "7 to 11 years of age",
+            "2 to 7 years of age"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 7."
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "Placenta refers to —",
+          "options": [
+            "the time the zygote attaches to the uterine wall",
+            "the result of fertilisation",
+            "the period from conception to 8 weeks",
+            "the thick, blood-rich tissue that lines the wall of the uterus"
+          ],
+          "answer": "D",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 8."
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "At around what age can most children hop on one foot?",
+          "options": [
+            "Two years",
+            "Three years",
+            "Four years",
+            "Six years"
+          ],
+          "answer": "C",
+          "note": "Lesson 9."
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "Which vaccine is given to children at the age of nine months?",
+          "options": [
+            "MMR",
+            "Measles",
+            "Typhoid and Hepatitis A",
+            "Rotavirus and influenza"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 10."
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "According to Piaget, symbolic play is seen in the age group of —",
+          "options": [
+            "0–2 years",
+            "2–7 years",
+            "7–11 years",
+            "11 years and above"
+          ],
+          "answer": "B",
+          "note": "Lesson 11."
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "For developing a concept, activities are planned in the sequence —",
+          "options": [
+            "naming, matching, identification",
+            "matching, identification, naming",
+            "identification, naming, matching",
+            "naming, identification, matching"
+          ],
+          "answer": "B",
+          "note": "Lesson 13."
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "What do the overall safety and well-being of children in a pre-school's management responsibilities include?",
+          "options": [
+            "Only physical safety",
+            "Overall safety including physical and emotional well-being",
+            "Only emotional well-being",
+            "Safety only during specific hours"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Lesson 16."
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "Using empty cartons to make a toy bus is an example of a teacher —",
+          "options": [
+            "buying costly materials",
+            "using no-cost materials creatively",
+            "ignoring children's interests",
+            "giving formal lessons"
+          ],
+          "answer": "B",
+          "note": "Lesson 17."
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "The portfolio of a preschool child should be shared with the —",
+          "options": [
+            "grade one teacher",
+            "child's neighbours",
+            "transport staff",
+            "funding agency"
+          ],
+          "answer": "A",
+          "note": "Lesson 19."
+        },
+        {
+          "id": "1.13",
+          "type": "mcq",
+          "q": "What does a transition refer to in the context of early childhood?",
+          "options": [
+            "A period of stability",
+            "A process of change from one situation to another",
+            "A period of regression",
+            "A static state of being"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2024"
+          ],
+          "note": "Lesson 19."
+        },
+        {
+          "id": "1.14",
+          "type": "mcq",
+          "q": "Fixed ideas or assumptions about a group of people are called —",
+          "options": [
+            "values",
+            "stereotypes",
+            "norms",
+            "customs"
+          ],
+          "answer": "B",
+          "note": "Lesson 20."
+        },
+        {
+          "id": "1.15",
+          "type": "mcq",
+          "q": "The presence of diverse groups in an ECCE centre provides opportunities for a —",
+          "options": [
+            "negative and unpopular environment",
+            "negative but nurturing environment",
+            "positive and nurturing environment",
+            "positive but unpopular environment"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2023"
+          ],
+          "note": "Lesson 20."
+        },
+        {
+          "id": "1.16",
+          "type": "mcq",
+          "q": "Early intervention services are generally given from birth until the child turns —",
+          "options": [
+            "two",
+            "five",
+            "eight",
+            "ten"
+          ],
+          "answer": "B",
+          "note": "Lesson 22."
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Read the passage and answer the questions that follow.",
+      "marks": "6 × 1 = 6",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "What is a transition?",
+          "answer": "A process — a period of change from one situation to another.",
+          "note": "Lesson 19."
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Name the two home-to-school transitions mentioned in the passage.",
+          "answer": "From home to preschool (usually around age three) and from preschool to primary school."
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "How can a school reduce parents' stress during transition?",
+          "answer": "By supporting them, for example by giving them information in advance about expected changes."
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Name two challenges children may face when moving to primary school.",
+          "answer": "Any two: a sudden change to formal teaching, more emphasis on work, less time for play, fewer child-initiated activities."
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "What do trusting relationships with familiar adults give children?",
+          "answer": "They give children security, comfort and a strong base from which to explore new environments and learn."
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "Fill in the blank: Children manage transition best when ________ provide support.",
+          "answer": "adults"
+        }
+      ],
+      "fixed": true,
+      "passage": "A transition is a process which refers to a period of change from one situation to another. The home-to-school transition is the move young children make from home to a preschool, or from preschool to primary school. Transition from home to preschool normally occurs around age three. Parents can also find transition difficult, and school efforts to support them can reduce their stress and anxiety. Children who have attended an anganwadi, balwadi or preschool may still face challenges in primary school, such as a sudden change to more formal teaching, greater emphasis on work, less time for play and fewer chances for child-initiated activities. From infancy, children develop attachments to familiar adults; these trusting relationships give them security, comfort and a strong base to explore new environments and learn. Children manage transition best when adults provide support."
+    },
+    {
+      "no": 3,
+      "title": "Objective type questions: each has two parts of 1 mark (match the columns, true/false, fill in the blanks or one-word answers).",
+      "marks": "9 × 2 = 18",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "Match: (a) ICDS scheme (b) UN Convention on the Rights of the Child — (i) 1989 (ii) 1975 (iii) 2013",
+          "answer": "(a) – (ii) 1975; (b) – (i) 1989",
+          "note": "Lesson 1."
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "State True or False: (i) Legally, children are those under 18 years of age. (ii) The Maternity Benefit Amendment Act, 2017 makes childcare facilities at workplaces optional.",
+          "answer": "(i) True. (ii) False — it makes them mandatory.",
+          "note": "Lesson 2."
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "State True or False: (i) The Mid Day Meal Scheme, launched in 1995, covers children of primary classes only. (ii) The Integrated Child Protection Scheme (2009) aims at building a protective environment for children by providing nutritional support.",
+          "answer": "(i) False — it was extended to upper primary classes (VI–VIII) in 2007. (ii) False — it builds a protective environment for children in difficult circumstances; it is not a nutrition scheme.",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 4."
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "State True or False: (i) Babbling starts before cooing. (ii) Comprehension develops before children use words.",
+          "answer": "(i) False — cooing comes first; babbling starts around 6–7 months. (ii) True.",
+          "note": "Lesson 7."
+        },
+        {
+          "id": "3.5",
+          "type": "open",
+          "q": "Fill in the blanks: (i) The placenta is a thick, blood-rich tissue lining the wall of the ________. (ii) As children reach their first birthday, their actions become ________ oriented.",
+          "answer": "(i) uterus (ii) goal",
+          "years": [
+            "April 2025",
+            "October 2024"
+          ],
+          "note": "Part (i) was asked in April 2025 and part (ii) in October 2024. Lesson 8."
+        },
+        {
+          "id": "3.6",
+          "type": "open",
+          "q": "Fill in the blanks: (i) Pre-schoolers learn ________ skills necessary for interacting with other children. (ii) ________ refers to children's ability to identify similarities and differences in objects.",
+          "answer": "(i) social (ii) Categorisation",
+          "years": [
+            "October 2024"
+          ],
+          "note": "Part (i) was asked in October 2024. Lesson 9."
+        },
+        {
+          "id": "3.7",
+          "type": "open",
+          "q": "Answer in one word or phrase: (i) What does a high-quality ECCE programme provide? (ii) What are the two main types of childcare settings?",
+          "answer": "(i) A safe and nurturing environment that promotes physical, social, emotional and intellectual development. (ii) Familial (home-based) and non-familial (centre-based) care.",
+          "years": [
+            "April 2024"
+          ],
+          "note": "April 2024 also asked who should keep close communication (parents and teachers) and what environment they should create (a nurturing one). Lesson 10."
+        },
+        {
+          "id": "3.8",
+          "type": "open",
+          "q": "Fill in the blanks: (i) Arranging objects according to their height is an activity of the ________ domain. (ii) Activities promoting fine and gross motor skills belong to the ________ domain.",
+          "answer": "(i) cognitive (ii) psychomotor",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Part (i) was asked in April 2026. Lesson 11."
+        },
+        {
+          "id": "3.9",
+          "type": "open",
+          "q": "Answer in one word: (i) List any one pre-number concept. (ii) The movement of a child from egocentrism towards playing with and helping others.",
+          "answer": "(i) Any one: big–small, long–short, heavy–light, tall–short, thick–thin, wide–narrow, more–less, far–near. (ii) Socio-centrism (socialisation).",
+          "note": "Lesson 13."
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "6 × 2 = 12",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "What is meant by developmental delay? Give two causes.",
+          "answer": "Developmental delay means a child does not reach the developmental milestones (age-specific skills) at the expected age and lags behind the normal pattern. Causes (any two): heredity, complications during pregnancy or childbirth, illness, accidents after birth, poor nutrition or stimulation.",
+          "note": "Lesson 1."
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "Name the six services provided under the ICDS scheme.",
+          "answer": "Supplementary nutrition; pre-school non-formal education; nutrition and health education; immunisation; health check-up; and referral services.",
+          "note": "Lesson 4."
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "What are motor skills? What are the two broad types of motor skills children develop?",
+          "answer": "Motor skills are physical abilities that help children control the movements of their bodies. The two types are gross motor skills, using large muscles (crawling, walking, running, climbing), and fine motor skills, using small muscles of the hands and fingers with eye-hand coordination (holding a crayon, buttoning, drawing).",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Lesson 7."
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "What is a key aspect of preschoolers' socio-emotional development?",
+          "answer": "A growing self-concept: preschoolers describe themselves by concrete features — name, possessions, family, achievements ('I run fast'). They can talk about their feelings, complex emotions such as guilt, shame and pride appear, they learn social skills for playing with others, and they want to take initiative.",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 9."
+        },
+        {
+          "id": "4.5",
+          "type": "open",
+          "q": "Why are play and activity-based transactional strategies important for learning in children?",
+          "answer": "They give learning experiences in concrete form and make children active participants, not passive recipients. They nurture observation, experimentation, problem solving and creativity, and also promote physical, language and social development, fulfilling all developmental objectives.",
+          "years": [
+            "October 2022"
+          ],
+          "note": "Lesson 13."
+        },
+        {
+          "id": "4.6",
+          "type": "open",
+          "q": "What is meant by academic readiness?",
+          "answer": "Before entering preschool, children should have basic knowledge of themselves, their families and the world. Parents build it by reading daily, singing rhymes, showing the child's name in print, naming colours, giving puzzles and counting games and taking the child on outings.",
+          "years": [
+            "October 2021"
+          ],
+          "note": "Lesson 19."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "6 × 3 = 18",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "What is the impact of early childhood on subsequent life?",
+          "answer": "Early childhood is a sensitive period shaped by nature and nurture, when the brain grows fastest; children 'use it or lose it' and benefit from 'serve and return' interaction. A stimulating, caring, healthy environment gives lasting gains. Adversity — poverty, neglect, abuse, frequent illness — leads to social, emotional, behavioural and school-adjustment problems, even mental-health problems or delinquency, and such adults may repeat poor parenting. Sensitive parenting, family and community support and good childcare can moderate these effects.",
+          "years": [
+            "April 2024",
+            "April 2022"
+          ],
+          "or": {
+            "q": "What is the constitutional view of childhood in India?",
+            "answer": "The Constitution treats children's survival, development and protection as rights and duties: Article 14 equality before law; 15 no discrimination and special provisions for children; 21A free and compulsory education for 6–14; 24 no child below 14 in factories, mines or hazardous work; 39 children not abused or forced into unsuitable work and given chances to develop in freedom and dignity; 45 free and compulsory education; 46 interests of weaker sections; 47 nutrition and public health; 51A(k) parents' duty to educate their children."
+          },
+          "note": "Lesson 2."
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "Describe the milestones of development of children from birth to three months.",
+          "answer": "Motor: lifts and turns the head when on the stomach by three months; stretching and kicking become vigorous; grasps a toy for a few moments. Hearing: within weeks responds to sounds by getting quiet or smiling, especially to the mother's voice. Vision: focuses on the mother's face while feeding; notices interesting sights, colours and shapes. Communication: cries to show needs, smiles on purpose, blows bubbles and coos by two months, imitates expressions and reaches for known adults for comfort.",
+          "years": [
+            "October 2022"
+          ],
+          "note": "Lesson 8."
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "What are the different kinds of caregiving systems?",
+          "answer": "Familial care: by parents or relatives (aunts, uncles, grandparents) at home. Non-familial care: by non-relatives such as babysitters, neighbours or friends in the child's or the provider's home. Organised childcare: crèches, day-care centres, preschools, nursery schools, kindergartens and pre-primary schools, and workplace crèches. Care is also classed as home-based (few children in the provider's home) or centre-based (larger groups in a non-home setting).",
+          "years": [
+            "April 2023"
+          ],
+          "note": "Lesson 10."
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "What is meant by a thematic approach in planning play activities?",
+          "answer": "Play activities in all domains are planned around a theme from the children's environment — such as myself, family, food, water, clothes, seasons, people who help me — for a week or two. The theme suits the children's age and interest, builds on first-hand, concrete experiences and broadens ideas they are familiar with, instead of imposing knowledge subject by subject.",
+          "years": [
+            "April 2022"
+          ],
+          "note": "April 2022 asked: what is a theme-based ECCE programme? Discuss with an example. Lesson 11."
+        },
+        {
+          "id": "5.5",
+          "type": "open",
+          "q": "Differentiate between a cash book, a ledger and a balance sheet.",
+          "answer": "Cash book: a record of small, day-to-day purchases (stationery, cleaning material, ration) kept by a staff member before they are posted to the ledger. Ledger: the principal book or file recording and totalling all transactions, with debit and credit columns and opening and closing balances for each account. Balance sheet: a statement of the centre's financial position listing assets (current and long-term, such as cash, furniture, building) and then liabilities (current, such as salaries; long-term, such as loans).",
+          "note": "Lesson 16."
+        },
+        {
+          "id": "5.6",
+          "type": "open",
+          "q": "What are the effects of the home and school language divide on children?",
+          "answer": "Children cannot make friends easily, cannot read, write and express themselves, and perform poorly; repeated failure lowers self-esteem and confidence and raises dropout; they feel no belonging to school; they are less likely to enrol and succeed; parents participate less; and children lose pride in their identity and heritage.",
+          "note": "Lesson 20."
+        }
+      ]
+    },
+    {
+      "no": 6,
+      "title": "Long answer questions. Answer in 80–120 words.",
+      "marks": "2 × 5 = 10",
+      "questions": [
+        {
+          "id": "6.1",
+          "type": "open",
+          "q": "Discuss any four qualities of an ECCE teacher.",
+          "answer": "(1) Loving and caring: children entering a new space need an affectionate teacher; unconditional love builds trust, a lasting bond and a sense of belonging, and supports social and emotional development. (2) Active and empathetic listener: empathy — putting oneself in the child's shoes — helps the teacher recognise children's thoughts and emotions and solve classroom and behaviour problems. (3) Patient and persistent: children may make a mess or need repetition and special attention; the teacher stays calm and keeps striving for positive outcomes while giving freedom to explore safely. (4) Creative and innovative: nurtures children's curiosity and novel ways of thinking by giving chances to experiment. Others: energetic and motivated, cheerful and committed, flexible, organised, effective communicator, good rapport with parents, self-confident, well trained, lifelong learner with research skills.",
+          "years": [
+            "October 2022"
+          ],
+          "note": "Lesson 17."
+        },
+        {
+          "id": "6.2",
+          "type": "open",
+          "q": "Discuss the strategies for early identification of children with disabilities.",
+          "answer": "National policies, such as the National Policy for Persons with Disabilities (2006), ask that children up to six be identified at the earliest so they can join inclusive education at the right age. The process: (1) Screening — a system to identify, locate and evaluate children who need early intervention, finding the areas where they need help. (2) Risk indicators and protective factors — environmental, biological, genetic and prenatal conditions that warn of possible problems (but do not always predict them), weighed against protective factors such as special schools, educators and therapists that reduce risk and build resilience. (3) Systematic observation — informal or standard observations repeated over time at home, preschool and play, recording how often, how consistently and how severely the behaviour occurs. (4) Comprehensive evaluation — when risk is suspected, professionals evaluate periodically across settings and perspectives to find the child's pattern of abilities and needs and plan strategies and resources. Teachers should watch for warning signs in language, reading and writing, cognition, motor skills and social behaviour, and share them with parents.",
+          "note": "Lesson 22."
+        }
+      ]
+    }
+  ]
+}

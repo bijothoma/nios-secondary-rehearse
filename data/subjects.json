@@ -1414,6 +1414,116 @@
           "file": "data/sr-deo/paper-3.json"
         }
       ]
+    },
+    {
+      "id": "ecce",
+      "name": "Early Childhood Care and Education",
+      "label": "",
+      "level": "senior-secondary",
+      "lessons": [
+        {
+          "no": 1,
+          "title": "Early Childhood Care and Education: Meaning and Significance",
+          "file": "data/ecce/lesson-1.json",
+          "summary": "data/ecce/summary/lesson-1.json"
+        },
+        {
+          "no": 2,
+          "title": "Early Childhood in India",
+          "file": "data/ecce/lesson-2.json",
+          "summary": "data/ecce/summary/lesson-2.json"
+        },
+        {
+          "no": 4,
+          "title": "ECCE Policies, Schemes and Programmes in India",
+          "file": "data/ecce/lesson-4.json",
+          "summary": "data/ecce/summary/lesson-4.json"
+        },
+        {
+          "no": 7,
+          "title": "Domains of Development",
+          "file": "data/ecce/lesson-7.json",
+          "summary": "data/ecce/summary/lesson-7.json"
+        },
+        {
+          "no": 8,
+          "title": "Stages of Child Development: Prenatal and Birth to Three Years",
+          "file": "data/ecce/lesson-8.json",
+          "summary": "data/ecce/summary/lesson-8.json"
+        },
+        {
+          "no": 9,
+          "title": "Stages of Child Development: Three to Six Years and Six to Eight Years",
+          "file": "data/ecce/lesson-9.json",
+          "summary": "data/ecce/summary/lesson-9.json"
+        },
+        {
+          "no": 10,
+          "title": "Care of Children in Early Years",
+          "file": "data/ecce/lesson-10.json",
+          "summary": "data/ecce/summary/lesson-10.json"
+        },
+        {
+          "no": 11,
+          "title": "Play and Early Learning",
+          "file": "data/ecce/lesson-11.json",
+          "summary": "data/ecce/summary/lesson-11.json"
+        },
+        {
+          "no": 13,
+          "title": "How Children Learn (Early Learning and Teaching)",
+          "file": "data/ecce/lesson-13.json",
+          "summary": "data/ecce/summary/lesson-13.json"
+        },
+        {
+          "no": 16,
+          "title": "Administration and Management of an ECCE Centre",
+          "file": "data/ecce/lesson-16.json",
+          "summary": "data/ecce/summary/lesson-16.json"
+        },
+        {
+          "no": 17,
+          "title": "Qualities and Roles of an ECCE Teacher",
+          "file": "data/ecce/lesson-17.json",
+          "summary": "data/ecce/summary/lesson-17.json"
+        },
+        {
+          "no": 19,
+          "title": "Smooth Transitions",
+          "file": "data/ecce/lesson-19.json",
+          "summary": "data/ecce/summary/lesson-19.json"
+        },
+        {
+          "no": 20,
+          "title": "Understanding Diversity",
+          "file": "data/ecce/lesson-20.json",
+          "summary": "data/ecce/summary/lesson-20.json"
+        },
+        {
+          "no": 22,
+          "title": "Early Identification and Intervention",
+          "file": "data/ecce/lesson-22.json",
+          "summary": "data/ecce/summary/lesson-22.json"
+        },
+        {
+          "no": 901,
+          "tag": "Full paper",
+          "title": "Model Question Paper 1",
+          "file": "data/ecce/paper-1.json"
+        },
+        {
+          "no": 902,
+          "tag": "Full paper",
+          "title": "Model Question Paper 2",
+          "file": "data/ecce/paper-2.json"
+        },
+        {
+          "no": 903,
+          "tag": "Full paper",
+          "title": "Model Question Paper 3",
+          "file": "data/ecce/paper-3.json"
+        }
+      ]
     }
   ]
 }

@@ -1,0 +1,546 @@
+{
+  "subject": "ecce",
+  "lesson": 901,
+  "title": "Model Question Paper 1",
+  "meta": "Time: 3 hours · Maximum marks: 80 · Modelled on the April 2026 NIOS paper",
+  "instructions": [
+    "All questions are compulsory. Where a question has OR, answer either one.",
+    "Section A: 16 MCQs (1 mark each); a reading passage with six 1-mark questions; nine questions with two parts of 1 mark each (match the columns, true/false, fill in the blanks, one-word answers).",
+    "Section B: 2-mark answers in 30–50 words, 3-mark answers in 50–80 words, 5-mark answers in 80–120 words.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "16 × 1 = 16",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "What is the primary aim of Early Childhood Care and Education (ECCE)?",
+          "options": [
+            "To prepare children for university education",
+            "To provide babysitting services for working parents",
+            "To ensure children's overall development during their formative years",
+            "To teach children advanced mathematics"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 1."
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "Nutan Bal Shikshan Sangh was founded in 1926 in —",
+          "options": [
+            "Bombay (now Mumbai)",
+            "Kanpur",
+            "Bhavnagar",
+            "Ahmedabad"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Lesson 1."
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "Maternal mortality rate refers to —",
+          "options": [
+            "death rate of mothers due to lack of nutrition",
+            "death of infants due to lack of proper growth and development",
+            "death of women that occurs due to complications during pregnancy and childbirth",
+            "birth and death rate of unborn children"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Lesson 2."
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "What is one of the reasons for the decrease in the infant mortality rate (IMR) nowadays?",
+          "options": [
+            "Increase in hygienic living conditions",
+            "Excessive governmental intervention",
+            "Overpopulation",
+            "Lack of medical attention for newborns"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 2."
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "What is the main aim of the National Health Policy (NHP), 2017?",
+          "options": [
+            "Exclusive health care services for urban areas",
+            "Only medical pluralism and new technology",
+            "Shaping health systems: investment in health and organisation of health care services",
+            "Disease prevention alone"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Lesson 4."
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "The sensorimotor stage is —",
+          "options": [
+            "the second stage of cognitive development",
+            "the stage that starts at seven years of age",
+            "the first stage of cognitive development",
+            "the stage that starts at two years of age"
+          ],
+          "answer": "C",
+          "years": [
+            "October 2021"
+          ],
+          "note": "Lesson 7."
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "The two-week period after conception is known as the —",
+          "options": [
+            "foetal stage",
+            "embryonic stage",
+            "germinal stage",
+            "maternal stage"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2024",
+            "April 2023"
+          ],
+          "note": "Lesson 8."
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "According to Erikson, preschool children who are constantly stopped from doing things on their own may develop —",
+          "options": [
+            "initiative",
+            "guilt",
+            "trust",
+            "industry"
+          ],
+          "answer": "B",
+          "note": "Lesson 9."
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "Which statement is true about the nutrition of infants?",
+          "options": [
+            "Weaning should start before six months of age.",
+            "Breast milk is proven to be a complete food for infants.",
+            "Semi-solid foods are more nutritious than breast milk.",
+            "Babies require nutrition supplements from birth."
+          ],
+          "answer": "B",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Lesson 10."
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "Play with objects starts at about —",
+          "options": [
+            "one month",
+            "4–5 months",
+            "18 months",
+            "three years"
+          ],
+          "answer": "B",
+          "note": "Lesson 11."
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "Teaching-learning strategies in ECCE should essentially be —",
+          "options": [
+            "teacher-centred",
+            "child-centred",
+            "examination-centred",
+            "textbook-centred"
+          ],
+          "answer": "B",
+          "note": "Lesson 13."
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "Which management style is characterised as the most controlling?",
+          "options": [
+            "Democratic",
+            "Laissez-faire",
+            "Autocratic",
+            "Collaborative"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Lesson 16."
+        },
+        {
+          "id": "1.13",
+          "type": "mcq",
+          "q": "What does an ECCE teacher need to ensure when using teaching-learning materials?",
+          "options": [
+            "Only high-cost materials",
+            "Ignoring material procurement",
+            "Age-inappropriate equipment",
+            "Age-appropriate and safe materials"
+          ],
+          "answer": "D",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Lesson 17."
+        },
+        {
+          "id": "1.14",
+          "type": "mcq",
+          "q": "Children who display only minimal foundational skills and behaviours for kindergarten are said to show —",
+          "options": [
+            "demonstrating readiness",
+            "approaching readiness",
+            "emerging readiness",
+            "complete readiness"
+          ],
+          "answer": "C",
+          "note": "Lesson 19."
+        },
+        {
+          "id": "1.15",
+          "type": "mcq",
+          "q": "How can teachers help overcome the language barrier between home and school?",
+          "options": [
+            "By ignoring the home language",
+            "By dismissing the importance of the home language",
+            "By respecting and accepting the home language and building on its strengths",
+            "By discouraging the use of multiple languages"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 20."
+        },
+        {
+          "id": "1.16",
+          "type": "mcq",
+          "q": "The biggest challenge with learning disability is that it is —",
+          "options": [
+            "easy to cure",
+            "hard to identify and diagnose",
+            "seen only in adults",
+            "always visible at birth"
+          ],
+          "answer": "B",
+          "note": "Lesson 22."
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Read the passage and answer the questions that follow.",
+      "marks": "6 × 1 = 6",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "Why are the early years called the formative years?",
+          "answer": "Because the foundation for physical, cognitive, socio-emotional and language development is laid in this period.",
+          "note": "Lesson 1."
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "How much of brain development is complete by the age of six?",
+          "answer": "90%."
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "Name any two factors that lead to developmental delays.",
+          "answer": "Any two: an unhealthy home or school environment, too little stimulation, inadequate nutrition, poor health care."
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Fill in the blank: ECCE is an ________ programme with several components.",
+          "answer": "integrated"
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "Name any two components of ECCE.",
+          "answer": "Any two: health, nutrition and hygiene; care and protection; early stimulation; early learning."
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "How does quality ECCE help a child later in school?",
+          "answer": "The child gains age-appropriate knowledge and skills and adjusts better to the formal school environment."
+        }
+      ],
+      "fixed": true,
+      "passage": "Early childhood refers to the early years of life from birth to six years. These years are called the formative years as the foundation for physical, cognitive, socio-emotional and language development is laid during this period. Research in neuroscience shows that by the time a child is six years old, 90% of brain development has taken place. Lack of a healthy home and school environment, too little stimulation, inadequate nutrition and poor health care are common factors that lead to developmental delays. ECCE is an integrated programme whose components — health, nutrition and hygiene; care and protection; early stimulation; and early learning — together contribute to the development and wellbeing of children. Quality ECCE helps children acquire age-appropriate knowledge and skills and adjust better in a formal school environment."
+    },
+    {
+      "no": 3,
+      "title": "Objective type questions: each has two parts of 1 mark (match the columns, true/false, fill in the blanks or one-word answers).",
+      "marks": "9 × 2 = 18",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "Fill in the blanks: (i) Physical development occurs proximodistally and ________. (ii) Fine motor skills involve ________.",
+          "answer": "(i) cephalocaudally (ii) small muscles (of the hands and fingers, with eye-hand coordination)",
+          "years": [
+            "October 2024"
+          ],
+          "note": "Lesson 7."
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "Match: (a) Moro reflex (b) Babinski reflex — (i) Turns the head when the cheek is touched (ii) Extends the arms when support from the neck is removed (iii) Fans out the toes when the foot is stroked",
+          "answer": "(a) – (ii); (b) – (iii)",
+          "note": "Lesson 8."
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "Match: (a) Physical development (b) Emotional development — (i) Verbalise conflicting emotions (ii) Engage in competition (iii) Grow about 1–3 inches a year",
+          "answer": "(a) – (iii); (b) – (i)",
+          "note": "Lesson 9."
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "Fill in the blanks: (i) Routines give children a sense of ________ and control over their environment. (ii) Cognitive stimulation is dependent on early attachment and ________ relationships.",
+          "answer": "(i) security (ii) positive",
+          "note": "Lesson 10."
+        },
+        {
+          "id": "3.5",
+          "type": "open",
+          "q": "Fill in the blanks: (i) 5–12-year-old children understand rules and prefer games like football and ________. (ii) The theme for play activities must be planned according to the ________ and interest of children.",
+          "answer": "(i) basketball (any game with rules) (ii) age",
+          "note": "Lesson 11."
+        },
+        {
+          "id": "3.6",
+          "type": "open",
+          "q": "Answer briefly: (i) Which activity can promote creative appreciation? (ii) How can children engage in creative movement?",
+          "answer": "(i) For example, drawing, painting, collage, clay modelling, decorating the classroom, nature walks. (ii) Through action rhymes, dancing and rhythmic movement — clapping, finger clicking and foot stamping to a beat.",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Lesson 13."
+        },
+        {
+          "id": "3.7",
+          "type": "open",
+          "q": "Match: (a) Supervision (b) Mentor focuses on — (i) Mentee's total development (ii) Continuous review of the programme (iii) Monitoring staff performance and helping them improve",
+          "answer": "(a) – (iii); (b) – (i)",
+          "note": "Lesson 16."
+        },
+        {
+          "id": "3.8",
+          "type": "open",
+          "q": "Match: (a) Empathetic listener (b) Effective communicator — (i) Uses gestures, postures and voice modulation in storytelling (ii) Understands children's thoughts and emotions (iii) Uses only costly materials",
+          "answer": "(a) – (ii); (b) – (i)",
+          "note": "Lesson 17."
+        },
+        {
+          "id": "3.9",
+          "type": "open",
+          "q": "Match: (a) Writing readiness (b) Language development — (i) Storytelling and rhymes (ii) Drawing and joining dots (iii) Visual discrimination",
+          "answer": "(a) – (ii); (b) – (i)",
+          "note": "Lesson 19."
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "6 × 2 = 12",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "What were the contributions of Gijubhai Badheka and Tarabai Modak to preschool education in India?",
+          "answer": "Gijubhai Badheka believed good education is vital for proper development and founded Bal Mandir, a preschool, in Bhavnagar, Gujarat in 1920. Tarabai Modak founded the Nutan Bal Shikshan Sangh in Bombay (Mumbai) in 1926, where children of different backgrounds learnt through activities and real-life experiences.",
+          "note": "Lesson 1."
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "What are gross motor skills? Give two examples.",
+          "answer": "Gross motor skills involve the large muscles and control big body movements. Examples: crawling, standing, walking, climbing, running, jumping.",
+          "years": [
+            "April 2023"
+          ],
+          "note": "April 2023 asked for a one-sentence explanation of gross motor development. Lesson 7."
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "Write two examples each of gross motor and fine motor skills developed by children aged three to six years.",
+          "answer": "Gross motor: running, jumping, throwing and kicking; catching a bounced ball; pedalling a tricycle; hopping on one foot. Fine motor: drawing a circle or square; cutting with blunt scissors; buttoning clothes; tying shoelaces; using a spoon and fork.",
+          "years": [
+            "April 2024",
+            "October 2024"
+          ],
+          "note": "October 2024 asked for examples of gross motor skills only. Lesson 9."
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "What care and protection should an ECCE worker take for children in the centre?",
+          "answer": "Keep the centre physically safe and supervise children all the time; ensure hygiene, clean water and safe food; follow immunisation and health check-ups; respond warmly to children's needs and protect them from stress, rough handling and neglect so they feel emotionally secure.",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 10."
+        },
+        {
+          "id": "4.5",
+          "type": "open",
+          "q": "Mention any four common activities for all-round development.",
+          "answer": "Any four: free and structured conversation, storytelling and story-making, dramatisation, rhymes and songs, music and movement, sand play, water play, puppet play, circle time, free indoor play with puzzles, beads and blocks, outdoor play, nature walks, field trips.",
+          "years": [
+            "April 2023"
+          ],
+          "note": "Lesson 13."
+        },
+        {
+          "id": "4.6",
+          "type": "open",
+          "q": "What activities can a teacher do to promote writing readiness?",
+          "answer": "Activities for eye-hand coordination and small muscles: clay modelling, colouring within an enclosed space, drawing on a slate or the floor, tracing, copying forms, joining dots, drawing zig-zag and straight lines, tearing and pasting. Formal writing should come only when children are ready.",
+          "years": [
+            "April 2022"
+          ],
+          "note": "Lesson 19."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "6 × 3 = 18",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "How does India's multi-cultural society contribute to diverse social environments for children?",
+          "answer": "India is a pluralistic society where people of different religions, languages, castes, tribes and economic backgrounds live together, across varied regions (Himalayas, plains, deserts, coasts). These differences in beliefs, resources, food, dress and customs give children very different experiences of childhood; some groups are disadvantaged by caste discrimination, poverty or remoteness.",
+          "years": [
+            "April 2025"
+          ],
+          "or": {
+            "q": "What factors contribute to the poor health and living conditions of children in India?",
+            "answer": "Uneven distribution of economic resources, lack of access and awareness lead to ill health, high-density living and unhygienic conditions. Other causes are malnutrition (stunting, wasting), infection and lack of sanitation and clean water, poor maternal health and early marriage, and gender bias against girls in health care and nutrition."
+          },
+          "note": "Lesson 2."
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "Discuss any three characteristics of the newborn with examples.",
+          "answer": "Umbilical cord: bluish-white; the stub left after cutting dries and falls off within three weeks, becoming the belly button. Skin: wet and coated with white vernix caseosa (an antibacterial barrier), greyish-blue until breathing starts. Hair: fine body hair called lanugo on the back, shoulders and face, disappearing within weeks. Others: a large head for the body, weight of 2.5–3.5 kg, waking every two to three hours, and inborn reflexes.",
+          "years": [
+            "April 2026"
+          ],
+          "or": {
+            "q": "Discuss any three milestones of language development of 2–3-year-old children.",
+            "answer": "Any three: has a word for almost everything; uses two- or three-word phrases to talk about and ask for things; is understood by family and friends; names objects to ask for them; answers routine questions ('What is your name?'); follows two-step directions ('Find your shoes and get your dress'); begins to use plurals, prepositions ('in the jar'), possessives ('mine'), adjectives and '-ed' for the past tense; enjoys simple stories, songs and rhymes."
+          },
+          "note": "Lesson 8."
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "What factors should be considered in designing an environment conducive to play and early learning?",
+          "answer": "Ease of supervision and guidance; attention to safety; maximum space for free movement; children's interests; needs of the group and of each child; special activities placed where they are readily available; similar activities kept together; furniture and shelves of suitable size and height. Materials should be attractive and within children's reach, and adults should be present to interact.",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 11."
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "What are the different types of records maintained in an ECCE centre?",
+          "answer": "Children's records (profile/cumulative record, attendance register, checklists, portfolio, progress reports, observations); staff records (personal details, qualifications, job description, salary, training, attendance); stock records (equipment, furniture, learning materials); financial records (cash book, ledger, balance sheet, fees, receipts, bank records); miscellaneous records (safety inspection book, menu, log books, prospectus, PTA minutes, visitor's book, photographs).",
+          "years": [
+            "April 2022"
+          ],
+          "note": "Lesson 16."
+        },
+        {
+          "id": "5.5",
+          "type": "open",
+          "q": "What makes an ECCE teacher effective? Describe three qualities with examples from the classroom.",
+          "answer": "Any three, e.g.: Loving and caring — unconditional love builds trust and belonging and helps socio-emotional development. Active and empathetic listener — understands children's thoughts and feelings and solves behaviour problems. Patient and persistent — repeats and supports without anger. Flexible and adjusting — works with limited resources and diverse needs. Creative and innovative — nurtures curiosity and new ideas. Effective communicator — clear, simple language and good rapport with parents. Well trained and a lifelong learner.",
+          "years": [
+            "October 2021"
+          ],
+          "note": "October 2021 asked: what are the qualities of an effective ECCE teacher? Lesson 17."
+        },
+        {
+          "id": "5.6",
+          "type": "open",
+          "q": "How do diverse groups in a school environment provide opportunities for mutual learning?",
+          "answer": "Each child brings experiences of different customs, festivals, food, languages and ways of life. Sharing these — food days, festival discussions, stories and songs in different languages — lets children learn from one another, explore and celebrate in a safe, nurturing environment, appreciate differences, develop respect and empathy, and learn that all are equal.",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 20."
+        }
+      ]
+    },
+    {
+      "no": 6,
+      "title": "Long answer questions. Answer in 80–120 words.",
+      "marks": "2 × 5 = 10",
+      "questions": [
+        {
+          "id": "6.1",
+          "type": "open",
+          "q": "List the major policies and plans related to ECCE in India and explain any three.",
+          "answer": "Policies and plans: NPE 1986; National Nutrition Policy 1993; NPC 1974/2013; National ECCE Policy 2013; National Health Mission 2013; India Newborn Action Plan 2014; SDG 4.2; NPAC 2016; National Health Policy 2017; POSHAN Abhiyan 2018. (1) NPE 1986: ECCE strengthens primary education; child-centred, play-based; no formal 3Rs; community involvement. (2) National ECCE Policy 2013: universal access to quality ECCE for under-sixes; vision of holistic development and active learning capacity through free, universal, inclusive, equitable, joyful and contextualised opportunities; includes the Curriculum Framework and Quality Standards. (3) NPAC 2016: 'Last Child First' — priority to the most vulnerable; rights to survival, dignity, health, nutrition, education, development, protection and participation; framework for state plans.",
+          "note": "Lesson 4."
+        },
+        {
+          "id": "6.2",
+          "type": "open",
+          "q": "What is early intervention? Describe its advantages and the characteristics of quality interventions.",
+          "answer": "Early intervention means doing things as early as possible to work on a child's developmental, health and support needs, usually from birth to five, through services such as screening, speech, physical and occupational therapy, psychological, medical and nutrition services, home visits and social work. Advantages: better developmental, social and educational gains; less isolation, stress and frustration for families; fewer behaviour problems through positive strategies; children grow into productive, independent adults; lower future costs of special education and health care. Quality interventions are: family-centred — family works alongside professionals, flexible setting, support and guidance; developmentally appropriate — designed for the disability, trained staff, individual plans reviewed regularly, progress tracked; child-focused — practise skills in different settings, mix with peers; supportive and structured — a comfortable, well-organised, regular and predictable environment.",
+          "note": "Lesson 22."
+        }
+      ]
+    }
+  ]
+}

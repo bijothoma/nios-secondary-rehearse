@@ -119,6 +119,10 @@ question's own short note.
   answers from lessons 1, 5, 5 and 10). Lessons 1–9 share the 229 textbook, so their sources started from the
   Secondary ones with the exam tags replaced by 336 ones; lesson 10 (Internet) is 336 only. Only the 6
   public-exam lessons (1, 4, 5, 8, 9, 10) are included.
+- `tools/build_ecce.py`: builds Senior Secondary Early Childhood Care and Education (376) from
+  `data/ecce/src/lesson-<n>.json` with `build_sci.py` (43 questions, 80 marks: 16 MCQs, a passage with six 1-mark
+  questions, nine 2-mark objective questions, 6 very short, 6 short and 2 long answers). Only the 14 public-exam
+  lessons of the NIOS syllabus bifurcation are included.
 - All of these builders share `build_question` in `tools/build_ss.py`. It marks an MCQ `fixed` (options
   keep their printed order instead of being shuffled) when an option refers to the others, such as
   "all of these", "none of the above" or "both (A) and (B)".
