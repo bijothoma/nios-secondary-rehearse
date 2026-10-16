@@ -16,6 +16,7 @@
       "id": "malayalam",
       "name": "Malayalam",
       "label": "മലയാളം",
+      "quotes": "data/malayalam/quotes.json",
       "lessons": [
         {
           "no": 2,

@@ -62,6 +62,15 @@ followed by its English translation, or `data/<subject>/src/summary-<n>.txt`).
 
 The lesson then opens with a menu: Lesson, Lesson with translation, and the model question paper.
 
+Malayalam 1-mark questions show, with their answer, the stanza or sentence of the lesson that holds
+the answer (പാഠഭാഗം) and, where useful, a short explanation (വിശദീകരണം). These live in
+`data/malayalam/quotes.json` (named by `quotes` in `data/subjects.json`), keyed by
+`"<lesson no>|<question text>"` (the left item for a match question), each with `quote` and/or `note`.
+Quotes from lessons under copyright are kept in `local/malayalam/quotes.json`, listed under `quotes` in
+`local/texts.json`. Because the files are keyed by question text, rebuilding the lesson and full papers
+keeps them, but a reworded question loses its quote until its key is updated. A `note` here replaces the
+question's own short note.
+
 ## Layout
 
 - `index.html`, `app.js`, `style.css`: the app (no build step)

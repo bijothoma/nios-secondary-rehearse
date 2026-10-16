@@ -232,7 +232,61 @@ function renderText(subject, lessonMeta, kind, withEnglish) {
   }, showError);
 }
 
+// Quotes for 1-mark questions: the stanza or sentence of the lesson holding the answer,
+// and a short explanation. Keyed by "<lesson no>|<question text>" (the left item for a
+// match question). Quotes from lessons still under copyright come from local/.
+var localQuotes = {};
+
+function loadQuotes(subject, done) {
+  if (!subject.quotes || subject.quoteMap) return done();
+  var map = {};
+  var merge = function (data) {
+    for (var k in data) {
+      if (!data.hasOwnProperty(k)) continue;
+      map[k] = map[k] || {};
+      for (var f in data[k]) if (data[k].hasOwnProperty(f)) map[k][f] = data[k][f];
+    }
+  };
+  var finish = function () { subject.quoteMap = map; done(); };
+  loadJSON(subject.quotes, function (data) {
+    merge(data);
+    if (!localQuotes[subject.id]) return finish();
+    loadJSON(localQuotes[subject.id], function (data) { merge(data); finish(); }, finish);
+  }, finish);
+}
+
+// Full papers name each question's lesson in its note ("പാഠം 5: …") and may put the
+// lesson title in front of the question.
+var LESSON_TAG = /(?:^| · )(പാഠം (\d+): .*)$/;
+
+function quoteFor(subject, lessonMeta, q) {
+  if (!subject.quoteMap) return null;
+  var tag = q.note && q.note.match(LESSON_TAG);
+  var text = q.type === 'match' ? q.left : q.q.replace(/^\(‘[^’]*’\) /, '');
+  return subject.quoteMap[(tag ? tag[2] : lessonMeta.no) + '|' + text] || null;
+}
+
+// The explanation takes the place of the question's own short note; a lesson tag stays.
+function noteWith(q, extra) {
+  if (!extra || !extra.note || !q.note) return q.note;
+  var tag = q.note.match(LESSON_TAG);
+  return tag ? tag[1] : null;
+}
+
+function quoteBlock(extra) {
+  if (!extra) return null;
+  return [
+    extra.quote ? el('div', { 'class': 'quote' },
+      el('p', { 'class': 'quote-head' }, 'പാഠഭാഗം'), answerParas(extra.quote)) : null,
+    extra.note ? el('p', { 'class': 'explain' }, el('strong', {}, 'വിശദീകരണം: '), extra.note) : null
+  ];
+}
+
 function renderPaper(subject, lessonMeta) {
+  loadQuotes(subject, function () { showPaper(subject, lessonMeta); });
+}
+
+function showPaper(subject, lessonMeta) {
   loadJSON(lessonMeta.file, function (paper) {
     score = { right: 0, done: 0, total: 0 };
     var restart = function () { renderPaper(subject, lessonMeta); };
@@ -253,7 +307,9 @@ function renderPaper(subject, lessonMeta) {
       )
     );
 
-    var sections = paper.sections.map(renderSection);
+    var sections = paper.sections.map(function (sec) {
+      return renderSection(sec, function (q) { return quoteFor(subject, lessonMeta, q); });
+    });
     var summary = el('div', { 'class': 'summary' },
       el('p', { id: 'summary-text' }),
       el('button', { 'class': 'btn primary', onclick: restart }, 'Try again with a new shuffle')
@@ -275,7 +331,8 @@ function updateSummary() {
     : '';
 }
 
-function renderSection(sec) {
+// quote(q) gives the lesson quote and explanation for a question, or null.
+function renderSection(sec, quote) {
   // fixed: keep the printed order (e.g. blanks (i), (ii), (iii) of a passage).
   var qs = sec.fixed ? sec.questions : shuffle(sec.questions);
   // Options for a "match" section are all the right-hand items of that section.
@@ -289,14 +346,15 @@ function renderSection(sec) {
     sec.passage ? el('div', { 'class': 'passage' }, sec.passage) : null,
     qs.map(function (q, i) {
       var num = sec.no + '.' + (i + 1);
+      var extra = quote(q);
       if (q.type === 'mcq') {
         var correct = q.options[LETTERS.indexOf(q.answer)];
-        return renderChoice(num, q.q, q.years, q.options, correct, q.note, q.image, q.fixed, q.work);
+        return renderChoice(num, q.q, q.years, q.options, correct, noteWith(q, extra), q.image, q.fixed, q.work, extra);
       }
       if (q.type === 'match') {
-        return renderChoice(num, q.left + ' — ?', q.years, matchPool, q.right);
+        return renderChoice(num, q.left + ' — ?', q.years, matchPool, q.right, noteWith(q, extra), null, false, null, extra);
       }
-      return renderOpen(num, q);
+      return renderOpen(num, q, extra);
     })
   );
 }
@@ -323,7 +381,8 @@ function markOption(button, kind) {
 
 // fixed: keep the options in their printed order (assertion–reason, true/false).
 // work: the worked solution (lines separated by \n), shown once the question is answered.
-function renderChoice(num, text, years, options, correct, note, image, fixed, work) {
+// extra: the lesson quote and explanation (see quoteFor), shown with the note.
+function renderChoice(num, text, years, options, correct, note, image, fixed, work, extra) {
   score.total++;
   var firstTry = true;
   var finished = false;
@@ -331,8 +390,9 @@ function renderChoice(num, text, years, options, correct, note, image, fixed, wo
   var feedback = el('p', { 'class': 'feedback' });
   var showBtn = el('button', { 'class': 'btn', onclick: reveal }, 'Show answer');
   setHidden(showBtn, true);
-  var noteEl = note || work ? el('div', {},
+  var noteEl = note || work || extra ? el('div', {},
     work ? el('div', { 'class': 'answer' }, el('p', {}, el('strong', {}, 'Working')), answerParas(work)) : null,
+    quoteBlock(extra),
     note ? el('p', { 'class': 'note' }, note) : null) : null;
   if (noteEl) setHidden(noteEl, true);
 
@@ -393,11 +453,13 @@ function answerParas(text) {
 }
 
 // q.or is an internal choice: { q, answer } asked as an alternative to the main question.
-function renderOpen(num, q) {
+function renderOpen(num, q, extra) {
+  var note = noteWith(q, extra);
   var answer = el('div', { 'class': 'answer' },
     answerParas(q.answer),
     q.or ? [el('p', { 'class': 'or' }, 'OR'), answerParas(q.or.answer)] : null,
-    q.note ? el('p', { 'class': 'note' }, q.note) : null
+    quoteBlock(extra),
+    note ? el('p', { 'class': 'note' }, note) : null
   );
   setHidden(answer, true);
 
@@ -446,6 +508,7 @@ function addLocalTexts(local) {
       if (!l.text && texts[l.no]) l.text = texts[l.no];
     });
   });
+  localQuotes = local.quotes || {};
 }
 
 loadJSON('data/subjects.json', function (data) {
