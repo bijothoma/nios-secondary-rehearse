@@ -1,0 +1,890 @@
+{
+  "subject": "sr-english",
+  "lesson": 902,
+  "title": "Model Question Paper 2",
+  "meta": "Time: 3 hours · Maximum marks: 100 · Modelled on the April 2026 NIOS paper (new syllabus)",
+  "instructions": [
+    "The question paper consists of 27 questions. All questions are compulsory; where there is an OR, answer one.",
+    "Questions 1–13 are objective (MCQ, True/False, match, fill in the blanks, one word) of 1 mark per part.",
+    "Questions 14–19 carry 2 marks (30–40 words). Question 21 has five parts of 2 marks. Questions 20 and 27 carry 3 marks, 22 and 24–26 carry 4 marks, and 23 carries 6 marks (150–200 words).",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct option from the given alternatives.",
+      "marks": "1 × 3 = 3",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "'Keep your head when all about you are losing theirs' means — (If)",
+          "options": [
+            "stay calm in a crisis",
+            "protect yourself from injury",
+            "become a leader",
+            "avoid other people"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "'The mind is without fear and the head is held high' means — (Where the Mind is Without Fear)",
+          "options": [
+            "to be fearless and self-respecting",
+            "to be proud of one's high position",
+            "to stand straight and be carefree",
+            "to be stubborn"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "Where did Kabir find the wicked person he was looking for? (Kabir and Thiruvalluvar)",
+          "options": [
+            "In the marketplace",
+            "Among his enemies",
+            "Within himself",
+            "Nowhere at all"
+          ],
+          "answer": "C"
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Read the text carefully and choose the correct alternatives.",
+      "marks": "1 × 5 = 5",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "mcq",
+          "q": "What were the names of the newspapers started by Tilak?",
+          "options": [
+            "Kesari and Maratha",
+            "The Times of India and Hindustan Times",
+            "Swarajya and Young India",
+            "The Pioneer and The Tribune"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "2.2",
+          "type": "mcq",
+          "q": "Which festival did Tilak make a public celebration?",
+          "options": [
+            "Holi",
+            "Ganesh Chaturthi",
+            "Diwali",
+            "Eid"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "2.3",
+          "type": "mcq",
+          "q": "What did Tilak mean by 'Swarajya is my birthright, and I shall have it'?",
+          "options": [
+            "He wanted higher salaries for officials",
+            "He asserted his right to celebrate festivals",
+            "He declared his firm determination to achieve self-rule for India",
+            "He wanted to become Congress President"
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "2.4",
+          "type": "mcq",
+          "q": "Where was Tilak imprisoned when he wrote Gita Rahasya?",
+          "options": [
+            "Tihar Jail, India",
+            "Mandalay Central Jail, Burma",
+            "Cellular Jail, Andaman",
+            "Yerwada Jail, Pune"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "2.5",
+          "type": "mcq",
+          "q": "Why did Tilak organise the Shivaji festival in 1895?",
+          "options": [
+            "To raise money for the Congress",
+            "To inspire people to take pride in their culture and history",
+            "To celebrate a victory over the British",
+            "To mark his release from prison"
+          ],
+          "answer": "B"
+        }
+      ],
+      "passage": "Bal Gangadhar Tilak was born on July 23, 1856, in Ratnagiri, Maharashtra. His quest for knowledge led him to pursue higher education in mathematics and law. Tilak's entry into politics was marked by his deep sense of national pride and a call for Swaraj. He became a part of the Indian National Congress but later founded the extremist wing within the Congress, advocating a more assertive approach towards achieving independence. His newspapers, 'Kesari' and 'Maratha', became powerful platforms for spreading nationalist ideas. Tilak felt that the cultural and religious traditions of India were being suppressed. He decided to make the Ganesh Chaturthi celebration a public event, believing that by celebrating the festival openly and bringing people together, they could assert their cultural identity and build a sense of unity and pride. In 1895, Tilak organised a grand Shivaji festival in Pune to commemorate the Maratha warrior king. In a memorable public gathering, Tilak declared, \"Swarajya is my birthright, and I shall have it!\" This statement became a rallying cry for the independence movement. While imprisoned at Mandalay Central Jail in Burma, he wrote several works, including 'The Arctic Home in the Vedas' and 'Gita Rahasya'."
+    },
+    {
+      "no": 3,
+      "title": "Identify the following sentences as True or False.",
+      "marks": "1 × 4 = 4",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "mcq",
+          "q": "Bholi had an attack of smallpox when she was two years old. (Bholi)",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "fixed": true
+        },
+        {
+          "id": "3.2",
+          "type": "mcq",
+          "q": "The meeting place had once been 'Big Joe' Brady's restaurant. (After Twenty Years)",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "fixed": true
+        },
+        {
+          "id": "3.3",
+          "type": "mcq",
+          "q": "Mathilde stopped visiting Madame Forestier because she felt so unhappy after each visit. (The Necklace)",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "fixed": true
+        },
+        {
+          "id": "3.4",
+          "type": "mcq",
+          "q": "The astrologer had planned from his youth to become an astrologer. (An Astrologer's Day)",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "note": "He 'had not in the least intended to be an astrologer when he began life'.",
+          "fixed": true
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Match Column I with Column II in reference to 'An Astrologer's Day'.",
+      "marks": "1 × 3 = 3",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "match",
+          "left": "The astrologer",
+          "right": "Shrewd observer who lives by guesswork",
+          "answer": "The astrologer — Shrewd observer who lives by guesswork"
+        },
+        {
+          "id": "4.2",
+          "type": "match",
+          "left": "Guru Nayak",
+          "right": "Seeks revenge on the man who stabbed him",
+          "answer": "Guru Nayak — Seeks revenge on the man who stabbed him"
+        },
+        {
+          "id": "4.3",
+          "type": "match",
+          "left": "The astrologer's wife",
+          "right": "Overjoyed to buy sweets for her child",
+          "answer": "The astrologer's wife — Overjoyed to buy sweets for her child"
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Read the text carefully and choose the correct alternatives.",
+      "marks": "1 × 5 = 5",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "mcq",
+          "q": "Why was plastic once called a wonder material?",
+          "options": [
+            "It was rare and costly",
+            "It was light, cheap, strong and easy to shape",
+            "It dissolved in water",
+            "It was made from plants"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "5.2",
+          "type": "mcq",
+          "q": "According to the passage, plastic is harmful mainly because —",
+          "options": [
+            "it is too expensive",
+            "it does not rot and is used carelessly",
+            "it is too heavy to carry",
+            "it cannot be moulded"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "5.3",
+          "type": "mcq",
+          "q": "Sea turtles eat plastic bags because they —",
+          "options": [
+            "are hungry for plastic",
+            "mistake them for jellyfish",
+            "like their colour",
+            "are fed by people"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "5.4",
+          "type": "mcq",
+          "q": "What does the writer suggest as the solution?",
+          "options": [
+            "Banning all plastic at once",
+            "Using less, reusing and recycling",
+            "Burning plastic waste",
+            "Dumping it in the sea"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "5.5",
+          "type": "mcq",
+          "q": "The word 'durable' in the passage means —",
+          "options": [
+            "weak",
+            "long-lasting",
+            "colourful",
+            "cheap"
+          ],
+          "answer": "B"
+        }
+      ],
+      "passage": "Plastic was once hailed as a wonder material. It is light, cheap, strong and can be moulded into almost any shape. Today, however, the very qualities that made plastic popular have turned it into one of the world's biggest environmental problems. Because it is cheap, we use it carelessly and throw it away after a single use. Because it is durable, it does not rot; a plastic bottle may take hundreds of years to break down.\n\nMuch of this waste ends up in rivers and oceans. Sea turtles mistake floating bags for jellyfish, and seabirds feed bits of plastic to their chicks. Over time, plastic breaks into tiny pieces called microplastics, which have been found in fish, salt and even drinking water.\n\nThe solution does not lie in banning plastic altogether, for it is useful in medicine and many industries. It lies in using less of it, reusing what we can and recycling the rest. Carrying a cloth bag, refusing plastic straws and segregating waste at home may seem small steps, but when millions of people take them, the change is enormous."
+    },
+    {
+      "no": 6,
+      "title": "Read the passage and identify the sentences as True or False.",
+      "marks": "1 × 5 = 5",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "6.1",
+          "type": "mcq",
+          "q": "Modern public libraries offer only printed books.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "fixed": true
+        },
+        {
+          "id": "6.2",
+          "type": "mcq",
+          "q": "Some libraries help senior citizens learn digital payments.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "fixed": true
+        },
+        {
+          "id": "6.3",
+          "type": "mcq",
+          "q": "Mobile libraries take books to villages without a library.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "fixed": true
+        },
+        {
+          "id": "6.4",
+          "type": "mcq",
+          "q": "'Little free libraries' charge a small fee for each book.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "fixed": true
+        },
+        {
+          "id": "6.5",
+          "type": "mcq",
+          "q": "Librarians feel that the need for public libraries has decreased.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "fixed": true
+        }
+      ],
+      "passage": "Libraries are no longer silent rooms full of dusty books. Many public libraries today offer free internet, e-books and audiobooks that members can borrow on their phones. Some run coding clubs for children, language classes for adults and help desks where senior citizens learn to use digital payments. Mobile libraries carry books in buses to villages that have no library of their own. In some cities, 'little free libraries' — small wooden boxes on street corners — invite people to take a book and leave a book. Librarians say that although reading habits have changed, the need for a friendly public space where anyone can learn, free of cost, has only grown."
+    },
+    {
+      "no": 7,
+      "title": "Fill in the blanks with the proper tense of the verbs given in brackets.",
+      "marks": "1 × 4 = 4",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "7.1",
+          "type": "open",
+          "q": "Look! The children ________ (play) in the rain.",
+          "answer": "are playing"
+        },
+        {
+          "id": "7.2",
+          "type": "open",
+          "q": "By the time the guests arrived, we ________ (finish) the cooking.",
+          "answer": "had finished"
+        },
+        {
+          "id": "7.3",
+          "type": "open",
+          "q": "She ________ (live) in Pune since 2019.",
+          "answer": "has lived / has been living"
+        },
+        {
+          "id": "7.4",
+          "type": "open",
+          "q": "If it rains tomorrow, the match ________ (be) cancelled.",
+          "answer": "will be"
+        }
+      ]
+    },
+    {
+      "no": 8,
+      "title": "Match Column I with Column II (one-word substitution).",
+      "marks": "1 × 4 = 4",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "8.1",
+          "type": "match",
+          "left": "A person who can speak many languages",
+          "right": "Polyglot",
+          "answer": "A person who can speak many languages — Polyglot"
+        },
+        {
+          "id": "8.2",
+          "type": "match",
+          "left": "A person who does not believe in God",
+          "right": "Atheist",
+          "answer": "A person who does not believe in God — Atheist"
+        },
+        {
+          "id": "8.3",
+          "type": "match",
+          "left": "A speech made without preparation",
+          "right": "Extempore",
+          "answer": "A speech made without preparation — Extempore"
+        },
+        {
+          "id": "8.4",
+          "type": "match",
+          "left": "One who lives on vegetables, not meat",
+          "right": "Vegetarian",
+          "answer": "One who lives on vegetables, not meat — Vegetarian"
+        }
+      ]
+    },
+    {
+      "no": 9,
+      "title": "Fill in the blanks with appropriate question words.",
+      "marks": "1 × 3 = 3",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "9.1",
+          "type": "open",
+          "q": "________ is your birthday? — On 5th June.",
+          "answer": "When"
+        },
+        {
+          "id": "9.2",
+          "type": "open",
+          "q": "________ you help me with this box? — Yes, of course.",
+          "answer": "Could / Can"
+        },
+        {
+          "id": "9.3",
+          "type": "open",
+          "q": "________ book is this? — It is Ravi's.",
+          "answer": "Whose"
+        }
+      ]
+    },
+    {
+      "no": 10,
+      "title": "Match the word 'Light' in Column I with its correct meaning in Column II.",
+      "marks": "1 × 4 = 4",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "10.1",
+          "type": "match",
+          "left": "Light of the sun",
+          "right": "Brightness that makes things visible",
+          "answer": "Light of the sun — Brightness that makes things visible"
+        },
+        {
+          "id": "10.2",
+          "type": "match",
+          "left": "A light bag",
+          "right": "Not heavy",
+          "answer": "A light bag — Not heavy"
+        },
+        {
+          "id": "10.3",
+          "type": "match",
+          "left": "A light meal",
+          "right": "Small in quantity, easy to digest",
+          "answer": "A light meal — Small in quantity, easy to digest"
+        },
+        {
+          "id": "10.4",
+          "type": "match",
+          "left": "Light blue",
+          "right": "Pale in colour",
+          "answer": "Light blue — Pale in colour"
+        }
+      ]
+    },
+    {
+      "no": 11,
+      "title": "Fill in the blanks with the correct forms of the words given in brackets.",
+      "marks": "1 × 3 = 3",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "11.1",
+          "type": "open",
+          "q": "His ________ of the problem was clear and simple. (explain)",
+          "answer": "explanation"
+        },
+        {
+          "id": "11.2",
+          "type": "open",
+          "q": "The ________ of the bridge took two years. (construct)",
+          "answer": "construction"
+        },
+        {
+          "id": "11.3",
+          "type": "open",
+          "q": "We admired her ________ in the face of danger. (brave)",
+          "answer": "bravery"
+        }
+      ]
+    },
+    {
+      "no": 12,
+      "title": "Read the poem and answer the questions.",
+      "marks": "1 × 3 = 3",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "12.1",
+          "type": "mcq",
+          "q": "'And stare as long as sheep or cows' contains a —",
+          "options": [
+            "metaphor",
+            "simile",
+            "pun",
+            "hyperbole"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "12.2",
+          "type": "mcq",
+          "q": "The repetition of 'No time' at the beginning of lines is an example of —",
+          "options": [
+            "anaphora",
+            "onomatopoeia",
+            "oxymoron",
+            "irony"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "12.3",
+          "type": "mcq",
+          "q": "'Beauty's glance … her feet, how they can dance' is an example of —",
+          "options": [
+            "personification",
+            "alliteration",
+            "simile",
+            "antithesis"
+          ],
+          "answer": "A"
+        }
+      ],
+      "passage": "Leisure — W. H. Davies (lines)\n\nWhat is this life if, full of care,\nWe have no time to stand and stare.\nNo time to stand beneath the boughs\nAnd stare as long as sheep or cows.\nNo time to see, when woods we pass,\nWhere squirrels hide their nuts in grass.\nNo time to turn at Beauty's glance,\nAnd watch her feet, how they can dance."
+    },
+    {
+      "no": 13,
+      "title": "Choose the correct alternatives (writing skills).",
+      "marks": "1 × 4 = 4",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "13.1",
+          "type": "mcq",
+          "q": "Which short form means 'talk to you later'? (Writing E-mails)",
+          "options": [
+            "TIA",
+            "TTYL",
+            "BTW",
+            "IMO"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "13.2",
+          "type": "mcq",
+          "q": "The lead paragraph of a newspaper report should answer — (Report Writing)",
+          "options": [
+            "only 'why'",
+            "who, what, when, where and why",
+            "the reporter's opinion",
+            "future plans only"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "13.3",
+          "type": "mcq",
+          "q": "Which is generally shorter and tailored to a particular job? (Writing Job Applications)",
+          "options": [
+            "A CV",
+            "A résumé",
+            "A cover letter",
+            "A memo"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "13.4",
+          "type": "mcq",
+          "q": "A memo is generally used for — (Writing Memos and Letters)",
+          "options": [
+            "external communication",
+            "informal personal messages",
+            "internal office communication",
+            "advertising products"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2026"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 14,
+      "title": "Answer in 30–40 words.",
+      "marks": "2",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "14.1",
+          "type": "open",
+          "q": "What does the poet mean by keeping or losing one's head? (If)",
+          "answer": "Keeping one's head means staying calm and clear-minded in a crisis; losing it means panicking and acting without thought.",
+          "or": {
+            "q": "What does the poet mean by 'the mind is without fear and the head is held high'? (Where the Mind is Without Fear)",
+            "answer": "He wants a country where people are fearless and live with dignity and self-respect, not bowed down by oppression or fear."
+          }
+        }
+      ]
+    },
+    {
+      "no": 15,
+      "title": "Answer in 30–40 words.",
+      "marks": "2",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "15.1",
+          "type": "open",
+          "q": "What does Kabir lament when he sees the grinding stones at work? (Kabir and Thiruvalluvar)",
+          "answer": "He weeps because, just as grain is crushed between two millstones, every living being is crushed between life's opposing forces such as joy and sorrow, birth and death. Nothing remains whole."
+        }
+      ]
+    },
+    {
+      "no": 16,
+      "title": "Answer in 30–40 words.",
+      "marks": "2",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "16.1",
+          "type": "open",
+          "q": "Why did the king help the hermit dig the beds? (Three Questions)",
+          "answer": "The hermit was old and frail and breathed heavily as he dug. Out of kindness the king offered to take the spade and dug for hours, hoping also to get his answers.",
+          "or": {
+            "q": "How did the king save the bearded man's life? (Three Questions)",
+            "answer": "He washed and bandaged the man's bleeding stomach wound with his handkerchief and towel, changed the bandage till the bleeding stopped, gave him water and carried him into the hut."
+          }
+        }
+      ]
+    },
+    {
+      "no": 17,
+      "title": "Answer in 30–40 words.",
+      "marks": "2",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "17.1",
+          "type": "open",
+          "q": "What was the promise made by Bob and Jimmy twenty years ago? (After Twenty Years)",
+          "answer": "The night before Bob left for the West, they dined at 'Big Joe' Brady's and promised to meet at the same place, at ten o'clock, exactly twenty years later, whatever their condition or however far they had to travel."
+        }
+      ]
+    },
+    {
+      "no": 18,
+      "title": "Answer in 30–40 words.",
+      "marks": "2",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "18.1",
+          "type": "open",
+          "q": "Why was Mathilde always unhappy? (The Necklace)",
+          "answer": "She felt that, being pretty and charming, she deserved a life of luxury. Her poor home, shabby furniture and plain food tortured her, and she envied rich people like her friend.",
+          "or": {
+            "q": "Why was Mathilde a great success at the ball? (The Necklace)",
+            "answer": "She was the prettiest woman there — elegant, graceful, smiling and wild with joy. Everyone admired her, all the men wanted to dance with her, and even the Minister noticed her."
+          }
+        }
+      ]
+    },
+    {
+      "no": 19,
+      "title": "Answer in 30–40 words.",
+      "marks": "2",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "19.1",
+          "type": "open",
+          "q": "What are the three uses of studies? (Of Studies)",
+          "answer": "Studies serve for delight in private and in retirement, for ornament in conversation, and for ability in judging and managing business."
+        }
+      ]
+    },
+    {
+      "no": 20,
+      "title": "Answer in about 50–60 words.",
+      "marks": "3",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "20.1",
+          "type": "open",
+          "q": "'Going to school was a turning point in Bholi's life.' Elaborate with examples from the story. (Bholi)",
+          "answer": "Before school Bholi was neglected, mocked and silent. Her teacher's kindness and the promise of reading gave her hope and confidence. Education helped her overcome her stammer, and in the end she spoke boldly, rejected a greedy groom and chose to teach and care for her parents.",
+          "years": [
+            "October 2016",
+            "April 2018",
+            "April 2019"
+          ],
+          "or": {
+            "q": "Describe the change of heart in the bearded man. (Three Questions)",
+            "answer": "He hated the king for executing his brother and seizing his property, and lay in wait to kill him. When the king tended his wound and saved his life, his hatred turned to gratitude. He begged forgiveness and vowed to serve the king; kindness turned an enemy into a friend."
+          }
+        }
+      ]
+    },
+    {
+      "no": 21,
+      "title": "Read the passage carefully and answer the questions in about 30 words each.",
+      "marks": "2 × 5 = 10",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "21.1",
+          "type": "open",
+          "q": "Why did people gather around Meera's tea stall every morning?",
+          "answer": "Her ginger tea was the best in town and she always had a kind word for everyone."
+        },
+        {
+          "id": "21.2",
+          "type": "open",
+          "q": "What problem did the passengers face on the monsoon night?",
+          "answer": "A landslide blocked the only road, and nearly forty passengers were stranded at the bus stand while the nearest hotel was full."
+        },
+        {
+          "id": "21.3",
+          "type": "open",
+          "q": "How did Meera help the stranded passengers?",
+          "answer": "She kept her stall open all night, cooked tea and khichdi without charging, wrapped the sick baby in her shawl and sent her son to fetch the doctor."
+        },
+        {
+          "id": "21.4",
+          "type": "open",
+          "q": "What did Meera mean by 'Tea tastes better when it is shared'?",
+          "answer": "She meant that helping and sharing with others gives more joy than earning money, so she would not accept payment."
+        },
+        {
+          "id": "21.5",
+          "type": "open",
+          "q": "How was Meera rewarded for her kindness?",
+          "answer": "A journalist wrote about her; the district administration honoured her and gave her a grant to build a shelter at the bus stand, which she named 'Sabka Ghar'."
+        }
+      ],
+      "passage": "Meera ran a small tea stall at the bus stand of a hill town. Every morning she opened at five, when the first bus left for the plains. Students, drivers and labourers gathered around her stove, for her ginger tea was the best in town and she always had a kind word for everyone.\n\nOne monsoon night, a landslide blocked the only road. Nearly forty passengers were stranded at the bus stand, among them an old couple and a mother with a feverish baby. The nearest hotel was full. Meera did not think twice. She kept her stall open all night, boiled tea and khichdi on her single stove and refused to take money from anyone. She wrapped the baby in her own shawl and sent her son running through the rain to call the town's only doctor.\n\nBy morning the road was cleared. The passengers tried to pay her, but she laughed, \"Tea tastes better when it is shared.\" A journalist among them wrote about her in a newspaper. A few weeks later the district administration honoured her and gave her a grant to build a small shelter at the bus stand. Meera named it 'Sabka Ghar' — everyone's home."
+    },
+    {
+      "no": 22,
+      "title": "Do as directed.",
+      "marks": "1 × 4 = 4",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "22.1",
+          "type": "open",
+          "q": "Rewrite using a phrasal verb for 'postponed': The meeting was postponed because of the rain.",
+          "answer": "The meeting was put off because of the rain."
+        },
+        {
+          "id": "22.2",
+          "type": "open",
+          "q": "Change the voice: The police have caught the thief.",
+          "answer": "The thief has been caught by the police."
+        },
+        {
+          "id": "22.3",
+          "type": "open",
+          "q": "Change the speech: She said to me, \"Where do you live?\"",
+          "answer": "She asked me where I lived."
+        },
+        {
+          "id": "22.4",
+          "type": "open",
+          "q": "Combine into a simple sentence: He is very weak. He cannot walk.",
+          "answer": "He is too weak to walk."
+        }
+      ]
+    },
+    {
+      "no": 23,
+      "title": "Answer any one in 150–200 words.",
+      "marks": "6",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "23.1",
+          "type": "open",
+          "q": "Write an article (150–200 words) on 'The Importance of Physical Fitness for Young People'.",
+          "answer": "The Importance of Physical Fitness for Young People\nIn an age of screens and fast food, physical fitness has become more important than ever for young people. Regular exercise keeps the heart and lungs healthy, builds strong muscles and bones, and prevents obesity and lifestyle diseases that are now appearing even in teenagers.\nFitness is not only about the body. Exercise releases chemicals in the brain that reduce stress and improve mood, concentration and sleep — a great help during examinations. Team sports teach discipline, cooperation, leadership and the grace to accept both victory and defeat.\nYet many students spend hours sitting with books or phones. Even thirty to sixty minutes a day of brisk walking, cycling, yoga, swimming or games can make a big difference. Schools should give games periods their due, and parents should encourage outdoor play instead of screen time.\nA fit body supports an alert mind. If young people make fitness a daily habit now, they will enjoy healthier, happier and more productive lives.",
+          "or": {
+            "q": "Write a speech (150–200 words) for the morning assembly on 'Save Water'.",
+            "answer": "Good morning, respected Principal, teachers and dear friends.\nToday I wish to speak on a resource we take for granted — water. Though three-fourths of the earth is water, only a tiny part is fresh and fit to drink. Many cities in India already face severe shortages, and groundwater is falling every year.\nMuch of this crisis is caused by waste. A dripping tap can waste thousands of litres a year; running taps while brushing, washing cars with hoses and leaking pipes all add to the loss.\nWe can make a difference. Turn off taps when not in use and repair leaks at once. Use a bucket instead of a hose, and reuse water from washing vegetables to water plants. Harvest rainwater on rooftops and in schools.\nLet us remember: we cannot make water, we can only save it. Every drop saved today is a drop for tomorrow. Thank you."
+          }
+        }
+      ]
+    },
+    {
+      "no": 24,
+      "title": "Answer in 80–100 words.",
+      "marks": "4",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "24.1",
+          "type": "open",
+          "q": "Read the passage above (on sleep and health) and make notes with a title, headings, sub-headings and abbreviations.",
+          "answer": "Title: Sleep and Health\n1. Importance of sleep\n   1.1 teens need 8–10 hrs/night; most get less\n   1.2 brain sorts & stores learning → memory\n   1.3 body repairs muscles, releases growth hormones, strengthens immunity\n2. Effects of lack of sleep\n   2.1 short term — poor concentration, irritability, weak memory, accidents\n   2.2 long term — obesity, diabetes, depression\n3. Causes of poor sleep\n   3.1 late-night phones/screens\n   3.2 heavy homework\n   3.3 caffeine; irregular routine\n4. Tips\n   4.1 fixed bedtime\n   4.2 no screens 1 hr before sleep\n   4.3 dark, quiet room\n   4.4 avoid tea/coffee & heavy meals late\nKey: hrs — hours; & — and; → — leads to",
+          "or": {
+            "q": "Write a summary of the passage above (on sleep and health) in about 60 words.",
+            "answer": "Sleep is vital for teenagers, who need eight to ten hours a night but usually get less. It helps the brain store learning and the body repair and grow. Too little sleep harms concentration, memory and mood, and is linked with obesity, diabetes and depression. Screens, homework, caffeine and irregular routines are the chief causes; a fixed bedtime, no screens and a quiet room help."
+          }
+        }
+      ],
+      "passage": "Sleep is as important to health as food and exercise. Teenagers need eight to ten hours of sleep each night, yet most get far less. During sleep the brain sorts and stores what was learnt during the day, so sleep is vital for memory and learning. The body repairs muscles, releases growth hormones and strengthens the immune system. Lack of sleep causes poor concentration, irritability, weak memory and more accidents; over time it is linked with obesity, diabetes and depression. The main causes of poor sleep among young people are late-night use of phones and screens, heavy homework, caffeine and irregular routines. Experts advise a fixed bedtime, no screens for an hour before sleep, a dark and quiet room, and avoiding tea, coffee and heavy meals late in the evening."
+    },
+    {
+      "no": 25,
+      "title": "Writing task (letter or memo).",
+      "marks": "4",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "25.1",
+          "type": "open",
+          "q": "You are the Manager of VXT Textiles, Ludhiana. You ordered 16 boxes of silk sarees from Shree Cloth Mills, Chennai, but received 16 boxes of cotton sarees. Write a letter of complaint. (Writing Memos and Letters)",
+          "answer": "VXT Textiles\nLudhiana\n2 May 2026\n\nThe Manager\nShree Cloth Mills\nChennai\n\nSubject: Wrong consignment against Order No. VXT/112\n\nDear Sir,\nWith reference to our Order No. VXT/112 dated 15 April 2026 for 16 boxes of silk sarees, we regret to inform you that the consignment received contains 16 boxes of Chennai cotton sarees instead.\nPlease take back the cotton sarees at your cost and dispatch the silk sarees immediately, as our festival sale begins next week.\nYours faithfully,\nManager, VXT Textiles",
+          "or": {
+            "q": "You want to join a course at the Ramakrishna Mission Institute of Culture, Kolkata. Write a letter of enquiry to the Programme Manager about the course details. (Writing Memos and Letters)",
+            "answer": "15, Lake Road\nKolkata\n4 June 2026\n\nThe Programme Manager\nRamakrishna Mission Institute of Culture\nGol Park, Kolkata\n\nSubject: Enquiry about the Certificate Course in Spoken English\n\nDear Sir/Madam,\nI read about your Certificate Course in Spoken English on your website. Kindly send me the following details:\n1. Duration and class timings\n2. Fees and mode of payment\n3. Eligibility criteria\n4. Admission procedure and last date\nAn early reply would be appreciated.\nYours faithfully,\nAnita Das"
+          }
+        }
+      ]
+    },
+    {
+      "no": 26,
+      "title": "Writing task (report).",
+      "marks": "4",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "26.1",
+          "type": "open",
+          "q": "A Yoga Shivir was organised by your colony on 21st June, International Day of Yoga. Write a news clipping for the Residents' Welfare Association in about 120 words. (Report Writing)",
+          "answer": "YOGA SHIVIR DRAWS HUNDREDS\nBy Rohan Mehra, Shanti Vihar\n\nOn International Day of Yoga, 21 June, the Shanti Vihar RWA organised a Yoga Shivir in the community park from 6 to 8 a.m. Over 250 residents of all ages took part.\nYoga teacher Ms Anjali Sen led sessions on surya namaskar, pranayama and meditation, and explained how daily practice reduces stress and lifestyle diseases. Senior citizens were given simple chair exercises.\n\"I feel fresh and energetic,\" said 72-year-old Mr Gupta. Children enjoyed a special session of animal poses.\nThe RWA has decided to hold free yoga classes every Sunday morning.",
+          "or": {
+            "q": "You visited Jeny Residency, Pune. Write a report on its facilities to the General Manager, P & G, Mumbai. (Report Writing)",
+            "answer": "To: The General Manager, P & G, Mumbai\nFrom: Administrative Officer\nDate: 8 March 2026\nSubject: Report on facilities at Jeny Residency, Pune\n\nAs instructed, I visited Jeny Residency on 6 March to assess it for our training programme.\nFindings:\n1. Conference hall seating 150, with projector and sound system.\n2. A large open lawn suitable for group activities.\n3. Forty clean, spacious rooms, sufficient for our participants.\n4. A quiet, green campus away from city noise.\nDrawback: it is 20 km from the station; the hotel provides a shuttle on request.\nRecommendation: the venue is suitable and may be booked for April.\nSd/-\nAdministrative Officer"
+          }
+        }
+      ]
+    },
+    {
+      "no": 27,
+      "title": "Writing task (e-mail or job application).",
+      "marks": "3",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "27.1",
+          "type": "open",
+          "q": "Write an e-mail to Raj Travels asking them to cancel your air tickets to Bangalore and the hotel accommodation they booked for you. You will inform them of the changed date later. (Writing E-mails)",
+          "answer": "To: bookings@rajtravels.com\nSubject: Cancel tickets and hotel — Bangalore trip\n\nDear Sir,\nPlease cancel my air tickets (Delhi–Bangalore, 20 May, PNR X7K2Q) and the hotel room booked for me from 20 to 23 May. Due to an urgent change in plans I cannot travel on these dates.\nI will let you know the new dates shortly. Sorry for the inconvenience.\nRegards,\nNeha Gupta",
+          "years": [
+            "April 2018",
+            "April 2022"
+          ],
+          "or": {
+            "q": "You are a recent NIOS pass-out. Apply for the post of Sales Assistant in a reputed car company advertised in The Times of India (Box No. 8365, C/o The Times of India, New Delhi). (Writing Job Applications)",
+            "answer": "Aniruddh Vyas\n22, Shastri Nagar, New Delhi\n3 May 2026\n\nBox No. 8365\nC/o The Times of India\nNew Delhi\n\nSubject: Application for the post of Sales Assistant\n\nDear Sir/Madam,\nIn response to your advertisement in The Times of India of 1 May, I wish to apply for the post of Sales Assistant.\nI have passed Senior Secondary from NIOS (2026) and hold a driving licence. As class representative I developed good communication and teamwork, and I helped in my uncle's showroom during holidays, assisting customers.\nMy résumé is enclosed. I am available for an interview at your convenience.\nYours faithfully,\nAniruddh Vyas"
+          }
+        }
+      ]
+    }
+  ]
+}

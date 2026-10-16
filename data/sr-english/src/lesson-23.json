@@ -1,0 +1,53 @@
+{
+ "lesson": 23,
+ "title": "Writing Memos and Letters",
+ "kind": "Writing skills",
+ "author": null,
+ "summary": [
+  "## Memo",
+  "A memo (memorandum) is a brief written message for internal communication within an organisation — from one department or person to another — to share information, updates or instructions. It is written on plain paper or a memo form, not on a letterhead.",
+  "Structure: heading (MEMO/MEMORANDUM, date, To, From, Subject); opening — the purpose; body — details, background and action required, often in points; closing — summary of action needed and signature (Sd/-).",
+  "How to write: state the subject clearly; come to the point at once; short, simple, direct sentences (personal pronouns are fine); break the message into points; be brief — the reader is busy.",
+  "## Letters",
+  "A letter is a formal or informal written message, often to people outside the organisation. Structure: sender's address, date, recipient's address, subject (in formal letters), salutation, body (introduction, main content, conclusion), complimentary close (Yours sincerely/faithfully), signature and name, enclosures.",
+  "Letter of complaint: state the complaint clearly and politely without blaming; give references (order/invoice numbers, dates) and details of the defect; attach or mention evidence; say exactly what you want done (replacement, refund, repair).",
+  "Letter of enquiry: ask for specific information; quote references of earlier letters or agreements; make the urgency clear.",
+  "## Memo and letter compared",
+  "Letters go on a letterhead and are written in an indirect, formal style, often outside the organisation; memos go on plain paper or a memo form, are direct and are for internal use."
+ ],
+ "mcq": [
+  ["Why is brevity emphasised when writing a memo?", ["Memos are decorative documents", "Memos are always informal", "Memos replace formal reports", "Readers are often busy and need information quickly"], "D", ["April 2026"]],
+  ["A memo is generally used for —", ["external communication", "informal personal messages", "internal office communication", "advertising products"], "C", ["April 2026"]],
+  ["Which of these is NOT part of a memo heading?", ["To", "From", "Subject", "Complimentary close 'Yours faithfully'"], "D"],
+  ["A letter of complaint should —", ["blame the company strongly", "state the problem politely and say what action is wanted", "avoid giving order details", "be written on a memo form"], "B"],
+  ["In a letter of enquiry, references to earlier letters are given to —", ["make the letter longer", "show the context and make the enquiry specific", "impress the reader", "avoid a reply"], "B"],
+  ["Which statement about memos and letters is correct?", ["Memos are written on letterheads", "Letters are always internal", "Memos are direct; letters are more indirect and formal", "Memos need a salutation"], "C"]
+ ],
+ "tf": [
+  ["A memo is used mainly for communication within the same organisation.", true],
+  ["A memo should be long and detailed so that nothing is missed.", false],
+  ["A letter of complaint should mention references such as the invoice number and date.", true],
+  ["Letters are written on plain paper while memos are written on letterheads.", false, null, {"note": "It is the other way round."}],
+  ["A letter of enquiry should make the information sought specific.", true]
+ ],
+ "blanks": [
+  ["The short form of 'memorandum' is ________.", "memo"],
+  ["A memo heading includes the date, To, From and ________.", "Subject"],
+  ["In a letter, the sender's address is written at the top ________ corner.", "right"],
+  ["Documents sent along with a letter are listed as ________.", "Enclosures"]
+ ],
+ "sa2": [
+  ["What is a memo? For what purpose is it generally used?", "A memo is a short, informal written message sent within an organisation in place of a letter. It is used to give information, instructions or updates from one department or person to another.", ["January-February 2021", "April 2019", "October 2017", "April 2022"]],
+  ["What points should one keep in mind while writing a memo?", "State the subject clearly, come straight to the point, use short and simple sentences, break the message into points and keep it brief, since the reader may be busy.", ["October 2016", "October 2022"]],
+  ["Write any two differences between a letter and a memo.", "A letter is usually for people outside the organisation and is written on a letterhead in a formal, indirect style; a memo is for internal communication, written on plain paper or a memo form in a direct style.", ["April 2018", "October 2018"]],
+  ["What should a letter of complaint contain?", "References (order/invoice number and date), a clear and polite statement of the problem with details of the defect, any evidence, and a clear request for the action wanted, such as replacement or refund."]
+ ],
+ "la4": [
+  ["Imagine you are the Manager of Green Valley Restaurant, Chennai. You ordered 20 cartons of fruit juice from Menu Enterprises, Bengaluru but received 20 cartons of soft drinks. Write a letter of complaint and request a replacement.", "Green Valley Restaurant\n12, Anna Salai, Chennai\n5 March 2026\n\nThe Sales Manager\nMenu Enterprises\nBengaluru\n\nSubject: Wrong supply against our order\n\nDear Sir,\nWe placed an order for 20 cartons of fruit juice (Order No. GVR/26/14 dated 20 February 2026). The consignment received on 3 March, however, contains 20 cartons of soft drinks.\nWe do not serve soft drinks and cannot accept these goods. Kindly arrange to collect them at your cost and send the 20 cartons of fruit juice within a week, as our stock is running low.\nWe look forward to your prompt action.\nYours faithfully,\nR. Kumar\nManager", ["April 2026"]],
+  ["Imagine you are the Head of the Student Council and need to inform fellow students about a Cyber Safety Awareness Workshop. Write a memo announcing the event, including the date, time, location and preparations.", "MEMORANDUM\nDate: 10 March 2026\nTo: All students, Classes IX–XII\nFrom: Head, Student Council\nSubject: Cyber Safety Awareness Workshop\n\nA Cyber Safety Awareness Workshop will be held as follows:\n1. Date and time: 18 March 2026, 10 a.m. to 1 p.m.\n2. Venue: School Auditorium\n3. Topics: strong passwords, suspicious links, protecting personal data, responsible social media use\nPlease bring a notebook and pen, and note down any questions about online safety beforehand. Attendance is compulsory.\nSd/-\nHead, Student Council", ["April 2026"]],
+  ["You are the Manager of VXT Textiles, Ludhiana. You ordered 16 boxes of silk sarees from Shree Cloth Mills, Chennai, but received 16 boxes of cotton sarees. Write a letter of complaint.", "VXT Textiles\nLudhiana\n2 May 2026\n\nThe Manager\nShree Cloth Mills\nChennai\n\nSubject: Wrong consignment against Order No. VXT/112\n\nDear Sir,\nWith reference to our Order No. VXT/112 dated 15 April 2026 for 16 boxes of silk sarees, we regret to inform you that the consignment received contains 16 boxes of Chennai cotton sarees instead.\nPlease take back the cotton sarees at your cost and dispatch the silk sarees immediately, as our festival sale begins next week.\nYours faithfully,\nManager, VXT Textiles"],
+  ["You want to join a course at the Ramakrishna Mission Institute of Culture, Kolkata. Write a letter of enquiry to the Programme Manager about the course details.", "15, Lake Road\nKolkata\n4 June 2026\n\nThe Programme Manager\nRamakrishna Mission Institute of Culture\nGol Park, Kolkata\n\nSubject: Enquiry about the Certificate Course in Spoken English\n\nDear Sir/Madam,\nI read about your Certificate Course in Spoken English on your website. Kindly send me the following details:\n1. Duration and class timings\n2. Fees and mode of payment\n3. Eligibility criteria\n4. Admission procedure and last date\nAn early reply would be appreciated.\nYours faithfully,\nAnita Das", ["April 2018"]],
+  ["Write a letter to a book shop in New Delhi complaining about wrong books sent to your school library.", "The Librarian\nSunrise Public School, Faridabad\n12 July 2026\n\nThe Manager\nGyan Book Depot\nDaryaganj, New Delhi\n\nSubject: Wrong books supplied\n\nDear Sir,\nWe ordered 40 copies of 'Wings of Fire' (Order No. SPS/L/09 dated 1 July). The parcel received yesterday contains 40 copies of a different title.\nPlease replace them with the books ordered within ten days and collect the wrong copies. The invoice is enclosed for reference.\nYours faithfully,\nLibrarian", ["April 2023"]],
+  ["As Class Representative, write a memo reminding students of the deadline for project submission.", "MEMO\nDate: 20 August 2026\nTo: All students of Class XII-A\nFrom: Class Representative (on behalf of Ms R. Sharma)\nSubject: Project submission deadline\n\n1. Last date: 30 August 2026.\n2. Requirements: 15–20 pages, handwritten, with a bibliography and a signed declaration.\n3. Submit to Ms Sharma in the staff room.\n4. For any queries, contact Ms Sharma or the Class Representative.\nLate submissions will not be accepted.\nSd/-\nClass Representative"]
+ ]
+}

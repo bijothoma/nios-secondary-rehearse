@@ -1,0 +1,408 @@
+{
+  "subject": "sr-english",
+  "lesson": 19,
+  "title": "Reading with Understanding: International Fight against Drug Abuse and Illicit Trafficking",
+  "author": null,
+  "meta": "Reading comprehension · Practice set",
+  "instructions": [
+    "Practice for this lesson in the question types of the April 2026 paper (new syllabus).",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Match the word with its meaning (Lesson 19).",
+      "marks": "4 × 1 = 4",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "match",
+          "left": "Illicit",
+          "right": "Not allowed by law",
+          "answer": "Illicit — Not allowed by law"
+        },
+        {
+          "id": "1.2",
+          "type": "match",
+          "left": "Applaud",
+          "right": "To express praise",
+          "answer": "Applaud — To express praise"
+        },
+        {
+          "id": "1.3",
+          "type": "match",
+          "left": "Regimen",
+          "right": "A systematic plan of treatment",
+          "answer": "Regimen — A systematic plan of treatment"
+        },
+        {
+          "id": "1.4",
+          "type": "match",
+          "left": "Adequate",
+          "right": "Enough in quantity",
+          "answer": "Adequate — Enough in quantity"
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Read the text carefully and choose the correct alternatives.",
+      "marks": "5 × 1 = 5",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "mcq",
+          "q": "What is the occasion for this message?",
+          "options": [
+            "World Health Day",
+            "International Day against Drug Abuse and Illicit Trafficking",
+            "World Sports Day",
+            "Children's Day"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "2.2",
+          "type": "mcq",
+          "q": "What message is sent to people tempted to use drugs?",
+          "options": [
+            "Try once and stop",
+            "Value yourself — make healthy choices",
+            "Seek medicines from a chemist",
+            "Keep away from sports"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "2.3",
+          "type": "mcq",
+          "q": "The writer calls drugs 'tickets to a dead end' because —",
+          "options": [
+            "they are expensive",
+            "they lead only to ruin",
+            "they are sold at railway stations",
+            "they have colourful names"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "2.4",
+          "type": "mcq",
+          "q": "Which word in the passage means 'not allowed by law'?",
+          "options": [
+            "enticing",
+            "illicit",
+            "trapped",
+            "ventured"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "2.5",
+          "type": "mcq",
+          "q": "How do sports help, according to the passage?",
+          "options": [
+            "They make people rich",
+            "They improve health and teach teamwork, discipline and self-confidence",
+            "They cure addiction at once",
+            "They replace treatment"
+          ],
+          "answer": "B"
+        }
+      ],
+      "passage": "On this International Day against Drug Abuse and Illicit Trafficking, we celebrate the choice that millions of people around the world have made to live healthily, and we applaud the courage shown by those who have stopped using drugs. In doing so, we send a positive message to all people who use or might be tempted to use drugs: 'Value yourself ... make healthy choices.' This day is also an occasion to highlight the fact that nearly 200 million people are still consuming illegal drugs. These drugs might have names that sound colourful or enticing, such as crack, pot, junk, crystal meth, and disco biscuits. But these are little more than tickets to a dead end. For those trapped by addiction, treatment is a way out, and the choice to seek treatment is not only courageous, but often life-saving. Those who have not ventured down the path of drug abuse should learn the lesson from those who have, and firmly choose not to. Making healthy choices also means choosing a lifestyle that has a positive effect on the body and mind, including, for example, participation in sports to improve health and well-being, teach the value of teamwork and discipline, and build self-confidence."
+    },
+    {
+      "no": 3,
+      "title": "Based on the passage above, identify the sentences as True or False.",
+      "marks": "3 × 1 = 3",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "mcq",
+          "q": "Nearly 200 million people are still consuming illegal drugs.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "fixed": true
+        },
+        {
+          "id": "3.2",
+          "type": "mcq",
+          "q": "Seeking treatment for addiction is described as cowardly.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "fixed": true
+        },
+        {
+          "id": "3.3",
+          "type": "mcq",
+          "q": "Drugs may have names that sound attractive.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "fixed": true
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Answer in about 30 words (passage above).",
+      "marks": "2 × 2 = 4",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "Why should those who have never used drugs learn from addicts?",
+          "answer": "Addicts show where drugs lead — to a dead end. Seeing this, others should firmly choose never to start."
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "What healthy choices does the writer refer to?",
+          "answer": "A lifestyle good for body and mind, such as taking part in sports, which improves health and teaches teamwork, discipline and self-confidence."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Read the text carefully and choose the correct alternatives.",
+      "marks": "5 × 1 = 5",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "mcq",
+          "q": "According to the passage, drug addiction is —",
+          "options": [
+            "incurable",
+            "a treatable disorder",
+            "a crime only",
+            "accepted in society"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "5.2",
+          "type": "mcq",
+          "q": "Which of these is NOT a behavioural therapy mentioned?",
+          "options": [
+            "Counselling",
+            "Support groups",
+            "Surgery",
+            "Family therapy"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "5.3",
+          "type": "mcq",
+          "q": "Which word in the passage means 'a systematic plan or set of rules'?",
+          "options": [
+            "disorder",
+            "regimen",
+            "syndrome",
+            "abstinence"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "5.4",
+          "type": "mcq",
+          "q": "The ultimate goal of drug abuse treatment is —",
+          "options": [
+            "to reduce crime",
+            "lasting abstinence from drugs",
+            "to find jobs for patients",
+            "to lower medical costs"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "5.5",
+          "type": "mcq",
+          "q": "Short-term treatment methods last —",
+          "options": [
+            "less than six months",
+            "about a year",
+            "more than two years",
+            "a lifetime"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2025"
+          ]
+        }
+      ],
+      "passage": "Drug addiction is a treatable disorder. Through treatment that is tailored to individual needs, patients can leave their condition and live normal, productive lives. Like people with diabetes or heart disease, people in treatment for addiction learn behavioural changes and often take medications as part of their treatment regimen. Behavioural therapies can include counselling, psychotherapy, support groups, or family therapy. Treatment offers help in suppressing the withdrawal syndrome and drug craving and in blocking the effects of drugs. In general, the more treatment given, the better the results. Patients who stay in treatment longer have better outcomes than those who stay less time. Studies have shown that treatment works to reduce drug use and crimes committed by drug-dependent people. The ultimate goal of all drug abuse treatment is to enable the patient to achieve lasting abstinence, but the immediate goals are to reduce drug use, improve the patient's ability to function, and minimise the medical and social curse of drug abuse. Short-term methods last less than six months and include residential therapy, medication therapy, and drug-free outpatient therapy. Longer-term treatment may include, for example, methadone maintenance outpatient treatment for opiate addicts and residential therapeutic communities."
+    },
+    {
+      "no": 6,
+      "title": "Based on the passage above, identify the sentences as True or False.",
+      "marks": "5 × 1 = 5",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "6.1",
+          "type": "mcq",
+          "q": "The final purpose of drug abuse treatment is to enable patients to give up drugs forever.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2025"
+          ],
+          "fixed": true
+        },
+        {
+          "id": "6.2",
+          "type": "mcq",
+          "q": "The passage believes that drug abuse treatment is effective.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2025"
+          ],
+          "fixed": true
+        },
+        {
+          "id": "6.3",
+          "type": "mcq",
+          "q": "Drug addiction cannot be treated.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2025"
+          ],
+          "fixed": true
+        },
+        {
+          "id": "6.4",
+          "type": "mcq",
+          "q": "All drug addicts get the same medicine for treatment.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2025"
+          ],
+          "fixed": true
+        },
+        {
+          "id": "6.5",
+          "type": "mcq",
+          "q": "Patients who stay in treatment longer have better outcomes.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2025"
+          ],
+          "fixed": true
+        }
+      ]
+    },
+    {
+      "no": 7,
+      "title": "Answer in about 30 words (passage above).",
+      "marks": "2 × 2 = 4",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "7.1",
+          "type": "open",
+          "q": "How is treating addiction like treating diabetes or heart disease?",
+          "answer": "In both, patients learn to change their behaviour and often take medicines as part of a regular treatment plan.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "7.2",
+          "type": "open",
+          "q": "What are the immediate goals of drug abuse treatment?",
+          "answer": "To reduce drug use, to improve the patient's ability to function, and to minimise the medical and social harm of drug abuse.",
+          "years": [
+            "April 2025"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 8,
+      "title": "Answer in 30–40 words.",
+      "marks": "3 × 2 = 6",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "8.1",
+          "type": "open",
+          "q": "Why is the choice to seek treatment called 'courageous'?",
+          "answer": "Admitting addiction and facing withdrawal and craving take courage. Treatment is the way out of addiction and often saves the person's life."
+        },
+        {
+          "id": "8.2",
+          "type": "open",
+          "q": "How does treatment help society as well as the addict?",
+          "answer": "Treated addicts commit fewer crimes and are more likely to have jobs, so society becomes safer, while the addict can live a normal, productive life."
+        },
+        {
+          "id": "8.3",
+          "type": "open",
+          "q": "What can young people do to keep away from drugs?",
+          "answer": "Value themselves, learn from those trapped by addiction, refuse firmly when tempted, and take up sports and healthy activities that build discipline and self-confidence."
+        }
+      ]
+    },
+    {
+      "no": 9,
+      "title": "Answer in about 50–60 words.",
+      "marks": "1 × 3 = 3",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "9.1",
+          "type": "open",
+          "q": "Write a short note on the treatment of drug addiction.",
+          "answer": "Addiction is treatable. Treatment is tailored to the individual and combines behavioural therapies — counselling, psychotherapy, support groups, family therapy — with medication such as methadone. Longer treatment gives better results. The aim is lasting abstinence; meanwhile it reduces drug use, crime and health problems."
+        }
+      ]
+    }
+  ]
+}

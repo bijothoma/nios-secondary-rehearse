@@ -1,0 +1,103 @@
+{
+ "lesson": 16,
+ "title": "Reading with Understanding: Stress Before Examination",
+ "kind": "Reading comprehension",
+ "author": null,
+ "summary": [
+  "## What the lesson says",
+  "Before examinations students — and also their teachers and parents — are under great stress. Adolescents must cope with their developmental tasks and with adjusting to a complex society; they worry about living up to the expectations of peers, parents and teachers. Optimal anxiety motivates; over-anxiety disables. Anxiety is contagious.",
+  "Causes of rising stress: identity crisis, career-oriented decisions, the attitude of teachers and parents, peer pressure and, above all, the inability to communicate with parents.",
+  "A good memory needs a good brain: oxygen, glucose, calcium, phosphorus and iron. Study in a well-ventilated place; eat milk, cheese, walnuts, wheat germ, green leafy vegetables, ragi and dates; breakfast is brain food; fibre-rich fruits and vegetables reduce stress, while fatty meals, sugar and acids take away calcium.",
+  "Good concentration improves memory. Learn by understanding and recalling, organise ideas logically, and master both the content and the process of answering. Anxiety and fear cause a mental block. Too much television steals reading time.",
+  "Time management is self-discipline: divide time into filled time (sleeping, bathing, eating, dressing, school) and unfilled time (about ten hours) and make a timetable for it. Sleep seven to eight hours. A positive thought is the seed of a positive result. Seek medical help for symptoms of anxiety or depression.",
+  "## Four ways to beat stress",
+  "A. Managing time — a to-do list with tasks graded A (important), B (less important) and C (routine), mixing C tasks with A and B; realistic time for each task; a diary.",
+  "B. Taking exercise — brisk walking, swimming, jogging, aerobics; walk or cycle short distances; simple exercises for wrists and fingers even while travelling in a bus.",
+  "C. Developing hobbies — refreshing as sleep, chosen to suit one's temperament; they boost self-image and lift the mood.",
+  "D. Thinking positively — failure is never final and success is never an end; even Ramanujan and Einstein failed examinations; talk about your problems.",
+  "## Reading skills",
+  "Read the whole passage for the main idea, then each paragraph for details; answer from the text; find words from the passage that match given meanings; choose a suitable title."
+ ],
+ "passages": [
+  {
+   "title": "Read the passage and answer the questions.",
+   "text": "Good concentration is important to improve the memory. Learning and memorising by understanding and recalling what one has learnt is helpful. Organising and framing a logical relationship is important. Mastery not just of the content of the subject, but also the process of answering is equally important. Anxiety and fear hamper recall and result in a mental block during examination. Watching television for a long time could lower academic performance. It 'steals' away the reading time. Time management is about self-discipline. Time must be managed between filled and unfilled time. Filled time is the time spent sleeping, bathing, eating, dressing and attending school. A student has 10 hours of unfilled time. How best is the student going to utilise this? Make a timetable for the 10 hours. Seven to eight hours of sleep is necessary for optimal physical rest and brain functioning. A positive thought is the seed of a positive result. Always feel positive. This will help to lessen stress. If a student has symptoms of anxiety or depression, seek medical help immediately.",
+   "years": ["April 2026"],
+   "mcq": [
+    ["Why does the passage emphasise 'good concentration' as important for memory?", ["It helps avoid television distractions", "It allows understanding and logical recall", "It reduces filled time in a student's day", "It ensures more sleep"], "B"],
+    ["What is implied about television watching in relation to academic performance?", ["It improves relaxation and reduces anxiety", "It helps students manage unfilled time better", "It reduces reading time and lowers performance", "It increases logical thinking and memory"], "C"],
+    ["Why does the passage distinguish between filled and unfilled time?", ["To show that filled time is wasted", "To highlight the importance of managing free hours effectively", "To suggest that filled time should be reduced", "To argue that unfilled time must be spent only on sleep"], "B"],
+    ["What deeper message does the passage convey about positive thinking?", ["It guarantees success in examinations", "It reduces stress and leads to better outcomes", "It replaces the need for medical help", "It increases filled time in a student's schedule"], "B"],
+    ["What can be inferred about the role of medical help in the passage?", ["It is unnecessary if students manage time well", "It is only for those who fail examinations", "It is essential when anxiety or depression symptoms appear", "It is a substitute for concentration and memory skills"], "C"]
+   ],
+   "tf": [
+    ["Anxiety and fear help students recall answers in the examination.", false],
+    ["Filled time includes the time spent attending school.", true],
+    ["Seven to eight hours of sleep are needed for the brain to work well.", true]
+   ],
+   "sa": [
+    ["How can a student use the ten hours of unfilled time well?", "By making a timetable for those ten hours, giving time to study and revision, and keeping television and other distractions within limits."],
+    ["What happens when a student is anxious and afraid during an examination?", "Anxiety and fear block recall, causing a mental block, so the student cannot remember what he or she has learnt."]
+   ]
+  },
+  {
+   "title": "Read the passage and answer the questions.",
+   "text": "Before examinations, many students are under tremendous stress. But it is not just the students who are stressed, teachers and parents too face the same situation. Why do people get stressed? Adolescents are faced with the demands of their developmental tasks and that of a complex society. They need to acquire skills of adjustment to emerge into adulthood unaffected by these demands. If they lack these skills or if too many demands are made on them, they fail. Students are anxious, as they are worried about whether they would be able to live up to the expectations of their peers, parents and teachers. Optimal anxiety motivates and keeps them ahead while over-anxiety is disabling. Anxiety is contagious and passes onto other students, teachers and parents. Adolescents, when stressed out, tend to perceive everything as an emergency. Some of the reasons for increase in stress level are identity crisis, the need to make career-oriented decisions, teachers' and parents' attitude and peer pressure. The inability to communicate with parents also plays a major role. Good memory depends upon a good brain. The brain needs a good supply of oxygen, glucose, calcium, phosphorus and iron. So make sure you sit in a well-ventilated place when studying. Your diet should include milk, cheese, walnuts, wheat germ, green leafy vegetables, ragi and dates. Do not forget that \"breakfast is the brain food\".",
+   "years": ["October 2025"],
+   "mcq": [
+    ["According to the passage, who are stressed before examinations?", ["Only students", "Students, teachers and parents", "Only parents", "Only teachers"], "B"],
+    ["What kind of anxiety motivates students?", ["Over-anxiety", "Optimal anxiety", "No anxiety", "Constant anxiety"], "B"],
+    ["Which of these is NOT given as a reason for stress?", ["Identity crisis", "Peer pressure", "Too much sleep", "Career-oriented decisions"], "C"],
+    ["Why should one study in a well-ventilated place?", ["To avoid noise", "Because the brain needs a good supply of oxygen", "To keep cool", "To save electricity"], "B"],
+    ["A suitable title for the passage is —", ["Examination Fever", "Stress in Modern Life", "Today's Youth", "A Healthy Diet"], "A"]
+   ],
+   "tf": [
+    ["Poor communication with parents can contribute to increased stress levels in adolescents.", true, ["October 2025"]],
+    ["A well-ventilated study environment is unnecessary for good brain function.", false, ["October 2025"]],
+    ["Only students get stressed before examinations.", false],
+    ["Anxiety can pass from one person to another.", true],
+    ["Breakfast is described as brain food.", true]
+   ],
+   "sa": [
+    ["Why are adolescents anxious, according to the passage?", "They have to cope with their developmental tasks and with the demands of a complex society, and they worry about living up to the expectations of their peers, parents and teachers."],
+    ["What diet does the passage recommend for a good memory?", "Milk, cheese, walnuts, wheat germ, green leafy vegetables, ragi and dates, and a good breakfast, since breakfast is brain food."]
+   ]
+  },
+  {
+   "title": "Read the passage and answer the questions.",
+   "text": "To avoid or reduce stress, you must manage your time properly. You must prepare a 'to do' task list. However these tasks are not static. They undergo change over a period of time. It is useful to divide tasks into three categories: important — A; less important — B; and routine — C. Intersperse A and B tasks with C tasks such as ironing clothes, reading the newspaper, etc. This would provide relief from the constant pressure of important tasks. Exercise is beneficial in reducing anxiety and improving sleep. Brisk walking, swimming, jogging and aerobics are effective in keeping the heart healthy. Hobbies help to reduce stress. They can become as refreshing as sleep. Since one chooses one's hobbies according to one's own temperament and aptitude, they give great pleasure. They are healthy mood enhancers. In order to remain calm and at peace, you need to train yourself to think positively. Failing in the examination is not the end of the world. Many geniuses like Ramanujan and Einstein failed examinations. Failure is never final and success is never an end. Talk about your problems.",
+   "mcq": [
+    ["Into how many categories should tasks be divided?", ["Two", "Three", "Four", "Five"], "B"],
+    ["Ironing clothes is an example of a ________ task.", ["A (important)", "B (less important)", "C (routine)", "useless"], "C"],
+    ["Hobbies give great pleasure because —", ["they are expensive", "they are chosen to suit one's temperament and aptitude", "they are done with friends", "they take little time"], "B"],
+    ["Why does the writer mention Ramanujan and Einstein?", ["They were good at sports", "They show that failure is never final", "They managed time well", "They never felt stress"], "B"],
+    ["'They are healthy mood enhancers.' Here 'they' refers to —", ["tasks", "exercises", "hobbies", "examinations"], "C"]
+   ],
+   "tf": [
+    ["The writer advises doing all A tasks first and C tasks at the end.", false],
+    ["Exercise helps to reduce anxiety and improve sleep.", true],
+    ["Failing an examination is the end of the world.", false]
+   ],
+   "sa": [
+    ["Why should A and B tasks be mixed with C tasks?", "Routine C tasks such as ironing clothes give relief from the constant pressure of important tasks, so mixing them reduces stress."],
+    ["Which of the four measures would you suggest to Rima, who has failed twice and cannot concentrate? Why?", "Thinking positively. She must remember that failure is never final, as even Ramanujan and Einstein failed, and she should talk about her problems with parents, teachers or friends."]
+   ]
+  }
+ ],
+ "match": [
+  {"title": "Match the person with the stress-relief measure (Lesson 16).", "pairs": [
+   ["Hema, lonely and depressed after long work hours", "Developing hobbies"],
+   ["Rohan, who sits all day and travels three hours", "Taking exercise"],
+   ["Rita, always busy but never finishing her work", "Managing time"],
+   ["Rima, who has failed twice and expects to fail again", "Thinking positively"]
+  ]}
+ ],
+ "sa2": [
+  ["What are the main causes of stress among adolescents?", "Identity crisis, the need to make career-oriented decisions, the attitude of teachers and parents, peer pressure and, most of all, the inability to communicate with parents."],
+  ["How can time management reduce stress?", "By making a to-do list, grading tasks as important, less important and routine, mixing routine tasks with important ones for relief, giving each task realistic time and keeping a diary of tasks done."],
+  ["'A positive thought is the seed of a positive result.' Explain.", "If we think positively, we stay calm and confident and work better, which leads to good results. Negative thinking breeds fear and failure."]
+ ],
+ "sa3": [
+  ["Suggest four ways in which a student can beat examination stress.", "Manage time with a timetable and to-do list; exercise regularly — walking, jogging or cycling; take up a hobby that refreshes the mind; and think positively, remembering that failure is never final and talking about problems. Eat well and sleep seven to eight hours."]
+ ]
+}

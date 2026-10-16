@@ -1,0 +1,114 @@
+{
+  "subject": "sr-english",
+  "lesson": 24,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 24: Writing E-mails — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Writing skills"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "What makes e-mail different"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "E-mail (electronic mail) is a message, with text, files or pictures, sent over the internet. It is faster and cheaper than a posted letter, and distance and time zones do not matter."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Because the receiver can ask questions at once, e-mail tends to be loosely structured, like conversation. But the reader may get hundreds of messages, and the message may look different on the reader's screen, so it must be tailored to the medium."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "How to write an e-mail"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Message header: Subject (brief, clear, telling the content; 'URGENT:' for action, 'FYI:' for information, 'Re:' for replies), From, Date, To, Reply-to, attachments."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Body: give enough context; quote the earlier mail when replying, but only what is needed; short paragraphs; lines under about 70 characters; keep the whole message to about one screen (25 lines)."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Greetings and signature: usually 'Dear …' and 'Regards'/'Thanks'; a signature with name, designation and contact. Identify yourself at the top when writing to a stranger."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Things to remember"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Never write the subject in all capitals or all small letters; discuss only non-confidential matters; avoid bad news or anger by e-mail; avoid emoticons, slang and jargon in professional mail; beware of 'Reply all'; use BCC (blind carbon copy) to hide addresses; do not reply to an old mail for a new subject."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Short forms: BRB (be right back), BTW (by the way), FYI (for your information), IMO (in my opinion), TTYL (talk to you later), TIA (thanks in advance), ASAP (as soon as possible), RSVP (please reply)."
+        ]
+      ]
+    }
+  ]
+}

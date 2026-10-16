@@ -1,0 +1,387 @@
+{
+  "subject": "sr-english",
+  "lesson": 13,
+  "title": "If",
+  "author": "Rudyard Kipling",
+  "meta": "Poem · Practice set",
+  "instructions": [
+    "Practice for this lesson in the question types of the April 2026 paper (new syllabus).",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct option.",
+      "marks": "7 × 1 = 7",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "Why does Kipling describe 'Triumph' and 'Disaster' as 'impostors'?",
+          "options": [
+            "They are permanent states of life",
+            "They deceive us into losing perspective",
+            "They always bring happiness",
+            "They are easy to overcome"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "'Keep your head when all about you are losing theirs' means —",
+          "options": [
+            "stay calm in a crisis",
+            "protect yourself from injury",
+            "become a leader",
+            "avoid other people"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "How does the poem advise handling waiting, lies and hatred?",
+          "options": [
+            "Wait impatiently and respond with lies",
+            "Be patient but repay hatred with hatred",
+            "Lie when necessary",
+            "Wait patiently, avoid lying and don't give in to hatred"
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "'Build 'em up with worn-out tools' suggests —",
+          "options": [
+            "using old tools for construction",
+            "starting again with whatever strength is left after a failure",
+            "finding a middle way in a conflict",
+            "giving up on broken things"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "The repetition of 'If you can' at the beginning of lines is an example of —",
+          "options": [
+            "anaphora",
+            "simile",
+            "onomatopoeia",
+            "hyperbole"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "What best describes 'the Will' in the poem?",
+          "options": [
+            "The spirit of never giving up against odds",
+            "Rage felt when wronged",
+            "A legal document",
+            "Fear of danger"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "'If—' is best described as a —",
+          "options": [
+            "ballad",
+            "didactic poem",
+            "sonnet",
+            "limerick"
+          ],
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Identify the following sentences as True or False.",
+      "marks": "6 × 1 = 6",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "mcq",
+          "q": "The speaker of the poem is a father advising his son.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "fixed": true
+        },
+        {
+          "id": "2.2",
+          "type": "mcq",
+          "q": "Kipling advises us to make dreams our master.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "note": "'If you can dream—and not make dreams your master.'",
+          "fixed": true
+        },
+        {
+          "id": "2.3",
+          "type": "mcq",
+          "q": "The poet advises us to complain about our losses so others can help.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "note": "'And never breathe a word about your loss.'",
+          "fixed": true
+        },
+        {
+          "id": "2.4",
+          "type": "mcq",
+          "q": "The poem has four stanzas of eight lines each.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "fixed": true
+        },
+        {
+          "id": "2.5",
+          "type": "mcq",
+          "q": "Kipling says one should walk with kings without losing the common touch.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "fixed": true
+        },
+        {
+          "id": "2.6",
+          "type": "mcq",
+          "q": "Risking all winnings on pitch-and-toss is meant literally as advice to gamble.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "note": "It is a metaphor for taking a bold risk in life.",
+          "fixed": true
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Match the line with the quality it teaches ('If').",
+      "marks": "4 × 1 = 4",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "match",
+          "left": "Keep your head when all about you are losing theirs",
+          "right": "Calmness in a crisis",
+          "answer": "Keep your head when all about you are losing theirs — Calmness in a crisis"
+        },
+        {
+          "id": "3.2",
+          "type": "match",
+          "left": "Trust yourself when all men doubt you",
+          "right": "Self-confidence",
+          "answer": "Trust yourself when all men doubt you — Self-confidence"
+        },
+        {
+          "id": "3.3",
+          "type": "match",
+          "left": "Walk with Kings — nor lose the common touch",
+          "right": "Humility",
+          "answer": "Walk with Kings — nor lose the common touch — Humility"
+        },
+        {
+          "id": "3.4",
+          "type": "match",
+          "left": "Hold on when there is nothing in you except the Will",
+          "right": "Perseverance",
+          "answer": "Hold on when there is nothing in you except the Will — Perseverance"
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Fill in the blanks.",
+      "marks": "5 × 1 = 5",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "If you can meet with Triumph and Disaster / And treat those two ________ just the same.",
+          "answer": "impostors"
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "If you can talk with crowds and keep your ________.",
+          "answer": "virtue"
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "If you can fill the unforgiving minute / With sixty seconds' worth of ________ run.",
+          "answer": "distance"
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "Yours is the Earth and everything that's in it, / And—which is more—you'll be a ________, my son!",
+          "answer": "Man"
+        },
+        {
+          "id": "4.5",
+          "type": "open",
+          "q": "Kipling was awarded the Nobel Prize for Literature in ________.",
+          "answer": "1907"
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Do as directed (language).",
+      "marks": "6 × 1 = 6",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "Change into indirect speech: He said to me, \"Are you going home?\"",
+          "answer": "He asked me whether I was going home."
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "Change into indirect speech: He asked me, \"Which bus stops here?\"",
+          "answer": "He asked me which bus stopped there."
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "Change into indirect speech: My friend said, \"What is your brother doing these days?\"",
+          "answer": "My friend asked what my brother was doing those days."
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "Change into indirect speech: My brother said, \"Does Ram know my address?\"",
+          "answer": "My brother asked whether Ram knew his address."
+        },
+        {
+          "id": "5.5",
+          "type": "open",
+          "q": "Change into indirect speech: She said to me, \"Did you finish your homework?\"",
+          "answer": "She asked me if I had finished my homework."
+        },
+        {
+          "id": "5.6",
+          "type": "open",
+          "q": "Name the device: 'Rage, rage against the dying of the light.'",
+          "answer": "Repetition (anaphora/refrain)"
+        }
+      ]
+    },
+    {
+      "no": 6,
+      "title": "Answer in 30–40 words.",
+      "marks": "7 × 2 = 14",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "6.1",
+          "type": "open",
+          "q": "Why does Kipling call 'Triumph' and 'Disaster' 'impostors'?",
+          "answer": "Neither lasts and neither shows the true value of a person. Success can make us proud and failure can crush us, so both deceive us; we should treat them alike.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "6.2",
+          "type": "open",
+          "q": "What does the poet mean by keeping or losing one's head?",
+          "answer": "Keeping one's head means staying calm and clear-minded in a crisis; losing it means panicking and acting without thought."
+        },
+        {
+          "id": "6.3",
+          "type": "open",
+          "q": "Why should we not 'look too good, nor talk too wise'?",
+          "answer": "Because we should stay humble and natural. Pretending to be better or wiser than we are seems arrogant and self-righteous."
+        },
+        {
+          "id": "6.4",
+          "type": "open",
+          "q": "What should we do in the face of failure, according to the poet?",
+          "answer": "We should start again from the beginning with whatever strength we have, without complaining, and rebuild what has been broken even with worn-out tools."
+        },
+        {
+          "id": "6.5",
+          "type": "open",
+          "q": "What does 'not make dreams your master' mean?",
+          "answer": "We should dream and plan, but not let dreams rule us or lose touch with reality; we must also act practically."
+        },
+        {
+          "id": "6.6",
+          "type": "open",
+          "q": "How can friends harm us? Why should 'none count too much'?",
+          "answer": "Loving friends can hurt us through our attachment and by misleading or disappointing us. If we depend too much on anyone we lose independence, so we should value all but rely on none too much."
+        },
+        {
+          "id": "6.7",
+          "type": "open",
+          "q": "What is meant by 'fill the unforgiving minute with sixty seconds' worth of distance run'?",
+          "answer": "Time never forgives waste; we should use every moment fully and purposefully, doing as much as we can in the time we have."
+        }
+      ]
+    },
+    {
+      "no": 7,
+      "title": "Answer in about 50–60 words.",
+      "marks": "3 × 3 = 9",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "7.1",
+          "type": "open",
+          "q": "What qualities does Kipling expect his son to have? List any four with reasons.",
+          "answer": "Calmness in crisis, so others' panic does not affect him; self-trust balanced with respect for others' doubts; patience and honesty — not lying or hating in return; and perseverance — starting again after losses and holding on by sheer will. These make him a mature 'Man'."
+        },
+        {
+          "id": "7.2",
+          "type": "open",
+          "q": "How does the poem emphasise perseverance and determination?",
+          "answer": "It asks us to rebuild our broken life's work with worn-out tools, to start again after losing all our winnings without complaint, and to force heart, nerve and sinew to serve us long after they are spent, holding on by the Will alone.",
+          "or": {
+            "q": "What is the ultimate reward mentioned in the poem?",
+            "answer": "If the son can fulfil all these 'ifs', the whole Earth and everything in it will be his — and, more important, he will become a true Man: mature, balanced and morally strong."
+          }
+        },
+        {
+          "id": "7.3",
+          "type": "open",
+          "q": "Why is 'If' called a didactic poem?",
+          "answer": "A didactic poem teaches a lesson. Here a father instructs his son on how to live — staying calm, honest, humble, patient and determined — so that he becomes a mature man. The whole poem is a list of moral lessons."
+        }
+      ]
+    }
+  ]
+}

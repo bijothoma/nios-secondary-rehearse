@@ -1,0 +1,74 @@
+{
+ "lesson": 13,
+ "title": "If",
+ "kind": "Poem",
+ "author": "Rudyard Kipling",
+ "summary": [
+  "## The poem in brief",
+  "A father advises his son on how to become a mature, balanced man. Each 'if' names a quality:",
+  "Stanza 1 — keep calm when everyone around loses their head and blames you; trust yourself when all doubt you, yet allow for their doubts; wait without tiring; being lied about, don't lie; being hated, don't hate; yet don't look too good or talk too wise.",
+  "Stanza 2 — dream, but don't make dreams your master; think, but don't make thoughts your aim; meet Triumph and Disaster and treat 'those two impostors' just the same; bear to hear your truth twisted by knaves to trap fools, or see your life's work broken and rebuild it with worn-out tools.",
+  "Stanza 3 — risk all your winnings on one turn of pitch-and-toss, lose, start again and never complain; force heart, nerve and sinew to serve you long after they are spent, holding on when nothing is left but the Will that says 'Hold on!'",
+  "Stanza 4 — talk with crowds and keep your virtue, walk with kings and not lose the common touch; let neither foes nor loving friends hurt you; let all men count with you, but none too much; fill 'the unforgiving minute with sixty seconds' worth of distance run' — then 'Yours is the Earth and everything that's in it, and — which is more — you'll be a Man, my son!'",
+  "## Points to remember",
+  "Rudyard Kipling won the Nobel Prize for Literature in 1907. 'If—' was first published in 'Brother Square-Toes' in Rewards and Fairies (1910), as a tribute to Leander Starr Jameson. His autobiography is Something of Myself (1937).",
+  "Form: a didactic poem in four stanzas of eight lines (octaves); alternating rhyme (ABAB …). It is close to a dramatic monologue — one speaker advising a silent listener.",
+  "Devices: anaphora (repeated 'If you can'), personification and metaphor (Triumph and Disaster as 'impostors'), alliteration ('treat those two'), assonance, irony ('wait and not be tired by waiting').",
+  "## Language in this lesson",
+  "Reported speech of questions: asked/enquired/wondered + if/whether (yes-no questions) or the wh-word; statement word order; tense and pronoun changes."
+ ],
+ "mcq": [
+  ["Why does Kipling describe 'Triumph' and 'Disaster' as 'impostors'?", ["They are permanent states of life", "They deceive us into losing perspective", "They always bring happiness", "They are easy to overcome"], "B", ["April 2026"]],
+  ["'Keep your head when all about you are losing theirs' means —", ["stay calm in a crisis", "protect yourself from injury", "become a leader", "avoid other people"], "A"],
+  ["How does the poem advise handling waiting, lies and hatred?", ["Wait impatiently and respond with lies", "Be patient but repay hatred with hatred", "Lie when necessary", "Wait patiently, avoid lying and don't give in to hatred"], "D"],
+  ["'Build 'em up with worn-out tools' suggests —", ["using old tools for construction", "starting again with whatever strength is left after a failure", "finding a middle way in a conflict", "giving up on broken things"], "B"],
+  ["The repetition of 'If you can' at the beginning of lines is an example of —", ["anaphora", "simile", "onomatopoeia", "hyperbole"], "A"],
+  ["What best describes 'the Will' in the poem?", ["The spirit of never giving up against odds", "Rage felt when wronged", "A legal document", "Fear of danger"], "A"],
+  ["'If—' is best described as a —", ["ballad", "didactic poem", "sonnet", "limerick"], "B"]
+ ],
+ "tf": [
+  ["The speaker of the poem is a father advising his son.", true],
+  ["Kipling advises us to make dreams our master.", false, null, {"note": "'If you can dream—and not make dreams your master.'"}],
+  ["The poet advises us to complain about our losses so others can help.", false, null, {"note": "'And never breathe a word about your loss.'"}],
+  ["The poem has four stanzas of eight lines each.", true],
+  ["Kipling says one should walk with kings without losing the common touch.", true],
+  ["Risking all winnings on pitch-and-toss is meant literally as advice to gamble.", false, null, {"note": "It is a metaphor for taking a bold risk in life."}]
+ ],
+ "match": [
+  {"title": "Match the line with the quality it teaches ('If').", "pairs": [
+   ["Keep your head when all about you are losing theirs", "Calmness in a crisis"],
+   ["Trust yourself when all men doubt you", "Self-confidence"],
+   ["Walk with Kings — nor lose the common touch", "Humility"],
+   ["Hold on when there is nothing in you except the Will", "Perseverance"]
+  ]}
+ ],
+ "blanks": [
+  ["If you can meet with Triumph and Disaster / And treat those two ________ just the same.", "impostors"],
+  ["If you can talk with crowds and keep your ________.", "virtue"],
+  ["If you can fill the unforgiving minute / With sixty seconds' worth of ________ run.", "distance"],
+  ["Yours is the Earth and everything that's in it, / And—which is more—you'll be a ________, my son!", "Man"],
+  ["Kipling was awarded the Nobel Prize for Literature in ________.", "1907"]
+ ],
+ "grammar": [
+  ["Change into indirect speech: He said to me, \"Are you going home?\"", "He asked me whether I was going home."],
+  ["Change into indirect speech: He asked me, \"Which bus stops here?\"", "He asked me which bus stopped there."],
+  ["Change into indirect speech: My friend said, \"What is your brother doing these days?\"", "My friend asked what my brother was doing those days."],
+  ["Change into indirect speech: My brother said, \"Does Ram know my address?\"", "My brother asked whether Ram knew his address."],
+  ["Change into indirect speech: She said to me, \"Did you finish your homework?\"", "She asked me if I had finished my homework."],
+  ["Name the device: 'Rage, rage against the dying of the light.'", "Repetition (anaphora/refrain)"]
+ ],
+ "sa2": [
+  ["Why does Kipling call 'Triumph' and 'Disaster' 'impostors'?", "Neither lasts and neither shows the true value of a person. Success can make us proud and failure can crush us, so both deceive us; we should treat them alike.", ["April 2026"]],
+  ["What does the poet mean by keeping or losing one's head?", "Keeping one's head means staying calm and clear-minded in a crisis; losing it means panicking and acting without thought."],
+  ["Why should we not 'look too good, nor talk too wise'?", "Because we should stay humble and natural. Pretending to be better or wiser than we are seems arrogant and self-righteous."],
+  ["What should we do in the face of failure, according to the poet?", "We should start again from the beginning with whatever strength we have, without complaining, and rebuild what has been broken even with worn-out tools."],
+  ["What does 'not make dreams your master' mean?", "We should dream and plan, but not let dreams rule us or lose touch with reality; we must also act practically."],
+  ["How can friends harm us? Why should 'none count too much'?", "Loving friends can hurt us through our attachment and by misleading or disappointing us. If we depend too much on anyone we lose independence, so we should value all but rely on none too much."],
+  ["What is meant by 'fill the unforgiving minute with sixty seconds' worth of distance run'?", "Time never forgives waste; we should use every moment fully and purposefully, doing as much as we can in the time we have."]
+ ],
+ "sa3": [
+  ["What qualities does Kipling expect his son to have? List any four with reasons.", "Calmness in crisis, so others' panic does not affect him; self-trust balanced with respect for others' doubts; patience and honesty — not lying or hating in return; and perseverance — starting again after losses and holding on by sheer will. These make him a mature 'Man'."],
+  ["How does the poem emphasise perseverance and determination?", "It asks us to rebuild our broken life's work with worn-out tools, to start again after losing all our winnings without complaint, and to force heart, nerve and sinew to serve us long after they are spent, holding on by the Will alone.", null, {"or": ["What is the ultimate reward mentioned in the poem?", "If the son can fulfil all these 'ifs', the whole Earth and everything in it will be his — and, more important, he will become a true Man: mature, balanced and morally strong."]}],
+  ["Why is 'If' called a didactic poem?", "A didactic poem teaches a lesson. Here a father instructs his son on how to live — staying calm, honest, humble, patient and determined — so that he becomes a mature man. The whole poem is a list of moral lessons."]
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "lesson": 26,
+ "title": "Writing Job Applications",
+ "kind": "Writing skills",
+ "author": null,
+ "summary": [
+  "## The job application",
+  "A job application is a formal letter to a possible employer applying for a specific post. It accompanies a résumé or CV (bio-data) and highlights your qualifications and interest.",
+  "Structure: sender's information (name, address, phone, e-mail), date, employer's information (name, title, company, address), salutation ('Dear Hiring Manager' if the name is unknown), opening paragraph (the post and where you saw it), middle paragraph(s) (qualifications and skills matched to the job, with achievements), closing paragraph (enthusiasm, résumé attached, request for an interview), complimentary close and signature.",
+  "Tips: tailor each application to the job; keep it to one page; stress education if you lack experience; show skills from projects, clubs, volunteering and sports (teamwork, leadership, communication, time management); be positive, not apologetic; format neatly and proofread.",
+  "## Résumé and CV",
+  "A CV ('course of life') is a full, detailed record of education, career, publications, awards and so on — British in style, used in academics and research, with no page limit. A résumé (American in style) is a short summary of one to two pages, tailored to each job, often in bullet points. Most companies now prefer résumés, which are easier to screen.",
+  "A good résumé is attractive, well-organised, easy to read and free of errors. Common headings: heading (name, address, phone, e-mail — no date), personal details, employment objective, education (most recent first), employment experience (most recent first), special skills and activities, references. List the stronger of education and experience first.",
+  "## The cover letter",
+  "A cover (covering) letter goes before the résumé. It is a 'sales letter' that must catch the reader's attention favourably, convince him or her that you are qualified, and request an interview. Identify the post and how you heard of it, summarise your qualifications and refer to the résumé, and say where and when you can be reached."
+ ],
+ "mcq": [
+  ["Why is it important to include both the sender's and the employer's information in a job application?", ["To make the letter longer", "To express personal opinions", "To ensure clear communication and proper addressing", "To avoid attaching a résumé"], "C", ["April 2026"]],
+  ["Which is generally shorter and tailored to a particular job?", ["A CV", "A résumé", "A cover letter", "A memo"], "B"],
+  ["The letter of application is essentially a —", ["complaint letter", "sales letter", "personal letter", "memo"], "B", ["April 2018"]],
+  ["If you have no work experience, your application should stress your —", ["hobbies only", "education and skills from school activities", "family background", "salary expectations"], "B"],
+  ["Which of these should NOT appear in the heading of a résumé?", ["Name", "Phone number", "E-mail", "Date"], "D"],
+  ["A cover letter should end by —", ["demanding a high salary", "requesting an interview and giving contact details", "criticising the company", "listing hobbies"], "B"]
+ ],
+ "tf": [
+  ["A résumé should be free of errors and easy to read.", true, ["April 2018"]],
+  ["A CV is usually shorter than a résumé.", false],
+  ["In a job application, educational qualifications need not be mentioned.", false, ["April 2024"]],
+  ["Letters to the editor and job applications are formal letters.", true, ["April 2024"]],
+  ["In a résumé, it is acceptable to include personal hobbies.", true, ["April 2025"]]
+ ],
+ "blanks": [
+  ["A CV is considered British in style, while a résumé is considered ________ in style.", "American"],
+  ["If the employer's name is not known, begin with 'Dear Hiring ________'.", "Manager"],
+  ["In a résumé, education and experience are listed starting with the most ________.", "recent"],
+  ["A cover letter is also called a ________ letter.", "covering"]
+ ],
+ "sa2": [
+  ["What is the difference between a résumé and a CV in length and detail?", "A résumé is short (one to two pages) and gives only the skills, experience and education relevant to a job. A CV is longer and detailed, covering one's whole career, publications, awards and more."],
+  ["What are the three things a cover letter must do?", "Catch the reader's attention favourably, convince the reader that you are qualified for the post, and request an interview."],
+  ["How should a fresher without work experience present himself in a job application?", "Stress education and relevant coursework, and show skills gained from school projects, clubs, sports and volunteering, such as teamwork and leadership. Be positive and enthusiastic about learning."],
+  ["How do you decide whether to list education or experience first in a résumé?", "List whichever is stronger: education first if your qualifications are strong and you have little experience; experience first if you have a year or more of relevant work."]
+ ],
+ "sa3": [
+  ["Write a résumé for the post of Library Assistant in a school, focusing on computer skills, digital tools and enthusiasm for helping students and staff.", "RÉSUMÉ\nPriya Nair\n14, Lake View Road, Kochi — 682016 | 98xxxxxx21 | priya.nair@gmail.com\n\nEMPLOYMENT OBJECTIVE\nLibrary Assistant, helping students and teachers find resources and fostering a love of reading.\n\nEDUCATION\nSenior Secondary (NIOS), 2025 — 82%\nCertificate in Computer Applications, 2025\n\nSKILLS\nMS Office, Google Workspace, library catalogue software, internet research, data entry\n\nACTIVITIES\nStudent volunteer, school library (2 years): issued books, digitised the catalogue\nMember, Reading Club; organised a book fair\n\nREFERENCES\nAvailable on request", ["April 2026"]],
+  ["You are a recent NIOS pass-out. Apply for the post of Sales Assistant in a reputed car company advertised in The Times of India (Box No. 8365, C/o The Times of India, New Delhi).", "Aniruddh Vyas\n22, Shastri Nagar, New Delhi\n3 May 2026\n\nBox No. 8365\nC/o The Times of India\nNew Delhi\n\nSubject: Application for the post of Sales Assistant\n\nDear Sir/Madam,\nIn response to your advertisement in The Times of India of 1 May, I wish to apply for the post of Sales Assistant.\nI have passed Senior Secondary from NIOS (2026) and hold a driving licence. As class representative I developed good communication and teamwork, and I helped in my uncle's showroom during holidays, assisting customers.\nMy résumé is enclosed. I am available for an interview at your convenience.\nYours faithfully,\nAniruddh Vyas"],
+  ["Write a letter applying for the post of Accountant in Samsung Enterprises, Kolkata.", "Ritika Sen\n5, Park Circus, Kolkata\n10 June 2026\n\nThe HR Manager\nSamsung Enterprises\nKolkata\n\nSubject: Application for the post of Accountant\n\nDear Sir/Madam,\nI wish to apply for the post of Accountant advertised in The Telegraph of 8 June.\nI hold a B.Com. degree and a certificate in Tally and GST, and have one year's experience in maintaining ledgers and filing returns for a trading firm. I am accurate, organised and comfortable with spreadsheets.\nMy résumé is enclosed. I would be glad to attend an interview at your convenience.\nYours faithfully,\nRitika Sen", ["October 2022"]],
+  ["Write a job application for the post of a teacher of English in a school.", "Meera Joshi\n18, Civil Lines, Jaipur\n2 July 2026\n\nThe Principal\nVidya Bharati School\nJaipur\n\nSubject: Application for the post of English teacher\n\nDear Sir/Madam,\nWith reference to your advertisement in the Rajasthan Patrika, I wish to apply for the post of English teacher.\nI hold an M.A. in English and a B.Ed., and have taught Classes VI–X for three years. I use group work and reading clubs to make English lively, and I can also help with debates and the school magazine.\nMy résumé is enclosed. I shall be happy to come for an interview and a demonstration class.\nYours faithfully,\nMeera Joshi", ["October 2019", "April 2023", "April 2019", "October 2017"]]
+ ]
+}

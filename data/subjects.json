@@ -1230,6 +1230,128 @@
           "file": "data/sr-maths/paper-3.json"
         }
       ]
+    },
+    {
+      "id": "sr-english",
+      "name": "English",
+      "label": "",
+      "level": "senior-secondary",
+      "lessons": [
+        {
+          "no": 3,
+          "title": "An Astrologer's Day",
+          "file": "data/sr-english/lesson-3.json",
+          "summary": "data/sr-english/summary/lesson-3.json"
+        },
+        {
+          "no": 4,
+          "title": "Bholi",
+          "file": "data/sr-english/lesson-4.json",
+          "summary": "data/sr-english/summary/lesson-4.json"
+        },
+        {
+          "no": 7,
+          "title": "After Twenty Years",
+          "file": "data/sr-english/lesson-7.json",
+          "summary": "data/sr-english/summary/lesson-7.json"
+        },
+        {
+          "no": 8,
+          "title": "The Necklace",
+          "file": "data/sr-english/lesson-8.json",
+          "summary": "data/sr-english/summary/lesson-8.json"
+        },
+        {
+          "no": 9,
+          "title": "Three Questions",
+          "file": "data/sr-english/lesson-9.json",
+          "summary": "data/sr-english/summary/lesson-9.json"
+        },
+        {
+          "no": 10,
+          "title": "Of Studies",
+          "file": "data/sr-english/lesson-10.json",
+          "summary": "data/sr-english/summary/lesson-10.json"
+        },
+        {
+          "no": 12,
+          "title": "Where the Mind is Without Fear",
+          "file": "data/sr-english/lesson-12.json",
+          "summary": "data/sr-english/summary/lesson-12.json"
+        },
+        {
+          "no": 13,
+          "title": "If",
+          "file": "data/sr-english/lesson-13.json",
+          "summary": "data/sr-english/summary/lesson-13.json"
+        },
+        {
+          "no": 16,
+          "title": "Reading with Understanding: Stress Before Examination",
+          "file": "data/sr-english/lesson-16.json",
+          "summary": "data/sr-english/summary/lesson-16.json"
+        },
+        {
+          "no": 17,
+          "title": "Kabir and Thiruvalluvar",
+          "file": "data/sr-english/lesson-17.json",
+          "summary": "data/sr-english/summary/lesson-17.json"
+        },
+        {
+          "no": 18,
+          "title": "Reading with Understanding: Nation Builders of India",
+          "file": "data/sr-english/lesson-18.json",
+          "summary": "data/sr-english/summary/lesson-18.json"
+        },
+        {
+          "no": 19,
+          "title": "Reading with Understanding: International Fight against Drug Abuse and Illicit Trafficking",
+          "file": "data/sr-english/lesson-19.json",
+          "summary": "data/sr-english/summary/lesson-19.json"
+        },
+        {
+          "no": 23,
+          "title": "Writing Memos and Letters",
+          "file": "data/sr-english/lesson-23.json",
+          "summary": "data/sr-english/summary/lesson-23.json"
+        },
+        {
+          "no": 24,
+          "title": "Writing E-mails",
+          "file": "data/sr-english/lesson-24.json",
+          "summary": "data/sr-english/summary/lesson-24.json"
+        },
+        {
+          "no": 25,
+          "title": "Report Writing",
+          "file": "data/sr-english/lesson-25.json",
+          "summary": "data/sr-english/summary/lesson-25.json"
+        },
+        {
+          "no": 26,
+          "title": "Writing Job Applications",
+          "file": "data/sr-english/lesson-26.json",
+          "summary": "data/sr-english/summary/lesson-26.json"
+        },
+        {
+          "no": 901,
+          "tag": "Full paper",
+          "title": "Model Question Paper 1",
+          "file": "data/sr-english/paper-1.json"
+        },
+        {
+          "no": 902,
+          "tag": "Full paper",
+          "title": "Model Question Paper 2",
+          "file": "data/sr-english/paper-2.json"
+        },
+        {
+          "no": 903,
+          "tag": "Full paper",
+          "title": "Model Question Paper 3",
+          "file": "data/sr-english/paper-3.json"
+        }
+      ]
     }
   ]
 }

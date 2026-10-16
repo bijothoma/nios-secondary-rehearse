@@ -1,0 +1,292 @@
+{
+  "subject": "sr-english",
+  "lesson": 24,
+  "title": "Writing E-mails",
+  "author": null,
+  "meta": "Writing skills · Practice set",
+  "instructions": [
+    "Practice for this lesson in the question types of the April 2026 paper (new syllabus).",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct option.",
+      "marks": "6 × 1 = 6",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "Why does e-mail tend to be more loosely structured than paper-based communication?",
+          "options": [
+            "E-mail is always used for formal reports",
+            "Receivers can immediately ask questions, so strict clarity is less necessary",
+            "E-mail needs no grammar or spelling",
+            "Paper communication is less professional"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "Which short form means 'talk to you later'?",
+          "options": [
+            "TIA",
+            "TTYL",
+            "BTW",
+            "IMO"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "Which pair is correctly matched?",
+          "options": [
+            "BBL — be back later",
+            "BFN — bring for now",
+            "IOW — in other words only",
+            "TIA — talk in advance"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "What does BCC stand for?",
+          "options": [
+            "Basic carbon copy",
+            "Blind carbon copy",
+            "Business contact copy",
+            "Blank carbon copy"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "To cancel bookings and say you will give new dates later, the right points to include are —",
+          "options": [
+            "cancel reservations, will decide new dates, regret the inconvenience",
+            "confirm reservations and pay in advance",
+            "complain about the hotel",
+            "ask for a discount"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2024",
+            "October 2025"
+          ]
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "A reply to an e-mail usually has a subject line beginning with —",
+          "options": [
+            "FYI:",
+            "Re:",
+            "URGENT:",
+            "BCC:"
+          ],
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Identify the following sentences as True or False.",
+      "marks": "5 × 1 = 5",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "mcq",
+          "q": "With e-mail, the receiver can ask for and get clarification quickly.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2019"
+          ],
+          "fixed": true
+        },
+        {
+          "id": "2.2",
+          "type": "mcq",
+          "q": "E-mail is not different from older forms of communication.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2019"
+          ],
+          "fixed": true
+        },
+        {
+          "id": "2.3",
+          "type": "mcq",
+          "q": "The subject line of an e-mail should be written in capital letters.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "fixed": true
+        },
+        {
+          "id": "2.4",
+          "type": "mcq",
+          "q": "Confidential matters should be discussed freely over e-mail.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "fixed": true
+        },
+        {
+          "id": "2.5",
+          "type": "mcq",
+          "q": "When writing to a stranger, you should identify yourself at the top of the mail.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "fixed": true
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Fill in the blanks.",
+      "marks": "4 × 1 = 4",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "E-mail is short for ________ mail.",
+          "answer": "electronic"
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "'FYI' stands for 'For Your ________'.",
+          "answer": "Information"
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "Keep e-mail lines under about ________ characters long.",
+          "answer": "seventy"
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "When you put addresses under ________, other recipients cannot see them.",
+          "answer": "BCC"
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Answer in 30–40 words.",
+      "marks": "4 × 2 = 8",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "How is an e-mail different from a written letter?",
+          "answer": "An e-mail is typed and sent instantly over the internet, can carry attachments and allows quick replies; a letter is written by hand or typed, posted, and takes days to arrive.",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "Why is it necessary to identify yourself while writing an e-mail to someone?",
+          "answer": "The receiver may not know you. Your identity gives context — who you are, how you found them and what you want — so that the mail is read and not deleted.",
+          "years": [
+            "April 2023"
+          ]
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "Mention any four do's of writing e-mails.",
+          "answer": "Use a clear, specific subject line; address the reader properly; keep the message short and to the point; proofread before sending (also: use a polite, professional tone and a signature)."
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "What should a good e-mail subject line be like?",
+          "answer": "Brief and clear, telling the reader what the mail is about; never in all capitals; with 'URGENT' or 'FYI' or 'Re:' where suitable."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Answer in about 50–60 words.",
+      "marks": "4 × 3 = 12",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "Write an e-mail to Hotel Sunrise, Bengaluru asking them to cancel your room reservation as your travel plans have changed, and mention that you will rebook later.",
+          "answer": "To: reservations@hotelsunrise.in\nSubject: Cancellation of booking no. HS2604\n\nDear Sir/Madam,\nI had booked a deluxe room at your hotel from 12 to 14 April 2026 (booking no. HS2604). As my travel plans have changed, please cancel this reservation and refund the advance as per your policy.\nI will rebook once my new dates are fixed. I regret the inconvenience.\nRegards,\nArjun Mehta\n98xxxxxx10",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "Write an e-mail to Raj Travels asking them to cancel your air tickets to Bangalore and the hotel accommodation they booked for you. You will inform them of the changed date later.",
+          "answer": "To: bookings@rajtravels.com\nSubject: Cancel tickets and hotel — Bangalore trip\n\nDear Sir,\nPlease cancel my air tickets (Delhi–Bangalore, 20 May, PNR X7K2Q) and the hotel room booked for me from 20 to 23 May. Due to an urgent change in plans I cannot travel on these dates.\nI will let you know the new dates shortly. Sorry for the inconvenience.\nRegards,\nNeha Gupta",
+          "years": [
+            "April 2018",
+            "April 2022"
+          ]
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "Write an e-mail to Raj Hotel, Agra, cancelling your reservation for 18th and 19th December and booking accommodation for 21st and 22nd December instead.",
+          "answer": "To: info@rajhotelagra.com\nSubject: Change of reservation dates\n\nDear Sir/Madam,\nI have a reservation for a double room on 18 and 19 December (Ref. RH-552). Kindly cancel it and book a double room for 21 and 22 December instead.\nPlease confirm the new booking by return mail.\nThank you,\nRahul Verma",
+          "years": [
+            "January-February 2021"
+          ]
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "As General Manager of Zian Enterprises, Ahmedabad, write an e-mail to all Assistant Managers about a meeting on opening a new branch in Vadodara on 12 December.",
+          "answer": "To: asst.managers@zian.co.in\nSubject: Meeting on new Vadodara branch — 12 December\n\nDear Colleagues,\nA meeting will be held on 12 December at 11 a.m. in the conference room to discuss opening our new branch in Vadodara. Please bring your section's suggestions on staffing and budget.\nAttendance is compulsory.\nRegards,\nGeneral Manager",
+          "years": [
+            "October 2022",
+            "October 2021"
+          ]
+        }
+      ]
+    }
+  ]
+}

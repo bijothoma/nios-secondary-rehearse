@@ -1,0 +1,283 @@
+{
+  "subject": "sr-english",
+  "lesson": 26,
+  "title": "Writing Job Applications",
+  "author": null,
+  "meta": "Writing skills · Practice set",
+  "instructions": [
+    "Practice for this lesson in the question types of the April 2026 paper (new syllabus).",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct option.",
+      "marks": "6 × 1 = 6",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "Why is it important to include both the sender's and the employer's information in a job application?",
+          "options": [
+            "To make the letter longer",
+            "To express personal opinions",
+            "To ensure clear communication and proper addressing",
+            "To avoid attaching a résumé"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "Which is generally shorter and tailored to a particular job?",
+          "options": [
+            "A CV",
+            "A résumé",
+            "A cover letter",
+            "A memo"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "The letter of application is essentially a —",
+          "options": [
+            "complaint letter",
+            "sales letter",
+            "personal letter",
+            "memo"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2018"
+          ]
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "If you have no work experience, your application should stress your —",
+          "options": [
+            "hobbies only",
+            "education and skills from school activities",
+            "family background",
+            "salary expectations"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "Which of these should NOT appear in the heading of a résumé?",
+          "options": [
+            "Name",
+            "Phone number",
+            "E-mail",
+            "Date"
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "A cover letter should end by —",
+          "options": [
+            "demanding a high salary",
+            "requesting an interview and giving contact details",
+            "criticising the company",
+            "listing hobbies"
+          ],
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Identify the following sentences as True or False.",
+      "marks": "5 × 1 = 5",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "mcq",
+          "q": "A résumé should be free of errors and easy to read.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2018"
+          ],
+          "fixed": true
+        },
+        {
+          "id": "2.2",
+          "type": "mcq",
+          "q": "A CV is usually shorter than a résumé.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "fixed": true
+        },
+        {
+          "id": "2.3",
+          "type": "mcq",
+          "q": "In a job application, educational qualifications need not be mentioned.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2024"
+          ],
+          "fixed": true
+        },
+        {
+          "id": "2.4",
+          "type": "mcq",
+          "q": "Letters to the editor and job applications are formal letters.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2024"
+          ],
+          "fixed": true
+        },
+        {
+          "id": "2.5",
+          "type": "mcq",
+          "q": "In a résumé, it is acceptable to include personal hobbies.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2025"
+          ],
+          "fixed": true
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Fill in the blanks.",
+      "marks": "4 × 1 = 4",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "A CV is considered British in style, while a résumé is considered ________ in style.",
+          "answer": "American"
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "If the employer's name is not known, begin with 'Dear Hiring ________'.",
+          "answer": "Manager"
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "In a résumé, education and experience are listed starting with the most ________.",
+          "answer": "recent"
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "A cover letter is also called a ________ letter.",
+          "answer": "covering"
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Answer in 30–40 words.",
+      "marks": "4 × 2 = 8",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "What is the difference between a résumé and a CV in length and detail?",
+          "answer": "A résumé is short (one to two pages) and gives only the skills, experience and education relevant to a job. A CV is longer and detailed, covering one's whole career, publications, awards and more."
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "What are the three things a cover letter must do?",
+          "answer": "Catch the reader's attention favourably, convince the reader that you are qualified for the post, and request an interview."
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "How should a fresher without work experience present himself in a job application?",
+          "answer": "Stress education and relevant coursework, and show skills gained from school projects, clubs, sports and volunteering, such as teamwork and leadership. Be positive and enthusiastic about learning."
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "How do you decide whether to list education or experience first in a résumé?",
+          "answer": "List whichever is stronger: education first if your qualifications are strong and you have little experience; experience first if you have a year or more of relevant work."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Answer in about 50–60 words.",
+      "marks": "4 × 3 = 12",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "Write a résumé for the post of Library Assistant in a school, focusing on computer skills, digital tools and enthusiasm for helping students and staff.",
+          "answer": "RÉSUMÉ\nPriya Nair\n14, Lake View Road, Kochi — 682016 | 98xxxxxx21 | priya.nair@gmail.com\n\nEMPLOYMENT OBJECTIVE\nLibrary Assistant, helping students and teachers find resources and fostering a love of reading.\n\nEDUCATION\nSenior Secondary (NIOS), 2025 — 82%\nCertificate in Computer Applications, 2025\n\nSKILLS\nMS Office, Google Workspace, library catalogue software, internet research, data entry\n\nACTIVITIES\nStudent volunteer, school library (2 years): issued books, digitised the catalogue\nMember, Reading Club; organised a book fair\n\nREFERENCES\nAvailable on request",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "You are a recent NIOS pass-out. Apply for the post of Sales Assistant in a reputed car company advertised in The Times of India (Box No. 8365, C/o The Times of India, New Delhi).",
+          "answer": "Aniruddh Vyas\n22, Shastri Nagar, New Delhi\n3 May 2026\n\nBox No. 8365\nC/o The Times of India\nNew Delhi\n\nSubject: Application for the post of Sales Assistant\n\nDear Sir/Madam,\nIn response to your advertisement in The Times of India of 1 May, I wish to apply for the post of Sales Assistant.\nI have passed Senior Secondary from NIOS (2026) and hold a driving licence. As class representative I developed good communication and teamwork, and I helped in my uncle's showroom during holidays, assisting customers.\nMy résumé is enclosed. I am available for an interview at your convenience.\nYours faithfully,\nAniruddh Vyas"
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "Write a letter applying for the post of Accountant in Samsung Enterprises, Kolkata.",
+          "answer": "Ritika Sen\n5, Park Circus, Kolkata\n10 June 2026\n\nThe HR Manager\nSamsung Enterprises\nKolkata\n\nSubject: Application for the post of Accountant\n\nDear Sir/Madam,\nI wish to apply for the post of Accountant advertised in The Telegraph of 8 June.\nI hold a B.Com. degree and a certificate in Tally and GST, and have one year's experience in maintaining ledgers and filing returns for a trading firm. I am accurate, organised and comfortable with spreadsheets.\nMy résumé is enclosed. I would be glad to attend an interview at your convenience.\nYours faithfully,\nRitika Sen",
+          "years": [
+            "October 2022"
+          ]
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "Write a job application for the post of a teacher of English in a school.",
+          "answer": "Meera Joshi\n18, Civil Lines, Jaipur\n2 July 2026\n\nThe Principal\nVidya Bharati School\nJaipur\n\nSubject: Application for the post of English teacher\n\nDear Sir/Madam,\nWith reference to your advertisement in the Rajasthan Patrika, I wish to apply for the post of English teacher.\nI hold an M.A. in English and a B.Ed., and have taught Classes VI–X for three years. I use group work and reading clubs to make English lively, and I can also help with debates and the school magazine.\nMy résumé is enclosed. I shall be happy to come for an interview and a demonstration class.\nYours faithfully,\nMeera Joshi",
+          "years": [
+            "October 2019",
+            "April 2023",
+            "April 2019",
+            "October 2017"
+          ]
+        }
+      ]
+    }
+  ]
+}

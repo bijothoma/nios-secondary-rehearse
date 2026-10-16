@@ -1,0 +1,289 @@
+{
+ "lesson": 8,
+ "title": "The Necklace",
+ "kind": "Short story",
+ "author": "Guy de Maupassant",
+ "summary": [
+  "## The story in brief",
+  "Mathilde Loisel is pretty and charming but born into a family of clerks, and she has married a little clerk of the Ministry of Public Instruction. She suffers constantly over her shabby home and dreams of wealth, elegant rooms and fine dinners. She stops visiting her rich school-friend, Madame Forestier, because she comes back so unhappy.",
+  "Her husband proudly brings home an invitation to a ball given by the Minister. She throws it down in tears: she has nothing to wear. He gives her the four hundred francs he had saved for a gun to go shooting. Then she frets that she has no jewels; on his advice she borrows a diamond necklace from Madame Forestier.",
+  "At the ball she is a great success, admired by all, and dances till four in the morning while her husband dozes in a small room. Ashamed of her old wrap, she hurries away. At home she finds the necklace gone. Loisel searches the streets, the police, the cab companies and the newspapers in vain. Mathilde writes that the clasp is being mended to gain time.",
+  "They buy a similar necklace for thirty-six thousand francs, using eighteen thousand left by Loisel's father and borrowing the rest from usurers at ruinous interest. Madame Forestier takes it back without opening the case. For ten years they live in a garret: Mathilde does all the heavy housework and haggles at shops, Loisel works extra jobs at night. Mathilde grows old, coarse and rough.",
+  "When the debts are paid, Mathilde meets Madame Forestier on the Champs Élysées, still young and beautiful. Proudly she tells her the whole story. Madame Forestier, deeply moved, reveals that her necklace was paste — worth at most five hundred francs.",
+  "## Points to remember",
+  "Guy de Maupassant (1850–1893) wrote about 300 short stories; 'The Necklace' was published in 1884 in the French newspaper Le Gaulois.",
+  "Themes: vanity and false pride, appearance against reality, honesty, the price of a moment of glory. The necklace symbolises the wealth and status Mathilde craves; the fake necklace stands for her pretentiousness.",
+  "Irony: situational (ten years of poverty to replace a fake necklace), dramatic (readers learn the truth only at the end).",
+  "## Language in this lesson",
+  "Transformation of sentences: simple ↔ complex ↔ compound. Homonyms — words that sound alike but differ in spelling and meaning (bore/boar, herd/heard, weather/whether)."
+ ],
+ "mcq": [
+  [
+   "Mathilde felt her marriage to the clerk was based on —",
+   [
+    "compromise",
+    "love",
+    "choice",
+    "compulsion"
+   ],
+   "A"
+  ],
+  [
+   "Which word best describes Mathilde at the beginning of the story?",
+   [
+    "Content",
+    "Dissatisfied",
+    "Short-tempered",
+    "Generous"
+   ],
+   "B"
+  ],
+  [
+   "Monsieur Loisel had saved four hundred francs to —",
+   [
+    "buy a necklace",
+    "buy a gun and go shooting",
+    "pay the rent",
+    "buy a new coat"
+   ],
+   "B"
+  ],
+  [
+   "Mathilde hurried away from the ball because —",
+   [
+    "she was tired",
+    "she was ashamed of her old wrap",
+    "her husband was ill",
+    "the necklace was loose"
+   ],
+   "B"
+  ],
+  [
+   "How much did the replacement necklace cost?",
+   [
+    "Five hundred francs",
+    "Eighteen thousand francs",
+    "Thirty-six thousand francs",
+    "Four hundred francs"
+   ],
+   "C"
+  ],
+  [
+   "Monsieur Loisel's behaviour towards his wife is one of —",
+   [
+    "care and concern",
+    "scorn and mockery",
+    "annoyance and irritability",
+    "indifference"
+   ],
+   "A"
+  ],
+  [
+   "The fact that the Loisels spent ten years paying for a fake necklace is an example of —",
+   [
+    "verbal irony",
+    "situational irony",
+    "simile",
+    "alliteration"
+   ],
+   "B"
+  ]
+ ],
+ "tf": [
+  [
+   "Her husband shares her desire for opulence and is equally distressed by their modest lifestyle.",
+   false,
+   [
+    "April 2026"
+   ],
+   {
+    "note": "Loisel is content with a simple life — he delights in plain soup."
+   }
+  ],
+  [
+   "Mathilde stopped visiting Madame Forestier because she felt so unhappy after each visit.",
+   true
+  ],
+  [
+   "Mathilde was delighted when her husband brought the invitation.",
+   false,
+   null,
+   {
+    "note": "She threw it on the table, saying she had nothing to wear."
+   }
+  ],
+  [
+   "The Loisels noted the number of the cab.",
+   false,
+   null,
+   {
+    "note": "They did not, so they could not trace it."
+   }
+  ],
+  [
+   "Madame Forestier opened the case to check the necklace when it was returned.",
+   false
+  ],
+  [
+   "During the years of poverty Mathilde did all the heavy housework herself.",
+   true
+  ],
+  [
+   "Madame Forestier's necklace was worth at most five hundred francs.",
+   true
+  ]
+ ],
+ "match": [
+  {
+   "title": "Match the items with reference to 'The Necklace'.",
+   "pairs": [
+    [
+     "The invitation",
+     "Brings tears instead of joy"
+    ],
+    [
+     "Four hundred francs",
+     "Money saved for a gun"
+    ],
+    [
+     "The old wrap",
+     "Makes Mathilde hurry away from the ball"
+    ],
+    [
+     "The garret",
+     "Home during ten years of hardship"
+    ]
+   ]
+  },
+  {
+   "title": "Match the character with the description ('The Necklace').",
+   "pairs": [
+    [
+     "Mathilde",
+     "Vain, discontented, later hard-working"
+    ],
+    [
+     "Monsieur Loisel",
+     "Patient, self-sacrificing husband"
+    ],
+    [
+     "Madame Forestier",
+     "Rich friend who lends the necklace"
+    ]
+   ]
+  }
+ ],
+ "blanks": [
+  [
+   "Mathilde's husband was a clerk in the Ministry of Public ________.",
+   "Instruction"
+  ],
+  [
+   "At the ball, Mathilde danced till ________ in the morning.",
+   "four"
+  ],
+  [
+   "Mathilde wrote that the ________ of the necklace was broken and being mended.",
+   "clasp"
+  ],
+  [
+   "Loisel had eighteen thousand francs left to him by his ________.",
+   "father"
+  ],
+  [
+   "Mathilde met Madame Forestier again on the ________.",
+   "Champs Élysées"
+  ],
+  [
+   "The diamond necklace was really made of ________.",
+   "paste (it was imitation)"
+  ]
+ ],
+ "grammar": [
+  [
+   "Transform into a compound sentence: Mary likes to read. She also enjoys painting.",
+   "Mary likes to read, and she also enjoys painting."
+  ],
+  [
+   "Transform into a simple sentence: Although it was raining, they decided to have a picnic.",
+   "Despite the rain, they decided to have a picnic."
+  ],
+  [
+   "Transform into a complex sentence: She studied hard. She wanted to pass the exam.",
+   "She studied hard because she wanted to pass the exam."
+  ],
+  [
+   "Transform into a simple sentence: They went to the beach, and they built sandcastles.",
+   "They went to the beach to build sandcastles."
+  ],
+  [
+   "Transform into a simple sentence: The necklace was so costly that she could not buy it.",
+   "The necklace was too costly for her to buy."
+  ],
+  [
+   "Choose the homonym: The film was badly made; it was quite a ________ (bore / boar).",
+   "bore"
+  ],
+  [
+   "Choose the homonym: The ________ (weather / whether) has been cold and damp all month.",
+   "weather"
+  ]
+ ],
+ "sa2": [
+  [
+   "What sacrifice did Monsieur Loisel make for Mathilde's dress?",
+   "He gave her the four hundred francs he had saved to buy a gun and go shooting with friends at Nanterre the next summer, so that she could buy a gown for the ball.",
+   [
+    "April 2026"
+   ]
+  ],
+  [
+   "How does Mathilde's reaction to Madame Forestier's jewellery reveal her personality?",
+   "She tries everything, hesitates, and her heart throbs with desire when she sees the diamond necklace. She longs for it passionately, which shows her vanity and her craving to appear rich.",
+   [
+    "April 2026"
+   ]
+  ],
+  [
+   "Why was Mathilde always unhappy?",
+   "She felt that, being pretty and charming, she deserved a life of luxury. Her poor home, shabby furniture and plain food tortured her, and she envied rich people like her friend."
+  ],
+  [
+   "Why was Mathilde a great success at the ball?",
+   "She was the prettiest woman there — elegant, graceful, smiling and wild with joy. Everyone admired her, all the men wanted to dance with her, and even the Minister noticed her."
+  ],
+  [
+   "What did the Loisels do to find the necklace?",
+   "They searched the folds of her dress and cloak. Loisel retraced their route on foot and went to the police, the cab companies and the newspapers, offering a reward, but found nothing."
+  ],
+  [
+   "How did the Loisels' life change after they bought the new necklace?",
+   "They dismissed the servant and moved to a garret. Mathilde did the heavy housework and haggled for every sou, while Loisel worked extra jobs. In ten years Mathilde became old, coarse and rough."
+  ],
+  [
+   "Why did Mathilde tell Madame Forestier the truth at last?",
+   "The debts were paid and she felt proud of what they had endured. Meeting her friend, she wanted to explain why she looked so changed and to tell her of the sacrifice made for her necklace."
+  ]
+ ],
+ "sa3": [
+  [
+   "What is the turning point in 'The Necklace'? How does it change Mathilde?",
+   "The loss of the necklace is the turning point. It forces Mathilde from dreams of luxury into ten years of poverty and toil. She becomes hard-working, brave and honest about her debt, though she loses her beauty and youth."
+  ],
+  [
+   "'Madame Loisel's sacrifice had all been in vain.' Comment.",
+   "The Loisels gave up ten years, their savings and Mathilde's beauty to replace a necklace that was only paste worth five hundred francs. Had she told her friend the truth, the suffering could have been avoided; pride and pretence cost them dearly.",
+   null,
+   {
+    "or": [
+     "What lesson does 'The Necklace' teach?",
+     "It warns against vanity and the desire to appear richer than we are. It teaches us to be content and honest: one moment of borrowed glory cost Mathilde ten years of hardship, which honesty could have prevented."
+    ]
+   }
+  ],
+  [
+   "Compare Mathilde and her husband.",
+   "Mathilde is vain and discontented, always dreaming of wealth. Loisel is simple and content, enjoying plain soup. He is patient and self-sacrificing — he gives up his savings, waits at the ball, and later works extra jobs for ten years without complaint."
+  ]
+ ]
+}

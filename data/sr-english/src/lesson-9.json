@@ -1,0 +1,76 @@
+{
+ "lesson": 9,
+ "title": "Three Questions",
+ "kind": "Short story (parable)",
+ "author": "Leo Tolstoy",
+ "summary": [
+  "## The story in brief",
+  "A king feels that he would never fail if he knew three things: the right time to begin everything, the right people to listen to (and whom to avoid), and the most important thing to do. He offers a great reward to anyone who can answer.",
+  "Learned men give different answers. For the first question: draw up a timetable and keep to it; watch everything and not waste time on idle pleasures; consult a council of wise men; ask magicians. For the second: councillors, priests, doctors or warriors. For the third: science, skill in warfare, or religious worship. The king is not satisfied.",
+  "He decides to consult a hermit famous for his wisdom, who sees only simple folk. The king dresses as an ordinary man, leaves his bodyguard behind and walks to the hut. The hermit, frail and breathing heavily, is digging beds and does not answer. The king takes the spade and digs for hours.",
+  "At sunset a bearded man runs out of the wood, bleeding from a stomach wound, and faints. The king washes and bandages the wound and gives him water; tired out, he sleeps on the threshold. In the morning the man confesses that he is the king's enemy: the king had executed his brother and seized his property, and he had come to kill the king on his way back. The king's bodyguard had wounded him. Now he begs forgiveness and promises to serve the king faithfully. The king forgives him, promises to restore his property and to send his doctor.",
+  "The hermit then says the king has had his answers. Had he not stayed to dig, the man would have attacked him: so the most important time was when he was digging, the hermit was the most important man, and doing him good was the most important business. Later the wounded man was the most important person. Remember, he says, there is only one important time — Now, the only time we have power. The most important person is the one you are with, and the most important affair is to do him good.",
+  "## Points to remember",
+  "Leo (Lev Nikolayevich) Tolstoy wrote it in Russian; it was published in What Men Live By, and Other Tales (1903), translated by the Maudes. It is a parable — a short story with human characters that teaches a moral.",
+  "Themes: living in the present, kindness and service, forgiveness turning an enemy into a friend.",
+  "## Language in this lesson",
+  "Forming questions: yes/no questions (auxiliary + subject + verb), wh-questions (wh-word + auxiliary + subject + verb), questions with modals (Can/May/Should …), negative questions (Didn't you …?). Antonyms (persuade/dissuade, success/failure)."
+ ],
+ "mcq": [
+  ["Why did the king disguise himself to visit the hermit?", ["To test his bodyguard", "Because the hermit met only simple people", "To avoid his enemies", "To find the wounded man"], "B"],
+  ["What was the hermit doing when the king arrived?", ["Praying", "Reading", "Digging the ground in front of his hut", "Sleeping"], "C"],
+  ["Who was the bearded man?", ["The hermit's son", "A traveller lost in the forest", "An enemy who had come to kill the king", "The king's messenger"], "C"],
+  ["According to the hermit, the most important time is —", ["the morning", "now, the present moment", "the time fixed in a timetable", "when the stars are favourable"], "B"],
+  ["'Three Questions' is categorised as a parable because —", ["it has animal characters", "it is a short story with human characters that teaches a lesson", "it is written in verse", "it describes historical events"], "B"]
+ ],
+ "tf": [
+  ["The king offered a great reward to anyone who answered his questions.", true],
+  ["The learned men all gave the king the same answers.", false, null, {"note": "Their answers were all different."}],
+  ["The hermit received the king and immediately answered his questions.", false, null, {"note": "He went on digging without answering."}],
+  ["The bearded man had been wounded by the king's bodyguard.", true],
+  ["The king punished the bearded man for planning to kill him.", false, null, {"note": "He forgave him and promised to restore his property."}],
+  ["The hermit said the most important affair is to do good to the person you are with.", true]
+ ],
+ "match": [
+  {"title": "Match the question with the hermit's answer ('Three Questions').", "pairs": [
+   ["The right time to begin", "Now — the present moment"],
+   ["The most important person", "The one you are with"],
+   ["The most important work", "To do good to that person"]
+  ]},
+  {"title": "Match the character with the description ('Three Questions').", "pairs": [
+   ["The king", "Seeks wisdom and learns to forgive"],
+   ["The hermit", "Teaches through actions, not words"],
+   ["The bearded man", "Enemy who becomes a faithful servant"]
+  ]}
+ ],
+ "blanks": [
+  ["The king thought he would never ________ if he knew the answers to the three questions.", "fail"],
+  ["Some learned men said the king should draw up a ________ and keep to it.", "timetable"],
+  ["The king left his ________ behind and went alone to the hermit.", "bodyguard"],
+  ["Tired out, the king fell asleep on the ________.", "threshold"],
+  ["The bearded man wanted revenge because the king had executed his ________ and seized his property.", "brother"]
+ ],
+ "grammar": [
+  ["Fill in the right word: ________ you coming to the party? — No.", "Are"],
+  ["Fill in the right word: ________ she finished her homework yet? — No, she hasn't.", "Has"],
+  ["Fill in the right word: ________ I borrow your pen? — Yes, you may.", "May"],
+  ["Frame a question for the underlined part: Amit and Amar are sitting under the peepal tree.", "Where are Amit and Amar sitting?"],
+  ["Frame a question for the underlined part: Sulekha ate the cake.", "Who ate the cake?"],
+  ["Give the antonym: persuade", "dissuade"],
+  ["Give the antonym: criticise", "praise"]
+ ],
+ "sa2": [
+  ["What were the three questions the king wanted answered?", "What is the right time to begin everything? Who are the right people to listen to, and whom should one avoid? What is the most important thing to do?", ["April 2026"]],
+  ["Why was the king dissatisfied with the answers given by his ministers and learned men?", "Their answers were different and contradictory — timetables, councils, magicians, priests, doctors, warriors, science, warfare or worship. None of them convinced him, so he went to the hermit.", ["April 2026"]],
+  ["Why did the king help the hermit dig the beds?", "The hermit was old and frail and breathed heavily as he dug. Out of kindness the king offered to take the spade and dug for hours, hoping also to get his answers."],
+  ["How did the king save the bearded man's life?", "He washed and bandaged the man's bleeding stomach wound with his handkerchief and towel, changed the bandage till the bleeding stopped, gave him water and carried him into the hut."],
+  ["Why did the bearded man ask the king's forgiveness?", "He had come to kill the king, but the king had saved his life instead. Grateful and ashamed, he begged forgiveness and promised that he and his sons would serve the king faithfully."],
+  ["How did the hermit prove that the king had already received his answers?", "Had the king not pitied him and stayed to dig, he would have been attacked on his way back. So the digging time, the hermit and helping him were most important; later, the wounded man and caring for him were."],
+  ["What is the central message of 'Three Questions'?", "We should live in the present, for now is the only time we have power. The most important person is the one we are with, and the most important work is to do that person good."]
+ ],
+ "sa3": [
+  ["Describe the change of heart in the bearded man.", "He hated the king for executing his brother and seizing his property, and lay in wait to kill him. When the king tended his wound and saved his life, his hatred turned to gratitude. He begged forgiveness and vowed to serve the king; kindness turned an enemy into a friend."],
+  ["What did the king learn from his visit to the hermit?", "He learnt that the present is the only time that matters, that the person before us is the most important, and that doing good to that person is the most important task. He also learnt the power of kindness and forgiveness.", null, {"or": ["Write a character sketch of the hermit.", "The hermit is wise, simple and humble. He lives in the forest and meets only ordinary people. He teaches by example rather than words, letting the king discover the answers through his own actions of kindness, and he tends the wounded stranger along with him."]}],
+  ["How is 'Three Questions' a parable?", "It is a short, simple story with human characters that teaches a moral lesson. Through the king's experience it shows that the present moment, the person with us and doing good matter most — a lesson meant for all readers."]
+ ]
+}

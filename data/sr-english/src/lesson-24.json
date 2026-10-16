@@ -1,0 +1,51 @@
+{
+ "lesson": 24,
+ "title": "Writing E-mails",
+ "kind": "Writing skills",
+ "author": null,
+ "summary": [
+  "## What makes e-mail different",
+  "E-mail (electronic mail) is a message, with text, files or pictures, sent over the internet. It is faster and cheaper than a posted letter, and distance and time zones do not matter.",
+  "Because the receiver can ask questions at once, e-mail tends to be loosely structured, like conversation. But the reader may get hundreds of messages, and the message may look different on the reader's screen, so it must be tailored to the medium.",
+  "## How to write an e-mail",
+  "Message header: Subject (brief, clear, telling the content; 'URGENT:' for action, 'FYI:' for information, 'Re:' for replies), From, Date, To, Reply-to, attachments.",
+  "Body: give enough context; quote the earlier mail when replying, but only what is needed; short paragraphs; lines under about 70 characters; keep the whole message to about one screen (25 lines).",
+  "Greetings and signature: usually 'Dear …' and 'Regards'/'Thanks'; a signature with name, designation and contact. Identify yourself at the top when writing to a stranger.",
+  "## Things to remember",
+  "Never write the subject in all capitals or all small letters; discuss only non-confidential matters; avoid bad news or anger by e-mail; avoid emoticons, slang and jargon in professional mail; beware of 'Reply all'; use BCC (blind carbon copy) to hide addresses; do not reply to an old mail for a new subject.",
+  "Short forms: BRB (be right back), BTW (by the way), FYI (for your information), IMO (in my opinion), TTYL (talk to you later), TIA (thanks in advance), ASAP (as soon as possible), RSVP (please reply)."
+ ],
+ "mcq": [
+  ["Why does e-mail tend to be more loosely structured than paper-based communication?", ["E-mail is always used for formal reports", "Receivers can immediately ask questions, so strict clarity is less necessary", "E-mail needs no grammar or spelling", "Paper communication is less professional"], "B", ["April 2026"]],
+  ["Which short form means 'talk to you later'?", ["TIA", "TTYL", "BTW", "IMO"], "B", ["April 2024"]],
+  ["Which pair is correctly matched?", ["BBL — be back later", "BFN — bring for now", "IOW — in other words only", "TIA — talk in advance"], "A", ["October 2024"]],
+  ["What does BCC stand for?", ["Basic carbon copy", "Blind carbon copy", "Business contact copy", "Blank carbon copy"], "B"],
+  ["To cancel bookings and say you will give new dates later, the right points to include are —", ["cancel reservations, will decide new dates, regret the inconvenience", "confirm reservations and pay in advance", "complain about the hotel", "ask for a discount"], "A", ["October 2024", "October 2025"]],
+  ["A reply to an e-mail usually has a subject line beginning with —", ["FYI:", "Re:", "URGENT:", "BCC:"], "B"]
+ ],
+ "tf": [
+  ["With e-mail, the receiver can ask for and get clarification quickly.", true, ["October 2019"]],
+  ["E-mail is not different from older forms of communication.", false, ["October 2019"]],
+  ["The subject line of an e-mail should be written in capital letters.", false],
+  ["Confidential matters should be discussed freely over e-mail.", false],
+  ["When writing to a stranger, you should identify yourself at the top of the mail.", true]
+ ],
+ "blanks": [
+  ["E-mail is short for ________ mail.", "electronic"],
+  ["'FYI' stands for 'For Your ________'.", "Information"],
+  ["Keep e-mail lines under about ________ characters long.", "seventy"],
+  ["When you put addresses under ________, other recipients cannot see them.", "BCC"]
+ ],
+ "sa2": [
+  ["How is an e-mail different from a written letter?", "An e-mail is typed and sent instantly over the internet, can carry attachments and allows quick replies; a letter is written by hand or typed, posted, and takes days to arrive.", ["April 2024"]],
+  ["Why is it necessary to identify yourself while writing an e-mail to someone?", "The receiver may not know you. Your identity gives context — who you are, how you found them and what you want — so that the mail is read and not deleted.", ["April 2023"]],
+  ["Mention any four do's of writing e-mails.", "Use a clear, specific subject line; address the reader properly; keep the message short and to the point; proofread before sending (also: use a polite, professional tone and a signature)."],
+  ["What should a good e-mail subject line be like?", "Brief and clear, telling the reader what the mail is about; never in all capitals; with 'URGENT' or 'FYI' or 'Re:' where suitable."]
+ ],
+ "sa3": [
+  ["Write an e-mail to Hotel Sunrise, Bengaluru asking them to cancel your room reservation as your travel plans have changed, and mention that you will rebook later.", "To: reservations@hotelsunrise.in\nSubject: Cancellation of booking no. HS2604\n\nDear Sir/Madam,\nI had booked a deluxe room at your hotel from 12 to 14 April 2026 (booking no. HS2604). As my travel plans have changed, please cancel this reservation and refund the advance as per your policy.\nI will rebook once my new dates are fixed. I regret the inconvenience.\nRegards,\nArjun Mehta\n98xxxxxx10", ["April 2026"]],
+  ["Write an e-mail to Raj Travels asking them to cancel your air tickets to Bangalore and the hotel accommodation they booked for you. You will inform them of the changed date later.", "To: bookings@rajtravels.com\nSubject: Cancel tickets and hotel — Bangalore trip\n\nDear Sir,\nPlease cancel my air tickets (Delhi–Bangalore, 20 May, PNR X7K2Q) and the hotel room booked for me from 20 to 23 May. Due to an urgent change in plans I cannot travel on these dates.\nI will let you know the new dates shortly. Sorry for the inconvenience.\nRegards,\nNeha Gupta", ["April 2018", "April 2022"]],
+  ["Write an e-mail to Raj Hotel, Agra, cancelling your reservation for 18th and 19th December and booking accommodation for 21st and 22nd December instead.", "To: info@rajhotelagra.com\nSubject: Change of reservation dates\n\nDear Sir/Madam,\nI have a reservation for a double room on 18 and 19 December (Ref. RH-552). Kindly cancel it and book a double room for 21 and 22 December instead.\nPlease confirm the new booking by return mail.\nThank you,\nRahul Verma", ["January-February 2021"]],
+  ["As General Manager of Zian Enterprises, Ahmedabad, write an e-mail to all Assistant Managers about a meeting on opening a new branch in Vadodara on 12 December.", "To: asst.managers@zian.co.in\nSubject: Meeting on new Vadodara branch — 12 December\n\nDear Colleagues,\nA meeting will be held on 12 December at 11 a.m. in the conference room to discuss opening our new branch in Vadodara. Please bring your section's suggestions on staffing and budget.\nAttendance is compulsory.\nRegards,\nGeneral Manager", ["October 2022", "October 2021"]]
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "lesson": 18,
+ "title": "Reading with Understanding: Nation Builders of India",
+ "kind": "Reading comprehension",
+ "author": null,
+ "summary": [
+  "## Lokmanya Bal Gangadhar Tilak",
+  "Born on 23 July 1856 at Ratnagiri, Maharashtra; studied mathematics and law. He led the extremist (assertive) wing of the Indian National Congress and spread nationalist ideas through his newspapers Kesari and Maratha.",
+  "He made Ganesh Chaturthi a public festival to unite people and assert cultural identity under British restrictions, and organised a grand Shivaji festival in Pune in 1895 to inspire pride in India's history.",
+  "His declaration 'Swarajya is my birthright, and I shall have it!' became a rallying cry. He supported the Swadeshi Movement and the boycott of foreign goods, promoted education and was jailed several times. In Mandalay Central Jail, Burma, he wrote Gita Rahasya and The Arctic Home in the Vedas.",
+  "## Sardar Vallabhbhai Patel — the Iron Man of India",
+  "Born on 31 October 1875 at Nadiad, Gujarat, in a farming family; studied law at the Middle Temple, London; practised as a barrister in Ahmedabad from 1913.",
+  "He led the Kheda Satyagraha for farmers who could not pay land revenue after crop failure, and the Bardoli Satyagraha (1928) against increased revenue, which earned him the title 'Sardar'.",
+  "As independent India's first Deputy Prime Minister and Home Minister, he integrated over 500 princely states. Hyderabad joined after Operation Polo (September 1948); Junagadh, whose Nawab had acceded to Pakistan, was brought in by police action. The 182-metre Statue of Unity in Gujarat, the world's tallest, was unveiled on 31 October 2018."
+ ],
+ "passages": [
+  {
+   "title": "Read the passage and answer the questions.",
+   "text": "Bal Gangadhar Tilak was born on July 23, 1856, in Ratnagiri, Maharashtra. His quest for knowledge led him to pursue higher education in mathematics and law. Tilak's entry into politics was marked by his deep sense of national pride and a call for Swaraj. He became a part of the Indian National Congress but later founded the extremist wing within the Congress, advocating a more assertive approach towards achieving independence. His newspapers, 'Kesari' and 'Maratha', became powerful platforms for spreading nationalist ideas. Tilak felt that the cultural and religious traditions of India were being suppressed. He decided to make the Ganesh Chaturthi celebration a public event, believing that by celebrating the festival openly and bringing people together, they could assert their cultural identity and build a sense of unity and pride. In 1895, Tilak organised a grand Shivaji festival in Pune to commemorate the Maratha warrior king. In a memorable public gathering, Tilak declared, \"Swarajya is my birthright, and I shall have it!\" This statement became a rallying cry for the independence movement. While imprisoned at Mandalay Central Jail in Burma, he wrote several works, including 'The Arctic Home in the Vedas' and 'Gita Rahasya'.",
+   "mcq": [
+    ["What were the names of the newspapers started by Tilak?", ["Kesari and Maratha", "The Times of India and Hindustan Times", "Swarajya and Young India", "The Pioneer and The Tribune"], "A"],
+    ["Which festival did Tilak make a public celebration?", ["Holi", "Ganesh Chaturthi", "Diwali", "Eid"], "B"],
+    ["What did Tilak mean by 'Swarajya is my birthright, and I shall have it'?", ["He wanted higher salaries for officials", "He asserted his right to celebrate festivals", "He declared his firm determination to achieve self-rule for India", "He wanted to become Congress President"], "C"],
+    ["Where was Tilak imprisoned when he wrote Gita Rahasya?", ["Tihar Jail, India", "Mandalay Central Jail, Burma", "Cellular Jail, Andaman", "Yerwada Jail, Pune"], "B"],
+    ["Why did Tilak organise the Shivaji festival in 1895?", ["To raise money for the Congress", "To inspire people to take pride in their culture and history", "To celebrate a victory over the British", "To mark his release from prison"], "B"]
+   ],
+   "tf": [
+    ["Tilak studied mathematics and law.", true],
+    ["Tilak founded the moderate wing of the Congress.", false],
+    ["Tilak wrote books even while he was in prison.", true]
+   ],
+   "sa": [
+    ["Why did Tilak make Ganesh Chaturthi a public festival?", "He felt Indian traditions were being suppressed by the British, and believed that celebrating openly together would help people assert their cultural identity and build unity and pride."],
+    ["How did Tilak's newspapers help the freedom struggle?", "Kesari and Maratha were powerful platforms that spread nationalist ideas and the call for Swaraj among the people."]
+   ]
+  },
+  {
+   "title": "Read the passage and answer the questions.",
+   "text": "Vallabhbhai Patel was born on October 31, 1875, in Nadiad, Gujarat, into a humble agricultural family. He studied law at the Middle Temple Inn in London. Upon returning to India in 1913, Patel began his legal career as a barrister in Ahmedabad. He led the Kheda Satyagraha, urging poor farmers who faced severe crop failure to withhold their taxes and demanding relief from oppressive revenue policies. In 1928, the British government increased land revenue rates in the Bardoli region of Gujarat. Patel led the Bardoli Satyagraha to protest against this unjust policy, earning him the revered title of 'Sardar'. After independence he became India's first Deputy Prime Minister and Minister of Home Affairs. His skilful diplomacy played a crucial role in peacefully assimilating over 500 princely states into the Indian Union. The Nizam of Hyderabad wanted to remain independent; after negotiations failed, Operation Polo in September 1948 led to Hyderabad's accession. When the Nawab of Junagadh decided to accede to Pakistan, Patel organised a police action that brought Junagadh into India. In his honour the Statue of Unity, the world's tallest statue at 182 metres, was inaugurated on October 31, 2018, in Gujarat.",
+   "mcq": [
+    ["What was Sardar Patel's profession before he entered politics?", ["Doctor", "Lawyer", "Engineer", "Teacher"], "B"],
+    ["Which movement earned Patel the title 'Sardar'?", ["Quit India Movement", "Bardoli Satyagraha", "Non-Cooperation Movement", "Champaran Satyagraha"], "B"],
+    ["Which princely state's ruler wanted to remain independent?", ["Kashmir", "Hyderabad", "Junagadh", "Travancore"], "B"],
+    ["How was Junagadh brought into the Indian Union?", ["By a referendum only", "By a police action", "By an appeal to the United Nations", "By buying the state"], "C"],
+    ["The Statue of Unity is ________ tall.", ["82 metres", "182 metres", "282 metres", "597 metres"], "B"]
+   ],
+   "tf": [
+    ["Patel was born into a rich business family.", false],
+    ["Patel integrated over 500 princely states into India.", true],
+    ["Operation Polo was carried out in Junagadh.", false]
+   ],
+   "sa": [
+    ["Why did the farmers of Kheda need Patel's help?", "They faced severe crop failure and could not pay land revenue. Patel led them to withhold their taxes and demanded relief from the oppressive revenue policy."],
+    ["Why is Patel called the 'Iron Man of India'?", "For his firm determination and strong leadership, especially in uniting over 500 princely states, including Hyderabad and Junagadh, into one India."]
+   ]
+  }
+ ],
+ "match": [
+  {"title": "Match the nation builder with the fact (Lesson 18).", "pairs": [
+   ["Tilak", "'Swarajya is my birthright'"],
+   ["Patel", "Integration of the princely states"],
+   ["Kesari", "Tilak's newspaper"],
+   ["Operation Polo", "Accession of Hyderabad"]
+  ]}
+ ],
+ "sa2": [
+  ["How did Tilak use festivals to build national unity?", "He made Ganesh Chaturthi a public festival and organised the Shivaji festival in Pune (1895). They brought people together and filled them with pride in their culture and history."],
+  ["What did Patel do as India's first Home Minister?", "He used diplomacy, and where needed firm action like Operation Polo and the Junagadh police action, to integrate over 500 princely states and keep India united."],
+  ["Compare the methods of Tilak and Patel.", "Tilak was an assertive 'extremist' who stirred the masses through newspapers, festivals and fiery slogans. Patel practised non-violent satyagraha and later used diplomacy and administration to unite the nation."]
+ ],
+ "sa3": [
+  ["Why are Tilak and Patel called nation builders? Give two contributions of each.", "Tilak awakened national pride — through Kesari and Maratha, public festivals and the call 'Swarajya is my birthright'. Patel led the Kheda and Bardoli satyagrahas for farmers and, as Home Minister, integrated over 500 princely states, giving India its unity."]
+ ]
+}

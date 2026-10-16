@@ -1,0 +1,497 @@
+{
+  "subject": "sr-english",
+  "lesson": 4,
+  "title": "Bholi",
+  "author": "K. A. Abbas",
+  "meta": "Short story · Practice set",
+  "instructions": [
+    "Practice for this lesson in the question types of the April 2026 paper (new syllabus).",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct option.",
+      "marks": "6 × 1 = 6",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "Why was Sulekha called 'Bholi'?",
+          "options": [
+            "She was the youngest child",
+            "She was considered a simpleton",
+            "She was very talkative",
+            "She was her father's favourite"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "Bholi talked very little because —",
+          "options": [
+            "she was proud",
+            "she stammered and was mocked",
+            "she was deaf",
+            "her parents forbade her"
+          ],
+          "answer": "B",
+          "years": [
+            "January-February 2021"
+          ]
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "Ramlal agreed to send Bholi to school mainly because —",
+          "options": [
+            "she was the most intelligent",
+            "the Tehsildar asked him to set an example",
+            "Bholi begged to go",
+            "the school was free"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "Bholi's decision not to marry Bishamber showed that she was now —",
+          "options": [
+            "shameless and ill-mannered",
+            "bold and confident",
+            "a dumb and harmless cow",
+            "sharp and rude"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "What did Bholi plan to do after rejecting the marriage?",
+          "options": [
+            "Leave her family",
+            "Teach in the school where she studied and serve her parents",
+            "Marry someone else",
+            "Live alone in the city"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "What did Bishamber demand when he saw Bholi's face?",
+          "options": [
+            "A bigger procession",
+            "Five thousand rupees",
+            "A new shop",
+            "Land in the village"
+          ],
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Identify the following sentences as True or False.",
+      "marks": "7 × 1 = 7",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "mcq",
+          "q": "Ramlal's concern about Bholi's future shows that he valued her education more than her marriage prospects.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2026"
+          ],
+          "note": "He worried mainly about getting her married; he sent her to school because of the Tehsildar.",
+          "fixed": true
+        },
+        {
+          "id": "2.2",
+          "type": "mcq",
+          "q": "Bholi had an attack of smallpox when she was two years old.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "fixed": true
+        },
+        {
+          "id": "2.3",
+          "type": "mcq",
+          "q": "Bholi's mother was eager for her daughters to go to school.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "note": "'If girls go to school, who will marry them?'",
+          "fixed": true
+        },
+        {
+          "id": "2.4",
+          "type": "mcq",
+          "q": "Bholi thought she was being sent away like the cow that was sold.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "fixed": true
+        },
+        {
+          "id": "2.5",
+          "type": "mcq",
+          "q": "Bishamber was young, rich and healthy.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "note": "He was rich but middle-aged and lame, with grown-up children.",
+          "fixed": true
+        },
+        {
+          "id": "2.6",
+          "type": "mcq",
+          "q": "At the end Bholi spoke without stammering.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "fixed": true
+        },
+        {
+          "id": "2.7",
+          "type": "mcq",
+          "q": "The teacher felt deep satisfaction when Bholi stood up to Bishamber.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "fixed": true
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Match Column I with Column II in reference to 'Bholi'.",
+      "marks": "3 × 1 = 3",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "match",
+          "left": "Bholi attends school",
+          "right": "Gains confidence and resilience",
+          "answer": "Bholi attends school — Gains confidence and resilience",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "3.2",
+          "type": "match",
+          "left": "Teacher's compassion",
+          "right": "Challenges prejudice, uplifts Bholi",
+          "answer": "Teacher's compassion — Challenges prejudice, uplifts Bholi",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "3.3",
+          "type": "match",
+          "left": "Ramlal concerned about marriage",
+          "right": "Reflects parental dilemma",
+          "answer": "Ramlal concerned about marriage — Reflects parental dilemma",
+          "years": [
+            "April 2026"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Match the character with the description ('Bholi').",
+      "marks": "4 × 1 = 4",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "match",
+          "left": "Ramlal",
+          "right": "Numberdar who must set an example to the village",
+          "answer": "Ramlal — Numberdar who must set an example to the village"
+        },
+        {
+          "id": "4.2",
+          "type": "match",
+          "left": "Bishamber",
+          "right": "Greedy, lame grocer who demands dowry",
+          "answer": "Bishamber — Greedy, lame grocer who demands dowry"
+        },
+        {
+          "id": "4.3",
+          "type": "match",
+          "left": "Tehsildar",
+          "right": "Opens the girls' school",
+          "answer": "Tehsildar — Opens the girls' school"
+        },
+        {
+          "id": "4.4",
+          "type": "match",
+          "left": "Bholi's mother",
+          "right": "Thinks educated girls cannot be married",
+          "answer": "Bholi's mother — Thinks educated girls cannot be married"
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Match the cause with the effect ('Bholi').",
+      "marks": "3 × 1 = 3",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "match",
+          "left": "Bholi fell off her cot as a baby",
+          "right": "Part of her brain was damaged",
+          "answer": "Bholi fell off her cot as a baby — Part of her brain was damaged"
+        },
+        {
+          "id": "5.2",
+          "type": "match",
+          "left": "Children mimicked her stammer",
+          "right": "She spoke very little",
+          "answer": "Children mimicked her stammer — She spoke very little"
+        },
+        {
+          "id": "5.3",
+          "type": "match",
+          "left": "The teacher spoke softly to her",
+          "right": "Bholi felt new hope",
+          "answer": "The teacher spoke softly to her — Bholi felt new hope"
+        }
+      ]
+    },
+    {
+      "no": 6,
+      "title": "Fill in the blanks.",
+      "marks": "6 × 1 = 6",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "6.1",
+          "type": "open",
+          "q": "Bholi was the ________ daughter of Numberdar Ramlal.",
+          "answer": "fourth"
+        },
+        {
+          "id": "6.2",
+          "type": "open",
+          "q": "Bholi was ________ years old when Mangla was married.",
+          "answer": "seven",
+          "years": [
+            "April 2018"
+          ]
+        },
+        {
+          "id": "6.3",
+          "type": "open",
+          "q": "The teacher told Bholi that in a month she would be able to read the ________.",
+          "answer": "picture book"
+        },
+        {
+          "id": "6.4",
+          "type": "open",
+          "q": "Bishamber demanded ________ rupees as dowry at the wedding.",
+          "answer": "five thousand"
+        },
+        {
+          "id": "6.5",
+          "type": "open",
+          "q": "Ramlal placed his ________ at Bishamber's feet, begging him.",
+          "answer": "turban"
+        },
+        {
+          "id": "6.6",
+          "type": "open",
+          "q": "Bholi said she would look after her parents and ________ in the school where she had studied.",
+          "answer": "teach"
+        }
+      ]
+    },
+    {
+      "no": 7,
+      "title": "Do as directed (language).",
+      "marks": "7 × 1 = 7",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "7.1",
+          "type": "open",
+          "q": "Correct the underlined error if any: I have bought a new house last week.",
+          "answer": "I bought a new house last week."
+        },
+        {
+          "id": "7.2",
+          "type": "open",
+          "q": "Correct the error if any: Where have you been last evening?",
+          "answer": "Where were you last evening?"
+        },
+        {
+          "id": "7.3",
+          "type": "open",
+          "q": "Fill in with the correct form: When I got home last night, I found someone ________ (break) into the flat.",
+          "answer": "had broken"
+        },
+        {
+          "id": "7.4",
+          "type": "open",
+          "q": "Fill in with the correct form: My aunt ________ (like) the sweater I ________ (knit) for her.",
+          "answer": "liked; had knitted"
+        },
+        {
+          "id": "7.5",
+          "type": "open",
+          "q": "Give the verb form of: humiliation",
+          "answer": "humiliate"
+        },
+        {
+          "id": "7.6",
+          "type": "open",
+          "q": "Give the noun form of: announce",
+          "answer": "announcement"
+        },
+        {
+          "id": "7.7",
+          "type": "open",
+          "q": "Choose the right word: Bholi suffered ________ (disfigure / disfigurement) after smallpox.",
+          "answer": "disfigurement"
+        }
+      ]
+    },
+    {
+      "no": 8,
+      "title": "Answer in 30–40 words.",
+      "marks": "8 × 2 = 16",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "8.1",
+          "type": "open",
+          "q": "Why did Bholi talk very little? Give two reasons.",
+          "answer": "She stammered when she spoke, and other children mimicked and laughed at her. So she lost confidence and kept quiet.",
+          "years": [
+            "January-February 2021"
+          ]
+        },
+        {
+          "id": "8.2",
+          "type": "open",
+          "q": "What were Bholi's mother's views on educating girls?",
+          "answer": "She believed that girls who went to school could not be married off. She agreed to send Bholi only because she thought Bholi had little chance of marrying anyway.",
+          "years": [
+            "April 2017"
+          ]
+        },
+        {
+          "id": "8.3",
+          "type": "open",
+          "q": "Why was Bholi frightened when she was taken to school?",
+          "answer": "She had no idea what a school was. Being bathed and given a clean dress reminded her of the cow, Lakshmi, which was washed before being sold, so she feared she was being sent away."
+        },
+        {
+          "id": "8.4",
+          "type": "open",
+          "q": "How did the teacher win Bholi's heart on the first day?",
+          "answer": "She spoke to her in a soft, soothing voice, patted her affectionately, let her say her name slowly and gave her a picture book, promising she would soon read it and be respected."
+        },
+        {
+          "id": "8.5",
+          "type": "open",
+          "q": "Why did Ramlal accept Bishamber's proposal though he had doubts?",
+          "answer": "Bishamber was well-to-do and did not ask for dowry, and no one else was likely to marry Bholi. Ramlal worried about his age, limp and grown-up children, but accepted to settle her future."
+        },
+        {
+          "id": "8.6",
+          "type": "open",
+          "q": "Who was responsible for transforming Bholi from a stammering 'dumb cow' into a bold and confident girl?",
+          "answer": "Her teacher. Her kindness, encouragement and education gave Bholi hope, a voice and self-respect, so that she could refuse a greedy groom.",
+          "years": [
+            "October 2022"
+          ]
+        },
+        {
+          "id": "8.7",
+          "type": "open",
+          "q": "Why did Bholi refuse to marry Bishamber?",
+          "answer": "He insulted her family by demanding five thousand rupees after seeing her face, and humiliated her father. Bholi would not marry such a mean, greedy and cowardly man.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "8.8",
+          "type": "open",
+          "q": "'New clothes had never been made for Bholi.' What does this show about her parents?",
+          "answer": "It shows that her parents neglected her and treated her as less valuable than her sisters because of her looks and slowness; she got only their cast-off dresses.",
+          "years": [
+            "October 2017"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 9,
+      "title": "Answer in about 50–60 words.",
+      "marks": "3 × 3 = 9",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "9.1",
+          "type": "open",
+          "q": "'Going to school was a turning point in Bholi's life.' Elaborate with examples from the story.",
+          "answer": "Before school Bholi was neglected, mocked and silent. Her teacher's kindness and the promise of reading gave her hope and confidence. Education helped her overcome her stammer, and in the end she spoke boldly, rejected a greedy groom and chose to teach and care for her parents.",
+          "years": [
+            "October 2016",
+            "April 2018",
+            "April 2019"
+          ]
+        },
+        {
+          "id": "9.2",
+          "type": "open",
+          "q": "Society is by and large insensitive to people who do not fit its idea of 'normal'. Illustrate with reference to Bholi.",
+          "answer": "Bholi was mocked by children, neglected by her parents and given only old clothes because of her pock-marks and stammer. Her mother called her a dumb cow, and her only proposal came from a lame, greedy old man who still demanded money. Only the teacher saw her worth.",
+          "years": [
+            "October 2019"
+          ],
+          "or": {
+            "q": "What message does the story 'Bholi' convey?",
+            "answer": "It shows that love, encouragement and education can transform a neglected child. It condemns dowry and the discrimination against girls and the disabled, and celebrates self-respect: an educated Bholi can stand up for herself and her family."
+          }
+        },
+        {
+          "id": "9.3",
+          "type": "open",
+          "q": "Describe what happened at Bholi's wedding.",
+          "answer": "The procession came with a band. When Bishamber lifted the veil and saw the pock-marks, he demanded five thousand rupees. Ramlal paid, laying his turban at his feet. Bholi then threw away the garland, refused to marry so greedy a man, and told her father to take back the money."
+        }
+      ]
+    }
+  ]
+}

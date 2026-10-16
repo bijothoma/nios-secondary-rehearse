@@ -1,0 +1,568 @@
+{
+  "subject": "sr-english",
+  "lesson": 16,
+  "title": "Reading with Understanding: Stress Before Examination",
+  "author": null,
+  "meta": "Reading comprehension · Practice set",
+  "instructions": [
+    "Practice for this lesson in the question types of the April 2026 paper (new syllabus).",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Match the person with the stress-relief measure (Lesson 16).",
+      "marks": "4 × 1 = 4",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "match",
+          "left": "Hema, lonely and depressed after long work hours",
+          "right": "Developing hobbies",
+          "answer": "Hema, lonely and depressed after long work hours — Developing hobbies"
+        },
+        {
+          "id": "1.2",
+          "type": "match",
+          "left": "Rohan, who sits all day and travels three hours",
+          "right": "Taking exercise",
+          "answer": "Rohan, who sits all day and travels three hours — Taking exercise"
+        },
+        {
+          "id": "1.3",
+          "type": "match",
+          "left": "Rita, always busy but never finishing her work",
+          "right": "Managing time",
+          "answer": "Rita, always busy but never finishing her work — Managing time"
+        },
+        {
+          "id": "1.4",
+          "type": "match",
+          "left": "Rima, who has failed twice and expects to fail again",
+          "right": "Thinking positively",
+          "answer": "Rima, who has failed twice and expects to fail again — Thinking positively"
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Read the text carefully and choose the correct alternatives.",
+      "marks": "5 × 1 = 5",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "mcq",
+          "q": "Why does the passage emphasise 'good concentration' as important for memory?",
+          "options": [
+            "It helps avoid television distractions",
+            "It allows understanding and logical recall",
+            "It reduces filled time in a student's day",
+            "It ensures more sleep"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "2.2",
+          "type": "mcq",
+          "q": "What is implied about television watching in relation to academic performance?",
+          "options": [
+            "It improves relaxation and reduces anxiety",
+            "It helps students manage unfilled time better",
+            "It reduces reading time and lowers performance",
+            "It increases logical thinking and memory"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "2.3",
+          "type": "mcq",
+          "q": "Why does the passage distinguish between filled and unfilled time?",
+          "options": [
+            "To show that filled time is wasted",
+            "To highlight the importance of managing free hours effectively",
+            "To suggest that filled time should be reduced",
+            "To argue that unfilled time must be spent only on sleep"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "2.4",
+          "type": "mcq",
+          "q": "What deeper message does the passage convey about positive thinking?",
+          "options": [
+            "It guarantees success in examinations",
+            "It reduces stress and leads to better outcomes",
+            "It replaces the need for medical help",
+            "It increases filled time in a student's schedule"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "2.5",
+          "type": "mcq",
+          "q": "What can be inferred about the role of medical help in the passage?",
+          "options": [
+            "It is unnecessary if students manage time well",
+            "It is only for those who fail examinations",
+            "It is essential when anxiety or depression symptoms appear",
+            "It is a substitute for concentration and memory skills"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2026"
+          ]
+        }
+      ],
+      "passage": "Good concentration is important to improve the memory. Learning and memorising by understanding and recalling what one has learnt is helpful. Organising and framing a logical relationship is important. Mastery not just of the content of the subject, but also the process of answering is equally important. Anxiety and fear hamper recall and result in a mental block during examination. Watching television for a long time could lower academic performance. It 'steals' away the reading time. Time management is about self-discipline. Time must be managed between filled and unfilled time. Filled time is the time spent sleeping, bathing, eating, dressing and attending school. A student has 10 hours of unfilled time. How best is the student going to utilise this? Make a timetable for the 10 hours. Seven to eight hours of sleep is necessary for optimal physical rest and brain functioning. A positive thought is the seed of a positive result. Always feel positive. This will help to lessen stress. If a student has symptoms of anxiety or depression, seek medical help immediately."
+    },
+    {
+      "no": 3,
+      "title": "Based on the passage above, identify the sentences as True or False.",
+      "marks": "3 × 1 = 3",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "mcq",
+          "q": "Anxiety and fear help students recall answers in the examination.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2026"
+          ],
+          "fixed": true
+        },
+        {
+          "id": "3.2",
+          "type": "mcq",
+          "q": "Filled time includes the time spent attending school.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2026"
+          ],
+          "fixed": true
+        },
+        {
+          "id": "3.3",
+          "type": "mcq",
+          "q": "Seven to eight hours of sleep are needed for the brain to work well.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2026"
+          ],
+          "fixed": true
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Answer in about 30 words (passage above).",
+      "marks": "2 × 2 = 4",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "How can a student use the ten hours of unfilled time well?",
+          "answer": "By making a timetable for those ten hours, giving time to study and revision, and keeping television and other distractions within limits.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "What happens when a student is anxious and afraid during an examination?",
+          "answer": "Anxiety and fear block recall, causing a mental block, so the student cannot remember what he or she has learnt.",
+          "years": [
+            "April 2026"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Read the text carefully and choose the correct alternatives.",
+      "marks": "5 × 1 = 5",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "mcq",
+          "q": "According to the passage, who are stressed before examinations?",
+          "options": [
+            "Only students",
+            "Students, teachers and parents",
+            "Only parents",
+            "Only teachers"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "5.2",
+          "type": "mcq",
+          "q": "What kind of anxiety motivates students?",
+          "options": [
+            "Over-anxiety",
+            "Optimal anxiety",
+            "No anxiety",
+            "Constant anxiety"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "5.3",
+          "type": "mcq",
+          "q": "Which of these is NOT given as a reason for stress?",
+          "options": [
+            "Identity crisis",
+            "Peer pressure",
+            "Too much sleep",
+            "Career-oriented decisions"
+          ],
+          "answer": "C",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "5.4",
+          "type": "mcq",
+          "q": "Why should one study in a well-ventilated place?",
+          "options": [
+            "To avoid noise",
+            "Because the brain needs a good supply of oxygen",
+            "To keep cool",
+            "To save electricity"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "5.5",
+          "type": "mcq",
+          "q": "A suitable title for the passage is —",
+          "options": [
+            "Examination Fever",
+            "Stress in Modern Life",
+            "Today's Youth",
+            "A Healthy Diet"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2025"
+          ]
+        }
+      ],
+      "passage": "Before examinations, many students are under tremendous stress. But it is not just the students who are stressed, teachers and parents too face the same situation. Why do people get stressed? Adolescents are faced with the demands of their developmental tasks and that of a complex society. They need to acquire skills of adjustment to emerge into adulthood unaffected by these demands. If they lack these skills or if too many demands are made on them, they fail. Students are anxious, as they are worried about whether they would be able to live up to the expectations of their peers, parents and teachers. Optimal anxiety motivates and keeps them ahead while over-anxiety is disabling. Anxiety is contagious and passes onto other students, teachers and parents. Adolescents, when stressed out, tend to perceive everything as an emergency. Some of the reasons for increase in stress level are identity crisis, the need to make career-oriented decisions, teachers' and parents' attitude and peer pressure. The inability to communicate with parents also plays a major role. Good memory depends upon a good brain. The brain needs a good supply of oxygen, glucose, calcium, phosphorus and iron. So make sure you sit in a well-ventilated place when studying. Your diet should include milk, cheese, walnuts, wheat germ, green leafy vegetables, ragi and dates. Do not forget that \"breakfast is the brain food\"."
+    },
+    {
+      "no": 6,
+      "title": "Based on the passage above, identify the sentences as True or False.",
+      "marks": "5 × 1 = 5",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "6.1",
+          "type": "mcq",
+          "q": "Poor communication with parents can contribute to increased stress levels in adolescents.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2025"
+          ],
+          "fixed": true
+        },
+        {
+          "id": "6.2",
+          "type": "mcq",
+          "q": "A well-ventilated study environment is unnecessary for good brain function.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2025"
+          ],
+          "fixed": true
+        },
+        {
+          "id": "6.3",
+          "type": "mcq",
+          "q": "Only students get stressed before examinations.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2025"
+          ],
+          "fixed": true
+        },
+        {
+          "id": "6.4",
+          "type": "mcq",
+          "q": "Anxiety can pass from one person to another.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2025"
+          ],
+          "fixed": true
+        },
+        {
+          "id": "6.5",
+          "type": "mcq",
+          "q": "Breakfast is described as brain food.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2025"
+          ],
+          "fixed": true
+        }
+      ]
+    },
+    {
+      "no": 7,
+      "title": "Answer in about 30 words (passage above).",
+      "marks": "2 × 2 = 4",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "7.1",
+          "type": "open",
+          "q": "Why are adolescents anxious, according to the passage?",
+          "answer": "They have to cope with their developmental tasks and with the demands of a complex society, and they worry about living up to the expectations of their peers, parents and teachers.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "7.2",
+          "type": "open",
+          "q": "What diet does the passage recommend for a good memory?",
+          "answer": "Milk, cheese, walnuts, wheat germ, green leafy vegetables, ragi and dates, and a good breakfast, since breakfast is brain food.",
+          "years": [
+            "October 2025"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 8,
+      "title": "Read the text carefully and choose the correct alternatives.",
+      "marks": "5 × 1 = 5",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "8.1",
+          "type": "mcq",
+          "q": "Into how many categories should tasks be divided?",
+          "options": [
+            "Two",
+            "Three",
+            "Four",
+            "Five"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "8.2",
+          "type": "mcq",
+          "q": "Ironing clothes is an example of a ________ task.",
+          "options": [
+            "A (important)",
+            "B (less important)",
+            "C (routine)",
+            "useless"
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "8.3",
+          "type": "mcq",
+          "q": "Hobbies give great pleasure because —",
+          "options": [
+            "they are expensive",
+            "they are chosen to suit one's temperament and aptitude",
+            "they are done with friends",
+            "they take little time"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "8.4",
+          "type": "mcq",
+          "q": "Why does the writer mention Ramanujan and Einstein?",
+          "options": [
+            "They were good at sports",
+            "They show that failure is never final",
+            "They managed time well",
+            "They never felt stress"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "8.5",
+          "type": "mcq",
+          "q": "'They are healthy mood enhancers.' Here 'they' refers to —",
+          "options": [
+            "tasks",
+            "exercises",
+            "hobbies",
+            "examinations"
+          ],
+          "answer": "C"
+        }
+      ],
+      "passage": "To avoid or reduce stress, you must manage your time properly. You must prepare a 'to do' task list. However these tasks are not static. They undergo change over a period of time. It is useful to divide tasks into three categories: important — A; less important — B; and routine — C. Intersperse A and B tasks with C tasks such as ironing clothes, reading the newspaper, etc. This would provide relief from the constant pressure of important tasks. Exercise is beneficial in reducing anxiety and improving sleep. Brisk walking, swimming, jogging and aerobics are effective in keeping the heart healthy. Hobbies help to reduce stress. They can become as refreshing as sleep. Since one chooses one's hobbies according to one's own temperament and aptitude, they give great pleasure. They are healthy mood enhancers. In order to remain calm and at peace, you need to train yourself to think positively. Failing in the examination is not the end of the world. Many geniuses like Ramanujan and Einstein failed examinations. Failure is never final and success is never an end. Talk about your problems."
+    },
+    {
+      "no": 9,
+      "title": "Based on the passage above, identify the sentences as True or False.",
+      "marks": "3 × 1 = 3",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "9.1",
+          "type": "mcq",
+          "q": "The writer advises doing all A tasks first and C tasks at the end.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "fixed": true
+        },
+        {
+          "id": "9.2",
+          "type": "mcq",
+          "q": "Exercise helps to reduce anxiety and improve sleep.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "fixed": true
+        },
+        {
+          "id": "9.3",
+          "type": "mcq",
+          "q": "Failing an examination is the end of the world.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "fixed": true
+        }
+      ]
+    },
+    {
+      "no": 10,
+      "title": "Answer in about 30 words (passage above).",
+      "marks": "2 × 2 = 4",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "10.1",
+          "type": "open",
+          "q": "Why should A and B tasks be mixed with C tasks?",
+          "answer": "Routine C tasks such as ironing clothes give relief from the constant pressure of important tasks, so mixing them reduces stress."
+        },
+        {
+          "id": "10.2",
+          "type": "open",
+          "q": "Which of the four measures would you suggest to Rima, who has failed twice and cannot concentrate? Why?",
+          "answer": "Thinking positively. She must remember that failure is never final, as even Ramanujan and Einstein failed, and she should talk about her problems with parents, teachers or friends."
+        }
+      ]
+    },
+    {
+      "no": 11,
+      "title": "Answer in 30–40 words.",
+      "marks": "3 × 2 = 6",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "11.1",
+          "type": "open",
+          "q": "What are the main causes of stress among adolescents?",
+          "answer": "Identity crisis, the need to make career-oriented decisions, the attitude of teachers and parents, peer pressure and, most of all, the inability to communicate with parents."
+        },
+        {
+          "id": "11.2",
+          "type": "open",
+          "q": "How can time management reduce stress?",
+          "answer": "By making a to-do list, grading tasks as important, less important and routine, mixing routine tasks with important ones for relief, giving each task realistic time and keeping a diary of tasks done."
+        },
+        {
+          "id": "11.3",
+          "type": "open",
+          "q": "'A positive thought is the seed of a positive result.' Explain.",
+          "answer": "If we think positively, we stay calm and confident and work better, which leads to good results. Negative thinking breeds fear and failure."
+        }
+      ]
+    },
+    {
+      "no": 12,
+      "title": "Answer in about 50–60 words.",
+      "marks": "1 × 3 = 3",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "12.1",
+          "type": "open",
+          "q": "Suggest four ways in which a student can beat examination stress.",
+          "answer": "Manage time with a timetable and to-do list; exercise regularly — walking, jogging or cycling; take up a hobby that refreshes the mind; and think positively, remembering that failure is never final and talking about problems. Eat well and sleep seven to eight hours."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,442 @@
+{
+  "subject": "sr-english",
+  "lesson": 17,
+  "title": "Kabir and Thiruvalluvar",
+  "author": "Kabir; Thiruvalluvar",
+  "meta": "Poems (couplets) · Practice set",
+  "instructions": [
+    "Practice for this lesson in the question types of the April 2026 paper (new syllabus).",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct option.",
+      "marks": "8 × 1 = 8",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "What does Kabir's metaphor of the grinding mill (chalti chakki) reveal about human life?",
+          "options": [
+            "The importance of agriculture",
+            "The inevitability of change and opposing forces in life",
+            "The futility of human effort",
+            "Abundance and prosperity"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "Where did Kabir find the wicked person he was looking for?",
+          "options": [
+            "In the marketplace",
+            "Among his enemies",
+            "Within himself",
+            "Nowhere at all"
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "The date palm in Kabir's doha stands for —",
+          "options": [
+            "greatness that is of no use to others",
+            "patience",
+            "the beauty of nature",
+            "spiritual knowledge"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "'Dhai aakhar prem ke' refers to —",
+          "options": [
+            "two and a half books",
+            "the word 'prem' — love",
+            "the scriptures",
+            "a teacher's lesson"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "In 'Sayeen Itna Deejiye', Kabir asks God for —",
+          "options": [
+            "great wealth",
+            "power and authority",
+            "just enough to feed his family and guests",
+            "a long life"
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "According to Thiruvalluvar, which wound never heals?",
+          "options": [
+            "A wound made by fire",
+            "A wound made by a sword",
+            "A wound made by harsh words",
+            "A wound made by a fall"
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "Thiruvalluvar says inward purity comes from —",
+          "options": [
+            "bathing in holy water",
+            "truthfulness",
+            "wealth",
+            "solitude"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "The Thirukkural has ________ couplets in all.",
+          "options": [
+            "133",
+            "330",
+            "1,330",
+            "13,300"
+          ],
+          "answer": "C"
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Identify the following sentences as True or False.",
+      "marks": "7 × 1 = 7",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "mcq",
+          "q": "Kabir's dohas are confined to one religion.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "note": "They carry universal themes and are revered in Hinduism, Sikhism and Sufism.",
+          "fixed": true
+        },
+        {
+          "id": "2.2",
+          "type": "mcq",
+          "q": "In 'Dheere Dheere Re Mana', Kabir uses the image of a gardener to teach patience.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "fixed": true
+        },
+        {
+          "id": "2.3",
+          "type": "mcq",
+          "q": "Kabir seeks friendship with everyone in the marketplace.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "note": "'Na kahu se dosti, na kahu se bair' — friendship with none, enmity with none.",
+          "fixed": true
+        },
+        {
+          "id": "2.4",
+          "type": "mcq",
+          "q": "According to Kabir, people remember God more in sorrow than in joy.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "fixed": true
+        },
+        {
+          "id": "2.5",
+          "type": "mcq",
+          "q": "Thiruvalluvar compares harsh words to unripe fruit.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "fixed": true
+        },
+        {
+          "id": "2.6",
+          "type": "mcq",
+          "q": "Thiruvalluvar names delay, forgetfulness, sloth and sleep as the boat to ruin.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "fixed": true
+        },
+        {
+          "id": "2.7",
+          "type": "mcq",
+          "q": "The Thirukkural is divided into Aram, Porul and Inbam.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "fixed": true
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Match the image with its lesson (Kabir).",
+      "marks": "4 × 1 = 4",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "match",
+          "left": "Grinding millstones",
+          "right": "Nothing escapes life's opposing forces",
+          "answer": "Grinding millstones — Nothing escapes life's opposing forces"
+        },
+        {
+          "id": "3.2",
+          "type": "match",
+          "left": "Date palm",
+          "right": "Size is useless without benefit to others",
+          "answer": "Date palm — Size is useless without benefit to others"
+        },
+        {
+          "id": "3.3",
+          "type": "match",
+          "left": "Gardener watering plants",
+          "right": "Everything happens in its own time",
+          "answer": "Gardener watering plants — Everything happens in its own time"
+        },
+        {
+          "id": "3.4",
+          "type": "match",
+          "left": "Mute person smiling",
+          "right": "Divine love cannot be put into words",
+          "answer": "Mute person smiling — Divine love cannot be put into words"
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Match the kural with its message (Thiruvalluvar).",
+      "marks": "4 × 1 = 4",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "match",
+          "left": "Water and truth",
+          "right": "Outward and inward purity",
+          "answer": "Water and truth — Outward and inward purity"
+        },
+        {
+          "id": "4.2",
+          "type": "match",
+          "left": "Digging in sand",
+          "right": "The more you learn, the more wisdom flows",
+          "answer": "Digging in sand — The more you learn, the more wisdom flows"
+        },
+        {
+          "id": "4.3",
+          "type": "match",
+          "left": "The touchstone",
+          "right": "Deeds reveal greatness or meanness",
+          "answer": "The touchstone — Deeds reveal greatness or meanness"
+        },
+        {
+          "id": "4.4",
+          "type": "match",
+          "left": "The rising lotus",
+          "right": "A man's height is measured by his mind",
+          "answer": "The rising lotus — A man's height is measured by his mind"
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Fill in the blanks.",
+      "marks": "5 × 1 = 5",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "Kabir was a ________-century poet and mystic.",
+          "answer": "15th"
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "Thiruvalluvar wrote in the ________ language.",
+          "answer": "Tamil"
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "Kabir's couplets are called ________.",
+          "answer": "dohas"
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "The statue of Thiruvalluvar at ________ is 133 feet tall.",
+          "answer": "Kanyakumari"
+        },
+        {
+          "id": "5.5",
+          "type": "open",
+          "q": "'Speak such words that you lose the ________ of your mind.'",
+          "answer": "ego"
+        }
+      ]
+    },
+    {
+      "no": 6,
+      "title": "Do as directed (language).",
+      "marks": "6 × 1 = 6",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "6.1",
+          "type": "open",
+          "q": "Change into indirect speech: \"Please clean your room,\" Mother said.",
+          "answer": "Mother asked me to clean my room."
+        },
+        {
+          "id": "6.2",
+          "type": "open",
+          "q": "Change into indirect speech: \"Close the window,\" the teacher commanded.",
+          "answer": "The teacher commanded us to close the window."
+        },
+        {
+          "id": "6.3",
+          "type": "open",
+          "q": "Change into indirect speech: \"Don't forget to call me later,\" Sarah reminded him.",
+          "answer": "Sarah reminded him not to forget to call her later."
+        },
+        {
+          "id": "6.4",
+          "type": "open",
+          "q": "Change into indirect speech: \"Let's go to the park,\" he suggested.",
+          "answer": "He suggested that we go to the park."
+        },
+        {
+          "id": "6.5",
+          "type": "open",
+          "q": "Change into direct speech: She told him to be quiet.",
+          "answer": "She said to him, \"Be quiet.\""
+        },
+        {
+          "id": "6.6",
+          "type": "open",
+          "q": "Name the device: 'Outward purity the water will bestow; inward purity from truth alone will flow.'",
+          "answer": "Antithesis"
+        }
+      ]
+    },
+    {
+      "no": 7,
+      "title": "Answer in 30–40 words.",
+      "marks": "7 × 2 = 14",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "7.1",
+          "type": "open",
+          "q": "What does Kabir lament when he sees the grinding stones at work?",
+          "answer": "He weeps because, just as grain is crushed between two millstones, every living being is crushed between life's opposing forces such as joy and sorrow, birth and death. Nothing remains whole."
+        },
+        {
+          "id": "7.2",
+          "type": "open",
+          "q": "What lesson does Kabir teach in 'Bura Jo Dekhan Main Chala'?",
+          "answer": "He looked for wicked people but found none; when he looked into his own heart he found himself the worst. We should examine our own faults before judging others."
+        },
+        {
+          "id": "7.3",
+          "type": "open",
+          "q": "What does Kabir want to teach through the example of the date tree?",
+          "answer": "A date palm is tall but gives no shade and its fruit is out of reach. Greatness or wealth is worthless unless it benefits others; true worth lies in usefulness."
+        },
+        {
+          "id": "7.4",
+          "type": "open",
+          "q": "How, according to Kabir, does one become truly wise?",
+          "answer": "Not by reading many books and scriptures, but by understanding and practising love — the 'two and a half letters' of prem. One who knows love is the true scholar."
+        },
+        {
+          "id": "7.5",
+          "type": "open",
+          "q": "What does Thiruvalluvar say about harsh speech?",
+          "answer": "Speaking harsh words when sweet words would serve is like eating unripe fruit when ripe fruit is at hand. A wound made by the tongue never heals, unlike a burn."
+        },
+        {
+          "id": "7.6",
+          "type": "open",
+          "q": "What six things make a ruler 'a lion among kings', according to Thiruvalluvar?",
+          "answer": "An army, a loyal people, wealth, a wise minister, friends and a fort. A ruler who has all six is strong and respected like a lion among kings."
+        },
+        {
+          "id": "7.7",
+          "type": "open",
+          "q": "What common values do Kabir and Thiruvalluvar teach?",
+          "answer": "Both teach humility, kind and truthful speech, self-reflection, contentment rather than greed, and compassion for all, and both promoted harmony among communities."
+        }
+      ]
+    },
+    {
+      "no": 8,
+      "title": "Answer in about 50–60 words.",
+      "marks": "3 × 3 = 9",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "8.1",
+          "type": "open",
+          "q": "Compare the themes of Kabir and Thiruvalluvar.",
+          "answer": "Both stress humility and self-examination, gentle and truthful speech, contentment and right conduct. Kabir focuses on love of God, impermanence and equanimity, using everyday images. Thiruvalluvar gives practical guidance on household life, governance, learning and self-discipline."
+        },
+        {
+          "id": "8.2",
+          "type": "open",
+          "q": "Explain Kabir's doha on remembering God in joy and sorrow.",
+          "answer": "People remember God only when they suffer and forget Him when they are happy. Kabir says that if one remembers God in joy too, one stays balanced and never feels crushed by sorrow.",
+          "or": {
+            "q": "Explain Thiruvalluvar's kural on the lotus and the mind.",
+            "answer": "The lotus stem grows as the flood water rises, so the flower always stays above water. In the same way a person's greatness rises with the height of his mind — his thoughts and character, not his wealth, measure his worth."
+          }
+        },
+        {
+          "id": "8.3",
+          "type": "open",
+          "q": "What does Thiruvalluvar say leads a person to ruin? How can a student avoid it?",
+          "answer": "Delay, forgetfulness, sloth and excessive sleep are a 'pleasure-boat' that carries people to ruin. A student can avoid them by planning work and doing it on time, keeping notes and reminders, staying active and sleeping only as much as needed."
+        }
+      ]
+    }
+  ]
+}

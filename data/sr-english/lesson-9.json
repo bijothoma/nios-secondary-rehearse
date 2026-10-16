@@ -1,0 +1,391 @@
+{
+  "subject": "sr-english",
+  "lesson": 9,
+  "title": "Three Questions",
+  "author": "Leo Tolstoy",
+  "meta": "Short story (parable) · Practice set",
+  "instructions": [
+    "Practice for this lesson in the question types of the April 2026 paper (new syllabus).",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct option.",
+      "marks": "5 × 1 = 5",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "Why did the king disguise himself to visit the hermit?",
+          "options": [
+            "To test his bodyguard",
+            "Because the hermit met only simple people",
+            "To avoid his enemies",
+            "To find the wounded man"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "What was the hermit doing when the king arrived?",
+          "options": [
+            "Praying",
+            "Reading",
+            "Digging the ground in front of his hut",
+            "Sleeping"
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "Who was the bearded man?",
+          "options": [
+            "The hermit's son",
+            "A traveller lost in the forest",
+            "An enemy who had come to kill the king",
+            "The king's messenger"
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "According to the hermit, the most important time is —",
+          "options": [
+            "the morning",
+            "now, the present moment",
+            "the time fixed in a timetable",
+            "when the stars are favourable"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "'Three Questions' is categorised as a parable because —",
+          "options": [
+            "it has animal characters",
+            "it is a short story with human characters that teaches a lesson",
+            "it is written in verse",
+            "it describes historical events"
+          ],
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Identify the following sentences as True or False.",
+      "marks": "6 × 1 = 6",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "mcq",
+          "q": "The king offered a great reward to anyone who answered his questions.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "fixed": true
+        },
+        {
+          "id": "2.2",
+          "type": "mcq",
+          "q": "The learned men all gave the king the same answers.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "note": "Their answers were all different.",
+          "fixed": true
+        },
+        {
+          "id": "2.3",
+          "type": "mcq",
+          "q": "The hermit received the king and immediately answered his questions.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "note": "He went on digging without answering.",
+          "fixed": true
+        },
+        {
+          "id": "2.4",
+          "type": "mcq",
+          "q": "The bearded man had been wounded by the king's bodyguard.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "fixed": true
+        },
+        {
+          "id": "2.5",
+          "type": "mcq",
+          "q": "The king punished the bearded man for planning to kill him.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "note": "He forgave him and promised to restore his property.",
+          "fixed": true
+        },
+        {
+          "id": "2.6",
+          "type": "mcq",
+          "q": "The hermit said the most important affair is to do good to the person you are with.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "fixed": true
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Match the question with the hermit's answer ('Three Questions').",
+      "marks": "3 × 1 = 3",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "match",
+          "left": "The right time to begin",
+          "right": "Now — the present moment",
+          "answer": "The right time to begin — Now — the present moment"
+        },
+        {
+          "id": "3.2",
+          "type": "match",
+          "left": "The most important person",
+          "right": "The one you are with",
+          "answer": "The most important person — The one you are with"
+        },
+        {
+          "id": "3.3",
+          "type": "match",
+          "left": "The most important work",
+          "right": "To do good to that person",
+          "answer": "The most important work — To do good to that person"
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Match the character with the description ('Three Questions').",
+      "marks": "3 × 1 = 3",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "match",
+          "left": "The king",
+          "right": "Seeks wisdom and learns to forgive",
+          "answer": "The king — Seeks wisdom and learns to forgive"
+        },
+        {
+          "id": "4.2",
+          "type": "match",
+          "left": "The hermit",
+          "right": "Teaches through actions, not words",
+          "answer": "The hermit — Teaches through actions, not words"
+        },
+        {
+          "id": "4.3",
+          "type": "match",
+          "left": "The bearded man",
+          "right": "Enemy who becomes a faithful servant",
+          "answer": "The bearded man — Enemy who becomes a faithful servant"
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Fill in the blanks.",
+      "marks": "5 × 1 = 5",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "The king thought he would never ________ if he knew the answers to the three questions.",
+          "answer": "fail"
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "Some learned men said the king should draw up a ________ and keep to it.",
+          "answer": "timetable"
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "The king left his ________ behind and went alone to the hermit.",
+          "answer": "bodyguard"
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "Tired out, the king fell asleep on the ________.",
+          "answer": "threshold"
+        },
+        {
+          "id": "5.5",
+          "type": "open",
+          "q": "The bearded man wanted revenge because the king had executed his ________ and seized his property.",
+          "answer": "brother"
+        }
+      ]
+    },
+    {
+      "no": 6,
+      "title": "Do as directed (language).",
+      "marks": "7 × 1 = 7",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "6.1",
+          "type": "open",
+          "q": "Fill in the right word: ________ you coming to the party? — No.",
+          "answer": "Are"
+        },
+        {
+          "id": "6.2",
+          "type": "open",
+          "q": "Fill in the right word: ________ she finished her homework yet? — No, she hasn't.",
+          "answer": "Has"
+        },
+        {
+          "id": "6.3",
+          "type": "open",
+          "q": "Fill in the right word: ________ I borrow your pen? — Yes, you may.",
+          "answer": "May"
+        },
+        {
+          "id": "6.4",
+          "type": "open",
+          "q": "Frame a question for the underlined part: Amit and Amar are sitting under the peepal tree.",
+          "answer": "Where are Amit and Amar sitting?"
+        },
+        {
+          "id": "6.5",
+          "type": "open",
+          "q": "Frame a question for the underlined part: Sulekha ate the cake.",
+          "answer": "Who ate the cake?"
+        },
+        {
+          "id": "6.6",
+          "type": "open",
+          "q": "Give the antonym: persuade",
+          "answer": "dissuade"
+        },
+        {
+          "id": "6.7",
+          "type": "open",
+          "q": "Give the antonym: criticise",
+          "answer": "praise"
+        }
+      ]
+    },
+    {
+      "no": 7,
+      "title": "Answer in 30–40 words.",
+      "marks": "7 × 2 = 14",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "7.1",
+          "type": "open",
+          "q": "What were the three questions the king wanted answered?",
+          "answer": "What is the right time to begin everything? Who are the right people to listen to, and whom should one avoid? What is the most important thing to do?",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "7.2",
+          "type": "open",
+          "q": "Why was the king dissatisfied with the answers given by his ministers and learned men?",
+          "answer": "Their answers were different and contradictory — timetables, councils, magicians, priests, doctors, warriors, science, warfare or worship. None of them convinced him, so he went to the hermit.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "7.3",
+          "type": "open",
+          "q": "Why did the king help the hermit dig the beds?",
+          "answer": "The hermit was old and frail and breathed heavily as he dug. Out of kindness the king offered to take the spade and dug for hours, hoping also to get his answers."
+        },
+        {
+          "id": "7.4",
+          "type": "open",
+          "q": "How did the king save the bearded man's life?",
+          "answer": "He washed and bandaged the man's bleeding stomach wound with his handkerchief and towel, changed the bandage till the bleeding stopped, gave him water and carried him into the hut."
+        },
+        {
+          "id": "7.5",
+          "type": "open",
+          "q": "Why did the bearded man ask the king's forgiveness?",
+          "answer": "He had come to kill the king, but the king had saved his life instead. Grateful and ashamed, he begged forgiveness and promised that he and his sons would serve the king faithfully."
+        },
+        {
+          "id": "7.6",
+          "type": "open",
+          "q": "How did the hermit prove that the king had already received his answers?",
+          "answer": "Had the king not pitied him and stayed to dig, he would have been attacked on his way back. So the digging time, the hermit and helping him were most important; later, the wounded man and caring for him were."
+        },
+        {
+          "id": "7.7",
+          "type": "open",
+          "q": "What is the central message of 'Three Questions'?",
+          "answer": "We should live in the present, for now is the only time we have power. The most important person is the one we are with, and the most important work is to do that person good."
+        }
+      ]
+    },
+    {
+      "no": 8,
+      "title": "Answer in about 50–60 words.",
+      "marks": "3 × 3 = 9",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "8.1",
+          "type": "open",
+          "q": "Describe the change of heart in the bearded man.",
+          "answer": "He hated the king for executing his brother and seizing his property, and lay in wait to kill him. When the king tended his wound and saved his life, his hatred turned to gratitude. He begged forgiveness and vowed to serve the king; kindness turned an enemy into a friend."
+        },
+        {
+          "id": "8.2",
+          "type": "open",
+          "q": "What did the king learn from his visit to the hermit?",
+          "answer": "He learnt that the present is the only time that matters, that the person before us is the most important, and that doing good to that person is the most important task. He also learnt the power of kindness and forgiveness.",
+          "or": {
+            "q": "Write a character sketch of the hermit.",
+            "answer": "The hermit is wise, simple and humble. He lives in the forest and meets only ordinary people. He teaches by example rather than words, letting the king discover the answers through his own actions of kindness, and he tends the wounded stranger along with him."
+          }
+        },
+        {
+          "id": "8.3",
+          "type": "open",
+          "q": "How is 'Three Questions' a parable?",
+          "answer": "It is a short, simple story with human characters that teaches a moral lesson. Through the king's experience it shows that the present moment, the person with us and doing good matter most — a lesson meant for all readers."
+        }
+      ]
+    }
+  ]
+}

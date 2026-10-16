@@ -1,0 +1,286 @@
+{
+  "subject": "sr-english",
+  "lesson": 25,
+  "title": "Report Writing",
+  "author": null,
+  "meta": "Writing skills · Practice set",
+  "instructions": [
+    "Practice for this lesson in the question types of the April 2026 paper (new syllabus).",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct option.",
+      "marks": "6 × 1 = 6",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "Why are reports considered a vital method of communication in firms and government offices?",
+          "options": [
+            "They objectively present information about business or situations",
+            "They let employees express personal opinions freely",
+            "They are mainly for entertainment",
+            "They replace verbal communication entirely"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "The lead paragraph of a newspaper report should answer —",
+          "options": [
+            "only 'why'",
+            "who, what, when, where and why",
+            "the reporter's opinion",
+            "future plans only"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "A report is usually written in —",
+          "options": [
+            "the first person and direct speech",
+            "the third person, often in the passive voice",
+            "poetic language",
+            "the future tense"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "The 'inverted pyramid' in news writing means —",
+          "options": [
+            "the least important facts come first",
+            "the most important facts come first, details later",
+            "the report ends with the headline",
+            "pictures come before text"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "Which of these should be avoided in a report?",
+          "options": [
+            "Facts and evidence",
+            "Personal feelings and hasty conclusions",
+            "A clear subject",
+            "Recommendations"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "Reports written at regular intervals (daily, monthly, yearly) are called —",
+          "options": [
+            "special reports",
+            "routine reports",
+            "review reports",
+            "oral reports"
+          ],
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Identify the following sentences as True or False.",
+      "marks": "5 × 1 = 5",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "mcq",
+          "q": "A report should be based on facts rather than personal opinions.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "fixed": true
+        },
+        {
+          "id": "2.2",
+          "type": "mcq",
+          "q": "A byline tells the reader who wrote the report.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "fixed": true
+        },
+        {
+          "id": "2.3",
+          "type": "mcq",
+          "q": "Newspaper reports are usually written in chatty, friendly language.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "fixed": true
+        },
+        {
+          "id": "2.4",
+          "type": "mcq",
+          "q": "Recommendations suggest actions to be taken on the basis of the findings.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "fixed": true
+        },
+        {
+          "id": "2.5",
+          "type": "mcq",
+          "q": "A newspaper reaches a specific small group, while a school magazine reaches the general public.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "fixed": true
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Fill in the blanks.",
+      "marks": "4 × 1 = 4",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "The line that gives the writer's name in a newspaper report is called the ________.",
+          "answer": "byline"
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "The first paragraph of a news report is called the ________ paragraph.",
+          "answer": "lead"
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "Short reports are also called ________ reports.",
+          "answer": "informal"
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "A report on money matters such as sales and costs is a ________ report.",
+          "answer": "financial"
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Answer in 30–40 words.",
+      "marks": "4 × 2 = 8",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "What is a report?",
+          "answer": "A report is a precise, factual account of an event, topic or issue, presented logically so that the reader can understand it and make decisions.",
+          "years": [
+            "April 2023"
+          ]
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "How should you structure the lead paragraph of a newspaper report?",
+          "answer": "Put the most important information first, answering who, what, when, where and why (and how) in a few sentences."
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "What is the role of quotations in a report?",
+          "answer": "Quotations from eyewitnesses or officials add authenticity and human interest, and show the views of people involved."
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "What points need to be kept in mind while writing an accident report?",
+          "answer": "Give the date, time and place; describe what happened in order; mention the people and vehicles involved, injuries and damage; include eyewitness accounts; and state the action taken — factually and objectively.",
+          "years": [
+            "April 2018"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Writing task (80–100 words).",
+      "marks": "6 × 4 = 24",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "A School Annual Day Celebration was organised by your school on 25th November, 2025. Write a news clipping for the Residents' Welfare Association about the event.",
+          "answer": "ANNUAL DAY CELEBRATED WITH ZEST\nBy Kavya Rao, Green Park\n\nSunrise Public School celebrated its Annual Day on 25 November 2025 in the school auditorium. Mr S. Iyer, District Education Officer, was the chief guest.\nThe programme opened with the lighting of the lamp and a welcome song. Students presented a folk-dance medley, a skit on cleanliness and an orchestra recital. The Principal read the annual report, and prizes were given for academics, sports and community service.\n\"Our children have shown that talent grows where it is nurtured,\" said the chief guest. Parents praised the discipline and creativity on display.\nThe event ended with the National Anthem. The school plans to open its new library to residents next month.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "As Purchase Officer for Neva Silk Manufacturers, Ambikapur, you wish to change the vendor who supplies textile raw material. Submit a report to the Managing Director listing why the new vendor would be better.",
+          "answer": "Neva Silk Manufacturers, Ambikapur\nTo: The Managing Director\nFrom: Purchase Officer\nDate: 5 January 2026\nSubject: Proposal to change the supplier of raw silk\n\nAs desired, I compared our present supplier with Shakti Yarns, Raipur. My findings:\n1. Quality: Shakti's yarn has fewer defects (2% against 7%).\n2. Price: 8% cheaper, with a further 3% discount on bulk orders.\n3. Delivery: within 5 days against our present 15 days; nearer location cuts freight.\n4. Credit: 45 days' credit against 30.\nDisadvantage: a new vendor is untried; this can be met by a three-month trial order.\nRecommendation: place a trial order with Shakti Yarns and review after three months.\nSd/-\nPurchase Officer",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "A Yoga Shivir was organised by your colony on 21st June, International Day of Yoga. Write a news clipping for the Residents' Welfare Association in about 120 words.",
+          "answer": "YOGA SHIVIR DRAWS HUNDREDS\nBy Rohan Mehra, Shanti Vihar\n\nOn International Day of Yoga, 21 June, the Shanti Vihar RWA organised a Yoga Shivir in the community park from 6 to 8 a.m. Over 250 residents of all ages took part.\nYoga teacher Ms Anjali Sen led sessions on surya namaskar, pranayama and meditation, and explained how daily practice reduces stress and lifestyle diseases. Senior citizens were given simple chair exercises.\n\"I feel fresh and energetic,\" said 72-year-old Mr Gupta. Children enjoyed a special session of animal poses.\nThe RWA has decided to hold free yoga classes every Sunday morning."
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "You visited Jeny Residency, Pune. Write a report on its facilities to the General Manager, P & G, Mumbai.",
+          "answer": "To: The General Manager, P & G, Mumbai\nFrom: Administrative Officer\nDate: 8 March 2026\nSubject: Report on facilities at Jeny Residency, Pune\n\nAs instructed, I visited Jeny Residency on 6 March to assess it for our training programme.\nFindings:\n1. Conference hall seating 150, with projector and sound system.\n2. A large open lawn suitable for group activities.\n3. Forty clean, spacious rooms, sufficient for our participants.\n4. A quiet, green campus away from city noise.\nDrawback: it is 20 km from the station; the hotel provides a shuttle on request.\nRecommendation: the venue is suitable and may be booked for April.\nSd/-\nAdministrative Officer",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "5.5",
+          "type": "open",
+          "q": "Prepare a report on a fire incident in the staff room of your office caused by an overheated microwave. Include date, time, location, cause, damage and action taken.",
+          "answer": "To: The Administrative Head\nFrom: Safety Officer\nDate: 15 February 2026\nSubject: Fire in the staff room on 14 February 2026\n\n1. Incident: At about 1.15 p.m. on 14 February a fire broke out in the second-floor staff room.\n2. Cause: an overheated microwave oven with a faulty cord.\n3. Action: staff used the fire extinguisher, the building was evacuated and the fire brigade arrived at 1.30 p.m. No one was injured.\n4. Damage: the microwave, a cupboard and some files were burnt.\nRecommendations: check all appliances monthly, replace old wiring, conduct fire drills and train staff to use extinguishers.\nSd/-\nSafety Officer",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "5.6",
+          "type": "open",
+          "q": "As Office Manager of Ravi Industries, New Delhi, you inspected buildings for shifting the office. Write a report to the Managing Director recommending one.",
+          "answer": "Ravi Industries, 16 Pragati Tower, Nehru Place, New Delhi\nTo: Mr S. K. Singh, Managing Director\nFrom: C. Rao, Office Manager\nDate: 7 May 2026\nSubject: Suitable premises for the office\n\nAs desired, I inspected several buildings in South Delhi and recommend Jain Building, Kailash Colony.\n1. Two storeys with 15 large, well-lit, airy rooms; partitions possible.\n2. Adequate toilets for men and women; watchmen's quarters near the gate.\n3. Bus stop 200 yards and metro station 500 yards away.\nDisadvantage: limited parking; junior staff can use public transport.\nAction: preliminary talks with the owner, Mr Anupam Jain, have begun; alterations will cost about Rs 40,000.\nThe Directors may inspect the building before deciding.\nSd/-\nC. Rao"
+        }
+      ]
+    }
+  ]
+}

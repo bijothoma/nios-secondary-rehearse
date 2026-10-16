@@ -1,0 +1,100 @@
+{
+ "lesson": 17,
+ "title": "Kabir and Thiruvalluvar",
+ "kind": "Poems (couplets)",
+ "author": "Kabir; Thiruvalluvar",
+ "summary": [
+  "## The poets",
+  "Kabir, a 15th-century poet and mystic (believed to be from Varanasi), wrote dohas (couplets) in simple language with images from daily life. Drawing on both Hindu and Islamic traditions, he is revered in Hinduism, Sikhism and Sufism.",
+  "Thiruvalluvar, a Tamil poet-philosopher of about 2,000 years ago, wrote the Thirukkural ('divine voice'): 133 chapters (adhikarams) of ten couplets each — 1,330 kurals — in three books, Aram (virtue), Porul (wealth) and Inbam (love). A 133-foot statue of him stands at Kanyakumari.",
+  "## Kabir's dohas",
+  "Chalti Chakki — looking at the grinding stones, Kabir weeps: between the two millstones nothing stays whole. Life's opposing forces grind everyone; all is impermanent.",
+  "Bura Jo Dekhan — I set out to find the wicked and found none; when I searched my own heart, no one was worse than me. Look within before judging others.",
+  "Aisee Vani Boliye — speak words that shed the ego; they cool your own body and give joy to others.",
+  "Dheere Dheere Re Mana — slowly, O mind: the gardener waters the plants, but fruit comes only in its season. Patience.",
+  "Sayeen Itna Deejiye — Lord, give only enough for my family; may I not go hungry, nor any saint at my door. Contentment.",
+  "Bada Hua To Kya Hua — what use is being big like a date palm? It gives the traveller no shade, and its fruit is far out of reach. Worth lies in usefulness, not size.",
+  "Kabira Khara Bazaar Mein — Kabir stands in the market wishing well to all, with friendship for none and enmity for none. Equanimity.",
+  "Pothi Padh Padh — reading scriptures, the world died, yet none became wise; one who reads the two and a half letters of 'prem' (love) becomes truly learned.",
+  "Dukh Mein Simran — all remember God in sorrow, none in joy; one who remembers Him in joy will never know sorrow.",
+  "Akath Kahani Prem Ki — the tale of love cannot be told: like a mute person who tastes sweetness, he can only smile.",
+  "## Thiruvalluvar's kurals",
+  "One who lives a righteous household life on earth will be placed among the gods in heaven.",
+  "Speaking harsh words when sweet ones are at hand is like eating unripe fruit when ripe fruit is there.",
+  "A burn made by fire heals, but a wound made by the tongue never heals.",
+  "If each looked at his own faults as he does at his neighbours', could any evil befall anyone?",
+  "Water gives outward purity; inward purity comes from truthfulness.",
+  "Army, people, wealth, minister, friends and fort — one who has these six is a lion among kings.",
+  "As water flows from sand the deeper you dig, wisdom flows the more you learn.",
+  "A man's deeds are the touchstone of his greatness or meanness.",
+  "As the lotus stem rises with the flood, a man's greatness rises with his mind.",
+  "Delay, forgetfulness, sloth and sleep are the pleasure-boat that carries the doomed to ruin.",
+  "## Points to remember",
+  "Both poets teach humility, compassion, self-reflection, truthful speech, contentment and right action, and both promoted harmony across communities. Their verses were passed down orally and are still sung.",
+  "Devices: metaphor (millstones, date palm, gardener, touchstone), paradox (searching for the wicked and finding oneself), oxymoron-like image of the mute who smiles, antithesis (outward/inward purity; fire-wound/tongue-wound).",
+  "## Language in this lesson",
+  "Reported speech of commands, requests and advice: ordered/requested/advised/suggested + to-infinitive ('Please close the door' → He requested me to close the door); 'Let's …' → proposed/suggested that …"
+ ],
+ "mcq": [
+  ["What does Kabir's metaphor of the grinding mill (chalti chakki) reveal about human life?", ["The importance of agriculture", "The inevitability of change and opposing forces in life", "The futility of human effort", "Abundance and prosperity"], "B", ["April 2026"]],
+  ["Where did Kabir find the wicked person he was looking for?", ["In the marketplace", "Among his enemies", "Within himself", "Nowhere at all"], "C"],
+  ["The date palm in Kabir's doha stands for —", ["greatness that is of no use to others", "patience", "the beauty of nature", "spiritual knowledge"], "A"],
+  ["'Dhai aakhar prem ke' refers to —", ["two and a half books", "the word 'prem' — love", "the scriptures", "a teacher's lesson"], "B"],
+  ["In 'Sayeen Itna Deejiye', Kabir asks God for —", ["great wealth", "power and authority", "just enough to feed his family and guests", "a long life"], "C"],
+  ["According to Thiruvalluvar, which wound never heals?", ["A wound made by fire", "A wound made by a sword", "A wound made by harsh words", "A wound made by a fall"], "C"],
+  ["Thiruvalluvar says inward purity comes from —", ["bathing in holy water", "truthfulness", "wealth", "solitude"], "B"],
+  ["The Thirukkural has ________ couplets in all.", ["133", "330", "1,330", "13,300"], "C"]
+ ],
+ "tf": [
+  ["Kabir's dohas are confined to one religion.", false, null, {"note": "They carry universal themes and are revered in Hinduism, Sikhism and Sufism."}],
+  ["In 'Dheere Dheere Re Mana', Kabir uses the image of a gardener to teach patience.", true],
+  ["Kabir seeks friendship with everyone in the marketplace.", false, null, {"note": "'Na kahu se dosti, na kahu se bair' — friendship with none, enmity with none."}],
+  ["According to Kabir, people remember God more in sorrow than in joy.", true],
+  ["Thiruvalluvar compares harsh words to unripe fruit.", true],
+  ["Thiruvalluvar names delay, forgetfulness, sloth and sleep as the boat to ruin.", true],
+  ["The Thirukkural is divided into Aram, Porul and Inbam.", true]
+ ],
+ "match": [
+  {"title": "Match the image with its lesson (Kabir).", "pairs": [
+   ["Grinding millstones", "Nothing escapes life's opposing forces"],
+   ["Date palm", "Size is useless without benefit to others"],
+   ["Gardener watering plants", "Everything happens in its own time"],
+   ["Mute person smiling", "Divine love cannot be put into words"]
+  ]},
+  {"title": "Match the kural with its message (Thiruvalluvar).", "pairs": [
+   ["Water and truth", "Outward and inward purity"],
+   ["Digging in sand", "The more you learn, the more wisdom flows"],
+   ["The touchstone", "Deeds reveal greatness or meanness"],
+   ["The rising lotus", "A man's height is measured by his mind"]
+  ]}
+ ],
+ "blanks": [
+  ["Kabir was a ________-century poet and mystic.", "15th"],
+  ["Thiruvalluvar wrote in the ________ language.", "Tamil"],
+  ["Kabir's couplets are called ________.", "dohas"],
+  ["The statue of Thiruvalluvar at ________ is 133 feet tall.", "Kanyakumari"],
+  ["'Speak such words that you lose the ________ of your mind.'", "ego"]
+ ],
+ "grammar": [
+  ["Change into indirect speech: \"Please clean your room,\" Mother said.", "Mother asked me to clean my room."],
+  ["Change into indirect speech: \"Close the window,\" the teacher commanded.", "The teacher commanded us to close the window."],
+  ["Change into indirect speech: \"Don't forget to call me later,\" Sarah reminded him.", "Sarah reminded him not to forget to call her later."],
+  ["Change into indirect speech: \"Let's go to the park,\" he suggested.", "He suggested that we go to the park."],
+  ["Change into direct speech: She told him to be quiet.", "She said to him, \"Be quiet.\""],
+  ["Name the device: 'Outward purity the water will bestow; inward purity from truth alone will flow.'", "Antithesis"]
+ ],
+ "sa2": [
+  ["What does Kabir lament when he sees the grinding stones at work?", "He weeps because, just as grain is crushed between two millstones, every living being is crushed between life's opposing forces such as joy and sorrow, birth and death. Nothing remains whole."],
+  ["What lesson does Kabir teach in 'Bura Jo Dekhan Main Chala'?", "He looked for wicked people but found none; when he looked into his own heart he found himself the worst. We should examine our own faults before judging others."],
+  ["What does Kabir want to teach through the example of the date tree?", "A date palm is tall but gives no shade and its fruit is out of reach. Greatness or wealth is worthless unless it benefits others; true worth lies in usefulness."],
+  ["How, according to Kabir, does one become truly wise?", "Not by reading many books and scriptures, but by understanding and practising love — the 'two and a half letters' of prem. One who knows love is the true scholar."],
+  ["What does Thiruvalluvar say about harsh speech?", "Speaking harsh words when sweet words would serve is like eating unripe fruit when ripe fruit is at hand. A wound made by the tongue never heals, unlike a burn."],
+  ["What six things make a ruler 'a lion among kings', according to Thiruvalluvar?", "An army, a loyal people, wealth, a wise minister, friends and a fort. A ruler who has all six is strong and respected like a lion among kings."],
+  ["What common values do Kabir and Thiruvalluvar teach?", "Both teach humility, kind and truthful speech, self-reflection, contentment rather than greed, and compassion for all, and both promoted harmony among communities."]
+ ],
+ "sa3": [
+  ["Compare the themes of Kabir and Thiruvalluvar.", "Both stress humility and self-examination, gentle and truthful speech, contentment and right conduct. Kabir focuses on love of God, impermanence and equanimity, using everyday images. Thiruvalluvar gives practical guidance on household life, governance, learning and self-discipline."],
+  ["Explain Kabir's doha on remembering God in joy and sorrow.", "People remember God only when they suffer and forget Him when they are happy. Kabir says that if one remembers God in joy too, one stays balanced and never feels crushed by sorrow.", null, {"or": ["Explain Thiruvalluvar's kural on the lotus and the mind.", "The lotus stem grows as the flood water rises, so the flower always stays above water. In the same way a person's greatness rises with the height of his mind — his thoughts and character, not his wealth, measure his worth."]}],
+  ["What does Thiruvalluvar say leads a person to ruin? How can a student avoid it?", "Delay, forgetfulness, sloth and excessive sleep are a 'pleasure-boat' that carries people to ruin. A student can avoid them by planning work and doing it on time, keeping notes and reminders, staying active and sleeping only as much as needed."]
+ ]
+}

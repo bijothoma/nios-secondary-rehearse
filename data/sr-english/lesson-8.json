@@ -1,0 +1,442 @@
+{
+  "subject": "sr-english",
+  "lesson": 8,
+  "title": "The Necklace",
+  "author": "Guy de Maupassant",
+  "meta": "Short story · Practice set",
+  "instructions": [
+    "Practice for this lesson in the question types of the April 2026 paper (new syllabus).",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct option.",
+      "marks": "7 × 1 = 7",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "Mathilde felt her marriage to the clerk was based on —",
+          "options": [
+            "compromise",
+            "love",
+            "choice",
+            "compulsion"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "Which word best describes Mathilde at the beginning of the story?",
+          "options": [
+            "Content",
+            "Dissatisfied",
+            "Short-tempered",
+            "Generous"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "Monsieur Loisel had saved four hundred francs to —",
+          "options": [
+            "buy a necklace",
+            "buy a gun and go shooting",
+            "pay the rent",
+            "buy a new coat"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "Mathilde hurried away from the ball because —",
+          "options": [
+            "she was tired",
+            "she was ashamed of her old wrap",
+            "her husband was ill",
+            "the necklace was loose"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "How much did the replacement necklace cost?",
+          "options": [
+            "Five hundred francs",
+            "Eighteen thousand francs",
+            "Thirty-six thousand francs",
+            "Four hundred francs"
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "Monsieur Loisel's behaviour towards his wife is one of —",
+          "options": [
+            "care and concern",
+            "scorn and mockery",
+            "annoyance and irritability",
+            "indifference"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "The fact that the Loisels spent ten years paying for a fake necklace is an example of —",
+          "options": [
+            "verbal irony",
+            "situational irony",
+            "simile",
+            "alliteration"
+          ],
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Identify the following sentences as True or False.",
+      "marks": "7 × 1 = 7",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "mcq",
+          "q": "Her husband shares her desire for opulence and is equally distressed by their modest lifestyle.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Loisel is content with a simple life — he delights in plain soup.",
+          "fixed": true
+        },
+        {
+          "id": "2.2",
+          "type": "mcq",
+          "q": "Mathilde stopped visiting Madame Forestier because she felt so unhappy after each visit.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "fixed": true
+        },
+        {
+          "id": "2.3",
+          "type": "mcq",
+          "q": "Mathilde was delighted when her husband brought the invitation.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "note": "She threw it on the table, saying she had nothing to wear.",
+          "fixed": true
+        },
+        {
+          "id": "2.4",
+          "type": "mcq",
+          "q": "The Loisels noted the number of the cab.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "note": "They did not, so they could not trace it.",
+          "fixed": true
+        },
+        {
+          "id": "2.5",
+          "type": "mcq",
+          "q": "Madame Forestier opened the case to check the necklace when it was returned.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "fixed": true
+        },
+        {
+          "id": "2.6",
+          "type": "mcq",
+          "q": "During the years of poverty Mathilde did all the heavy housework herself.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "fixed": true
+        },
+        {
+          "id": "2.7",
+          "type": "mcq",
+          "q": "Madame Forestier's necklace was worth at most five hundred francs.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "fixed": true
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Match the items with reference to 'The Necklace'.",
+      "marks": "4 × 1 = 4",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "match",
+          "left": "The invitation",
+          "right": "Brings tears instead of joy",
+          "answer": "The invitation — Brings tears instead of joy"
+        },
+        {
+          "id": "3.2",
+          "type": "match",
+          "left": "Four hundred francs",
+          "right": "Money saved for a gun",
+          "answer": "Four hundred francs — Money saved for a gun"
+        },
+        {
+          "id": "3.3",
+          "type": "match",
+          "left": "The old wrap",
+          "right": "Makes Mathilde hurry away from the ball",
+          "answer": "The old wrap — Makes Mathilde hurry away from the ball"
+        },
+        {
+          "id": "3.4",
+          "type": "match",
+          "left": "The garret",
+          "right": "Home during ten years of hardship",
+          "answer": "The garret — Home during ten years of hardship"
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Match the character with the description ('The Necklace').",
+      "marks": "3 × 1 = 3",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "match",
+          "left": "Mathilde",
+          "right": "Vain, discontented, later hard-working",
+          "answer": "Mathilde — Vain, discontented, later hard-working"
+        },
+        {
+          "id": "4.2",
+          "type": "match",
+          "left": "Monsieur Loisel",
+          "right": "Patient, self-sacrificing husband",
+          "answer": "Monsieur Loisel — Patient, self-sacrificing husband"
+        },
+        {
+          "id": "4.3",
+          "type": "match",
+          "left": "Madame Forestier",
+          "right": "Rich friend who lends the necklace",
+          "answer": "Madame Forestier — Rich friend who lends the necklace"
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Fill in the blanks.",
+      "marks": "6 × 1 = 6",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "Mathilde's husband was a clerk in the Ministry of Public ________.",
+          "answer": "Instruction"
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "At the ball, Mathilde danced till ________ in the morning.",
+          "answer": "four"
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "Mathilde wrote that the ________ of the necklace was broken and being mended.",
+          "answer": "clasp"
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "Loisel had eighteen thousand francs left to him by his ________.",
+          "answer": "father"
+        },
+        {
+          "id": "5.5",
+          "type": "open",
+          "q": "Mathilde met Madame Forestier again on the ________.",
+          "answer": "Champs Élysées"
+        },
+        {
+          "id": "5.6",
+          "type": "open",
+          "q": "The diamond necklace was really made of ________.",
+          "answer": "paste (it was imitation)"
+        }
+      ]
+    },
+    {
+      "no": 6,
+      "title": "Do as directed (language).",
+      "marks": "7 × 1 = 7",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "6.1",
+          "type": "open",
+          "q": "Transform into a compound sentence: Mary likes to read. She also enjoys painting.",
+          "answer": "Mary likes to read, and she also enjoys painting."
+        },
+        {
+          "id": "6.2",
+          "type": "open",
+          "q": "Transform into a simple sentence: Although it was raining, they decided to have a picnic.",
+          "answer": "Despite the rain, they decided to have a picnic."
+        },
+        {
+          "id": "6.3",
+          "type": "open",
+          "q": "Transform into a complex sentence: She studied hard. She wanted to pass the exam.",
+          "answer": "She studied hard because she wanted to pass the exam."
+        },
+        {
+          "id": "6.4",
+          "type": "open",
+          "q": "Transform into a simple sentence: They went to the beach, and they built sandcastles.",
+          "answer": "They went to the beach to build sandcastles."
+        },
+        {
+          "id": "6.5",
+          "type": "open",
+          "q": "Transform into a simple sentence: The necklace was so costly that she could not buy it.",
+          "answer": "The necklace was too costly for her to buy."
+        },
+        {
+          "id": "6.6",
+          "type": "open",
+          "q": "Choose the homonym: The film was badly made; it was quite a ________ (bore / boar).",
+          "answer": "bore"
+        },
+        {
+          "id": "6.7",
+          "type": "open",
+          "q": "Choose the homonym: The ________ (weather / whether) has been cold and damp all month.",
+          "answer": "weather"
+        }
+      ]
+    },
+    {
+      "no": 7,
+      "title": "Answer in 30–40 words.",
+      "marks": "7 × 2 = 14",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "7.1",
+          "type": "open",
+          "q": "What sacrifice did Monsieur Loisel make for Mathilde's dress?",
+          "answer": "He gave her the four hundred francs he had saved to buy a gun and go shooting with friends at Nanterre the next summer, so that she could buy a gown for the ball.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "7.2",
+          "type": "open",
+          "q": "How does Mathilde's reaction to Madame Forestier's jewellery reveal her personality?",
+          "answer": "She tries everything, hesitates, and her heart throbs with desire when she sees the diamond necklace. She longs for it passionately, which shows her vanity and her craving to appear rich.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "7.3",
+          "type": "open",
+          "q": "Why was Mathilde always unhappy?",
+          "answer": "She felt that, being pretty and charming, she deserved a life of luxury. Her poor home, shabby furniture and plain food tortured her, and she envied rich people like her friend."
+        },
+        {
+          "id": "7.4",
+          "type": "open",
+          "q": "Why was Mathilde a great success at the ball?",
+          "answer": "She was the prettiest woman there — elegant, graceful, smiling and wild with joy. Everyone admired her, all the men wanted to dance with her, and even the Minister noticed her."
+        },
+        {
+          "id": "7.5",
+          "type": "open",
+          "q": "What did the Loisels do to find the necklace?",
+          "answer": "They searched the folds of her dress and cloak. Loisel retraced their route on foot and went to the police, the cab companies and the newspapers, offering a reward, but found nothing."
+        },
+        {
+          "id": "7.6",
+          "type": "open",
+          "q": "How did the Loisels' life change after they bought the new necklace?",
+          "answer": "They dismissed the servant and moved to a garret. Mathilde did the heavy housework and haggled for every sou, while Loisel worked extra jobs. In ten years Mathilde became old, coarse and rough."
+        },
+        {
+          "id": "7.7",
+          "type": "open",
+          "q": "Why did Mathilde tell Madame Forestier the truth at last?",
+          "answer": "The debts were paid and she felt proud of what they had endured. Meeting her friend, she wanted to explain why she looked so changed and to tell her of the sacrifice made for her necklace."
+        }
+      ]
+    },
+    {
+      "no": 8,
+      "title": "Answer in about 50–60 words.",
+      "marks": "3 × 3 = 9",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "8.1",
+          "type": "open",
+          "q": "What is the turning point in 'The Necklace'? How does it change Mathilde?",
+          "answer": "The loss of the necklace is the turning point. It forces Mathilde from dreams of luxury into ten years of poverty and toil. She becomes hard-working, brave and honest about her debt, though she loses her beauty and youth."
+        },
+        {
+          "id": "8.2",
+          "type": "open",
+          "q": "'Madame Loisel's sacrifice had all been in vain.' Comment.",
+          "answer": "The Loisels gave up ten years, their savings and Mathilde's beauty to replace a necklace that was only paste worth five hundred francs. Had she told her friend the truth, the suffering could have been avoided; pride and pretence cost them dearly.",
+          "or": {
+            "q": "What lesson does 'The Necklace' teach?",
+            "answer": "It warns against vanity and the desire to appear richer than we are. It teaches us to be content and honest: one moment of borrowed glory cost Mathilde ten years of hardship, which honesty could have prevented."
+          }
+        },
+        {
+          "id": "8.3",
+          "type": "open",
+          "q": "Compare Mathilde and her husband.",
+          "answer": "Mathilde is vain and discontented, always dreaming of wealth. Loisel is simple and content, enjoying plain soup. He is patient and self-sacrificing — he gives up his savings, waits at the ball, and later works extra jobs for ten years without complaint."
+        }
+      ]
+    }
+  ]
+}

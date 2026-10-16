@@ -1,0 +1,298 @@
+{
+  "subject": "sr-english",
+  "lesson": 23,
+  "title": "Writing Memos and Letters",
+  "author": null,
+  "meta": "Writing skills · Practice set",
+  "instructions": [
+    "Practice for this lesson in the question types of the April 2026 paper (new syllabus).",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct option.",
+      "marks": "6 × 1 = 6",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "Why is brevity emphasised when writing a memo?",
+          "options": [
+            "Memos are decorative documents",
+            "Memos are always informal",
+            "Memos replace formal reports",
+            "Readers are often busy and need information quickly"
+          ],
+          "answer": "D",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "A memo is generally used for —",
+          "options": [
+            "external communication",
+            "informal personal messages",
+            "internal office communication",
+            "advertising products"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "Which of these is NOT part of a memo heading?",
+          "options": [
+            "To",
+            "From",
+            "Subject",
+            "Complimentary close 'Yours faithfully'"
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "A letter of complaint should —",
+          "options": [
+            "blame the company strongly",
+            "state the problem politely and say what action is wanted",
+            "avoid giving order details",
+            "be written on a memo form"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "In a letter of enquiry, references to earlier letters are given to —",
+          "options": [
+            "make the letter longer",
+            "show the context and make the enquiry specific",
+            "impress the reader",
+            "avoid a reply"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "Which statement about memos and letters is correct?",
+          "options": [
+            "Memos are written on letterheads",
+            "Letters are always internal",
+            "Memos are direct; letters are more indirect and formal",
+            "Memos need a salutation"
+          ],
+          "answer": "C"
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Identify the following sentences as True or False.",
+      "marks": "5 × 1 = 5",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "mcq",
+          "q": "A memo is used mainly for communication within the same organisation.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "fixed": true
+        },
+        {
+          "id": "2.2",
+          "type": "mcq",
+          "q": "A memo should be long and detailed so that nothing is missed.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "fixed": true
+        },
+        {
+          "id": "2.3",
+          "type": "mcq",
+          "q": "A letter of complaint should mention references such as the invoice number and date.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "fixed": true
+        },
+        {
+          "id": "2.4",
+          "type": "mcq",
+          "q": "Letters are written on plain paper while memos are written on letterheads.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "note": "It is the other way round.",
+          "fixed": true
+        },
+        {
+          "id": "2.5",
+          "type": "mcq",
+          "q": "A letter of enquiry should make the information sought specific.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "fixed": true
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Fill in the blanks.",
+      "marks": "4 × 1 = 4",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "The short form of 'memorandum' is ________.",
+          "answer": "memo"
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "A memo heading includes the date, To, From and ________.",
+          "answer": "Subject"
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "In a letter, the sender's address is written at the top ________ corner.",
+          "answer": "right"
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "Documents sent along with a letter are listed as ________.",
+          "answer": "Enclosures"
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Answer in 30–40 words.",
+      "marks": "4 × 2 = 8",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "What is a memo? For what purpose is it generally used?",
+          "answer": "A memo is a short, informal written message sent within an organisation in place of a letter. It is used to give information, instructions or updates from one department or person to another.",
+          "years": [
+            "January-February 2021",
+            "April 2019",
+            "October 2017",
+            "April 2022"
+          ]
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "What points should one keep in mind while writing a memo?",
+          "answer": "State the subject clearly, come straight to the point, use short and simple sentences, break the message into points and keep it brief, since the reader may be busy.",
+          "years": [
+            "October 2016",
+            "October 2022"
+          ]
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "Write any two differences between a letter and a memo.",
+          "answer": "A letter is usually for people outside the organisation and is written on a letterhead in a formal, indirect style; a memo is for internal communication, written on plain paper or a memo form in a direct style.",
+          "years": [
+            "April 2018",
+            "October 2018"
+          ]
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "What should a letter of complaint contain?",
+          "answer": "References (order/invoice number and date), a clear and polite statement of the problem with details of the defect, any evidence, and a clear request for the action wanted, such as replacement or refund."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Writing task (80–100 words).",
+      "marks": "6 × 4 = 24",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "Imagine you are the Manager of Green Valley Restaurant, Chennai. You ordered 20 cartons of fruit juice from Menu Enterprises, Bengaluru but received 20 cartons of soft drinks. Write a letter of complaint and request a replacement.",
+          "answer": "Green Valley Restaurant\n12, Anna Salai, Chennai\n5 March 2026\n\nThe Sales Manager\nMenu Enterprises\nBengaluru\n\nSubject: Wrong supply against our order\n\nDear Sir,\nWe placed an order for 20 cartons of fruit juice (Order No. GVR/26/14 dated 20 February 2026). The consignment received on 3 March, however, contains 20 cartons of soft drinks.\nWe do not serve soft drinks and cannot accept these goods. Kindly arrange to collect them at your cost and send the 20 cartons of fruit juice within a week, as our stock is running low.\nWe look forward to your prompt action.\nYours faithfully,\nR. Kumar\nManager",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "Imagine you are the Head of the Student Council and need to inform fellow students about a Cyber Safety Awareness Workshop. Write a memo announcing the event, including the date, time, location and preparations.",
+          "answer": "MEMORANDUM\nDate: 10 March 2026\nTo: All students, Classes IX–XII\nFrom: Head, Student Council\nSubject: Cyber Safety Awareness Workshop\n\nA Cyber Safety Awareness Workshop will be held as follows:\n1. Date and time: 18 March 2026, 10 a.m. to 1 p.m.\n2. Venue: School Auditorium\n3. Topics: strong passwords, suspicious links, protecting personal data, responsible social media use\nPlease bring a notebook and pen, and note down any questions about online safety beforehand. Attendance is compulsory.\nSd/-\nHead, Student Council",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "You are the Manager of VXT Textiles, Ludhiana. You ordered 16 boxes of silk sarees from Shree Cloth Mills, Chennai, but received 16 boxes of cotton sarees. Write a letter of complaint.",
+          "answer": "VXT Textiles\nLudhiana\n2 May 2026\n\nThe Manager\nShree Cloth Mills\nChennai\n\nSubject: Wrong consignment against Order No. VXT/112\n\nDear Sir,\nWith reference to our Order No. VXT/112 dated 15 April 2026 for 16 boxes of silk sarees, we regret to inform you that the consignment received contains 16 boxes of Chennai cotton sarees instead.\nPlease take back the cotton sarees at your cost and dispatch the silk sarees immediately, as our festival sale begins next week.\nYours faithfully,\nManager, VXT Textiles"
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "You want to join a course at the Ramakrishna Mission Institute of Culture, Kolkata. Write a letter of enquiry to the Programme Manager about the course details.",
+          "answer": "15, Lake Road\nKolkata\n4 June 2026\n\nThe Programme Manager\nRamakrishna Mission Institute of Culture\nGol Park, Kolkata\n\nSubject: Enquiry about the Certificate Course in Spoken English\n\nDear Sir/Madam,\nI read about your Certificate Course in Spoken English on your website. Kindly send me the following details:\n1. Duration and class timings\n2. Fees and mode of payment\n3. Eligibility criteria\n4. Admission procedure and last date\nAn early reply would be appreciated.\nYours faithfully,\nAnita Das",
+          "years": [
+            "April 2018"
+          ]
+        },
+        {
+          "id": "5.5",
+          "type": "open",
+          "q": "Write a letter to a book shop in New Delhi complaining about wrong books sent to your school library.",
+          "answer": "The Librarian\nSunrise Public School, Faridabad\n12 July 2026\n\nThe Manager\nGyan Book Depot\nDaryaganj, New Delhi\n\nSubject: Wrong books supplied\n\nDear Sir,\nWe ordered 40 copies of 'Wings of Fire' (Order No. SPS/L/09 dated 1 July). The parcel received yesterday contains 40 copies of a different title.\nPlease replace them with the books ordered within ten days and collect the wrong copies. The invoice is enclosed for reference.\nYours faithfully,\nLibrarian",
+          "years": [
+            "April 2023"
+          ]
+        },
+        {
+          "id": "5.6",
+          "type": "open",
+          "q": "As Class Representative, write a memo reminding students of the deadline for project submission.",
+          "answer": "MEMO\nDate: 20 August 2026\nTo: All students of Class XII-A\nFrom: Class Representative (on behalf of Ms R. Sharma)\nSubject: Project submission deadline\n\n1. Last date: 30 August 2026.\n2. Requirements: 15–20 pages, handwritten, with a bibliography and a signed declaration.\n3. Submit to Ms Sharma in the staff room.\n4. For any queries, contact Ms Sharma or the Class Representative.\nLate submissions will not be accepted.\nSd/-\nClass Representative"
+        }
+      ]
+    }
+  ]
+}

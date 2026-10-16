@@ -108,6 +108,12 @@ question's own short note.
 - `tools/build_srmath.py`: builds Senior Secondary Mathematics (311) from `data/sr-maths/src/lesson-<n>.json`
   (45 questions, 100 marks). Besides the usual blocks it has `objective4` (four 1-mark parts) and
   `objective6` (six 1-mark parts). Every answer shows its working. Only the 23 public-exam lessons are included.
+- `tools/build_srenglish.py`: builds Senior Secondary English (302, new syllabus) from
+  `data/sr-english/src/lesson-<n>.json` (summary and practice set per lesson: MCQ, true/false, match,
+  reading passages, blanks, language, 2-, 3- and 4-mark answers) and `data/sr-english/src/papers.json`
+  (unseen passages, grammar and writing tasks of three full papers in the April 2026 new-syllabus layout:
+  27 questions, 100 marks; lesson questions are dealt to the papers without repeats). Only the 16
+  public-exam lessons are included; Model Question Paper 1 reuses the April 2026 unseen sections.
 - All of these builders share `build_question` in `tools/build_ss.py`. It marks an MCQ `fixed` (options
   keep their printed order instead of being shuffled) when an option refers to the others, such as
   "all of these", "none of the above" or "both (A) and (B)".

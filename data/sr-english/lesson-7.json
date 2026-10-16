@@ -1,0 +1,419 @@
+{
+  "subject": "sr-english",
+  "lesson": 7,
+  "title": "After Twenty Years",
+  "author": "O. Henry",
+  "meta": "Short story · Practice set",
+  "instructions": [
+    "Practice for this lesson in the question types of the April 2026 paper (new syllabus).",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct option.",
+      "marks": "6 × 1 = 6",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "In the story, the word 'beat' means —",
+          "options": [
+            "tired and ready to drop",
+            "the area a police officer patrols",
+            "a sound made with a drum",
+            "to defeat someone"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "The man in the doorway described Jimmy Wells as —",
+          "options": [
+            "his worst enemy",
+            "a cunning and clever person",
+            "his best chum and the finest chap in the world",
+            "a quiet and shy person"
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "How did Bob realise that the tall man was not Jimmy?",
+          "options": [
+            "His voice was different",
+            "He had a pug nose, not a Roman nose",
+            "He wore a uniform",
+            "He did not know Bob's name"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "Why did Jimmy not arrest Bob himself?",
+          "options": [
+            "He was afraid of Bob",
+            "He was off duty",
+            "He could not bring himself to arrest his old friend",
+            "He had no proof"
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "What did Bob show to prove that he had done well in the West?",
+          "options": [
+            "A bundle of notes",
+            "A gold watch set with diamonds",
+            "A new car",
+            "A letter from his employer"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "Which literary device does O. Henry use to hint at the ending?",
+          "options": [
+            "Personification",
+            "Foreshadowing",
+            "Hyperbole",
+            "Onomatopoeia"
+          ],
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Identify the following sentences as True or False.",
+      "marks": "7 × 1 = 7",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "mcq",
+          "q": "The man waiting in the doorway valued loyalty and friendship enough to keep a twenty-year-old appointment.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2026"
+          ],
+          "note": "He travelled a thousand miles to keep the promise.",
+          "fixed": true
+        },
+        {
+          "id": "2.2",
+          "type": "mcq",
+          "q": "The meeting place had once been 'Big Joe' Brady's restaurant.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "fixed": true
+        },
+        {
+          "id": "2.3",
+          "type": "mcq",
+          "q": "Jimmy Wells went to the West to make his fortune.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "note": "Bob went West; Jimmy stayed in New York.",
+          "fixed": true
+        },
+        {
+          "id": "2.4",
+          "type": "mcq",
+          "q": "The policeman on the beat was Jimmy Wells himself.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "fixed": true
+        },
+        {
+          "id": "2.5",
+          "type": "mcq",
+          "q": "Bob recognised the policeman as soon as he saw him.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "note": "He did not recognise Jimmy; he only noticed later that the plain-clothes man had a different nose.",
+          "fixed": true
+        },
+        {
+          "id": "2.6",
+          "type": "mcq",
+          "q": "The tall man in the overcoat arrested Bob as 'Silky' Bob, wanted in Chicago.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "fixed": true
+        },
+        {
+          "id": "2.7",
+          "type": "mcq",
+          "q": "The story takes place on a warm, pleasant evening.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "note": "Cold, windy, with a taste of rain — the streets were nearly empty.",
+          "fixed": true
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Match the items with reference to 'After Twenty Years'.",
+      "marks": "4 × 1 = 4",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "match",
+          "left": "The note from Jimmy",
+          "right": "Explains why he did not make the arrest himself",
+          "answer": "The note from Jimmy — Explains why he did not make the arrest himself"
+        },
+        {
+          "id": "3.2",
+          "type": "match",
+          "left": "The struck match",
+          "right": "Showed Jimmy the face of a wanted man",
+          "answer": "The struck match — Showed Jimmy the face of a wanted man"
+        },
+        {
+          "id": "3.3",
+          "type": "match",
+          "left": "The pug nose",
+          "right": "Revealed that the tall man was not Jimmy",
+          "answer": "The pug nose — Revealed that the tall man was not Jimmy"
+        },
+        {
+          "id": "3.4",
+          "type": "match",
+          "left": "The diamond scarf-pin",
+          "right": "Showed how well Bob had done in the West",
+          "answer": "The diamond scarf-pin — Showed how well Bob had done in the West"
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Match the character with the description ('After Twenty Years').",
+      "marks": "3 × 1 = 3",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "match",
+          "left": "Bob",
+          "right": "Waits in a doorway to keep an old promise",
+          "answer": "Bob — Waits in a doorway to keep an old promise"
+        },
+        {
+          "id": "4.2",
+          "type": "match",
+          "left": "Jimmy Wells",
+          "right": "Policeman torn between friendship and duty",
+          "answer": "Jimmy Wells — Policeman torn between friendship and duty"
+        },
+        {
+          "id": "4.3",
+          "type": "match",
+          "left": "The plain-clothes man",
+          "right": "Arrests 'Silky' Bob",
+          "answer": "The plain-clothes man — Arrests 'Silky' Bob"
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Fill in the blanks.",
+      "marks": "5 × 1 = 5",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "The two friends had agreed to meet after exactly ________ years.",
+          "answer": "twenty"
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "The man in the doorway had an unlighted ________ in his mouth.",
+          "answer": "cigar"
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "Bob said that Jimmy was the truest, ________ old chap in the world.",
+          "answer": "staunchest"
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "Bob was wanted by the police in ________.",
+          "answer": "Chicago"
+        },
+        {
+          "id": "5.5",
+          "type": "open",
+          "q": "Jimmy had a ________ nose; the tall man had a pug nose.",
+          "answer": "Roman"
+        }
+      ]
+    },
+    {
+      "no": 6,
+      "title": "Do as directed (language).",
+      "marks": "7 × 1 = 7",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "6.1",
+          "type": "open",
+          "q": "Identify the type (simple/compound/complex): After the rain stopped, the children went outside to play.",
+          "answer": "Complex"
+        },
+        {
+          "id": "6.2",
+          "type": "open",
+          "q": "Identify the type: Maria loves to read, but she doesn't have much time.",
+          "answer": "Compound"
+        },
+        {
+          "id": "6.3",
+          "type": "open",
+          "q": "Identify the type: The cat slept peacefully on the windowsill.",
+          "answer": "Simple"
+        },
+        {
+          "id": "6.4",
+          "type": "open",
+          "q": "Identify the type: Because he forgot his umbrella, Peter got soaked in the rain.",
+          "answer": "Complex"
+        },
+        {
+          "id": "6.5",
+          "type": "open",
+          "q": "Identify the type: Sam enjoys playing basketball, so he practises every day.",
+          "answer": "Compound"
+        },
+        {
+          "id": "6.6",
+          "type": "open",
+          "q": "Find one word that fits both: (a) You deserve a ________ from the computer. (b) Thieves ________ into a locked house.",
+          "answer": "break"
+        },
+        {
+          "id": "6.7",
+          "type": "open",
+          "q": "Find one word that fits both: (a) The ________ to raise fees was rejected. (b) The slow ________ of the cart lulled him to sleep.",
+          "answer": "motion"
+        }
+      ]
+    },
+    {
+      "no": 7,
+      "title": "Answer in 30–40 words.",
+      "marks": "6 × 2 = 12",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "7.1",
+          "type": "open",
+          "q": "Why was Bob confident that Jimmy would come to meet him?",
+          "answer": "He believed Jimmy was the truest and staunchest friend in the world, who would keep his word. He felt that if Jimmy was alive, he would surely be there.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "7.2",
+          "type": "open",
+          "q": "What was the promise made by Bob and Jimmy twenty years ago?",
+          "answer": "The night before Bob left for the West, they dined at 'Big Joe' Brady's and promised to meet at the same place, at ten o'clock, exactly twenty years later, whatever their condition or however far they had to travel."
+        },
+        {
+          "id": "7.3",
+          "type": "open",
+          "q": "Describe the setting of the story.",
+          "answer": "It is ten o'clock at night on a cold, windy New York avenue with a taste of rain. The streets are almost deserted, and the shops, like the hardware store, are dark."
+        },
+        {
+          "id": "7.4",
+          "type": "open",
+          "q": "How had time changed Bob and Jimmy?",
+          "answer": "Bob had become rich in the West by living on his wits, but he had also turned into a criminal. Jimmy had stayed in New York, become a policeman and remained honest and loyal to his duty."
+        },
+        {
+          "id": "7.5",
+          "type": "open",
+          "q": "Why did Bob's hands tremble as he read the note?",
+          "answer": "He had expected a happy reunion, but the note told him that his friend Jimmy was the policeman who had recognised him and arranged his arrest. The shock made his hands tremble."
+        },
+        {
+          "id": "7.6",
+          "type": "open",
+          "q": "What was Jimmy's inner conflict?",
+          "answer": "He wanted to keep faith with his old friend and his promise, but as a policeman it was his duty to arrest a wanted criminal. He chose duty, but sent another officer because he could not arrest Bob himself."
+        }
+      ]
+    },
+    {
+      "no": 8,
+      "title": "Answer in about 50–60 words.",
+      "marks": "3 × 3 = 9",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "8.1",
+          "type": "open",
+          "q": "What does the note from Jimmy reveal about his character?",
+          "answer": "It shows that Jimmy kept the appointment loyally, but was an honest policeman who put duty above friendship. It also shows his tenderness: he could not bear to arrest his old friend himself, so he sent a plain-clothes man and explained gently in a note.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "8.2",
+          "type": "open",
+          "q": "Bring out the surprise ending of 'After Twenty Years'.",
+          "answer": "We expect a happy reunion of two old friends. Instead the 'Jimmy' who arrives is a plain-clothes man who arrests Bob, and we learn that the patrolling policeman was Jimmy himself, who recognised Bob as a wanted criminal in the match-light.",
+          "or": {
+            "q": "Do you like the character of Bob? Give reasons.",
+            "answer": "Bob is likable for his loyalty — he travels a thousand miles to keep a twenty-year-old promise and speaks warmly of Jimmy. But he is also boastful, showing off his watch and pin, and he has become a criminal. So he wins sympathy but not admiration."
+          }
+        },
+        {
+          "id": "8.3",
+          "type": "open",
+          "q": "How does O. Henry create atmosphere in the story?",
+          "answer": "The cold wind, the drizzle and the nearly empty streets create a gloomy, tense mood. The dark doorway, the match-light on Bob's face and the bright drug-store lights where the truth is revealed build suspense and make the ending striking."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,912 @@
+{
+  "subject": "sr-english",
+  "lesson": 903,
+  "title": "Model Question Paper 3",
+  "meta": "Time: 3 hours · Maximum marks: 100 · Modelled on the April 2026 NIOS paper (new syllabus)",
+  "instructions": [
+    "The question paper consists of 27 questions. All questions are compulsory; where there is an OR, answer one.",
+    "Questions 1–13 are objective (MCQ, True/False, match, fill in the blanks, one word) of 1 mark per part.",
+    "Questions 14–19 carry 2 marks (30–40 words). Question 21 has five parts of 2 marks. Questions 20 and 27 carry 3 marks, 22 and 24–26 carry 4 marks, and 23 carries 6 marks (150–200 words).",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct option from the given alternatives.",
+      "marks": "1 × 3 = 3",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "The date palm in Kabir's doha stands for — (Kabir and Thiruvalluvar)",
+          "options": [
+            "greatness that is of no use to others",
+            "patience",
+            "the beauty of nature",
+            "spiritual knowledge"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "How does the poem advise handling waiting, lies and hatred? (If)",
+          "options": [
+            "Wait impatiently and respond with lies",
+            "Be patient but repay hatred with hatred",
+            "Lie when necessary",
+            "Wait patiently, avoid lying and don't give in to hatred"
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "'Narrow domestic walls' stand for — (Where the Mind is Without Fear)",
+          "options": [
+            "small houses",
+            "petty, narrow-minded divisions",
+            "walls dividing rooms",
+            "the walls of a prison"
+          ],
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Read the text carefully and choose the correct alternatives.",
+      "marks": "1 × 5 = 5",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "mcq",
+          "q": "According to the passage, drug addiction is —",
+          "options": [
+            "incurable",
+            "a treatable disorder",
+            "a crime only",
+            "accepted in society"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "2.2",
+          "type": "mcq",
+          "q": "Which of these is NOT a behavioural therapy mentioned?",
+          "options": [
+            "Counselling",
+            "Support groups",
+            "Surgery",
+            "Family therapy"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "2.3",
+          "type": "mcq",
+          "q": "Which word in the passage means 'a systematic plan or set of rules'?",
+          "options": [
+            "disorder",
+            "regimen",
+            "syndrome",
+            "abstinence"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "2.4",
+          "type": "mcq",
+          "q": "The ultimate goal of drug abuse treatment is —",
+          "options": [
+            "to reduce crime",
+            "lasting abstinence from drugs",
+            "to find jobs for patients",
+            "to lower medical costs"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "2.5",
+          "type": "mcq",
+          "q": "Short-term treatment methods last —",
+          "options": [
+            "less than six months",
+            "about a year",
+            "more than two years",
+            "a lifetime"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2025"
+          ]
+        }
+      ],
+      "passage": "Drug addiction is a treatable disorder. Through treatment that is tailored to individual needs, patients can leave their condition and live normal, productive lives. Like people with diabetes or heart disease, people in treatment for addiction learn behavioural changes and often take medications as part of their treatment regimen. Behavioural therapies can include counselling, psychotherapy, support groups, or family therapy. Treatment offers help in suppressing the withdrawal syndrome and drug craving and in blocking the effects of drugs. In general, the more treatment given, the better the results. Patients who stay in treatment longer have better outcomes than those who stay less time. Studies have shown that treatment works to reduce drug use and crimes committed by drug-dependent people. The ultimate goal of all drug abuse treatment is to enable the patient to achieve lasting abstinence, but the immediate goals are to reduce drug use, improve the patient's ability to function, and minimise the medical and social curse of drug abuse. Short-term methods last less than six months and include residential therapy, medication therapy, and drug-free outpatient therapy. Longer-term treatment may include, for example, methadone maintenance outpatient treatment for opiate addicts and residential therapeutic communities."
+    },
+    {
+      "no": 3,
+      "title": "Identify the following sentences as True or False.",
+      "marks": "1 × 4 = 4",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "mcq",
+          "q": "Jimmy Wells went to the West to make his fortune. (After Twenty Years)",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "note": "Bob went West; Jimmy stayed in New York.",
+          "fixed": true
+        },
+        {
+          "id": "3.2",
+          "type": "mcq",
+          "q": "Mathilde was delighted when her husband brought the invitation. (The Necklace)",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "note": "She threw it on the table, saying she had nothing to wear.",
+          "fixed": true
+        },
+        {
+          "id": "3.3",
+          "type": "mcq",
+          "q": "The groundnut vendor gave his ware a fancy name every day. (An Astrologer's Day)",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "note": "Bombay Ice-Cream, Delhi Almond, Raja's Delicacy …",
+          "fixed": true
+        },
+        {
+          "id": "3.4",
+          "type": "mcq",
+          "q": "Bholi's mother was eager for her daughters to go to school. (Bholi)",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "note": "'If girls go to school, who will marry them?'",
+          "fixed": true
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Match Column I with Column II in reference to 'Three Questions'.",
+      "marks": "1 × 3 = 3",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "match",
+          "left": "The right time to begin",
+          "right": "Now — the present moment",
+          "answer": "The right time to begin — Now — the present moment"
+        },
+        {
+          "id": "4.2",
+          "type": "match",
+          "left": "The most important person",
+          "right": "The one you are with",
+          "answer": "The most important person — The one you are with"
+        },
+        {
+          "id": "4.3",
+          "type": "match",
+          "left": "The most important work",
+          "right": "To do good to that person",
+          "answer": "The most important work — To do good to that person"
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Read the text carefully and choose the correct alternatives.",
+      "marks": "1 × 5 = 5",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "mcq",
+          "q": "What important job do honeybees do?",
+          "options": [
+            "Make wax for candles",
+            "Pollinate plants so they produce fruits and seeds",
+            "Kill harmful insects",
+            "Improve the soil"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "5.2",
+          "type": "mcq",
+          "q": "About how much of our food depends on pollination?",
+          "options": [
+            "Nearly all",
+            "Nearly one-third",
+            "Nearly one-tenth",
+            "None"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "5.3",
+          "type": "mcq",
+          "q": "Which of these is NOT given as a cause of the decline of bees?",
+          "options": [
+            "Pesticides",
+            "Loss of flowering plants",
+            "Climate change",
+            "Rooftop beehives"
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "5.4",
+          "type": "mcq",
+          "q": "Why does the writer say protecting bees is 'a matter of our own survival'?",
+          "options": [
+            "Bees attack people",
+            "Much of our food depends on bees",
+            "Honey is a medicine",
+            "Bees clean the air"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "5.5",
+          "type": "mcq",
+          "q": "The word 'native' in the passage means —",
+          "options": [
+            "foreign",
+            "belonging naturally to the region",
+            "artificial",
+            "rare"
+          ],
+          "answer": "B"
+        }
+      ],
+      "passage": "For centuries, honeybees have quietly done one of the most important jobs on our planet. As they move from flower to flower collecting nectar, they carry pollen that allows plants to produce fruits and seeds. Nearly one-third of the food we eat — apples, almonds, mustard, coffee and many vegetables — depends on such pollination.\n\nYet bee populations are declining in many parts of the world. Farmers spray pesticides that kill bees along with pests. Forests and wild flowering plants are cleared for buildings and single-crop farms, leaving bees with little variety of food. Climate change has made flowers bloom earlier or later than usual, so bees and blossoms no longer meet at the right time.\n\nThe good news is that ordinary people can help. Planting native flowering plants, avoiding chemical sprays in gardens and buying honey from local beekeepers all support bees. Some cities now keep beehives on rooftops. Protecting these tiny workers is not a matter of charity; it is a matter of our own survival."
+    },
+    {
+      "no": 6,
+      "title": "Read the passage and identify the sentences as True or False.",
+      "marks": "1 × 5 = 5",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "6.1",
+          "type": "mcq",
+          "q": "India has more than 1.5 lakh post offices.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "fixed": true
+        },
+        {
+          "id": "6.2",
+          "type": "mcq",
+          "q": "Most Indian post offices are in big cities.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "fixed": true
+        },
+        {
+          "id": "6.3",
+          "type": "mcq",
+          "q": "India Post now delivers parcels for online shopping companies.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "fixed": true
+        },
+        {
+          "id": "6.4",
+          "type": "mcq",
+          "q": "The India Post Payments Bank offers banking at the doorstep.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "fixed": true
+        },
+        {
+          "id": "6.5",
+          "type": "mcq",
+          "q": "The floating post office is on a lake in Hikkim.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "fixed": true
+        }
+      ],
+      "passage": "The Indian postal service is one of the largest in the world, with more than 1.5 lakh post offices, most of them in villages. Long before mobile phones, the postman was a familiar figure who carried letters, money orders and news of joy and sorrow. Today, India Post has changed with the times. It runs savings banks and insurance schemes, delivers parcels for online shopping companies and offers banking at the doorstep through the India Post Payments Bank. A floating post office on Dal Lake in Srinagar and one of the world's highest post offices at Hikkim in Himachal Pradesh show how far the service reaches."
+    },
+    {
+      "no": 7,
+      "title": "Fill in the blanks with the proper tense of the verbs given in brackets.",
+      "marks": "1 × 4 = 4",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "7.1",
+          "type": "open",
+          "q": "The train ________ (leave) before we reached the station.",
+          "answer": "had left"
+        },
+        {
+          "id": "7.2",
+          "type": "open",
+          "q": "Water ________ (boil) at 100 degrees Celsius.",
+          "answer": "boils"
+        },
+        {
+          "id": "7.3",
+          "type": "open",
+          "q": "I ________ (wait) for you for the last two hours.",
+          "answer": "have been waiting"
+        },
+        {
+          "id": "7.4",
+          "type": "open",
+          "q": "Next year my brother ________ (join) college.",
+          "answer": "will join"
+        }
+      ]
+    },
+    {
+      "no": 8,
+      "title": "Match Column I with Column II (one-word substitution).",
+      "marks": "1 × 4 = 4",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "8.1",
+          "type": "match",
+          "left": "A place where birds are kept",
+          "right": "Aviary",
+          "answer": "A place where birds are kept — Aviary"
+        },
+        {
+          "id": "8.2",
+          "type": "match",
+          "left": "A person who walks on foot",
+          "right": "Pedestrian",
+          "answer": "A person who walks on foot — Pedestrian"
+        },
+        {
+          "id": "8.3",
+          "type": "match",
+          "left": "That which cannot be read",
+          "right": "Illegible",
+          "answer": "That which cannot be read — Illegible"
+        },
+        {
+          "id": "8.4",
+          "type": "match",
+          "left": "A government by the people",
+          "right": "Democracy",
+          "answer": "A government by the people — Democracy"
+        }
+      ]
+    },
+    {
+      "no": 9,
+      "title": "Fill in the blanks with appropriate question words.",
+      "marks": "1 × 3 = 3",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "9.1",
+          "type": "open",
+          "q": "________ did you go yesterday? — To the market.",
+          "answer": "Where"
+        },
+        {
+          "id": "9.2",
+          "type": "open",
+          "q": "________ she know how to swim? — Yes, she does.",
+          "answer": "Does"
+        },
+        {
+          "id": "9.3",
+          "type": "open",
+          "q": "________ often do you visit your grandparents? — Every month.",
+          "answer": "How"
+        }
+      ]
+    },
+    {
+      "no": 10,
+      "title": "Match the word 'Bright' in Column I with its correct meaning in Column II.",
+      "marks": "1 × 4 = 4",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "10.1",
+          "type": "match",
+          "left": "A bright student",
+          "right": "Intelligent and quick to learn",
+          "answer": "A bright student — Intelligent and quick to learn"
+        },
+        {
+          "id": "10.2",
+          "type": "match",
+          "left": "A bright day",
+          "right": "Full of sunshine",
+          "answer": "A bright day — Full of sunshine"
+        },
+        {
+          "id": "10.3",
+          "type": "match",
+          "left": "A bright future",
+          "right": "Likely to be successful",
+          "answer": "A bright future — Likely to be successful"
+        },
+        {
+          "id": "10.4",
+          "type": "match",
+          "left": "A bright red dress",
+          "right": "Strong and vivid in colour",
+          "answer": "A bright red dress — Strong and vivid in colour"
+        }
+      ]
+    },
+    {
+      "no": 11,
+      "title": "Fill in the blanks with the correct forms of the words given in brackets.",
+      "marks": "1 × 3 = 3",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "11.1",
+          "type": "open",
+          "q": "The ________ of the new rules confused everyone. (introduce)",
+          "answer": "introduction"
+        },
+        {
+          "id": "11.2",
+          "type": "open",
+          "q": "Honesty is a great ________. (strong)",
+          "answer": "strength"
+        },
+        {
+          "id": "11.3",
+          "type": "open",
+          "q": "We need your ________ for the project. (permit)",
+          "answer": "permission"
+        }
+      ]
+    },
+    {
+      "no": 12,
+      "title": "Read the poem and answer the questions.",
+      "marks": "1 × 3 = 3",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "12.1",
+          "type": "mcq",
+          "q": "'When the trees bow down their heads' is an example of —",
+          "options": [
+            "simile",
+            "personification",
+            "hyperbole",
+            "alliteration"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "12.2",
+          "type": "mcq",
+          "q": "The repeated question 'Who has seen the wind?' is a —",
+          "options": [
+            "rhetorical question",
+            "metaphor",
+            "pun",
+            "oxymoron"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "12.3",
+          "type": "mcq",
+          "q": "The rhyming words 'you' and 'through' show the poem's —",
+          "options": [
+            "rhyme",
+            "irony",
+            "assonance only",
+            "climax"
+          ],
+          "answer": "A"
+        }
+      ],
+      "passage": "The Wind — Christina Rossetti\n\nWho has seen the wind?\nNeither I nor you:\nBut when the leaves hang trembling,\nThe wind is passing through.\n\nWho has seen the wind?\nNeither you nor I:\nBut when the trees bow down their heads,\nThe wind is passing by."
+    },
+    {
+      "no": 13,
+      "title": "Choose the correct alternatives (writing skills).",
+      "marks": "1 × 4 = 4",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "13.1",
+          "type": "mcq",
+          "q": "A report is usually written in — (Report Writing)",
+          "options": [
+            "the first person and direct speech",
+            "the third person, often in the passive voice",
+            "poetic language",
+            "the future tense"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "13.2",
+          "type": "mcq",
+          "q": "The letter of application is essentially a — (Writing Job Applications)",
+          "options": [
+            "complaint letter",
+            "sales letter",
+            "personal letter",
+            "memo"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2018"
+          ]
+        },
+        {
+          "id": "13.3",
+          "type": "mcq",
+          "q": "Which of these is NOT part of a memo heading? (Writing Memos and Letters)",
+          "options": [
+            "To",
+            "From",
+            "Subject",
+            "Complimentary close 'Yours faithfully'"
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "13.4",
+          "type": "mcq",
+          "q": "Which pair is correctly matched? (Writing E-mails)",
+          "options": [
+            "BBL — be back later",
+            "BFN — bring for now",
+            "IOW — in other words only",
+            "TIA — talk in advance"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2024"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 14,
+      "title": "Answer in 30–40 words.",
+      "marks": "2",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "14.1",
+          "type": "open",
+          "q": "What does 'narrow domestic walls' convey? (Where the Mind is Without Fear)",
+          "answer": "It refers to divisions of caste, religion, region and class, and to petty, selfish thinking that breaks society into fragments and destroys unity.",
+          "years": [
+            "October 2017",
+            "April 2022"
+          ],
+          "or": {
+            "q": "Why should we not 'look too good, nor talk too wise'? (If)",
+            "answer": "Because we should stay humble and natural. Pretending to be better or wiser than we are seems arrogant and self-righteous."
+          }
+        }
+      ]
+    },
+    {
+      "no": 15,
+      "title": "Answer in 30–40 words.",
+      "marks": "2",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "15.1",
+          "type": "open",
+          "q": "What should we do in the face of failure, according to the poet? (If)",
+          "answer": "We should start again from the beginning with whatever strength we have, without complaining, and rebuild what has been broken even with worn-out tools."
+        }
+      ]
+    },
+    {
+      "no": 16,
+      "title": "Answer in 30–40 words.",
+      "marks": "2",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "16.1",
+          "type": "open",
+          "q": "Why did the bearded man ask the king's forgiveness? (Three Questions)",
+          "answer": "He had come to kill the king, but the king had saved his life instead. Grateful and ashamed, he begged forgiveness and promised that he and his sons would serve the king faithfully.",
+          "or": {
+            "q": "How did the hermit prove that the king had already received his answers? (Three Questions)",
+            "answer": "Had the king not pitied him and stayed to dig, he would have been attacked on his way back. So the digging time, the hermit and helping him were most important; later, the wounded man and caring for him were."
+          }
+        }
+      ]
+    },
+    {
+      "no": 17,
+      "title": "Answer in 30–40 words.",
+      "marks": "2",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "17.1",
+          "type": "open",
+          "q": "Describe the setting of the story. (After Twenty Years)",
+          "answer": "It is ten o'clock at night on a cold, windy New York avenue with a taste of rain. The streets are almost deserted, and the shops, like the hardware store, are dark."
+        }
+      ]
+    },
+    {
+      "no": 18,
+      "title": "Answer in 30–40 words.",
+      "marks": "2",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "18.1",
+          "type": "open",
+          "q": "What did the Loisels do to find the necklace? (The Necklace)",
+          "answer": "They searched the folds of her dress and cloak. Loisel retraced their route on foot and went to the police, the cab companies and the newspapers, offering a reward, but found nothing.",
+          "or": {
+            "q": "How did the Loisels' life change after they bought the new necklace? (The Necklace)",
+            "answer": "They dismissed the servant and moved to a garret. Mathilde did the heavy housework and haggled for every sou, while Loisel worked extra jobs. In ten years Mathilde became old, coarse and rough."
+          }
+        }
+      ]
+    },
+    {
+      "no": 19,
+      "title": "Answer in 30–40 words.",
+      "marks": "2",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "19.1",
+          "type": "open",
+          "q": "Why does Bacon compare natural abilities to natural plants? (Of Studies)",
+          "answer": "Just as plants need pruning to grow well, our natural talents need to be trimmed and shaped by study. Study improves raw abilities, and experience in turn corrects study."
+        }
+      ]
+    },
+    {
+      "no": 20,
+      "title": "Answer in about 50–60 words.",
+      "marks": "3",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "20.1",
+          "type": "open",
+          "q": "What is the turning point in 'The Necklace'? How does it change Mathilde? (The Necklace)",
+          "answer": "The loss of the necklace is the turning point. It forces Mathilde from dreams of luxury into ten years of poverty and toil. She becomes hard-working, brave and honest about her debt, though she loses her beauty and youth.",
+          "or": {
+            "q": "Why is the ending of 'An Astrologer's Day' a surprise? How does Narayan prepare for it? (An Astrologer's Day)",
+            "answer": "We learn only at the end that the astrologer himself had stabbed Guru Nayak, which explains his fear, his knowledge and his advice. Narayan prepares for it with hints: the astrologer left his village suddenly, he feels uneasy when he sees the stranger's face, and he tries to return the anna and leave."
+          }
+        }
+      ]
+    },
+    {
+      "no": 21,
+      "title": "Read the passage carefully and answer the questions in about 30 words each.",
+      "marks": "2 × 5 = 10",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "21.1",
+          "type": "open",
+          "q": "Why were the computers in the school lab lying unused?",
+          "answer": "The only teacher who knew computers had been transferred, so nobody knew how to use them."
+        },
+        {
+          "id": "21.2",
+          "type": "open",
+          "q": "How did Arjun know how to use a computer?",
+          "answer": "He had learnt the basics on his uncle's laptop during the holidays."
+        },
+        {
+          "id": "21.3",
+          "type": "open",
+          "q": "Why did some parents join Arjun's classes?",
+          "answer": "They wanted to learn to check crop prices and apply for government schemes online."
+        },
+        {
+          "id": "21.4",
+          "type": "open",
+          "q": "What did Arjun do to improve his own knowledge?",
+          "answer": "He watched free online courses at night and noted down every question the children asked."
+        },
+        {
+          "id": "21.5",
+          "type": "open",
+          "q": "What did the district officer do after her visit?",
+          "answer": "She arranged a trained teacher and an internet connection and asked Arjun to help train other village volunteers."
+        }
+      ],
+      "passage": "When Arjun's village school got its first computer lab, nobody knew how to use it. The machines sat under plastic covers for months, because the only teacher who understood computers had been transferred. Arjun, a Class XI student, could not bear to see them unused. He had learnt the basics on his uncle's laptop during the holidays.\n\nWith the headmaster's permission, he began staying back after school to teach younger children how to type, draw and search for information. At first only five students came. Within a month the number grew to forty, and some parents joined too, wanting to learn how to check crop prices and apply for government schemes online.\n\nArjun soon realised that he too had much to learn. He watched free online courses at night and wrote down every question the children asked. When the district officer visited the school, she was surprised to see grandmothers sending e-mails. She arranged for a trained teacher and an internet connection, and asked Arjun to help train other village volunteers. 'I only wanted the computers to be used,' Arjun said shyly. 'I did not know that teaching would teach me so much.'"
+    },
+    {
+      "no": 22,
+      "title": "Do as directed.",
+      "marks": "1 × 4 = 4",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "22.1",
+          "type": "open",
+          "q": "Rewrite using a phrasal verb for 'tolerate': I cannot tolerate such rude behaviour.",
+          "answer": "I cannot put up with such rude behaviour."
+        },
+        {
+          "id": "22.2",
+          "type": "open",
+          "q": "Change the voice: Who wrote this poem?",
+          "answer": "By whom was this poem written?"
+        },
+        {
+          "id": "22.3",
+          "type": "open",
+          "q": "Change the speech: The teacher said, \"Do not make a noise.\"",
+          "answer": "The teacher told us not to make a noise."
+        },
+        {
+          "id": "22.4",
+          "type": "open",
+          "q": "Make it a compound sentence: Being tired, she went to bed early.",
+          "answer": "She was tired, so she went to bed early."
+        }
+      ]
+    },
+    {
+      "no": 23,
+      "title": "Answer any one in 150–200 words.",
+      "marks": "6",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "23.1",
+          "type": "open",
+          "q": "Write a paragraph (150–200 words) on 'The Role of Youth in Keeping Our Surroundings Clean'.",
+          "answer": "The Role of Youth in Keeping Our Surroundings Clean\nClean surroundings are the foundation of good health and a pleasant life, and young people can play a leading role in keeping them so. Youth have energy, ideas and the ability to influence others, especially on social media. They can begin at home by segregating wet and dry waste, composting kitchen waste and refusing single-use plastic. In schools and colleges they can run cleanliness drives, maintain eco-clubs and put up dustbins and posters. In their neighbourhoods they can organise weekend clean-ups of parks, lanes and water bodies, and persuade shopkeepers to use cloth or paper bags. By making short videos and street plays, they can spread awareness about the dangers of littering and open burning of garbage. Most important, young people must set an example: they should never throw waste on the roads or spit in public places. When the youth lead by example, others follow, and the dream of a clean and healthy India comes closer to reality.",
+          "or": {
+            "q": "Design a poster (in about 50 words) on 'Donate Blood, Save Lives' for a blood donation camp.",
+            "answer": "DONATE BLOOD — SAVE LIVES!\nBlood Donation Camp\nOrganised by: NSS Unit, Govt. Senior Secondary School, Ajmer\nDate: 14 June 2026 (World Blood Donor Day) | Time: 9 a.m.–3 p.m.\nVenue: School Hall\n• Healthy adults aged 18–65 can donate\n• Takes only 15 minutes\n• Free health check-up & refreshments\nOne unit can save three lives!\nContact: 98xxxxxx45"
+          }
+        }
+      ]
+    },
+    {
+      "no": 24,
+      "title": "Answer in 80–100 words.",
+      "marks": "4",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "24.1",
+          "type": "open",
+          "q": "Read the passage above (on the return of millets) and make notes with a title, headings, sub-headings and abbreviations.",
+          "answer": "Title: The Return of Millets\n1. History\n   1.1 once staple food of India (jowar, bajra, ragi)\n   1.2 after Green Rev. — replaced by rice & wheat; seen as poor man's food\n2. Health benefits\n   2.1 rich in fibre, iron, calcium, protein\n   2.2 low glycaemic index → good for diabetics\n3. Environmental benefits\n   3.1 grow in dry areas; need little water, few fertilisers\n   3.2 tolerate high temp. → suited to climate change\n4. Promotion\n   4.1 UN: 2023 Int. Year of Millets (India's proposal)\n   4.2 millets in mid-day meals\n   4.3 start-ups: biscuits, noodles, snacks\nKey: Rev. — Revolution; temp. — temperature; Int. — International; & — and",
+          "or": {
+            "q": "Write a summary of the passage above (on the return of millets) in about 60 words.",
+            "answer": "Millets such as jowar, bajra and ragi, once India's staple food, were pushed aside by rice and wheat after the Green Revolution but are now returning. They are highly nutritious and good for diabetics, and they grow in dry, hot areas with little water and fertiliser. The UN declared 2023 the International Year of Millets, and schemes and start-ups are promoting them."
+          }
+        }
+      ],
+      "passage": "The millets — jowar, bajra, ragi and others — were once the staple food of India. After the Green Revolution, rice and wheat took their place, and millets came to be seen as poor people's food. Today they are making a comeback. Millets are rich in fibre, iron, calcium and protein, have a low glycaemic index and are good for people with diabetes. They are also good for the planet: they grow in dry areas, need little water and few fertilisers, and can survive high temperatures, which makes them suitable in a time of climate change. The United Nations declared 2023 the International Year of Millets at India's suggestion. To popularise them, the government is including millets in mid-day meals, and many start-ups now sell millet biscuits, noodles and snacks."
+    },
+    {
+      "no": 25,
+      "title": "Writing task (letter or memo).",
+      "marks": "4",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "25.1",
+          "type": "open",
+          "q": "Write a letter to a book shop in New Delhi complaining about wrong books sent to your school library. (Writing Memos and Letters)",
+          "answer": "The Librarian\nSunrise Public School, Faridabad\n12 July 2026\n\nThe Manager\nGyan Book Depot\nDaryaganj, New Delhi\n\nSubject: Wrong books supplied\n\nDear Sir,\nWe ordered 40 copies of 'Wings of Fire' (Order No. SPS/L/09 dated 1 July). The parcel received yesterday contains 40 copies of a different title.\nPlease replace them with the books ordered within ten days and collect the wrong copies. The invoice is enclosed for reference.\nYours faithfully,\nLibrarian",
+          "years": [
+            "April 2023"
+          ],
+          "or": {
+            "q": "As Class Representative, write a memo reminding students of the deadline for project submission. (Writing Memos and Letters)",
+            "answer": "MEMO\nDate: 20 August 2026\nTo: All students of Class XII-A\nFrom: Class Representative (on behalf of Ms R. Sharma)\nSubject: Project submission deadline\n\n1. Last date: 30 August 2026.\n2. Requirements: 15–20 pages, handwritten, with a bibliography and a signed declaration.\n3. Submit to Ms Sharma in the staff room.\n4. For any queries, contact Ms Sharma or the Class Representative.\nLate submissions will not be accepted.\nSd/-\nClass Representative"
+          }
+        }
+      ]
+    },
+    {
+      "no": 26,
+      "title": "Writing task (report).",
+      "marks": "4",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "26.1",
+          "type": "open",
+          "q": "Prepare a report on a fire incident in the staff room of your office caused by an overheated microwave. Include date, time, location, cause, damage and action taken. (Report Writing)",
+          "answer": "To: The Administrative Head\nFrom: Safety Officer\nDate: 15 February 2026\nSubject: Fire in the staff room on 14 February 2026\n\n1. Incident: At about 1.15 p.m. on 14 February a fire broke out in the second-floor staff room.\n2. Cause: an overheated microwave oven with a faulty cord.\n3. Action: staff used the fire extinguisher, the building was evacuated and the fire brigade arrived at 1.30 p.m. No one was injured.\n4. Damage: the microwave, a cupboard and some files were burnt.\nRecommendations: check all appliances monthly, replace old wiring, conduct fire drills and train staff to use extinguishers.\nSd/-\nSafety Officer",
+          "years": [
+            "April 2025"
+          ],
+          "or": {
+            "q": "As Office Manager of Ravi Industries, New Delhi, you inspected buildings for shifting the office. Write a report to the Managing Director recommending one. (Report Writing)",
+            "answer": "Ravi Industries, 16 Pragati Tower, Nehru Place, New Delhi\nTo: Mr S. K. Singh, Managing Director\nFrom: C. Rao, Office Manager\nDate: 7 May 2026\nSubject: Suitable premises for the office\n\nAs desired, I inspected several buildings in South Delhi and recommend Jain Building, Kailash Colony.\n1. Two storeys with 15 large, well-lit, airy rooms; partitions possible.\n2. Adequate toilets for men and women; watchmen's quarters near the gate.\n3. Bus stop 200 yards and metro station 500 yards away.\nDisadvantage: limited parking; junior staff can use public transport.\nAction: preliminary talks with the owner, Mr Anupam Jain, have begun; alterations will cost about Rs 40,000.\nThe Directors may inspect the building before deciding.\nSd/-\nC. Rao"
+          }
+        }
+      ]
+    },
+    {
+      "no": 27,
+      "title": "Writing task (e-mail or job application).",
+      "marks": "3",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "27.1",
+          "type": "open",
+          "q": "Write an e-mail to Raj Hotel, Agra, cancelling your reservation for 18th and 19th December and booking accommodation for 21st and 22nd December instead. (Writing E-mails)",
+          "answer": "To: info@rajhotelagra.com\nSubject: Change of reservation dates\n\nDear Sir/Madam,\nI have a reservation for a double room on 18 and 19 December (Ref. RH-552). Kindly cancel it and book a double room for 21 and 22 December instead.\nPlease confirm the new booking by return mail.\nThank you,\nRahul Verma",
+          "years": [
+            "January-February 2021"
+          ],
+          "or": {
+            "q": "Write a letter applying for the post of Accountant in Samsung Enterprises, Kolkata. (Writing Job Applications)",
+            "answer": "Ritika Sen\n5, Park Circus, Kolkata\n10 June 2026\n\nThe HR Manager\nSamsung Enterprises\nKolkata\n\nSubject: Application for the post of Accountant\n\nDear Sir/Madam,\nI wish to apply for the post of Accountant advertised in The Telegraph of 8 June.\nI hold a B.Com. degree and a certificate in Tally and GST, and have one year's experience in maintaining ledgers and filing returns for a trading firm. I am accurate, organised and comfortable with spreadsheets.\nMy résumé is enclosed. I would be glad to attend an interview at your convenience.\nYours faithfully,\nRitika Sen"
+          }
+        }
+      ]
+    }
+  ]
+}

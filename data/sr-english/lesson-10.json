@@ -1,0 +1,407 @@
+{
+  "subject": "sr-english",
+  "lesson": 10,
+  "title": "Of Studies",
+  "author": "Francis Bacon",
+  "meta": "Essay · Practice set",
+  "instructions": [
+    "Practice for this lesson in the question types of the April 2026 paper (new syllabus).",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct option.",
+      "marks": "6 × 1 = 6",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "According to Bacon, the three uses of studies are —",
+          "options": [
+            "delight, ornament and ability",
+            "wealth, fame and power",
+            "reading, writing and speaking",
+            "history, poetry and logic"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "To spend too much time in studies is, according to Bacon —",
+          "options": [
+            "wisdom",
+            "sloth",
+            "ornament",
+            "ability"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "When does study become affectation?",
+          "options": [
+            "When a person studies too much",
+            "When learning is used too much for show",
+            "When judgement is made wholly by its rules",
+            "When it is done in private"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "'Reading maketh a ________ man.'",
+          "options": [
+            "ready",
+            "exact",
+            "full",
+            "wise"
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "If a man's wit is wandering, Bacon advises him to study —",
+          "options": [
+            "poetry",
+            "history",
+            "mathematics",
+            "rhetoric"
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "'Some books are to be tasted, others to be swallowed' — this is an example of —",
+          "options": [
+            "metaphor",
+            "irony",
+            "onomatopoeia",
+            "personification"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Identify the following sentences as True or False.",
+      "marks": "6 × 1 = 6",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "mcq",
+          "q": "Bacon says studies perfect nature and are perfected by experience.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "fixed": true
+        },
+        {
+          "id": "2.2",
+          "type": "mcq",
+          "q": "According to Bacon, crafty men admire studies.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "note": "Crafty men condemn studies; simple men admire them; wise men use them.",
+          "fixed": true
+        },
+        {
+          "id": "2.3",
+          "type": "mcq",
+          "q": "Bacon says we should read in order to contradict and confute.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "note": "Read 'to weigh and consider'.",
+          "fixed": true
+        },
+        {
+          "id": "2.4",
+          "type": "mcq",
+          "q": "'Distilled books' are, in Bacon's view, flashy things.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "fixed": true
+        },
+        {
+          "id": "2.5",
+          "type": "mcq",
+          "q": "According to Bacon, histories make men witty.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "note": "Histories make men wise; poets make them witty.",
+          "fixed": true
+        },
+        {
+          "id": "2.6",
+          "type": "mcq",
+          "q": "'Abeunt studia in mores' means that studies pass into and influence character.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "fixed": true
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Match the subject with what it does, according to Bacon.",
+      "marks": "4 × 1 = 4",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "match",
+          "left": "Histories",
+          "right": "make men wise",
+          "answer": "Histories — make men wise"
+        },
+        {
+          "id": "3.2",
+          "type": "match",
+          "left": "Poets",
+          "right": "make men witty",
+          "answer": "Poets — make men witty"
+        },
+        {
+          "id": "3.3",
+          "type": "match",
+          "left": "Mathematics",
+          "right": "makes men subtle",
+          "answer": "Mathematics — makes men subtle"
+        },
+        {
+          "id": "3.4",
+          "type": "match",
+          "left": "Logic and rhetoric",
+          "right": "make men able to contend",
+          "answer": "Logic and rhetoric — make men able to contend"
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Match the activity with its effect ('Of Studies').",
+      "marks": "3 × 1 = 3",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "match",
+          "left": "Reading",
+          "right": "makes a full man",
+          "answer": "Reading — makes a full man"
+        },
+        {
+          "id": "4.2",
+          "type": "match",
+          "left": "Conference",
+          "right": "makes a ready man",
+          "answer": "Conference — makes a ready man"
+        },
+        {
+          "id": "4.3",
+          "type": "match",
+          "left": "Writing",
+          "right": "makes an exact man",
+          "answer": "Writing — makes an exact man"
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Fill in the blanks.",
+      "marks": "6 × 1 = 6",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "Crafty men condemn studies, simple men admire them, and wise men ________ them.",
+          "answer": "use"
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "Read not to contradict and confute … but to weigh and ________.",
+          "answer": "consider"
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "Some few books are to be chewed and ________.",
+          "answer": "digested"
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "Natural abilities are like natural ________, that need pruning by study.",
+          "answer": "plants"
+        },
+        {
+          "id": "5.5",
+          "type": "open",
+          "q": "If a man write little, he had need have a great ________.",
+          "answer": "memory"
+        },
+        {
+          "id": "5.6",
+          "type": "open",
+          "q": "Bacon is known as the father of the ________ method.",
+          "answer": "scientific (empirical)"
+        }
+      ]
+    },
+    {
+      "no": 6,
+      "title": "Do as directed (language).",
+      "marks": "7 × 1 = 7",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "6.1",
+          "type": "open",
+          "q": "Fill in: As we speak, the scientists ________ (conduct) research in the lab.",
+          "answer": "are conducting"
+        },
+        {
+          "id": "6.2",
+          "type": "open",
+          "q": "Fill in: In the future, technology ________ (revolutionise) the way we live.",
+          "answer": "will revolutionise"
+        },
+        {
+          "id": "6.3",
+          "type": "open",
+          "q": "Fill in: The orchestra members ________ (practise) for their concert this week.",
+          "answer": "are practising"
+        },
+        {
+          "id": "6.4",
+          "type": "open",
+          "q": "Give the adjective form of: courage",
+          "answer": "courageous"
+        },
+        {
+          "id": "6.5",
+          "type": "open",
+          "q": "Give the adjective form of: ceremony",
+          "answer": "ceremonial / ceremonious"
+        },
+        {
+          "id": "6.6",
+          "type": "open",
+          "q": "One word for: the quality of doing work carefully and thoroughly",
+          "answer": "diligence"
+        },
+        {
+          "id": "6.7",
+          "type": "open",
+          "q": "One word for: something that makes it difficult to move or progress",
+          "answer": "impediment"
+        }
+      ]
+    },
+    {
+      "no": 7,
+      "title": "Answer in 30–40 words.",
+      "marks": "6 × 2 = 12",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "7.1",
+          "type": "open",
+          "q": "What broader lesson does Bacon's essay convey about the role of studies?",
+          "answer": "Studies shape our character and cure the defects of the mind, just as exercise cures the body. Used in the right measure and checked by experience, they make us wise, able and balanced.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "7.2",
+          "type": "open",
+          "q": "What are the three uses of studies?",
+          "answer": "Studies serve for delight in private and in retirement, for ornament in conversation, and for ability in judging and managing business."
+        },
+        {
+          "id": "7.3",
+          "type": "open",
+          "q": "Why does Bacon compare natural abilities to natural plants?",
+          "answer": "Just as plants need pruning to grow well, our natural talents need to be trimmed and shaped by study. Study improves raw abilities, and experience in turn corrects study."
+        },
+        {
+          "id": "7.4",
+          "type": "open",
+          "q": "How should we read, according to Bacon?",
+          "answer": "Not to contradict others, nor to believe everything blindly, nor merely to find things to talk about, but to weigh and consider what we read."
+        },
+        {
+          "id": "7.5",
+          "type": "open",
+          "q": "Explain: 'Some books are to be tasted, others to be swallowed, and some few to be chewed and digested.'",
+          "answer": "Some books need to be read only in parts, some read quickly without close attention, and a few important ones read fully, carefully and thoughtfully so that we absorb them."
+        },
+        {
+          "id": "7.6",
+          "type": "open",
+          "q": "How do reading, conference and writing help a man?",
+          "answer": "Reading fills the mind with knowledge, conference (discussion) makes one quick and ready in reply, and writing makes one exact and precise. Without them one needs a great memory, a present wit or cunning."
+        }
+      ]
+    },
+    {
+      "no": 8,
+      "title": "Answer in about 50–60 words.",
+      "marks": "3 × 3 = 9",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "8.1",
+          "type": "open",
+          "q": "How can different defects of the mind be cured by studies, according to Bacon?",
+          "answer": "Bacon says every impediment of the mind can be removed by a fitting study, as exercises cure bodily ills. A wandering mind should study mathematics, one who cannot distinguish should study the schoolmen, and one who cannot argue should study lawyers' cases."
+        },
+        {
+          "id": "8.2",
+          "type": "open",
+          "q": "Comment on Bacon's style in 'Of Studies'.",
+          "answer": "His style is aphoristic: short, balanced, pithy sentences that pack much wisdom into few words, such as 'Reading maketh a full man'. He uses similes and metaphors (plants, tasting books) and parallel structure, and many lines have become proverbs.",
+          "or": {
+            "q": "What, according to Bacon, are the dangers of excessive study?",
+            "answer": "Too much study is sloth, making one lazy. Using learning too much for show is affectation, and judging everything only by bookish rules is the whim of a scholar. Study must be balanced and corrected by experience."
+          }
+        },
+        {
+          "id": "8.3",
+          "type": "open",
+          "q": "'Histories make men wise; poets witty …' Explain.",
+          "answer": "Bacon says each subject develops a quality: history gives wisdom through lessons of the past, poetry wit, mathematics subtlety, natural philosophy depth, moral philosophy seriousness, and logic and rhetoric the power to argue. What we study passes into our character."
+        }
+      ]
+    }
+  ]
+}

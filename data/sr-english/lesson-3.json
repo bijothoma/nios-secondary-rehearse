@@ -1,0 +1,452 @@
+{
+  "subject": "sr-english",
+  "lesson": 3,
+  "title": "An Astrologer's Day",
+  "author": "R. K. Narayan",
+  "meta": "Short story · Practice set",
+  "instructions": [
+    "Practice for this lesson in the question types of the April 2026 paper (new syllabus).",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct option.",
+      "marks": "7 × 1 = 7",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "The astrologer's eyes sparkled with an abnormal gleam because —",
+          "options": [
+            "he had prophetic powers",
+            "he was always looking for customers",
+            "he was angry with the crowd",
+            "the gaslights shone on his face"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "The astrologer charged his customers —",
+          "options": [
+            "one anna per question",
+            "three pies per question",
+            "eight annas per visit",
+            "a rupee per question"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "Why did the astrologer suit the dim light of the park?",
+          "options": [
+            "He liked a quiet place to sit",
+            "He had no money for a lamp",
+            "He knew no more of the future than his clients, and the half-light hid this",
+            "The municipality had banned lamps"
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "What made the astrologer tremble when the stranger lit his cheroot?",
+          "options": [
+            "The smoke hurt his eyes",
+            "He recognised the face of the man he believed he had killed",
+            "He feared the police",
+            "He was cold"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "The real reason the astrologer told Guru Nayak never to travel south again was —",
+          "options": [
+            "southern towns were dangerous",
+            "it was written in the stars",
+            "he did not want Guru Nayak to find him again",
+            "Guru Nayak's family lived in the south"
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "\"The swine has cheated me!\" — this remark is an example of —",
+          "options": [
+            "simile",
+            "irony",
+            "alliteration",
+            "metaphor"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "What motivated the astrologer to confront the stranger openly in the end?",
+          "options": [
+            "Fear of exposure",
+            "Guilt and the need for redemption",
+            "The stranger's insistence on the truth",
+            "Desire for revenge"
+          ],
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Identify the following sentences as True or False.",
+      "marks": "8 × 1 = 8",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "mcq",
+          "q": "The astrologer deliberately chose his appearance and setting to impress and attract customers.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Ash, vermilion, whiskers and a saffron turban — 'this colour scheme never failed'.",
+          "fixed": true
+        },
+        {
+          "id": "2.2",
+          "type": "mcq",
+          "q": "The astrologer had planned from his youth to become an astrologer.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "note": "He 'had not in the least intended to be an astrologer when he began life'.",
+          "fixed": true
+        },
+        {
+          "id": "2.3",
+          "type": "mcq",
+          "q": "The groundnut vendor gave his ware a fancy name every day.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "note": "Bombay Ice-Cream, Delhi Almond, Raja's Delicacy …",
+          "fixed": true
+        },
+        {
+          "id": "2.4",
+          "type": "mcq",
+          "q": "The astrologer never opened his mouth till the client had spoken for at least ten minutes.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "fixed": true
+        },
+        {
+          "id": "2.5",
+          "type": "mcq",
+          "q": "Guru Nayak paid the astrologer the full rupee he had promised.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "B",
+          "note": "He gave a handful of coins — twelve and a half annas.",
+          "fixed": true
+        },
+        {
+          "id": "2.6",
+          "type": "mcq",
+          "q": "The astrologer's wife planned to buy jaggery and coconut to make sweets for their child.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "fixed": true
+        },
+        {
+          "id": "2.7",
+          "type": "mcq",
+          "q": "Guru Nayak wanted to know whether his enemy had died a deserved death.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "note": "'I hope at least he died as he deserved.' 'He was crushed under a lorry.'",
+          "fixed": true
+        },
+        {
+          "id": "2.8",
+          "type": "mcq",
+          "q": "The astrologer felt relieved at the end because he learnt that the man he stabbed was alive.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": "A",
+          "fixed": true
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Match the items with reference to 'An Astrologer's Day'.",
+      "marks": "4 × 1 = 4",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "match",
+          "left": "Cowrie shells and palmyra writing",
+          "right": "The astrologer's professional equipment",
+          "answer": "Cowrie shells and palmyra writing — The astrologer's professional equipment"
+        },
+        {
+          "id": "3.2",
+          "type": "match",
+          "left": "Guru Nayak's scar",
+          "right": "A reminder of the astrologer's past crime",
+          "answer": "Guru Nayak's scar — A reminder of the astrologer's past crime"
+        },
+        {
+          "id": "3.3",
+          "type": "match",
+          "left": "The groundnut vendor blowing out his flare",
+          "right": "The signal for the astrologer to pack up",
+          "answer": "The groundnut vendor blowing out his flare — The signal for the astrologer to pack up"
+        },
+        {
+          "id": "3.4",
+          "type": "match",
+          "left": "Twelve and a half annas",
+          "right": "Money the wife counts at home",
+          "answer": "Twelve and a half annas — Money the wife counts at home"
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Match the character with the description ('An Astrologer's Day').",
+      "marks": "3 × 1 = 3",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "match",
+          "left": "The astrologer",
+          "right": "Shrewd observer who lives by guesswork",
+          "answer": "The astrologer — Shrewd observer who lives by guesswork"
+        },
+        {
+          "id": "4.2",
+          "type": "match",
+          "left": "Guru Nayak",
+          "right": "Seeks revenge on the man who stabbed him",
+          "answer": "Guru Nayak — Seeks revenge on the man who stabbed him"
+        },
+        {
+          "id": "4.3",
+          "type": "match",
+          "left": "The astrologer's wife",
+          "right": "Overjoyed to buy sweets for her child",
+          "answer": "The astrologer's wife — Overjoyed to buy sweets for her child"
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Fill in the blanks.",
+      "marks": "6 × 1 = 6",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "The astrologer sat under a spreading ________ tree in the Town Hall Park.",
+          "answer": "tamarind"
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "His forehead was resplendent with sacred ash and ________.",
+          "answer": "vermilion"
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "He had a working analysis of mankind's troubles: marriage, money and the tangles of ________.",
+          "answer": "human ties"
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "Guru Nayak's village was two days' journey due ________ of the town.",
+          "answer": "north"
+        },
+        {
+          "id": "5.5",
+          "type": "open",
+          "q": "The astrologer told Guru Nayak that his enemy had been crushed under a ________.",
+          "answer": "lorry"
+        },
+        {
+          "id": "5.6",
+          "type": "open",
+          "q": "As a youngster, the astrologer drank, gambled and ________ badly one day.",
+          "answer": "quarrelled"
+        }
+      ]
+    },
+    {
+      "no": 6,
+      "title": "Do as directed (language).",
+      "marks": "7 × 1 = 7",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "6.1",
+          "type": "open",
+          "q": "Fill in the blank: She ________ (study) for her exams for three hours. (present perfect continuous)",
+          "answer": "has been studying"
+        },
+        {
+          "id": "6.2",
+          "type": "open",
+          "q": "Fill in the blank: By the time we arrived, they ________ (wait) for us for over an hour.",
+          "answer": "had been waiting"
+        },
+        {
+          "id": "6.3",
+          "type": "open",
+          "q": "Fill in the blank: The children ________ (play) in the garden since morning.",
+          "answer": "have been playing"
+        },
+        {
+          "id": "6.4",
+          "type": "open",
+          "q": "Fill in the blank: She realised she ________ (work) on the wrong assignment all night.",
+          "answer": "had been working"
+        },
+        {
+          "id": "6.5",
+          "type": "open",
+          "q": "Use the right phrasal verb (put by / put out / look after): Every wise person ________ a little money for a rainy day.",
+          "answer": "puts by"
+        },
+        {
+          "id": "6.6",
+          "type": "open",
+          "q": "Correct the verb: At the beginning of the year, Rahul did not knew a word of Urdu.",
+          "answer": "did not know"
+        },
+        {
+          "id": "6.7",
+          "type": "open",
+          "q": "Correct the verb: The negative factors at home causes all these differences.",
+          "answer": "cause"
+        }
+      ]
+    },
+    {
+      "no": 7,
+      "title": "Answer in 30–40 words.",
+      "marks": "6 × 2 = 12",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "7.1",
+          "type": "open",
+          "q": "Describe the astrologer's appearance and how it attracted customers.",
+          "answer": "His forehead shone with sacred ash and vermilion, dark whiskers streamed down his cheeks and he wore a saffron turban. These made his searching eyes look prophetic, and people were drawn to him like bees to flowers."
+        },
+        {
+          "id": "7.2",
+          "type": "open",
+          "q": "How did the astrologer manage to satisfy his clients?",
+          "answer": "He let each client talk for ten minutes, which gave him material for many answers. He then spoke of common troubles — marriage, money, human ties — and flattered them, so nine out of ten agreed with him."
+        },
+        {
+          "id": "7.3",
+          "type": "open",
+          "q": "How did the astrologer know so much about Guru Nayak's past?",
+          "answer": "He was the man who had stabbed Guru Nayak in a drunken quarrel and pushed him into a well. So he knew about the knife, the well and even the name, though Guru Nayak thought it was astrology."
+        },
+        {
+          "id": "7.4",
+          "type": "open",
+          "q": "Why did the astrologer advise Guru Nayak to go home and never travel south again?",
+          "answer": "He wanted to keep Guru Nayak far away from the town where he lived, so that Guru Nayak would stop searching for his attacker and the astrologer's secret would stay safe."
+        },
+        {
+          "id": "7.5",
+          "type": "open",
+          "q": "What is the significance of the title 'An Astrologer's Day'?",
+          "answer": "The story follows one day in the astrologer's life, from setting up at noon to going home at midnight. That single day brings the meeting with Guru Nayak, which frees him from years of guilt."
+        },
+        {
+          "id": "7.6",
+          "type": "open",
+          "q": "What made the astrologer's wife happy, and what worried her?",
+          "answer": "She was overjoyed with the twelve and a half annas, as she could buy jaggery and coconut to make sweets for their child. But she noticed her husband looked worried and was shocked to learn he had once tried to kill a man."
+        }
+      ]
+    },
+    {
+      "no": 8,
+      "title": "Answer in about 50–60 words.",
+      "marks": "4 × 3 = 12",
+      "fixed": true,
+      "questions": [
+        {
+          "id": "8.1",
+          "type": "open",
+          "q": "Why did the astrologer shiver when confronted by the stranger?",
+          "answer": "When the stranger lit his cheroot, the astrologer saw his face by the match-light and recognised Guru Nayak, the man he had stabbed and pushed into a well years ago. He feared he would be recognised and punished, so he shivered in his grip and his voice grew faint.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "8.2",
+          "type": "open",
+          "q": "Why is the ending of 'An Astrologer's Day' a surprise? How does Narayan prepare for it?",
+          "answer": "We learn only at the end that the astrologer himself had stabbed Guru Nayak, which explains his fear, his knowledge and his advice. Narayan prepares for it with hints: the astrologer left his village suddenly, he feels uneasy when he sees the stranger's face, and he tries to return the anna and leave."
+        },
+        {
+          "id": "8.3",
+          "type": "open",
+          "q": "Bring out the irony in the story.",
+          "answer": "The astrologer knows nothing of the stars yet is trusted as a prophet. He calls Guru Nayak a 'swine' who cheated him of a rupee, though he has deceived Guru Nayak completely. And the 'prediction' that freed Guru Nayak was really a confession that freed the astrologer.",
+          "or": {
+            "q": "Write a character sketch of the astrologer.",
+            "answer": "He is shrewd and observant, reading people's worries from their talk and faces. He is a fake but hard-working, earning an honest man's wage by his wits. He carries guilt for a crime of his youth, and he is quick-witted under pressure, turning danger into safety and relief."
+          }
+        },
+        {
+          "id": "8.4",
+          "type": "open",
+          "q": "How is the contrast of light and darkness used in the story?",
+          "answer": "The park has no municipal lights; the half-light hides the astrologer's ignorance and his identity. A match-light reveals Guru Nayak's face to him, a moment of recognition. At the end the green shaft of light vanishes, leaving darkness, as his secret stays hidden — yet he himself is relieved."
+        }
+      ]
+    }
+  ]
+}
