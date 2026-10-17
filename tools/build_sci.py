@@ -43,6 +43,7 @@ SECTIONS = [
     ('la', 'Long answer questions.', 5, '80–120 words', 2),
 ]
 FULL_PAPERS = 3
+MIN_LESSONS_FOR_PAPERS = 10  # full papers are built only when there are at least this many lessons
 
 META = 'Time: 2½ hours · Maximum marks: 85 · Modelled on the April 2026 NIOS paper'
 INSTRUCTIONS_FULL = [
@@ -64,28 +65,28 @@ def section(no, key, questions, passage=None, years=None):
     sec = {'no': no, 'title': title + (f' Answer in {words}.' if words else ''),
            'marks': f'{len(questions)} × {marks} = {len(questions) * marks}',
            'questions': questions}
-    if key == 'case':
+    if key.startswith('case'):
         sec['fixed'] = True  # the questions follow the passage in order
     if passage:
         sec['passage'] = passage + (f' ({", ".join(years)})' if years else '')
     return sec
 
 
-def case_section(no, case, note=None):
+def case_section(no, case, note=None, key='case'):
     qs = [build_question(it, f'{no}.{i + 1}') for i, it in enumerate(case['items'])]
     if note:
         qs[0]['note'] = note
-    return section(no, 'case', qs, case['passage'], case.get('years'))
+    return section(no, key, qs, case['passage'], case.get('years'))
 
 
 def chapter_sections(src):
     sections = []
     for key, *_ in SECTIONS:
         no = len(sections) + 1
-        if key == 'case':
-            cases = src.get('case') or []
+        if key.startswith('case'):
+            cases = src.get(key) or []
             for case in (cases if isinstance(cases, list) else [cases]):
-                sections.append(case_section(len(sections) + 1, case))
+                sections.append(case_section(len(sections) + 1, case, key=key))
             continue
         items = src.get(key) or []
         if items:
@@ -108,8 +109,8 @@ def build_chapter(src):
     return sum(len(s['questions']) for s in sections)
 
 
-def cases_of(src):
-    cases = src.get('case') or []
+def cases_of(src, key='case'):
+    cases = src.get(key) or []
     return cases if isinstance(cases, list) else [cases]
 
 
@@ -122,18 +123,18 @@ def build_full_papers(sources):
         sections = []
         for key, _, _, _, count in SECTIONS:
             no = len(sections) + 1
-            if key == 'case':
-                pool = [(s['lesson'], i, c) for s in sources for i, c in enumerate(cases_of(s))
-                        if (s['lesson'], 'case', i) not in used]
+            if key.startswith('case'):
+                pool = [(s['lesson'], i, c) for s in sources for i, c in enumerate(cases_of(s, key))
+                        if (s['lesson'], key, i) not in used]
                 lesson, i, case = pool[(p * 7) % len(pool)]
-                used.add((lesson, 'case', i))
-                sections.append(case_section(no, case, f'Lesson {lesson}.'))
+                used.add((lesson, key, i))
+                sections.append(case_section(no, case, f'Lesson {lesson}.', key))
                 continue
             start = (p * 11 + {'mcq': 0, 'objective': 3, 'vsa': 5, 'sa': 9, 'la': 13}.get(key, 7)) % len(order)
             picked = []
             k = 0
             while len(picked) < count and k < 10 * len(order):
-                lesson = order[(start + k * (1 if count > 6 else 3)) % len(order)]
+                lesson = order[(start + k * (1 if count > 6 or len(order) <= 6 else 3)) % len(order)]
                 k += 1
                 pool = [(i, it) for i, it in enumerate(by_no[lesson].get(key) or [])
                         if (lesson, key, i) not in used]
@@ -186,7 +187,7 @@ def main():
     for s in sources:
         print(f'Lesson {s["lesson"]}: {build_chapter(s)} questions')
     papers = 0
-    if len(sources) >= 10:
+    if len(sources) >= MIN_LESSONS_FOR_PAPERS:
         build_full_papers(sources)
         papers = FULL_PAPERS
         print(f'{FULL_PAPERS} full papers')

@@ -130,6 +130,10 @@ question's own short note.
   `build_sci.py` (47 questions, 85 marks: 19 MCQs, twelve 2-mark objective questions of four statements or pairs, ten
   2-mark, four 3-mark and two 5-mark answers). Only the 15 public-exam lessons of the NIOS syllabus bifurcation are
   included; past-paper questions of April 2022 to April 2026 are tagged by exam.
+- `tools/build_painting.py`: builds Secondary Painting (225) from `data/painting/src/lesson-<n>.json` with `build_sci.py`
+  (14 questions, 30 marks: 6 MCQs, a passage with five fill-in-the-blanks, a passage with four true/false statements, four
+  2-mark, one 3-mark and one 4-mark answer). Only the 6 public-exam lessons are included; `build_sci.py` now supports
+  several passage sections (`case`, `case2`) and a lesson-count threshold for full papers.
 - All of these builders share `build_question` in `tools/build_ss.py`. It marks an MCQ `fixed` (options
   keep their printed order instead of being shuffled) when an option refers to the others, such as
   "all of these", "none of the above" or "both (A) and (B)".

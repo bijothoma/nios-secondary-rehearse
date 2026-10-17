@@ -1,0 +1,499 @@
+{
+  "subject": "painting",
+  "lesson": 5,
+  "title": "Renaissance",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "16 × 1 = 16",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "What is the basic structure of a pieta statue?",
+          "options": [
+            "Pyramidal",
+            "Triangular",
+            "Spherical",
+            "Cylinder"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "Who painted the art work 'The Virgin of the Rocks'?",
+          "options": [
+            "Michael Angelo",
+            "Leonardo da Vinci",
+            "Claude Monet",
+            "Edgar Degas"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "Who painted the art work 'The Last Supper'?",
+          "options": [
+            "Leonardo da Vinci",
+            "Rembrandt",
+            "Sandro Botticelli",
+            "Michael Angelo"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "Who painted the art work 'Monalisa'?",
+          "options": [
+            "Michael Angelo",
+            "Rembrandt",
+            "Leonardo da Vinci",
+            "Sandro Botticelli"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "The word 'Renaissance' means —",
+          "options": [
+            "rebirth",
+            "revolution",
+            "reality",
+            "religion"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "'Birth of Venus' was painted by —",
+          "options": [
+            "Sandro Botticelli",
+            "Raphael",
+            "Michelangelo",
+            "Rembrandt"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "The medium of 'Birth of Venus' is —",
+          "options": [
+            "tempera on canvas",
+            "oil on poplar wood",
+            "marble",
+            "fresco"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "Mona Lisa is painted in oil on —",
+          "options": [
+            "canvas",
+            "poplar wood",
+            "paper",
+            "marble"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "Mona Lisa is displayed in the —",
+          "options": [
+            "Louvre Museum, Paris",
+            "Uffizi, Florence",
+            "Rijks Museum, Amsterdam",
+            "St Peter's, Rome"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "The 'Pieta' is made of —",
+          "options": [
+            "bronze",
+            "marble",
+            "terracotta",
+            "wood"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "'Pieta' is kept in —",
+          "options": [
+            "St Peter's, Rome",
+            "Louvre, Paris",
+            "Rijks Museum",
+            "Uffizi"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "'The Night Watch' was painted by —",
+          "options": [
+            "Rembrandt",
+            "Rubens",
+            "Raphael",
+            "Botticelli"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.13",
+          "type": "mcq",
+          "q": "Which painting was wrongly thought to be a night scene because of dark varnish?",
+          "options": [
+            "The Night Watch",
+            "Mona Lisa",
+            "Pieta",
+            "Birth of Venus"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.14",
+          "type": "mcq",
+          "q": "Which of these is a Michelangelo sculpture?",
+          "options": [
+            "David",
+            "Mona Lisa",
+            "Birth of Venus",
+            "The Night Watch"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.15",
+          "type": "mcq",
+          "q": "Which painting shows the Virgin Mary holding the dead body of Christ?",
+          "options": [
+            "Pieta",
+            "The Last Supper",
+            "Mona Lisa",
+            "Birth of Venus"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.16",
+          "type": "mcq",
+          "q": "Leonardo's Mona Lisa uses which structural design?",
+          "options": [
+            "Pyramid design",
+            "Circular design",
+            "Square design",
+            "Zigzag design"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Read the passage and fill in the blanks.",
+      "marks": "5 × 1 = 5",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "The 14th century Renaissance artists included Duccio and ______.",
+          "answer": "Masaccio"
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "The 14th century had a more ______ method of narration.",
+          "answer": "Gothic"
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "The 15th century Renaissance stressed balance and ______ in art and nature.",
+          "answer": "harmony"
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Leonardo da Vinci, Raphael and ______ were the most famous painters of the period.",
+          "answer": "Michael Angelo"
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "______ artists extended the principles of the High Renaissance.",
+          "answer": "Mannerist"
+        }
+      ],
+      "fixed": true,
+      "passage": "The 14th century Renaissance with prominent artists like Duccio and Masaccio had a more Gothic method of narration and less anatomy knowledge, yet they show a sense of scientific proportion and observation in their paintings. The 15th century Renaissance gave enough stress to balance and harmony in art and nature. The use of light, shadow, foreshortening and perspective had been perfected. The most famous painters of this period are Leonardo da Vinci, Raphael and Michael Angelo. Mannerist artists extended the principles of the High Renaissance and tend to represent elongated figures in illogical spaces. (April 2025)"
+    },
+    {
+      "no": 3,
+      "title": "Read the passage and fill in the blanks.",
+      "marks": "5 × 1 = 5",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "Rembrandt was a ______ painter.",
+          "answer": "Dutch"
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "The varnish on The Night Watch was removed in ______.",
+          "answer": "1940"
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "The captain is dressed in black with a ______ sash.",
+          "answer": "red"
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "The lieutenant and the small girl wear ______ dress, the colour of victory.",
+          "answer": "yellow"
+        },
+        {
+          "id": "3.5",
+          "type": "open",
+          "q": "The dead chicken hanging from the girl's belt represents the ______.",
+          "answer": "defeated enemy"
+        }
+      ],
+      "fixed": true,
+      "passage": "Rembrandt was a Dutch painter and a realist. In most of his paintings we see the mysteries in the play of light and shade. He painted The Night Watch between 1640 and 1642. For a long time the painting was coated with dark varnish, which gave the incorrect impression that it depicted a night scene, but when the varnish was removed in 1940 it was found to represent broad daylight. The captain is dressed in black with a red sash. The lieutenant and a small girl wear yellow, the colour of victory. A white dead chicken hanging from the girl's belt represents the defeated enemy."
+    },
+    {
+      "no": 4,
+      "title": "Read the passage and state whether each statement is true or false.",
+      "marks": "4 × 1 = 4",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "Leonardo da Vinci was both a scientist and an artist.",
+          "answer": "True"
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "Mona Lisa was painted in tempera on canvas.",
+          "answer": "False – it is oil on poplar wood."
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "The folded hands of Mona Lisa form the base of the pyramid design.",
+          "answer": "True"
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "The background of Mona Lisa is a plain wall.",
+          "answer": "False – it is a vast landscape with mountain, valley and river."
+        }
+      ],
+      "fixed": true,
+      "passage": "Leonardo da Vinci was an Italian painter, regarded both as a scientist and an artist. Among his many famous paintings, The Last Supper, The Virgin of the Rocks and Mona Lisa stand for ever in universal fame. Mona Lisa was painted in the 16th century on poplar wood in oil colours. It depicts a woman sitting with a mysterious smile. Leonardo used a pyramid design where her folded hands form the base. There is a vast landscape of icy mountain, valley and curved river behind the portrait. (April 2026)"
+    },
+    {
+      "no": 5,
+      "title": "Read the passage and state whether each statement is true or false.",
+      "marks": "4 × 1 = 4",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "Pieta was carved from a single slab of marble.",
+          "answer": "True"
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "Pieta has three figures.",
+          "answer": "False – it has two figures, Mary and Christ."
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "The structure of Pieta is pyramidal.",
+          "answer": "True"
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "Michelangelo painted the frescoes on the ceiling of the Sistine Chapel.",
+          "answer": "True"
+        }
+      ],
+      "fixed": true,
+      "passage": "Pieta is a sculpture made by Michael Angelo in 1498–99. It is created from a single slab of marble. It shows the Virgin Mary holding the dead body of Christ in her hands. The structure of this sculpture is pyramidal in shape. Madonna is shown much younger than her son to express her purity. This is the most highly finished work of Michael Angelo. The other famous works of Michael Angelo are the sculptures of David and Moses and the frescoes on the ceiling of the Sistine Chapel in Rome."
+    },
+    {
+      "no": 6,
+      "title": "Short questions. Answer in 30–40 words.",
+      "marks": "7 × 2 = 14",
+      "questions": [
+        {
+          "id": "6.1",
+          "type": "open",
+          "q": "Do you consider 'Monalisa' as the greatest work of art of the Renaissance period?",
+          "answer": "Yes, because it shows the Renaissance ideals: a pyramid design with the folded hands as the base, dramatic contrast of light and dark, a mysterious smile that welcomes the observer, and a vast landscape behind the figure showing the connection of humanity with nature; it is Leonardo's world-famous masterpiece.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "6.2",
+          "type": "open",
+          "q": "Describe the famous painting 'Birth of Venus'.",
+          "answer": "Botticelli's Birth of Venus (tempera on canvas, 1485–86, Uffizi, Florence) shows the goddess Venus emerging from the water on a shell, a full-grown nude symbolising spiritual love, beauty and truth; a goddess of the seasons offers her a flowered cloak and wind gods blow from the other side. Her neck is elongated and the light cool and artificial.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "6.3",
+          "type": "open",
+          "q": "Write a note on Sandro Botticelli.",
+          "answer": "Botticelli was an Italian Renaissance painter whose Birth of Venus (about 1486) is one of the best examples of the rebirth of classical motifs inspired by 2nd-century Greek masterpieces. His figures have elongated necks and limbs and a soft, harmonious beauty with cool light.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "6.4",
+          "type": "open",
+          "q": "Write a short note on the sculpture 'Pieta'.",
+          "answer": "Pieta by Michelangelo (marble, 1498–99, St Peter's, Rome) shows the Virgin Mary holding the dead Christ on her lap. The structure is pyramidal; Mary is shown young to express purity; the drapery movement and anatomical details are very fine."
+        },
+        {
+          "id": "6.5",
+          "type": "open",
+          "q": "What are the characteristic features of Rembrandt's paintings?",
+          "answer": "Rembrandt was a Dutch realist; his paintings show the mysteries in the play of light and shade which highlights the soul of the painting, and he painted traditional portraits with expression."
+        },
+        {
+          "id": "6.6",
+          "type": "open",
+          "q": "What does 'The Night Watch' illustrate?",
+          "answer": "It illustrates a young captain giving orders to his lieutenant to march his company of civilians, with strong light and shadows; it is a day scene, not a night scene, as was found when the varnish was removed in 1940."
+        },
+        {
+          "id": "6.7",
+          "type": "open",
+          "q": "Write the contributions of Leonardo da Vinci.",
+          "answer": "He was an Italian painter and scientist; his famous paintings are The Last Supper, The Virgin of the Rocks and Mona Lisa."
+        }
+      ]
+    },
+    {
+      "no": 7,
+      "title": "Short answer question. Answer in 50–60 words.",
+      "marks": "4 × 3 = 12",
+      "questions": [
+        {
+          "id": "7.1",
+          "type": "open",
+          "q": "What do you mean by the word 'Renaissance'? Explain the main features of this period.",
+          "answer": "Renaissance means 're-birth', the revival of art, architecture and literature from the 14th to 17th century based on classical Greek and Roman culture. It was an 'Age of Enlightenment' with new experiments, reasoning and discoveries. Features: anatomically correct human body, perfected perspective, foreshortening, light and shadow, balance and harmony, pyramidal composition and dramatic light. It spread from Early and High Renaissance to Mannerism and Baroque.",
+          "years": [
+            "April 2023",
+            "April 2022"
+          ],
+          "or": {
+            "q": "Write an appreciative note on Sandro Botticelli.",
+            "answer": "Botticelli's Birth of Venus (about 1486, tempera on canvas) shows Venus rising from the sea on a shell as a symbol of spiritual love, beauty and truth, attended by a season goddess and wind gods. Elongated neck and limbs, modest pose recalling ancient sculpture, and soft cool light give it a harmonious, graceful beauty."
+          }
+        },
+        {
+          "id": "7.2",
+          "type": "open",
+          "q": "Mention the characteristic features of Rembrandt's painting and describe 'The Night Watch'.",
+          "answer": "Rembrandt was a Dutch realist who used mysterious play of light and shade to highlight the soul of the painting. The Night Watch (1640–42, Rijks Museum) shows a young captain in black with a red sash ordering his lieutenant to march the company; the lieutenant and a small girl wear yellow, the colour of victory; a dead white chicken stands for the defeated enemy and a drummer energises the march. It was thought a night scene because of dark varnish, which was removed in 1940.",
+          "years": [
+            "October 2022"
+          ]
+        },
+        {
+          "id": "7.3",
+          "type": "open",
+          "q": "Describe the painting 'Mona Lisa'.",
+          "answer": "Leonardo's Mona Lisa (oil on poplar wood, 16th century, Louvre) shows a woman with a mysterious smile that welcomes the observer. A pyramid design with the folded hands as the base, dramatic contrast of light and dark, a bright face framed by hair, veil and shadow, and a vast background of icy mountain, valley and curved river show the artist's vision of linking humanity with nature.",
+          "years": [
+            "October 2022"
+          ]
+        },
+        {
+          "id": "7.4",
+          "type": "open",
+          "q": "How did the Renaissance affect painters like Botticelli and Leonardo da Vinci?",
+          "answer": "The revival of classical ideals made them use anatomy, perspective and light: Botticelli painted classical goddess motifs inspired by Greek masterpieces, and Leonardo used scientific observation, pyramid composition and dramatic light and dark in works like Mona Lisa, The Last Supper and The Virgin of the Rocks.",
+          "years": [
+            "April 2022"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 8,
+      "title": "Long answer question. Answer in 70–80 words.",
+      "marks": "3 × 4 = 12",
+      "questions": [
+        {
+          "id": "8.1",
+          "type": "open",
+          "q": "Describe the sculpture 'Pieta' of Michelangelo with its structure and importance.",
+          "answer": "Pieta (1498–99) is Michelangelo's marble sculpture made from a single slab and kept at St Peter's, Rome. It shows the Virgin Mary seated, holding the dead body of Christ on her lap, in a pyramidal structure with two figures. Madonna is shown much younger than her son to express her purity. It balances Renaissance classical beauty with the artist's expression, has unique drapery movement and strong anatomy and is his most highly finished work."
+        },
+        {
+          "id": "8.2",
+          "type": "open",
+          "q": "Explain the painting 'Birth of Venus' by Sandro Botticelli.",
+          "answer": "Painted about 1486 in tempera on canvas (Uffizi, Florence), it shows the classical goddess Venus emerging from the water on a shell, a nude full-grown woman symbolising spiritual love, beauty and truth. A season goddess offers a flower-embroidered cloth, and wind gods float on the other side. Venus stands in the centre in a modest pose; the anatomy is elongated with a long neck and sloping shoulder; cool artificial light gives soft harmony."
+        },
+        {
+          "id": "8.3",
+          "type": "open",
+          "q": "Appreciate Leonardo da Vinci's 'Mona Lisa'.",
+          "answer": "Mona Lisa (oil on poplar wood, 16th century, Louvre) shows a seated woman with a mysterious smile that welcomes the observer, the smile more striking when we look at the eyes. The pyramid design with folded hands as base, the contrast of light and dark, the face framed by hair and veil, and the landscape of mountains, valley and river behind show Leonardo's vision of humanity and nature united."
+        }
+      ]
+    }
+  ]
+}

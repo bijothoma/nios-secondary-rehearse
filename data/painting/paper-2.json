@@ -1,0 +1,246 @@
+{
+  "subject": "painting",
+  "lesson": 902,
+  "title": "Model Question Paper 2",
+  "meta": "Time: 2 hours · Maximum marks: 30 · Modelled on the April 2026 NIOS paper",
+  "instructions": [
+    "All questions are compulsory. Where a question has OR, answer either one.",
+    "Section A: questions 1–6 are MCQs (1 mark each). Section B: question 7 (passage with five fill-in-the-blanks) and question 8 (passage with four true/false statements), 1 mark each part.",
+    "Section C: questions 9–12 carry 2 marks (30–40 words), question 13 carries 3 marks (50–60 words) and question 14 carries 4 marks (70–80 words).",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "6 × 1 = 6",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "The base of the Rampurva Bull Capital is —",
+          "options": [
+            "an inverted bell-shaped lotus",
+            "a square block",
+            "a pyramid",
+            "a wheel"
+          ],
+          "answer": "A",
+          "note": "Lesson 1."
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "The Sun temple at Konarka is built in the form of —",
+          "options": [
+            "a lotus",
+            "a chariot drawn by horses",
+            "a pyramid",
+            "a stupa"
+          ],
+          "answer": "B",
+          "note": "Lesson 2."
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "'Pieta' is kept in —",
+          "options": [
+            "St Peter's, Rome",
+            "Louvre, Paris",
+            "Rijks Museum",
+            "Uffizi"
+          ],
+          "answer": "A",
+          "note": "Lesson 5."
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "Picasso's 'Guernica' is based on —",
+          "options": [
+            "the Spanish Civil War",
+            "World War I",
+            "a still life",
+            "a portrait"
+          ],
+          "answer": "A",
+          "note": "Lesson 7."
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "'The Atrium' was painted by —",
+          "options": [
+            "Gaganendranath Tagore",
+            "Raja Ravi Varma",
+            "Nandalal Bose",
+            "Jamini Roy"
+          ],
+          "answer": "A",
+          "note": "Lesson 8."
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "Which Indian painter became blind in later life?",
+          "options": [
+            "Benode Behari Mukherjee",
+            "K.C.S. Panikar",
+            "Krishna Reddy",
+            "F.N. Souza"
+          ],
+          "answer": "A",
+          "note": "Lesson 9."
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Read the passage and fill in the blanks.",
+      "marks": "5 × 1 = 5",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "Under the British Raj, Indian art displayed a general ______.",
+          "answer": "decline",
+          "note": "Lesson 8."
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Miniatures were ousted by European ______ painting.",
+          "answer": "oil"
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "______ of Kerala was famous for mythological subjects and portraiture.",
+          "answer": "Raja Ravi Varma"
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "______ tried to recreate a new style in painting.",
+          "answer": "Abanindranath Tagore"
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "The ______ School emerged in the first half of the 20th century.",
+          "answer": "Bengal"
+        }
+      ],
+      "fixed": true,
+      "passage": "At the beginning of the 19th century under the influence of the British Raj, Indian art displayed a general decline. The craft and techniques of fresco and miniature paintings were nearly lost. Miniatures were ousted by European oil painting. Raja Ravi Varma of Kerala was famous for his paintings of mythological subjects and portraiture. His works showed western influence in his oil paintings. On the other hand, Abanindranath Tagore tried to recreate a new style in painting. Nandalal Bose, Benode Behari and a few others followed this newly awakened sense of nationalism. Thus emerged the Bengal School in the first half of the 20th century. (April 2026)"
+    },
+    {
+      "no": 3,
+      "title": "Read the passage and state whether each statement is true or false.",
+      "marks": "4 × 1 = 4",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "The Company School produced significant works in the British period.",
+          "answer": "True",
+          "note": "Lesson 8."
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "Raja Ravi Varma did not follow the western style.",
+          "answer": "False – he followed the western style while reviving Indian subjects."
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "The Bengal School was established in Santiniketan.",
+          "answer": "True"
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "Amrita Shergil followed a particular Indian school.",
+          "answer": "False – she did not follow any Indian school."
+        }
+      ],
+      "fixed": true,
+      "passage": "Modern Indian art is very much related to the history of the country and social conditions in which the artists developed their styles. We see the growth of different schools after the decline of British Raj. The British period produced significant works under the Company School. The Indian artists followed the European techniques in their paintings. Raja Ravi Varma served as a bridge to revive Indian subjects but followed western style. Later the Bengal School established in Santiniketan served as a centre of artistic development. Abanindranath Tagore and his disciples contributed on a large scale. The best and most individualistic painter was probably Amrita Shergil. She did not follow any Indian school. (April 2024)"
+    },
+    {
+      "no": 4,
+      "title": "Short questions. Answer in 30–40 words.",
+      "marks": "4 × 2 = 8",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "Write the characteristics of the Rampurva Bull Capital.",
+          "answer": "It is made of polished sandstone (Mauryan, 3rd century BC) with a bell-shaped inverted lotus as base, an abacus with plant designs and a majestic bull on top. The plain bull contrasts with the ornate lotus and abacus and shows the weight and power of the animal. Its extremely high polish is a main characteristic of Mauryan sculpture.",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Lesson 1."
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "Describe Arjuna's Penance in a few lines.",
+          "answer": "A Pallava relief (7th century AD) at Mamallapuram, about 91 ft x 152 ft, on two huge boulders with a cleft in between. Life-size gods, demigods, sages and animals face the cleft; some think it shows the descent of Ganga received by Shiva and others Arjuna's penance.",
+          "note": "Lesson 2."
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "Name two characteristics of the composition of 'Brahmacharies'.",
+          "answer": "It is composed on a horizontal plane with vertical placement of the five figures; a deep red background, white dhotis and a neutral greenish-grey foreground give a calm composition.",
+          "note": "Lesson 8."
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "What do you know about the 'Progressive Artists Group'? Name a few artists of this group.",
+          "answer": "The Progressive Artists Group of Bombay was formed in 1947 and exhibited its paintings that year; its artists included F.N. Souza, S.H. Raza, M.F. Hussain and K.H. Ara. They took western influences while searching for an Indian identity.",
+          "years": [
+            "April 2026",
+            "April 2023"
+          ],
+          "note": "Lesson 9."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Short answer question. Answer in 50–60 words.",
+      "marks": "1 × 3 = 3",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "Describe the painting 'Mona Lisa'.",
+          "answer": "Leonardo's Mona Lisa (oil on poplar wood, 16th century, Louvre) shows a woman with a mysterious smile that welcomes the observer. A pyramid design with the folded hands as the base, dramatic contrast of light and dark, a bright face framed by hair, veil and shadow, and a vast background of icy mountain, valley and curved river show the artist's vision of linking humanity with nature.",
+          "years": [
+            "October 2022"
+          ],
+          "note": "Lesson 5."
+        }
+      ]
+    },
+    {
+      "no": 6,
+      "title": "Long answer question. Answer in 70–80 words.",
+      "marks": "1 × 4 = 4",
+      "questions": [
+        {
+          "id": "6.1",
+          "type": "open",
+          "q": "Describe the Dancing Girl of the Indus Valley and its characteristics.",
+          "answer": "The Dancing Girl (metal, Harappan period, 2500 BC, Mohenjo-daro, about 4 inches, National Museum, New Delhi) is one of the finest examples of Indus Valley metal casting. The figure is lanky, thin and rhythmic. She is shown without clothes, with bangles from her wrist almost to the shoulder of her left arm, like tribal people of Gujarat and Rajasthan today. Her hair is tied in a bun, a contemporary style. She stands in a resting posture with the right hand at her waist and the left hand on her left thigh. The casting is perfect, and the little statue has great monumentality.",
+          "note": "Lesson 1."
+        }
+      ]
+    }
+  ]
+}

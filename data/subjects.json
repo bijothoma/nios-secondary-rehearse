@@ -1755,6 +1755,68 @@
           "file": "data/home-science/paper-3.json"
         }
       ]
+    },
+    {
+      "id": "painting",
+      "name": "Painting",
+      "label": "",
+      "level": "secondary",
+      "lessons": [
+        {
+          "no": 1,
+          "title": "History and Appreciation of Art (3000 BC to 600 AD)",
+          "file": "data/painting/lesson-1.json",
+          "summary": "data/painting/summary/lesson-1.json"
+        },
+        {
+          "no": 2,
+          "title": "History and Appreciation of Art (7th AD to 12th AD)",
+          "file": "data/painting/lesson-2.json",
+          "summary": "data/painting/summary/lesson-2.json"
+        },
+        {
+          "no": 5,
+          "title": "Renaissance",
+          "file": "data/painting/lesson-5.json",
+          "summary": "data/painting/summary/lesson-5.json"
+        },
+        {
+          "no": 7,
+          "title": "Cubism, Surrealism and Abstract Art",
+          "file": "data/painting/lesson-7.json",
+          "summary": "data/painting/summary/lesson-7.json"
+        },
+        {
+          "no": 8,
+          "title": "Pioneers of Contemporary Indian Art",
+          "file": "data/painting/lesson-8.json",
+          "summary": "data/painting/summary/lesson-8.json"
+        },
+        {
+          "no": 9,
+          "title": "Contemporary Indian Art",
+          "file": "data/painting/lesson-9.json",
+          "summary": "data/painting/summary/lesson-9.json"
+        },
+        {
+          "no": 901,
+          "tag": "Full paper",
+          "title": "Model Question Paper 1",
+          "file": "data/painting/paper-1.json"
+        },
+        {
+          "no": 902,
+          "tag": "Full paper",
+          "title": "Model Question Paper 2",
+          "file": "data/painting/paper-2.json"
+        },
+        {
+          "no": 903,
+          "tag": "Full paper",
+          "title": "Model Question Paper 3",
+          "file": "data/painting/paper-3.json"
+        }
+      ]
     }
   ]
 }
