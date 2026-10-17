@@ -255,15 +255,18 @@ function loadQuotes(subject, done) {
   }, finish);
 }
 
-// Full papers name each question's lesson in its note ("പാഠം 5: …") and may put the
-// lesson title in front of the question.
-var LESSON_TAG = /(?:^| · )(പാഠം (\d+): .*)$/;
+// Full papers name each question's lesson in its note ("പാഠം 5: …" or "पाठ 5: …") and may put
+// the lesson title in front of the question.
+var LESSON_TAG = /(?:^| · )((?:പാഠം|पाठ) (\d+): .*)$/;
 
 function quoteFor(subject, lessonMeta, q) {
   if (!subject.quoteMap) return null;
   var tag = q.note && q.note.match(LESSON_TAG);
   var text = q.type === 'match' ? q.left : q.q.replace(/^\(‘[^’]*’\) /, '');
-  return subject.quoteMap[(tag ? tag[2] : lessonMeta.no) + '|' + text] || null;
+  var extra = subject.quoteMap[(tag ? tag[2] : lessonMeta.no) + '|' + text];
+  if (!extra) return null;
+  extra.heads = subject.quoteHeads || ['പാഠഭാഗം', 'വിശദീകരണം'];
+  return extra;
 }
 
 // The explanation takes the place of the question's own short note; a lesson tag stays.
@@ -277,8 +280,8 @@ function quoteBlock(extra) {
   if (!extra) return null;
   return [
     extra.quote ? el('div', { 'class': 'quote' },
-      el('p', { 'class': 'quote-head' }, 'പാഠഭാഗം'), answerParas(extra.quote)) : null,
-    extra.note ? el('p', { 'class': 'explain' }, el('strong', {}, 'വിശദീകരണം: '), extra.note) : null
+      el('p', { 'class': 'quote-head' }, extra.heads[0]), answerParas(extra.quote)) : null,
+    extra.note ? el('p', { 'class': 'explain' }, el('strong', {}, extra.heads[1] + ': '), extra.note) : null
   ];
 }
 

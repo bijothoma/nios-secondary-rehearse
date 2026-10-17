@@ -1524,6 +1524,121 @@
           "file": "data/ecce/paper-3.json"
         }
       ]
+    },
+    {
+      "id": "hindi",
+      "name": "Hindi",
+      "label": "हिंदी",
+      "level": "secondary",
+      "quotes": "data/hindi/quotes.json",
+      "quoteHeads": [
+        "पाठ का अंश",
+        "व्याख्या"
+      ],
+      "lessons": [
+        {
+          "no": 1,
+          "title": "बहादुर",
+          "file": "data/hindi/lesson-1.json",
+          "summary": "data/hindi/summary/lesson-1.json"
+        },
+        {
+          "no": 2,
+          "title": "दोहे",
+          "file": "data/hindi/lesson-2.json",
+          "text": "data/hindi/text/lesson-2.json",
+          "summary": "data/hindi/summary/lesson-2.json"
+        },
+        {
+          "no": 4,
+          "title": "आह्वान",
+          "file": "data/hindi/lesson-4.json",
+          "text": "data/hindi/text/lesson-4.json",
+          "summary": "data/hindi/summary/lesson-4.json"
+        },
+        {
+          "no": 7,
+          "title": "आज़ादी",
+          "file": "data/hindi/lesson-7.json",
+          "summary": "data/hindi/summary/lesson-7.json"
+        },
+        {
+          "no": 8,
+          "title": "चंद्रगहना से लौटती बेर",
+          "file": "data/hindi/lesson-8.json",
+          "summary": "data/hindi/summary/lesson-8.json"
+        },
+        {
+          "no": 9,
+          "title": "अख़बार की दुनिया",
+          "file": "data/hindi/lesson-9.json",
+          "summary": "data/hindi/summary/lesson-9.json"
+        },
+        {
+          "no": 11,
+          "title": "सार-लेखन",
+          "file": "data/hindi/lesson-11.json",
+          "summary": "data/hindi/summary/lesson-11.json"
+        },
+        {
+          "no": 13,
+          "title": "सुखी राजकुमार",
+          "file": "data/hindi/lesson-13.json",
+          "summary": "data/hindi/summary/lesson-13.json"
+        },
+        {
+          "no": 14,
+          "title": "बूढ़ी पृथ्वी का दुख",
+          "file": "data/hindi/lesson-14.json",
+          "summary": "data/hindi/summary/lesson-14.json"
+        },
+        {
+          "no": 15,
+          "title": "अंधेर नगरी",
+          "file": "data/hindi/lesson-15.json",
+          "summary": "data/hindi/summary/lesson-15.json"
+        },
+        {
+          "no": 18,
+          "title": "नाखून क्यों बढ़ते हैं?",
+          "file": "data/hindi/lesson-18.json",
+          "summary": "data/hindi/summary/lesson-18.json"
+        },
+        {
+          "no": 19,
+          "title": "शतरंज के खिलाड़ी",
+          "file": "data/hindi/lesson-19.json",
+          "summary": "data/hindi/summary/lesson-19.json"
+        },
+        {
+          "no": 21,
+          "title": "पत्र कैसे लिखें",
+          "file": "data/hindi/lesson-21.json"
+        },
+        {
+          "no": 22,
+          "title": "निबंध कैसे लिखें",
+          "file": "data/hindi/lesson-22.json"
+        },
+        {
+          "no": 901,
+          "tag": "Full paper",
+          "title": "मॉडल प्रश्न-पत्र 1",
+          "file": "data/hindi/paper-1.json"
+        },
+        {
+          "no": 902,
+          "tag": "Full paper",
+          "title": "मॉडल प्रश्न-पत्र 2",
+          "file": "data/hindi/paper-2.json"
+        },
+        {
+          "no": 903,
+          "tag": "Full paper",
+          "title": "मॉडल प्रश्न-पत्र 3",
+          "file": "data/hindi/paper-3.json"
+        }
+      ]
     }
   ]
 }

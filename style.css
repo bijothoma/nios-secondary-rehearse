@@ -111,7 +111,7 @@ a.btn { display: inline-block; text-decoration: none; }
   border: 1px solid #dde1ea; border: 1px solid var(--border);
   border-radius: 12px; padding: 14px 16px; margin-bottom: 10px;
 }
-.q-text { margin: 0 0 10px; font-weight: 600; }
+.q-text { margin: 0 0 10px; font-weight: 600; white-space: pre-line; }
 .q-img { display: block; max-width: 100%; height: auto; margin: 0 0 12px; border: 1px solid #d0d5dd; border-radius: 6px; }
 .passage { white-space: pre-line; margin: 0 0 14px; padding: 12px 14px; border-left: 4px solid #d0d5dd; background: #f2f4f7; background: rgba(127,127,127,.08); border-radius: 6px; line-height: 1.6; }
 .or { margin: 6px 0; font-weight: 700; text-align: center; letter-spacing: .1em; }

@@ -123,6 +123,9 @@ question's own short note.
   `data/ecce/src/lesson-<n>.json` with `build_sci.py` (43 questions, 80 marks: 16 MCQs, a passage with six 1-mark
   questions, nine 2-mark objective questions, 6 very short, 6 short and 2 long answers). Only the 14 public-exam
   lessons of the NIOS syllabus bifurcation are included.
+- `tools/build_hindi.py`: builds Secondary Hindi (201) from `data/hindi/src/lesson-<n>.json` (37 questions, 100 marks:
+  27 objective in Section A, 10 descriptive in Section B). Lessons carry past-paper years, summaries have English
+  translations, and lesson passages/explanations show as quotes. Copyrighted texts and quotes stay in `local/`.
 - All of these builders share `build_question` in `tools/build_ss.py`. It marks an MCQ `fixed` (options
   keep their printed order instead of being shuffled) when an option refers to the others, such as
   "all of these", "none of the above" or "both (A) and (B)".
