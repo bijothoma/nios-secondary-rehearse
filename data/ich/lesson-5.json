@@ -1,0 +1,463 @@
+{
+  "subject": "ich",
+  "lesson": 5,
+  "title": "Modern India",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "20 × 1 = 20",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "By which of the following years did India become a good consumer of British goods?",
+          "options": [
+            "1713",
+            "1773",
+            "1813",
+            "1873"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2026",
+            "April 2025"
+          ]
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "In which year did Dalhousie open the first telegraph line?",
+          "options": [
+            "1803",
+            "1833",
+            "1853",
+            "1873"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "Why was the condition of women pathetic at the end of the 18th century in India?",
+          "options": [
+            "Their birth was considered unfortunate",
+            "Early marriages",
+            "Prevalence of polygamy",
+            "All of them"
+          ],
+          "answer": "D",
+          "fixed": true,
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "Why were widows not permitted to attend marriages in India?",
+          "options": [
+            "Because they liked to stay in seclusion",
+            "Because they had to be busy somewhere else",
+            "Because their presence was considered inauspicious",
+            "None of them"
+          ],
+          "answer": "C",
+          "fixed": true,
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "Saint Narayana Guru belonged to which state of India?",
+          "options": [
+            "Kerala",
+            "Maharashtra",
+            "Odisha",
+            "Rajasthan"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "Which social reformer organised the Shuddhi Movement?",
+          "options": [
+            "Raja Rammohan Roy",
+            "Jyotiba Phule",
+            "Swami Dayanand Saraswati",
+            "Swami Ramkrishna Paramhans"
+          ],
+          "answer": "C",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "Who among Indian rulers tried to use the rivalry between the French and the British?",
+          "options": [
+            "Tipu Sultan",
+            "Siraj-ud-daulah",
+            "Shivaji",
+            "Haider Ali's son Fateh"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "After which battle did the British become the real masters of Bengal?",
+          "options": [
+            "Battle of Plassey (1757)",
+            "Battle of Panipat",
+            "Battle of Buxar (1764)",
+            "Battle of Haldighati"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "The first railway line in India ran from —",
+          "options": [
+            "Bombay to Thane",
+            "Calcutta to Agra",
+            "Madras to Bangalore",
+            "Delhi to Lahore"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "Lithography was invented in —",
+          "options": [
+            "1798",
+            "1820",
+            "1853",
+            "1885"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "The slogan 'go back to the Vedas' was given by —",
+          "options": [
+            "Swami Dayanand",
+            "Raja Ram Mohan Roy",
+            "Vivekananda",
+            "Annie Besant"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "The Satya Shodhak Samaj was founded by —",
+          "options": [
+            "Jyotiba Phule",
+            "Ranade",
+            "Keshab Chandra Sen",
+            "Sir Syed"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.13",
+          "type": "mcq",
+          "q": "Who founded the Prarthana Samaj in 1867?",
+          "options": [
+            "Dr Atmaram Pandurang",
+            "Dayanand Saraswati",
+            "Vivekananda",
+            "Annie Besant"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.14",
+          "type": "mcq",
+          "q": "Who wrote the novel 'Anandamath'?",
+          "options": [
+            "Bankim Chandra",
+            "Dinabandhu Mitra",
+            "Bhartendu Harishchandra",
+            "Subramania Bharati"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.15",
+          "type": "mcq",
+          "q": "The Muhammadan Anglo-Oriental College at Aligarh was founded by —",
+          "options": [
+            "Sir Syed Ahmad Khan",
+            "Maulana Azad",
+            "Mohammad Iqbal",
+            "Badruddin Tyabji"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.16",
+          "type": "mcq",
+          "q": "The Indian National Congress was founded in 1885 by —",
+          "options": [
+            "A.O. Hume",
+            "Tilak",
+            "Gandhi",
+            "Gokhale"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.17",
+          "type": "mcq",
+          "q": "The Home Rule League at Madras was started by —",
+          "options": [
+            "Annie Besant",
+            "Tilak",
+            "Lajpat Rai",
+            "Bipin Chandra Pal"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.18",
+          "type": "mcq",
+          "q": "The Jallianwala Bagh massacre took place in —",
+          "options": [
+            "Amritsar, 1919",
+            "Lahore, 1920",
+            "Delhi, 1930",
+            "Kanpur, 1942"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.19",
+          "type": "mcq",
+          "q": "The Dandi March (Salt Satyagraha) began on —",
+          "options": [
+            "6 April 1930",
+            "10 March 1920",
+            "15 August 1947",
+            "9 August 1942"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.20",
+          "type": "mcq",
+          "q": "The Sharda Act of 1930 fixed the minimum age of marriage for girls at —",
+          "options": [
+            "14",
+            "16",
+            "18",
+            "21"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark (fill in the blanks, true/false, one word or phrase, match).",
+      "marks": "7 × 2 = 14",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "Answer in one word: (a) Who founded the Arya Samaj? (b) In which year was it founded?",
+          "answer": "(a) Swami Dayanand Saraswati. (b) 1875.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Answer in one word: (a) Who founded the Brahmo Samaj? (b) Who succeeded him as leader?",
+          "answer": "(a) Raja Ram Mohan Roy. (b) Debendranath Tagore."
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "Answer in one word: (a) What is the method of printing from a prepared stone surface called? (b) Who wrote Neeldarpan?",
+          "answer": "(a) Lithography. (b) Dinabandhu Mitra."
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Mark true or false: (a) The Arya Samaj opposed untouchability and polytheism. (b) Syed Ahmad Khan encouraged Muslims to join the national movement.",
+          "answer": "(a) True. (b) False – in later years he advised them not to join it."
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "Mark true or false: (a) Railways played a role in national awakening. (b) The East India Company's trade monopoly ended in 1813.",
+          "answer": "(a) True. (b) True."
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "Answer in a phrase: (a) Why did reformers use novels, dramas and poetry? (b) Why did reformers use Indian languages?",
+          "answer": "(a) To reach and awaken the common people. (b) To make their message understood by the masses."
+        },
+        {
+          "id": "2.7",
+          "type": "open",
+          "q": "Fill in the blanks: Gandhi's first triumph in India was the ______ Satyagraha. The Quit India Movement was launched in August ______.",
+          "answer": "Champaran; 1942."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Very short answer questions. Answer in about 25 words.",
+      "marks": "6 × 2 = 12",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "Why did the social reformers take up the cause of women on priority?",
+          "answer": "Modern education made them realise the deplorable condition of women – child marriage, polygamy, purdah, widowhood and illiteracy – and many practices were wrongly claimed to have religious sanction.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "Explain Sir Syed Ahmad Khan's role in education.",
+          "answer": "He started the Aligarh movement and the Muhammadan Anglo-Oriental College, which became Aligarh Muslim University, to give Muslims modern education in science and culture.",
+          "years": [
+            "October 2025",
+            "April 2026"
+          ]
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "Name two social evils which the Brahmo Samaj sought to abolish.",
+          "answer": "Sati, idol worship, polytheism, child marriage and caste rigidity (any two).",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "What is lithography? How did it help the growth of Indian languages?",
+          "answer": "Lithography, invented in 1798, is printing from a specially prepared stone surface; many copies could be printed cheaply, so presses, newspapers and books in Indian languages grew rapidly."
+        },
+        {
+          "id": "3.5",
+          "type": "open",
+          "q": "What was the contribution of Jyotiba Phule?",
+          "answer": "He opened a school for the lower castes and women, founded the Satya Shodhak Samaj in 1873 and worked for social justice for the so-called untouchables."
+        },
+        {
+          "id": "3.6",
+          "type": "open",
+          "q": "Why did India become an economic colony of industrial England by 1813?",
+          "answer": "The Company's monopoly ended in 1813, Indian handicrafts lost markets to cheap British machine goods with free entry into India, while Indian goods paid heavy duties in Britain; India became a consumer of British goods and supplier of raw materials."
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Short answer questions. Answer in 40–50 words.",
+      "marks": "4 × 3 = 12",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "Describe the condition of women in India at the end of the 18th century.",
+          "answer": "A girl's birth was thought unfortunate; girls were married in childhood and polygamy was allowed; women had no right to property or divorce; widows faced perpetual widowhood, could not wear coloured clothes or attend marriages; purdah and lack of education added to their hardship.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "Write about the Arya Samaj and Swami Dayanand.",
+          "answer": "Swami Dayanand, a scholar of Sanskrit and the Vedas, founded the Arya Samaj in 1875 to propagate the true knowledge of the Vedas ('go back to the Vedas') and remove later evils. He opposed idolatry, polytheism, untouchability and ritualism and supported women's education; his Satyartha Prakash is the main work; DAV schools began in 1886 and the Shuddhi movement reconverted Hindus.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "Explain the role of the press and newspapers in the national awakening.",
+          "answer": "Cheap printing led to journals and newspapers in every language and national literature such as Anandamath and Neeldarpan; the press shaped public opinion, criticised government policies, spread anti-British feeling and gave political education and pan-Indian consciousness."
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "Write a note on Pandita Ramabai or Narayana Guru.",
+          "answer": "Pandita Ramabai (1858–1922), a scholar, joined the Prarthana Samaj and started Sharda Sadan, a home for widows, in 1890. Narayana Guru (born 1854, Kerala) was a saint and reformer who worked with Chattambi Swamigal for social and religious progress and unity of communities."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Long answer questions. Answer in 150–200 words.",
+      "marks": "4 × 5 = 20",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "Explain the condition of trade and commerce of India during the 18th century.",
+          "answer": "Agriculture was the main occupation but constant wars prevented improvement. Foreign trade flourished under the Mughals: India imported pearls, raw silk, wool and dates from the Persian Gulf, coffee, gold, drugs and honey from Arabia, tea, porcelain and silk from China and luxury goods from Tibet, Singapore, Indonesia, Africa and Europe, and exported raw silk, silk fabrics, indigo, sugar, pepper and world-famous cotton textiles. In spite of a favourable balance of trade the economy could not improve because of warfare, revolts of Sikhs, Jats and Marathas and invasions of Nadir Shah (1739) and Abdali (1761). European powers added instability and eventually destroyed it, though India was famed for handicrafts.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "Explain the life and works of Swami Ramakrishna Paramhansa and Vivekananda.",
+          "answer": "Ramakrishna Paramhansa (Gadadhar Chattopadhyaya) taught the oneness of all religions and the equality of all. His disciple Swami Vivekananda gave final shape to his teachings and founded the Ramakrishna Mission to regenerate Indian society; he advocated liberty, free thinking and equality, promoted Vedanta as the most rational system of thought, and the Mission worked in education, relief and against caste.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "Describe the impact of the British on the Indian economy.",
+          "answer": "The British first took hold of trade, buying cheap from peasants through Seths and gomastas; then controlled production to suit exports and destroyed Indian industries; after Plassey they monopolised cotton and imposed heavy duties on Indian goods in Britain. By 1813 India was a consumer of British goods and supplier of raw materials; railways, steamships and telegraph served British trade. Indian handicrafts faced extinction.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "Write an essay on India's struggle for freedom (outline).",
+          "answer": "The Congress was founded in 1885 (Moderates); the Extremists (Lal, Bal, Pal) led Swadeshi and Boycott against the partition of Bengal (1905); Home Rule Leagues (1915–16); under Gandhi came Champaran, Non-cooperation, Khilafat, Civil Disobedience and the Dandi March (1930); Purna Swaraj was declared in 1929; the Quit India Movement was launched in 1942 and the INA fought under Subhas Bose; after the Cabinet Mission of 1946 India became free on 15 August 1947."
+        }
+      ]
+    }
+  ]
+}

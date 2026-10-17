@@ -1817,6 +1817,104 @@
           "file": "data/painting/paper-3.json"
         }
       ]
+    },
+    {
+      "id": "ich",
+      "name": "Indian Culture and Heritage",
+      "label": "",
+      "level": "secondary",
+      "lessons": [
+        {
+          "no": 1,
+          "title": "Culture: An Introduction",
+          "file": "data/ich/lesson-1.json",
+          "summary": "data/ich/summary/lesson-1.json"
+        },
+        {
+          "no": 4,
+          "title": "Medieval India",
+          "file": "data/ich/lesson-4.json",
+          "summary": "data/ich/summary/lesson-4.json"
+        },
+        {
+          "no": 5,
+          "title": "Modern India",
+          "file": "data/ich/lesson-5.json",
+          "summary": "data/ich/summary/lesson-5.json"
+        },
+        {
+          "no": 7,
+          "title": "Indian Languages and Literature-II",
+          "file": "data/ich/lesson-7.json",
+          "summary": "data/ich/summary/lesson-7.json"
+        },
+        {
+          "no": 10,
+          "title": "Religious Reform Movements in Modern India",
+          "file": "data/ich/lesson-10.json",
+          "summary": "data/ich/summary/lesson-10.json"
+        },
+        {
+          "no": 11,
+          "title": "Indian Painting",
+          "file": "data/ich/lesson-11.json",
+          "summary": "data/ich/summary/lesson-11.json"
+        },
+        {
+          "no": 12,
+          "title": "Performing Arts: Music, Dance and Drama",
+          "file": "data/ich/lesson-12.json",
+          "summary": "data/ich/summary/lesson-12.json"
+        },
+        {
+          "no": 16,
+          "title": "Science and Scientists of Medieval India",
+          "file": "data/ich/lesson-16.json",
+          "summary": "data/ich/summary/lesson-16.json"
+        },
+        {
+          "no": 17,
+          "title": "Scientists of Modern India",
+          "file": "data/ich/lesson-17.json",
+          "summary": "data/ich/summary/lesson-17.json"
+        },
+        {
+          "no": 18,
+          "title": "Education in India",
+          "file": "data/ich/lesson-18.json",
+          "summary": "data/ich/summary/lesson-18.json"
+        },
+        {
+          "no": 19,
+          "title": "Indian Social Structure",
+          "file": "data/ich/lesson-19.json",
+          "summary": "data/ich/summary/lesson-19.json"
+        },
+        {
+          "no": 21,
+          "title": "Spread of Indian Culture Abroad",
+          "file": "data/ich/lesson-21.json",
+          "summary": "data/ich/summary/lesson-21.json"
+        },
+        {
+          "no": 901,
+          "tag": "Full paper",
+          "title": "Model Question Paper 1",
+          "file": "data/ich/paper-1.json"
+        },
+        {
+          "no": 902,
+          "tag": "Full paper",
+          "title": "Model Question Paper 2",
+          "file": "data/ich/paper-2.json"
+        },
+        {
+          "no": 903,
+          "tag": "Full paper",
+          "title": "Model Question Paper 3",
+          "file": "data/ich/paper-3.json"
+        }
+      ]
     }
   ]
 }

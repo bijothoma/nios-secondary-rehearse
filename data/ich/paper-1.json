@@ -1,0 +1,573 @@
+{
+  "subject": "ich",
+  "lesson": 901,
+  "title": "Model Question Paper 1",
+  "meta": "Time: 3 hours · Maximum marks: 100 · Modelled on the April 2026 NIOS paper",
+  "instructions": [
+    "All questions are compulsory. Where a question has OR, answer either one.",
+    "Section A: questions 1–20 are MCQs (1 mark each). Section B: questions 21–35 are objective questions of 2 marks (two parts of 1 mark each).",
+    "Section C: questions 36–40 carry 2 marks (about 25 words); Section D: questions 41–45 carry 3 marks (40–50 words); Section E: questions 46–50 carry 5 marks (150–200 words).",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "20 × 1 = 20",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "The word 'culture' is derived from the Latin term —",
+          "options": [
+            "cult or cultus",
+            "kri",
+            "civis",
+            "cultura nova"
+          ],
+          "answer": "A",
+          "note": "Lesson 1."
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "The best mark of a cultured person is —",
+          "options": [
+            "ostentatious wealth",
+            "self restraint and consideration for others",
+            "fashionable dress",
+            "high position"
+          ],
+          "answer": "B",
+          "note": "Lesson 1."
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "Why do we find features of Persian court culture in the courts of medieval India?",
+          "options": [
+            "Because Hindu rulers liked them",
+            "Because British rulers liked them",
+            "Turks brought it with them during the medieval period",
+            "None of them"
+          ],
+          "answer": "C",
+          "fixed": true,
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 4."
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "Tulsidas wrote the Ramcharita Manas, an example of —",
+          "options": [
+            "saguna bhakti",
+            "nirguna bhakti",
+            "Sufi poetry",
+            "Persian literature"
+          ],
+          "answer": "A",
+          "note": "Lesson 4."
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "Why were widows not permitted to attend marriages in India?",
+          "options": [
+            "Because they liked to stay in seclusion",
+            "Because they had to be busy somewhere else",
+            "Because their presence was considered inauspicious",
+            "None of them"
+          ],
+          "answer": "C",
+          "fixed": true,
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 5."
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "The Home Rule League at Madras was started by —",
+          "options": [
+            "Annie Besant",
+            "Tilak",
+            "Lajpat Rai",
+            "Bipin Chandra Pal"
+          ],
+          "answer": "A",
+          "note": "Lesson 5."
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "Which of the following languages was used by Amir Khusro?",
+          "options": [
+            "Khadiboli",
+            "Punjabi",
+            "Brajbhasha",
+            "Avadhi"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 7."
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "The Baptist Mission Press was established in 1800 at —",
+          "options": [
+            "Serampore",
+            "Calcutta",
+            "Madras",
+            "Bombay"
+          ],
+          "answer": "A",
+          "note": "Lesson 7."
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "Who succeeded Raja Rammohan Roy as the leader of the Brahmo Samaj?",
+          "options": [
+            "Debendranath Tagore",
+            "Keshub Chandra Sen",
+            "Ranade",
+            "Vidyasagar"
+          ],
+          "answer": "A",
+          "note": "Lesson 10."
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "The Muhammadan Literary Society was founded in Calcutta in 1863 by —",
+          "options": [
+            "Nawab Abdul Latif",
+            "Sir Syed Ahmad Khan",
+            "Shah Waliullah",
+            "Iqbal"
+          ],
+          "answer": "A",
+          "note": "Lesson 10."
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "Which colour used in ancient painting came from outside India?",
+          "options": [
+            "Lapis lazuli blue",
+            "Red ochre",
+            "Lampblack",
+            "Chalk white"
+          ],
+          "answer": "A",
+          "note": "Lesson 11."
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "Kalighat painting was done by —",
+          "options": [
+            "Patua painters",
+            "Gond tribe",
+            "Warli tribe",
+            "Jain monks"
+          ],
+          "answer": "A",
+          "note": "Lesson 11."
+        },
+        {
+          "id": "1.13",
+          "type": "mcq",
+          "q": "Who wrote Kitab-i-Nauras?",
+          "options": [
+            "Ibrahim Adil Shah II",
+            "Tansen",
+            "Amir Khusrau",
+            "Baz Bahadur"
+          ],
+          "answer": "A",
+          "note": "Lesson 12."
+        },
+        {
+          "id": "1.14",
+          "type": "mcq",
+          "q": "Who wrote 'Swapnavasavadatta'?",
+          "options": [
+            "Bhasa",
+            "Kalidasa",
+            "Bana Bhatta",
+            "Jaishankar Prasad"
+          ],
+          "answer": "A",
+          "note": "Lesson 12."
+        },
+        {
+          "id": "1.15",
+          "type": "mcq",
+          "q": "Who developed the astronomical instrument Yantraraja?",
+          "options": [
+            "Mahendra Suri",
+            "Nilakantha",
+            "Kamalakara",
+            "Jai Singh"
+          ],
+          "answer": "A",
+          "note": "Lesson 16."
+        },
+        {
+          "id": "1.16",
+          "type": "mcq",
+          "q": "Which of the following books tells us the formula to make gunpowder?",
+          "options": [
+            "Shukraniti",
+            "Lilavati Karmdipika",
+            "Budhvilasini",
+            "Tantrasamgraha"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 16."
+        },
+        {
+          "id": "1.17",
+          "type": "mcq",
+          "q": "What attracted Raman's curiosity on his voyage to England?",
+          "options": [
+            "The blue colour of the sea",
+            "The speed of the ship",
+            "Ocean tides",
+            "Stars"
+          ],
+          "answer": "A",
+          "note": "Lesson 17."
+        },
+        {
+          "id": "1.18",
+          "type": "mcq",
+          "q": "Nalanda University was headed by which renowned scholar at the time of Hiuen Tsang?",
+          "options": [
+            "Shilabhadra",
+            "Dharmapala",
+            "Kamalashila",
+            "Fa-Hien"
+          ],
+          "answer": "A",
+          "note": "Lesson 18."
+        },
+        {
+          "id": "1.19",
+          "type": "mcq",
+          "q": "Who could not find slaves in India though slavery existed?",
+          "options": [
+            "Megasthenes",
+            "Fa-Hien",
+            "Hiuen Tsang",
+            "Ibn Battuta"
+          ],
+          "answer": "A",
+          "note": "Lesson 19."
+        },
+        {
+          "id": "1.20",
+          "type": "mcq",
+          "q": "Which kingdom was a flourishing centre of Indian culture in Central Asia where the Silk Route divided?",
+          "options": [
+            "Kuchi",
+            "Khotan",
+            "Kashgar",
+            "Samarkand"
+          ],
+          "answer": "A",
+          "note": "Lesson 21."
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark (fill in the blanks, true/false, one word or phrase, match).",
+      "marks": "15 × 2 = 30",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "Mark true or false: (a) Culture is not the way of life. (b) Culture is the embodiment of the way in which we think and do things.",
+          "answer": "(a) False. (b) True.",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 1."
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Fill in the blanks: The Bhakti and ______ movements emerged in medieval India. Both held that ______ is supreme and all men are equal to him.",
+          "answer": "Sufi; God.",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 4."
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "Answer in a phrase: (a) Why did reformers use novels, dramas and poetry? (b) Why did reformers use Indian languages?",
+          "answer": "(a) To reach and awaken the common people. (b) To make their message understood by the masses.",
+          "note": "Lesson 5."
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Give reasons in short phrases: Why do the scripts of Hindi, Gujarati and Punjabi bear similarities? Give two reasons.",
+          "answer": "All three originated from the old Brahmi script; they changed slowly over a long period from the same source.",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 7."
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "Fill in the blanks: (a) ______ Despatch of 1854 led to universities. (b) The three universities of Calcutta, Madras and Bombay were established in ______.",
+          "answer": "(a) Wood's. (b) 1857.",
+          "note": "Lesson 7."
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "Fill in the blanks: In the ______ century and especially after 1919 the ______ national movement became the main propagator of social reforms.",
+          "answer": "twentieth; Indian.",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 10."
+        },
+        {
+          "id": "2.7",
+          "type": "open",
+          "q": "Mark true or false: (a) Religious reforms among Sikhs were started in the twentieth century. (b) The Khalsa College of Amritsar was founded in 1892.",
+          "answer": "(a) False – they began at the end of the 19th century. (b) True.",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 10."
+        },
+        {
+          "id": "2.8",
+          "type": "open",
+          "q": "Fill in the blanks: Mithila paintings are made on ______ treated paper with vegetable colours and finished in ______ lines.",
+          "answer": "cow-dung; black.",
+          "note": "Lesson 11."
+        },
+        {
+          "id": "2.9",
+          "type": "open",
+          "q": "Mark true or false: (a) Warli painting uses religious iconography. (b) Phad is a scroll painting.",
+          "answer": "(a) False – it is a secular art form. (b) True.",
+          "note": "Lesson 11."
+        },
+        {
+          "id": "2.10",
+          "type": "open",
+          "q": "Mark true or false: (a) Kathak was promoted by Muslim rulers in the medieval period. (b) Aurangzeb was a great patron of Kathak.",
+          "answer": "(a) True. (b) False.",
+          "note": "Lesson 12."
+        },
+        {
+          "id": "2.11",
+          "type": "open",
+          "q": "Answer in a phrase: (a) What were the two functions of karkhanas? (b) Name two subjects in the primary curriculum.",
+          "answer": "(a) Manufacturing and technical–vocational training. (b) Arithmetic and mensuration (also geometry, agriculture).",
+          "note": "Lesson 16."
+        },
+        {
+          "id": "2.12",
+          "type": "open",
+          "q": "Answer in a phrase: (a) How did Vikram Sarabhai save crores of rupees? (b) Name two institutions he founded.",
+          "answer": "(a) By manufacturing military hardware and antibiotics and penicillin in India. (b) Indian Institutes of Management; the Ahmedabad Textile Industry research association (TERLS also).",
+          "note": "Lesson 17."
+        },
+        {
+          "id": "2.13",
+          "type": "open",
+          "q": "Fill in the blanks: Learning in the Gurukul began with the ______ ceremony. The relationship was called the ______ parampara.",
+          "answer": "Upanayana; guru–shishya.",
+          "note": "Lesson 18."
+        },
+        {
+          "id": "2.14",
+          "type": "open",
+          "q": "Mark true or false: (a) Joint families may be matrilineal in Kerala. (b) Hindu Acts of 1955–56 govern Muslims.",
+          "answer": "(a) True. (b) False – they govern Hindus, Buddhists, Sikhs and Jains.",
+          "note": "Lesson 19."
+        },
+        {
+          "id": "2.15",
+          "type": "open",
+          "q": "Fill in the blanks: The Arabs called Indian mathematics ______. They admired the decimal system with ______.",
+          "answer": "hindisa; zero.",
+          "note": "Lesson 21."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Very short answer questions. Answer in about 25 words.",
+      "marks": "5 × 2 = 10",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "Write any two brief characteristic features of Patachitras.",
+          "answer": "They are mostly painted on cloth and are highly detailed, similar to the Kalighat pats; they depict religious and mythological themes.",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 11."
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "What was the contribution of Baz Bahadur and Rupmati to music?",
+          "answer": "The legendary ruler of Malwa and his wife introduced new ragas.",
+          "note": "Lesson 12."
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "Name any two Persian medical works of the medieval period.",
+          "answer": "Tibb-i-Firozshahi, Tibbi Aurangzebi, Majiny-e-Diyae and Mualajat-i-Dara Shikohi.",
+          "note": "Lesson 16."
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "How did Kalam's research help the polio-affected?",
+          "answer": "Light carbon material designed for Agni reduced the weight of calipers from 4 kg to 400 g.",
+          "note": "Lesson 17."
+        },
+        {
+          "id": "3.5",
+          "type": "open",
+          "q": "How does the Right to Education Act help in the spread of education in India?",
+          "answer": "It makes elementary education free and compulsory for children aged 6–14 in a neighbourhood school; local authorities identify drop-outs and admit them in age-appropriate classes with special training.",
+          "years": [
+            "April 2025"
+          ],
+          "or": {
+            "q": "Explain how school management or local authorities can help in implementing the RTE Act.",
+            "answer": "They identify drop-outs and out-of-school children above six years and admit them to classes appropriate to their age after special training."
+          },
+          "note": "Lesson 18."
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Short answer questions. Answer in 40–50 words.",
+      "marks": "5 × 3 = 15",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "Explain the link between culture and heritage.",
+          "answer": "Culture develops through history as ancestors add and drop traits; what we inherit from them is our cultural heritage, which includes monuments, artefacts, knowledge, philosophy and scriptures; culture may change but the heritage remains.",
+          "note": "Lesson 1."
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "Explain the main features of the Bhakti movement.",
+          "answer": "Oneness of God and brotherhood of all human beings without discrimination of caste or gender; surrender to God, who is all-pervasive; intense personal devotion with a good moral life; the guru as spiritual guide with the pahul system; condemned rituals and sacrifices and used local languages.",
+          "note": "April 2022 (8 marks) asked for the development of the Bhakti movement. Lesson 4."
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "Mention any three features of the education system under the Mughals.",
+          "answer": "Education through pathshalas, vidyapeeths, makhtabs and madrasas; temples and mosques as centres of elementary education teaching Sanskrit and Persian, supported by donations; Akbar added accountancy, public administration and geometry, gave grants and built a workshop; no formal women's education.",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Lesson 18."
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "Explain the four purusharthas and ashramas.",
+          "answer": "The aims of life are dharma, artha, kama and moksha. For these a life is divided into brahmacharya (education), grihastha (family life and livelihood), vanaprastha (retirement and detachment) and sanyasa (renunciation).",
+          "note": "Lesson 19."
+        },
+        {
+          "id": "4.5",
+          "type": "open",
+          "q": "Describe India's contacts with the Roman Empire.",
+          "answer": "In the first three centuries AD, South India had profitable sea trade with Rome, exporting pepper, spices, gems, pearls, ivory, silk and muslin; Roman coins were found at Coimbatore and Madurai; trade brought gold and gave the Kushanas a stable gold currency; yavanas guarded Tamil kings and ports at Sopara, Broach and Kaveripattinam handled the trade.",
+          "note": "Lesson 21."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Long answer questions. Answer in 150–200 words.",
+      "marks": "5 × 5 = 25",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "Explain the development of the Bhakti movement and its role in enriching Indian culture.",
+          "answer": "Islam's message of equality challenged the rigid caste society and gave rise to the Bhakti movement (14th–16th centuries). Saints from Alvars and Nayanars in the south, Ramanuja, Ramananda, Kabir, Nanak, Chaitanya, Mirabai, Namdev, Tulsidas and Surdas taught the oneness of God, devotion over ritual, equality and brotherhood. It split into nirguna and saguna streams. Their poetry in local languages (geet, qawali) united people and stimulated regional languages; Sikhism grew out of its nirguna branch.",
+          "years": [
+            "April 2022"
+          ],
+          "note": "Lesson 4."
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "Describe the impact of the British on the Indian economy.",
+          "answer": "The British first took hold of trade, buying cheap from peasants through Seths and gomastas; then controlled production to suit exports and destroyed Indian industries; after Plassey they monopolised cotton and imposed heavy duties on Indian goods in Britain. By 1813 India was a consumer of British goods and supplier of raw materials; railways, steamships and telegraph served British trade. Indian handicrafts faced extinction.",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 5."
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "Explain the contribution of Christian missionaries and the press to Indian languages and literature.",
+          "answer": "Missionaries produced dictionaries and grammars (e.g. William Carey's Bengali grammar and dictionary), introduced lithographic presses that published local-language books and journals, and opened schools and colleges teaching local languages. This created an educated class that wanted to read, enriched vocabulary with new words and helped literature, newspapers and nationalism to grow.",
+          "note": "Lesson 7."
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "Write about the impact of the reform movements on Indian society.",
+          "answer": "Laws were passed against sati (1829), infanticide, for widow remarriage (1856), inter-caste marriage (1872) and the Sharda Act (1929). After 1919 the national movement propagated reform using Indian languages, novels, drama, the press and the cinema; women's education grew and purdah and child marriage declined, women joined the freedom struggle and many superstitions disappeared.",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 10."
+        },
+        {
+          "id": "5.5",
+          "type": "open",
+          "q": "Explain the contribution of the Mughals to painting.",
+          "answer": "The Mughals began a new era by synthesising Indian painting with the Persian tradition. Humayun brought Persian painters; Akbar patronised Hindu and Persian artists, recorded their names and produced illustrated manuscripts and portraits; Jahangir, himself a connoisseur, took the art to its zenith with vibrant colours and a three-dimensional effect, while Mansur painted birds and animals; Dara Shikoh patronised painting; Mughal court painters introduced landscapes with human figures and signed miniatures.",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 11."
+        }
+      ]
+    }
+  ]
+}

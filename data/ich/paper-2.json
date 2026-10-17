@@ -1,0 +1,582 @@
+{
+  "subject": "ich",
+  "lesson": 902,
+  "title": "Model Question Paper 2",
+  "meta": "Time: 3 hours · Maximum marks: 100 · Modelled on the April 2026 NIOS paper",
+  "instructions": [
+    "All questions are compulsory. Where a question has OR, answer either one.",
+    "Section A: questions 1–20 are MCQs (1 mark each). Section B: questions 21–35 are objective questions of 2 marks (two parts of 1 mark each).",
+    "Section C: questions 36–40 carry 2 marks (about 25 words); Section D: questions 41–45 carry 3 marks (40–50 words); Section E: questions 46–50 carry 5 marks (150–200 words).",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "20 × 1 = 20",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "Which of these is NOT part of cultural heritage?",
+          "options": [
+            "Taj Mahal",
+            "Vedas and Upanishads",
+            "Sanchi Stupa",
+            "A modern private fashion trend"
+          ],
+          "answer": "D",
+          "note": "Lesson 1."
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "Which of these contributions belongs to Patanjali?",
+          "options": [
+            "Yoga",
+            "Chemistry",
+            "Astronomy",
+            "Medicine"
+          ],
+          "answer": "A",
+          "note": "Lesson 1."
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "The author of the Ain-i-Akbari was —",
+          "options": [
+            "Abul Fazl",
+            "Badayuni",
+            "Faizi",
+            "Amir Khusrau"
+          ],
+          "answer": "A",
+          "note": "Lesson 4."
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "Why did the art of painting flourish in the reign of Jahangir?",
+          "options": [
+            "He was a great patron of painters",
+            "He was a great painter himself",
+            "He was a keen judge of paintings",
+            "All of them"
+          ],
+          "answer": "D",
+          "fixed": true,
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 4."
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "The slogan 'go back to the Vedas' was given by —",
+          "options": [
+            "Swami Dayanand",
+            "Raja Ram Mohan Roy",
+            "Vivekananda",
+            "Annie Besant"
+          ],
+          "answer": "A",
+          "note": "Lesson 5."
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "Which social reformer organised the Shuddhi Movement?",
+          "options": [
+            "Raja Rammohan Roy",
+            "Jyotiba Phule",
+            "Swami Dayanand Saraswati",
+            "Swami Ramkrishna Paramhans"
+          ],
+          "answer": "C",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 5."
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "Who is regarded as the earliest Urdu poet?",
+          "options": [
+            "Amir Khusrau",
+            "Ghalib",
+            "Iqbal",
+            "Zauq"
+          ],
+          "answer": "A",
+          "note": "Lesson 7."
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "Ram Charit Manas is written in which language?",
+          "options": [
+            "Marathi",
+            "Avadhi",
+            "Gujarati",
+            "Brajbhasha"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 7."
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "The suddhi movement of the Arya Samaj was meant for —",
+          "options": [
+            "reconverting Hindus who had become Muslims or Christians",
+            "converting Hindus to Buddhism",
+            "reforming Parsis",
+            "opening schools"
+          ],
+          "answer": "A",
+          "note": "Lesson 10."
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "In which year was the Brahmo Sabha founded by Raja Rammohan Roy?",
+          "options": [
+            "1828",
+            "1857",
+            "1875",
+            "1893"
+          ],
+          "answer": "A",
+          "note": "Lesson 10."
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "The Progressive Artists Group was formed in Bombay under —",
+          "options": [
+            "F.N. Souza",
+            "M.F. Hussain",
+            "S.H. Raza",
+            "K.H. Ara"
+          ],
+          "answer": "A",
+          "note": "Lesson 11."
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "Sittanavasal paintings are connected with —",
+          "options": [
+            "Jain themes",
+            "Buddhist themes",
+            "Mughal themes",
+            "Christian themes"
+          ],
+          "answer": "A",
+          "note": "Lesson 11."
+        },
+        {
+          "id": "1.13",
+          "type": "mcq",
+          "q": "Bhatiali is a folk song of —",
+          "options": [
+            "Bengal",
+            "Rajasthan",
+            "Punjab",
+            "Gujarat"
+          ],
+          "answer": "A",
+          "note": "Lesson 12."
+        },
+        {
+          "id": "1.14",
+          "type": "mcq",
+          "q": "Sangita Ratnakara mentions how many ragas?",
+          "options": [
+            "264",
+            "108",
+            "72",
+            "36"
+          ],
+          "answer": "A",
+          "note": "Lesson 12."
+        },
+        {
+          "id": "1.15",
+          "type": "mcq",
+          "q": "The Persian wheel was used for irrigation in the —",
+          "options": [
+            "Agra region",
+            "Bengal delta",
+            "Kerala backwaters",
+            "Deccan plateau"
+          ],
+          "answer": "A",
+          "note": "Lesson 16."
+        },
+        {
+          "id": "1.16",
+          "type": "mcq",
+          "q": "TERLS stands for —",
+          "options": [
+            "Thumba Equatorial Rocket Launching Station",
+            "Tata Engineering Research Laboratory Station",
+            "Technical Rocket Launch System",
+            "Trombay Experimental Reactor Lab Site"
+          ],
+          "answer": "A",
+          "note": "Lesson 17."
+        },
+        {
+          "id": "1.17",
+          "type": "mcq",
+          "q": "Which Mughal emperor introduced mathematics, astronomy and geography in madrasas of Delhi?",
+          "options": [
+            "Humayun",
+            "Babur",
+            "Aurangzeb",
+            "Jahangir"
+          ],
+          "answer": "A",
+          "note": "Lesson 18."
+        },
+        {
+          "id": "1.18",
+          "type": "mcq",
+          "q": "Matrilineal families are found in —",
+          "options": [
+            "Kerala and Meghalaya",
+            "Punjab and Haryana",
+            "Bengal and Bihar",
+            "Gujarat and Rajasthan"
+          ],
+          "answer": "A",
+          "note": "Lesson 19."
+        },
+        {
+          "id": "1.19",
+          "type": "mcq",
+          "q": "Which Indian island names were called Suvarnadvipa?",
+          "options": [
+            "Java, Sumatra and Malaya",
+            "Sri Lanka and Maldives",
+            "Andaman and Nicobar",
+            "Lakshadweep"
+          ],
+          "answer": "A",
+          "note": "Lesson 21."
+        },
+        {
+          "id": "1.20",
+          "type": "mcq",
+          "q": "Thailand was called ______ till 1939.",
+          "options": [
+            "Siam",
+            "Champa",
+            "Kambuja",
+            "Annam"
+          ],
+          "answer": "A",
+          "note": "Lesson 21."
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark (fill in the blanks, true/false, one word or phrase, match).",
+      "marks": "15 × 2 = 30",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "Mark true or false: (a) Some knowledge, thoughts or traditions are lost when new cultural traits are added. (b) There are possibilities of cultural change within a particular culture as time passes.",
+          "answer": "(a) True. (b) True.",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 1."
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Mark true or false: (a) Kabir was a disciple of Ramananda. (b) Guru Nanak supported idol worship.",
+          "answer": "(a) True. (b) False – he denounced it.",
+          "note": "Lesson 4."
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "Answer in one word: (a) Who founded the Arya Samaj? (b) In which year was it founded?",
+          "answer": "(a) Swami Dayanand Saraswati. (b) 1875.",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 5."
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Mark true or false: (a) Railways played a role in national awakening. (b) The East India Company's trade monopoly ended in 1813.",
+          "answer": "(a) True. (b) True.",
+          "note": "Lesson 5."
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "Fill in the blanks: (a) Tulsidas used the ______ dialect. (b) Surdas used the ______ dialect.",
+          "answer": "(a) Avadhi. (b) Braj.",
+          "years": [
+            "October 2023"
+          ],
+          "note": "Lesson 7."
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "Mark true or false: (a) Prithviraj Raso is considered the first Hindi book. (b) Tulsidas described Rama as a human being.",
+          "answer": "(a) True. (b) False – he deified Rama.",
+          "note": "Lesson 7."
+        },
+        {
+          "id": "2.7",
+          "type": "open",
+          "q": "Mark true or false: (a) Vidyasagar promoted girls' education. (b) Derozio was a follower of the Brahmo Samaj.",
+          "answer": "(a) True. (b) False – he led the Young Bengal movement.",
+          "note": "Lesson 10."
+        },
+        {
+          "id": "2.8",
+          "type": "open",
+          "q": "Answer in a phrase: (a) Who founded the Ramakrishna Mission? (b) Who was Ramakrishna's original name?",
+          "answer": "(a) Swami Vivekananda. (b) Gadadhar Chattopadhyaya.",
+          "note": "Lesson 10."
+        },
+        {
+          "id": "2.9",
+          "type": "open",
+          "q": "Answer in a phrase: (a) Which tribe is famous for Warli painting? (b) What material is used for the white colour?",
+          "answer": "(a) The Warli tribe (decorating homes of gond and kol tribes). (b) Rice paste.",
+          "note": "Lesson 11."
+        },
+        {
+          "id": "2.10",
+          "type": "open",
+          "q": "Match two (distracters present): Meghadutam – Kalidasa; Andher Nagri – Bharatendu; Chandragupta – Kalidasa; Harshacharita – Bhasa. Give two correct pairs.",
+          "answer": "Meghadutam – Kalidasa; Andher Nagri – Bharatendu.",
+          "note": "Lesson 12."
+        },
+        {
+          "id": "2.11",
+          "type": "open",
+          "q": "Mark true or false: (a) Madrasas followed a set curriculum. (b) Most scientific works of this period were commentaries on earlier works.",
+          "answer": "(a) True. (b) True.",
+          "note": "Lesson 16."
+        },
+        {
+          "id": "2.12",
+          "type": "open",
+          "q": "Mark true or false: (a) Cosmic rays are streams of energy particles from space. (b) Sarabhai studied cosmic rays under Bhabha.",
+          "answer": "(a) True. (b) False – under C.V. Raman.",
+          "note": "Lesson 17."
+        },
+        {
+          "id": "2.13",
+          "type": "open",
+          "q": "Fill in the blanks: Literacy rate in 2011 was ______ per cent. The age group for adult education is ______ years.",
+          "answer": "74.0; 15–35.",
+          "note": "Lesson 18."
+        },
+        {
+          "id": "2.14",
+          "type": "open",
+          "q": "Mark true or false: (a) All members are related to each other by blood in a tribe. (b) All members of a tribe are not equal.",
+          "answer": "(a) True. (b) False – all members are equal in status.",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 19."
+        },
+        {
+          "id": "2.15",
+          "type": "open",
+          "q": "Answer in a phrase: Why are the written syllables and mantras called Shittan in Japanese?",
+          "answer": "Shittan is believed to be Siddham, the script that gives siddhi (accomplishment).",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 21."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Very short answer questions. Answer in about 25 words.",
+      "marks": "5 × 2 = 10",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "Why were only a few laws related to women passed by the British government?",
+          "answer": "The British wanted to appease the orthodox upper sections of society.",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 10."
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "Describe any two features of Kalighat painting.",
+          "answer": "It was painted on paper in water colours with clear sweeping lines, bright colours and a plain background; subjects were gods and goddesses and later social life of Bengal such as babus and courtesans.",
+          "years": [
+            "October 2022"
+          ],
+          "note": "Lesson 11."
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "State two similarities between Hindustani and Carnatic music.",
+          "answer": "Carnatic alapana is like Hindustani alap, tillana is like tarana, and both lay stress on tala.",
+          "note": "Lesson 12."
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "Who were the Parameshvara and Mahabhaskariya families?",
+          "answer": "Famous families of astronomers and almanac-makers of Kerala.",
+          "years": [
+            "April 2022"
+          ],
+          "note": "Lesson 16."
+        },
+        {
+          "id": "3.5",
+          "type": "open",
+          "q": "What was Vikram Sarabhai's contribution to space research?",
+          "answer": "He chaired INCOSPAR, set up TERLS at Thumba and was the main person behind India's first satellite Aryabhata.",
+          "note": "Lesson 17."
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Short answer questions. Answer in 40–50 words.",
+      "marks": "5 × 3 = 15",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "What is popular culture? Explain.",
+          "answer": "Popular culture is the culture of the masses – music, films, dress, festivals and entertainment shared and enjoyed by large numbers of people in daily life.",
+          "years": [
+            "October 2023"
+          ],
+          "note": "October 2023 asked this as a 2-mark question. Lesson 1."
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "Describe the achievements of J.C. Bose.",
+          "answer": "He studied electric waves and was knighted (1917) and became FRS (1920); he invented the Crescograph recording plant growth; his instruments showed that metals respond to stimuli and tire; and he invented the first wireless coherer before Marconi.",
+          "note": "Lesson 17."
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "Explain the role of Wood's Despatch of 1854.",
+          "answer": "It stated the objective of spreading European arts, sciences, philosophy and literature through English or modern Indian languages and proposed universities in Bombay, Madras and Calcutta, grants-in-aid, teacher training and women's education; the universities were set up in 1857.",
+          "note": "Lesson 18."
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "Discuss any three major problems of tribal people living in the North Zone of India.",
+          "answer": "Inaccessibility of their hilly areas, lack of communication and roads, poverty and illiteracy, and land alienation; the tribes include Khasa, Tharu, Bhoksa, Bhotias, Gujjars and Jaunsaris.",
+          "years": [
+            "April 2026"
+          ],
+          "or": {
+            "q": "Discuss any three major problems of tribal people living in the North-East Zone of India.",
+            "answer": "Ecological degradation from shifting cultivation, inaccessibility and lack of communication, and isolation that created hostility to the mainstream."
+          },
+          "note": "Lesson 19."
+        },
+        {
+          "id": "4.5",
+          "type": "open",
+          "q": "Describe three facts about the University of Odantapuri.",
+          "answer": "It was in Bihar; it grew in stature under the Pala kings; many monks migrated from it and settled in Tibet, where a monastery was founded on its model (by Jnanabhadra).",
+          "years": [
+            "October 2025"
+          ],
+          "or": {
+            "q": "Describe the contributions of Acharya Kamalashila.",
+            "answer": "He was a scholar of Nalanda invited by the king of Tibet to spread Buddhism; after his death the Tibetans embalmed his body and kept it in a monastery in Lhasa."
+          },
+          "note": "Lesson 21."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Long answer questions. Answer in 150–200 words.",
+      "marks": "5 × 5 = 25",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "What are the universal characteristics of culture? Illustrate with examples.",
+          "answer": "Culture is learned and acquired (we learn language and manners from family); shared by a group; cumulative (knowledge is added over generations); changing and dynamic (new ideas and techniques replace old, e.g. dress); gives a range of permissible behaviour (how to greet elders); diverse with interdependent parts; and ideational, laying down ideal behaviour for social acceptance.",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Lesson 1."
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "Describe Mughal painting and its development from Humayun to Aurangzeb.",
+          "answer": "Humayun brought Persian painters (Mir Sayid Ali, Abdus Samad) who nurtured manuscript painting such as Dastan-e-Amir Hamza with about 1200 paintings. Akbar employed Hindu painters like Daswant and Basawan and Persian and Indian styles fused. Under Jahangir, a painter himself with Ustad, Abul Hasan and Mansur, Mughal painting reached its zenith; landscapes, portraits and miniatures developed and artists signed works and got monthly salaries. Aurangzeb withdrew patronage, but Rajput and Pahari schools flourished under princes and the rich.",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 4."
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "Write an essay on India's struggle for freedom (outline).",
+          "answer": "The Congress was founded in 1885 (Moderates); the Extremists (Lal, Bal, Pal) led Swadeshi and Boycott against the partition of Bengal (1905); Home Rule Leagues (1915–16); under Gandhi came Champaran, Non-cooperation, Khilafat, Civil Disobedience and the Dandi March (1930); Purna Swaraj was declared in 1929; the Quit India Movement was launched in 1942 and the INA fought under Subhas Bose; after the Cabinet Mission of 1946 India became free on 15 August 1947.",
+          "note": "Lesson 5."
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "Examine the process of evolution of Northern Indian languages.",
+          "answer": "Old Apabhramsha took new forms; the Brahmi script of Ashoka became regular by Harsha's time and all northern scripts except Urdu came from it. Hindi grew in forms such as Braj, Avadhi, Maithili and Khadi Boli, with Prithviraj Raso as first book and the Bhakti poets giving devotional literature. Urdu arose after 1192 from Turks and locals and flourished in Deccan and Delhi; Persian was the court language. Punjabi, Bengali, Assamese, Oriya, Gujarati, Marathi, Sindhi and Kashmiri each developed with Bhakti and Sufi saints, missionaries' grammars and presses, and nationalism.",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 7."
+        },
+        {
+          "id": "5.5",
+          "type": "open",
+          "q": "Describe the contribution of Swami Dayanand and the Arya Samaj to religious and social reform.",
+          "answer": "Dayanand (Mool Shankar, 1824–83) founded the Arya Samaj in Bombay in 1875, holding that the Vedas contain all knowledge; he opposed idolatry, ritual, priesthood and caste, supported women's education and widow remarriage and wrote Satyarth Prakash in Hindi. DAV schools (Lahore, 1886; Lala Hansraj) and Shraddhananda's Gurukul (1902) spread education; suddhi reconverted Hindus; the Samaj built self-respect and nationalism in northern India.",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 10."
+        }
+      ]
+    }
+  ]
+}

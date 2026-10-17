@@ -134,6 +134,10 @@ question's own short note.
   (14 questions, 30 marks: 6 MCQs, a passage with five fill-in-the-blanks, a passage with four true/false statements, four
   2-mark, one 3-mark and one 4-mark answer). Only the 6 public-exam lessons are included; `build_sci.py` now supports
   several passage sections (`case`, `case2`) and a lesson-count threshold for full papers.
+- `tools/build_ich.py`: builds Secondary Indian Culture and Heritage (223) from `data/ich/src/lesson-<n>.json` with
+  `build_sci.py` (50 questions, 100 marks: 20 MCQs, fifteen 2-mark objective questions, five 2-mark, five 3-mark and five
+  5-mark answers). Only the 12 public-exam lessons are included. The textbook and bifurcation PDFs were downloaded from
+  nios.ac.in; the past papers came from the local All folder.
 - All of these builders share `build_question` in `tools/build_ss.py`. It marks an MCQ `fixed` (options
   keep their printed order instead of being shuffled) when an option refers to the others, such as
   "all of these", "none of the above" or "both (A) and (B)".

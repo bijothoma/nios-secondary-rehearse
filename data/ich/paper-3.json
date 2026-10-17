@@ -1,0 +1,565 @@
+{
+  "subject": "ich",
+  "lesson": 903,
+  "title": "Model Question Paper 3",
+  "meta": "Time: 3 hours · Maximum marks: 100 · Modelled on the April 2026 NIOS paper",
+  "instructions": [
+    "All questions are compulsory. Where a question has OR, answer either one.",
+    "Section A: questions 1–20 are MCQs (1 mark each). Section B: questions 21–35 are objective questions of 2 marks (two parts of 1 mark each).",
+    "Section C: questions 36–40 carry 2 marks (about 25 words); Section D: questions 41–45 carry 3 marks (40–50 words); Section E: questions 46–50 carry 5 marks (150–200 words).",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "20 × 1 = 20",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "Which of the following means 'refined matter or condition'?",
+          "options": [
+            "Prakriti",
+            "Sanskriti",
+            "Vikriti",
+            "Akriti"
+          ],
+          "answer": "B",
+          "note": "Lesson 1."
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "The culture we inherit from our predecessors is called our —",
+          "options": [
+            "cultural heritage",
+            "civilization",
+            "vikriti",
+            "popular culture"
+          ],
+          "answer": "A",
+          "note": "Lesson 1."
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "The Zend Avesta is the holy book of the —",
+          "options": [
+            "Zoroastrians",
+            "Sikhs",
+            "Jains",
+            "Buddhists"
+          ],
+          "answer": "A",
+          "note": "Lesson 4."
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "The two streams of the Bhakti movement in northern India were —",
+          "options": [
+            "nirguna and saguna",
+            "sama and sijda",
+            "khayal and thumri",
+            "Alvar and Nayanar"
+          ],
+          "answer": "A",
+          "note": "Lesson 4."
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "The Sharda Act of 1930 fixed the minimum age of marriage for girls at —",
+          "options": [
+            "14",
+            "16",
+            "18",
+            "21"
+          ],
+          "answer": "A",
+          "note": "Lesson 5."
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "The Indian National Congress was founded in 1885 by —",
+          "options": [
+            "A.O. Hume",
+            "Tilak",
+            "Gandhi",
+            "Gokhale"
+          ],
+          "answer": "A",
+          "note": "Lesson 5."
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "Who is regarded as the first poet in Kashmiri?",
+          "options": [
+            "Lal Ded",
+            "Habba Khatoon",
+            "Nund Rishi",
+            "Mahjoor"
+          ],
+          "answer": "A",
+          "note": "Lesson 7."
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "Vande Mataram is an excerpt from —",
+          "options": [
+            "Anandamath",
+            "Geetanjali",
+            "Neeldarpan",
+            "Saraswatichandra"
+          ],
+          "answer": "A",
+          "note": "Lesson 7."
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "The Sharda Act fixed the minimum age of marriage at —",
+          "options": [
+            "14 for girls and 18 for boys",
+            "10 for girls and 14 for boys",
+            "18 for girls and 21 for boys",
+            "16 for both"
+          ],
+          "answer": "A",
+          "fixed": true,
+          "note": "Lesson 10."
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "The Theosophical Society was founded in the USA by —",
+          "options": [
+            "Madame Blavatsky and Colonel Olcott",
+            "Annie Besant and Tilak",
+            "Dayanand and Vivekananda",
+            "Malaviya and Ranade"
+          ],
+          "answer": "A",
+          "note": "Lesson 10."
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "Kalamkari paintings are made on which of the following surfaces?",
+          "options": [
+            "Wall",
+            "Paper",
+            "Floor",
+            "Cloth"
+          ],
+          "answer": "D",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 11."
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "Phad painting is a scroll painting of —",
+          "options": [
+            "Rajasthan",
+            "Bengal",
+            "Orissa",
+            "Kerala"
+          ],
+          "answer": "A",
+          "note": "Lesson 11."
+        },
+        {
+          "id": "1.13",
+          "type": "mcq",
+          "q": "Which instrument is most commonly used in Indian classical music?",
+          "options": [
+            "Guitar",
+            "Tabla",
+            "Violin",
+            "Flute"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 12."
+        },
+        {
+          "id": "1.14",
+          "type": "mcq",
+          "q": "Who translated Bhaskara's Bijaganita for Akbar?",
+          "options": [
+            "Faizi",
+            "Abul Fazl",
+            "Badayuni",
+            "Tansen"
+          ],
+          "answer": "A",
+          "note": "Lesson 16."
+        },
+        {
+          "id": "1.15",
+          "type": "mcq",
+          "q": "Who is called the father of Indian nuclear science?",
+          "options": [
+            "Homi J. Bhabha",
+            "Vikram Sarabhai",
+            "C.V. Raman",
+            "J.C. Bose"
+          ],
+          "answer": "A",
+          "note": "Lesson 17."
+        },
+        {
+          "id": "1.16",
+          "type": "mcq",
+          "q": "The Right of Children to Free and Compulsory Education Act applies to the age group —",
+          "options": [
+            "6–14",
+            "3–6",
+            "14–18",
+            "15–35"
+          ],
+          "answer": "A",
+          "note": "Lesson 18."
+        },
+        {
+          "id": "1.17",
+          "type": "mcq",
+          "q": "The four aims of life (purusharthas) are dharma, artha, kama and —",
+          "options": [
+            "moksha",
+            "karma",
+            "bhakti",
+            "yoga"
+          ],
+          "answer": "A",
+          "note": "Lesson 19."
+        },
+        {
+          "id": "1.18",
+          "type": "mcq",
+          "q": "Evolution of the Brahmo Samaj like a caste took place because of which activity?",
+          "options": [
+            "Caste and anti-caste movements",
+            "Caste and pro-caste movements",
+            "Lack of education",
+            "Decline in economy"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 19."
+        },
+        {
+          "id": "1.19",
+          "type": "mcq",
+          "q": "The earliest historical evidence of Indian culture going to Japan is from —",
+          "options": [
+            "AD 552",
+            "AD 67",
+            "AD 352",
+            "AD 1000"
+          ],
+          "answer": "A",
+          "note": "Lesson 21."
+        },
+        {
+          "id": "1.20",
+          "type": "mcq",
+          "q": "In ancient India the term 'yavana' was used for —",
+          "options": [
+            "people of West Asia and the Mediterranean (Greeks and Romans)",
+            "Chinese",
+            "Tibetans",
+            "Persians only"
+          ],
+          "answer": "A",
+          "note": "Lesson 21."
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark (fill in the blanks, true/false, one word or phrase, match).",
+      "marks": "15 × 2 = 30",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "Fill in the blanks: (a) Prakriti, Sanskriti and ______ come from the root 'Kri'. (b) Culture is what makes us ______.",
+          "answer": "(a) vikriti. (b) human.",
+          "note": "Lesson 1."
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Fill in the blanks: (a) The names of the Khalifa and the Sultan were read in the ______. (b) The Rashtrapati Bhavan was known as the ______ during British rule.",
+          "answer": "(a) khutba. (b) Vice-Regal Lodge.",
+          "note": "Lesson 4."
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "Answer in a phrase: (a) Name a nirguna Bhakti poet. (b) Name a saguna Bhakti poet.",
+          "answer": "(a) Kabir or Nanak. (b) Tulsidas or Surdas.",
+          "note": "Lesson 4."
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Answer in one word: (a) Who founded the Brahmo Samaj? (b) Who succeeded him as leader?",
+          "answer": "(a) Raja Ram Mohan Roy. (b) Debendranath Tagore.",
+          "note": "Lesson 5."
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "Answer in one word: (a) What is the method of printing from a prepared stone surface called? (b) Who wrote Neeldarpan?",
+          "answer": "(a) Lithography. (b) Dinabandhu Mitra.",
+          "note": "Lesson 5."
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "Answer in a phrase: (a) Why did the reformers use novels, dramas, short stories and poetry? (b) Why did they use Indian languages?",
+          "answer": "(a) To reach the common people and stir national and social awakening. (b) To make their message understood by the masses.",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 7."
+        },
+        {
+          "id": "2.7",
+          "type": "open",
+          "q": "Answer in a phrase: How did Punjabi love stories contribute to the growth of the Punjabi language?",
+          "answer": "Stories like Heer–Ranjha, Sohni–Mahiwal and Sassi–Punnu gave Punjabi its early themes and were sung for centuries.",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 7."
+        },
+        {
+          "id": "2.8",
+          "type": "open",
+          "q": "Answer in one word: (a) Who founded the Arya Samaj? (b) What was the original name of its founder?",
+          "answer": "(a) Swami Dayanand Saraswati. (b) Mool Shankar.",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 10."
+        },
+        {
+          "id": "2.9",
+          "type": "open",
+          "q": "Answer in a phrase: (a) What was the theme of the Ajanta paintings? (b) Name two sites of Buddhist paintings of the 6th–9th centuries.",
+          "answer": "(a) Jataka stories and the life of the Buddha. (b) Bagh and Badami (also Sittanavasal, Ellora).",
+          "note": "Lesson 11."
+        },
+        {
+          "id": "2.10",
+          "type": "open",
+          "q": "Match two items given in Column A with Column B (the rest are distracters): Bihu – Assam; Garba – Gujarat; Bhangra – Maharashtra; Koli – Punjab. Give two correct pairs.",
+          "answer": "Bihu – Assam; Garba – Gujarat (Bhangra is Punjab; Koli is Maharashtra).",
+          "note": "Lesson 12."
+        },
+        {
+          "id": "2.11",
+          "type": "open",
+          "q": "Fill in the blanks: Faizi, at Akbar's behest, translated ______ Bijaganita. Mahendra Suri developed the instrument ______.",
+          "answer": "Bhaskara's; Yantraraja.",
+          "note": "Lesson 16."
+        },
+        {
+          "id": "2.12",
+          "type": "open",
+          "q": "Fill in the blanks: Bhabha was the first chairman of the ______ Commission and BARC is at ______.",
+          "answer": "Atomic Energy; Trombay.",
+          "note": "Lesson 17."
+        },
+        {
+          "id": "2.13",
+          "type": "open",
+          "q": "Mark true or false: (a) The Dharmashastras and Smritis tried to fix duties of each caste. (b) Mathas were supported by Jains.",
+          "answer": "(a) True. (b) False – mathas were supported by Brahmins.",
+          "note": "Lesson 18."
+        },
+        {
+          "id": "2.14",
+          "type": "open",
+          "q": "Fill in the blanks: Manu noted ______ castes. The Kayasthas were traditionally ______.",
+          "answer": "61; scribes.",
+          "note": "Lesson 19."
+        },
+        {
+          "id": "2.15",
+          "type": "open",
+          "q": "Answer in a phrase: (a) Name the two Indian astronomical works taken to Baghdad. (b) Who translated Sushruta Samhita into Arabic?",
+          "answer": "(a) Brahmasphutasiddhanta (Sindhind) and Khandakhadyaka (Arkand). (b) Mankh.",
+          "note": "Lesson 21."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Very short answer questions. Answer in about 25 words.",
+      "marks": "5 × 2 = 10",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "Who was Lal Ded?",
+          "answer": "A Shaivite mystic of the 14th century, probably the first to sing in the Kashmiri language.",
+          "note": "Lesson 7."
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "State any two features of the Muhammadan Literary Society.",
+          "answer": "It promoted discussion of religious, social and political questions in the light of modern ideas, encouraged upper and middle class Muslims to adopt Western education and played a role in Muslim unity.",
+          "years": [
+            "October 2025"
+          ],
+          "or": {
+            "q": "Explain the role of Aligarh Muslim University.",
+            "answer": "It grew out of Sir Syed's Muhammadan Anglo-Oriental College as the central educational institution of Indian Muslims to promote modern Western science and culture without weakening ties with Islam."
+          },
+          "note": "Lesson 10."
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "Name two features of Warli painting.",
+          "answer": "White rice paste on a plain background using geometric shapes and dots and crooked lines in spiralling compositions, painted by women, secular in character.",
+          "note": "Lesson 11."
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "Name any four types of drama flourishing today.",
+          "answer": "Stage theatre, radio theatre, Nukkar (street plays), mono-drama, musical theatre, short skits and one-act plays (any four).",
+          "note": "Lesson 12."
+        },
+        {
+          "id": "3.5",
+          "type": "open",
+          "q": "What changes did medieval rulers make in primary school education?",
+          "answer": "They added arithmetic, mensuration, geometry, astronomy, accountancy, public administration and agriculture; Akbar made mathematics compulsory.",
+          "note": "Lesson 16."
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Short answer questions. Answer in 40–50 words.",
+      "marks": "5 × 3 = 15",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "Write about astronomy in medieval India.",
+          "answer": "Commentaries on established ideas appeared; Mahendra Suri of Firoz Shah's court developed the Yantraraja; the Parameshvara and Mahabhaskariya families of Kerala were famous; Nilakantha Somasutvan commented on the Aryabhatiya; Kamalakara studied Islamic astronomy; Sawai Jai Singh II built observatories at Delhi, Ujjain, Varanasi, Mathura and Jaipur.",
+          "note": "Lesson 16."
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "Describe any three contributions of Srinivasa Ramanujan.",
+          "answer": "He published a research paper on Bernoulli numbers (1911) and solved problems in the Journal of the Indian Mathematical Society; with G.H. Hardy and J.E. Littlewood he made amazing contributions in Cambridge and published many papers; he left the three notebooks of results and became FRS and the first Indian Fellow of Trinity College.",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 17."
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "Describe the education system under the Gupta period (Buddhist monasteries).",
+          "answer": "Buddhist monasteries admitted students for ten years, taught orally and later from texts, had libraries and copied manuscripts, took students from China and South-East Asia, were supported by kings and rich merchants, and Nalanda became famous all over Asia.",
+          "note": "Lesson 18."
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "Describe the position of women in the Vedic and post-Vedic periods.",
+          "answer": "In the Vedic period women took part in tribal affairs, composed hymns and chose husbands at a mature age; later law books reduced them to Shudra status, gave only stridhana, closed Vedic knowledge to them, and early marriage, sati and the veil became common.",
+          "note": "Lesson 19."
+        },
+        {
+          "id": "4.5",
+          "type": "open",
+          "q": "Explain the place of Sanskrit in ancient Japanese society.",
+          "answer": "Sanskrit was accepted as the sacred language; monks were trained to write its syllables and mantras in the Shittan (Siddham) script; Buddhist sutras reached Japan through China and Korea.",
+          "years": [
+            "April 2026"
+          ],
+          "or": {
+            "q": "Explain the place of Sanskrit in today's Japan.",
+            "answer": "Japanese scholars still keenly study Sanskrit as the language of Buddhist scriptures, a cementing force between India and Japan."
+          },
+          "note": "Lesson 21."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Long answer questions. Answer in 150–200 words.",
+      "marks": "5 × 5 = 25",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "Describe the concept of 'culture'.",
+          "answer": "Culture comes from Latin 'cult' meaning tilling or refining and equals the Sanskrit 'Sanskriti' from the root 'Kri'. It is a way of life: food, dress, language and religion are aspects of culture. It is the embodiment of the way we think and do things and the things we inherit as members of society – art, music, literature, architecture, sculpture, philosophy, religion and science. It is a human-made environment of material (dress, food, household goods) and non-material (ideas, beliefs) products, transmitted from generation to generation by symbols. It varies from place to place and has a historical development.",
+          "years": [
+            "April 2025",
+            "October 2022"
+          ],
+          "note": "Lesson 1."
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "Describe the rise of Sikhism and the contributions of Guru Nanak, Guru Arjan Dev and Guru Gobind Singh.",
+          "answer": "Sikhism was founded by Guru Nanak, a Khatri born at Talwandi who denounced idols, pilgrimages and rituals, preached one formless God, equality and purity of conduct, and sang hymns with the rabab. The fifth guru, Arjan Dev, gave the Adi Granth, the Gurmukhi script and the Golden Temple site at Amritsar with the Akal Takht. The tenth, Gobind Singh, created the Khalsa in 1699 with the five Ks (kesh, kangha, kada, kirpan, kachha) and made the Adi Granth the guru.",
+          "years": [
+            "October 2022"
+          ],
+          "note": "Lesson 4."
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "Explain the condition of trade and commerce of India during the 18th century.",
+          "answer": "Agriculture was the main occupation but constant wars prevented improvement. Foreign trade flourished under the Mughals: India imported pearls, raw silk, wool and dates from the Persian Gulf, coffee, gold, drugs and honey from Arabia, tea, porcelain and silk from China and luxury goods from Tibet, Singapore, Indonesia, Africa and Europe, and exported raw silk, silk fabrics, indigo, sugar, pepper and world-famous cotton textiles. In spite of a favourable balance of trade the economy could not improve because of warfare, revolts of Sikhs, Jats and Marathas and invasions of Nadir Shah (1739) and Abdali (1761). European powers added instability and eventually destroyed it, though India was famed for handicrafts.",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 5."
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "Describe the development of Hindi literature from the Bhakti period to modern times.",
+          "answer": "Hindi literature began with heroic raso poetry (Prithviraj Raso) and became devotional under the Bhakti movement: Kabir (formless God), Tulsidas (Ramcharit Manas in Avadhi, deifying Rama), Surdas (Sur Sagar in Braj), Mirabai and Raskhan. In the 19th century prose grew with Bharatendu Harishchandra, Mahavir Prasad Dwivedi and Dayanand; later Premchand, Nirala, Jaishankar Prasad, Mahadevi Verma, Pant, Dinkar and Bachchan wrote with a purpose of social reform.",
+          "note": "Lesson 7."
+        },
+        {
+          "id": "5.5",
+          "type": "open",
+          "q": "Describe the spread of Indian culture in South-East Asia (Cambodia, Thailand and Indonesia).",
+          "answer": "Cambodia: Indian-origin Kaundinya kings, Sanskrit inscriptions and administration up to the 14th century, Hindu polity, Angkor Vat with Ramayana and Mahabharata scenes and the Samudra Manthan. Thailand: Sanskrit names for kingdoms and cities, Vishnu images, Ayutthaya (Ayodhya), 400 temples in Bangkok. Indonesia: Prambanan Shiva temple, Ramayana and Krishna stories on walls, Bali's Hindu culture and Sanskrit hymns, Kawi script from Brahmi and the Wayang shadow play.",
+          "note": "Lesson 21."
+        }
+      ]
+    }
+  ]
+}

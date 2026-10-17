@@ -20,6 +20,7 @@ of two 1-mark parts; one passage with five 1-mark MCQs; 6 very short (2), 7 shor
 full papers are drawn from all chapters without repeating a question between them.
 """
 import json
+import math
 import sys
 from pathlib import Path
 
@@ -134,7 +135,7 @@ def build_full_papers(sources):
             picked = []
             k = 0
             while len(picked) < count and k < 10 * len(order):
-                lesson = order[(start + k * (1 if count > 6 or len(order) <= 6 else 3)) % len(order)]
+                lesson = order[(start + k * (1 if count > 6 or len(order) // math.gcd(3, len(order)) < count else 3)) % len(order)]
                 k += 1
                 pool = [(i, it) for i, it in enumerate(by_no[lesson].get(key) or [])
                         if (lesson, key, i) not in used]

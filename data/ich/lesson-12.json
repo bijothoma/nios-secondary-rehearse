@@ -1,0 +1,546 @@
+{
+  "subject": "ich",
+  "lesson": 12,
+  "title": "Performing Arts: Music, Dance and Drama",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "23 × 1 = 23",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "Which instrument is most commonly used in Indian classical music?",
+          "options": [
+            "Guitar",
+            "Tabla",
+            "Violin",
+            "Flute"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "The term 'Nukkar' is related to which art form?",
+          "options": [
+            "Painting",
+            "Sculpture",
+            "Drama",
+            "Singing"
+          ],
+          "answer": "C",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "In which Indian state is the famous dance form Kathakali performed?",
+          "options": [
+            "Odisha",
+            "Gujarat",
+            "Bihar",
+            "Kerala"
+          ],
+          "answer": "D",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "Which is the earliest text dealing exclusively with performing arts?",
+          "options": [
+            "Natyashastra of Bharata",
+            "Brihaddeshi",
+            "Sangita Ratnakara",
+            "Gita Govinda"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "In which work were ragas first named and discussed at great length?",
+          "options": [
+            "Brihaddeshi of Matanga",
+            "Natyashastra",
+            "Abhinavabharati",
+            "Ragamala"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "Sangita Ratnakara mentions how many ragas?",
+          "options": [
+            "264",
+            "108",
+            "72",
+            "36"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "Jayadeva's Gita Govinda is based on the love of —",
+          "options": [
+            "Radha and Krishna",
+            "Sita and Rama",
+            "Shiva and Parvati",
+            "Nala and Damayanti"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "Who wrote Kitab-i-Nauras?",
+          "options": [
+            "Ibrahim Adil Shah II",
+            "Tansen",
+            "Amir Khusrau",
+            "Baz Bahadur"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "The earliest tradition of Indian music is traced to —",
+          "options": [
+            "Sama Veda",
+            "Rig Veda",
+            "Natyashastra",
+            "Gita Govinda"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "Which of the following is a Hindustani gharana?",
+          "options": [
+            "Gwalior",
+            "Mysore",
+            "Thanjavur",
+            "Madurai"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "The three great composers of Carnatic music were Shyama Shastri, Thyagaraja and —",
+          "options": [
+            "Mutthuswami Dikshitar",
+            "Purandaradasa",
+            "Tansen",
+            "Swami Haridas"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "The main compositions of Carnatic music are called —",
+          "options": [
+            "kriti",
+            "thumri",
+            "khayal",
+            "tappa"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.13",
+          "type": "mcq",
+          "q": "Carnatic 'tillana' is similar to the Hindustani —",
+          "options": [
+            "tarana",
+            "alap",
+            "dhrupad",
+            "ghazal"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.14",
+          "type": "mcq",
+          "q": "Mand is a folk song of —",
+          "options": [
+            "Rajasthan",
+            "Bengal",
+            "Haryana",
+            "Kashmir"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.15",
+          "type": "mcq",
+          "q": "Bhatiali is a folk song of —",
+          "options": [
+            "Bengal",
+            "Rajasthan",
+            "Punjab",
+            "Gujarat"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.16",
+          "type": "mcq",
+          "q": "Shiva as Nataraja represents —",
+          "options": [
+            "creation and destruction of the cosmic cycle",
+            "peace",
+            "war",
+            "harvest"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.17",
+          "type": "mcq",
+          "q": "Bharata divided dance into nritta, nritya and —",
+          "options": [
+            "natya",
+            "nritu",
+            "natak",
+            "mudra"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.18",
+          "type": "mcq",
+          "q": "Odissi is related to the worship of —",
+          "options": [
+            "Lord Jagannath",
+            "Lord Shiva",
+            "Lord Ganesha",
+            "Goddess Durga"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.19",
+          "type": "mcq",
+          "q": "Bihu is a folk dance of —",
+          "options": [
+            "Assam",
+            "Mizoram",
+            "Punjab",
+            "Gujarat"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.20",
+          "type": "mcq",
+          "q": "The Natyashastra was written by —",
+          "options": [
+            "Bharata",
+            "Kalidasa",
+            "Bhasa",
+            "Patanjali"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.21",
+          "type": "mcq",
+          "q": "Who wrote 'Swapnavasavadatta'?",
+          "options": [
+            "Bhasa",
+            "Kalidasa",
+            "Bana Bhatta",
+            "Jaishankar Prasad"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.22",
+          "type": "mcq",
+          "q": "The Parsi theatre company in Bombay showed that theatre could be used for —",
+          "options": [
+            "commercial purposes",
+            "religious preaching only",
+            "education only",
+            "war propaganda"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.23",
+          "type": "mcq",
+          "q": "Which Government agency promotes performing arts abroad through exchange programmes?",
+          "options": [
+            "ICCR",
+            "RBI",
+            "UGC",
+            "NCERT"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark (fill in the blanks, true/false, one word or phrase, match).",
+      "marks": "15 × 2 = 30",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "Fill in the blanks: Yakshagana, a form of Kathakali in ______, tells stories of the Ramayana and Mahabharata, whereas Kathak and Manipuri are mostly related to ______ and his leela.",
+          "answer": "Kerala; Krishna.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Fill in the blanks: Festivals are an important way of expressing and celebrating ______. Music, dance and drama are called ______ arts.",
+          "answer": "culture; performing.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "Answer in a phrase: (a) Name the earliest text on performing arts. (b) How many ragas are mentioned in Sangita Ratnakara?",
+          "answer": "(a) Natyashastra of Bharata. (b) 264."
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Match two items given in Column A with Column B (the rest are distracters): Bihu – Assam; Garba – Gujarat; Bhangra – Maharashtra; Koli – Punjab. Give two correct pairs.",
+          "answer": "Bihu – Assam; Garba – Gujarat (Bhangra is Punjab; Koli is Maharashtra)."
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "Mark true or false: (a) Kathak was promoted by Muslim rulers in the medieval period. (b) Aurangzeb was a great patron of Kathak.",
+          "answer": "(a) True. (b) False."
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "Mark true or false: (a) Nautanki is a folk theatre of Uttar Pradesh. (b) Tamasha is a folk theatre of Bengal.",
+          "answer": "(a) True. (b) False – it is of Maharashtra."
+        },
+        {
+          "id": "2.7",
+          "type": "open",
+          "q": "Fill in the blanks: Tansen belonged to the court of ______. Hindustani classical music is traced to the Delhi Sultanate and ______.",
+          "answer": "Akbar; Amir Khusrau."
+        },
+        {
+          "id": "2.8",
+          "type": "open",
+          "q": "Answer in a phrase: (a) What is a gharana? (b) Name one famous gharana.",
+          "answer": "(a) A hereditary linkage of musicians representing a particular style, handed down in the guru-shishya parampara. (b) Gwalior (Kirana or Jaipur)."
+        },
+        {
+          "id": "2.9",
+          "type": "open",
+          "q": "Mark true or false: (a) The two divisions of Indian classical music are Hindustani and Carnatic. (b) Hindustani music is the music of South India.",
+          "answer": "(a) True. (b) False – it is of North India."
+        },
+        {
+          "id": "2.10",
+          "type": "open",
+          "q": "Fill in the blanks: Bharata's two plays are Asura Parajaya and ______. He considered drama a perfect means of ______.",
+          "answer": "Amrit Manthan; communication."
+        },
+        {
+          "id": "2.11",
+          "type": "open",
+          "q": "Answer in a word: (a) Who were kushilavas? (b) Who founded a Bengali theatre in Calcutta in the 18th century?",
+          "answer": "(a) Professional singers of heroic tales. (b) Gerasim Lebedev (a Russian)."
+        },
+        {
+          "id": "2.12",
+          "type": "open",
+          "q": "Match two (distracters present): Meghadutam – Kalidasa; Andher Nagri – Bharatendu; Chandragupta – Kalidasa; Harshacharita – Bhasa. Give two correct pairs.",
+          "answer": "Meghadutam – Kalidasa; Andher Nagri – Bharatendu."
+        },
+        {
+          "id": "2.13",
+          "type": "open",
+          "q": "Mark true or false: (a) Chhau is a dance of Bengal. (b) Thang-ta is a martial dance of Manipur.",
+          "answer": "(a) True. (b) True."
+        },
+        {
+          "id": "2.14",
+          "type": "open",
+          "q": "Fill in the blanks: Nritta means pure ______ work and nritya means ______ through the limbs.",
+          "answer": "footwork; expression."
+        },
+        {
+          "id": "2.15",
+          "type": "open",
+          "q": "Answer in a phrase: (a) Name two folk theatre forms of Rajasthan. (b) Name one instrument used as a prop in folk theatre.",
+          "answer": "(a) Raas and Jhumar (Dhola Maru). (b) Dhol, kartal, manjira or khanjira."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Very short answer questions. Answer in about 25 words.",
+      "marks": "7 × 2 = 14",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "Why is folk music an important part of our heritage? Give any two reasons.",
+          "answer": "It represents the emotion of the masses and marks every event of life – festivals, seasons, marriage and birth; it describes historical events and rituals and preserves local culture (Mand, Bhatiali, Ragini).",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "Name the two divisions of Indian classical music and one difference.",
+          "answer": "Hindustani music of North India and Carnatic music of South India; Hindustani styles include dhrupad, khayal and thumri with gharanas, while Carnatic music is based on devotional kritis of Thyagaraja and others."
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "What was the contribution of Baz Bahadur and Rupmati to music?",
+          "answer": "The legendary ruler of Malwa and his wife introduced new ragas."
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "State two similarities between Hindustani and Carnatic music.",
+          "answer": "Carnatic alapana is like Hindustani alap, tillana is like tarana, and both lay stress on tala."
+        },
+        {
+          "id": "3.5",
+          "type": "open",
+          "q": "What are the three broad categories of dance in the Natyashastra?",
+          "answer": "Nritta (pada sanchalan, pure movement), nritya (anga sanchalan, expression) and natya (abhinaya, dramatic acting)."
+        },
+        {
+          "id": "3.6",
+          "type": "open",
+          "q": "What was the role of kushilavas and shailoosh in ancient drama?",
+          "answer": "Shailoosh were communities with professional drama companies; kushilavas were professional singers who dramatically sang heroic tales."
+        },
+        {
+          "id": "3.7",
+          "type": "open",
+          "q": "Name any four types of drama flourishing today.",
+          "answer": "Stage theatre, radio theatre, Nukkar (street plays), mono-drama, musical theatre, short skits and one-act plays (any four)."
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Short answer questions. Answer in 40–50 words.",
+      "marks": "5 × 3 = 15",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "Explain briefly the significance of performing arts.",
+          "answer": "Music, dance and drama express the nine rasas of human emotion, educated the masses from the Vedic age to the medieval period, spread religion and reform, and are now means of entertainment. They elevate the soul, bring peace of mind, self-restraint, love and self-confidence and so help in the development of personality.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "Explain three facts about the earliest tradition of music in India.",
+          "answer": "It goes back to the Sama Veda, whose slokas were put to music and chanted with prescribed pitch and accent; Bharata's Natyashastra (2nd century BC–2nd century AD) is the earliest text on performing arts with six chapters on music; Matanga's Brihaddeshi first named ragas and Sangita Ratnakara lists 264 ragas.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "Describe the Hindustani and Carnatic music traditions.",
+          "answer": "Hindustani music, traced to Amir Khusrau and Tansen, has styles like dhrupad, khayal and thumri and gharanas such as Gwalior and Kirana. Carnatic music, with the trinity Shyama Shastri, Thyagaraja and Dikshitar, has devotional kritis and is accompanied by veena, flute, mridangam and ghatam."
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "Write a note on the classical dances of India.",
+          "answer": "Kathakali, Bharatnatyam, Mohiniattam and Kuchipudi are southern dances; Kathak (Krishna leela, courts), Manipuri (Krishna) and Odissi (Jagannath) are northern and eastern. Temple dance had a religious object and court dance was for entertainment; Natyashastra divides dance into nritta, nritya and natya."
+        },
+        {
+          "id": "4.5",
+          "type": "open",
+          "q": "Explain the role of folk theatre in India.",
+          "answer": "Folk theatre used local dialect, was spontaneous and combined acting with music and dance; forms: Jatra, Nautanki, Tamasha, Bhavai, Raas, Yakshagana; instruments like dhol and manjira were props; they carried social messages and adapted classical forms."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Long answer questions. Answer in 150–200 words.",
+      "marks": "4 × 5 = 20",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "Examine the role of Muslim rulers in the promotion of dance and music in India.",
+          "answer": "The Sultans and Mughals were great patrons. Amir Khusrau (1253–1325) introduced new ragas and encouraged musical performance; Sufis sang qawwali in khanqahs. Babur is said to have developed styles like qawwali and khayal; Humayun illustrated Indian music texts; Akbar composed songs and patronised Tansen, Baiju Bawra and Swami Haridas; Jahangir and Shah Jahan patronised musicians. Kathak was promoted in the courts of most Mughal rulers except Aurangzeb, and Wajid Ali Shah began the Lucknow gharana of dance. The largest number of Persian books on classical music were written even under Aurangzeb.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "Examine the popularity of folk dances in India.",
+          "answer": "Folk dances evolved from the lives of common people and are performed in unison to express joys and sorrows, often linked to harvest and festivals: Bihu in Assam, Garba in Gujarat, Bhangra and Giddha in Punjab, Bamboo dance in Mizoram, Koli in Maharashtra, Dhumal in Kashmir, Chhau in Bengal, Mask dance in Ladakh, Wangla in Meghalaya, and martial dances like Cholia, Kalaripayattu and Thang-ta. They are part of every celebration and school programme and even of city culture.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "Discuss the evolution and development of drama in ancient India.",
+          "answer": "Drama's origin is traced to the Vedas, and the Ramayana and Arthashastra mention drama and dancers. Bharata wrote the Natyashastra and the plays Asura Parajaya and Amrit Manthan, describing nat, nati, music, dance, instruments, dialogue and stage; the shailoosh and kushilavas were professionals. Bhasa wrote thirteen plays, Patanjali's Mahabhashya mentions Kamsavadha and Balibandha; Buddha and Mahavira used drama for preaching; Sanskrit plays by Kalidasa (Abhijnana Shakuntalam), Bana Bhatta and others had women and lower characters speaking Prakrit; folk theatre in local dialect developed alongside.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "Describe the account of drama as per Bharata's Natyashastra.",
+          "answer": "Bharata's Natyashastra is the greatest text on drama and the performing arts. It describes nat (male) and nati (female) actors, music, dance, instruments, dialogues, themes and the stage, with an enclosed theatre; it says music and dance are essential parts of drama and calls drama a perfect means of communication. He wrote Asura Parajaya and Amrit Manthan and discusses the nine rasas and the classification of dance into nritta, nritya and natya.",
+          "years": [
+            "April 2025"
+          ]
+        }
+      ]
+    }
+  ]
+}
