@@ -1,0 +1,572 @@
+{
+  "subject": "home-science",
+  "lesson": 902,
+  "title": "Model Question Paper 2",
+  "meta": "Time: 2½ hours · Maximum marks: 85 · Modelled on the April 2026 NIOS paper",
+  "instructions": [
+    "All questions are compulsory. Where a question has OR, answer either one.",
+    "Section A: questions 1–19 are MCQs (1 mark each); questions 20–31 are objective questions of 2 marks each.",
+    "Section B: questions 32–41 carry 2 marks (30–50 words), questions 42–45 carry 3 marks (50–80 words) and questions 46–47 carry 5 marks (80–120 words).",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "19 × 1 = 19",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "Home Science means —",
+          "options": [
+            "learning to build interpersonal communication",
+            "the art of managing your resources",
+            "developing a skill to start an enterprise",
+            "all the above"
+          ],
+          "answer": "D",
+          "note": "Lesson 1."
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "The process of improving the nutrients of foods by special methods is called —",
+          "options": [
+            "preservation",
+            "adulteration",
+            "enrichment or enhancement",
+            "pasteurisation"
+          ],
+          "answer": "C",
+          "note": "Lesson 4."
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "Refrigeration keeps food at —",
+          "options": [
+            "4–7 degrees C",
+            "-18 degrees C",
+            "50 degrees C",
+            "100 degrees C"
+          ],
+          "answer": "A",
+          "note": "Lesson 5."
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "To reduce environment pollution people should adopt all except —",
+          "options": [
+            "tree plantation",
+            "composting",
+            "use plastic bags",
+            "use sanitary latrines"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 6."
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "Cramps in the legs and watery diarrhoea are symptoms of —",
+          "options": [
+            "cholera",
+            "tetanus",
+            "influenza",
+            "malaria"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Lesson 8."
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "Which of the following stains is identified by its yellow colour?",
+          "options": [
+            "Curry or pickle",
+            "Grass",
+            "Tea",
+            "Blood"
+          ],
+          "answer": "A",
+          "note": "Lesson 9."
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "Which one of the following finishes would you choose to remove wrinkles from fabrics?",
+          "options": [
+            "Scouring",
+            "Printing",
+            "Bleaching",
+            "Calendering"
+          ],
+          "answer": "D",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 11."
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "Which should be the ideal direction of a house? (kitchen: east or north-east for sunlight)",
+          "options": [
+            "North-west",
+            "South-west",
+            "East south",
+            "North-east"
+          ],
+          "answer": "D",
+          "years": [
+            "April 2024"
+          ],
+          "note": "April 2025 also asked: what is the ideal direction for a kitchen? Lesson 12."
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "Which is a heavy activity?",
+          "options": [
+            "Mopping the floor",
+            "Reading",
+            "Listening to the radio",
+            "Telling a story"
+          ],
+          "answer": "A",
+          "note": "Lesson 15."
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "Which of the following is NOT a source of family income?",
+          "options": [
+            "Salary",
+            "Bank interest",
+            "Rent",
+            "Electricity bill"
+          ],
+          "answer": "D",
+          "note": "Lesson 16."
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "The fertilised egg is called a —",
+          "options": [
+            "zygote",
+            "ovum",
+            "foetus",
+            "embryo only at birth"
+          ],
+          "answer": "A",
+          "note": "Lesson 17."
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "In the permissive style of discipline, parents are —",
+          "options": [
+            "very strict",
+            "totally uninvolved with children",
+            "warm and open",
+            "punishing"
+          ],
+          "answer": "B",
+          "note": "Lesson 19."
+        },
+        {
+          "id": "1.13",
+          "type": "mcq",
+          "q": "The legal minimum age for marriage is —",
+          "options": [
+            "16 years for a girl and 18 for a boy",
+            "18 years for a girl and 21 for a boy",
+            "21 years for both",
+            "20 years for both"
+          ],
+          "answer": "B",
+          "fixed": true,
+          "note": "Lesson 19."
+        },
+        {
+          "id": "1.14",
+          "type": "mcq",
+          "q": "Adolescence is the age between —",
+          "options": [
+            "5–9 years",
+            "10–19 years",
+            "20–25 years",
+            "2–6 years"
+          ],
+          "answer": "B",
+          "note": "Lesson 20."
+        },
+        {
+          "id": "1.15",
+          "type": "mcq",
+          "q": "Which of these helps to decrease negative emotions?",
+          "options": [
+            "Responding to situations in a healthy and positive way",
+            "Breaking contact with all friends",
+            "Criticising others",
+            "Self-pity"
+          ],
+          "answer": "A",
+          "note": "Lesson 20."
+        },
+        {
+          "id": "1.16",
+          "type": "mcq",
+          "q": "Dignity of labour means —",
+          "options": [
+            "manual jobs are inferior",
+            "all jobs are respected equally",
+            "only intellectual jobs matter",
+            "labour is for the poor"
+          ],
+          "answer": "B",
+          "note": "Lesson 21."
+        },
+        {
+          "id": "1.17",
+          "type": "mcq",
+          "q": "Guru Nanak chose dry bread at Bhai Lalo's house because it was —",
+          "options": [
+            "tastier",
+            "earned by honest labour",
+            "cheaper",
+            "free"
+          ],
+          "answer": "B",
+          "note": "Lesson 21."
+        },
+        {
+          "id": "1.18",
+          "type": "mcq",
+          "q": "Woolmark is given to —",
+          "options": [
+            "wool and woollen garments",
+            "spices",
+            "toys",
+            "jams"
+          ],
+          "answer": "A",
+          "note": "Lesson 22."
+        },
+        {
+          "id": "1.19",
+          "type": "mcq",
+          "q": "Which of these tests detects iron filings in tea or semolina?",
+          "options": [
+            "Passing a magnet",
+            "Pouring in water",
+            "Heating",
+            "Smelling"
+          ],
+          "answer": "A",
+          "note": "Lesson 22."
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has four statements or pairs of ½ mark (true/false, match the columns, fill in the blanks or arrange in sequence).",
+      "marks": "12 × 2 = 24",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "Match the columns: (A) Communication and extension (B) Housekeeping (C) Interior decorator (D) Dress designing; (i) Boutique (ii) Media production and management (iii) Staff at hotels (iv) Furniture designer.",
+          "answer": "(A) – (ii); (B) – (iii); (C) – (iv); (D) – (i).",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 1."
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Fill in the blanks: (i) Khichri is an example of ______ method of enhancement. (ii) Milk polybags should not be exposed to sunlight as vitamin ______ gets lost. (iii) Quality of oil becomes ______ when it is reheated repeatedly. (iv) During frying, the temperature of oil becomes ______ degrees C.",
+          "answer": "(i) combination. (ii) B (riboflavin, B2). (iii) poor. (iv) 300.",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 4."
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "State True or False: (i) Milk is heated to a high temperature and immediately cooled to kill its germs. (ii) Increasing the concentration of acid can lead to food spoilage. (iii) Citric acid is used as a preservative. (iv) Low temperature slows down microbial action.",
+          "answer": "(i) True (pasteurisation). (ii) False – more acid prevents spoilage. (iii) True. (iv) True.",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 5."
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "State True or False: (i) Loud noise can damage hearing. (ii) Burning of refuse is banned in metros. (iii) Fish die in polluted water because less oxygen is available. (iv) Latrines should be built close to water sources.",
+          "answer": "(i) True. (ii) True. (iii) True. (iv) False – they should be far from water sources.",
+          "note": "Lesson 6."
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "Fill in the blanks: (i) Diabetes and hypertension are ______ diseases. (ii) Plenty of fluids and ______ should be given in dehydration. (iii) Obesity is excess ______ than the ideal for height. (iv) Age and heredity are ______ factors.",
+          "answer": "(i) lifestyle (non-communicable). (ii) ORS. (iii) body weight. (iv) non-modifiable.",
+          "note": "Lesson 8."
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "State True or False: (i) Laundering is the same as washing. (ii) Airing of clothes helps when they are not to be washed at once. (iii) Stains should be removed before washing. (iv) Synthetics should be squeezed well before drying.",
+          "answer": "(i) False – it includes washing or dry cleaning, finishing and storing. (ii) True. (iii) True. (iv) False – squeezing makes them wrinkle; dry on a hanger.",
+          "note": "Lesson 9."
+        },
+        {
+          "id": "2.7",
+          "type": "open",
+          "q": "Match the finish with the chemical or equipment: (I) Mercerisation (II) Parchmentisation (III) Calendering (IV) Bleaching; (a) Hot rollers (b) Sodium hypochlorite (c) Sodium hydroxide (d) Mild acid.",
+          "answer": "(I) – (c); (II) – (d); (III) – (a); (IV) – (b).",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Lesson 11."
+        },
+        {
+          "id": "2.8",
+          "type": "open",
+          "q": "Fill in the blanks: (i) Besides windows, doors and ventilators, ______ should be installed in the kitchen to remove stale air. (ii) Chances of infections and fungal diseases increase if the rooms are ______. (iii) The floor of a bathroom should be ______. (iv) The living room should be near the ______ of the building.",
+          "answer": "(i) an exhaust fan. (ii) dark and damp. (iii) non-slippery. (iv) entrance.",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 12."
+        },
+        {
+          "id": "2.9",
+          "type": "open",
+          "q": "State True or False: (i) All activities should be listed before time planning. (ii) Shopping is an inflexible activity. (iii) Balancing is adjustment of time for each activity. (iv) A time plan should not be changed.",
+          "answer": "(i) True. (ii) False – shopping is flexible. (iii) True. (iv) False – a time plan should be flexible.",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 15."
+        },
+        {
+          "id": "2.10",
+          "type": "open",
+          "q": "Arrange the steps of making a spending plan: (a) allocate funds (b) list all requirements (c) balance the plan (d) prioritise needs (e) keep in mind income and facilities.",
+          "answer": "(e), (b), (d), (a), (c).",
+          "note": "Lesson 16."
+        },
+        {
+          "id": "2.11",
+          "type": "open",
+          "q": "Match the vaccine with the disease: (i) BCG (ii) Oral polio (iii) DPT (iv) MMR; (a) diphtheria, pertussis, tetanus (b) polio (c) tuberculosis (d) measles, mumps, rubella.",
+          "answer": "(i) – (c); (ii) – (b); (iii) – (a); (iv) – (d).",
+          "note": "Lesson 17."
+        },
+        {
+          "id": "2.12",
+          "type": "open",
+          "q": "Which of these show defective measures or weights? (i) False-bottomed milk measure (ii) Magnet under the balance pan (iii) Stamp of an inspector with date (iv) Stones used instead of weights.",
+          "answer": "(i), (ii) and (iv) show defective measures; (iii) is a sign of a proper measure.",
+          "note": "Lesson 22."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "10 × 2 = 20",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "Name the two fastest methods of cooking and write two drawbacks of a solar cooker.",
+          "answer": "Pressure cooking and microwave cooking are the fastest. A solar cooker works only when there is plenty of sunshine and can only be used outdoors.",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Lesson 4."
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "Why are green leafy vegetables not put in KMS solution before drying?",
+          "answer": "Potassium metabisulphite bleaches the colour of green leafy and other dark vegetables, so they lose their natural colour.",
+          "note": "Lesson 5."
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "Suggest four efforts that people can make to reduce noise pollution in their society.",
+          "answer": "Play radio and TV at low volume; avoid loudspeakers; blow vehicle horns only when necessary; fit silencers in vehicles; talk in low tones; build factories and airports away from residential areas (any four).",
+          "years": [
+            "October 2025",
+            "April 2025"
+          ],
+          "note": "Lesson 6."
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "List any four myths regarding the spread of HIV/AIDS.",
+          "answer": "HIV does not spread by shaking hands, kissing on the cheek, using the same toilet seat, standing close to or sitting with the infected person, sneezing or coughing, sharing cups, glasses and plates, or through food and water.",
+          "years": [
+            "April 2025"
+          ],
+          "or": {
+            "q": "Write four causes of increase in lifestyle diseases.",
+            "answer": "Junk and processed food; less physical activity (use of vehicles and machines); smoking and drinking; stress; overeating and obesity; replacement of milk and fresh fruits by soft drinks and packed foods."
+          },
+          "note": "Lesson 8."
+        },
+        {
+          "id": "3.5",
+          "type": "open",
+          "q": "List four steps involved in the process of laundering clothes.",
+          "answer": "Soaking, washing, rinsing, finishing (starching or blueing), drying, ironing and storing (any four).",
+          "years": [
+            "October 2022"
+          ],
+          "note": "Lesson 9."
+        },
+        {
+          "id": "3.6",
+          "type": "open",
+          "q": "Why is a mercerised fabric preferred? Give two advantages.",
+          "answer": "Mercerisation with sodium hydroxide makes cotton strong, lustrous and absorbent, and it improves dye uptake; sewing threads are mercerised too.",
+          "note": "Lesson 11."
+        },
+        {
+          "id": "3.7",
+          "type": "open",
+          "q": "Write any four educational functions of a house.",
+          "answer": "It teaches basic values like respect for elders, love and affection, religion, discipline and responsibility; life skills like sharing, caring and empathy; health habits; and transfers customs and values from generation to generation.",
+          "years": [
+            "October 2025"
+          ],
+          "or": {
+            "q": "List any four household activities that are done once a week in your home.",
+            "answer": "Cleaning bathrooms and toilets; removing cobwebs; cleaning kitchen shelves; cleaning door handles; polishing wooden surfaces; cleaning washbasins and metal objects."
+          },
+          "note": "Lesson 12."
+        },
+        {
+          "id": "3.8",
+          "type": "open",
+          "q": "By dovetailing, the work of cooking dal, cooking vegetables, washing dishes and washing clothes (20 minutes each) was finished in 55 minutes. How much time was saved?",
+          "answer": "Without dovetailing: 20 + 20 + 20 + 20 = 80 minutes. With dovetailing: 55 minutes. Time saved = 80 – 55 = 25 minutes.",
+          "note": "Lesson 15."
+        },
+        {
+          "id": "3.9",
+          "type": "open",
+          "q": "Families are not able to meet their needs with rising inflation. Suggest four ways to cut their expenses.",
+          "answer": "Avoid wasting food and eating out; save electricity and water; use public transport or a cycle; iron and wash clothes at home; use stationery economically; borrow from the public library; look out for sales and shop in one trip; avoid impulsive buying.",
+          "years": [
+            "April 2026",
+            "April 2024"
+          ],
+          "or": {
+            "q": "Prepare a format to record one month food expenses of your family.",
+            "answer": "A table headed Month and Year with rows for cereals, pulses, vegetables, fruits, milk, ghee/oil, spices, egg/meat and others, columns for Week 1, Week 2, Week 3 and Week 4, and a Total column for each item and for the month."
+          },
+          "note": "Lesson 16."
+        },
+        {
+          "id": "3.10",
+          "type": "open",
+          "q": "As an Asha worker make the women aware of four signs that confirm pregnancy.",
+          "answer": "Missed menstrual period; morning sickness or nausea; enlarged, tender breasts with darker nipple area; frequent urination; cravings for or aversion to certain foods.",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Lesson 17."
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "4 × 3 = 12",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "Why do you wash cotton clothes in soapy water, rinse and starch them? Write the steps of laundering white cotton clothes (any six).",
+          "answer": "(1) Sort and mend. (2) Remove stains. (3) Soak white cottons in warm water for up to half an hour. (4) Wash in soap solution – light clothes by kneading, heavy ones with a stick, very dirty parts with hand or brush. (5) Rinse at least three times and add blue. (6) Starch for a smooth, fresh look and dry in the sun; iron when damp; store when completely dry.",
+          "note": "Lesson 9."
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "Your family is always short of time. Tell your family members six benefits of making a time plan.",
+          "answer": "You finish work efficiently without feeling tired; get time for rest; get time for hobbies; do more productive work in less time; are saved from last-minute tension and confusion; get time for unforeseen events like guests or illness; the quality of work improves.",
+          "years": [
+            "October 2022"
+          ],
+          "note": "Lesson 15."
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "What is the role of parents towards infants, school-going children and adolescents?",
+          "answer": "Infants: feeding, loving, clothing, bathing, immunisation and early stimulation. School-going children: support in studies, a separate study space, group games and good eating habits. Adolescents: set rules and limits, be firm and flexible, keep communication open, trust them, give emotional support and help them prepare for a career.",
+          "note": "Lesson 19."
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "Write any six characteristic features of a good label of a food product.",
+          "answer": "Name of the product and brand; manufacturer's name and address; ingredients; date of manufacture and date of expiry; net weight; MRP; directions for use and storage; standard mark (Agmark, FPO, ISI); lot or batch number; guarantee or warnings.",
+          "years": [
+            "October 2022"
+          ],
+          "note": "Lesson 22."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Long answer questions. Answer in 80–120 words.",
+      "marks": "2 × 5 = 10",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "Explain the steps of making a spending plan and the factors on which allocation of money to different items depends.",
+          "answer": "Steps: keep in mind all income and facilities; list all requirements; prioritise needs; allocate funds according to total income; balance the plan (earn more or cut expenses) and keep records. Allocation depends on income of the family, size of the family, age of family members (school-going children), place of residence (cost of living is higher in big cities), skills of members and the amount to be saved (about 10%).",
+          "note": "Lesson 16."
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "Write any five physical changes in adolescent girls.",
+          "answer": "Increase in height and weight; growth of breasts; broadening of hips; growth of underarm and pubic hair; pimples or acne; development of reproductive organs; menarche (start of menstruation).",
+          "years": [
+            "October 2025",
+            "April 2024"
+          ],
+          "or": {
+            "q": "Suggest any five ways to develop self-esteem in adolescents.",
+            "answer": "Accept strong points and appreciate them; acknowledge weaknesses and work on them; accept physical aspects that cannot be changed; avoid self-pity; seek advice from a trusted friend, parent or counsellor; appreciate others honestly; eat healthy and exercise; take pride in abilities and success."
+          },
+          "note": "Lesson 20."
+        }
+      ]
+    }
+  ]
+}

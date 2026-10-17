@@ -1,0 +1,386 @@
+{
+  "subject": "home-science",
+  "lesson": 11,
+  "title": "Fabric Finishes",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "15 × 1 = 15",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "Which finish is done to clean fabrics and make them more absorbent?",
+          "options": [
+            "Sanforisation",
+            "Calendering",
+            "Parchmentisation",
+            "Scouring"
+          ],
+          "answer": "D",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "Fabrics become wrinkle-free when given this finish.",
+          "options": [
+            "Bleaching",
+            "Calendering",
+            "Scouring",
+            "Starching"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "Which one of the following finishes would you choose to remove wrinkles from fabrics?",
+          "options": [
+            "Scouring",
+            "Printing",
+            "Bleaching",
+            "Calendering"
+          ],
+          "answer": "D",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "Scouring of silk is done to remove —",
+          "options": [
+            "silk gum (degumming)",
+            "grease",
+            "starch",
+            "dye"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "Which bleaching agent is used for cotton?",
+          "options": [
+            "Hydrogen peroxide",
+            "Sodium hypochlorite",
+            "Oxalic acid",
+            "Borax"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "The finish that makes cotton strong, lustrous and absorbent using sodium hydroxide is —",
+          "options": [
+            "mercerisation",
+            "parchmentisation",
+            "calendering",
+            "sanforisation"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "Organdy gets its permanent stiffness from —",
+          "options": [
+            "starching",
+            "parchmentisation",
+            "bleaching",
+            "scouring"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "Fabrics that come directly from the loom without any finish are called —",
+          "options": [
+            "gray goods",
+            "finished goods",
+            "blended goods",
+            "sanforised goods"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "A fabric labelled 'sanforised' means it —",
+          "options": [
+            "will not shrink on washing",
+            "is waterproof",
+            "is fire-proof",
+            "is dyed fast"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "Which is a temporary finish?",
+          "options": [
+            "Starching",
+            "Fire-proofing",
+            "Waterproofing",
+            "Mercerisation"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "A waterproof finish is an example of a —",
+          "options": [
+            "functional finish",
+            "basic finish",
+            "temporary finish",
+            "mechanical finish"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "Calendering is also known as —",
+          "options": [
+            "industrial ironing",
+            "bleaching",
+            "dyeing",
+            "printing"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.13",
+          "type": "mcq",
+          "q": "In batik the resist material is —",
+          "options": [
+            "thread",
+            "wax",
+            "clay",
+            "starch"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "1.14",
+          "type": "mcq",
+          "q": "Patola fabrics of Gujarat are made by dyeing the —",
+          "options": [
+            "yarn before weaving",
+            "fabric after weaving",
+            "garment after stitching",
+            "fibre before spinning"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.15",
+          "type": "mcq",
+          "q": "Which dyeing stage is most common in the textile industry?",
+          "options": [
+            "Fibre stage",
+            "Yarn stage",
+            "Fabric stage",
+            "Garment stage"
+          ],
+          "answer": "C"
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has four statements or pairs of ½ mark (true/false, match the columns, fill in the blanks or arrange in sequence).",
+      "marks": "7 × 2 = 14",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "Match the finishes in Column I with the agent in Column II: (A) Bleaching (B) Cleaning (C) Parchmentisation (D) Mercerisation; (i) Sodium hydroxide (ii) Mild acid (iii) Hydrogen peroxide (iv) Soap solution.",
+          "answer": "(A) – (iii); (B) – (iv); (C) – (ii); (D) – (i).",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Match the finish with the chemical or equipment: (I) Mercerisation (II) Parchmentisation (III) Calendering (IV) Bleaching; (a) Hot rollers (b) Sodium hypochlorite (c) Sodium hydroxide (d) Mild acid.",
+          "answer": "(I) – (c); (II) – (d); (III) – (a); (IV) – (b).",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "State True or False: (i) A chemical finish is also known as a wet finish. (ii) A permanent finish is given by chemical treatment. (iii) Wool fabrics are cleaned to remove gum. (iv) Scouring is done with a mixture of water and soap.",
+          "answer": "(i) True. (ii) True. (iii) False – wool is cleaned to remove grease and oils; gum is removed from silk. (iv) True.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "State True or False: (i) Marbling is a technique of tie and dye. (ii) Yarn is dyed before weaving in Patola. (iii) Thread is used as a resist material in batik. (iv) Block printing can be done at home with vegetables.",
+          "answer": "(i) True. (ii) True. (iii) False – wax is the resist in batik; thread is used in tie and dye. (iv) True.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "Fill in the blanks: (i) Treatment to improve the appearance of a fabric is a ______. (ii) A fabric with no finish is a ______ fabric. (iii) A chemical finish is also called a ______ finish. (iv) Tie and dye is ______ dyeing.",
+          "answer": "(i) finish. (ii) gray. (iii) wet. (iv) resist."
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "State True or False: (i) Bleaching has no damaging effect on fabric. (ii) Organdy is a permanently stiff fabric. (iii) Mercerised thread should be used for stitching. (iv) Starch stays on the fabric after many washes.",
+          "answer": "(i) False. (ii) True. (iii) True. (iv) False – it runs off in the first wash."
+        },
+        {
+          "id": "2.7",
+          "type": "open",
+          "q": "Match the dye stage with its feature: (i) Fibre (ii) Yarn (iii) Fabric (iv) Garment; (a) knitting yarn and threads (b) uniform colour, wastage of fibre (c) no fabric wastage but uneven colour at seams (d) most common, good for blends.",
+          "answer": "(i) – (b); (ii) – (a); (iii) – (d); (iv) – (c)."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "8 × 2 = 16",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "What are the four stages at which textiles are dyed?",
+          "answer": "The fibre stage, the yarn stage, the fabric stage and the garment (piece) stage.",
+          "years": [
+            "April 2026",
+            "April 2023"
+          ]
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "Briefly explain the batik method of resist dyeing.",
+          "answer": "In batik wax (a mixture of beeswax and paraffin wax) is applied with a brush or block on selected areas of the fabric as a resist; when the fabric is dyed, these areas do not take colour, and the wax is later removed, leaving a pattern.",
+          "years": [
+            "April 2025"
+          ],
+          "or": {
+            "q": "Briefly explain the block printing method.",
+            "answer": "A wooden block with an engraved design is pressed into thick dye paste and stamped on the fabric. At home vegetables like ladies' finger or onion cut as blocks can be used with fabric paint."
+          }
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "Name any four basic finishes that are given to cotton clothes.",
+          "answer": "Scouring (cleaning), bleaching, starching (stiffening) and calendering (industrial ironing).",
+          "years": [
+            "October 2022"
+          ]
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "Classify finishes on the basis of their functions and give two examples of each.",
+          "answer": "Basic (aesthetic) finishes – scouring, bleaching, starching, calendering, applied to almost all fabrics. Functional (special) finishes – fire-proof and waterproof, bullet-proof and crease-resistant finishes for a specific purpose.",
+          "years": [
+            "April 2023"
+          ]
+        },
+        {
+          "id": "3.5",
+          "type": "open",
+          "q": "Differentiate between dyeing and printing.",
+          "answer": "Dyeing gives a solid colour to the whole fabric (at fibre, yarn or fabric stage); printing applies colour to selected areas of the fabric surface only to make designs, so it is called selective dyeing."
+        },
+        {
+          "id": "3.6",
+          "type": "open",
+          "q": "Why is a mercerised fabric preferred? Give two advantages.",
+          "answer": "Mercerisation with sodium hydroxide makes cotton strong, lustrous and absorbent, and it improves dye uptake; sewing threads are mercerised too."
+        },
+        {
+          "id": "3.7",
+          "type": "open",
+          "q": "What is a gray fabric? Why do customers not prefer it?",
+          "answer": "A fabric that comes directly from the loom with no finish. It looks dull, wrinkled and uneven, so it lacks customer appeal and is used for backing and packaging."
+        },
+        {
+          "id": "3.8",
+          "type": "open",
+          "q": "State two differences between natural and synthetic dyes.",
+          "answer": "Natural dyes come from plants, animals or minerals, are eco-friendly but slow, difficult and expensive to use; synthetic dyes are made from chemicals, are easy to use, brighter and faster but pollute and may cause allergies."
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "3 × 3 = 9",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "Classify finishes on the basis of degree of performance with one example each.",
+          "answer": "Temporary finishes run off in the first wash, e.g. starching. Semi-durable finishes stay for several washes, e.g. bleaching and certain dyes. Durable finishes last through the life of the fabric but may lose effect after many washes, e.g. permanent pleats and wrinkle-resistance. Permanent finishes are given by chemical treatment that changes the fibre structure and stay for life, e.g. waterproofing and fire-proofing."
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "Describe scouring and bleaching.",
+          "answer": "Scouring is the industrial cleaning of fabric with warm water and soap solution to remove oils, starch and wax added for weaving; it makes the fabric clean and more absorbent. Bleaching is a chemical treatment that removes colour or paleness and makes fabric white so that light shades of dye come out well; hydrogen peroxide is used for silk and wool and sodium hypochlorite for cotton; strong bleach can harm the fabric."
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "Explain the tie and dye techniques with examples.",
+          "answer": "Thread is used as a resist to keep dye from selected areas. Marbling: the fabric is crumpled into a ball and tied at random. Binding: the fabric is picked up at points and tied at intervals. Knotting: knots are put where wanted. Folding: pleated and folded fabric is tied at intervals for lines. Peg tying: pegs or clamps are used. Patola (Gujarat) is tied and dyed in the yarn before weaving; bandhani (Rajasthan) is tied and dyed in woven fabric."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Long answer questions. Answer in 80–120 words.",
+      "marks": "2 × 5 = 10",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "Describe pre-shrinking, mercerisation, parchmentisation, wash 'n' wear and calendering in a sentence each, and name one use.",
+          "answer": "Pre-shrinking (sanforisation) prevents further shrinkage in washing. Mercerisation treats cotton with sodium hydroxide to make it strong, lustrous and absorbent. Parchmentisation treats cotton with mild acid to make stiff, transparent organdy. Wash 'n' wear gives cotton, linen or wool a crease-resistant finish that needs little or no ironing (for uniforms). Calendering passes fabric through hot rollers to remove wrinkles and add lustre."
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "Explain the importance of textile finishes and the stages of dyeing in five points each (briefly).",
+          "answer": "Importance: improve appearance; give variety through dyeing and printing; improve the feel of the fabric; make it more useful; improve the draping of light fabrics; make it suitable for its end use. Stages of dyeing: fibre (uniform and fast, popular for man-made fibres, but wastage); yarn (knitting yarn and threads); fabric (most dyeing, uniform, suits blends); garment (no fabric wastage, but uneven near seams)."
+        }
+      ]
+    }
+  ]
+}

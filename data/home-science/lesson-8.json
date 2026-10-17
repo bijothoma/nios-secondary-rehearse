@@ -1,0 +1,474 @@
+{
+  "subject": "home-science",
+  "lesson": 8,
+  "title": "Communicable and Life Style Diseases",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "18 × 1 = 18",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "What is the incubation period of hepatitis?",
+          "options": [
+            "1–3 days",
+            "5 to 6 days",
+            "10 days",
+            "20–35 days"
+          ],
+          "answer": "D",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "Which of these diseases is not caused by direct contact with the patient?",
+          "options": [
+            "Diphtheria",
+            "Herpes",
+            "AIDS",
+            "Cholera"
+          ],
+          "answer": "D",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Cholera spreads mainly through contaminated food and water."
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "Difficulty in chewing and swallowing could be symptoms of which disease?",
+          "options": [
+            "Hepatitis",
+            "Tetanus",
+            "Pertussis",
+            "Tuberculosis"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "What is the mode of spread of tetanus?",
+          "options": [
+            "Air",
+            "Rusted item",
+            "Food and water",
+            "Mosquito bite"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "When infected with typhoid, after how many days will its symptoms show?",
+          "options": [
+            "1–3 days",
+            "1–5 days",
+            "14–21 days",
+            "4–6 days"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "While caring for a tuberculosis patient one should —",
+          "options": [
+            "give carbohydrate-rich diet",
+            "control fever",
+            "give calcium-rich diet",
+            "wash all wounds"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "Sudha has severe bouts of cough with a whoop-like sound. Which disease may she be suffering from?",
+          "options": [
+            "Influenza",
+            "Tuberculosis",
+            "Whooping cough",
+            "Tetanus"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "Lifestyle disease can be prevented by eating —",
+          "options": [
+            "processed foods",
+            "whole grains",
+            "refined foods",
+            "packaged foods"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "Life-style diseases can be prevented by reducing intake of —",
+          "options": [
+            "processed foods",
+            "milk and milk products",
+            "fruits and vegetables",
+            "meat and meat products"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "Symptoms of malaria will be seen after how many days of mosquito bite?",
+          "options": [
+            "10–14 days",
+            "1–3 days",
+            "14–16 days",
+            "2–5 days"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "Loss of appetite, discomfort and yellowish tinge in the eyes might be symptoms of —",
+          "options": [
+            "malaria",
+            "jaundice",
+            "cholera",
+            "typhoid"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "Based on which symptom did the doctor diagnose that Suresh was suffering from tetanus?",
+          "options": [
+            "Back bent in shape of bow",
+            "Yellow tinge in eyes",
+            "Loss of weight",
+            "Alternating chill and perspiration"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "1.13",
+          "type": "mcq",
+          "q": "Which one of the following is a lifestyle disease?",
+          "options": [
+            "Diabetes",
+            "Cholera",
+            "Typhoid",
+            "Tetanus"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "1.14",
+          "type": "mcq",
+          "q": "Severe headache and a dry white-coated tongue could be symptoms of which disease?",
+          "options": [
+            "Influenza",
+            "Malaria",
+            "Tetanus",
+            "Typhoid"
+          ],
+          "answer": "D",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "1.15",
+          "type": "mcq",
+          "q": "AIDS spreads through —",
+          "options": [
+            "sneezing",
+            "infected needles",
+            "sharing a toilet",
+            "shaking hands"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "1.16",
+          "type": "mcq",
+          "q": "Cramps in the legs and watery diarrhoea are symptoms of —",
+          "options": [
+            "cholera",
+            "tetanus",
+            "influenza",
+            "malaria"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "1.17",
+          "type": "mcq",
+          "q": "The gap between the entry of germs and the appearance of symptoms is called —",
+          "options": [
+            "immunity",
+            "incubation period",
+            "epidemic",
+            "carrier stage"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "1.18",
+          "type": "mcq",
+          "q": "HIV stands for —",
+          "options": [
+            "Human Immuno Deficiency Virus",
+            "Human Infection Disease Virus",
+            "Heart Infection Disease Virus",
+            "Human Insect Disease Virus"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has four statements or pairs of ½ mark (true/false, match the columns, fill in the blanks or arrange in sequence).",
+      "marks": "8 × 2 = 16",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "State True or False: (i) Food can get contaminated by flies. (ii) A crowded place can be a source of disease-causing germs. (iii) All children need not be given full vaccination. (iv) Drinking water should be boiled for 10 minutes to make it germ-free.",
+          "answer": "(i) True. (ii) True. (iii) False – all children should be fully vaccinated. (iv) True.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Match the communicable disease with its incubation period: (I) Tuberculosis (II) Pertussis (III) Influenza (IV) Hepatitis; (a) 1–3 days (b) 4–6 days (c) 20–35 days (d) 7–12 days.",
+          "answer": "(I) – (b); (II) – (d); (III) – (a); (IV) – (c).",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "Fill in the blanks: To make ORS at home, mix ______ teaspoons of sugar and ______ teaspoon of salt in 1 litre of clean drinking water; ORS packet contents are mixed with ______ only; infants are fed with a ______ and not a bottle.",
+          "answer": "8; 1; water; cup and spoon.",
+          "years": [
+            "April 2024"
+          ],
+          "note": "April 2024 asked: to make ORS at home mix ______ and ______ to 1 litre clean drinking water (sugar and salt)."
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "State True or False: (i) HIV/AIDS spreads through shaking hands. (ii) An HIV-infected person may not have AIDS. (iii) Infected needles can spread HIV. (iv) There is a vaccine for HIV/AIDS.",
+          "answer": "(i) False. (ii) True. (iii) True. (iv) False – there is no vaccine or cure."
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "Match the disease with the mode of spread: (i) Malaria (ii) Typhoid (iii) Tetanus (iv) Influenza; (a) air (b) mosquito bite (c) wound exposed to dust or rusted item (d) food and water.",
+          "answer": "(i) – (b); (ii) – (d); (iii) – (c); (iv) – (a)."
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "Fill in the blanks: (i) Diabetes and hypertension are ______ diseases. (ii) Plenty of fluids and ______ should be given in dehydration. (iii) Obesity is excess ______ than the ideal for height. (iv) Age and heredity are ______ factors.",
+          "answer": "(i) lifestyle (non-communicable). (ii) ORS. (iii) body weight. (iv) non-modifiable."
+        },
+        {
+          "id": "2.7",
+          "type": "open",
+          "q": "State True or False: (i) Life style diseases spread by touch. (ii) Eating whole grains helps prevent them. (iii) Soft drinks are replacing milk in many diets. (iv) Taking the stairs instead of a lift helps prevent them.",
+          "answer": "(i) False. (ii) True. (iii) True. (iv) True."
+        },
+        {
+          "id": "2.8",
+          "type": "open",
+          "q": "Match the disease with its symptom: (i) Cholera (ii) Hepatitis (iii) Tuberculosis (iv) Tetanus; (a) persistent cough and weight loss (b) dark yellow urine and yellow eyes (c) back bent like a bow (d) watery diarrhoea and cramps in legs.",
+          "answer": "(i) – (d); (ii) – (b); (iii) – (a); (iv) – (c)."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "8 × 2 = 16",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "Which four precautions would you adopt to prevent communicable diseases?",
+          "answer": "Keep food and water covered and boil drinking water; wash hands before eating and cooking and after using the toilet; keep the house and surroundings clean with covered drains and wire mesh on windows; get children completely vaccinated; avoid crowds in an epidemic; keep the patient's things separate (any four).",
+          "years": [
+            "April 2026",
+            "April 2023",
+            "October 2025"
+          ]
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "List any four myths regarding the spread of HIV/AIDS.",
+          "answer": "HIV does not spread by shaking hands, kissing on the cheek, using the same toilet seat, standing close to or sitting with the infected person, sneezing or coughing, sharing cups, glasses and plates, or through food and water.",
+          "years": [
+            "April 2025"
+          ],
+          "or": {
+            "q": "Write four causes of increase in lifestyle diseases.",
+            "answer": "Junk and processed food; less physical activity (use of vehicles and machines); smoking and drinking; stress; overeating and obesity; replacement of milk and fresh fruits by soft drinks and packed foods."
+          }
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "Write any four reasons of transmission of HIV/AIDS. Expand HIV.",
+          "answer": "HIV stands for Human Immuno Deficiency Virus. It spreads by sexual contact with an infected person, by infected blood or body fluids (transfusion), by infected needles, and from an infected mother to her child during pregnancy or at birth.",
+          "years": [
+            "April 2023"
+          ]
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "Name any four diseases related to life style.",
+          "answer": "Obesity, diabetes, hypertension (high blood pressure), heart disease (any four; also stroke and some cancers).",
+          "years": [
+            "October 2022"
+          ]
+        },
+        {
+          "id": "3.5",
+          "type": "open",
+          "q": "Your neighbour is often sick. Suggest four ways to remain disease-free.",
+          "answer": "Eat a balanced diet; exercise regularly; keep personal and surrounding hygiene; drink boiled or safe water and keep food covered; get vaccinated; avoid smoking and alcohol; manage stress with yoga.",
+          "years": [
+            "October 2022"
+          ]
+        },
+        {
+          "id": "3.6",
+          "type": "open",
+          "q": "What is meant by incubation period? Give one example.",
+          "answer": "It is the gap between the entry of germs and the appearance of the symptoms of the disease. For example, typhoid symptoms may appear 14–21 days after the infected food was eaten; the person is a carrier meanwhile."
+        },
+        {
+          "id": "3.7",
+          "type": "open",
+          "q": "How is ORS prepared at home when a packet is not available?",
+          "answer": "Add 8 teaspoons of sugar and 1 teaspoon of salt to 1 litre of clean drinking water, dissolve and stir well."
+        },
+        {
+          "id": "3.8",
+          "type": "open",
+          "q": "Distinguish between communicable and life style diseases (two points).",
+          "answer": "Communicable diseases are caused by germs and spread from one person to another through food, water, air, contact or insects; life style diseases do not spread, they arise from faulty eating and living habits. Communicable diseases are usually short-term (acute) and curable, while life style diseases are chronic and can only be controlled."
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "3 × 3 = 9",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "Write any six reasons for the increase in life style diseases.",
+          "answer": "(1) Fast food and junk food replacing nutritious balanced meals. (2) More processed and packed food, rich in sugar, fat and salt. (3) Soft drinks replacing milk. (4) Use of bus or car even for short distances. (5) Machines reducing physical labour. (6) Smoking and drinking among young people. (7) Stress. (8) Overweight and obesity.",
+          "years": [
+            "October 2025",
+            "April 2025"
+          ]
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "Shazia ate food exposed to flies and dust at a fair; the next day she had vomiting, diarrhoea and leg cramps. Name the disease and write three steps to manage her.",
+          "answer": "These are symptoms of cholera, spread through contaminated food and water. Management: give plenty of fluids and ORS to prevent dehydration; give boiled water and fresh, easily digestible food; take her to a doctor for tests and medicine; keep her clean and rested."
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "Explain how communicable diseases spread, giving one example for each mode.",
+          "answer": "Food and water – typhoid, cholera, hepatitis through contaminated food and water. Air – influenza and mumps by sneezing or coughing. Contact – direct (common cold, diphtheria, measles) or indirect through shared towel, cup or comb. Insects – malaria and dengue by mosquito bite; flies carry germs to food."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Long answer questions. Answer in 80–120 words.",
+      "marks": "2 × 5 = 10",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "Suggest five ways by which life style diseases can be prevented.",
+          "answer": "(1) Take regular exercise such as walking, yoga, cycling. (2) Use stairs instead of the lift. (3) Eat a balanced diet at proper times and do not overeat. (4) Avoid processed and packaged foods and eat whole grains, millets and 400–500 g fruits and vegetables daily. (5) Drink plenty of water. (6) Practise yoga or meditation to avoid stress. (7) Keep away from smoking and alcohol; watch less TV and do outdoor activities."
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "Give the mode of spread, any three symptoms and the care of a patient of typhoid or tuberculosis.",
+          "answer": "Typhoid: spreads through contaminated food and water; symptoms – severe headache, fever with low pulse, dry white-coated tongue (appear after 14–21 days); care – blood tests, prescribed medicines, boiled water and fresh easily digestible food, rest. Tuberculosis: spreads through air; symptoms – persistent cough, loss of weight and appetite, excessive weakness, chest pain; care – hygienic conditions, calcium-rich diet, regular medicines for one year, covering the mouth while coughing and isolation."
+        }
+      ]
+    }
+  ]
+}

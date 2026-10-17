@@ -1,0 +1,568 @@
+{
+  "subject": "home-science",
+  "lesson": 901,
+  "title": "Model Question Paper 1",
+  "meta": "Time: 2½ hours · Maximum marks: 85 · Modelled on the April 2026 NIOS paper",
+  "instructions": [
+    "All questions are compulsory. Where a question has OR, answer either one.",
+    "Section A: questions 1–19 are MCQs (1 mark each); questions 20–31 are objective questions of 2 marks each.",
+    "Section B: questions 32–41 carry 2 marks (30–50 words), questions 42–45 carry 3 marks (50–80 words) and questions 46–47 carry 5 marks (80–120 words).",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "19 × 1 = 19",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "Which of the following is not a specialisation area in Home Science?",
+          "options": [
+            "Food Science",
+            "Garment Designing",
+            "Nursing",
+            "Interior Decoration"
+          ],
+          "answer": "C",
+          "note": "Lesson 1."
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "Knowing the nutrients the body needs and the functions they perform is the —",
+          "options": [
+            "science of Home Science",
+            "art of Home Science",
+            "skill of marketing",
+            "hobby of cooking"
+          ],
+          "answer": "A",
+          "note": "Lesson 1."
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "Which cooking method is most suitable for making parathas?",
+          "options": [
+            "Steaming",
+            "Shallow frying",
+            "Grilling",
+            "Deep frying"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 4."
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "Rohit wants to cook on an iron grid over the fire or between electrically heated bars. Which method is this?",
+          "options": [
+            "Sauteing",
+            "Roasting",
+            "Baking",
+            "Grilling"
+          ],
+          "answer": "D",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Lesson 4."
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "Which of the following is classified as a perishable food?",
+          "options": [
+            "Green leafy vegetables",
+            "Eggs",
+            "Potatoes",
+            "Onions"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 5."
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "Which of the following foods has the least moisture content?",
+          "options": [
+            "Tomatoes",
+            "Spinach",
+            "Milk",
+            "Potatoes"
+          ],
+          "answer": "D",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Potatoes have the least water of the four; tomato and spinach are very moist and milk is mostly water. Lesson 5."
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "Which one of the following is not a way of preventing soil pollution?",
+          "options": [
+            "Landfill",
+            "Composting",
+            "Incineration",
+            "Using pesticides"
+          ],
+          "answer": "D",
+          "years": [
+            "April 2023"
+          ],
+          "note": "Lesson 6."
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "Which is the latest technology in garbage disposal?",
+          "options": [
+            "Composting",
+            "Burning",
+            "Incineration",
+            "Dumping in water"
+          ],
+          "answer": "C",
+          "note": "Lesson 6."
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "While caring for a tuberculosis patient one should —",
+          "options": [
+            "give carbohydrate-rich diet",
+            "control fever",
+            "give calcium-rich diet",
+            "wash all wounds"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 8."
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "Washed fabrics should be rinsed at least —",
+          "options": [
+            "once",
+            "twice",
+            "three times or till the water is clear",
+            "five times"
+          ],
+          "answer": "C",
+          "note": "Lesson 9."
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "Fabrics that come directly from the loom without any finish are called —",
+          "options": [
+            "gray goods",
+            "finished goods",
+            "blended goods",
+            "sanforised goods"
+          ],
+          "answer": "A",
+          "note": "Lesson 11."
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "Which of the following is an advantage of a septic tank?",
+          "options": [
+            "It needs 13–14 litres of water to flush",
+            "It needs only 1.5–2 litres of water to flush",
+            "It pollutes ground water",
+            "It smells"
+          ],
+          "answer": "B",
+          "note": "Lesson 12."
+        },
+        {
+          "id": "1.13",
+          "type": "mcq",
+          "q": "To reduce pressure in the morning peak load, one can —",
+          "options": [
+            "do pre-preparation the night before",
+            "wake up late",
+            "skip breakfast",
+            "remove the time plan"
+          ],
+          "answer": "A",
+          "note": "Lesson 15."
+        },
+        {
+          "id": "1.14",
+          "type": "mcq",
+          "q": "If school-going children are in the family, expenditure on ______ is more.",
+          "options": [
+            "education",
+            "recreation",
+            "furnishing",
+            "luxury"
+          ],
+          "answer": "A",
+          "note": "Lesson 16."
+        },
+        {
+          "id": "1.15",
+          "type": "mcq",
+          "q": "A pregnant woman should gain on average about —",
+          "options": [
+            "2 kg",
+            "6 kg",
+            "12 kg",
+            "25 kg"
+          ],
+          "answer": "C",
+          "note": "Lesson 17."
+        },
+        {
+          "id": "1.16",
+          "type": "mcq",
+          "q": "Which parenting style is likely to produce a rebellious adolescent?",
+          "options": [
+            "Autocratic",
+            "Democratic",
+            "Balanced",
+            "Supportive"
+          ],
+          "answer": "A",
+          "note": "Lesson 19."
+        },
+        {
+          "id": "1.17",
+          "type": "mcq",
+          "q": "A genital hygiene practice for both boys and girls is —",
+          "options": [
+            "washing with clean water after urination",
+            "wearing tight synthetic garments",
+            "changing garments weekly",
+            "drying undergarments in shade"
+          ],
+          "answer": "A",
+          "note": "Lesson 20."
+        },
+        {
+          "id": "1.18",
+          "type": "mcq",
+          "q": "What do you understand by punctuality?",
+          "options": [
+            "Respecting everyone in office",
+            "Reaching on time",
+            "Respecting all jobs equally",
+            "Keeping a check on anger"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 21."
+        },
+        {
+          "id": "1.19",
+          "type": "mcq",
+          "q": "To file a complaint for goods worth Rs 20,000, which consumer forum will you approach?",
+          "options": [
+            "District",
+            "State",
+            "National",
+            "Lok Adalat"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 22."
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has four statements or pairs of ½ mark (true/false, match the columns, fill in the blanks or arrange in sequence).",
+      "marks": "12 × 2 = 24",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "State True or False: (i) Wind decreases the amount of dust particles in the air. (ii) Tall chimneys fitted with filters help to reduce air pollution. (iii) Locating factories near residential areas reduces air pollution. (iv) A tall chimney on a chulha decreases air pollution at home.",
+          "answer": "(i) False – wind increases dust in the air. (ii) True. (iii) False – factories should be far from residential areas. (iv) True.",
+          "note": "Lesson 6."
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Fill in the blanks: To make ORS at home, mix ______ teaspoons of sugar and ______ teaspoon of salt in 1 litre of clean drinking water; ORS packet contents are mixed with ______ only; infants are fed with a ______ and not a bottle.",
+          "answer": "8; 1; water; cup and spoon.",
+          "years": [
+            "April 2024"
+          ],
+          "note": "April 2024 asked: to make ORS at home mix ______ and ______ to 1 litre clean drinking water (sugar and salt). Lesson 8."
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "State True or False: (i) Only white-coloured clothes should be soaked. (ii) Soak very dirty clothes separately. (iii) Too many clothes should not be soaked together. (iv) Cotton clothes are starched to give them whiteness.",
+          "answer": "(i) True. (ii) True. (iii) True. (iv) False – starch gives a smooth, crisp and fresh look; whiteness comes from blue or brighteners.",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Lesson 9."
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Fill in the blanks: (i) Treatment to improve the appearance of a fabric is a ______. (ii) A fabric with no finish is a ______ fabric. (iii) A chemical finish is also called a ______ finish. (iv) Tie and dye is ______ dyeing.",
+          "answer": "(i) finish. (ii) gray. (iii) wet. (iv) resist.",
+          "note": "Lesson 11."
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "Match the cleaning activity with the type: (A) Dusting (B) Cleaning bathrooms (C) Washing curtains (D) Cleaning before Diwali; (i) Weekly (ii) Seasonal (iii) Daily.",
+          "answer": "(A) – (iii) daily; (B) – (i) weekly; (C) – (ii) seasonal; (D) – (ii) seasonal.",
+          "note": "Lesson 12."
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "Arrange in the correct order for cleaning and rearranging a house: dusting, shifting the furniture, clearing webs, mopping, sweeping.",
+          "answer": "Shift the furniture, clear cobwebs, sweep, dust, mop.",
+          "note": "Lesson 15."
+        },
+        {
+          "id": "2.7",
+          "type": "open",
+          "q": "State True or False: (i) Funds should be allocated keeping in mind total income. (ii) Family income includes money from salary, rent and bank interest only. (iii) Cost of living is more in big cities. (iv) Expenditure should be less than income to save.",
+          "answer": "(i) True. (ii) False – it also includes savings from using skills and free facilities. (iii) True. (iv) True.",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 16."
+        },
+        {
+          "id": "2.8",
+          "type": "open",
+          "q": "State True or False: (i) One should not scrub the skin of a newborn child. (ii) On an average a pregnant woman should gain 12 kg weight. (iii) Women should not have a bath for a week after delivery. (iv) BCG vaccine should be given after 6 months of birth.",
+          "answer": "(i) True – the white coating and fine hair are protective. (ii) True. (iii) False – she should bathe regularly. (iv) False – BCG is given at birth.",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 17."
+        },
+        {
+          "id": "2.9",
+          "type": "open",
+          "q": "Fill in the blanks: (i) Children brought up with the democratic disciplining style are more ______. (ii) During the ______ stage of the life cycle a couple can take part in community service and pursue hobbies. (iii) Infants up to two years are actively engaged in ______ games. (iv) When a family lives with their children under one roof it is a ______ family.",
+          "answer": "(i) socially adjusted, responsible and self-confident. (ii) contracting. (iii) solitary. (iv) nuclear.",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 19."
+        },
+        {
+          "id": "2.10",
+          "type": "open",
+          "q": "State True or False: (i) Boys should dry their undergarments in shade. (ii) Life skills help to improve the quality of life. (iii) Elderly people should let go of all responsibilities. (iv) Breast milk is the healthiest food for an infant.",
+          "answer": "(i) False – undergarments should be dried in the sun. (ii) True. (iii) False – they should slow down but may continue what they can. (iv) True.",
+          "years": [
+            "April 2025"
+          ],
+          "note": "April 2025 had these four statements as Q31. Lesson 20."
+        },
+        {
+          "id": "2.11",
+          "type": "open",
+          "q": "Fill in the blanks: (i) Life skills help to improve the ______ of life. (ii) 'Adaptive' means a person is ______ in approach. (iii) A positive attitude brings ______ and avoids negative thinking. (iv) The cobbler Krishna wanted to earn his meal in a ______ manner.",
+          "answer": "(i) quality. (ii) flexible. (iii) optimism. (iv) dignified.",
+          "note": "Lesson 21."
+        },
+        {
+          "id": "2.12",
+          "type": "open",
+          "q": "Match the food with its adulterant: (i) Milk (ii) Black pepper (iii) Tea leaves (iv) Tea or semolina; (a) papaya seeds (b) water (c) iron filings (d) coloured exhausted leaves.",
+          "answer": "(i) – (b); (ii) – (a); (iii) – (d); (iv) – (c).",
+          "note": "Lesson 22."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "10 × 2 = 20",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "Write any two bases by which you can identify stains. Give two examples of each.",
+          "answer": "By colour – curry is yellow, tea or coffee is brown, grass is green. By smell – egg, paint, shoe polish have their own smell. By feel – paint or sugar makes the fabric hard and stiff, lipstick or shoe polish makes it slippery (any two bases).",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 9."
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "Name any four basic finishes that are given to cotton clothes.",
+          "answer": "Scouring (cleaning), bleaching, starching (stiffening) and calendering (industrial ironing).",
+          "years": [
+            "October 2022"
+          ],
+          "note": "Lesson 11."
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "Apart from soap and water, what materials are used for washing tiles, plastic buckets and metal taps in the bathroom?",
+          "answer": "Tiles: commercial tile cleaners, vinegar, mild hydrochloric acid. Plastic buckets: scrubber, vinegar, kerosene and soda (avoid hard cleaners). Metal taps: lemon, vinegar, tamarind and salt.",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Lesson 12."
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "Give any four examples of cutting unnecessary movements to save energy.",
+          "answer": "Carry all glasses on a tray to serve guests; take the clothes and sweeping tools to the roof in one trip; clear the table in one or two trips by stacking plates; keep books near the study table; gather all ingredients before cooking.",
+          "years": [
+            "April 2023"
+          ],
+          "note": "Lesson 15."
+        },
+        {
+          "id": "3.5",
+          "type": "open",
+          "q": "Give any three reasons for saving money.",
+          "answer": "To meet emergencies and health needs; for children's education and marriage; for old age security; to buy household goods or a house.",
+          "years": [
+            "April 2023"
+          ],
+          "note": "Lesson 16."
+        },
+        {
+          "id": "3.6",
+          "type": "open",
+          "q": "What are the possible ill effects of having a child before 20 years of age?",
+          "answer": "The reproductive system is not fully developed, so there may be complications in delivery, a physically or mentally weak child, risk to the lives of mother and child, and risk of miscarriage.",
+          "note": "Lesson 17."
+        },
+        {
+          "id": "3.7",
+          "type": "open",
+          "q": "How can the family help a newly married girl adjust in her new home?",
+          "answer": "Welcome her and accept her as an integral part; give her time and space to understand the ways of the home; have realistic expectations; be non-critical and share responsibilities.",
+          "note": "Lesson 19."
+        },
+        {
+          "id": "3.8",
+          "type": "open",
+          "q": "Teenagers' ideal body shape is influenced by actors and models. What are the four negative effects of this on their health?",
+          "answer": "Eating disorders from excessive dieting; loss of stamina and decreased resistance to disease; irregular menstrual cycles in girls; obsessive weight training and use of steroids and supplements in boys with harmful effects.",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 20."
+        },
+        {
+          "id": "3.9",
+          "type": "open",
+          "q": "Mention any four expected ethics in a nurse.",
+          "answer": "Honesty and truthfulness; punctuality and regularity; empathy and care for patients; courtesy and politeness; respect for work and confidentiality; efficiency in completing tasks.",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 21."
+        },
+        {
+          "id": "3.10",
+          "type": "open",
+          "q": "Mr Gupta wants to file a case against a manufacturer. What two documents would he need to submit with his complaint?",
+          "answer": "The bill or receipt (proof of purchase) and the guarantee/warranty or a notarised affidavit with the prescribed form (plus the court fee).",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Lesson 22."
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "4 × 3 = 12",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "Explain how Home Science is both an art and a science with two examples.",
+          "answer": "Home Science is the art of managing resources efficiently and the science of achieving a healthy, happy home. Example 1: learning the nutrients the body needs and their functions is the science; selecting dishes that give them and serving them attractively so that the family eats the right food is the art. Example 2: knowing how germs are removed by soap is science; keeping the house clean and tidy in an aesthetic way is art. It also draws on physics, chemistry, biology, economics, sociology and psychology.",
+          "note": "Lesson 1."
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "Make the villagers aware of the ill effects of air pollution on health. Suggest four ways to control it.",
+          "answer": "Air pollution causes eye infections, allergies, bronchitis and asthma, and makes breathing difficult; smoke from chullahs affects the eyes and lungs. Control: use a smokeless chulha with a chimney or biogas, use a solar cooker, do not burn garbage and crop residue, plant trees, keep vehicles in good condition.",
+          "years": [
+            "April 2024"
+          ],
+          "or": {
+            "q": "Make your friends aware of the ill effects of water pollution on health. Suggest four ways to control it.",
+            "answer": "Polluted water causes cholera, typhoid, diarrhoea, dysentery and hepatitis, and skin diseases and allergies. Control: do not let untreated sewage or factory waste into water; use latrines and keep them away from water sources; do not wash clothes or bathe animals in the source; keep water in clean covered containers and use a long-handled ladle."
+          },
+          "note": "Lesson 6."
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "Prepare a spending plan for a family with a monthly income of Rs 31,000 using the guide percentages.",
+          "answer": "Food 35% = Rs 10,850; housing 20% = Rs 6,200; clothing 5% = Rs 1,550; recreation 5% = Rs 1,550; household operations 6% = Rs 1,860; education 5% = Rs 1,550; transport 8% = Rs 2,480; medical 3% = Rs 930; furnishing 3% = Rs 930; savings 10% = Rs 3,100. Total = 10,850 + 6,200 + 1,550 + 1,550 + 1,860 + 1,550 + 2,480 + 930 + 930 + 3,100 = Rs 31,000.",
+          "note": "Lesson 16."
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "Explain how parents can reduce the negative effect of media on adolescents.",
+          "answer": "Help them distinguish fantasy from reality; discuss the consequences of violence and risk-taking behaviour; empower them with critical thinking and decision-making skills so they filter messages and watch age-appropriate content.",
+          "note": "Lesson 20."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Long answer questions. Answer in 80–120 words.",
+      "marks": "2 × 5 = 10",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "Give any five suggestions to conserve nutrients while preparing and cooking food.",
+          "answer": "(1) Wash vegetables before cutting, only as much as needed. (2) Scrape peels as thin as possible. (3) Cut into large pieces just before cooking. (4) Put vegetables into boiling water and use just enough water. (5) Use the extra water for soup or gravy. (6) Do not use cooking soda; a little lemon or tamarind helps keep vitamins. (7) Cook in a pan with a well-fitting lid and do not overcook.",
+          "years": [
+            "October 2022"
+          ],
+          "note": "Lesson 4."
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "Explain dignity of labour with examples and why we should not depend on others.",
+          "answer": "Dignity of labour means that all work, manual or intellectual, is respected equally and no occupation is considered superior; respectability lies in doing the work well. Krishna the cobbler worked at 70 to earn his meal in a dignified manner; the Prophet asked a beggar to cut and sell wood; Guru Nanak preferred the dry bread earned by honest labour. It is better to earn one's living honestly than to depend on others.",
+          "note": "Lesson 21."
+        }
+      ]
+    }
+  ]
+}

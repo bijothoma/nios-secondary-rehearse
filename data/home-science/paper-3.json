@@ -1,0 +1,567 @@
+{
+  "subject": "home-science",
+  "lesson": 903,
+  "title": "Model Question Paper 3",
+  "meta": "Time: 2½ hours · Maximum marks: 85 · Modelled on the April 2026 NIOS paper",
+  "instructions": [
+    "All questions are compulsory. Where a question has OR, answer either one.",
+    "Section A: questions 1–19 are MCQs (1 mark each); questions 20–31 are objective questions of 2 marks each.",
+    "Section B: questions 32–41 carry 2 marks (30–50 words), questions 42–45 carry 3 marks (50–80 words) and questions 46–47 carry 5 marks (80–120 words).",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "19 × 1 = 19",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "Owner of a boutique is an example of —",
+          "options": [
+            "wage employment",
+            "self-employment",
+            "volunteer work",
+            "a training programme"
+          ],
+          "answer": "B",
+          "note": "Lesson 1."
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "Which cooking method uses microwaves to make water molecules in food vibrate?",
+          "options": [
+            "Microwave cooking",
+            "Baking",
+            "Grilling",
+            "Simmering"
+          ],
+          "answer": "A",
+          "note": "Lesson 4."
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "The time for which a food can be kept fresh is called its —",
+          "options": [
+            "storage",
+            "shelf life",
+            "expiry",
+            "blanching"
+          ],
+          "answer": "B",
+          "note": "Lesson 5."
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "People are suffering from bronchitis because of ______ pollution.",
+          "options": [
+            "air",
+            "sound",
+            "water",
+            "land"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 6."
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "Life-style diseases can be prevented by reducing intake of —",
+          "options": [
+            "processed foods",
+            "milk and milk products",
+            "fruits and vegetables",
+            "meat and meat products"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 8."
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "Which of these activities will you do first while laundering cotton clothes at home?",
+          "options": [
+            "Rinse the clothes",
+            "Starch the clothes",
+            "Remove stains",
+            "Iron the clothes"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2026"
+          ],
+          "note": "April 2026 asked to arrange rinse, starch, remove stains and soak in sequence. Lesson 9."
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "Which dyeing stage is most common in the textile industry?",
+          "options": [
+            "Fibre stage",
+            "Yarn stage",
+            "Fabric stage",
+            "Garment stage"
+          ],
+          "answer": "C",
+          "note": "Lesson 11."
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "Which cleaning material is suitable for glass and mirrors?",
+          "options": [
+            "Moist newspaper and vinegar",
+            "Hydrochloric acid",
+            "Kerosene",
+            "Soda"
+          ],
+          "answer": "A",
+          "note": "Lesson 12."
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "Soakage pits should not be constructed where there is less —",
+          "options": [
+            "excreta",
+            "leaves",
+            "water",
+            "grass"
+          ],
+          "answer": "C",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 12."
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "Doing two or more activities at the same time is called —",
+          "options": [
+            "sequencing",
+            "dovetailing",
+            "peak load period",
+            "grouping"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 15."
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "Which of the following is the first step in making a time plan?",
+          "options": [
+            "Balancing",
+            "Listing all activities",
+            "Estimating time",
+            "Grouping"
+          ],
+          "answer": "B",
+          "note": "Lesson 15."
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "Which of the following statements is incorrect? Budgeting helps to —",
+          "options": [
+            "balance income and expenses",
+            "manage the finances of the family",
+            "prioritise family needs",
+            "meet all needs of the family"
+          ],
+          "answer": "D",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Lesson 16."
+        },
+        {
+          "id": "1.13",
+          "type": "mcq",
+          "q": "Which of the following helps in balancing a budget?",
+          "options": [
+            "Impulsive buying",
+            "Eating out often",
+            "Using public transport",
+            "Buying more on credit"
+          ],
+          "answer": "C",
+          "note": "Lesson 16."
+        },
+        {
+          "id": "1.14",
+          "type": "mcq",
+          "q": "For how many months does a foetus remain in the mother's womb?",
+          "options": [
+            "Seven",
+            "Nine",
+            "Ten",
+            "Eight"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Lesson 17."
+        },
+        {
+          "id": "1.15",
+          "type": "mcq",
+          "q": "The zygote attaches itself to the lining of the —",
+          "options": [
+            "vagina",
+            "uterus",
+            "cervix",
+            "ovary"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Lesson 17."
+        },
+        {
+          "id": "1.16",
+          "type": "mcq",
+          "q": "Your sister-in-law does not get along with her in-laws. The possible reason could be that she —",
+          "options": [
+            "shares responsibilities",
+            "talks to all respectfully",
+            "expresses negative facial expressions",
+            "informs everyone before making a plan"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 19."
+        },
+        {
+          "id": "1.17",
+          "type": "mcq",
+          "q": "Menarche means —",
+          "options": [
+            "first menstrual period",
+            "end of menstruation",
+            "ovulation",
+            "fertilisation"
+          ],
+          "answer": "A",
+          "note": "Lesson 20."
+        },
+        {
+          "id": "1.18",
+          "type": "mcq",
+          "q": "Ethics are —",
+          "options": [
+            "ideas and beliefs we hold",
+            "the way we behave in difficult situations that test our values",
+            "laws of the country",
+            "rights of consumers"
+          ],
+          "answer": "B",
+          "note": "Lesson 21."
+        },
+        {
+          "id": "1.19",
+          "type": "mcq",
+          "q": "Which standard mark will you check while buying gold ornaments?",
+          "options": [
+            "ISI mark",
+            "Agmark",
+            "Hall mark",
+            "Eco mark"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2024",
+            "October 2022"
+          ],
+          "note": "Lesson 22."
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has four statements or pairs of ½ mark (true/false, match the columns, fill in the blanks or arrange in sequence).",
+      "marks": "12 × 2 = 24",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "State True or False: (i) Home Science teaches both the art and the science of managing a home. (ii) Home Science is only for girls. (iii) A person who owns and finances an enterprise is self-employed. (iv) The school course in Home Science is enough to get a specialised job.",
+          "answer": "(i) True. (ii) False – it is for both boys and girls. (iii) True. (iv) False – it gives only basic knowledge; advanced courses are needed.",
+          "note": "Lesson 1."
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Match the food with the method of enhancement: (I) Dosa (II) Dhokla (III) Sprouted moong dal chaat (IV) Wheat besan ladoo; (a) Combination (b) Combination and fermentation (c) Fermentation (d) Germination.",
+          "answer": "(I) – (c); (II) – (b); (III) – (d); (IV) – (a).",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Lesson 4."
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "Fill in the blanks: (i) Papad is preserved by ______. (ii) Refrigeration reduces the activity of ______ and micro-organisms. (iii) Dehydration is based on removal of ______. (iv) The test for doneness of jam is dropping it in ______ water.",
+          "answer": "(i) dehydration. (ii) enzymes. (iii) moisture. (iv) ice-cold.",
+          "note": "Lesson 5."
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Unscramble to find sources of air pollution: (i) TRIULAUGRCAL (ii) ESNLOSTV (iii) SRILADNUIT (iv) BTNOMOICUS.",
+          "answer": "(i) agricultural. (ii) solvents. (iii) industrial. (iv) combustion.",
+          "note": "Lesson 6."
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "State True or False: (i) HIV/AIDS spreads through shaking hands. (ii) An HIV-infected person may not have AIDS. (iii) Infected needles can spread HIV. (iv) There is a vaccine for HIV/AIDS.",
+          "answer": "(i) False. (ii) True. (iii) True. (iv) False – there is no vaccine or cure.",
+          "note": "Lesson 8."
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "State True or False: (i) Bacteria can grow on damp clothes. (ii) Cotton clothes should be hung on a clothesline. (iii) Clothes should be rinsed at least three times to remove soapy water. (iv) Old ink stains can be removed by using sour milk (buttermilk).",
+          "answer": "(i) True. (ii) True. (iii) True. (iv) True.",
+          "years": [
+            "October 2025"
+          ],
+          "note": "October 2025 had 'at least two times' in item (iii); the textbook says at least three times, or till the water is clear. Lesson 9."
+        },
+        {
+          "id": "2.7",
+          "type": "open",
+          "q": "State True or False: (i) Marbling is a technique of tie and dye. (ii) Yarn is dyed before weaving in Patola. (iii) Thread is used as a resist material in batik. (iv) Block printing can be done at home with vegetables.",
+          "answer": "(i) True. (ii) True. (iii) False – wax is the resist in batik; thread is used in tie and dye. (iv) True.",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 11."
+        },
+        {
+          "id": "2.8",
+          "type": "open",
+          "q": "State True or False: (i) Bottle-fed milk contains protective antibodies. (ii) Bottles need to be sterilised. (iii) Exclusive breast milk is best for the first six months. (iv) Working mothers cannot give their milk to babies.",
+          "answer": "(i) False. (ii) True. (iii) True. (iv) False – they can express and store the milk in sterilised bottles.",
+          "note": "Lesson 17."
+        },
+        {
+          "id": "2.9",
+          "type": "open",
+          "q": "Fill in the blanks: (i) Toys for children should be safe, inexpensive, durable and ______. (ii) ______ are factors that cannot be changed and are given by birth. (iii) ______ play helps children to imitate adult roles. (iv) Exclusive breast feeding should continue for ______ months.",
+          "answer": "(i) interesting and attractive. (ii) Heredity (genetic factors). (iii) Make-believe. (iv) 6.",
+          "note": "Lesson 19."
+        },
+        {
+          "id": "2.10",
+          "type": "open",
+          "q": "Fill in the blanks: (i) Puberty means the beginning of ______ maturity. (ii) Menstruation usually begins between ______ and 16 years. (iii) Sanitary napkins should be changed every ______ hours. (iv) A positive self concept leads to higher ______.",
+          "answer": "(i) sexual. (ii) 9. (iii) six. (iv) self-esteem.",
+          "note": "Lesson 20."
+        },
+        {
+          "id": "2.11",
+          "type": "open",
+          "q": "Which of these are signs of disrespect? (i) Greeting everyone in the room (ii) Going out without informing your mother (iii) Raising your voice with elders (iv) Introducing friends to the family.",
+          "answer": "(ii) and (iii) are signs of disrespect; (i) and (iv) are signs of respect.",
+          "note": "Lesson 21."
+        },
+        {
+          "id": "2.12",
+          "type": "open",
+          "q": "Fill in the blanks: (i) A person who buys goods or services is a ______. (ii) The element added to a food stuff to lower its quality is an ______. (iii) Selling goods at higher prices during shortage is ______ marketing. (iv) World Consumer Rights Day is observed on ______ March.",
+          "answer": "(i) consumer. (ii) adulterant. (iii) black. (iv) 15.",
+          "note": "Lesson 22."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "10 × 2 = 20",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "Name two self-employment opportunities for the youth in interior decoration.",
+          "answer": "Working as an interior designer, furniture designer, showroom or shop owner, show-case and window display designer, running a home-based craft centre or conducting hobby courses (any two).",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Lesson 1."
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "Write two differences between boiling and pressure cooking methods.",
+          "answer": "Boiling is done at 100 degrees C in an open pan with plenty of water and takes longer; pressure cooking is done above 100 degrees C in steam under pressure, takes about one-third of the time, saves fuel and needs little water. Pressure cooking kills all bacteria and loses less water-soluble vitamins.",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 4."
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "What does food preservation mean? Why is it important?",
+          "answer": "Preservation is a process by which food is prevented from spoiling for a short or long time while its colour, taste and nutritive value are kept as far as possible. It takes care of excess produce, adds variety, sends food to places where it is not grown and makes storage and transport easier.",
+          "years": [
+            "October 2022"
+          ],
+          "note": "Lesson 5."
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "Give any four suggestions for safe garbage disposal in your area.",
+          "answer": "Collect garbage in a covered bin; dump in covered pits outside the city; use sanitary landfills; compost garden waste; incinerate in a furnace; never burn it in the open or throw it into water.",
+          "years": [
+            "October 2022"
+          ],
+          "note": "Lesson 6."
+        },
+        {
+          "id": "3.5",
+          "type": "open",
+          "q": "What is meant by incubation period? Give one example.",
+          "answer": "It is the gap between the entry of germs and the appearance of the symptoms of the disease. For example, typhoid symptoms may appear 14–21 days after the infected food was eaten; the person is a carrier meanwhile.",
+          "note": "Lesson 8."
+        },
+        {
+          "id": "3.6",
+          "type": "open",
+          "q": "Distinguish between washing and dry cleaning.",
+          "answer": "Washing removes dirt with soap or detergent and water and suits colourfast fabrics; dry cleaning removes dirt with grease absorbents and solvents and is used for leather, fur, selected silks and woollens, zari and costly fabrics.",
+          "note": "Lesson 9."
+        },
+        {
+          "id": "3.7",
+          "type": "open",
+          "q": "Classify finishes on the basis of their functions and give two examples of each.",
+          "answer": "Basic (aesthetic) finishes – scouring, bleaching, starching, calendering, applied to almost all fabrics. Functional (special) finishes – fire-proof and waterproof, bullet-proof and crease-resistant finishes for a specific purpose.",
+          "years": [
+            "April 2023"
+          ],
+          "note": "Lesson 11."
+        },
+        {
+          "id": "3.8",
+          "type": "open",
+          "q": "Explain 'peer' and give two positive effects of positive peer pressure.",
+          "answer": "A peer is a person of equal age, abilities, qualifications, background or social status. Positive peer pressure helps social development and self-esteem, gives a safety net in difficult times, provides role models and encourages healthy behaviour such as sports.",
+          "note": "Lesson 20."
+        },
+        {
+          "id": "3.9",
+          "type": "open",
+          "q": "What can be the four consequences of not following values in the society?",
+          "answer": "Loss of life and damage to public property; crime and corruption; breakdown of families and loss of law and order; alcohol and drug abuse; abuse of women, children and vulnerable people; wastage of resources.",
+          "years": [
+            "April 2026",
+            "April 2024"
+          ],
+          "note": "Lesson 21."
+        },
+        {
+          "id": "3.10",
+          "type": "open",
+          "q": "How can the cloth merchant cheat in measuring? Name any four signs.",
+          "answer": "Using a table to measure, a bent measuring rod, stretching the fabric while measuring, and selling cheap fabric at the price of a better one.",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Lesson 22."
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "4 × 3 = 12",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "Your mother is cooking chapatti, dal and vegetables for lunch. Give one suggestion each to enhance the nutritive value of each dish.",
+          "answer": "Chapatti: mix pulses or soya flour or add grated vegetables (missi roti, methi paratha) to improve proteins and vitamins. Dal: add spinach, moong or other vegetables, or combine with rice (khichri), and cook in a covered pan without soda. Vegetable: cut into large pieces just before cooking, cook in a covered pan with little water and use the water.",
+          "years": [
+            "October 2022"
+          ],
+          "note": "Lesson 4."
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "Write any six reasons for the increase in life style diseases.",
+          "answer": "(1) Fast food and junk food replacing nutritious balanced meals. (2) More processed and packed food, rich in sugar, fat and salt. (3) Soft drinks replacing milk. (4) Use of bus or car even for short distances. (5) Machines reducing physical labour. (6) Smoking and drinking among young people. (7) Stress. (8) Overweight and obesity.",
+          "years": [
+            "October 2025",
+            "April 2025"
+          ],
+          "note": "Lesson 8."
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "Analyse any six possible mistakes families make while selecting a bedroom.",
+          "answer": "Choosing a room that is noisy or lacks privacy; badly lit or poorly ventilated; too small or odd-shaped to place beds and furniture; far from the bathroom; near the kitchen or the entrance; ignoring storage; too much furniture; not considering that one-third of life is spent sleeping.",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 12."
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "Write any four points on the care of a newborn baby's cord and skin, and two on immunisation.",
+          "answer": "Wipe the baby with a clean cloth in warm water and do not scrub, because the white coating and fine hair are protective; keep the cut cord dry and open to air and cover it lightly only if there are flies and dust. Immunise on time: BCG and oral polio at birth, DPT at 6, 10 and 14 weeks, MMR at 9–12 months; it is free at government hospitals and health centres.",
+          "note": "Lesson 17."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Long answer questions. Answer in 80–120 words.",
+      "marks": "2 × 5 = 10",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "Reena spoiled her white cotton clothes while removing stains. What could be five possible reasons?",
+          "answer": "She may not have identified the stain and used the wrong agent; used a strong reagent that damaged the fabric; used heat on a protein stain so it set; let the stain become old before treating it; did not rinse the chemical out properly; or ironed before the stain was removed.",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 9."
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "Explain the steps in making a time plan and how dovetailing helps to save time.",
+          "answer": "Steps: list all the activities; group them as flexible (shopping) and inflexible (school, classes); estimate the time for each; balance the time by reducing time on some activities so the total fits within 24 hours. A good plan is practical and flexible, has an alternative for emergencies and allows rest and leisure. Dovetailing means doing two or three activities together: cooking dal, cooking vegetables, washing dishes and washing clothes take 80 minutes separately but only 55 minutes when dovetailed (starting the washing machine, boiling dal, cutting vegetables meanwhile), saving 25 minutes.",
+          "note": "Lesson 15."
+        }
+      ]
+    }
+  ]
+}

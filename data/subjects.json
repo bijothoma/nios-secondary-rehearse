@@ -1639,6 +1639,122 @@
           "file": "data/hindi/paper-3.json"
         }
       ]
+    },
+    {
+      "id": "home-science",
+      "name": "Home Science",
+      "label": "",
+      "level": "secondary",
+      "lessons": [
+        {
+          "no": 1,
+          "title": "What is Home Science",
+          "file": "data/home-science/lesson-1.json",
+          "summary": "data/home-science/summary/lesson-1.json"
+        },
+        {
+          "no": 4,
+          "title": "Methods of Cooking Food",
+          "file": "data/home-science/lesson-4.json",
+          "summary": "data/home-science/summary/lesson-4.json"
+        },
+        {
+          "no": 5,
+          "title": "Preservation of Food",
+          "file": "data/home-science/lesson-5.json",
+          "summary": "data/home-science/summary/lesson-5.json"
+        },
+        {
+          "no": 6,
+          "title": "Environment",
+          "file": "data/home-science/lesson-6.json",
+          "summary": "data/home-science/summary/lesson-6.json"
+        },
+        {
+          "no": 8,
+          "title": "Communicable and Life Style Diseases",
+          "file": "data/home-science/lesson-8.json",
+          "summary": "data/home-science/summary/lesson-8.json"
+        },
+        {
+          "no": 9,
+          "title": "Care and Maintenance of Fabrics",
+          "file": "data/home-science/lesson-9.json",
+          "summary": "data/home-science/summary/lesson-9.json"
+        },
+        {
+          "no": 11,
+          "title": "Fabric Finishes",
+          "file": "data/home-science/lesson-11.json",
+          "summary": "data/home-science/summary/lesson-11.json"
+        },
+        {
+          "no": 12,
+          "title": "Housing",
+          "file": "data/home-science/lesson-12.json",
+          "summary": "data/home-science/summary/lesson-12.json"
+        },
+        {
+          "no": 15,
+          "title": "Management of Time and Energy",
+          "file": "data/home-science/lesson-15.json",
+          "summary": "data/home-science/summary/lesson-15.json"
+        },
+        {
+          "no": 16,
+          "title": "Managing Family Income",
+          "file": "data/home-science/lesson-16.json",
+          "summary": "data/home-science/summary/lesson-16.json"
+        },
+        {
+          "no": 17,
+          "title": "Life Begins",
+          "file": "data/home-science/lesson-17.json",
+          "summary": "data/home-science/summary/lesson-17.json"
+        },
+        {
+          "no": 19,
+          "title": "My Family and I",
+          "file": "data/home-science/lesson-19.json",
+          "summary": "data/home-science/summary/lesson-19.json"
+        },
+        {
+          "no": 20,
+          "title": "Adolescence: Charms and Challenges",
+          "file": "data/home-science/lesson-20.json",
+          "summary": "data/home-science/summary/lesson-20.json"
+        },
+        {
+          "no": 21,
+          "title": "Ethics in Daily Life",
+          "file": "data/home-science/lesson-21.json",
+          "summary": "data/home-science/summary/lesson-21.json"
+        },
+        {
+          "no": 22,
+          "title": "Consumer! Beware, Be Aware",
+          "file": "data/home-science/lesson-22.json",
+          "summary": "data/home-science/summary/lesson-22.json"
+        },
+        {
+          "no": 901,
+          "tag": "Full paper",
+          "title": "Model Question Paper 1",
+          "file": "data/home-science/paper-1.json"
+        },
+        {
+          "no": 902,
+          "tag": "Full paper",
+          "title": "Model Question Paper 2",
+          "file": "data/home-science/paper-2.json"
+        },
+        {
+          "no": 903,
+          "tag": "Full paper",
+          "title": "Model Question Paper 3",
+          "file": "data/home-science/paper-3.json"
+        }
+      ]
     }
   ]
 }

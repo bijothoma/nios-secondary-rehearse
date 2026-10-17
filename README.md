@@ -126,6 +126,10 @@ question's own short note.
 - `tools/build_hindi.py`: builds Secondary Hindi (201) from `data/hindi/src/lesson-<n>.json` (37 questions, 100 marks:
   27 objective in Section A, 10 descriptive in Section B). Lessons carry past-paper years, summaries have English
   translations, and lesson passages/explanations show as quotes. Copyrighted texts and quotes stay in `local/`.
+- `tools/build_home_science.py`: builds Secondary Home Science (216) from `data/home-science/src/lesson-<n>.json` with
+  `build_sci.py` (47 questions, 85 marks: 19 MCQs, twelve 2-mark objective questions of four statements or pairs, ten
+  2-mark, four 3-mark and two 5-mark answers). Only the 15 public-exam lessons of the NIOS syllabus bifurcation are
+  included; past-paper questions of April 2022 to April 2026 are tagged by exam.
 - All of these builders share `build_question` in `tools/build_ss.py`. It marks an MCQ `fixed` (options
   keep their printed order instead of being shuffled) when an option refers to the others, such as
   "all of these", "none of the above" or "both (A) and (B)".
