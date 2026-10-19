@@ -138,6 +138,10 @@ question's own short note.
   `build_sci.py` (50 questions, 100 marks: 20 MCQs, fifteen 2-mark objective questions, five 2-mark, five 3-mark and five
   5-mark answers). Only the 12 public-exam lessons are included. The textbook and bifurcation PDFs were downloaded from
   nios.ac.in; the past papers came from the local All folder.
+- `tools/build_psychology.py`: builds Secondary Psychology (222) from `data/psychology/src/lesson-<n>.json` with
+  `build_sci.py` (48 questions, 100 marks: 20 MCQs, nine 2-mark and three 4-mark objective questions, six 2-mark, six
+  3-mark and four 5-mark answers). Only the 16 public-exam lessons of the bifurcation are included (TMA lessons are
+  left out); past-paper questions of April 2025 to April 2026 are tagged by exam.
 - All of these builders share `build_question` in `tools/build_ss.py`. It marks an MCQ `fixed` (options
   keep their printed order instead of being shuffled) when an option refers to the others, such as
   "all of these", "none of the above" or "both (A) and (B)".

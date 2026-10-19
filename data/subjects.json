@@ -1915,6 +1915,128 @@
           "file": "data/ich/paper-3.json"
         }
       ]
+    },
+    {
+      "id": "psychology",
+      "name": "Psychology",
+      "label": "",
+      "level": "secondary",
+      "lessons": [
+        {
+          "no": 2,
+          "title": "Methods of Psychology",
+          "file": "data/psychology/lesson-2.json",
+          "summary": "data/psychology/summary/lesson-2.json"
+        },
+        {
+          "no": 3,
+          "title": "Individual Differences",
+          "file": "data/psychology/lesson-3.json",
+          "summary": "data/psychology/summary/lesson-3.json"
+        },
+        {
+          "no": 4,
+          "title": "Learning",
+          "file": "data/psychology/lesson-4.json",
+          "summary": "data/psychology/summary/lesson-4.json"
+        },
+        {
+          "no": 5,
+          "title": "Sensory Processes: Attention and Perception",
+          "file": "data/psychology/lesson-5.json",
+          "summary": "data/psychology/summary/lesson-5.json"
+        },
+        {
+          "no": 8,
+          "title": "Motivation and Emotion",
+          "file": "data/psychology/lesson-8.json",
+          "summary": "data/psychology/summary/lesson-8.json"
+        },
+        {
+          "no": 10,
+          "title": "Childhood",
+          "file": "data/psychology/lesson-10.json",
+          "summary": "data/psychology/summary/lesson-10.json"
+        },
+        {
+          "no": 11,
+          "title": "Adolescence and Its Challenges",
+          "file": "data/psychology/lesson-11.json",
+          "summary": "data/psychology/summary/lesson-11.json"
+        },
+        {
+          "no": 12,
+          "title": "Adulthood and Ageing",
+          "file": "data/psychology/lesson-12.json",
+          "summary": "data/psychology/summary/lesson-12.json"
+        },
+        {
+          "no": 14,
+          "title": "Social Communication",
+          "file": "data/psychology/lesson-14.json",
+          "summary": "data/psychology/summary/lesson-14.json"
+        },
+        {
+          "no": 15,
+          "title": "Attitudes, Beliefs and Social Cognition",
+          "file": "data/psychology/lesson-15.json",
+          "summary": "data/psychology/summary/lesson-15.json"
+        },
+        {
+          "no": 18,
+          "title": "Mental Disorders and their Treatment",
+          "file": "data/psychology/lesson-18.json",
+          "summary": "data/psychology/summary/lesson-18.json"
+        },
+        {
+          "no": 19,
+          "title": "Mental Health and Hygiene",
+          "file": "data/psychology/lesson-19.json",
+          "summary": "data/psychology/summary/lesson-19.json"
+        },
+        {
+          "no": 20,
+          "title": "Aptitude, Interest and Job Requirements",
+          "file": "data/psychology/lesson-20.json",
+          "summary": "data/psychology/summary/lesson-20.json"
+        },
+        {
+          "no": 22,
+          "title": "The World of Organization",
+          "file": "data/psychology/lesson-22.json",
+          "summary": "data/psychology/summary/lesson-22.json"
+        },
+        {
+          "no": 23,
+          "title": "Environmental Stress",
+          "file": "data/psychology/lesson-23.json",
+          "summary": "data/psychology/summary/lesson-23.json"
+        },
+        {
+          "no": 26,
+          "title": "Nurturing the Whole Being: An Indian Perspective",
+          "file": "data/psychology/lesson-26.json",
+          "summary": "data/psychology/summary/lesson-26.json"
+        },
+        {
+          "no": 901,
+          "tag": "Full paper",
+          "title": "Model Question Paper 1",
+          "file": "data/psychology/paper-1.json"
+        },
+        {
+          "no": 902,
+          "tag": "Full paper",
+          "title": "Model Question Paper 2",
+          "file": "data/psychology/paper-2.json"
+        },
+        {
+          "no": 903,
+          "tag": "Full paper",
+          "title": "Model Question Paper 3",
+          "file": "data/psychology/paper-3.json"
+        }
+      ]
     }
   ]
 }

@@ -1,0 +1,79 @@
+{
+ "lesson": 22, "title": "The World of Organization", "module": 6,
+ "summary": [
+  "## Organization as a system",
+  "An organization is a social unit created with a specific purpose. In the systems approach an organization has unique properties and its components hold mutual relationships. A closed system has no interaction with the external environment; modern organizations are open systems, in constant interaction with the environment through a continuing process of input, transformation and output, with feedback. Inputs: human resource, capital, technology, material and information. Outputs are intended (objectives, e.g. high productivity) or unintended (informal relations among group members; not all unintended consequences are undesirable). Environment: suppliers, customers and other organizations; the organization influences and is influenced by it; feedback connects the system to it. Organization and society share a reciprocal relationship (technology changed lifestyle; India moves from agrarian to industrial mode; competition and consumerism).",
+  "## Sub-systems",
+  "Goal subsystem (overall and departmental goals, which should agree with society's goals); technical subsystem (knowledge, facilities, equipment and technology); managerial subsystem (planning and coordination); structural subsystem (people working on defined tasks in units such as production, marketing, HR); psychological subsystem (social relationships, rules, norms and values).",
+  "## Organizational climate",
+  "Climate is the atmosphere of an organization: a relatively enduring quality of its internal environment, experienced by members, influencing their performance and distinguishing one organization from another; it may differ between departments. Two-way communication, cooperative employees and a positive view give satisfaction, commitment and productivity. Determinants: (i) organizational structure – framework of authority–responsibility; decentralised (fewer layers, participation) or centralised (consistency in decisions); (ii) technology – routine technologies like assembly lines give a rigid climate with low trust and creativity; dynamic technologies like aerospace give trust and personal responsibility; (iii) external environment – severe economic conditions and downsizing make climate threatening; (iv) management policies and practices – autonomy and feedback create an achievement-oriented climate.",
+  "## Interpersonal relationships at work",
+  "Work is a social activity. Superior–subordinate relationship depends on the boss's leadership style: authoritarian (management directs with threats and punishment, one-way downward communication), paternalistic (basically authoritative but some participation; rewards and threats), consultative (goals set after consultation, some teamwork) and participative (employees fully involved, two-way communication). The more participative the boss, the greater the productivity and satisfaction and the lower the absenteeism and turnover. Relationship with co-workers and peers develops from common taste, not formal rules; peers provide unwritten rules, an outlet for emotions and increase job satisfaction and commitment. Organizational socialization is the process by which an employee acquires the knowledge and skills needed to take a place in the organization; it is continuous and two-way; a psychological contract is an unwritten shared understanding of mutual expectations. Communication is the transfer of meaning between a sender and a receiver using symbols (language is the most evolved); it can be between two persons, in a group, in the whole organization or with the masses.",
+  "## Productivity and excellence",
+  "Organizations that meet the expectations of owners, employees, customers and the community are effective; those exceeding minimum standards achieve excellence, which brings reputation. Productivity is transforming inputs to outputs at minimum cost. Factors: (i) abilities, aptitudes and interests (intellectual capacity predicts managerial success; match personality and interest to the job; a bright person on a dull routine job underperforms); (ii) role clarity (understanding job requirements raises goal commitment and productivity; role ambiguity means unclear role expectations and role conflict means incompatible demands from supervisor and co-workers, both reduce productivity); (iii) the performance environment, which managers should understand and modify.",
+  "## Strategies for productivity",
+  "(1) Employee selection and placement – choose people of high ability and motivation and place them on suitable jobs; (2) training and development – an investment or 'talent bank' using lectures, case studies and role play; (3) task design – increase variety, autonomy, responsibility, feedback and task identity; (4) performance appraisal and rewards – formal appraisal and a reward system guide and reward behaviour."
+ ],
+ "mcq": [
+  ["An organization is a —", ["social unit created for a specific purpose", "family only", "market", "school only"], "A"],
+  ["A system with no interaction with the environment is —", ["a closed system", "an open system", "a subsystem", "an organization"], "A"],
+  ["Modern organizations are more or less —", ["open systems", "closed systems", "static", "isolated"], "A"],
+  ["Which is NOT an input of an organization?", ["Profit as output", "Human resource", "Capital", "Technology"], "A"],
+  ["Intended outputs are usually called —", ["objectives", "feedback", "inputs", "climate"], "A"],
+  ["Informal relations among group members are —", ["an unintended output", "an intended output", "an input", "a subsystem"], "A"],
+  ["The subsystem of overall goals is the —", ["goal subsystem", "technical subsystem", "managerial subsystem", "structural subsystem"], "A"],
+  ["Planning and coordination belong to the —", ["managerial subsystem", "goal subsystem", "psychological subsystem", "technical subsystem"], "A"],
+  ["Production, marketing and HR units form the —", ["structural subsystem", "goal subsystem", "managerial subsystem", "technical subsystem"], "A"],
+  ["Organizational climate is —", ["the relatively enduring internal atmosphere", "a short mood", "the market", "profit"], "A"],
+  ["A framework of authority–responsibility is —", ["organizational structure", "technology", "external environment", "policy"], "A"],
+  ["Fewer layers and participation in decisions indicate a —", ["decentralised structure", "centralised structure", "closed system", "rigid climate"], "A"],
+  ["Assembly line technology tends to give a —", ["rigid climate", "creative climate", "trusting climate", "flexible climate"], "A"],
+  ["Directing with threats and one-way communication is —", ["authoritarian style", "participative style", "consultative style", "paternalistic style"], "A"],
+  ["Employees fully involved in goal setting is —", ["participative style", "authoritarian style", "paternalistic style", "consultative style"], "A"],
+  ["The process of an employee learning the knowledge and skills to take a place is —", ["organizational socialization", "task design", "appraisal", "selection"], "A"],
+  ["An unwritten shared understanding between employee and organization is a —", ["psychological contract", "written contract", "job description", "appraisal"], "A"],
+  ["Superior performance giving reputation is —", ["excellence", "failure", "climate", "feedback"], "A"],
+  ["Role clarity leads to —", ["higher goal commitment and productivity", "lower productivity", "conflict", "absenteeism"], "A"],
+  ["Which is a strategy for developing productivity?", ["Training and development", "Role conflict", "Rigid structure", "Absenteeism"], "A"]
+ ],
+ "objective": [
+  ["Define an organization.", "A social unit created with a specific purpose."],
+  ["Distinguish open and closed systems in one line each.", "A closed system does not interact with its environment; an open system continuously interacts through input, transformation, output and feedback."],
+  ["Name any two inputs of an organization.", "Human resource, capital, technology, material, information (any two)."],
+  ["Name any three subsystems of an organization.", "Goal, technical, managerial, structural, psychological (any three)."],
+  ["Define organizational climate.", "The relatively enduring atmosphere of an organization's internal environment experienced by its members, influencing their performance."],
+  ["Name the four determinants of climate.", "Organizational structure, technology, external environment and management policies and practices."],
+  ["Name the four leadership styles.", "Authoritarian, paternalistic, consultative and participative."],
+  ["State true or false: (i) Work is a social activity. (ii) In authoritarian relationship employees are fully involved in goals.", "(i) True. (ii) False."],
+  ["Name the four strategies for developing productivity.", "Selection and placement, training and development, task design, performance appraisal and rewards."]
+ ],
+ "objective4": [
+  ["Name the subsystem: (i) goals and objectives; (ii) knowledge and equipment; (iii) planning and coordination; (iv) social relationships and norms.", "(i) Goal. (ii) Technical. (iii) Managerial. (iv) Psychological."],
+  ["Identify the leadership style: (i) threats and punishment; (ii) some participation but rewards and threats; (iii) goals set after consultation; (iv) full involvement and two-way communication.", "(i) Authoritarian. (ii) Paternalistic. (iii) Consultative. (iv) Participative."],
+  ["Give the effect on climate: (i) assembly line technology; (ii) aerospace technology; (iii) severe economic conditions; (iv) autonomy and feedback by managers.", "(i) Rigid, low trust. (ii) Trust and responsibility. (iii) Threatening climate. (iv) Achievement-oriented climate."],
+  ["Name four job design elements that improve performance.", "Variety, autonomy, responsibility, feedback and task identity (any four)."]
+ ],
+ "vsa": [
+  ["What is feedback in an organization?", "Information from the environment that helps the organization take suitable steps to meet its challenges and expectations."],
+  ["Why is an organization called an open system?", "Because it is influenced by the environment and also influences it."],
+  ["What is the goal subsystem?", "The overall goals and objectives of the organization and the goals of departments and individuals."],
+  ["What is organizational socialization?", "The process by which an employee acquires the knowledge and skills needed to take a place in the organization."],
+  ["What is a psychological contract?", "An unwritten shared understanding of the mutual expectations of employee and organization."],
+  ["What is role ambiguity?", "Lack of clarity about job requirements and work objectives, which reduces productivity."],
+  ["What is excellence in an organization?", "Performance exceeding minimum standards of effectiveness, bringing reputation."]
+ ],
+ "sa": [
+  ["Explain the organization as an open system.", "It takes inputs (human resource, capital, technology, material, information) from the environment, transforms them into outputs and receives feedback to meet environmental expectations."],
+  ["Describe any two subsystems.", "Goal subsystem: overall and departmental goals matching society's goals; technical subsystem: the use of knowledge, equipment and technology by workers."],
+  ["Explain any two determinants of climate.", "Structure: decentralised gives participation, centralised gives consistency; technology: assembly lines create rigid climate and dynamic technology creates trust."],
+  ["Explain leadership styles and their effect.", "Authoritarian, paternalistic, consultative and participative. The more participative the boss, the greater the productivity and satisfaction and the lower the absenteeism and turnover."],
+  ["Describe relationship with co-workers.", "It grows from common tastes rather than rules; peers teach unwritten rules, provide emotional outlet and increase job satisfaction and commitment."],
+  ["Explain role clarity.", "Understanding of job requirements and objectives increases commitment and productivity; role ambiguity and role conflict reduce it."]
+ ],
+ "la": [
+  ["Describe the organization as a system and its subsystems.", "An organization is a social unit; open systems take inputs, transform and output, and use feedback. Subsystems: goal, technical, managerial, structural and psychological, each with a specific significance."],
+  ["List the determinants of organizational climate and explain them.", "Structure (centralised or decentralised), technology (routine or dynamic), external environment (economic conditions) and management policies (autonomy and feedback). A positive climate gives satisfaction and productivity."],
+  ["Discuss interpersonal relationships at work, socialization and communication.", "Superior–subordinate relations depend on leadership style (authoritarian to participative); co-worker relations give support; organizational socialization is continuous and two-way, based on a psychological contract; communication transfers meaning through symbols."],
+  ["Discuss the factors influencing productivity and strategies to develop it.", "Factors: abilities, aptitudes, interests, role clarity and performance environment. Strategies: selection and placement, training and development, task design (variety, autonomy, feedback) and performance appraisal with rewards."]
+ ]
+}

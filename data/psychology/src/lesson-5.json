@@ -1,0 +1,78 @@
+{
+ "lesson": 5, "title": "Sensory Processes: Attention and Perception", "module": 2,
+ "summary": [
+  "## Sensation",
+  "Sensation is the process by which one form of energy (e.g. light) is converted into neural impulses by stimulation of sensory neurons, resulting in awareness of conditions inside or outside the body. Absolute threshold is the minimum physical energy needed to produce a sensory experience; difference threshold is the minimal change between two stimuli that can be recognised. Background and expectation affect sensation (stars invisible by day; you hear the doorbell of an expected friend).",
+  "The five senses: sight (light waves, eye), hearing (sound waves, ear), skin senses (touch, cold, warmth, pain), smell (olfaction; nose; volatile materials) and taste (gustation; tongue; soluble materials). Vision: the eye works like a camera; Newton showed white light splits into the visible spectrum; colour blindness is partial or total inability to distinguish colours. Hearing: sound needs a medium (not travelling in vacuum); pitch depends on frequency (Hz), loudness on amplitude (decibels), timbre on the complexity of the wave. Vestibular sense: bodily orientation with respect to gravity. Kinesthetic sense: position and movement of body parts. Taste: four primary qualities – sweet, sour, bitter, saline – with receptors in taste buds. Skin: sensitivity to pressure is highest on face, tongue and hands. Pain: response to noxious stimuli; affected by psycho-social and cultural factors.",
+  "## Perception",
+  "Perception is the process of organising and interpreting sensations into meaningful patterns; the brain selects, organises and integrates information. Some perceptions are inborn and many are learnt. The physical object is the distal stimulus; the image on the retina is the proximal stimulus; the task of perception is to infer the distal from the proximal stimulus. Stages: sensory stimulation, synthesis of features, analysis, identification and recognition with the help of expectations, beliefs and knowledge.",
+  "## Perceptual organisation",
+  "Figure–ground organisation: sensations are grouped into objects (figures) standing out against a background; the reversible goblet shows figure–ground reversal. Laws of grouping: proximity (nearby stimuli grouped), similarity (similar size, shape, colour), continuity (dotted circle seen as a circle), closure (completing an incomplete figure) and common region. Perceptual constancy: perception of size, shape and brightness stays the same although the retinal image changes (size, shape and brightness constancy). Depth perception: ability to see three-dimensional space and judge distance, partly innate and partly learnt; monocular cues (one eye; pictorial cues like converging railway tracks) and binocular cues (retinal disparity). Illusions are distorted perception of existing stimuli (Müller-Lyer, Ponzo, horizontal–vertical); hallucination is perception with no external reality.",
+  "## Attention",
+  "Attention is focusing the senses on a particular stimulus. Selective attention gives priority to one sensory message; divided attention (driving while using a phone) can cause accidents. Functions: sensory filter, response selection, gateway to consciousness. Determinants: physical factors (repetition, contrast, size, shape, brightness, packaging) and motives (a hungry person notices food words; advertisers use anxiety and desire to be attractive).",
+  "## Extra-sensory perception and applications",
+  "ESP is perceiving objects or events in ways not explained by known senses; parapsychology studies psi-phenomena: clairvoyance (perceiving events unaffected by distance or barriers), telepathy (reading another's thoughts), pre-cognition (predicting future events) and psycho-kinesis (influencing objects by will). Most psychologists do not accept ESP. Applications: eyewitness testimony is prone to errors, especially under stress; habituation is ceasing to attend to repeated familiar stimuli, and creative people keep attending; breaking perceptual habits and paying attention gives better results."
+ ],
+ "mcq": [
+  ["Sensation is the process of converting —", ["one form of energy into neural impulses", "neural impulses into muscle action", "memory into perception", "emotion into thought"], "A"],
+  ["The minimum energy needed to produce a sensory experience is the —", ["absolute threshold", "difference threshold", "pitch", "timbre"], "A"],
+  ["The minimal change between two stimuli that can be noticed is the —", ["difference threshold", "absolute threshold", "constancy", "closure"], "A"],
+  ["The stimulus for hearing is —", ["sound waves", "light waves", "volatile materials", "soluble materials"], "A"],
+  ["Pitch of a sound depends on its —", ["frequency", "amplitude", "timbre", "medium"], "A"],
+  ["Loudness is measured in —", ["decibels", "hertz", "watts", "metres"], "A"],
+  ["The sense of bodily orientation with respect to gravity is the —", ["vestibular sense", "kinesthetic sense", "olfaction", "gustation"], "A"],
+  ["Sense of position and movement of body parts is —", ["kinesthetic sense", "vestibular sense", "taste", "touch"], "A"],
+  ["Which is NOT a primary taste?", ["Spicy", "Sweet", "Bitter", "Saline"], "A"],
+  ["The image on the retina is called the —", ["proximal stimulus", "distal stimulus", "percept", "figure"], "A"],
+  ["The physical object in the world is the —", ["distal stimulus", "proximal stimulus", "retina", "illusion"], "A"],
+  ["Grouping of nearby stimuli is the law of —", ["proximity", "similarity", "closure", "continuity"], "A"],
+  ["The tendency to complete an incomplete figure is —", ["closure", "proximity", "similarity", "common region"], "A"],
+  ["Perceiving a door as rectangular from any angle shows —", ["shape constancy", "size constancy", "brightness constancy", "closure"], "A"],
+  ["Cues needing two eyes are called —", ["binocular cues", "monocular cues", "pictorial cues", "motion cues"], "A"],
+  ["Binocular depth perception is due to —", ["retinal disparity", "closure", "habituation", "timbre"], "A"],
+  ["The Müller-Lyer illusion is an illusion of —", ["line length", "colour", "sound", "taste"], "A"],
+  ["Perception of objects that have no external reality is —", ["hallucination", "illusion", "constancy", "attention"], "A"],
+  ["Reading another person's thoughts is —", ["telepathy", "clairvoyance", "pre-cognition", "psycho-kinesis"], "A"],
+  ["Ceasing to attend to a repeated unchanged stimulus is —", ["habituation", "closure", "constancy", "recognition"], "A"]
+ ],
+ "objective": [
+  ["Name the sense organ and the stimulus for (i) hearing; (ii) smell.", "(i) Ear; sound waves. (ii) Nose; volatile materials."],
+  ["Define (i) absolute threshold; (ii) difference threshold.", "(i) Minimum physical energy needed to produce a sensory experience. (ii) Minimum change between two stimuli that can be recognised."],
+  ["Name any two laws of perceptual grouping.", "Proximity, similarity, continuity, closure, common region (any two)."],
+  ["Distinguish (i) illusion; (ii) hallucination.", "(i) Distorted perception of an existing stimulus. (ii) Perception of an object or event that has no external reality."],
+  ["Name the two types of depth cues.", "Monocular cues and binocular cues."],
+  ["What is (i) clairvoyance; (ii) pre-cognition?", "(i) Perceiving events unaffected by distance or barriers. (ii) Predicting or perceiving future events accurately."],
+  ["Name any two physical determinants of attention.", "Repetition, contrast, size, shape, brightness (any two)."],
+  ["Fill in: (i) Loudness depends on ______. (ii) Pitch depends on ______.", "(i) amplitude. (ii) frequency."],
+  ["Name the four primary tastes.", "Sweet, sour, bitter and saline."]
+ ],
+ "objective4": [
+  ["Identify the law of grouping: (i) four nearby dots seen as a group; (ii) similar-coloured items grouped; (iii) dots in a circle seen as a circle; (iv) incomplete figure completed.", "(i) Proximity. (ii) Similarity. (iii) Continuity. (iv) Closure."],
+  ["Identify the constancy: (i) a distant car seen as the same size; (ii) a tilted plate seen as round; (iii) white paper looks white in dim light; (iv) define perceptual constancy.", "(i) Size constancy. (ii) Shape constancy. (iii) Brightness constancy. (iv) Perception of size, shape or brightness remains the same although the retinal image changes."],
+  ["Name the ESP phenomenon: (i) reading minds; (ii) knowing distant events; (iii) predicting the future; (iv) moving objects by will.", "(i) Telepathy. (ii) Clairvoyance. (iii) Pre-cognition. (iv) Psycho-kinesis."],
+  ["Match: (i) pitch (ii) timbre (iii) loudness (iv) vestibular sense; with (a) amplitude (b) frequency (c) gravity orientation (d) complexity of wave.", "(i)–(b); (ii)–(d); (iii)–(a); (iv)–(c)."]
+ ],
+ "vsa": [
+  ["What is sensation?", "The process by which sensory neurons convert energy such as light into neural impulses, giving awareness of conditions inside or outside the body."],
+  ["Differentiate distal and proximal stimulus.", "The distal stimulus is the physical object in the world; the proximal stimulus is its image on the retina."],
+  ["What is figure–ground organisation?", "Grouping of sensations into objects (figures) that stand out against a plainer background; it may reverse, as in the goblet figure."],
+  ["What is depth perception? Give one use.", "The ability to see three-dimensional space and judge distance; it lets us drive, catch a ball or thread a needle."],
+  ["What is selective attention?", "Giving priority to a particular incoming sensory message while ignoring others."],
+  ["What is habituation?", "Decreased response to or ceasing of attention to a familiar stimulus that is repeated without change."],
+  ["What is parapsychology?", "The study of extra-sensory perception and psi-phenomena that lie outside accepted scientific laws."]
+ ],
+ "sa": [
+  ["Explain the concept of threshold.", "Absolute threshold is the minimum physical energy needed to produce a sensory experience; difference threshold is the minimal change in two stimuli that can be recognised, e.g. noticing a change in TV volume."],
+  ["Describe pitch, loudness and timbre of sound.", "Pitch is highness or lowness determined by frequency (Hz). Loudness is physical intensity determined by amplitude, measured in decibels. Timbre is the quality due to the complexity of the sound wave."],
+  ["Explain perceptual constancy.", "Perception of an object's size, shape or brightness remains the same although its retinal image changes: a distant person appears the same size (size constancy), a tilted door appears rectangular (shape constancy), and paper appears equally white in different lighting (brightness constancy)."],
+  ["Distinguish monocular and binocular cues of depth.", "Monocular cues work with one eye and include pictorial cues like converging railway tracks. Binocular cues need two eyes and arise from retinal disparity, the difference in the images of the two eyes; a one-eyed person has limited depth perception."],
+  ["Explain the determinants of attention.", "Physical factors – repetition, contrast, size, shape and brightness – attract attention (packaging and advertising). Motives also direct attention: a hungry person notices food; advertisers use anxiety and the desire to be attractive."],
+  ["Describe the problem with eyewitness testimony.", "Eyewitness errors in perception are common, especially when the person is surprised, stressed or threatened; hence investigators and jurors should gather more evidence than rely only on eyewitnesses."]
+ ],
+ "la": [
+  ["Define perception and discuss the principles of perceptual organisation.", "Perception is the process of organising and interpreting sensations into meaningful percepts using past and present experience. Perception is organised: figure–ground organisation separates objects from the background, and grouping follows proximity, similarity, continuity, closure and common region. Perceptual constancy and depth perception further stabilise the world."],
+  ["Discuss depth perception and perceptual constancy.", "Depth perception is the ability to see three dimensions and judge distance; it is partly innate and partly learnt. Monocular and binocular cues (retinal disparity) provide it; pictorial cues such as converging tracks also help. Perceptual constancy keeps size, shape and brightness stable despite changing retinal images. Illusions such as Müller-Lyer show distortion."],
+  ["Explain the senses and their stimuli and organs.", "Sight: light waves, eye; hearing: sound waves, ear; skin senses: touch, cold, warmth and pain; smell: volatile materials, nose; taste: soluble materials, tongue with four primary tastes. In addition there are vestibular (orientation) and kinesthetic (movement) senses. Thresholds determine what we detect."],
+  ["What is extra-sensory perception? Describe its types and the applications of perception in daily life.", "ESP is perception not explained by known senses: telepathy, clairvoyance, pre-cognition and psycho-kinesis, studied by parapsychology; most psychologists doubt it. Applications: eyewitness testimony is error-prone; habituation reduces attention to familiar stimuli while creative people continue to attend; paying attention and breaking perceptual habits improve results."]
+ ]
+}

@@ -1,0 +1,530 @@
+{
+  "subject": "psychology",
+  "lesson": 2,
+  "title": "Methods of Psychology",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "20 × 1 = 20",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "______ approach mainly focuses on the study of information processing.",
+          "options": [
+            "Behavioural",
+            "Psychoanalytical",
+            "Cognitive",
+            "Biological"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2026",
+            "October 2025"
+          ]
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "The unit of analysis for this approach is explicit, objective and overt behaviour and its relationship with environmental stimulation.",
+          "options": [
+            "Cognitive",
+            "Biological",
+            "Behaviourist",
+            "Humanistic"
+          ],
+          "answer": "C",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "______ refers to the consistency in terms of yielding dependable scores.",
+          "options": [
+            "Reliability",
+            "Validity",
+            "Objectivity",
+            "Tests"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "______ measures what it claims to measure in psychological tests.",
+          "options": [
+            "Standardization",
+            "Validity",
+            "Subjectivity",
+            "Reliability"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "Which type of personality assessment uses ambiguous stimuli?",
+          "options": [
+            "Self-report measures",
+            "Projective measures",
+            "Situational measures",
+            "Objective tests"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "Who is the father of the psychoanalytic approach?",
+          "options": [
+            "Sigmund Freud",
+            "Carl Rogers",
+            "J.B. Watson",
+            "Piaget"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "Who is the father of the humanistic approach?",
+          "options": [
+            "Carl Rogers",
+            "Freud",
+            "Watson",
+            "Skinner"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "Who is regarded as the father of behaviourism?",
+          "options": [
+            "J.B. Watson",
+            "Freud",
+            "Rogers",
+            "Wundt"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "Which approach focuses on brain, genes, hormones and neurotransmitters?",
+          "options": [
+            "Biological",
+            "Humanistic",
+            "Cognitive",
+            "Psychoanalytic"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "The layers of consciousness according to Freud are conscious, preconscious and —",
+          "options": [
+            "unconscious",
+            "subconscious",
+            "self-conscious",
+            "superconscious"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "Which method studies the effect of one variable on another by manipulating and controlling variables?",
+          "options": [
+            "Experiment",
+            "Survey",
+            "Case study",
+            "Interview"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "In an experiment the variable manipulated by the experimenter is the —",
+          "options": [
+            "independent variable",
+            "dependent variable",
+            "organismic variable",
+            "sequential variable"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.13",
+          "type": "mcq",
+          "q": "Age, sex and personality features of participants are —",
+          "options": [
+            "organismic variables",
+            "situational variables",
+            "sequential variables",
+            "dependent variables"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.14",
+          "type": "mcq",
+          "q": "Temperature, humidity and noise during an experiment are —",
+          "options": [
+            "situational variables",
+            "organismic variables",
+            "sequential variables",
+            "independent variables"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.15",
+          "type": "mcq",
+          "q": "Counter-balancing is used to control the effect of —",
+          "options": [
+            "order or sequence",
+            "age",
+            "noise",
+            "sex"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.16",
+          "type": "mcq",
+          "q": "The main unit of analysis in a case study is —",
+          "options": [
+            "the individual",
+            "the group",
+            "the community",
+            "the nation"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.17",
+          "type": "mcq",
+          "q": "Opinion polls during elections are examples of —",
+          "options": [
+            "survey method",
+            "case study",
+            "experiment",
+            "naturalistic observation"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.18",
+          "type": "mcq",
+          "q": "A questionnaire with limited alternatives is —",
+          "options": [
+            "closed-ended",
+            "open-ended",
+            "projective",
+            "unstructured"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.19",
+          "type": "mcq",
+          "q": "In which interview are questions already framed with response options?",
+          "options": [
+            "Structured interview",
+            "Unstructured interview",
+            "Telephone interview",
+            "Case interview"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.20",
+          "type": "mcq",
+          "q": "A test that uses inkblots and incomplete sentences is a —",
+          "options": [
+            "projective test",
+            "objective test",
+            "performance test",
+            "verbal test"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark.",
+      "marks": "9 × 2 = 18",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "(i) What is independent variable? (ii) What is dependent variable?",
+          "answer": "(i) The variable that is controlled and manipulated by the experimenter. (ii) The variable on which the impact of the independent variable is studied.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "State true or false: (i) In a closed-ended questionnaire individuals are provided with limited alternatives. (ii) In an interview, data collection is not done face to face.",
+          "answer": "(i) True. (ii) False – an interview is a face-to-face interaction (it may also be through telephone or video).",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "(i) A manager observes her team during a stressful presentation to evaluate leadership qualities. What method is she using? (ii) An interviewer uses structured questions to assess communication skills. What type of interview is this?",
+          "answer": "(i) Observation (a situational/observational method). (ii) Structured interview.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Identify the variable: (i) controlled and manipulated by the experimenter (ii) on which the impact is studied.",
+          "answer": "(i) Independent variable. (ii) Dependent variable.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "Fill in the blanks: (i) Observation is divided into ______ and non-participant types. (ii) ______ method studies opinions, attitudes, beliefs and values.",
+          "answer": "(i) participant. (ii) Survey."
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "Answer in a word: (i) What is the property of a test that shows consistency? (ii) What shows that a test measures what it claims?",
+          "answer": "(i) Reliability. (ii) Validity."
+        },
+        {
+          "id": "2.7",
+          "type": "open",
+          "q": "State true or false: (i) A projective test uses clear, structured stimuli. (ii) Observation can be naturalistic or laboratory.",
+          "answer": "(i) False – ambiguous stimuli. (ii) True."
+        },
+        {
+          "id": "2.8",
+          "type": "open",
+          "q": "Name two techniques of controlling relevant variables and one organismic variable.",
+          "answer": "Elimination and matching (also counter-balancing, random assignment, making conditions constant); age, sex or personality."
+        },
+        {
+          "id": "2.9",
+          "type": "open",
+          "q": "Fill in the blanks: Unstructured interview consists of ______ questions. A case study studies one ______.",
+          "answer": "open-ended; individual (person)."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Objective type questions: each has four parts of 1 mark.",
+      "marks": "4 × 4 = 16",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "Identify the variable: (i) controlled and manipulated by the experimenter; (ii) the variable on which the impact of the IV is studied; (iii) related to personal characteristics such as age, sex and personality; (iv) related to the procedure when the participant is tested across several conditions.",
+          "answer": "(i) Independent variable. (ii) Dependent variable. (iii) Organismic variables. (iv) Sequential variables.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "Answer: (i) Who is the father of psychoanalytic approach? (ii) Who is the father of humanistic approach? (iii) Who is the father of behaviourism? (iv) Which approach studies information processing?",
+          "answer": "(i) Sigmund Freud. (ii) Carl Rogers. (iii) J.B. Watson. (iv) Cognitive approach."
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "Identify the approach: (i) role of brain and hormones (ii) unconscious motivation (iii) active self-actualising agent (iv) explicit overt behaviour.",
+          "answer": "(i) Biological. (ii) Psychoanalytic. (iii) Humanistic. (iv) Behaviourist."
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "Identify the tool: (i) a set of questions answered by the respondent; (ii) face-to-face interaction with set objectives; (iii) ambiguous stimuli such as inkblots; (iv) in-depth study of one person.",
+          "answer": "(i) Questionnaire. (ii) Interview. (iii) Projective test. (iv) Case study."
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "7 × 2 = 14",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "Differentiate between verbal and non-verbal test.",
+          "answer": "In a verbal test responses are taken in oral (or written verbal) form; in a non-verbal or performance test responses are taken as performance or behaviour such as manipulating blocks.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "What is a psychological test? Write any two skills an interviewer should possess.",
+          "answer": "A psychological test gives an objective assessment of qualities and limitations of an individual by comparing scores with others. An interviewer needs to establish rapport and have command over language (and control over feelings).",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "What is survey method?",
+          "answer": "Research in which opinions, attitudes, beliefs and values of people are collected through questionnaires or interviews, e.g. opinion polls.",
+          "years": [
+            "April 2025",
+            "April 2026"
+          ]
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "Name any two characteristics of scientific research.",
+          "answer": "Objectivity (free from bias), testability, self-correction and replication (any two)."
+        },
+        {
+          "id": "4.5",
+          "type": "open",
+          "q": "What is naturalistic observation?",
+          "answer": "Observation of events in their natural setting without control over extraneous variables, e.g. children playing in a playground."
+        },
+        {
+          "id": "4.6",
+          "type": "open",
+          "q": "What is a case study?",
+          "answer": "An in-depth study of one individual's experiences and background through interview, observation and tests, used to prepare a case history."
+        },
+        {
+          "id": "4.7",
+          "type": "open",
+          "q": "What is meant by random assignment?",
+          "answer": "Every participant has an equal chance of being in the experimental or control condition, removing systematic differences between groups."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "5 × 3 = 15",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "What is survey method? Where can you use the survey method?",
+          "answer": "Survey is a research method in which people's opinions are collected on current issues through questionnaires, interviews, email or SMS. It is used to study the pattern of opinions, attitudes, beliefs and values, to test hypotheses about variables (e.g. after the Mumbai attacks) and for opinion polls in elections, in psychology, sociology, political science and management.",
+          "years": [
+            "April 2026"
+          ],
+          "or": {
+            "q": "What are the different methods of data collection for research? Explain any three.",
+            "answer": "Observation (studying behaviour as it occurs, naturalistic or laboratory), experiment (manipulating the independent variable), case study (detailed profile of an individual), survey (opinions through questionnaire or interview) and psychological tests."
+          }
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "What is the biological approach to study psychological processes?",
+          "answer": "It focuses on biological structures and phenomena – brain, genes, hormones, the endocrine system and neurotransmitters – to understand behaviour; it studies the role of parts of the brain in feelings, memories and emotions, the effect of over- or under-secretion of hormones, and behaviour genetics.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "Compare and contrast reliability and validity of tests.",
+          "answer": "Reliability is the consistency of a test in yielding dependable scores; validity is the extent to which it measures what it claims to measure. A test can be reliable without being valid, but a valid test must be reliable; both are properties of a standardised test.",
+          "years": [
+            "October 2025"
+          ],
+          "or": {
+            "q": "Explain the features of a questionnaire.",
+            "answer": "A set of questions answered by the individual; items may be closed-ended or open-ended; instructions on the first page; can be given to a group; simple language; items arranged from general to specific."
+          }
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "Describe the characteristics of the scientific method.",
+          "answer": "It is objective (free from bias), testable again and again, open to all and verifiable by following the same method, self-correcting (errors are revised) and replicable (results are verified by similar studies in other settings)."
+        },
+        {
+          "id": "5.5",
+          "type": "open",
+          "q": "Explain the techniques used to control relevant variables.",
+          "answer": "Elimination removes extraneous variables; making conditions constant keeps them the same throughout; matching equates them across conditions; counter-balancing minimises order effects by reversing task order for two groups; random assignment gives equal chance of exposure to all participants."
+        }
+      ]
+    },
+    {
+      "no": 6,
+      "title": "Long answer questions. Answer in 80–120 words.",
+      "marks": "4 × 5 = 20",
+      "questions": [
+        {
+          "id": "6.1",
+          "type": "open",
+          "q": "What are the various psychological tools to collect data? Explain in detail. How is case study method different from survey method? Which one can be used to get the opinion of the people?",
+          "answer": "Tools: psychological tests (verbal or performance; objective or projective; reliable and valid), questionnaire (open or closed ended, group administration), and interview (structured or unstructured; interviewer needs rapport, language command and control of feelings; used in recruitment, counselling, marketing). Case study studies one individual in great detail through history, interview and tests; survey collects opinions from many people through questionnaire or interview. The survey method is used to get the opinion of the people.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "6.2",
+          "type": "open",
+          "q": "Describe three main approaches used by psychologists to understand mental processes. Why do we need so many approaches?",
+          "answer": "Biological: brain, genes, hormones; psychoanalytic (Freud): unconscious motivation; humanistic (Rogers): conscious experience, growth and self-actualisation; behaviourist (Watson): overt behaviour and stimulus–response; cognitive: information processing. Human behaviour is complex, so different vantage points are needed to understand it fully."
+        },
+        {
+          "id": "6.3",
+          "type": "open",
+          "q": "Discuss the experimental method as a scientific method. Identify the techniques used to control relevant variables.",
+          "answer": "The experimenter manipulates the independent variable and studies its effect on the dependent variable, with an experimental group and a control group. Organismic, situational and sequential variables must be controlled by elimination, making conditions constant, matching, counter-balancing and random assignment; experiments can be laboratory, field or quasi experiments."
+        },
+        {
+          "id": "6.4",
+          "type": "open",
+          "q": "Describe the observation method with its types, advantages and limitations.",
+          "answer": "Observation is studying events without interfering. It may be naturalistic or laboratory, participant or non-participant. Its advantage is that behaviour is studied as it happens; limitations are the time and effort needed and observer bias. Piaget's observations of his children are a famous example."
+        }
+      ]
+    }
+  ]
+}

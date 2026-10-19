@@ -1,0 +1,519 @@
+{
+  "subject": "psychology",
+  "lesson": 901,
+  "title": "Model Question Paper 1",
+  "meta": "Time: 3 hours · Maximum marks: 100 · Modelled on the April 2026 NIOS paper",
+  "instructions": [
+    "All questions are compulsory. Where a question has OR, answer either one.",
+    "Section A: questions 1–20 are MCQs (1 mark each); questions 21–29 carry 2 marks (two parts of 1 mark each) and questions 30–32 carry 4 marks (four parts of 1 mark each).",
+    "Section B: questions 33–38 carry 2 marks (30–50 words), questions 39–44 carry 3 marks (50–80 words) and questions 45–48 carry 5 marks (80–120 words).",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "20 × 1 = 20",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "The unit of analysis for this approach is explicit, objective and overt behaviour and its relationship with environmental stimulation.",
+          "options": [
+            "Cognitive",
+            "Biological",
+            "Behaviourist",
+            "Humanistic"
+          ],
+          "answer": "C",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 2."
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "In which interview are questions already framed with response options?",
+          "options": [
+            "Structured interview",
+            "Unstructured interview",
+            "Telephone interview",
+            "Case interview"
+          ],
+          "answer": "A",
+          "note": "Lesson 2."
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "What is the IQ of a child whose mental age is 10 years and chronological age is 8 years?",
+          "options": [
+            "100",
+            "125",
+            "150",
+            "200"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 3."
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "The Situational Stress Test measures reactions to —",
+          "options": [
+            "stressful, frustrating situations with uncooperative helpers",
+            "inkblots",
+            "questionnaires",
+            "interest areas"
+          ],
+          "answer": "A",
+          "note": "Lesson 3."
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "In Pavlov's experiment food was the —",
+          "options": [
+            "unconditioned stimulus",
+            "conditioned stimulus",
+            "conditioned response",
+            "neutral stimulus"
+          ],
+          "answer": "A",
+          "note": "Lesson 4."
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "Learning is defined as a relatively durable change in behaviour due to —",
+          "options": [
+            "experience",
+            "maturation",
+            "instinct",
+            "illness"
+          ],
+          "answer": "A",
+          "note": "Lesson 4."
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "Pitch of a sound depends on its —",
+          "options": [
+            "frequency",
+            "amplitude",
+            "timbre",
+            "medium"
+          ],
+          "answer": "A",
+          "note": "Lesson 5."
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "The minimum energy needed to produce a sensory experience is the —",
+          "options": [
+            "absolute threshold",
+            "difference threshold",
+            "pitch",
+            "timbre"
+          ],
+          "answer": "A",
+          "note": "Lesson 5."
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "The highest need in Maslow's hierarchy is —",
+          "options": [
+            "self-actualisation",
+            "safety",
+            "esteem",
+            "belongingness"
+          ],
+          "answer": "A",
+          "note": "Lesson 8."
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "In middle childhood the growth spurt comes earlier in —",
+          "options": [
+            "girls",
+            "boys",
+            "both together",
+            "neither"
+          ],
+          "answer": "A",
+          "fixed": true,
+          "note": "Lesson 10."
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "How many developmental tasks did Havighurst list for adolescents?",
+          "options": [
+            "10",
+            "6",
+            "8",
+            "9"
+          ],
+          "answer": "A",
+          "note": "Lesson 11."
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "Body organs decline in function by about —",
+          "options": [
+            "0.8 to 1 per cent per year after 30",
+            "10 per cent a year",
+            "none",
+            "5 per cent a year"
+          ],
+          "answer": "A",
+          "note": "Lesson 12."
+        },
+        {
+          "id": "1.13",
+          "type": "mcq",
+          "q": "Personal (informal) distance is —",
+          "options": [
+            "18 inches to 4 feet",
+            "0–18 inches",
+            "4–12 feet",
+            "beyond 12 feet"
+          ],
+          "answer": "A",
+          "note": "Lesson 14."
+        },
+        {
+          "id": "1.14",
+          "type": "mcq",
+          "q": "Which messages are more effective for attitude change?",
+          "options": [
+            "Those producing anxiety and fear",
+            "Unorganised ones",
+            "Very long ones",
+            "Irrelevant ones"
+          ],
+          "answer": "A",
+          "note": "Lesson 15."
+        },
+        {
+          "id": "1.15",
+          "type": "mcq",
+          "q": "Alternating depression and mania is —",
+          "options": [
+            "bipolar disorder",
+            "schizophrenia",
+            "ADHD",
+            "autism"
+          ],
+          "answer": "A",
+          "note": "Lesson 18."
+        },
+        {
+          "id": "1.16",
+          "type": "mcq",
+          "q": "Ayurveda: Ahara means —",
+          "options": [
+            "right food",
+            "right recreation",
+            "right routine",
+            "right thinking"
+          ],
+          "answer": "A",
+          "note": "Lesson 19."
+        },
+        {
+          "id": "1.17",
+          "type": "mcq",
+          "q": "IQ equals —",
+          "options": [
+            "MA/CA x 100",
+            "CA/MA x 100",
+            "MA x CA",
+            "MA + CA"
+          ],
+          "answer": "A",
+          "note": "Lesson 20."
+        },
+        {
+          "id": "1.18",
+          "type": "mcq",
+          "q": "Employees fully involved in goal setting is —",
+          "options": [
+            "participative style",
+            "authoritarian style",
+            "paternalistic style",
+            "consultative style"
+          ],
+          "answer": "A",
+          "note": "Lesson 22."
+        },
+        {
+          "id": "1.19",
+          "type": "mcq",
+          "q": "Crowding can lead to —",
+          "options": [
+            "learned helplessness and withdrawal",
+            "calm",
+            "creativity",
+            "altruism"
+          ],
+          "answer": "A",
+          "note": "Lesson 23."
+        },
+        {
+          "id": "1.20",
+          "type": "mcq",
+          "q": "The faculty of excretion is —",
+          "options": [
+            "Apana",
+            "Prana",
+            "Samana",
+            "Udana"
+          ],
+          "answer": "A",
+          "note": "Lesson 26."
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark.",
+      "marks": "9 × 2 = 18",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "Define (i) absolute threshold; (ii) difference threshold.",
+          "answer": "(i) Minimum physical energy needed to produce a sensory experience. (ii) Minimum change between two stimuli that can be recognised.",
+          "note": "Lesson 5."
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Differentiate intrinsic and extrinsic motivation in one line each.",
+          "answer": "Intrinsic motivation comes from within, from enjoyment of the task; extrinsic motivation is based on external rewards such as money and grades.",
+          "note": "Lesson 8."
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "Name the four stages of Piaget's cognitive development.",
+          "answer": "Sensori-motor, pre-operational, concrete operational, formal operational.",
+          "note": "Lesson 10."
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Who listed the developmental tasks of adolescence and how many?",
+          "answer": "Robert Havighurst listed ten tasks.",
+          "note": "Lesson 11."
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "Name any two internal changes of ageing.",
+          "answer": "Changes in respiratory, gastrointestinal, cardiovascular and central nervous systems (any two).",
+          "note": "Lesson 12."
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "Name any two features of effective communication.",
+          "answer": "Common frame of reference, mutual interest, common language, common environment (any two).",
+          "note": "Lesson 14."
+        },
+        {
+          "id": "2.7",
+          "type": "open",
+          "q": "What is confirmatory bias?",
+          "answer": "The tendency to search for information that supports one's beliefs and to ignore that which does not.",
+          "note": "Lesson 15."
+        },
+        {
+          "id": "2.8",
+          "type": "open",
+          "q": "Name any two dissociative disorders.",
+          "answer": "Dissociative amnesia, dissociative fugue, depersonalization disorder, multiple personality disorder (any two).",
+          "note": "Lesson 18."
+        },
+        {
+          "id": "2.9",
+          "type": "open",
+          "q": "Define health.",
+          "answer": "A state of physical, mental, social and spiritual well-being.",
+          "note": "Lesson 19."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Objective type questions: each has four parts of 1 mark.",
+      "marks": "3 × 4 = 12",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "Match the Erikson crisis: (i) young adulthood; (ii) middle adulthood; give (iii) the first term; (iv) the second term of the young adult crisis.",
+          "answer": "(i) Intimacy versus isolation. (ii) Generativity versus self-absorption. (iii) Intimacy. (iv) Isolation.",
+          "note": "Lesson 12."
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "Name the coping type: (i) planning revision for a tough test; (ii) leaving a rejecting friend and making a new one; (iii) accepting a substitute goal; (iv) blaming a tough paper for failure.",
+          "answer": "(i) Attack. (ii) Withdrawal. (iii) Compromise. (iv) Rationalisation (defence-oriented).",
+          "note": "Lesson 18."
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "Name four job design elements that improve performance.",
+          "answer": "Variety, autonomy, responsibility, feedback and task identity (any four).",
+          "note": "Lesson 22."
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "6 × 2 = 12",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "Name any two multiple intelligences given by Gardner.",
+          "answer": "Linguistic, logical-mathematical, spatial, musical, bodily-kinaesthetic, interpersonal, intrapersonal or naturalistic (any two).",
+          "note": "Lesson 3."
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "How can an emotion act as a motive?",
+          "answer": "A frightened child cries out for help and seeks comfort and security from a parent.",
+          "note": "Lesson 8."
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "Why is the study of physical and motor development important?",
+          "answer": "It is the basis for personality, social and emotional development, helps bonding with the mother figure and gives mastery over the body.",
+          "note": "Lesson 10."
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "What is proxemics?",
+          "answer": "The use of social distance between people: intimate, personal, social and public space.",
+          "note": "Lesson 14."
+        },
+        {
+          "id": "4.5",
+          "type": "open",
+          "q": "What is Dincharya?",
+          "answer": "The day routine: doing activities at the right time of day, such as rising before sunrise and drinking water first.",
+          "note": "Lesson 19."
+        },
+        {
+          "id": "4.6",
+          "type": "open",
+          "q": "Why does crowding differ in a marriage party and an overcrowded bus?",
+          "answer": "Density may be equal but the relationship with people, duration and meaning differ, so experience differs.",
+          "note": "Lesson 23."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "6 × 3 = 18",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "Explain transfer of training and its types.",
+          "answer": "Transfer is using earlier learning in a new situation. It is positive when the first learning helps the second, negative when it interferes, and zero when it neither helps nor interferes.",
+          "note": "Lesson 4."
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "Describe parenting styles.",
+          "answer": "Authoritarian is demanding and controlling; permissive is indulgent; authoritative is firm and consistent with reasons; neglectful is uninvolved and uncaring. Authoritative parenting suits socialisation best.",
+          "note": "Lesson 10."
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "Explain the key elements of communication.",
+          "answer": "Two-way sender–receiver process, a message, commonness of understanding, modification of the receiver's behaviour and a method of giving information (words or gestures).",
+          "note": "Lesson 14."
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "Describe the functions of attitudes.",
+          "answer": "They help us understand the world and choose whom to approach, describe our social groups, express our identity and values, and win support and acceptance from others.",
+          "note": "Lesson 15."
+        },
+        {
+          "id": "5.5",
+          "type": "open",
+          "q": "Distinguish intrinsic and extrinsic interests with examples.",
+          "answer": "Intrinsic: liking painting for itself; extrinsic: doing a task for money or praise. Intrinsic interest gives a better job match.",
+          "note": "Lesson 20."
+        },
+        {
+          "id": "5.6",
+          "type": "open",
+          "q": "Distinguish Manomaya and Vijnanamaya Koshas.",
+          "answer": "Manomaya is the mental sheath of feelings, emotions and memories; Vijnanamaya is the intellectual sheath of imagination, knowledge, insight and discriminating decisions.",
+          "note": "Lesson 26."
+        }
+      ]
+    },
+    {
+      "no": 6,
+      "title": "Long answer questions. Answer in 80–120 words.",
+      "marks": "4 × 5 = 20",
+      "questions": [
+        {
+          "id": "6.1",
+          "type": "open",
+          "q": "Discuss the experimental method as a scientific method. Identify the techniques used to control relevant variables.",
+          "answer": "The experimenter manipulates the independent variable and studies its effect on the dependent variable, with an experimental group and a control group. Organismic, situational and sequential variables must be controlled by elimination, making conditions constant, matching, counter-balancing and random assignment; experiments can be laboratory, field or quasi experiments.",
+          "note": "Lesson 2."
+        },
+        {
+          "id": "6.2",
+          "type": "open",
+          "q": "What is extra-sensory perception? Describe its types and the applications of perception in daily life.",
+          "answer": "ESP is perception not explained by known senses: telepathy, clairvoyance, pre-cognition and psycho-kinesis, studied by parapsychology; most psychologists doubt it. Applications: eyewitness testimony is error-prone; habituation reduces attention to familiar stimuli while creative people continue to attend; paying attention and breaking perceptual habits improve results.",
+          "note": "Lesson 5."
+        },
+        {
+          "id": "6.3",
+          "type": "open",
+          "q": "Explain the physical development and sexual maturation in adolescence.",
+          "answer": "Pubescence brings a growth spurt controlled by the pituitary gland (girls 10–11, boys 12–13, peak 12.6 and 14.8 years). Asynchronization occurs as bones and muscles outgrow skills; proportions change. Sex hormones (testosterone, estrogen) cause primary and secondary sex characteristics in a fixed sequence; boys gain more strength.",
+          "note": "Lesson 11."
+        },
+        {
+          "id": "6.4",
+          "type": "open",
+          "q": "List the determinants of organizational climate and explain them.",
+          "answer": "Structure (centralised or decentralised), technology (routine or dynamic), external environment (economic conditions) and management policies (autonomy and feedback). A positive climate gives satisfaction and productivity.",
+          "note": "Lesson 22."
+        }
+      ]
+    }
+  ]
+}

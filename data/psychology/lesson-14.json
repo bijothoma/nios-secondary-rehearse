@@ -1,0 +1,475 @@
+{
+  "subject": "psychology",
+  "lesson": 14,
+  "title": "Social Communication",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "20 × 1 = 20",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "Communication is a —",
+          "options": [
+            "two-way process",
+            "one-way process",
+            "silent process",
+            "random process"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "Commonness of understanding in communication depends on —",
+          "options": [
+            "culture, language and environment",
+            "distance only",
+            "age only",
+            "money"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "Words used as tools of interaction are —",
+          "options": [
+            "verbal communication",
+            "non-verbal communication",
+            "haptics",
+            "kinesics"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "Body language is also called —",
+          "options": [
+            "non-verbal communication",
+            "written communication",
+            "mass media",
+            "propaganda"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "Non-verbal communication accounts for more than —",
+          "options": [
+            "70 per cent",
+            "10 per cent",
+            "5 per cent",
+            "20 per cent"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "Kinesics deals with —",
+          "options": [
+            "body movement",
+            "touch",
+            "distance",
+            "eyes"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "Proxemics deals with —",
+          "options": [
+            "use of social distance",
+            "touch",
+            "gaze",
+            "words"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "Haptics refers to —",
+          "options": [
+            "touch",
+            "distance",
+            "eye contact",
+            "voice"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "Intimate space is —",
+          "options": [
+            "0–18 inches",
+            "18 inches–4 feet",
+            "4–12 feet",
+            "beyond 12 feet"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "Personal (informal) distance is —",
+          "options": [
+            "18 inches to 4 feet",
+            "0–18 inches",
+            "4–12 feet",
+            "beyond 12 feet"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "Public space is —",
+          "options": [
+            "beyond 12 feet",
+            "0–18 inches",
+            "4–12 feet",
+            "18 inches to 4 feet"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "Direct eye contact indicates —",
+          "options": [
+            "confidence",
+            "guilt",
+            "doubt",
+            "admiration"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.13",
+          "type": "mcq",
+          "q": "Looking downwards can show —",
+          "options": [
+            "respect or guilt",
+            "doubt",
+            "confidence",
+            "anger"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.14",
+          "type": "mcq",
+          "q": "A single raised eyebrow indicates —",
+          "options": [
+            "doubt",
+            "admiration",
+            "respect",
+            "friendliness"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.15",
+          "type": "mcq",
+          "q": "Which is a barrier to communication?",
+          "options": [
+            "Information overload",
+            "Common language",
+            "Mutual interest",
+            "Common frame of reference"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.16",
+          "type": "mcq",
+          "q": "Which is NOT a feature of effective communication?",
+          "options": [
+            "Different languages",
+            "Common frame of reference",
+            "Mutual interest",
+            "Common language"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.17",
+          "type": "mcq",
+          "q": "India has a high —",
+          "options": [
+            "power-distance index",
+            "touch culture",
+            "intimate space",
+            "haptic index"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.18",
+          "type": "mcq",
+          "q": "In India youngsters greet elders by —",
+          "options": [
+            "touching their feet",
+            "hugging",
+            "handshakes only",
+            "waving"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.19",
+          "type": "mcq",
+          "q": "Spreading rumours and false information is —",
+          "options": [
+            "propaganda",
+            "ethical media",
+            "education",
+            "literacy"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.20",
+          "type": "mcq",
+          "q": "A positive role of media is —",
+          "options": [
+            "promoting literacy and health awareness",
+            "inciting violence",
+            "spreading rumours",
+            "invading privacy"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark.",
+      "marks": "9 × 2 = 18",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "Define communication.",
+          "answer": "A process of interaction in which information, ideas and attitudes are transmitted between people to bring about a change in behaviour."
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Name the two types of communication.",
+          "answer": "Verbal and non-verbal communication."
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "Name the four channels of non-verbal communication.",
+          "answer": "Kinesics, gaze, proxemics and haptics."
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "State true or false: (i) We cannot communicate through gestures. (ii) The majority of our communication is non-verbal.",
+          "answer": "(i) False. (ii) True."
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "State true or false: (i) People have unlimited capacity to process information. (ii) Effective communication can be achieved by talking fast.",
+          "answer": "(i) False. (ii) False."
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "Name any two barriers to effective communication.",
+          "answer": "Information overload, selective perception, emotions, differing word meanings (any two)."
+        },
+        {
+          "id": "2.7",
+          "type": "open",
+          "q": "Name any two features of effective communication.",
+          "answer": "Common frame of reference, mutual interest, common language, common environment (any two)."
+        },
+        {
+          "id": "2.8",
+          "type": "open",
+          "q": "Give any two positive influences of media.",
+          "answer": "Educates and improves academic performance; promotes health awareness; informs about government policy (any two)."
+        },
+        {
+          "id": "2.9",
+          "type": "open",
+          "q": "Fill in: Reading, speaking, writing or listening are examples of ______ communication; touch as a channel is called ______.",
+          "answer": "verbal; haptics."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Objective type questions: each has four parts of 1 mark.",
+      "marks": "4 × 4 = 16",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "Identify the channel: (i) body movement; (ii) eye contact; (iii) social distance; (iv) touch.",
+          "answer": "(i) Kinesics. (ii) Gaze. (iii) Proxemics. (iv) Haptics."
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "Give the distance zones: (i) intimate; (ii) personal; (iii) social; (iv) public.",
+          "answer": "(i) 0–18 inches. (ii) 18 inches–4 feet. (iii) 4–12 feet. (iv) beyond 12 feet."
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "What is indicated by (i) direct eye contact; (ii) downward look; (iii) one raised eyebrow; (iv) both eyebrows raised?",
+          "answer": "(i) Confidence. (ii) Respect, careful listening or guilt. (iii) Doubt. (iv) Admiration."
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "Give the five elements of communication (any four).",
+          "answer": "Two-way process, message, commonness of understanding, modifying behaviour, method of giving information."
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "7 × 2 = 14",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "What is meant by commonness of understanding?",
+          "answer": "Sender and receiver share a base such as culture, language and environment, making words, idioms and gestures meaningful to both."
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "Why is non-verbal communication important?",
+          "answer": "It makes up most of communication, reinforces words, expresses emotions and attitudes and regulates interaction."
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "What is proxemics?",
+          "answer": "The use of social distance between people: intimate, personal, social and public space."
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "What is information overload?",
+          "answer": "A situation in which too much information exceeds a person's limited capacity, so some is ignored or forgotten."
+        },
+        {
+          "id": "4.5",
+          "type": "open",
+          "q": "Why is a common environment important in communication?",
+          "answer": "People from similar backgrounds such as nationality, class, culture or profession understand each other easily."
+        },
+        {
+          "id": "4.6",
+          "type": "open",
+          "q": "What is propaganda?",
+          "answer": "An organised way of spreading false or biased information."
+        },
+        {
+          "id": "4.7",
+          "type": "open",
+          "q": "Explain 'high power-distance index' in India.",
+          "answer": "Hierarchy, authority and age strongly shape communication, distance and eye contact between superiors and subordinates."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "6 × 3 = 18",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "Explain the key elements of communication.",
+          "answer": "Two-way sender–receiver process, a message, commonness of understanding, modification of the receiver's behaviour and a method of giving information (words or gestures)."
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "Describe the functions of non-verbal communication.",
+          "answer": "It creates impressions beyond words, reinforces speech, expresses emotions and attitudes, conveys power, affection, respect, regulates interaction and allows self-presentation; it is culture-bound."
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "Describe the barriers to effective communication.",
+          "answer": "Distortion of facts to please others, selective perception, projection in decoding, information overload, emotional states and differing meanings of words by age, gender and culture."
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "Describe the features of effective communication.",
+          "answer": "Common frame of reference, mutual interest, common language and common environment ensure minimum misunderstanding."
+        },
+        {
+          "id": "5.5",
+          "type": "open",
+          "q": "Give tips for improving verbal and body language.",
+          "answer": "Read and listen to improve language, modulate voice, think before speaking, avoid speaking fast or loudly; keep appropriate distance, touch only if needed, keep eye contact in interviews and look confident."
+        },
+        {
+          "id": "5.6",
+          "type": "open",
+          "q": "Describe the negative impacts of media.",
+          "answer": "Spread of wrong news, rumours and propaganda leading to violence and prejudice, invasion of privacy, vulgar material and unhealthy influence on children's body image and lifestyle."
+        }
+      ]
+    },
+    {
+      "no": 6,
+      "title": "Long answer questions. Answer in 80–120 words.",
+      "marks": "4 × 5 = 20",
+      "questions": [
+        {
+          "id": "6.1",
+          "type": "open",
+          "q": "Define communication and discuss its five elements with examples.",
+          "answer": "Communication is interaction to transmit information and bring behaviour change. Elements: two-way process (teacher to students), message (idea or feeling), commonness of understanding (language, culture), behaviour change (running out when told of a fire) and a method (words or gestures)."
+        },
+        {
+          "id": "6.2",
+          "type": "open",
+          "q": "Discuss verbal and non-verbal communication and their importance.",
+          "answer": "Verbal uses spoken or written words (10–11 hours daily). Non-verbal (more than 70 per cent) uses kinesics, gaze, proxemics (four distance zones) and haptics; eye contact, posture and smile convey meaning. It supports words, expresses emotion, regulates interaction and varies with culture."
+        },
+        {
+          "id": "6.3",
+          "type": "open",
+          "q": "Explain the barriers and the features of effective communication.",
+          "answer": "Barriers: distortion, selective perception, projection, overload, emotions and differing word meanings. Effective communication needs a common frame of reference, mutual interest, common language and common environment, plus tips: voice modulation, thinking before speaking, appropriate distance and culturally sensitive signs."
+        },
+        {
+          "id": "6.4",
+          "type": "open",
+          "q": "Discuss non-verbal communication in the Indian context and the role of media.",
+          "answer": "In India no public intimacy between couples, bangle gesture, handshakes mainly same-sex, a high power-distance (downcast eyes before superiors, veils, touching feet), personal space of 1.5–2 metres. Media informs, educates and integrates but can spread rumours, hatred and obscenity; it must follow ethics and promote national integration."
+        }
+      ]
+    }
+  ]
+}

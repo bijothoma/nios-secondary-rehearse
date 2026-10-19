@@ -1,0 +1,159 @@
+{
+  "subject": "psychology",
+  "lesson": 4,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 4: Learning — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "What is learning"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Learning is a relatively durable change in behaviour due to experience. Temporary changes, changes due to instinct or maturation (crawling, standing, walking), illness or drugs are not learning. Learning is not directly observed; it is inferred from improved performance (errors decrease with practice). Learning helps us adapt to the environment and is lifelong."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Classical conditioning (learning through association)"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Discovered by the Russian scientist Ivan P. Pavlov, who worked with dogs. Food is the unconditioned stimulus (UCS) and salivation to food the unconditioned response (UCR). A tone or buzzer (neutral stimulus) is paired repeatedly with food; after pairing the buzzer alone, now the conditioned stimulus (CS), produces salivation, the conditioned response (CR). Acquisition is the phase of repeated pairing. If the CS is presented without the UCS, the CR gradually disappears: extinction. After a rest gap the CR may reappear for a few trials on presenting the CS: spontaneous recovery."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Operant (instrumental) conditioning"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Organisms learn to repeat behaviours that produce positive outcomes and avoid or escape negative ones. B.F. Skinner studied it in rats using the Skinner Box with a lever: a hungry rat presses the lever accidentally, gets a food pellet, and gradually learns to press it; the behaviour is instrumental in getting food, and is an operation on the environment. Reinforcement is any operation that increases the rate of response. Positive reinforcement is a reward (food) that strengthens the response. Negative reinforcement removes an aversive stimulus (e.g. electric shock) when the response occurs; it includes escape learning (the rat escapes the shock) and avoidance learning (the rat avoids the shock). 'Negative' refers to the aversive nature of the reinforcer, and it is still reinforcement as it increases the response."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Schedules of reinforcement"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "In continuous reinforcement every correct response is reinforced; it is useful for establishing new behaviours. In partial (intermittent) reinforcement only some responses are reinforced; it is more powerful for maintaining acquired behaviour."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Observational learning"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Learning new skills by observing the behaviour of others (models), e.g. children learn aggression from violence on TV and learn social roles. It is more complex than imitation, since information may be learnt but not put to immediate use. Appropriate role models influence youngsters positively."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Other types: verbal, concept and skill learning"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Verbal learning is the learning of language (serial learning, paired-associate learning). Concept learning is developing categories of objects and events (boys, fruits; abstract concepts: love, freedom, democracy; concrete: cow, table); one response is made to all stimuli of a category and concepts reduce the complexity of the world. Skill learning is acquiring skills such as riding a bicycle, car driving, piloting; with over-learning a skill becomes automatic and one can do two tasks at once."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Transfer of training"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Using earlier learning in a new situation. Positive transfer: the first learning helps the second (multiplication used in the market). Negative transfer: the first learning interferes with the second. Zero transfer: neither helps nor interferes."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Tips for better study habits"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Study at a specific quiet place; use spaced sessions (spaced practice) rather than massed practice; use memory aids; test yourself; over-learn (study beyond bare mastery); avoid procrastination using a time schedule and specific goals."
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+ "lesson": 20, "title": "Aptitude, Interest and Job Requirements", "module": 6,
+ "summary": [
+  "## Aptitude",
+  "An aptitude is a special potential in a certain field of performance (e.g. a gift for music, art or painting); it predicts the probability of success with training in a type of work. It results from both inherent and environmental factors and involves readiness to acquire a skill or knowledge, ability to acquire it and ability to derive satisfaction from the activities. Aptitude is a combination of characteristics indicating the capacity to acquire specific knowledge or skill after learning; it can predict future performance, can be enhanced with training and can be assessed. Forms of aptitude tests: specialised aptitude tests (Mechanical Aptitude Test, Musical Aptitude Test) and general aptitude tests; multiple aptitude test batteries measure several separate but homogeneous areas – Differential Aptitude Tests (DAT) and General Aptitude Test Battery (GATB).",
+  "## Interest",
+  "Interest is a tendency to choose one activity in preference to another or to seek an activity or object; it means likes and dislikes (lawyer, physician, engineer, musician), shows in how one spends leisure time, gives emotional pleasure and underlies hobbies. Intrinsic interest: pleasure attached to the activity itself (liking an activity without reward). Extrinsic interest: pleasure attached to reward, praise or money. Techniques to measure interest: self-ratings, interviews, questionnaires, checklists and inventories; inventories (a list of activities to which the person responds 'like', 'dislike' or 'indifferent') are used in vocational and educational guidance and are better than interviews because many specific questions cover a broad range of careers. Well-known: Strong Vocational Interest Blank (SVIB) and Kuder Preference Record. Intrinsic interest gives a better match between the job and the applicant's personality.",
+  "## Ability and intelligence",
+  "Ability, commonly intelligence, is an important source of individual differences: the innate capacity to act that helps in solving problems; environment can develop abilities but cannot produce them; abilities are not the same as knowledge. The contemporary view (Gardner) is that there are multiple intelligences – cognitive, musical, kinesthetic (bodily), interpersonal and others.",
+  "## Mental age and IQ",
+  "Mental ability is developmental and rises with age; age scales consist of questions answered correctly by most children of that age (a child passing the five-year-old scale has mental age five). Intelligence Quotient (IQ) = (Mental Age / Chronological Age) x 100. When MA equals CA, IQ is 100 (average); MA greater than CA gives IQ above 100; CA greater than MA gives IQ below 100. The concept of MA does not apply beyond 18 years, so IQ is not meaningful after 18; the current practice is to build a profile of different abilities instead of a single score.",
+  "## Importance and job requirements",
+  "Career decisions should be consistent with abilities, aptitudes and interests; the right decision brings happiness and job satisfaction and needs accurate, reliable, up-to-date information about job requirements and the person. A job description informs applicants about what the employer wants: nature of work, salary and benefits, work timings and holidays, and the intelligence, aptitude and interest required; for a teacher: communication skills, patience, aptitude in teaching and managing the class, educational qualifications. It serves its purpose when it attracts applicants with the right aptitude."
+ ],
+ "mcq": [
+  ["A special potential in a certain field of performance is —", ["aptitude", "interest", "attitude", "habit"], "A"],
+  ["Aptitude is the result of —", ["inherent and environmental factors", "heredity only", "environment only", "luck"], "A"],
+  ["Which is a specialised aptitude test?", ["Mechanical Aptitude Test", "DAT", "GATB", "SVIB"], "A"],
+  ["DAT stands for —", ["Differential Aptitude Tests", "Direct Ability Test", "Diagnostic Aptitude Test", "Differential Ability Test"], "A"],
+  ["A test battery measures —", ["several separate but homogeneous areas", "only one area", "interest only", "personality only"], "A"],
+  ["Interest is a —", ["tendency to prefer one activity to another", "special potential", "innate capacity", "knowledge"], "A"],
+  ["Liking an activity without any reward is —", ["intrinsic interest", "extrinsic interest", "aptitude", "ability"], "A"],
+  ["Liking an activity for money or praise is —", ["extrinsic interest", "intrinsic interest", "aptitude", "ability"], "A"],
+  ["SVIB is a measure of —", ["interest", "aptitude", "personality", "intelligence"], "A"],
+  ["Kuder Preference Record measures —", ["interest", "aptitude", "ability", "memory"], "A"],
+  ["Interest inventories are used in —", ["vocational and educational guidance", "medical treatment", "sports only", "politics"], "A"],
+  ["Ability commonly known as —", ["intelligence", "interest", "attitude", "motivation"], "A"],
+  ["Who gave the multiple intelligences view?", ["Gardner", "Binet", "Wechsler", "Skinner"], "A"],
+  ["IQ equals —", ["MA/CA x 100", "CA/MA x 100", "MA x CA", "MA + CA"], "A"],
+  ["If MA equals CA, IQ is —", ["100", "50", "150", "200"], "A"],
+  ["The concept of MA does not apply beyond —", ["18 years", "10 years", "30 years", "60 years"], "A"],
+  ["If MA is greater than CA, IQ is —", ["above 100", "100", "below 100", "zero"], "A"],
+  ["The right career decision brings —", ["happiness and job satisfaction", "stress", "frustration", "isolation"], "A"],
+  ["A job description includes —", ["nature of work, salary and timings", "only salary", "gossip", "only holidays"], "A"],
+  ["Which combination should guide career choice?", ["Abilities, aptitudes and interests", "Only marks", "Only salary", "Only friends' choice"], "A"]
+ ],
+ "objective": [
+  ["Define aptitude.", "A combination of characteristics indicating an individual's capacity to acquire specific knowledge or skill after learning."],
+  ["Name two specialised aptitude tests.", "Mechanical Aptitude Test and Musical Aptitude Test."],
+  ["Name two multiple aptitude test batteries.", "Differential Aptitude Tests (DAT) and General Aptitude Test Battery (GATB)."],
+  ["Define interest.", "A tendency to choose one activity in preference to another or to seek out an activity or object."],
+  ["Name the two types of interest.", "Intrinsic interest and extrinsic interest."],
+  ["Name two interest inventories.", "Strong Vocational Interest Blank (SVIB) and Kuder Preference Record."],
+  ["Define IQ and give its formula.", "IQ is the ratio of mental age to chronological age multiplied by 100: IQ = MA/CA x 100."],
+  ["Calculate the IQ of a child with MA 9 and CA 12.", "IQ = 9/12 x 100 = 75."],
+  ["Why is IQ not meaningful beyond 18 years?", "Mental ability is usually fully developed by then, so the concept of mental age does not apply."]
+ ],
+ "objective4": [
+  ["Calculate the IQ: (i) MA 10, CA 8; (ii) MA 12, CA 12; (iii) MA 6, CA 8; (iv) classify each as above, average or below average.", "(i) 125 (above average). (ii) 100 (average). (iii) 75 (below average). (iv) as stated."],
+  ["Identify intrinsic or extrinsic interest: (i) painting for pure enjoyment; (ii) studying only for a prize; (iii) playing for a salary; (iv) reading with no reward.", "(i) Intrinsic. (ii) Extrinsic. (iii) Extrinsic. (iv) Intrinsic."],
+  ["Name the techniques of measuring interest (four).", "Self-ratings, interviews, questionnaires, checklists and inventories (any four)."],
+  ["What does a job description give? Name four items.", "Nature of work, salary and benefits, work timings and holidays, required intelligence, aptitude and interest (any four)."]
+ ],
+ "vsa": [
+  ["What three things does aptitude involve?", "Readiness to acquire a skill, ability to acquire it and ability to derive satisfaction from the activity."],
+  ["How is intrinsic interest different from extrinsic interest?", "Intrinsic interest is pleasure in the activity itself; extrinsic is pleasure from reward, praise or money."],
+  ["Why are interest inventories better than interviews?", "They use many specific questions covering a broad range of careers or subjects."],
+  ["What is ability?", "The innate capacity to act that helps in solving a problem; environment can develop it but cannot produce it."],
+  ["What is mental age?", "The age level of questions a child can answer correctly, as most children of that age can."],
+  ["What is the use of aptitude tests?", "They help in educational and vocational guidance by predicting probable success with training."],
+  ["What is the purpose of a job description?", "To inform applicants about the nature of work, pay and conditions and the aptitude, interest and ability required, attracting the right people."]
+ ],
+ "sa": [
+  ["Explain the concept of aptitude.", "Aptitude is a special potential in a field, resulting from heredity and environment; it needs readiness, ability and satisfaction, predicts success with training and can be enhanced and assessed."],
+  ["Describe the types of aptitude tests.", "Specialised tests such as the Mechanical and Musical Aptitude Tests; general aptitude tests; and multiple aptitude batteries such as DAT and GATB measuring several separate areas."],
+  ["Distinguish intrinsic and extrinsic interests with examples.", "Intrinsic: liking painting for itself; extrinsic: doing a task for money or praise. Intrinsic interest gives a better job match."],
+  ["Explain mental age and IQ.", "Mental age is age-related mental maturity from age scales; IQ = MA/CA x 100. IQ 100 is average, above 100 above average; not meaningful after 18, so profiles of abilities are used."],
+  ["Explain the role of aptitude, interest and ability in career choice.", "Career choices should match all three; a right decision brings happiness and job satisfaction, using accurate information about the job and the person."],
+  ["Explain what a job description contains.", "Nature of work, salary and benefits, timings and holidays and the intelligence, aptitude and interest required, e.g. a teacher needs communication skills, patience and qualifications."]
+ ],
+ "la": [
+  ["What is aptitude? Describe one aptitude test and its use.", "Aptitude is the capacity to acquire a skill with training from heredity and environment. The Differential Aptitude Tests (DAT) are a battery measuring several separate areas and are used in educational and vocational guidance to predict future performance."],
+  ["What is interest? How does it help in the choice of subjects and careers?", "Interest is a preference for an activity, intrinsic or extrinsic, measured by self-ratings, interviews, questionnaires and inventories such as SVIB and Kuder. Inventory results guide selection of streams, courses and careers when supplemented by ability and aptitude tests."],
+  ["Discuss ability and intelligence, mental age and IQ.", "Ability is the innate capacity to act; intelligence is its important form; Gardner holds there are multiple intelligences. Mental age comes from age scales and IQ = MA/CA x 100, with 100 average; not meaningful after 18, so ability profiles are used."],
+  ["Describe the role of aptitudes, interests and abilities in educational and vocational choices and the importance of job descriptions.", "The three together guide choice of study, hobbies and careers; the right decision gives satisfaction. Job descriptions give nature of work, pay and conditions and the required aptitude, interest and ability to attract suitable applicants."]
+ ]
+}

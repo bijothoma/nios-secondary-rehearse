@@ -1,0 +1,475 @@
+{
+  "subject": "psychology",
+  "lesson": 5,
+  "title": "Sensory Processes: Attention and Perception",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "20 × 1 = 20",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "Sensation is the process of converting —",
+          "options": [
+            "one form of energy into neural impulses",
+            "neural impulses into muscle action",
+            "memory into perception",
+            "emotion into thought"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "The minimum energy needed to produce a sensory experience is the —",
+          "options": [
+            "absolute threshold",
+            "difference threshold",
+            "pitch",
+            "timbre"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "The minimal change between two stimuli that can be noticed is the —",
+          "options": [
+            "difference threshold",
+            "absolute threshold",
+            "constancy",
+            "closure"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "The stimulus for hearing is —",
+          "options": [
+            "sound waves",
+            "light waves",
+            "volatile materials",
+            "soluble materials"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "Pitch of a sound depends on its —",
+          "options": [
+            "frequency",
+            "amplitude",
+            "timbre",
+            "medium"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "Loudness is measured in —",
+          "options": [
+            "decibels",
+            "hertz",
+            "watts",
+            "metres"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "The sense of bodily orientation with respect to gravity is the —",
+          "options": [
+            "vestibular sense",
+            "kinesthetic sense",
+            "olfaction",
+            "gustation"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "Sense of position and movement of body parts is —",
+          "options": [
+            "kinesthetic sense",
+            "vestibular sense",
+            "taste",
+            "touch"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "Which is NOT a primary taste?",
+          "options": [
+            "Spicy",
+            "Sweet",
+            "Bitter",
+            "Saline"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "The image on the retina is called the —",
+          "options": [
+            "proximal stimulus",
+            "distal stimulus",
+            "percept",
+            "figure"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "The physical object in the world is the —",
+          "options": [
+            "distal stimulus",
+            "proximal stimulus",
+            "retina",
+            "illusion"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "Grouping of nearby stimuli is the law of —",
+          "options": [
+            "proximity",
+            "similarity",
+            "closure",
+            "continuity"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.13",
+          "type": "mcq",
+          "q": "The tendency to complete an incomplete figure is —",
+          "options": [
+            "closure",
+            "proximity",
+            "similarity",
+            "common region"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.14",
+          "type": "mcq",
+          "q": "Perceiving a door as rectangular from any angle shows —",
+          "options": [
+            "shape constancy",
+            "size constancy",
+            "brightness constancy",
+            "closure"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.15",
+          "type": "mcq",
+          "q": "Cues needing two eyes are called —",
+          "options": [
+            "binocular cues",
+            "monocular cues",
+            "pictorial cues",
+            "motion cues"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.16",
+          "type": "mcq",
+          "q": "Binocular depth perception is due to —",
+          "options": [
+            "retinal disparity",
+            "closure",
+            "habituation",
+            "timbre"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.17",
+          "type": "mcq",
+          "q": "The Müller-Lyer illusion is an illusion of —",
+          "options": [
+            "line length",
+            "colour",
+            "sound",
+            "taste"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.18",
+          "type": "mcq",
+          "q": "Perception of objects that have no external reality is —",
+          "options": [
+            "hallucination",
+            "illusion",
+            "constancy",
+            "attention"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.19",
+          "type": "mcq",
+          "q": "Reading another person's thoughts is —",
+          "options": [
+            "telepathy",
+            "clairvoyance",
+            "pre-cognition",
+            "psycho-kinesis"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.20",
+          "type": "mcq",
+          "q": "Ceasing to attend to a repeated unchanged stimulus is —",
+          "options": [
+            "habituation",
+            "closure",
+            "constancy",
+            "recognition"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark.",
+      "marks": "9 × 2 = 18",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "Name the sense organ and the stimulus for (i) hearing; (ii) smell.",
+          "answer": "(i) Ear; sound waves. (ii) Nose; volatile materials."
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Define (i) absolute threshold; (ii) difference threshold.",
+          "answer": "(i) Minimum physical energy needed to produce a sensory experience. (ii) Minimum change between two stimuli that can be recognised."
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "Name any two laws of perceptual grouping.",
+          "answer": "Proximity, similarity, continuity, closure, common region (any two)."
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Distinguish (i) illusion; (ii) hallucination.",
+          "answer": "(i) Distorted perception of an existing stimulus. (ii) Perception of an object or event that has no external reality."
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "Name the two types of depth cues.",
+          "answer": "Monocular cues and binocular cues."
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "What is (i) clairvoyance; (ii) pre-cognition?",
+          "answer": "(i) Perceiving events unaffected by distance or barriers. (ii) Predicting or perceiving future events accurately."
+        },
+        {
+          "id": "2.7",
+          "type": "open",
+          "q": "Name any two physical determinants of attention.",
+          "answer": "Repetition, contrast, size, shape, brightness (any two)."
+        },
+        {
+          "id": "2.8",
+          "type": "open",
+          "q": "Fill in: (i) Loudness depends on ______. (ii) Pitch depends on ______.",
+          "answer": "(i) amplitude. (ii) frequency."
+        },
+        {
+          "id": "2.9",
+          "type": "open",
+          "q": "Name the four primary tastes.",
+          "answer": "Sweet, sour, bitter and saline."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Objective type questions: each has four parts of 1 mark.",
+      "marks": "4 × 4 = 16",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "Identify the law of grouping: (i) four nearby dots seen as a group; (ii) similar-coloured items grouped; (iii) dots in a circle seen as a circle; (iv) incomplete figure completed.",
+          "answer": "(i) Proximity. (ii) Similarity. (iii) Continuity. (iv) Closure."
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "Identify the constancy: (i) a distant car seen as the same size; (ii) a tilted plate seen as round; (iii) white paper looks white in dim light; (iv) define perceptual constancy.",
+          "answer": "(i) Size constancy. (ii) Shape constancy. (iii) Brightness constancy. (iv) Perception of size, shape or brightness remains the same although the retinal image changes."
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "Name the ESP phenomenon: (i) reading minds; (ii) knowing distant events; (iii) predicting the future; (iv) moving objects by will.",
+          "answer": "(i) Telepathy. (ii) Clairvoyance. (iii) Pre-cognition. (iv) Psycho-kinesis."
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "Match: (i) pitch (ii) timbre (iii) loudness (iv) vestibular sense; with (a) amplitude (b) frequency (c) gravity orientation (d) complexity of wave.",
+          "answer": "(i)–(b); (ii)–(d); (iii)–(a); (iv)–(c)."
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "7 × 2 = 14",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "What is sensation?",
+          "answer": "The process by which sensory neurons convert energy such as light into neural impulses, giving awareness of conditions inside or outside the body."
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "Differentiate distal and proximal stimulus.",
+          "answer": "The distal stimulus is the physical object in the world; the proximal stimulus is its image on the retina."
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "What is figure–ground organisation?",
+          "answer": "Grouping of sensations into objects (figures) that stand out against a plainer background; it may reverse, as in the goblet figure."
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "What is depth perception? Give one use.",
+          "answer": "The ability to see three-dimensional space and judge distance; it lets us drive, catch a ball or thread a needle."
+        },
+        {
+          "id": "4.5",
+          "type": "open",
+          "q": "What is selective attention?",
+          "answer": "Giving priority to a particular incoming sensory message while ignoring others."
+        },
+        {
+          "id": "4.6",
+          "type": "open",
+          "q": "What is habituation?",
+          "answer": "Decreased response to or ceasing of attention to a familiar stimulus that is repeated without change."
+        },
+        {
+          "id": "4.7",
+          "type": "open",
+          "q": "What is parapsychology?",
+          "answer": "The study of extra-sensory perception and psi-phenomena that lie outside accepted scientific laws."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "6 × 3 = 18",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "Explain the concept of threshold.",
+          "answer": "Absolute threshold is the minimum physical energy needed to produce a sensory experience; difference threshold is the minimal change in two stimuli that can be recognised, e.g. noticing a change in TV volume."
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "Describe pitch, loudness and timbre of sound.",
+          "answer": "Pitch is highness or lowness determined by frequency (Hz). Loudness is physical intensity determined by amplitude, measured in decibels. Timbre is the quality due to the complexity of the sound wave."
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "Explain perceptual constancy.",
+          "answer": "Perception of an object's size, shape or brightness remains the same although its retinal image changes: a distant person appears the same size (size constancy), a tilted door appears rectangular (shape constancy), and paper appears equally white in different lighting (brightness constancy)."
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "Distinguish monocular and binocular cues of depth.",
+          "answer": "Monocular cues work with one eye and include pictorial cues like converging railway tracks. Binocular cues need two eyes and arise from retinal disparity, the difference in the images of the two eyes; a one-eyed person has limited depth perception."
+        },
+        {
+          "id": "5.5",
+          "type": "open",
+          "q": "Explain the determinants of attention.",
+          "answer": "Physical factors – repetition, contrast, size, shape and brightness – attract attention (packaging and advertising). Motives also direct attention: a hungry person notices food; advertisers use anxiety and the desire to be attractive."
+        },
+        {
+          "id": "5.6",
+          "type": "open",
+          "q": "Describe the problem with eyewitness testimony.",
+          "answer": "Eyewitness errors in perception are common, especially when the person is surprised, stressed or threatened; hence investigators and jurors should gather more evidence than rely only on eyewitnesses."
+        }
+      ]
+    },
+    {
+      "no": 6,
+      "title": "Long answer questions. Answer in 80–120 words.",
+      "marks": "4 × 5 = 20",
+      "questions": [
+        {
+          "id": "6.1",
+          "type": "open",
+          "q": "Define perception and discuss the principles of perceptual organisation.",
+          "answer": "Perception is the process of organising and interpreting sensations into meaningful percepts using past and present experience. Perception is organised: figure–ground organisation separates objects from the background, and grouping follows proximity, similarity, continuity, closure and common region. Perceptual constancy and depth perception further stabilise the world."
+        },
+        {
+          "id": "6.2",
+          "type": "open",
+          "q": "Discuss depth perception and perceptual constancy.",
+          "answer": "Depth perception is the ability to see three dimensions and judge distance; it is partly innate and partly learnt. Monocular and binocular cues (retinal disparity) provide it; pictorial cues such as converging tracks also help. Perceptual constancy keeps size, shape and brightness stable despite changing retinal images. Illusions such as Müller-Lyer show distortion."
+        },
+        {
+          "id": "6.3",
+          "type": "open",
+          "q": "Explain the senses and their stimuli and organs.",
+          "answer": "Sight: light waves, eye; hearing: sound waves, ear; skin senses: touch, cold, warmth and pain; smell: volatile materials, nose; taste: soluble materials, tongue with four primary tastes. In addition there are vestibular (orientation) and kinesthetic (movement) senses. Thresholds determine what we detect."
+        },
+        {
+          "id": "6.4",
+          "type": "open",
+          "q": "What is extra-sensory perception? Describe its types and the applications of perception in daily life.",
+          "answer": "ESP is perception not explained by known senses: telepathy, clairvoyance, pre-cognition and psycho-kinesis, studied by parapsychology; most psychologists doubt it. Applications: eyewitness testimony is error-prone; habituation reduces attention to familiar stimuli while creative people continue to attend; paying attention and breaking perceptual habits improve results."
+        }
+      ]
+    }
+  ]
+}

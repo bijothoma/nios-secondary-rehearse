@@ -1,0 +1,505 @@
+{
+  "subject": "psychology",
+  "lesson": 3,
+  "title": "Individual Differences",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "20 × 1 = 20",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "According to Allport, personality is —",
+          "options": [
+            "fixed and unchanging",
+            "a dynamic organization of psychophysical systems",
+            "based solely on genetic inheritance",
+            "determined by social factors"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "Tests of intelligence and aptitude come under which category?",
+          "options": [
+            "Ability test",
+            "Personality test",
+            "Emotional test",
+            "Ink blot test"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "What is the IQ of a child whose mental age is 10 years and chronological age is 8 years?",
+          "options": [
+            "100",
+            "125",
+            "150",
+            "200"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "'This is the dynamic organization within the individual of those psychophysical systems that determine his unique adjustment to his environment.' This defines —",
+          "options": [
+            "Intelligence",
+            "Interest",
+            "Personality",
+            "Aptitude"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "Individual differences are due to the interaction of —",
+          "options": [
+            "genetic and environmental factors",
+            "only heredity",
+            "only environment",
+            "only education"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "Who gave the concept of mental age in 1905?",
+          "options": [
+            "Alfred Binet",
+            "William Stern",
+            "Wechsler",
+            "Galton"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "The term IQ was devised by —",
+          "options": [
+            "William Stern",
+            "Binet",
+            "Gardner",
+            "Allport"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "IQ is calculated as —",
+          "options": [
+            "MA/CA x 100",
+            "CA/MA x 100",
+            "MA + CA",
+            "MA x CA"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "The Wechsler Intelligence Scale for Children (WISC) is for ages —",
+          "options": [
+            "6 to 16 years",
+            "2 to 5 years",
+            "16 to 60 years",
+            "0 to 3 years"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "Which type of intelligence test can be given to illiterate people?",
+          "options": [
+            "Performance test",
+            "Verbal test",
+            "Written test",
+            "None"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "Gardner proposed how many multiple intelligences?",
+          "options": [
+            "Eight",
+            "Five",
+            "Three",
+            "Ten"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "A test is reliable if it —",
+          "options": [
+            "measures a characteristic consistently",
+            "measures what it claims",
+            "is easy",
+            "is long"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.13",
+          "type": "mcq",
+          "q": "Standardisation of a test involves —",
+          "options": [
+            "the same procedure and group norms",
+            "changing items each time",
+            "personal judgement",
+            "no norms"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.14",
+          "type": "mcq",
+          "q": "The Differential Aptitude Test (DAT) is a —",
+          "options": [
+            "multiple aptitude battery",
+            "personality inventory",
+            "projective test",
+            "interest inventory"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.15",
+          "type": "mcq",
+          "q": "Capacity to acquire a specific skill after training is called —",
+          "options": [
+            "aptitude",
+            "achievement",
+            "interest",
+            "intelligence"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.16",
+          "type": "mcq",
+          "q": "Rorschach Ink Blot Test is a —",
+          "options": [
+            "projective technique",
+            "self-report measure",
+            "situational test",
+            "aptitude test"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.17",
+          "type": "mcq",
+          "q": "TAT stands for —",
+          "options": [
+            "Thematic Apperception Test",
+            "Trait Assessment Test",
+            "Test of Attitude and Talent",
+            "Thematic Aptitude Test"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.18",
+          "type": "mcq",
+          "q": "NEO-PI-R is based on the —",
+          "options": [
+            "Five-Factor Model",
+            "Sixteen factors",
+            "Psychodynamic theory",
+            "Trait types"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.19",
+          "type": "mcq",
+          "q": "16 PF was developed by —",
+          "options": [
+            "Cattell",
+            "Costa and McCrae",
+            "Rorschach",
+            "Allport"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.20",
+          "type": "mcq",
+          "q": "The Situational Stress Test measures reactions to —",
+          "options": [
+            "stressful, frustrating situations with uncooperative helpers",
+            "inkblots",
+            "questionnaires",
+            "interest areas"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark.",
+      "marks": "9 × 2 = 18",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "(i) What is an aptitude? (ii) What is meant by aptitude battery?",
+          "answer": "(i) A combination of characteristics indicating a person's capacity to acquire a specific skill or knowledge after training. (ii) A set of aptitude tests developed to assess several aptitudes, e.g. DAT and GATB.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Answer the following: (i) Give one example of a verbal test of intelligence. (ii) What is a non-verbal test?",
+          "answer": "(i) Stanford–Binet or Wechsler scale (tests needing understanding of words). (ii) A test using pictures or illustrations as items, so it can be used with literate and illiterate people.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "(i) Define interest. (ii) Write any two techniques to measure interest.",
+          "answer": "(i) Interest is a liking or preference for activities or occupations. (ii) Vocational interest tests and general interest inventories (paper-pencil tests).",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Answer in one sentence: (i) What is IQ? (ii) Who devised the term IQ?",
+          "answer": "(i) IQ = mental age divided by chronological age, multiplied by 100. (ii) William Stern, in 1912."
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "Calculate: (i) IQ of a child with MA 12 and CA 8. (ii) IQ of a child with MA 10 and CA 8.",
+          "answer": "(i) 12/8 x 100 = 150. (ii) 10/8 x 100 = 125.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "State true or false: (i) A test score is an absolute value. (ii) Verbal intelligence tests can be given only to literate people.",
+          "answer": "(i) False – it is a relative score. (ii) True."
+        },
+        {
+          "id": "2.7",
+          "type": "open",
+          "q": "Answer in a word: (i) Who defined intelligence as the 'aggregate or global capacity'? (ii) Who proposed multiple intelligences?",
+          "answer": "(i) Wechsler. (ii) Gardner."
+        },
+        {
+          "id": "2.8",
+          "type": "open",
+          "q": "Fill in the blanks: Personality measures are of three types: self-report, ______ and ______.",
+          "answer": "projective; situational."
+        },
+        {
+          "id": "2.9",
+          "type": "open",
+          "q": "Match: (i) NEO-PI-R (ii) 16 PF (iii) TAT (iv) Hartshorne and May; with (a) Cattell (b) honesty test (c) Costa and McCrae (d) projective.",
+          "answer": "(i)–(c); (ii)–(a); (iii)–(d); (iv)–(b)."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Objective type questions: each has four parts of 1 mark.",
+      "marks": "4 × 4 = 16",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "Answer: (i) What is a self-report measure of personality? (ii) Write one use of a projective technique. (iii) Name any one projective test. (iv) What kinds of traits are measured by situational tests?",
+          "answer": "(i) A measure in which the person reports about himself on a questionnaire or inventory. (ii) To reveal latent or unconscious feelings, needs and motives. (iii) Rorschach Ink Blot Test (or TAT). (iv) Leadership, dominance, responsibility, honesty and extraversion–introversion.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "Identify: (i) the person who gave the concept of mental age; (ii) the person who devised IQ; (iii) the test for adults by Wechsler; (iv) the test for children by Wechsler.",
+          "answer": "(i) Alfred Binet. (ii) William Stern. (iii) WAIS. (iv) WISC."
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "Identify the perspective on personality: (i) traits and types; (ii) unconscious needs and conflicts; (iii) social and cultural norms; (iv) freedom and growth.",
+          "answer": "(i) Trait perspective. (ii) Psychodynamic perspective. (iii) Socio-cultural perspective. (iv) Humanistic perspective."
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "Name the property of a test: (i) consistency; (ii) measuring what it intends; (iii) uniform administration and norms; (iv) the property that lets scores be compared with a group.",
+          "answer": "(i) Reliability. (ii) Validity. (iii) Standardisation. (iv) Norms (standardisation)."
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "6 × 2 = 12",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "Explain the term 'individual differences'.",
+          "answer": "It means the extent and kind of variations or similarities among people on psychological aspects such as intelligence, personality, interest and aptitude, arising from genetic and environmental interaction."
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "Differentiate between intelligence, aptitude and achievement (two points).",
+          "answer": "Intelligence is the ability to do certain things at a given time; aptitude is the potential ability to learn a particular skill after training; achievement is performance in a subject with which the person is familiar."
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "What is standardisation of a test?",
+          "answer": "Establishing the same procedure and conditions of administration and group norms so that scores are uniform, objective and interpretable relative to others."
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "Define personality according to Allport.",
+          "answer": "Personality is the dynamic organization within the individual of those psychophysical systems that determine his unique adjustment to his environment.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "4.5",
+          "type": "open",
+          "q": "What is a projective measure of personality?",
+          "answer": "A technique with unstructured, ambiguous stimuli (inkblots, pictures, incomplete sentences) on which the person projects latent feelings, needs and motives, e.g. the Rorschach test.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "4.6",
+          "type": "open",
+          "q": "Name any two multiple intelligences given by Gardner.",
+          "answer": "Linguistic, logical-mathematical, spatial, musical, bodily-kinaesthetic, interpersonal, intrapersonal or naturalistic (any two)."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "6 × 3 = 18",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "Explain the properties of a good psychological test.",
+          "answer": "A good test is reliable (it gives consistent scores on different occasions), valid (it measures what it claims to measure and predicts relevant behaviour) and standardised (uniform procedure and group norms so scores can be compared).",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "Describe the types of intelligence tests.",
+          "answer": "Individual tests are given to one person at a time and group tests to many; by items, verbal tests need understanding of words (literate only), non-verbal tests use pictures and performance tests use concrete tasks; the last two suit literate and illiterate people."
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "Explain the nature of individual differences and their causes.",
+          "answer": "Most people fall in the middle range of any trait; differences are consistent and stable and unique to each person; they arise from the interaction of heredity (genetic codes) and the environment (upbringing, education, peers, media), as with Ambedkar and Kalam."
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "Describe self-report measures of personality.",
+          "answer": "The person reports on himself in a questionnaire or inventory with closed- or open-ended statements; examples are NEO-PI-R (five factors) and 16 PF (16 primary traits) and Indian inventories such as the Bell Adjustment Inventory."
+        },
+        {
+          "id": "5.5",
+          "type": "open",
+          "q": "Describe situational tests of personality.",
+          "answer": "Behaviour is observed in purposefully designed situations; they assess leadership, dominance, responsibility and honesty; examples are the Character Education Enquiry tests (Hartshorne and May), the OSS selection tests and the Situational Stress Test."
+        },
+        {
+          "id": "5.6",
+          "type": "open",
+          "q": "Explain the perspectives of personality (any three).",
+          "answer": "Trait perspective describes personality by traits and types; psychodynamic stresses unconscious needs and conflicts (Freud); socio-cultural stresses social and cultural norms learnt through interaction; humanistic stresses freedom and growth."
+        }
+      ]
+    },
+    {
+      "no": 6,
+      "title": "Long answer questions. Answer in 80–120 words.",
+      "marks": "4 × 5 = 20",
+      "questions": [
+        {
+          "id": "6.1",
+          "type": "open",
+          "q": "Discuss the nature and definition of intelligence and the tools to measure it.",
+          "answer": "Intelligence is the multifaceted, functional ability of people. Binet and Simon defined it as the ability to judge, understand and reason well; Wechsler as the global capacity to act purposefully, think rationally and deal effectively with the environment; Gardner proposed eight multiple intelligences. Binet gave mental age (1905) and Stern IQ = MA/CA x 100 (1912); tests include Stanford–Binet and the Wechsler scales (WAIS, WISC); tests may be individual or group, verbal, non-verbal or performance."
+        },
+        {
+          "id": "6.2",
+          "type": "open",
+          "q": "Explain aptitude and interest and how they are assessed.",
+          "answer": "Aptitude is the capacity to acquire a specific skill after training; it differs from intelligence and achievement. Aptitude tests (clerical, mechanical, musical, typing) predict vocational success; batteries are DAT, GATB and ASVAB. Interest is measured by vocational interest tests (paper-pencil tests matching interest with occupations) and general interest inventories."
+        },
+        {
+          "id": "6.3",
+          "type": "open",
+          "q": "Discuss the techniques of personality assessment.",
+          "answer": "Personality is the stable, unique behaviour pattern (Allport). Self-report measures use inventories (NEO-PI-R, 16 PF); projective measures use ambiguous stimuli (Rorschach, TAT, Rotter's sentences) to reveal unconscious motives; situational measures observe behaviour in designed situations (Hartshorne–May, OSS, Situational Stress Test). Perspectives are trait, psychodynamic, socio-cultural and humanistic."
+        },
+        {
+          "id": "6.4",
+          "type": "open",
+          "q": "What is psychological assessment? Explain the need for it and the properties of a test.",
+          "answer": "Psychological assessment uses specific procedures to evaluate personal qualities, behaviours and abilities and to describe how people are similar or different; everyday judgments like 'nice' or 'genius' are error-prone, so scientific tests aim at minimum error. A test must be reliable, valid and standardised. Achievement, ability and personality tests are used."
+        }
+      ]
+    }
+  ]
+}

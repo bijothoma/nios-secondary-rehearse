@@ -1,0 +1,475 @@
+{
+  "subject": "psychology",
+  "lesson": 18,
+  "title": "Mental Disorders and their Treatment",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "20 × 1 = 20",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "Who coined the term 'stress'?",
+          "options": [
+            "Hans Selye",
+            "Freud",
+            "Pavlov",
+            "Skinner"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "Moderate and desirable stress is called —",
+          "options": [
+            "eustress",
+            "distress",
+            "trauma",
+            "hassle"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "Any event with potential to induce stress is a —",
+          "options": [
+            "stressor",
+            "schema",
+            "reinforcer",
+            "trait"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "Marriage and retirement are examples of —",
+          "options": [
+            "major life events",
+            "daily hassles",
+            "traumas",
+            "role strain"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "Traffic jams and waiting in lines are —",
+          "options": [
+            "daily hassles",
+            "traumas",
+            "major life events",
+            "role strain"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "A bomb blast is an example of —",
+          "options": [
+            "trauma",
+            "daily hassle",
+            "chronic role strain",
+            "life event"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "Choosing between two desirable goals is —",
+          "options": [
+            "approach–approach conflict",
+            "avoidance–avoidance conflict",
+            "approach–avoidance conflict",
+            "frustration"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "Choosing between unemployment and a low-paid disagreeable job is —",
+          "options": [
+            "avoidance–avoidance conflict",
+            "approach–approach conflict",
+            "approach–avoidance conflict",
+            "no conflict"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "Wanting to marry but fearing loss of freedom is —",
+          "options": [
+            "approach–avoidance conflict",
+            "approach–approach conflict",
+            "avoidance–avoidance conflict",
+            "task-oriented coping"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "Extreme irrational fear is called —",
+          "options": [
+            "phobia",
+            "mania",
+            "delusion",
+            "amnesia"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "Repetitive thoughts and actions characterise —",
+          "options": [
+            "obsessive-compulsive disorder",
+            "phobia",
+            "depression",
+            "fugue"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "Alternating depression and mania is —",
+          "options": [
+            "bipolar disorder",
+            "schizophrenia",
+            "ADHD",
+            "autism"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.13",
+          "type": "mcq",
+          "q": "Physical symptoms with psychological causes are —",
+          "options": [
+            "psychosomatic disorders",
+            "somatoform disorders",
+            "dissociative disorders",
+            "mania"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.14",
+          "type": "mcq",
+          "q": "Memory loss plus assuming a new identity is —",
+          "options": [
+            "dissociative fugue",
+            "dissociative amnesia",
+            "depersonalization",
+            "mania"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.15",
+          "type": "mcq",
+          "q": "False beliefs about reality are —",
+          "options": [
+            "delusions",
+            "hallucinations",
+            "phobias",
+            "obsessions"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.16",
+          "type": "mcq",
+          "q": "False sensory perceptions are —",
+          "options": [
+            "hallucinations",
+            "delusions",
+            "compulsions",
+            "schemas"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.17",
+          "type": "mcq",
+          "q": "The person who can give medicines for mental disorders is —",
+          "options": [
+            "a psychiatrist",
+            "a clinical psychologist",
+            "a counsellor",
+            "a teacher"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.18",
+          "type": "mcq",
+          "q": "The first step in psychotherapy is —",
+          "options": [
+            "rapport formation",
+            "termination",
+            "case history",
+            "therapy session"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.19",
+          "type": "mcq",
+          "q": "Directly confronting the stressor is —",
+          "options": [
+            "attack",
+            "withdrawal",
+            "compromise",
+            "displacement"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.20",
+          "type": "mcq",
+          "q": "Scolding a younger brother because of anger at a strict teacher is —",
+          "options": [
+            "displacement",
+            "rationalisation",
+            "attack",
+            "compromise"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark.",
+      "marks": "9 × 2 = 18",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "Define stress according to Hans Selye.",
+          "answer": "A non-specific response of the body to any demand on it."
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Name the two categories of stress.",
+          "answer": "Eustress (good) and distress (bad)."
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "Name the four categories of stressors.",
+          "answer": "Major life events and changes, daily hassles, chronic role strain and traumas."
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Name the three types of conflict.",
+          "answer": "Approach–approach, avoidance–avoidance and approach–avoidance."
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "Define frustration.",
+          "answer": "An experiential state resulting from blocking of needs and motives by external forces or the absence of a desired goal."
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "Name any two anxiety disorders.",
+          "answer": "Phobia and obsessive-compulsive disorder."
+        },
+        {
+          "id": "2.7",
+          "type": "open",
+          "q": "Name the two mood disorders.",
+          "answer": "Depression and bipolar disorder."
+        },
+        {
+          "id": "2.8",
+          "type": "open",
+          "q": "Differentiate psychosomatic and somatoform disorders in one line.",
+          "answer": "Psychosomatic: physical symptoms with psychological causes; somatoform: physical symptoms with no identifiable biological cause."
+        },
+        {
+          "id": "2.9",
+          "type": "open",
+          "q": "Name any two dissociative disorders.",
+          "answer": "Dissociative amnesia, dissociative fugue, depersonalization disorder, multiple personality disorder (any two)."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Objective type questions: each has four parts of 1 mark.",
+      "marks": "4 × 4 = 16",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "Identify the stressor category: (i) divorce; (ii) misplacing items; (iii) living in poverty; (iv) death of a loved one.",
+          "answer": "(i) Major life event. (ii) Daily hassle. (iii) Chronic role strain. (iv) Trauma."
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "Name the conflict: (i) two desirable invitations on the same night; (ii) unemployment or a disagreeable job; (iii) wanting to marry but fearing responsibilities; (iv) which is called a mixed-blessing conflict?",
+          "answer": "(i) Approach–approach. (ii) Avoidance–avoidance. (iii) Approach–avoidance. (iv) Approach–avoidance."
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "Name the coping type: (i) planning revision for a tough test; (ii) leaving a rejecting friend and making a new one; (iii) accepting a substitute goal; (iv) blaming a tough paper for failure.",
+          "answer": "(i) Attack. (ii) Withdrawal. (iii) Compromise. (iv) Rationalisation (defence-oriented)."
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "Write the steps of psychotherapy in order (first four).",
+          "answer": "Rapport formation; preparation of case history; determination of the problem; therapeutic sessions (then termination)."
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "7 × 2 = 14",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "Differentiate eustress and distress with examples.",
+          "answer": "Eustress is moderate desirable stress such as playing a competitive sport; distress is excessive, undesirable stress."
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "What are daily hassles? Give two examples.",
+          "answer": "Irritating, frustrating demands of everyday life such as deadlines and traffic jams."
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "What is an approach–avoidance conflict?",
+          "answer": "A strong tendency both to approach and to avoid the same goal, e.g. wanting to marry yet fearing loss of freedom."
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "What is ADHD?",
+          "answer": "Attention-deficit hyperactive disorder: a childhood disorder with difficulty paying attention and extreme over-activity."
+        },
+        {
+          "id": "4.5",
+          "type": "open",
+          "q": "What is depression?",
+          "answer": "A mental state of sadness, loss of interest, sleep and appetite disturbance, guilt and hopelessness lasting at least two weeks."
+        },
+        {
+          "id": "4.6",
+          "type": "open",
+          "q": "What is multiple personality disorder?",
+          "answer": "A serious dissociative disorder in which several distinct personalities emerge in the same person at different times."
+        },
+        {
+          "id": "4.7",
+          "type": "open",
+          "q": "Who is a psychiatrist?",
+          "answer": "A medical doctor specialised in mental disorders who can prescribe medicines."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "6 × 3 = 18",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "Explain the recent approach to stress.",
+          "answer": "It focuses on appraisal of a situation in relation to the person's coping resources; appraisal and coping determine adaptation, the management of the environment to maintain well-being."
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "Describe the types of stressors.",
+          "answer": "Major life events (marriage, retirement), daily hassles (deadlines), chronic role strain (difficult marriage, poverty) and traumas (bomb blast, death of a loved one)."
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "Explain the types of conflict with examples.",
+          "answer": "Approach–approach between two desirable goals; avoidance–avoidance between two undesirable goals; approach–avoidance with attraction and fear of the same goal."
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "Describe schizophrenia.",
+          "answer": "A disorder of thought, emotion and behaviour: incoherent thinking, faulty perception, disturbed movement, flat or inappropriate emotions and withdrawal into delusions and hallucinations."
+        },
+        {
+          "id": "5.5",
+          "type": "open",
+          "q": "Explain the steps in psychotherapy.",
+          "answer": "Rapport formation, case history, determination of the problem, therapeutic sessions with progress monitoring and termination of intervention with follow-up advice."
+        },
+        {
+          "id": "5.6",
+          "type": "open",
+          "q": "Distinguish task-oriented and defence-oriented coping.",
+          "answer": "Task-oriented coping is rational and constructive (attack, withdrawal, compromise); defence-oriented coping makes one feel comfortable without solving the problem (rationalisation, displacement)."
+        }
+      ]
+    },
+    {
+      "no": 6,
+      "title": "Long answer questions. Answer in 80–120 words.",
+      "marks": "4 × 5 = 20",
+      "questions": [
+        {
+          "id": "6.1",
+          "type": "open",
+          "q": "Define stress and discuss the stressors and responses to them.",
+          "answer": "Stress is a non-specific response of the body to demands (Selye): eustress and distress. Stressors: major life events, daily hassles, chronic role strain and traumas. Responses: behavioural, emotional, cognitive, interpersonal, biological and imagery."
+        },
+        {
+          "id": "6.2",
+          "type": "open",
+          "q": "Explain how conflict and frustration lead to stress.",
+          "answer": "Obstacles to goals cause conflict (approach–approach, avoidance–avoidance, approach–avoidance) and frustration from blocked needs or absent goals, caused by physical and social hindrances and personal limits; their intensity makes them stressful."
+        },
+        {
+          "id": "6.3",
+          "type": "open",
+          "q": "Describe any five mental disorders and their symptoms.",
+          "answer": "Anxiety (phobia, OCD), mood (depression, bipolar), psychosomatic and somatoform, dissociative (amnesia, fugue, depersonalization, multiple personality), schizophrenia (delusions, hallucinations), childhood (ADHD, autism) and personality disorders in three clusters."
+        },
+        {
+          "id": "6.4",
+          "type": "open",
+          "q": "Discuss the psychotherapeutic process and the desirable ways of coping with stress.",
+          "answer": "Psychotherapy by a clinical psychologist follows rapport, case history, problem identification, sessions and termination; approaches include psychoanalysis, behaviour, cognitive-behaviour and client-centred therapy. Coping: attack, withdrawal and compromise, avoiding defence mechanisms, with a healthy life-style and positive thinking."
+        }
+      ]
+    }
+  ]
+}

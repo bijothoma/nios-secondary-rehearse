@@ -1,0 +1,83 @@
+{
+ "lesson": 4, "title": "Learning", "module": 2,
+ "summary": [
+  "## What is learning",
+  "Learning is a relatively durable change in behaviour due to experience. Temporary changes, changes due to instinct or maturation (crawling, standing, walking), illness or drugs are not learning. Learning is not directly observed; it is inferred from improved performance (errors decrease with practice). Learning helps us adapt to the environment and is lifelong.",
+  "## Classical conditioning (learning through association)",
+  "Discovered by the Russian scientist Ivan P. Pavlov, who worked with dogs. Food is the unconditioned stimulus (UCS) and salivation to food the unconditioned response (UCR). A tone or buzzer (neutral stimulus) is paired repeatedly with food; after pairing the buzzer alone, now the conditioned stimulus (CS), produces salivation, the conditioned response (CR). Acquisition is the phase of repeated pairing. If the CS is presented without the UCS, the CR gradually disappears: extinction. After a rest gap the CR may reappear for a few trials on presenting the CS: spontaneous recovery.",
+  "## Operant (instrumental) conditioning",
+  "Organisms learn to repeat behaviours that produce positive outcomes and avoid or escape negative ones. B.F. Skinner studied it in rats using the Skinner Box with a lever: a hungry rat presses the lever accidentally, gets a food pellet, and gradually learns to press it; the behaviour is instrumental in getting food, and is an operation on the environment. Reinforcement is any operation that increases the rate of response. Positive reinforcement is a reward (food) that strengthens the response. Negative reinforcement removes an aversive stimulus (e.g. electric shock) when the response occurs; it includes escape learning (the rat escapes the shock) and avoidance learning (the rat avoids the shock). 'Negative' refers to the aversive nature of the reinforcer, and it is still reinforcement as it increases the response.",
+  "## Schedules of reinforcement",
+  "In continuous reinforcement every correct response is reinforced; it is useful for establishing new behaviours. In partial (intermittent) reinforcement only some responses are reinforced; it is more powerful for maintaining acquired behaviour.",
+  "## Observational learning",
+  "Learning new skills by observing the behaviour of others (models), e.g. children learn aggression from violence on TV and learn social roles. It is more complex than imitation, since information may be learnt but not put to immediate use. Appropriate role models influence youngsters positively.",
+  "## Other types: verbal, concept and skill learning",
+  "Verbal learning is the learning of language (serial learning, paired-associate learning). Concept learning is developing categories of objects and events (boys, fruits; abstract concepts: love, freedom, democracy; concrete: cow, table); one response is made to all stimuli of a category and concepts reduce the complexity of the world. Skill learning is acquiring skills such as riding a bicycle, car driving, piloting; with over-learning a skill becomes automatic and one can do two tasks at once.",
+  "## Transfer of training",
+  "Using earlier learning in a new situation. Positive transfer: the first learning helps the second (multiplication used in the market). Negative transfer: the first learning interferes with the second. Zero transfer: neither helps nor interferes.",
+  "## Tips for better study habits",
+  "Study at a specific quiet place; use spaced sessions (spaced practice) rather than massed practice; use memory aids; test yourself; over-learn (study beyond bare mastery); avoid procrastination using a time schedule and specific goals."
+ ],
+ "mcq": [
+  ["Learning is defined as a relatively durable change in behaviour due to —", ["experience", "maturation", "instinct", "illness"], "A"],
+  ["Classical conditioning was discovered by —", ["Ivan Pavlov", "B.F. Skinner", "Bandura", "Binet"], "A"],
+  ["In Pavlov's experiment the buzzer was the —", ["conditioned stimulus", "unconditioned stimulus", "unconditioned response", "conditioned response"], "A"],
+  ["In Pavlov's experiment food was the —", ["unconditioned stimulus", "conditioned stimulus", "conditioned response", "neutral stimulus"], "A"],
+  ["Salivation to the sound of the buzzer alone is the —", ["conditioned response", "unconditioned response", "unconditioned stimulus", "reinforcement"], "A"],
+  ["The repeated pairing of CS and UCS is called —", ["acquisition", "extinction", "spontaneous recovery", "avoidance"], "A"],
+  ["Disappearance of CR when the CS is presented without the UCS is called —", ["extinction", "acquisition", "reinforcement", "modelling"], "A"],
+  ["Recovery of CR after a rest following extinction is called —", ["spontaneous recovery", "extinction", "acquisition", "transfer"], "A"],
+  ["The Skinner Box was used to study —", ["operant conditioning", "classical conditioning", "observational learning", "concept learning"], "A"],
+  ["Operant conditioning is also called —", ["instrumental learning", "verbal learning", "concept learning", "skill learning"], "A"],
+  ["Any operation that increases the rate of response is —", ["reinforcement", "extinction", "punishment", "transfer"], "A"],
+  ["Removal of an aversive stimulus when the response occurs is —", ["negative reinforcement", "positive reinforcement", "extinction", "modelling"], "A"],
+  ["In escape learning the organism —", ["escapes an aversive stimulus", "gets food", "imitates a model", "forgets the response"], "A"],
+  ["Which reinforcement is better for maintaining acquired behaviour?", ["Partial", "Continuous", "Negative only", "None"], "A"],
+  ["Continuous reinforcement is useful for —", ["establishing new behaviour", "extinction", "forgetting", "transfer"], "A"],
+  ["Learning by watching a model is —", ["observational learning", "verbal learning", "classical conditioning", "trial and error"], "A"],
+  ["Learning of language is —", ["verbal learning", "skill learning", "concept learning", "operant learning"], "A"],
+  ["'Democracy' is an example of —", ["an abstract concept", "a concrete concept", "a skill", "a reflex"], "A"],
+  ["When earlier learning helps new learning, transfer is —", ["positive", "negative", "zero", "none"], "A"],
+  ["Study in many short sessions is called —", ["spaced practice", "massed practice", "over-learning", "procrastination"], "A"]
+ ],
+ "objective": [
+  ["Fill in the blanks: (i) Learning is a ______ permanent change in ______. (ii) Pavlovian conditioning is also called ______ conditioning.", "(i) relatively; behaviour. (ii) classical."],
+  ["Name: (i) the scientist who advocated operant conditioning; (ii) the apparatus he used.", "(i) B.F. Skinner. (ii) The Skinner Box."],
+  ["State true or false: (i) Positive reinforcement reduces the rate of response. (ii) Reinforcement can be partial or continuous.", "(i) False – it increases it. (ii) True."],
+  ["State true or false: (i) Partial reinforcement does not help in maintaining behaviour. (ii) Observational learning depends on an appropriate model.", "(i) False. (ii) True."],
+  ["Define: (i) extinction; (ii) spontaneous recovery.", "(i) Disappearance of the CR when the CS is repeatedly presented without the UCS. (ii) Reappearance of the CR after a gap following extinction."],
+  ["Give one example each of (i) a concrete concept; (ii) an abstract concept.", "(i) Cow, table, rose (any). (ii) Love, freedom, democracy (any)."],
+  ["Name the three types of transfer of training.", "Positive, negative and zero transfer."],
+  ["Name the two basic types of learning.", "Classical conditioning and operant (instrumental) conditioning."],
+  ["Which type of learning is involved in: (i) riding a bicycle; (ii) learning a foreign language?", "(i) Skill learning. (ii) Verbal learning."]
+ ],
+ "objective4": [
+  ["Identify the stimulus or response in Pavlov's experiment: (i) food; (ii) salivation to food; (iii) buzzer after pairing; (iv) salivation to the buzzer.", "(i) UCS. (ii) UCR. (iii) CS. (iv) CR."],
+  ["Name: (i) the phase of repeated CS–UCS pairing; (ii) loss of CR without UCS; (iii) return of CR after a rest; (iv) the scientist who discovered classical conditioning.", "(i) Acquisition. (ii) Extinction. (iii) Spontaneous recovery. (iv) Ivan P. Pavlov."],
+  ["Classify as positive or negative reinforcement: (i) food pellet for a lever press; (ii) shock removed on lever press; (iii) praise for homework; (iv) avoiding an electric shock by pressing the lever.", "(i) Positive. (ii) Negative. (iii) Positive. (iv) Negative (avoidance learning)."],
+  ["Give the type of transfer: (i) multiplication helps in shopping; (ii) old driving habits interfere with a new vehicle; (iii) one learning neither helps nor interferes; (iv) define transfer of training.", "(i) Positive. (ii) Negative. (iii) Zero. (iv) Using earlier learning in a new situation."]
+ ],
+ "vsa": [
+  ["Define learning with an example.", "Learning is a relatively durable change in behaviour due to experience, e.g. a child making fewer errors in writing the alphabet with practice."],
+  ["Why are crawling and walking not examples of learning?", "They are changes due to maturation, not experience or practice."],
+  ["What is negative reinforcement?", "Increasing the rate of a response by removing an aversive stimulus (e.g. electric shock) when the response occurs."],
+  ["Differentiate between continuous and partial reinforcement.", "In continuous reinforcement every correct response is reinforced; in partial reinforcement only some responses are reinforced."],
+  ["What is observational learning? Give an example.", "Learning by observing the behaviour of models, e.g. children learning aggression from violence on TV."],
+  ["What is concept learning?", "Developing categories of objects and events so that one response is made to all stimuli in a category, e.g. 'fruit'."],
+  ["What is skill learning? Give two examples.", "Acquiring skills that become automatic with practice, e.g. riding a bicycle and driving a car."]
+ ],
+ "sa": [
+  ["Describe Pavlov's experiment on classical conditioning.", "A hungry dog was given food (UCS) producing salivation (UCR). A buzzer (CS) was paired repeatedly with food. After several pairings the buzzer alone produced salivation (CR), showing that learning by association had occurred."],
+  ["Explain extinction and spontaneous recovery.", "If the buzzer is presented again and again without food, salivation gradually stops (extinction). After a rest gap, presenting the buzzer alone again brings back salivation for a few trials (spontaneous recovery)."],
+  ["Describe Skinner's experiment on operant conditioning.", "A hungry rat in the Skinner Box moves randomly and accidentally presses a lever, receiving a food pellet. With repeated trials, activity centres around the lever and the rat learns that pressing it gives food; the response is reinforced and learned."],
+  ["Distinguish positive and negative reinforcement with examples.", "Positive reinforcement is a reward such as food that strengthens the response preceding it. Negative reinforcement removes an aversive stimulus such as shock when the response occurs, which also increases the response (escape and avoidance learning)."],
+  ["Explain transfer of training and its types.", "Transfer is using earlier learning in a new situation. It is positive when the first learning helps the second, negative when it interferes, and zero when it neither helps nor interferes."],
+  ["Give any three tips for better study habits.", "Study at a fixed quiet place; use spaced sessions rather than one long massed session; self-test and over-learn; avoid procrastination."]
+ ],
+ "la": [
+  ["Explain the process of classical conditioning with the help of Pavlov's experiment.", "Pavlov, a Russian scientist, studied dogs. Food (UCS) produces salivation (UCR). A buzzer (CS) causes only an orienting response before conditioning. During acquisition, buzzer and food are paired repeatedly; the dog then salivates (CR) to the buzzer alone. If the buzzer is given without food, extinction occurs; after a rest, spontaneous recovery of CR appears for a few trials."],
+  ["Explain operant conditioning and the role of reinforcement.", "Operant conditioning is a process in which organisms repeat behaviours that give positive outcomes or avoid negative ones. Skinner's rat in the Skinner Box learned to press a lever for food. Reinforcement increases the rate of response: positive reinforcement (reward), negative reinforcement (removal of aversive stimulus, escape and avoidance learning). Continuous reinforcement establishes behaviour and partial reinforcement maintains it."],
+  ["Describe observational learning, concept learning, skill learning and verbal learning.", "Observational learning is learning by watching models (aggression from TV, social roles). Concept learning forms categories (concrete and abstract). Skill learning is acquiring skills like cycling, driving that become automatic. Verbal learning is learning language through serial and paired-associate learning."],
+  ["What is learning? Discuss transfer of training and ways to improve study habits.", "Learning is a relatively durable change in behaviour due to experience. Transfer is the use of earlier learning in new situations (positive, negative, zero). For better learning: study at a specific place, use spaced sessions, memory aids, self-testing, over-learning and avoid procrastination."]
+ ]
+}
