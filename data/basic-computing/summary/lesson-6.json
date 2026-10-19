@@ -1,0 +1,186 @@
+{
+  "subject": "basic-computing",
+  "lesson": 6,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 6: Presentations — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "PowerPoint presentation"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "PowerPoint is a slide show program used for training, education and business presentations; it enhances presentations with pictures, sound effects, tables and charts. Start: Start, All Programs, Microsoft Office, Microsoft Office PowerPoint 2013. The start screen offers installed templates or a Blank presentation. Installed templates and installed themes give ready backgrounds and text formatting; a blank presentation is used to start from scratch."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Slide layouts: nine layouts – Title Slide, Title and Content, Section Header, Two Content, Comparison, Title Only, Blank, Content with Caption, Picture with Caption. Content elements: Table, Chart, SmartArt Graphic, Picture from file, Clip Art and Media Clip. To open an existing presentation use File, Open, select the folder and file and click Open."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Views"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Normal view (main window with the current slide, outline pane on the left, notes pane at the bottom), Slide Sorter view (small image of each slide; order and sort slides, add transitions) and Slide Show view (preview and deliver the presentation with sounds, animations, hyperlinks and actions working). Normal and Slide Sorter are for creating; Slide Show is for presenting. Choose them from the view buttons at the bottom right or the View tab."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Design tips"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Use contrasting colours for text and background; font size of 24 points or larger; short phrases; simple transitions; avoid clutter; do not mix many text effects; keep the text crisp and short."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Working with slides"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Changing the design template: Design tab, click a template. Changing the layout: Home, Layout, click a layout thumbnail. New Slide offers Duplicate Selected Slides, Slides from Outline and Reuse Slides. Duplicating a slide makes a copy after the current slide when similar slides are needed: right-click the slide and choose Duplicate Slide or press Ctrl+Shift+D. Reorder slides by dragging in Slide Sorter or the slide pane. Hide a slide that should not appear in the show but should not be deleted: right-click the slide in the slide pane and choose Hide (unhide the same way). Moving between slides: scroll bars, Next Slide/Previous Slide buttons or the outline pane."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Formatting"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "The Format tab appears when an object is selected. For text: Insert Shapes, Shape Styles (outline, fill, shadow, glow, bevel), WordArt Styles, Arrange and Size. For an image: Adjust (colour, contrast, brightness, compress, artistic effects) and Picture Styles (border styles, border colour and thickness, shadow, 3D rotation) in addition to Arrange and Size."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Review a presentation"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Commands are on the Review tab in four sections: Proofing (Spelling, Research, Thesaurus for synonyms and antonyms), Language, Compare (compare and combine another presentation) and Comments (New Comment, Delete, Previous, Next, Show Comments). To add a comment: select the object, click Review tab, click New Comment, type the suggestion in the Comments pane; the reviewer's name appears in the box."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Protect a presentation"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Save the file, click File tab, Info, Protect Presentation, Encrypt with Password, enter the password in the Encrypt Document dialog box and click OK, re-enter it in Confirm Password and click OK. To remove, repeat the steps and delete the password."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Audio, video, themes and hyperlinks"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Insert audio: Insert tab, Media section, arrow below Audio, choose Audio on My PC (or Record Audio), browse, select the file and click Insert; a sound icon with controls appears and can be dragged out of view. Insert video: Insert tab, arrow below Video, choose Online Videos or Video on My PC, browse, select and click Insert; resize with handles; it plays when you click it in the show. Themes are inbuilt coloured layouts with matching background, fonts and effects: Design tab, Themes section, choose a theme (applied to the whole presentation); modify with the Variants section: Colors, Fonts, Effects and Background Styles. Hyperlink: a text or image that opens another file, web page, image or mail address: select the object, Insert tab, Links section, Hyperlink, choose Existing File or Web Page (Current Folder, Browsed Pages, Recent Files or type the address) and click OK; to remove it right-click and choose Remove Hyperlink. Charts: Insert tab, Chart; change type with Change Chart Type on the Design tab."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Online presentation"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Google Slides: open Google's home page, click the grid, click Drive, log in with Gmail, click New, choose Google Slides, a blank presentation appears; add and format text, images and videos, save and share. It needs internet connectivity but is easy to share."
+        ]
+      ]
+    }
+  ]
+}

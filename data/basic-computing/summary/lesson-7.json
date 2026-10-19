@@ -1,0 +1,114 @@
+{
+  "subject": "basic-computing",
+  "lesson": 7,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 7: Digital Storage — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "What is digital storage?"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Storing data in a storage medium is data storage; when data is stored electronically in digital devices such as desktop, laptop and smartphone it is digital storage. A storage medium is any hardware that can store data permanently or temporarily. Digital storage is classified as temporary memory (primary storage) and permanent memory (secondary storage)."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Memory hierarchy"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Digital storage in terms of memory hierarchy: internal memory (processor registers and cache); main memory (system RAM and controller cards); on-line mass storage (secondary storage); off-line bulk storage (tertiary and offline storage). Tertiary storage gives large capacity at low cost, e.g. optical discs. Offline storage is not currently connected to the computer; online storage is currently connected. Moving down the hierarchy (register, cache, RAM, flash/USB, hard drives, magnetic tapes) capacity grows and cost per unit falls while access becomes slower."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Core characteristics used to differentiate storage technologies: volatility (is information kept when power is off?), mutability (read only, write, or overwrite), accessibility (random or sequential access), addressability (type of addressing), capacity, performance (largest chunk of data, access time, read/write rate), security (stores encrypted data?) and energy use."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Storage devices"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Earlier data was stored on punch cards; then magnetic storage (tapes, hard disk, floppy disk – the hard disk is the most extensively used); now optical storage (Blu-ray disc, CD, DVD) and USB flash drives. By default data is stored on the hard drive (secondary storage device, SSD). Networked computers may also use large magnetic tape storage, cloud storage or Network Attached Storage (NAS)."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "A hard disk is a set of numerous disks stacked one above the other with a cylindrical spindle in between; data is recorded electromagnetically in concentric circles called tracks; read/write heads mounted on an arm next to the disks move horizontally to read or write data."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Cloud storage"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Cloud storage is online storage that needs internet connectivity and gives very large (practically unlimited) storage on the web; files can be accessed anytime and anywhere by logging in, without carrying flash drives or CDs. Benefits: usability and accessibility (upload, download and organize in folders), recovery (backup against deletion or corruption), security (protected from hardware failure and login-controlled), cost saving (no hardware and software maintenance), easy sharing (with permissions like read only or read and write), data backup (automatic, scheduled) and collaboration (many users work on one document at the same time). Examples: Google Drive, Dropbox, OneDrive. Indirect use: e-mail, YouTube and WhatsApp."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Steps to use Google Drive: go to drive.google.com (My Drive has the files you upload or sync and the Docs, Sheets, Slides and Forms you create); upload files from the computer or create files by right-clicking a white space; share files or folders by right-clicking and choosing Share, setting the permission (view, edit or comment); files shared by others are in the Shared with me section."
+        ]
+      ]
+    }
+  ]
+}

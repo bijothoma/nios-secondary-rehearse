@@ -1,0 +1,229 @@
+{
+  "subject": "basic-computing",
+  "lesson": 2,
+  "title": "Operating System",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Answer in one line.",
+      "marks": "11 × 1 = 11",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "open",
+          "q": "Start button, Task Bar, Computer icon and Network icon are most used ______ elements.",
+          "answer": "Desktop.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "1.2",
+          "type": "open",
+          "q": "Windows provides a quick and easy way to ______ new software and hardware programs.",
+          "answer": "Install.",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "1.3",
+          "type": "open",
+          "q": "Name the feature of Windows which helps in file management.",
+          "answer": "Windows Explorer (or Computer).",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "1.4",
+          "type": "open",
+          "q": "By using ______ tools you can customize the way Windows looks and works.",
+          "answer": "Control Panel.",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "1.5",
+          "type": "open",
+          "q": "Where do deleted files from the hard disk go first?",
+          "answer": "Into the Recycle Bin."
+        },
+        {
+          "id": "1.6",
+          "type": "open",
+          "q": "What is the shortcut key to copy a selected file?",
+          "answer": "Ctrl + C."
+        },
+        {
+          "id": "1.7",
+          "type": "open",
+          "q": "Where does the task bar appear by default on the screen?",
+          "answer": "At the bottom of the screen."
+        },
+        {
+          "id": "1.8",
+          "type": "open",
+          "q": "Which key is pressed with the mouse to select non-consecutive files?",
+          "answer": "The Ctrl key."
+        },
+        {
+          "id": "1.9",
+          "type": "open",
+          "q": "Which key must be held to delete a file permanently?",
+          "answer": "The Shift key (Shift + Delete)."
+        },
+        {
+          "id": "1.10",
+          "type": "open",
+          "q": "What does the Computer icon show?",
+          "answer": "The disk drives (hard disk, CD/DVD, pen drive) and hardware connected to the computer."
+        },
+        {
+          "id": "1.11",
+          "type": "open",
+          "q": "Name the menu option that shows all installed programs.",
+          "answer": "All Programs in the Start menu."
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Short answer questions. Answer in 30–50 words.",
+      "marks": "12 × 2 = 24",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "Ravi has created a file ABC and later wants to change its name to PROJECT_ABC. Write the steps.",
+          "answer": "Step 1: Open Windows Explorer/Documents and click the file ABC. Step 2: Under File choose Rename (or right-click, Rename). Step 3: Type PROJECT_ABC and press Enter.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Amit has saved a file with the name C1 but later wants it renamed as chart 1. Write the steps.",
+          "answer": "Step 1: Select the file C1. Step 2: Right-click and choose Rename (or File, Rename). Step 3: Type chart 1 and press Enter.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "Reeta wants to copy a file ABC to a folder XYZ. Write the steps.",
+          "answer": "Step 1: Select the file ABC. Step 2: Click Edit, Copy (Ctrl+C). Step 3: Open the folder XYZ. Step 4: Click Edit, Paste (Ctrl+V).",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Shyam has created a file QRT1 in a folder SALES. Later he wants to view its details. Write the steps.",
+          "answer": "Step 1: Open the folder SALES through Start, Documents. Step 2: Click the View menu. Step 3: Click Details; name, type, size and date of QRT1 are displayed.",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "Define the following: (i) Task Bar (ii) File management in Windows.",
+          "answer": "(i) Task bar: the bar at the bottom of the screen showing the Start button and an icon for every open program or window. (ii) File management: creating, copying, moving, renaming, deleting and searching files and folders using Windows Explorer or Computer.",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "Write the steps to create a new folder.",
+          "answer": "Step 1: Open Windows Explorer. Step 2: Click File, New, Folder. Step 3: Type the folder name over 'New Folder' and press Enter. (Or right-click on blank space, New, Folder.)"
+        },
+        {
+          "id": "2.7",
+          "type": "open",
+          "q": "Write the steps to delete a file and to restore it.",
+          "answer": "Delete: select the file, File, Delete (or right-click, Delete). Restore: double-click the Recycle Bin, right-click the file and choose Restore."
+        },
+        {
+          "id": "2.8",
+          "type": "open",
+          "q": "Write the steps to uninstall a software.",
+          "answer": "Step 1: Click Start, Control Panel. Step 2: Choose Programs and Features. Step 3: Select the software. Step 4: Right-click and choose Uninstall."
+        },
+        {
+          "id": "2.9",
+          "type": "open",
+          "q": "Write the steps to search for a file or folder.",
+          "answer": "Click Start, type the full or part name of the file or folder in the search box, and the results are listed."
+        },
+        {
+          "id": "2.10",
+          "type": "open",
+          "q": "Write the steps to start a program such as Calculator.",
+          "answer": "Click Start, All Programs, Accessories, then click Calculator."
+        },
+        {
+          "id": "2.11",
+          "type": "open",
+          "q": "How can one get help in Windows?",
+          "answer": "Click Start and choose Help and Support, then type the keywords on which help is needed."
+        },
+        {
+          "id": "2.12",
+          "type": "open",
+          "q": "Differentiate between copying and moving a file.",
+          "answer": "Copying makes a duplicate and leaves the original in place; moving removes the file from the old place and puts it in the new location (drag with Shift or use Cut and Paste)."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Answer the questions. Answer in 50–80 words.",
+      "marks": "5 × 3 = 15",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "Explain the options in the Start menu.",
+          "answer": "All Programs lists installed programs; Documents, Pictures and Music open those folders; Computer shows drives; Control Panel changes settings; Devices and Printers lists hardware; Help and Support gives help; the search box finds files; Switch User, Log Off, Lock, Restart and Sleep manage the session."
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "Describe how to copy and move a file using Windows Explorer.",
+          "answer": "Open Windows Explorer, select the file. To copy: Edit, Copy, open the target, Edit, Paste. To move: drag it to the destination (Shift while dragging between disks) or use Cut and Paste. Ctrl selects non-consecutive and Shift consecutive files."
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "Explain how to install and uninstall a software.",
+          "answer": "Install: locate the setup (.exe) on CD/DVD/USB or after download, double-click it and follow the wizard; use it from All Programs. Uninstall: Start, Control Panel, Programs and Features, select the software, right-click, Uninstall."
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "Describe file management in Windows and the role of the Recycle Bin.",
+          "answer": "Windows Explorer and Computer show the hierarchy of drives, folders and files and let you copy, move, rename, delete and search. Deleted hard-disk files go to the Recycle Bin and can be restored until it is emptied; removable-media files are deleted permanently."
+        },
+        {
+          "id": "3.5",
+          "type": "open",
+          "q": "Explain the desktop elements of Windows.",
+          "answer": "Start button opens programs, search and shut down; the task bar shows open programs; the Computer icon shows drives and hardware; the Network icon shows connections; the Recycle Bin holds deleted files."
+        }
+      ]
+    }
+  ]
+}

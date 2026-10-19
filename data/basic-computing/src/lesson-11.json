@@ -1,0 +1,53 @@
+{
+ "lesson": 11, "title": "Introduction to E-services", "module": 4,
+ "summary": [
+  "## E-service",
+  "Any service that can be availed electronically (telephone, call centre, mobile phone, television, internet) is an E-service. An E-service has a service provider, a service receiver and the channels of service delivery, mostly the internet. In government E-services the provider is a government or public agency and the receivers are citizens.",
+  "## Government initiated E-services",
+  "National Portal of India (https://www.india.gov.in): single-window access to all E-services of the Indian government, with a 'Know India' section (places to visit, approved tour operators, information on power and energy, foreign affairs) and sections for people abroad, business persons, government employees and senior citizens. Passport Seva: the Ministry of External Affairs provides online passport services such as applying, renewal and appointments, for simple, efficient and transparent delivery (portal2.passportindia.gov.in). DigiLocker (https://digilocker.gov.in): lets us upload scanned copies of documents (certificates, driving licence, voter id) to access anytime and anywhere; self-uploaded documents can be signed with the eSign facility (similar to self-attestation); documents can be shared online with organizations; documents issued by registered issuers are easy to validate; linked to the Aadhaar (UIDAI) id; CBSE sends digital documents of board students to DigiLocker.",
+  "Educational initiatives: SWAYAM (Study Web Access for Young Aspiring Minds, https://swayam.gov.in) is a programme to ensure equity and quality in education; it hosts courses for School, Certificate, Diploma, Undergraduate and Postgraduate learning paths, giving course content, audio and video files and quizzes anytime and anywhere. NROER (National Repository of Open Educational Resources, https://nroer.gov.in) is a collaborative platform for school and teacher education, with open resources under a Creative Commons licence. National Digital Library of India, NDLI (https://ndl.iitkgp.ac.in) integrates national and international digital libraries in one portal, from primary to post-graduate levels, in more than 70 languages. UMANG (Unified Mobile Application for New-age Governance) app gives single-window access to Central, State and local government and other citizen services through one mobile application, driving mobile governance.",
+  "Other services: Online Registration System, ORS (https://ors.gov.in) links hospitals across the country, lets patients book appointments without visiting the hospital using Aadhaar-based registration (mobile number registered with UIDAI); otherwise the patient's name is used and a Unique Health Identification (UHID) number is issued; AIIMS uses it. IRCTC (Indian Railways Catering and Tourism Corporation, https://www.irctc.co.in) provides booking and cancellation of rail tickets, a 24/7 contact centre, seat availability, train timings, train tracking and e-catering, and air tickets through air.irctc.co.in. NEFT (National Electronic Funds Transfer) is the system started and maintained by the Reserve Bank of India for electronic transfer of money, similar to internet banking; any amount from anywhere to anywhere, requiring the beneficiary's account number, name and the IFSC (Indian Financial System Code, a unique address of a bank branch). UPI (Unified Payment Interface) is a unique identifier the bank uses to transfer money and make payments using IMPS (Immediate Payments Service), which is faster than NEFT and works 24 x 7.",
+  "## Benefits of E-services",
+  "Greater reach (even remote villages); access to diverse users irrespective of age and qualification; enhances transparency (users connect directly with organizations); convenient access at a click or touch; timely delivery; saves cost (infrastructure, employees, transport, paperwork); easy expansion (features and services can be added easily).",
+  "## Institution initiatives",
+  "Educational institutions offer E-services such as filling application forms, viewing admit cards, downloading study material and viewing results; NIOS offers e-services through its website (https://nios.ac.in/eservices.aspx)."
+ ],
+ "q1": [
+  ["What is the importance of SWAYAM portal?", "It ensures equity and quality in education by giving courses (school to post-graduate) with content, video and quizzes anytime and anywhere.", ["April 2026"]],
+  ["Radhika is appearing for 10th Board exam under CBSE. Under which E-service will she get her digitally signed documents? Write the URL.", "DigiLocker; https://digilocker.gov.in", ["April 2026"]],
+  ["What is Passport Seva?", "An online service of the Ministry of External Affairs for applying for and renewing passports and booking appointments.", ["April 2025"]],
+  ["Which RBI service allows transfer of any amount from anywhere to anywhere? Name it and describe briefly.", "NEFT (National Electronic Funds Transfer): an electronic funds transfer system that needs the beneficiary's account number, name and IFSC code.", ["April 2025"]],
+  ["What is UPI?", "Unified Payment Interface, a unique identifier used by banks to transfer money and make payments using IMPS.", ["October 2025"]],
+  ["Briefly describe the National Portal of India.", "A single-window portal (india.gov.in) giving access to all E-services of the Indian government.", ["April 2024"]],
+  ["What is the aim and use of the E-service whose URL is www.irctc.co.in?", "IRCTC is used for booking and cancelling railway tickets, checking seat availability, train timings, tracking and e-catering.", ["April 2024"]],
+  ["Describe UMANG App.", "A mobile app of the Government of India that gives single-window access to Central, State and local government services.", ["October 2024"]],
+  ["What are the benefits of E-services?", "Greater reach, transparency, convenience, timely delivery and cost saving.", ["October 2024"]],
+  ["What does ORS stand for?", "Online Registration System."],
+  ["What does IFSC stand for?", "Indian Financial System Code."],
+  ["Expand NDLI.", "National Digital Library of India."],
+  ["Expand NROER.", "National Repository of Open Educational Resources."],
+  ["What is an E-service?", "Any service that can be availed electronically, usually through the internet."]
+ ],
+ "q2": [
+  ["What is DigiLocker? Write any two benefits.", "DigiLocker lets us store scanned documents online and access them anytime and anywhere. Benefits: documents can be shared online; they are issued directly by registered issuers so authenticity is easy to validate; eSign works like self-attestation."],
+  ["What are the components of an E-service?", "The service provider, the service receiver and the channels of service delivery, mostly the internet."],
+  ["How does an E-service help the service provider?", "It saves cost of infrastructure, staff, transport and paperwork, allows speedy delivery and easy expansion of services."],
+  ["How can E-services benefit the end user?", "The user gets services at a click from anywhere, saves time and travel, enjoys transparency and timely delivery."],
+  ["List the government initiated E-services in the field of education.", "SWAYAM, NROER, National Digital Library of India (NDLI) and DigiLocker for certificates."],
+  ["What is NEFT and what details are needed to use it?", "A system by the Reserve Bank of India to transfer money electronically; the beneficiary's account number, name and the IFSC code of the branch are needed."],
+  ["What is the difference between NEFT and UPI/IMPS?", "NEFT is a bank-to-bank electronic transfer with the IFSC; UPI uses a unique id with IMPS, which is faster than NEFT and works 24 x 7."],
+  ["What is the Online Registration System (ORS)?", "A framework linking hospitals so that patients can book appointments online using an Aadhaar-based registration; AIIMS uses it."],
+  ["Write any four services provided by IRCTC.", "Booking and cancelling rail tickets, seat availability, train timings and tracking, e-catering, air ticket booking."],
+  ["What is NDLI?", "The National Digital Library of India, a portal that integrates digital libraries, with material from primary to post-graduate level in over 70 languages."],
+  ["Explain the 'Know India' section of the National Portal of India.", "It has authentic information about the country such as places to visit, tour operators, power and energy and foreign affairs."],
+  ["What are the e-services provided by educational institutions?", "Filling application forms, viewing admit cards, downloading study material and viewing results."]
+ ],
+ "q3": [
+  ["Explain any three government initiated E-services.", "National Portal gives single-window access to government services; Passport Seva provides online passport application and renewal; DigiLocker stores digital documents; UMANG app provides government services on a phone."],
+  ["Explain the benefits of E-services.", "Greater reach to remote areas, access for diverse users, transparency, convenient access, timely delivery, cost saving and easy expansion."],
+  ["Explain SWAYAM, NROER and NDLI.", "SWAYAM offers courses with content and quizzes for all levels; NROER is a repository of open educational resources under Creative Commons; NDLI integrates digital libraries with study material in more than 70 languages."],
+  ["Explain NEFT, IMPS and UPI.", "NEFT is the RBI's electronic fund transfer needing account details and IFSC; IMPS transfers money immediately round the clock; UPI is a unique identifier used with IMPS for payments."],
+  ["Explain the Online Registration System and the Online Ticketing System.", "ORS lets patients book hospital appointments online using Aadhaar and gives a UHID; IRCTC allows booking and cancelling of train and air tickets, 24/7 support, train tracking and e-catering."],
+  ["Explain DigiLocker and the benefit of its eSign facility.", "DigiLocker keeps scanned copies of important documents accessible anytime; eSign lets us digitally sign self-uploaded documents like self-attestation; issuers' documents are authentic and shareable."]
+ ]
+}

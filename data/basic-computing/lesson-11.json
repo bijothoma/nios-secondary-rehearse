@@ -1,0 +1,253 @@
+{
+  "subject": "basic-computing",
+  "lesson": 11,
+  "title": "Introduction to E-services",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Answer in one line.",
+      "marks": "14 × 1 = 14",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "open",
+          "q": "What is the importance of SWAYAM portal?",
+          "answer": "It ensures equity and quality in education by giving courses (school to post-graduate) with content, video and quizzes anytime and anywhere.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "1.2",
+          "type": "open",
+          "q": "Radhika is appearing for 10th Board exam under CBSE. Under which E-service will she get her digitally signed documents? Write the URL.",
+          "answer": "DigiLocker; https://digilocker.gov.in",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "1.3",
+          "type": "open",
+          "q": "What is Passport Seva?",
+          "answer": "An online service of the Ministry of External Affairs for applying for and renewing passports and booking appointments.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "1.4",
+          "type": "open",
+          "q": "Which RBI service allows transfer of any amount from anywhere to anywhere? Name it and describe briefly.",
+          "answer": "NEFT (National Electronic Funds Transfer): an electronic funds transfer system that needs the beneficiary's account number, name and IFSC code.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "1.5",
+          "type": "open",
+          "q": "What is UPI?",
+          "answer": "Unified Payment Interface, a unique identifier used by banks to transfer money and make payments using IMPS.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "1.6",
+          "type": "open",
+          "q": "Briefly describe the National Portal of India.",
+          "answer": "A single-window portal (india.gov.in) giving access to all E-services of the Indian government.",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "1.7",
+          "type": "open",
+          "q": "What is the aim and use of the E-service whose URL is www.irctc.co.in?",
+          "answer": "IRCTC is used for booking and cancelling railway tickets, checking seat availability, train timings, tracking and e-catering.",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "1.8",
+          "type": "open",
+          "q": "Describe UMANG App.",
+          "answer": "A mobile app of the Government of India that gives single-window access to Central, State and local government services.",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "1.9",
+          "type": "open",
+          "q": "What are the benefits of E-services?",
+          "answer": "Greater reach, transparency, convenience, timely delivery and cost saving.",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "1.10",
+          "type": "open",
+          "q": "What does ORS stand for?",
+          "answer": "Online Registration System."
+        },
+        {
+          "id": "1.11",
+          "type": "open",
+          "q": "What does IFSC stand for?",
+          "answer": "Indian Financial System Code."
+        },
+        {
+          "id": "1.12",
+          "type": "open",
+          "q": "Expand NDLI.",
+          "answer": "National Digital Library of India."
+        },
+        {
+          "id": "1.13",
+          "type": "open",
+          "q": "Expand NROER.",
+          "answer": "National Repository of Open Educational Resources."
+        },
+        {
+          "id": "1.14",
+          "type": "open",
+          "q": "What is an E-service?",
+          "answer": "Any service that can be availed electronically, usually through the internet."
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Short answer questions. Answer in 30–50 words.",
+      "marks": "12 × 2 = 24",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "What is DigiLocker? Write any two benefits.",
+          "answer": "DigiLocker lets us store scanned documents online and access them anytime and anywhere. Benefits: documents can be shared online; they are issued directly by registered issuers so authenticity is easy to validate; eSign works like self-attestation."
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "What are the components of an E-service?",
+          "answer": "The service provider, the service receiver and the channels of service delivery, mostly the internet."
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "How does an E-service help the service provider?",
+          "answer": "It saves cost of infrastructure, staff, transport and paperwork, allows speedy delivery and easy expansion of services."
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "How can E-services benefit the end user?",
+          "answer": "The user gets services at a click from anywhere, saves time and travel, enjoys transparency and timely delivery."
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "List the government initiated E-services in the field of education.",
+          "answer": "SWAYAM, NROER, National Digital Library of India (NDLI) and DigiLocker for certificates."
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "What is NEFT and what details are needed to use it?",
+          "answer": "A system by the Reserve Bank of India to transfer money electronically; the beneficiary's account number, name and the IFSC code of the branch are needed."
+        },
+        {
+          "id": "2.7",
+          "type": "open",
+          "q": "What is the difference between NEFT and UPI/IMPS?",
+          "answer": "NEFT is a bank-to-bank electronic transfer with the IFSC; UPI uses a unique id with IMPS, which is faster than NEFT and works 24 x 7."
+        },
+        {
+          "id": "2.8",
+          "type": "open",
+          "q": "What is the Online Registration System (ORS)?",
+          "answer": "A framework linking hospitals so that patients can book appointments online using an Aadhaar-based registration; AIIMS uses it."
+        },
+        {
+          "id": "2.9",
+          "type": "open",
+          "q": "Write any four services provided by IRCTC.",
+          "answer": "Booking and cancelling rail tickets, seat availability, train timings and tracking, e-catering, air ticket booking."
+        },
+        {
+          "id": "2.10",
+          "type": "open",
+          "q": "What is NDLI?",
+          "answer": "The National Digital Library of India, a portal that integrates digital libraries, with material from primary to post-graduate level in over 70 languages."
+        },
+        {
+          "id": "2.11",
+          "type": "open",
+          "q": "Explain the 'Know India' section of the National Portal of India.",
+          "answer": "It has authentic information about the country such as places to visit, tour operators, power and energy and foreign affairs."
+        },
+        {
+          "id": "2.12",
+          "type": "open",
+          "q": "What are the e-services provided by educational institutions?",
+          "answer": "Filling application forms, viewing admit cards, downloading study material and viewing results."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Answer the questions. Answer in 50–80 words.",
+      "marks": "6 × 3 = 18",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "Explain any three government initiated E-services.",
+          "answer": "National Portal gives single-window access to government services; Passport Seva provides online passport application and renewal; DigiLocker stores digital documents; UMANG app provides government services on a phone."
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "Explain the benefits of E-services.",
+          "answer": "Greater reach to remote areas, access for diverse users, transparency, convenient access, timely delivery, cost saving and easy expansion."
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "Explain SWAYAM, NROER and NDLI.",
+          "answer": "SWAYAM offers courses with content and quizzes for all levels; NROER is a repository of open educational resources under Creative Commons; NDLI integrates digital libraries with study material in more than 70 languages."
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "Explain NEFT, IMPS and UPI.",
+          "answer": "NEFT is the RBI's electronic fund transfer needing account details and IFSC; IMPS transfers money immediately round the clock; UPI is a unique identifier used with IMPS for payments."
+        },
+        {
+          "id": "3.5",
+          "type": "open",
+          "q": "Explain the Online Registration System and the Online Ticketing System.",
+          "answer": "ORS lets patients book hospital appointments online using Aadhaar and gives a UHID; IRCTC allows booking and cancelling of train and air tickets, 24/7 support, train tracking and e-catering."
+        },
+        {
+          "id": "3.6",
+          "type": "open",
+          "q": "Explain DigiLocker and the benefit of its eSign facility.",
+          "answer": "DigiLocker keeps scanned copies of important documents accessible anytime; eSign lets us digitally sign self-uploaded documents like self-attestation; issuers' documents are authentic and shareable."
+        }
+      ]
+    }
+  ]
+}

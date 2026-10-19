@@ -1,0 +1,56 @@
+{
+ "lesson": 5, "title": "Spreadsheet", "module": 2,
+ "summary": [
+  "## What is a spreadsheet?",
+  "A spreadsheet (workbook) is a document of rows and columns holding data in a tabular manner, a collection of one or more worksheets. Rows are labelled 1, 2, 3 and columns A, B, C; the intersection is a cell, whose address is the column letter and row number (A1, B5). Calculations are done with formulas and functions. Spreadsheet programs: Microsoft Excel, Google Sheets, OpenOffice Calc, LibreOffice Calc, iWork Numbers and Lotus Symphony (OpenOffice Calc and LibreOffice Calc are open source).",
+  "Features of Excel: Autosum (sum of a range of cells), Autofill (quickly fill a series such as dates or week days), Sorting (increasing or decreasing order), Filtering (show data matching criteria), Charts (pie, bar graphs), Formula (functions such as mathematical and trigonometric) and Pivot Table (reorganizes and summarizes data into a report without changing the original sheet).",
+  "## Working with a spreadsheet",
+  "Create: click Start, select Microsoft Office Excel, choose Blank Workbook (Book1 opens with one worksheet; more can be added). Elements: Ribbon (tabs File, Home, Insert, Page Layout, Formulas, Data, Review, View), columns, rows, cell, active cell (currently selected), Name box/bar (address of the active cell), Formula bar (enter formulas and shows the content of the active cell) and sheet tab (lists worksheets; the active one is highlighted).",
+  "Save: File tab, Save or Save As, choose the location, enter the name, click Save or press Enter; the extension is .xls or .xlsx. Close: File, Close (a pop-up asks whether to save an unsaved workbook) or click the X. Open: Start, MS Office, MS Excel; File, Open; browse; select the workbook and click Open (or double-click). Shortcut keys: Ctrl+N open a new spreadsheet, Ctrl+S save, Ctrl+O open a saved workbook.",
+  "## Editing",
+  "Insert a new worksheet: right-click the Sheet tab, choose Insert, select Worksheet and click OK (or click the plus icon beside the sheet tabs). Rename a worksheet: right-click the sheet name, choose Rename, type the new name (or double-click the name and type). Insert a row or column: right-click the row or column before which the new one is wanted, choose Insert, select Entire Row or Entire Column (the new column goes to the left of the active cell and the new row above it). Header/footer: Insert tab, Header and Footer, type the header, click Go to Footer under the Design tab, type the footer. Move or copy: select the cells, right-click, Cut (Ctrl+X) or Copy (Ctrl+C), select the target cell, Paste (Ctrl+V).",
+  "## Formatting",
+  "Formatting commands are on the Home tab in the Font, Alignment and Number groups. Font group: Bold, Italic, Underline (select and click B, I, U), Borders (select cells, click Borders), text colour (A icon) and cell background colour (Fill colour, paint bucket), font style and size. Alignment group: left, right, center; Wrap Text to show long text in a small cell; Merge and Center to combine cells. Number group: Comma Style (12,345.89), currency symbol, Percent Style, date formats (select cells, Format in the Cells group, Format Cells, Number tab, Category Date, choose a format) and increase/decrease decimals.",
+  "Resize a row or column: select it, right-click, Column Width/Row Height and enter the value, or drag the boundary between headings. Freeze Panes: View menu, Freeze Panes, choose Freeze Panes, Freeze Top Row or Freeze First Column; to freeze several rows and columns select the cell below and to the right of what is to be frozen first; Unfreeze Panes unlocks all rows and columns for scrolling.",
+  "## Online spreadsheet",
+  "An online spreadsheet is edited through a web application and can be shared and edited by many people. Create a Google spreadsheet: log in to the Gmail account, click the 9 dots at the top right, select Sheets, click Blank, enter the content, save with a name. Share: click the Share icon at the top right, enter names or e-mail addresses in the Share with others box and click Done."
+ ],
+ "q1": [
+  ["Name any two open source spreadsheet programs.", "OpenOffice Calc and LibreOffice Calc."],
+  ["Which feature of a spreadsheet quickly fills a series of numbers or dates?", "Autofill."],
+  ["What is the intersection of a row and a column called?", "A cell."],
+  ["What is the shortcut key to open a new spreadsheet?", "Ctrl + N."],
+  ["What is the shortcut key to save a spreadsheet?", "Ctrl + S."],
+  ["What is the shortcut key to open a saved workbook?", "Ctrl + O."],
+  ["What is the extension of an Excel 2013 workbook?", ".xlsx (.xls in older versions)."],
+  ["In which bar is the address of the active cell displayed?", "The Name bar (Name box)."],
+  ["What is the cell address in column B and row 5?", "B5."],
+  ["Which feature summarizes data into a report without changing the original sheet?", "Pivot Table."],
+  ["Which option combines two or more cells into one?", "Merge and Center."],
+  ["Which option is used to display long text in a small cell?", "Wrap Text."],
+  ["What is the shortcut key for pasting in a spreadsheet?", "Ctrl + V."]
+ ],
+ "q2": [
+  ["Define online spreadsheet. Write the steps to create one.", "An online spreadsheet is a spreadsheet edited through a web application that many people can edit and share. Steps: log in to the Gmail account, click the 9 dots, select Sheets, click Blank, enter the data and save with a name.", ["October 2024"]],
+  ["What are the short-cut keys for: (i) opening a new spreadsheet (ii) saving a worksheet (iii) opening a saved worksheet (iv) cutting a paragraph (v) copying a range of cells (vi) pasting?", "(i) Ctrl+N (ii) Ctrl+S (iii) Ctrl+O (iv) Ctrl+X (v) Ctrl+C (vi) Ctrl+V.", ["April 2024"]],
+  ["What is the difference between moving and copying cells?", "Copying duplicates the cell contents so they remain at the old place too; moving (Cut and Paste) removes the contents from the old place and puts them in the new place."],
+  ["How do you resize a row or column in a spreadsheet?", "Select the row or column, right-click, choose Row Height or Column Width and enter a value; or drag the boundary between headings."],
+  ["Name any four features of MS Excel.", "Autosum, Autofill, Sorting, Filtering, Charts, Formula and Pivot Table (any four)."],
+  ["Explain the steps to rename a worksheet.", "Right-click on the sheet tab name, choose Rename and type the new name; or double-click the sheet name and type.", ["April 2025"]],
+  ["Write the steps to freeze panes in a workbook.", "Open the worksheet, click the View tab, click Freeze Panes and choose Freeze Panes, Freeze Top Row or Freeze First Column (select the cell below and right of the area to be frozen first).", ["April 2025"]],
+  ["Write the steps to open an existing workbook.", "Start, MS Office, MS Excel; File, Open; browse to the location; select the workbook and click Open (or double-click).", ["April 2025"]],
+  ["Write the steps to insert a new worksheet.", "Right-click the Sheet tab, choose Insert, select Worksheet and click OK; or click the plus icon next to the sheet tabs.", ["April 2026"]],
+  ["Write the steps to insert a new row or column.", "Right-click the row or column before which the new one is needed, choose Insert, select Entire Row or Entire Column and click OK.", ["April 2026"]],
+  ["What is Pivot Table?", "A tool that reorganizes and summarizes selected rows and columns of data into a report without changing the original spreadsheet."],
+  ["Differentiate between a workbook and a worksheet.", "A workbook is the file that holds one or more worksheets; a worksheet is a single sheet of rows and columns."]
+ ],
+ "q3": [
+  ["Write the steps for the following on a given workbook: (a) inserting a new worksheet (b) renaming the new worksheet (c) inserting a new row or column in the new worksheet.", "(a) Right-click the sheet tab, Insert, Worksheet, OK. (b) Right-click the new sheet tab, Rename, type the name, press Enter. (c) Right-click the row or column heading, Insert, choose Entire Row or Entire Column.", ["April 2026"]],
+  ["Write the steps to: (a) Rename a worksheet (b) Freeze panes in a workbook (c) Open an existing workbook.", "(a) Right-click the sheet tab, Rename, type the new name. (b) View tab, Freeze Panes, choose the option. (c) File, Open, browse, select the file and click Open.", ["April 2025"]],
+  ["Consider a spreadsheet of class strengths in row 1 (headings) and years of admission. (i) Write the steps to change the font style to bold in row 1 and font size from 10 to 12. (ii) Write the steps to colour rows 2, 3 and 4 as red, green and yellow. (iii) Write the steps to add a column to the left of column E.", "(i) Select row 1; click Bold on the Home tab; open the Font Size box and select 12. (ii) Select row 2, click the Fill colour arrow and choose Red; do the same for row 3 (Green) and row 4 (Yellow). (iii) Right-click the heading of column E, choose Insert, Entire Column; type the new data.", ["October 2025"]],
+  ["Explain the options of the Font group in a spreadsheet.", "Bold, Italic and Underline change text style; Borders add cell borders; Font colour changes text colour and Fill colour changes the cell background; Font style and Font size change the typeface and size."],
+  ["Explain the options of the Alignment and Number groups.", "Alignment: left, right, center, wrap text and merge and center. Number: comma style, currency symbol, percent style, date formats and increase or decrease decimals."],
+  ["Write the steps to add a header and a footer in a worksheet.", "Click the Insert tab, click Header and Footer, type the header text at the top margin, click Go to Footer under the Design tab and type the footer text; they show on every page."],
+  ["Write the steps to create a Google spreadsheet and share it.", "Log in to Gmail, click the 9 dots, select Sheets, click Blank, enter content and name it; click Share, enter e-mail addresses and click Done."]
+ ]
+}

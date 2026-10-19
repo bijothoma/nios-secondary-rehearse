@@ -142,6 +142,12 @@ question's own short note.
   `build_sci.py` (48 questions, 100 marks: 20 MCQs, nine 2-mark and three 4-mark objective questions, six 2-mark, six
   3-mark and four 5-mark answers). Only the 16 public-exam lessons of the bifurcation are included (TMA lessons are
   left out); past-paper questions of April 2025 to April 2026 are tagged by exam.
+- `tools/build_computing.py`: builds Secondary Basic Computing (608, vocational) from
+  `data/basic-computing/src/lesson-<n>.json` with `build_sci.py` (21 questions, 40 marks: eight 1-mark, eight 2-mark
+  and four 3-mark questions, then one 4-mark word-processing question that asks for the steps on a given paragraph).
+  All 15 lessons of the textbook are included (NIOS has no bifurcation for this course; the textbook PDF came from
+  nios.ac.in). Past-paper questions of April 2024 to April 2026 are tagged by exam. `build_sci.py` now deals a
+  section that only some lessons have (the steps question, only in Digital Documentation) over those lessons.
 - All of these builders share `build_question` in `tools/build_ss.py`. It marks an MCQ `fixed` (options
   keep their printed order instead of being shuffled) when an option refers to the others, such as
   "all of these", "none of the above" or "both (A) and (B)".

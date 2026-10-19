@@ -1,0 +1,150 @@
+{
+  "subject": "basic-computing",
+  "lesson": 4,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 4: Digital Documentation — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Word processing and word processors"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "A word processor is an application used to create documents containing text, images, lists and tables, and to edit, format and print them (WordPerfect, Microsoft Word, OpenOffice Writer). Features: insert text, images, pictures, tables and lists; cut, copy, paste and delete; save and modify documents; change the appearance of text (bold, italic, underline, colour, size, style); Find and Replace; Spelling and Grammar check; Object Linking and Embedding (OLE) to embed charts, pictures, audio and video; Mail Merge for sending personalized letters or invitations to many people."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Proprietary (closed source) software is developed and owned by a company; a user must buy it without the source code and cannot copy or distribute it (Windows, Microsoft Office, Adobe Photoshop). MS Word is a proprietary word processor. Open source software has freely available source code which can be used, edited, copied and redistributed without permission (Linux, LibreOffice, OpenOffice, GIMP, Scratch). OpenOffice Writer is the open source word processor (www.openoffice.org)."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "MS Word 2013"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Start: Start, All Programs, Microsoft Office 2013, Word 2013. The start screen lists recent documents, a Blank document icon, templates (resume, cover letter, brochure, project report) and Open Other Documents. Window parts: Title bar (name of document and application); Ribbon with tabs File, Home, Insert, Design, Page Layout, References, Mailings, Review and View, each with groups of commands; Backstage view (File tab: info, new, open, save, print, set passwords); Quick Access Toolbar (Save, Undo, Redo by default); Work area with the insertion point or cursor; Rulers (horizontal for indents and left/right margins, vertical for top/bottom margins); Scroll bars; Status bar (word count, page number, number of pages)."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Save: File, Save As, Computer, Browse, choose drive and folder, type the File Name, click Save; the default extension is .docx; the Save As box appears only the first time (Ctrl+S saves). Print: File, Print (Ctrl+P), choose number of copies, printer and settings (pages, orientation, paper size, margins), click Print. Close: File, Close; a message box offers Save, Don't Save and Cancel."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Editing"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Editing is making corrections or changes. Select text with the mouse by dragging, or with the keyboard using Shift with arrow keys: Shift+End (to end of line), Shift+Home (to beginning of line), Ctrl+Shift+Down/Up arrow (to end/beginning of paragraph), Ctrl+Shift+Home (to beginning of document), Ctrl+A (whole document). Copy: select, Home tab, Clipboard, Copy (Ctrl+C), place the cursor, Paste (Ctrl+V). Move: select, Cut (Ctrl+X), place the cursor, Paste. Delete: select and press the Delete key."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Formatting"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Formatting improves appearance and is of three types: character, paragraph and page. Character formatting (Font section of the Home tab): font style, size, Bold (Ctrl+B), Italic (Ctrl+I), Underline (Ctrl+U), font colour, highlight colour and Change Case: Sentence case, lowercase, UPPERCASE, Capitalize Each Word and tOGGLE cASE. Paragraph formatting (Paragraph section of the Home tab): alignment (Left, Center, Right, Justify), Increase/Decrease Indent (blank space at the beginning of the paragraph) and Line and Paragraph Spacing. Page formatting (Page Setup section of the Page Layout tab): margins (templates or Custom Margins), orientation (portrait taller than wide; landscape wider than tall) and Size (default A4)."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Find and Replace (Editing section of the Home tab): Find (Ctrl+F) opens the Navigation pane and highlights the word; Replace opens the Find and Replace dialog box: type the word in Find what, the new word in Replace with, then Replace (one occurrence) or Replace All."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Headers, footers, page numbers, lists and spelling"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Header (top) and footer (bottom) hold information such as page number, author, date or company name: Insert tab, Header and Footer section, click Header or Footer, choose a layout and type the text; double-click the main document to leave it. Page numbers: Insert tab, Header and Footer section, Page Number, choose position (top, bottom, margins, current position) and style. Bulleted and numbered lists: select the text, Home tab, Paragraph section, click the arrow near Bullets or Numbering and choose a style. Spelling and Grammar: Word underlines possible spelling errors with a red wavy line; right-click for suggestions or use Review tab, Proofing, Spelling and Grammar (F7); buttons Change, Change All, Add (to dictionary), Ignore and Ignore All; right-click and Add to Dictionary removes the wavy line under a correct word."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Online documents (Google Docs)"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "An online document is created with an online word processor (Google Docs, Zoho, Etherpad, Dropbox Paper); it is stored in virtual space, not on the computer's storage, and can be shared and edited in real time. Google Docs needs a Google/Gmail account: open a browser, type docs.google.com/document, sign in, click Blank (+) (or a template), click Untitled Document to name it, and type; it saves automatically on Google Drive, so there is no Save command. Share: click the Share button, enter the e-mail addresses, choose permission (view, edit, comment) from the Permissions arrow, add a note and click Send; a non-Google account can only view."
+        ]
+      ]
+    }
+  ]
+}

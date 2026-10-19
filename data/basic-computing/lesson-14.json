@@ -1,0 +1,247 @@
+{
+  "subject": "basic-computing",
+  "lesson": 14,
+  "title": "Troubleshooting and Maintenance",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Answer in one line.",
+      "marks": "12 × 1 = 12",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "open",
+          "q": "What is the 404/Page Not Found error?",
+          "answer": "An error saying the requested web page is not available on the server."
+        },
+        {
+          "id": "1.2",
+          "type": "open",
+          "q": "Which command is used to verify that a computer can communicate with another device on the network?",
+          "answer": "The ping command."
+        },
+        {
+          "id": "1.3",
+          "type": "open",
+          "q": "Which command displays network connections for transmission of packets?",
+          "answer": "The netstat command."
+        },
+        {
+          "id": "1.4",
+          "type": "open",
+          "q": "In Control Panel, which option adjusts settings for vision, hearing and mobility?",
+          "answer": "Ease of Access (Ease of Access Center)."
+        },
+        {
+          "id": "1.5",
+          "type": "open",
+          "q": "What is the first thing to do when there is an issue with a Windows machine?",
+          "answer": "Restart the machine."
+        },
+        {
+          "id": "1.6",
+          "type": "open",
+          "q": "What should you do if your mouse is not responding? (any one step)",
+          "answer": "Check the cable, use a different USB port, or check the batteries of a wireless mouse."
+        },
+        {
+          "id": "1.7",
+          "type": "open",
+          "q": "What is the use of Print Test Page?",
+          "answer": "To test whether the printer is working properly."
+        },
+        {
+          "id": "1.8",
+          "type": "open",
+          "q": "What is defragmentation?",
+          "answer": "Rearranging fragmented files on the hard disk to improve its performance."
+        },
+        {
+          "id": "1.9",
+          "type": "open",
+          "q": "What does the traceroute command do?",
+          "answer": "It traces the route and hops of a packet to find where packets are lost."
+        },
+        {
+          "id": "1.10",
+          "type": "open",
+          "q": "Name the website used to test internet speed.",
+          "answer": "speedtest.net."
+        },
+        {
+          "id": "1.11",
+          "type": "open",
+          "q": "What is a system image?",
+          "answer": "A copy of the drive that can be used to restore Windows."
+        },
+        {
+          "id": "1.12",
+          "type": "open",
+          "q": "What happens when a hard disk is formatted?",
+          "answer": "Everything on it is permanently deleted."
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Short answer questions. Answer in 30–50 words.",
+      "marks": "11 × 2 = 22",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "What will you do when (a) your mouse is not responding (b) you get a black screen (c) you are unable to hear any sound?",
+          "answer": "(a) Check the cable, plug it into another USB port, clean it or check batteries. (b) Check the monitor light, increase brightness, check the power cord. (c) Connect speakers to the audio port, turn them on, increase volume and unmute.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Write the steps if you find that your mouse is not responding.",
+          "answer": "Check that the mouse cable is connected properly; connect it to a different USB port; disconnect, clean it with a dry cotton cloth and reconnect; for a wireless mouse check the batteries.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "What will you do to restore system files and settings?",
+          "answer": "Open System Restore, enter the user name and password if prompted, choose the recommended restore point, review it and click OK.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Explain the function of system recovery.",
+          "answer": "System Restore recovers Windows from errors by returning the system to an earlier restore point or system image, without choosing individual files.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "Write the troubleshooting techniques you will follow when your monitor is not working or not getting power.",
+          "answer": "Check the monitor is on, the power switch is on, whether it is in power-saving mode and that all cables are connected.",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "Rita's printer does not print 100 pages. Mention two steps to troubleshoot.",
+          "answer": "Check the printer cable and that the printer is on and has paper; clear any paper jam; print a test page; update the driver.",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "2.7",
+          "type": "open",
+          "q": "Suppose a CD or DVD inserted in the drive is not working. What steps will you take?",
+          "answer": "Remove and reinsert it, check it is properly placed, check whether it works in another computer, check for scratches or dirt, and check whether it is a copied CD-R/CD-RW.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "2.8",
+          "type": "open",
+          "q": "What are the preliminary measures to ensure the system is working properly?",
+          "answer": "Restart the machine, keep OS, drivers and software updated with patches, and install a good antivirus."
+        },
+        {
+          "id": "2.9",
+          "type": "open",
+          "q": "What are the various causes of No Power in the system?",
+          "answer": "Faulty power supply, bad BIOS settings, faulty peripherals or connectors, faulty processor or a faulty motherboard."
+        },
+        {
+          "id": "2.10",
+          "type": "open",
+          "q": "What should be done if the power is there but the display is not coming?",
+          "answer": "Check that the monitor is on and its light and brightness, the power cord and cable connections, sleep mode, and display settings."
+        },
+        {
+          "id": "2.11",
+          "type": "open",
+          "q": "Explain the Ping command and the Traceroute command.",
+          "answer": "Ping checks that a computer can reach another on the network and shows packets sent, received and lost; traceroute traces each hop of the route to find where packets are lost."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Answer the questions. Answer in 50–80 words.",
+      "marks": "7 × 3 = 21",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "What will you do in the following situations? (a) Your mouse is not responding (b) You get a black screen on your PC (c) You are unable to hear any sound from your computer.",
+          "answer": "(a) Check mouse cable, change USB port, clean it, replace batteries. (b) See whether the monitor light is on, raise screen brightness and plug in the power cord. (c) Connect the speakers to the audio port, switch them on, raise volume, unmute and re-plug.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "(a) Suppose you have inserted a CD or DVD and it is not working; what steps will you take? (b) Write the steps if your mouse is not responding.",
+          "answer": "(a) Reinsert the disc, check placement, test on another machine, check scratches or dirt, check if it is a copied CD-R/RW. (b) Check the cable, try another USB port, clean the mouse, check batteries of a wireless mouse.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "(i) What will you do to restore system files and settings? (ii) Explain the function of system recovery.",
+          "answer": "(i) Open System Restore, authenticate, choose the recommended restore point, review and click OK. (ii) System recovery restores Windows to an earlier working state using a restore point, system image or repair disc.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "Explain the options of Control Panel categories: (i) System and Security (ii) Network and Internet (iii) Hardware and Sound.",
+          "answer": "(i) Action Center, Windows Update, Power Options, Backup and Restore, Administrative Tools, Windows Firewall and BitLocker. (ii) Network and Sharing Center, Homegroup, Internet Options. (iii) Devices and Printers, AutoPlay, Sound, Power Options, Display.",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "3.5",
+          "type": "open",
+          "q": "Explain the network troubleshooting tools ping, traceroute, ifconfig and netstat.",
+          "answer": "Ping checks reachability; traceroute shows the hops and where packets are lost; ifconfig configures network interfaces; netstat shows connections, the routing table and statistics."
+        },
+        {
+          "id": "3.6",
+          "type": "open",
+          "q": "Explain the precautions before troubleshooting hardware.",
+          "answer": "Do not replace peripherals near the main supply, do not touch with wet hands, use an anti-static kit and proper tools, never use teeth to cut wires and use proper earthing."
+        },
+        {
+          "id": "3.7",
+          "type": "open",
+          "q": "Explain software troubleshooting methods.",
+          "answer": "Keep software updated with patches; restart; uninstall and reinstall a misbehaving program; defragment the hard disk; format only as a last resort; install antivirus."
+        }
+      ]
+    }
+  ]
+}

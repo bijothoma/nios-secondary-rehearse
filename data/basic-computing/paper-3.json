@@ -1,0 +1,215 @@
+{
+  "subject": "basic-computing",
+  "lesson": 903,
+  "title": "Model Question Paper 3",
+  "meta": "Time: 2 hours · Maximum marks: 40 · Modelled on the April 2026 NIOS paper",
+  "instructions": [
+    "All questions are compulsory and carry marks as indicated against each question.",
+    "Questions 1–8 carry 1 mark, questions 9–16 carry 2 marks, questions 17–20 carry 3 marks and question 21 carries 4 marks.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Answer in one line.",
+      "marks": "8 × 1 = 8",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "open",
+          "q": "Name the memory that holds the BIOS.",
+          "answer": "ROM (Read Only Memory).",
+          "note": "Lesson 1."
+        },
+        {
+          "id": "1.2",
+          "type": "open",
+          "q": "Name the feature of Windows which helps in file management.",
+          "answer": "Windows Explorer (or Computer).",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 2."
+        },
+        {
+          "id": "1.3",
+          "type": "open",
+          "q": "Expand HTML.",
+          "answer": "Hypertext Markup Language.",
+          "note": "Lesson 3."
+        },
+        {
+          "id": "1.4",
+          "type": "open",
+          "q": "What is the shortcut key to start Spelling and Grammar check?",
+          "answer": "F7.",
+          "note": "Lesson 4."
+        },
+        {
+          "id": "1.5",
+          "type": "open",
+          "q": "What is the shortcut key to save a spreadsheet?",
+          "answer": "Ctrl + S.",
+          "note": "Lesson 5."
+        },
+        {
+          "id": "1.6",
+          "type": "open",
+          "q": "Name the three options in the Proofing section of the Review tab.",
+          "answer": "Spelling, Research and Thesaurus.",
+          "note": "Lesson 6."
+        },
+        {
+          "id": "1.7",
+          "type": "open",
+          "q": "What is the default place where data is stored on a computer?",
+          "answer": "The hard drive (secondary storage).",
+          "note": "Lesson 7."
+        },
+        {
+          "id": "1.8",
+          "type": "open",
+          "q": "How can you say that 'punctuality is one of the best workplace practices'?",
+          "answer": "Being on time earns respect from everyone, helps manage work and keeps you aware of updates and happenings.",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 15."
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Short answer questions. Answer in 30–50 words.",
+      "marks": "8 × 2 = 16",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "What are the functions of the following? (i) Thermal printer (ii) Plotter",
+          "answer": "(i) Thermal printer: produces images by pushing electrically heated pins against heat-sensitive paper; used in fax machines. (ii) Plotter: draws charts, graphs, maps and engineering drawings with automated pens.",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 1."
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Amit has saved a file with the name C1 but later wants it renamed as chart 1. Write the steps.",
+          "answer": "Step 1: Select the file C1. Step 2: Right-click and choose Rename (or File, Rename). Step 3: Type chart 1 and press Enter.",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 2."
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "Define (i) Surfing the Net.",
+          "answer": "Moving from one web page to another through hyperlinks to find information or complete a task is called surfing the net.",
+          "years": [
+            "October 2024"
+          ],
+          "note": "Lesson 3."
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Define a word processor.",
+          "answer": "An application used to create, edit, format, save and print documents containing text, images, lists and tables.",
+          "note": "Lesson 4."
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "Explain the steps to rename a worksheet.",
+          "answer": "Right-click on the sheet tab name, choose Rename and type the new name; or double-click the sheet name and type.",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 5."
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "Write the steps to insert a hyperlink in your presentation.",
+          "answer": "Select the text or image; click the Insert tab and Hyperlink in the Links section; choose the file or web page (or type the address); click OK.",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 6."
+        },
+        {
+          "id": "2.7",
+          "type": "open",
+          "q": "Differentiate between online and offline storage.",
+          "answer": "Online storage is currently connected to the computer (e.g. hard disk); offline storage is not connected (e.g. a CD kept on a shelf or a tape).",
+          "note": "Lesson 7."
+        },
+        {
+          "id": "2.8",
+          "type": "open",
+          "q": "What do you understand by the term workplace?",
+          "answer": "An environment where people work to produce a product or provide a service.",
+          "note": "Lesson 15."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Answer the questions. Answer in 50–80 words.",
+      "marks": "4 × 3 = 12",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "Explain how a search engine works.",
+          "answer": "Keywords are typed in the search box; the search engine sends a spider to retrieve pages, images or media that match; the matching list, SERP, is displayed and clicking a link opens the page.",
+          "note": "Lesson 3."
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "Write the steps to protect a presentation with a password and remove it.",
+          "answer": "File, Info, Protect Presentation, Encrypt with Password, type the password, OK, confirm it, OK. To remove it repeat the steps, delete the password and click OK.",
+          "note": "Lesson 6."
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "Describe any three disadvantages of social networking.",
+          "answer": "Hacking or fake identities can harm people; fraud through harmful links and sharing of personal information; cyber bullying causes depression; addiction harms health (any three, with explanation).",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 9."
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "Explain how stress at work leads to anger and how to avoid it.",
+          "answer": "Poor planning causes pressure and stress, which turns into anger affecting health and career; plan and prioritize, take breaks, divert attention and practise deep breathing.",
+          "note": "Lesson 15."
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Word-processing task: write the steps for each part.",
+      "marks": "1 × 4 = 4",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "Consider the following document in MS Word.\n\nThere is a fruit seller who sits at the corner of a big house which belongs to a very rich man. Every day the fruit seller used to bring 10 fruits named Apple, Orange, Papaya, Pomegranate, Grapes, Guava, Dates, Kiwi, Coconut and Bananas.\n\nOne day the fruit seller fell ill and his son who was only 12 years old came to the rich person and asked to buy some fruits.\n\n(i) Write the steps to create a numbered list for the 10 fruit names in paragraph 1.\n(ii) Write the steps for saving this document as 'story 1' in the folder 'short stories'.\n(iii) Write the steps to copy the first paragraph, paste it at the end of the document and change its colour to red.\n(iv) Write the steps to add the heading 'The story of a fruit seller' in all capitals, bold, underlined and centre aligned.",
+          "answer": "(i) Place each fruit name on a new line, select them, click the arrow near Numbering in the Paragraph section of the Home tab and choose a numbering style.\n(ii) Click File, Save As, Browse; open the folder short stories; type story 1 in File Name; click Save.\n(iii) Select paragraph 1, click Copy (Ctrl+C) in Clipboard; press Ctrl+End; click Paste (Ctrl+V); select the pasted text, click the arrow near Font Color and choose red.\n(iv) Place the cursor at the start, type the heading and select it; click Change Case, UPPERCASE; click Bold, Underline and Center on the Home tab.",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Lesson 4."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "subject": "basic-computing",
+  "lesson": 5,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 5: Spreadsheet — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "What is a spreadsheet?"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "A spreadsheet (workbook) is a document of rows and columns holding data in a tabular manner, a collection of one or more worksheets. Rows are labelled 1, 2, 3 and columns A, B, C; the intersection is a cell, whose address is the column letter and row number (A1, B5). Calculations are done with formulas and functions. Spreadsheet programs: Microsoft Excel, Google Sheets, OpenOffice Calc, LibreOffice Calc, iWork Numbers and Lotus Symphony (OpenOffice Calc and LibreOffice Calc are open source)."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Features of Excel: Autosum (sum of a range of cells), Autofill (quickly fill a series such as dates or week days), Sorting (increasing or decreasing order), Filtering (show data matching criteria), Charts (pie, bar graphs), Formula (functions such as mathematical and trigonometric) and Pivot Table (reorganizes and summarizes data into a report without changing the original sheet)."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Working with a spreadsheet"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Create: click Start, select Microsoft Office Excel, choose Blank Workbook (Book1 opens with one worksheet; more can be added). Elements: Ribbon (tabs File, Home, Insert, Page Layout, Formulas, Data, Review, View), columns, rows, cell, active cell (currently selected), Name box/bar (address of the active cell), Formula bar (enter formulas and shows the content of the active cell) and sheet tab (lists worksheets; the active one is highlighted)."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Save: File tab, Save or Save As, choose the location, enter the name, click Save or press Enter; the extension is .xls or .xlsx. Close: File, Close (a pop-up asks whether to save an unsaved workbook) or click the X. Open: Start, MS Office, MS Excel; File, Open; browse; select the workbook and click Open (or double-click). Shortcut keys: Ctrl+N open a new spreadsheet, Ctrl+S save, Ctrl+O open a saved workbook."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Editing"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Insert a new worksheet: right-click the Sheet tab, choose Insert, select Worksheet and click OK (or click the plus icon beside the sheet tabs). Rename a worksheet: right-click the sheet name, choose Rename, type the new name (or double-click the name and type). Insert a row or column: right-click the row or column before which the new one is wanted, choose Insert, select Entire Row or Entire Column (the new column goes to the left of the active cell and the new row above it). Header/footer: Insert tab, Header and Footer, type the header, click Go to Footer under the Design tab, type the footer. Move or copy: select the cells, right-click, Cut (Ctrl+X) or Copy (Ctrl+C), select the target cell, Paste (Ctrl+V)."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Formatting"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Formatting commands are on the Home tab in the Font, Alignment and Number groups. Font group: Bold, Italic, Underline (select and click B, I, U), Borders (select cells, click Borders), text colour (A icon) and cell background colour (Fill colour, paint bucket), font style and size. Alignment group: left, right, center; Wrap Text to show long text in a small cell; Merge and Center to combine cells. Number group: Comma Style (12,345.89), currency symbol, Percent Style, date formats (select cells, Format in the Cells group, Format Cells, Number tab, Category Date, choose a format) and increase/decrease decimals."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Resize a row or column: select it, right-click, Column Width/Row Height and enter the value, or drag the boundary between headings. Freeze Panes: View menu, Freeze Panes, choose Freeze Panes, Freeze Top Row or Freeze First Column; to freeze several rows and columns select the cell below and to the right of what is to be frozen first; Unfreeze Panes unlocks all rows and columns for scrolling."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Online spreadsheet"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "An online spreadsheet is edited through a web application and can be shared and edited by many people. Create a Google spreadsheet: log in to the Gmail account, click the 9 dots at the top right, select Sheets, click Blank, enter the content, save with a name. Share: click the Share icon at the top right, enter names or e-mail addresses in the Share with others box and click Done."
+        ]
+      ]
+    }
+  ]
+}

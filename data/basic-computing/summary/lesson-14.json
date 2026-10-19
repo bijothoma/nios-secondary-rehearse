@@ -1,0 +1,150 @@
+{
+  "subject": "basic-computing",
+  "lesson": 14,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 14: Troubleshooting and Maintenance — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "System recovery"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "System Restore is a Windows utility that recovers Windows from faults or errors; it needs a Windows installation disc or a system repair disc. To create a system repair disc: open Backup and Restore from Control Panel, click Create a system repair disc (enter user name and password if asked). A system image is a copy of the drive that can reinstall Windows if the hard disk or OS stops working. System restore restores the system to an earlier restore point (created automatically for events such as Windows update); a specific file cannot be chosen. To restore system files and settings with the recommended restore point: open System Restore, enter the password if asked, choose the recommended restore point, review it and click OK. Limitation: some programs and set-up updates may not be returned fully."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Control Panel"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Control Panel changes features of Windows such as display, security, peripherals and network settings; it can be shown in Category, Large Icons or Small Icons view. Categories: System and Security (Action Center, Windows Update, Power Options, Backup and Restore, Administrative Tools; security: Windows Firewall, BitLocker Drive Encryption); User Accounts (create, maintain, delete user accounts); Network and Internet (Network and Sharing Center, Homegroup, Internet Options; connect to a network); Appearance and Personalization (wallpaper, screensaver, Display, Taskbar and Start Menu, Folder Options, Fonts); Hardware and Sound (Devices and Printers, AutoPlay, Sound, Power Options, Display); Clock, Language and Region (Date and Time, Region and Language); Programs (Programs and Features, Default Programs; uninstall programs); Ease of Access (Ease of Access Center for vision, hearing and mobility, Speech Recognition)."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Hardware troubleshooting"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Precautions: never replace a peripheral near the main power supply; never touch with wet hands; use an anti-static repair kit and proper tools; never use your teeth on wires; use good power cords, extension boards and earthing. When the computer works unusually, turn it off and restart after a while."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Monitor not working: check the monitor is on, the power switch is on, whether it is in power-saving or sleep mode and that all cables are connected; change display settings from Start, Change display settings. Printer not printing: check the cable and that the printer is on, network printer reachable, update the driver, load paper, clear paper jam and restart, print a test page via Control Panel, Devices and Printers, right-click printer, Printer Properties, Print Test Page; if that fails use the Printer Troubleshooter. CD/DVD not working: remove and reinsert; check it is placed properly; check if it works on another machine; check if scratched or dirty; check whether it is a copied CD-R/CD-RW. Keyboard: check the cable, use another USB port, clean with a dry cotton cloth. Mouse: check the cable, use another USB port, clean; for a wireless mouse check the batteries. Network: plug in the cable, check the blinking light, check user name, password and domain, re-enter them, check on other PCs. Video (black screen): check the monitor light and brightness and the power cord. Sound: connect speakers to the audio port, turn them on, turn up the volume and unmute, re-plug. No power: reset the BIOS; disconnect peripherals except processor and power supply; change the power supply; test the motherboard outside the casing; replace the processor; otherwise the motherboard is faulty. Reinstall or update drivers when driver clashes cause problems."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Software troubleshooting"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Keep software, drivers and OS updated and install patches (fixes for bugs from the developer's site); install good antivirus. First restart the machine. If a program misbehaves, uninstall it (Control Panel) and reinstall; if problems start after installing a program, uninstall it permanently or contact the developer. Defragment the hard disk periodically because fragmented files slow it down (a utility with the OS). Formatting the hard disk is the extreme step when infected or all repairs fail; everything is permanently deleted and the OS, drivers and programs must be reinstalled."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Network troubleshooting"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Ping: checks reachability of a host on an IP network and shows time, packets sent, received and lost. Traceroute: traces the route and each hop to see where packets are lost. Ifconfig: configures network interfaces (Unix-like systems). Netstat: displays network connections, the routing table and protocol statistics. Speed tests (speedtest.net, pingtest.net) show upload and download speed."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Common problems"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Computer won't turn on: check the power cable, then the power supply; if the monitor is on, remove, clean and refit the RAM. '404 Page Not Found': the requested page is not available on the server; refresh, check the spelling or try another machine. Abnormal OS or software: restart and scan for viruses; install antivirus. Strange noises: check the CPU and case fans, replace if faulty; if the hard drive makes noise back up the data."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Secure your system"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "System security makes sure the machine does what is intended and that data is not lost, altered or accessed by unauthorized persons. Encryption makes stored passwords unreadable even if accessed. Access control decides who can read or change records; network security authorises data access using authenticating information and permissions; a firewall enforces access policies and Intrusion Detection and Prevention systems detect intrusions; network attacks can be passive or active."
+        ]
+      ]
+    }
+  ]
+}

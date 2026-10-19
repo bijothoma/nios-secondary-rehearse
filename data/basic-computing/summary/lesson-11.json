@@ -1,0 +1,105 @@
+{
+  "subject": "basic-computing",
+  "lesson": 11,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 11: Introduction to E-services — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "E-service"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Any service that can be availed electronically (telephone, call centre, mobile phone, television, internet) is an E-service. An E-service has a service provider, a service receiver and the channels of service delivery, mostly the internet. In government E-services the provider is a government or public agency and the receivers are citizens."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Government initiated E-services"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "National Portal of India (https://www.india.gov.in): single-window access to all E-services of the Indian government, with a 'Know India' section (places to visit, approved tour operators, information on power and energy, foreign affairs) and sections for people abroad, business persons, government employees and senior citizens. Passport Seva: the Ministry of External Affairs provides online passport services such as applying, renewal and appointments, for simple, efficient and transparent delivery (portal2.passportindia.gov.in). DigiLocker (https://digilocker.gov.in): lets us upload scanned copies of documents (certificates, driving licence, voter id) to access anytime and anywhere; self-uploaded documents can be signed with the eSign facility (similar to self-attestation); documents can be shared online with organizations; documents issued by registered issuers are easy to validate; linked to the Aadhaar (UIDAI) id; CBSE sends digital documents of board students to DigiLocker."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Educational initiatives: SWAYAM (Study Web Access for Young Aspiring Minds, https://swayam.gov.in) is a programme to ensure equity and quality in education; it hosts courses for School, Certificate, Diploma, Undergraduate and Postgraduate learning paths, giving course content, audio and video files and quizzes anytime and anywhere. NROER (National Repository of Open Educational Resources, https://nroer.gov.in) is a collaborative platform for school and teacher education, with open resources under a Creative Commons licence. National Digital Library of India, NDLI (https://ndl.iitkgp.ac.in) integrates national and international digital libraries in one portal, from primary to post-graduate levels, in more than 70 languages. UMANG (Unified Mobile Application for New-age Governance) app gives single-window access to Central, State and local government and other citizen services through one mobile application, driving mobile governance."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Other services: Online Registration System, ORS (https://ors.gov.in) links hospitals across the country, lets patients book appointments without visiting the hospital using Aadhaar-based registration (mobile number registered with UIDAI); otherwise the patient's name is used and a Unique Health Identification (UHID) number is issued; AIIMS uses it. IRCTC (Indian Railways Catering and Tourism Corporation, https://www.irctc.co.in) provides booking and cancellation of rail tickets, a 24/7 contact centre, seat availability, train timings, train tracking and e-catering, and air tickets through air.irctc.co.in. NEFT (National Electronic Funds Transfer) is the system started and maintained by the Reserve Bank of India for electronic transfer of money, similar to internet banking; any amount from anywhere to anywhere, requiring the beneficiary's account number, name and the IFSC (Indian Financial System Code, a unique address of a bank branch). UPI (Unified Payment Interface) is a unique identifier the bank uses to transfer money and make payments using IMPS (Immediate Payments Service), which is faster than NEFT and works 24 x 7."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Benefits of E-services"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Greater reach (even remote villages); access to diverse users irrespective of age and qualification; enhances transparency (users connect directly with organizations); convenient access at a click or touch; timely delivery; saves cost (infrastructure, employees, transport, paperwork); easy expansion (features and services can be added easily)."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Institution initiatives"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Educational institutions offer E-services such as filling application forms, viewing admit cards, downloading study material and viewing results; NIOS offers e-services through its website (https://nios.ac.in/eservices.aspx)."
+        ]
+      ]
+    }
+  ]
+}

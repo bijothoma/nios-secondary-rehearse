@@ -1,0 +1,141 @@
+{
+  "subject": "basic-computing",
+  "lesson": 1,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 1: Introduction to Computer System — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "What is a computer?"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "A computer is an electronic machine that takes an input, processes it and produces the desired output. Every computer is a combination of hardware and software. Hardware is the physical component that can be seen and touched (CPU, monitor, keyboard, mouse, printer). Software is a collection of programs that lets users interact with the hardware; it has a logical existence and is of two kinds: system software (operating system such as Windows 7 or Linux, antivirus) and application software (MS-Office, OpenOffice, web browsers, games). Software works as an intermediary between user and hardware."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "The working of a computer has four steps: receive input (keyboard, mouse, scanner), process information (arithmetic and logical operations), store information (hard disk, CD, pen drive) and produce output (monitor, printer). Computer hardware falls into processing hardware (the CPU) and peripheral devices."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Components of a computer"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "A computer has four main components: input devices, the Central Processing Unit (CPU, the 'brain' of the computer), memory and output devices."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Input devices"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Keyboard: like a typewriter, usually a QWERTY keyboard with 104 keys. Mouse: a pointing device that controls the cursor, with one to three buttons. Scanner: reads text or an illustration printed on paper and converts it to a form the computer can use; scanned text cannot be edited unless an Optical Character Recognition (OCR) system turns the image into ASCII characters. OCR: reads text from paper and converts it into digital form (books, magazines). MICR (Magnetic Ink Character Recognition): identifies characters printed with special magnetic ink; used in banks on cheques. OMR (Optical Mark Recognition or Mark Sense Reader): senses the presence or absence of a pencil mark; used to assess multiple-choice examinations. Bar code reader: scans the bar code of a product in supermarkets, bookshops and libraries to show its description and price. Digitizing tablet: enters drawings and sketches into a computer. Light pen: a light-sensitive detector used to select objects on the screen. Speech input devices (microphone) convert a person's speech into digital form and, with software, form voice recognition systems."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Central Processing Unit"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "The CPU executes the instructions given to the computer; in a microcomputer it is a single chip called the microprocessor. Its parts: Control Unit (CU), which manages instructions, fetches and decodes them and directs the movement of data between memory, ALU and input/output devices; Arithmetic Logic Unit (ALU), which performs arithmetic operations (addition, subtraction, multiplication, shifting) and logical operations (AND, OR, NOT, comparisons); and memory registers, special high-speed storage areas that hold data and instructions temporarily during processing (often for less than a millisecond)."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Output devices"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Monitor or Visual Display Unit (VDU) shows soft copy; it can be a CRT monitor (older, bulky, consumes more power) or a TFT-LCD/LED flat screen (light, takes less space, less electricity). Printers produce hard copy on paper: dot matrix printer (impact printer; a print head strikes an inked ribbon), ink-jet printer (non-impact; sprays ionized ink, about 300 dots per inch, line printer), laser printer (non-impact; works like a photocopier using a laser beam and toner, a page printer, 4–20 pages per minute) and thermal printer (heated pins on heat-sensitive paper, used in fax machines, low-quality print). A plotter draws charts, graphs and maps with automated pens (drum, flatbed and electrostatic plotters) and is used for CAD, CAM and CAE. Speakers give audio output through the sound card."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Memory"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "A bit is a 0 or 1; 8 bits make a byte. 1 KB = 1024 bytes (2^10), 1 MB = 2^20 bytes, 1 GB = 2^30 bytes and 1 TB = 2^40 bytes; 64 KB = 64 x 1024 = 32,768 bytes. Memory is primary or secondary. Primary memory (main or internal memory) is accessed directly by the CPU, is faster and more costly and loses its contents when switched off (RAM). RAM (Random Access Memory) is read/write and volatile: every location can be accessed in the same time. ROM (Read Only Memory) can only be read, is non-volatile and stores permanent programs such as the BIOS (Basic Input Output System, which starts up the computer and checks peripherals). Types of ROM: PROM (programmable once by the user), EPROM (erased with ultraviolet light and reprogrammed) and EEPROM (Electrically Erasable PROM, erased by electrical signals and partly modifiable). Cache memory is a small, very fast, expensive memory between the CPU and main memory that stores frequently used data and instructions to speed up execution."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Secondary memory (auxiliary storage) is cheaper per bit, larger and slower, and stores data permanently: magnetic tape (large volumes on mainframes, 12.5 mm to 25 mm wide and 500 to 1200 m long), magnetic disks and hard disk (stacked disks with a spindle; data recorded in concentric tracks; read/write heads on an arm), optical disks (CD-ROM, read-only, over 600 MB; CD-R, recordable once; CD-R/W, rewritable; DVD, 4.7 GB on one side, used for movies) and flash memory (non-volatile, programmed and erased in blocks, evolved from EEPROM; memory cards such as SD card, memory stick and MMC; pen drive or thumb drive connected through a USB port)."
+        ]
+      ]
+    }
+  ]
+}

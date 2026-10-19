@@ -1,0 +1,280 @@
+{
+  "subject": "basic-computing",
+  "lesson": 8,
+  "title": "Mailing and Messaging Services",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Answer in one line.",
+      "marks": "14 × 1 = 14",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "open",
+          "q": "What is Instant Messaging?",
+          "answer": "Real-time exchange of messages over the internet through a messenger program; it is a sort of online chat.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "1.2",
+          "type": "open",
+          "q": "Define Instant Messaging Service.",
+          "answer": "A service that enables messages to be sent and received in real time through any digital device with an internet connection.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "1.3",
+          "type": "open",
+          "q": "Define Messaging App.",
+          "answer": "Instant messaging software installed on a mobile device such as a smartphone is known as a messaging app (e.g. WhatsApp).",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "1.4",
+          "type": "open",
+          "q": "Name any two messaging services.",
+          "answer": "Skype, Facebook Messenger and WhatsApp (any two).",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "1.5",
+          "type": "open",
+          "q": "Always remember to ______ of your E-mail account after the work is done.",
+          "answer": "Log out (sign out).",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "1.6",
+          "type": "open",
+          "q": "Gmail allows a maximum of ______ MB attachment size.",
+          "answer": "25 MB.",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "1.7",
+          "type": "open",
+          "q": "Using a ______ makes the mail invisible to other recipients of the mail.",
+          "answer": "BCC (blind carbon copy).",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "1.8",
+          "type": "open",
+          "q": "To draft an e-mail to a user we click the ______ button.",
+          "answer": "Compose.",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "1.9",
+          "type": "open",
+          "q": "We can send any file in e-mail through ______.",
+          "answer": "Attachment (the paperclip icon).",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "1.10",
+          "type": "open",
+          "q": "Our behaviour which is to be followed while working with e-mails is called ______.",
+          "answer": "E-etiquettes (e-mail etiquettes).",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "1.11",
+          "type": "open",
+          "q": "What does the @ symbol signify in an e-mail address?",
+          "answer": "It separates the user name from the domain name and shows it is an e-mail address."
+        },
+        {
+          "id": "1.12",
+          "type": "open",
+          "q": "What is the shortcut key to send an e-mail?",
+          "answer": "Ctrl + Enter."
+        },
+        {
+          "id": "1.13",
+          "type": "open",
+          "q": "What is the web version of WhatsApp called?",
+          "answer": "WhatsApp Web."
+        },
+        {
+          "id": "1.14",
+          "type": "open",
+          "q": "Name the three tabs of the Gmail inbox.",
+          "answer": "Primary, Social and Promotions."
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Short answer questions. Answer in 30–50 words.",
+      "marks": "13 × 2 = 26",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "Write the steps for the following while working with e-mails: (a) attach an attachment (b) download an attachment.",
+          "answer": "(a) Click Compose, type recipient, subject and message, click the Paperclip icon, browse and select the file, click Open, then Send. (b) Open the mail with the paperclip icon and click the Download icon; the file saves in the default download folder.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "What do you mean by the term attachment while sending an E-mail? Write the steps to attach a file with your E-mail message.",
+          "answer": "An attachment is a file (text, picture, audio, video) sent along with an e-mail. Steps: Compose, enter recipient, subject and message, click Paperclip, select the file, Open, then Send.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "What is an E-mail account? Write the steps to create an E-mail account.",
+          "answer": "An e-mail account gives a unique address to send and receive e-mails. Steps: open a browser, type www.gmail.com, click Create account, fill in the registration form (name, user name, password, DOB, phone) and accept the terms.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Write any two benefits of following E-mail etiquettes while sending E-mails.",
+          "answer": "Good language gives a good impression of the sender and the organization; a properly worded mail is effective and gets a prompt response.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "Fill in the blanks for the following: (i) After using our e-mail account, we should always ______. (ii) Using a ______ makes the mail invisible to other recipients. (iii) To draft an e-mail we click ______ button. (iv) We can send any file through ______.",
+          "answer": "(i) log out; (ii) BCC; (iii) Compose; (iv) attachment.",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "Fill in the blanks: (i) Gmail allows maximum ______ MB attachment size. (ii) Always ______ of your E-mail account after the work is done. (iii) Our behaviour while working with E-mails is called ______. (iv) It is good practice to ______ large attachments before sending.",
+          "answer": "(i) 25; (ii) log out; (iii) e-etiquette; (iv) compress.",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "2.7",
+          "type": "open",
+          "q": "Define an E-mail.",
+          "answer": "Electronic mail is the exchange of messages (with attachments) through digital devices via the internet."
+        },
+        {
+          "id": "2.8",
+          "type": "open",
+          "q": "What is the difference between e-mailing and instant messaging?",
+          "answer": "E-mail is a formal, store-and-forward medium needing an account; instant messaging is informal, real time and uses a messenger program or app."
+        },
+        {
+          "id": "2.9",
+          "type": "open",
+          "q": "How is replying a mail different from forwarding a mail?",
+          "answer": "Reply sends a response to the sender with the address filled automatically; forward sends the same mail to some other user whose address must be typed."
+        },
+        {
+          "id": "2.10",
+          "type": "open",
+          "q": "List any three advantages of E-mail.",
+          "answer": "Fast, available anywhere and any time; one mail can go to many recipients; files of any type can be attached."
+        },
+        {
+          "id": "2.11",
+          "type": "open",
+          "q": "List any four E-etiquettes while composing a mail.",
+          "answer": "Write a short clear subject; do not use uppercase; use a polite salutation; mention attachments; end with a signature; spell-check before sending (any four)."
+        },
+        {
+          "id": "2.12",
+          "type": "open",
+          "q": "What is the difference between CC and BCC?",
+          "answer": "CC sends a visible copy to another person; BCC sends a copy whose recipients are not visible to others."
+        },
+        {
+          "id": "2.13",
+          "type": "open",
+          "q": "How can WhatsApp Web be used?",
+          "answer": "Open https://web.whatsapp.com in a browser and scan the QR code with the phone (connected to internet); the chats then appear on the computer."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Answer the questions. Answer in 50–80 words.",
+      "marks": "6 × 3 = 18",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "Explain the features of Skype, Facebook Messenger and WhatsApp.",
+          "answer": "Skype: video conferencing, messaging, conference calls and chat history. Facebook Messenger: messages, calls, files and Messenger Kids. WhatsApp: text, voice and video calls, group chats, location sharing and WhatsApp Web."
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "Write the steps to compose and send a mail with an attachment.",
+          "answer": "Click Compose; enter the recipient address, subject and message; click the Paperclip icon; select the file and click Open; wait for the progress bar; click Send (Ctrl+Enter)."
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "Explain the E-etiquettes to be followed while replying to a mail.",
+          "answer": "Reply within 24 hours; do not reply to spam or suspected fraud; answer each query precisely; scan attachments before downloading; do not overuse Reply to All."
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "Explain how to create a new e-mail account using Gmail.",
+          "answer": "Open the browser and type www.gmail.com; click Create account; fill the registration form with user name, password, name, address, date of birth and phone; accept the terms and conditions; the account is created."
+        },
+        {
+          "id": "3.5",
+          "type": "open",
+          "q": "Write any six e-mail etiquettes while composing.",
+          "answer": "No confidential information; professional font; clear short subject; no capital letters; polite salutation; mention attachment; closing phrase and signature; spell-check before sending."
+        },
+        {
+          "id": "3.6",
+          "type": "open",
+          "q": "Poonam wants to send a file rep.docx to her teacher by e-mail. Write the steps.",
+          "answer": "Sign in to Gmail; click Compose; enter the teacher's address and subject; type a short message; click the Paperclip, select rep.docx, click Open; click Send."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+ "lesson": 7, "title": "Digital Storage", "module": 3,
+ "summary": [
+  "## What is digital storage?",
+  "Storing data in a storage medium is data storage; when data is stored electronically in digital devices such as desktop, laptop and smartphone it is digital storage. A storage medium is any hardware that can store data permanently or temporarily. Digital storage is classified as temporary memory (primary storage) and permanent memory (secondary storage).",
+  "## Memory hierarchy",
+  "Digital storage in terms of memory hierarchy: internal memory (processor registers and cache); main memory (system RAM and controller cards); on-line mass storage (secondary storage); off-line bulk storage (tertiary and offline storage). Tertiary storage gives large capacity at low cost, e.g. optical discs. Offline storage is not currently connected to the computer; online storage is currently connected. Moving down the hierarchy (register, cache, RAM, flash/USB, hard drives, magnetic tapes) capacity grows and cost per unit falls while access becomes slower.",
+  "Core characteristics used to differentiate storage technologies: volatility (is information kept when power is off?), mutability (read only, write, or overwrite), accessibility (random or sequential access), addressability (type of addressing), capacity, performance (largest chunk of data, access time, read/write rate), security (stores encrypted data?) and energy use.",
+  "## Storage devices",
+  "Earlier data was stored on punch cards; then magnetic storage (tapes, hard disk, floppy disk – the hard disk is the most extensively used); now optical storage (Blu-ray disc, CD, DVD) and USB flash drives. By default data is stored on the hard drive (secondary storage device, SSD). Networked computers may also use large magnetic tape storage, cloud storage or Network Attached Storage (NAS).",
+  "A hard disk is a set of numerous disks stacked one above the other with a cylindrical spindle in between; data is recorded electromagnetically in concentric circles called tracks; read/write heads mounted on an arm next to the disks move horizontally to read or write data.",
+  "## Cloud storage",
+  "Cloud storage is online storage that needs internet connectivity and gives very large (practically unlimited) storage on the web; files can be accessed anytime and anywhere by logging in, without carrying flash drives or CDs. Benefits: usability and accessibility (upload, download and organize in folders), recovery (backup against deletion or corruption), security (protected from hardware failure and login-controlled), cost saving (no hardware and software maintenance), easy sharing (with permissions like read only or read and write), data backup (automatic, scheduled) and collaboration (many users work on one document at the same time). Examples: Google Drive, Dropbox, OneDrive. Indirect use: e-mail, YouTube and WhatsApp.",
+  "Steps to use Google Drive: go to drive.google.com (My Drive has the files you upload or sync and the Docs, Sheets, Slides and Forms you create); upload files from the computer or create files by right-clicking a white space; share files or folders by right-clicking and choosing Share, setting the permission (view, edit or comment); files shared by others are in the Shared with me section."
+ ],
+ "q1": [
+  ["Name any two cloud storage services.", "Google Drive, Dropbox, OneDrive (any two).", ["October 2025"]],
+  ["Write the full form of SSD.", "Secondary Storage Device (as used in the textbook)."],
+  ["Write the full form of NAS.", "Network Attached Storage."],
+  ["Which of these is an optical storage device: hard disk, tape, Blu-ray disk, punch card?", "Blu-ray disk."],
+  ["What is online storage?", "Storage that is currently connected to the computer."],
+  ["What is offline storage?", "Any storage that is not currently connected to the computer."],
+  ["What is the default place where data is stored on a computer?", "The hard drive (secondary storage)."],
+  ["Name the online storage that needs internet connectivity.", "Cloud storage."],
+  ["Which storage was used in earlier times through punching machines?", "Punch cards."],
+  ["State true or false: Secondary memory is temporary storage.", "False; secondary memory is permanent storage."],
+  ["Which memory in the hierarchy is the fastest?", "Register (processor) memory."],
+  ["Where do you see files shared by others in Google Drive?", "In the 'Shared with me' section."],
+  ["What is the purpose of data backup in cloud storage?", "To keep copies of files so they can be recovered if deleted or corrupted."]
+ ],
+ "q2": [
+  ["What is a Hard disk? Explain its structure and working process.", "A hard disk is the most common secondary storage device. It has many disks stacked on a cylindrical spindle; data is stored magnetically in concentric tracks; read/write heads on an arm move across the disks to read or write data.", ["April 2026"]],
+  ["How can you broadly categorize the digital storage in terms of Memory Hierarchy?", "Internal memory (registers and cache), main memory (RAM), on-line mass storage (secondary storage) and off-line bulk storage (tertiary and offline storage).", ["April 2026"]],
+  ["Describe any 4 core characteristics of storage device technologies on the basis of which they are differentiated.", "Volatility (data kept after power off), mutability (read, write, overwrite), accessibility (random or sequential), capacity, performance, security and energy use (any four).", ["April 2025"]],
+  ["Write the steps to create a personal workspace to store, organise and share files using Google Drive.", "Step 1: Go to drive.google.com and log in with the Google account. Step 2: Upload files or create files/folders by right-clicking a blank area. Step 3: Right-click the file, choose Share, enter e-mail IDs and set the permission (view, edit, comment).", ["October 2025"]],
+  ["State True or False: (i) Tertiary storage devices provide large capacity at low cost. (ii) Blu-ray disc is an optical storage device. (iii) Primary storage stores data permanently. (iv) RAM is tertiary memory.", "(i) True. (ii) True. (iii) False – primary storage is temporary. (iv) False – RAM is primary (main) memory.", ["April 2024"]],
+  ["Define cloud storage. Write any two benefits of using cloud storage.", "Cloud storage is online storage on the web that needs internet. Benefits: files can be accessed anytime and anywhere; it works as a backup; it allows sharing and collaboration; it saves hardware cost (any two).", ["October 2024"]],
+  ["Define digital storage.", "The process of storing data electronically on a storage medium in devices such as computers and smartphones."],
+  ["Differentiate between online and offline storage.", "Online storage is currently connected to the computer (e.g. hard disk); offline storage is not connected (e.g. a CD kept on a shelf or a tape)."],
+  ["Name any two large size, large capacity digital storage devices that are affordable.", "Hard drives and magnetic tapes."],
+  ["Write advantages of cloud storage (any four).", "Anytime anywhere access, backup and recovery, security with login, cost saving, easy sharing and collaboration."],
+  ["Explain the importance of the collaboration feature of cloud storage with an example.", "Many people can work on a document at the same time from different places; for example, classmates can edit a Google Docs project together over the internet."],
+  ["Match: (i) RAM (ii) Tape backup (iii) Flash memory with (a) small size, large capacity (b) medium size, medium capacity (c) large size, very large capacity.", "(i)–(b); (ii)–(c); (iii)–(a)."]
+ ],
+ "q3": [
+  ["Explain the features (characteristics) of a digital storage.", "Volatility, mutability, accessibility, addressability, capacity, performance, security and energy use are used to compare storage technologies in the hierarchy."],
+  ["Explain the benefits of cloud storage.", "Usability and accessibility; recovery as backup; security through login; cost saving; easy sharing with permissions; automatic data backup; and collaboration by multiple users in real time."],
+  ["Explain the storage hierarchy from register to magnetic tape.", "Registers and cache are small, very fast and very expensive; RAM is medium and fast; flash/USB is large and cheap but slower; hard drives have very large capacity and are slow; magnetic tapes are very large, very slow and affordable."],
+  ["Write the steps to use Google Drive to upload, share and organize files.", "Go to drive.google.com; upload a file or create files by right-clicking in a white space; right-click the file, choose Share, add e-mail IDs and permissions; use Shared with me to see others' files."],
+  ["Describe the types of digital storage devices used from earlier times till now.", "Punch cards; magnetic storage (tapes, floppy disk, hard disk); optical storage (CD, DVD, Blu-ray); USB flash drives; and network storage (NAS, cloud)."],
+  ["Explain how cloud storage helps in the case of a system failure, with an example.", "A user who saves files on cloud storage can log in from another system and access them anytime, so work is not lost; e.g. an office assistant whose computer fails can still share the document."]
+ ]
+}

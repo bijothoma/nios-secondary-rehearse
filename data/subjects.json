@@ -2037,6 +2037,122 @@
           "file": "data/psychology/paper-3.json"
         }
       ]
+    },
+    {
+      "id": "basic-computing",
+      "name": "Basic Computing",
+      "label": "",
+      "level": "secondary",
+      "lessons": [
+        {
+          "no": 1,
+          "title": "Introduction to Computer System",
+          "file": "data/basic-computing/lesson-1.json",
+          "summary": "data/basic-computing/summary/lesson-1.json"
+        },
+        {
+          "no": 2,
+          "title": "Operating System",
+          "file": "data/basic-computing/lesson-2.json",
+          "summary": "data/basic-computing/summary/lesson-2.json"
+        },
+        {
+          "no": 3,
+          "title": "Introduction to Internet",
+          "file": "data/basic-computing/lesson-3.json",
+          "summary": "data/basic-computing/summary/lesson-3.json"
+        },
+        {
+          "no": 4,
+          "title": "Digital Documentation",
+          "file": "data/basic-computing/lesson-4.json",
+          "summary": "data/basic-computing/summary/lesson-4.json"
+        },
+        {
+          "no": 5,
+          "title": "Spreadsheet",
+          "file": "data/basic-computing/lesson-5.json",
+          "summary": "data/basic-computing/summary/lesson-5.json"
+        },
+        {
+          "no": 6,
+          "title": "Presentations",
+          "file": "data/basic-computing/lesson-6.json",
+          "summary": "data/basic-computing/summary/lesson-6.json"
+        },
+        {
+          "no": 7,
+          "title": "Digital Storage",
+          "file": "data/basic-computing/lesson-7.json",
+          "summary": "data/basic-computing/summary/lesson-7.json"
+        },
+        {
+          "no": 8,
+          "title": "Mailing and Messaging Services",
+          "file": "data/basic-computing/lesson-8.json",
+          "summary": "data/basic-computing/summary/lesson-8.json"
+        },
+        {
+          "no": 9,
+          "title": "Introduction to Social Networking",
+          "file": "data/basic-computing/lesson-9.json",
+          "summary": "data/basic-computing/summary/lesson-9.json"
+        },
+        {
+          "no": 10,
+          "title": "Securing the Computer System",
+          "file": "data/basic-computing/lesson-10.json",
+          "summary": "data/basic-computing/summary/lesson-10.json"
+        },
+        {
+          "no": 11,
+          "title": "Introduction to E-services",
+          "file": "data/basic-computing/lesson-11.json",
+          "summary": "data/basic-computing/summary/lesson-11.json"
+        },
+        {
+          "no": 12,
+          "title": "Assistive Technology for Differently-abled Person",
+          "file": "data/basic-computing/lesson-12.json",
+          "summary": "data/basic-computing/summary/lesson-12.json"
+        },
+        {
+          "no": 13,
+          "title": "Customer Services",
+          "file": "data/basic-computing/lesson-13.json",
+          "summary": "data/basic-computing/summary/lesson-13.json"
+        },
+        {
+          "no": 14,
+          "title": "Troubleshooting and Maintenance",
+          "file": "data/basic-computing/lesson-14.json",
+          "summary": "data/basic-computing/summary/lesson-14.json"
+        },
+        {
+          "no": 15,
+          "title": "Workplace Practices and Work Management",
+          "file": "data/basic-computing/lesson-15.json",
+          "summary": "data/basic-computing/summary/lesson-15.json"
+        },
+        {
+          "no": 901,
+          "tag": "Full paper",
+          "title": "Model Question Paper 1",
+          "file": "data/basic-computing/paper-1.json"
+        },
+        {
+          "no": 902,
+          "tag": "Full paper",
+          "title": "Model Question Paper 2",
+          "file": "data/basic-computing/paper-2.json"
+        },
+        {
+          "no": 903,
+          "tag": "Full paper",
+          "title": "Model Question Paper 3",
+          "file": "data/basic-computing/paper-3.json"
+        }
+      ]
     }
   ]
 }

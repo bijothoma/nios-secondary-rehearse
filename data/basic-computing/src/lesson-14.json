@@ -1,0 +1,181 @@
+{
+ "lesson": 14,
+ "title": "Troubleshooting and Maintenance",
+ "module": 5,
+ "summary": [
+  "## System recovery",
+  "System Restore is a Windows utility that recovers Windows from faults or errors; it needs a Windows installation disc or a system repair disc. To create a system repair disc: open Backup and Restore from Control Panel, click Create a system repair disc (enter user name and password if asked). A system image is a copy of the drive that can reinstall Windows if the hard disk or OS stops working. System restore restores the system to an earlier restore point (created automatically for events such as Windows update); a specific file cannot be chosen. To restore system files and settings with the recommended restore point: open System Restore, enter the password if asked, choose the recommended restore point, review it and click OK. Limitation: some programs and set-up updates may not be returned fully.",
+  "## Control Panel",
+  "Control Panel changes features of Windows such as display, security, peripherals and network settings; it can be shown in Category, Large Icons or Small Icons view. Categories: System and Security (Action Center, Windows Update, Power Options, Backup and Restore, Administrative Tools; security: Windows Firewall, BitLocker Drive Encryption); User Accounts (create, maintain, delete user accounts); Network and Internet (Network and Sharing Center, Homegroup, Internet Options; connect to a network); Appearance and Personalization (wallpaper, screensaver, Display, Taskbar and Start Menu, Folder Options, Fonts); Hardware and Sound (Devices and Printers, AutoPlay, Sound, Power Options, Display); Clock, Language and Region (Date and Time, Region and Language); Programs (Programs and Features, Default Programs; uninstall programs); Ease of Access (Ease of Access Center for vision, hearing and mobility, Speech Recognition).",
+  "## Hardware troubleshooting",
+  "Precautions: never replace a peripheral near the main power supply; never touch with wet hands; use an anti-static repair kit and proper tools; never use your teeth on wires; use good power cords, extension boards and earthing. When the computer works unusually, turn it off and restart after a while.",
+  "Monitor not working: check the monitor is on, the power switch is on, whether it is in power-saving or sleep mode and that all cables are connected; change display settings from Start, Change display settings. Printer not printing: check the cable and that the printer is on, network printer reachable, update the driver, load paper, clear paper jam and restart, print a test page via Control Panel, Devices and Printers, right-click printer, Printer Properties, Print Test Page; if that fails use the Printer Troubleshooter. CD/DVD not working: remove and reinsert; check it is placed properly; check if it works on another machine; check if scratched or dirty; check whether it is a copied CD-R/CD-RW. Keyboard: check the cable, use another USB port, clean with a dry cotton cloth. Mouse: check the cable, use another USB port, clean; for a wireless mouse check the batteries. Network: plug in the cable, check the blinking light, check user name, password and domain, re-enter them, check on other PCs. Video (black screen): check the monitor light and brightness and the power cord. Sound: connect speakers to the audio port, turn them on, turn up the volume and unmute, re-plug. No power: reset the BIOS; disconnect peripherals except processor and power supply; change the power supply; test the motherboard outside the casing; replace the processor; otherwise the motherboard is faulty. Reinstall or update drivers when driver clashes cause problems.",
+  "## Software troubleshooting",
+  "Keep software, drivers and OS updated and install patches (fixes for bugs from the developer's site); install good antivirus. First restart the machine. If a program misbehaves, uninstall it (Control Panel) and reinstall; if problems start after installing a program, uninstall it permanently or contact the developer. Defragment the hard disk periodically because fragmented files slow it down (a utility with the OS). Formatting the hard disk is the extreme step when infected or all repairs fail; everything is permanently deleted and the OS, drivers and programs must be reinstalled.",
+  "## Network troubleshooting",
+  "Ping: checks reachability of a host on an IP network and shows time, packets sent, received and lost. Traceroute: traces the route and each hop to see where packets are lost. Ifconfig: configures network interfaces (Unix-like systems). Netstat: displays network connections, the routing table and protocol statistics. Speed tests (speedtest.net, pingtest.net) show upload and download speed.",
+  "## Common problems",
+  "Computer won't turn on: check the power cable, then the power supply; if the monitor is on, remove, clean and refit the RAM. '404 Page Not Found': the requested page is not available on the server; refresh, check the spelling or try another machine. Abnormal OS or software: restart and scan for viruses; install antivirus. Strange noises: check the CPU and case fans, replace if faulty; if the hard drive makes noise back up the data.",
+  "## Secure your system",
+  "System security makes sure the machine does what is intended and that data is not lost, altered or accessed by unauthorized persons. Encryption makes stored passwords unreadable even if accessed. Access control decides who can read or change records; network security authorises data access using authenticating information and permissions; a firewall enforces access policies and Intrusion Detection and Prevention systems detect intrusions; network attacks can be passive or active."
+ ],
+ "q1": [
+  [
+   "What is the 404/Page Not Found error?",
+   "An error saying the requested web page is not available on the server."
+  ],
+  [
+   "Which command is used to verify that a computer can communicate with another device on the network?",
+   "The ping command."
+  ],
+  [
+   "Which command displays network connections for transmission of packets?",
+   "The netstat command."
+  ],
+  [
+   "In Control Panel, which option adjusts settings for vision, hearing and mobility?",
+   "Ease of Access (Ease of Access Center)."
+  ],
+  [
+   "What is the first thing to do when there is an issue with a Windows machine?",
+   "Restart the machine."
+  ],
+  [
+   "What should you do if your mouse is not responding? (any one step)",
+   "Check the cable, use a different USB port, or check the batteries of a wireless mouse."
+  ],
+  [
+   "What is the use of Print Test Page?",
+   "To test whether the printer is working properly."
+  ],
+  [
+   "What is defragmentation?",
+   "Rearranging fragmented files on the hard disk to improve its performance."
+  ],
+  [
+   "What does the traceroute command do?",
+   "It traces the route and hops of a packet to find where packets are lost."
+  ],
+  [
+   "Name the website used to test internet speed.",
+   "speedtest.net."
+  ],
+  [
+   "What is a system image?",
+   "A copy of the drive that can be used to restore Windows."
+  ],
+  [
+   "What happens when a hard disk is formatted?",
+   "Everything on it is permanently deleted."
+  ]
+ ],
+ "q2": [
+  [
+   "What will you do when (a) your mouse is not responding (b) you get a black screen (c) you are unable to hear any sound?",
+   "(a) Check the cable, plug it into another USB port, clean it or check batteries. (b) Check the monitor light, increase brightness, check the power cord. (c) Connect speakers to the audio port, turn them on, increase volume and unmute.",
+   [
+    "April 2026"
+   ]
+  ],
+  [
+   "Write the steps if you find that your mouse is not responding.",
+   "Check that the mouse cable is connected properly; connect it to a different USB port; disconnect, clean it with a dry cotton cloth and reconnect; for a wireless mouse check the batteries.",
+   [
+    "April 2025"
+   ]
+  ],
+  [
+   "What will you do to restore system files and settings?",
+   "Open System Restore, enter the user name and password if prompted, choose the recommended restore point, review it and click OK.",
+   [
+    "October 2025"
+   ]
+  ],
+  [
+   "Explain the function of system recovery.",
+   "System Restore recovers Windows from errors by returning the system to an earlier restore point or system image, without choosing individual files.",
+   [
+    "October 2025"
+   ]
+  ],
+  [
+   "Write the troubleshooting techniques you will follow when your monitor is not working or not getting power.",
+   "Check the monitor is on, the power switch is on, whether it is in power-saving mode and that all cables are connected.",
+   [
+    "April 2024"
+   ]
+  ],
+  [
+   "Rita's printer does not print 100 pages. Mention two steps to troubleshoot.",
+   "Check the printer cable and that the printer is on and has paper; clear any paper jam; print a test page; update the driver.",
+   [
+    "April 2024"
+   ]
+  ],
+  [
+   "Suppose a CD or DVD inserted in the drive is not working. What steps will you take?",
+   "Remove and reinsert it, check it is properly placed, check whether it works in another computer, check for scratches or dirt, and check whether it is a copied CD-R/CD-RW.",
+   [
+    "April 2025"
+   ]
+  ],
+  [
+   "What are the preliminary measures to ensure the system is working properly?",
+   "Restart the machine, keep OS, drivers and software updated with patches, and install a good antivirus."
+  ],
+  [
+   "What are the various causes of No Power in the system?",
+   "Faulty power supply, bad BIOS settings, faulty peripherals or connectors, faulty processor or a faulty motherboard."
+  ],
+  [
+   "What should be done if the power is there but the display is not coming?",
+   "Check that the monitor is on and its light and brightness, the power cord and cable connections, sleep mode, and display settings."
+  ],
+  [
+   "Explain the Ping command and the Traceroute command.",
+   "Ping checks that a computer can reach another on the network and shows packets sent, received and lost; traceroute traces each hop of the route to find where packets are lost."
+  ]
+ ],
+ "q3": [
+  [
+   "What will you do in the following situations? (a) Your mouse is not responding (b) You get a black screen on your PC (c) You are unable to hear any sound from your computer.",
+   "(a) Check mouse cable, change USB port, clean it, replace batteries. (b) See whether the monitor light is on, raise screen brightness and plug in the power cord. (c) Connect the speakers to the audio port, switch them on, raise volume, unmute and re-plug.",
+   [
+    "April 2026"
+   ]
+  ],
+  [
+   "(a) Suppose you have inserted a CD or DVD and it is not working; what steps will you take? (b) Write the steps if your mouse is not responding.",
+   "(a) Reinsert the disc, check placement, test on another machine, check scratches or dirt, check if it is a copied CD-R/RW. (b) Check the cable, try another USB port, clean the mouse, check batteries of a wireless mouse.",
+   [
+    "April 2025"
+   ]
+  ],
+  [
+   "(i) What will you do to restore system files and settings? (ii) Explain the function of system recovery.",
+   "(i) Open System Restore, authenticate, choose the recommended restore point, review and click OK. (ii) System recovery restores Windows to an earlier working state using a restore point, system image or repair disc.",
+   [
+    "October 2025"
+   ]
+  ],
+  [
+   "Explain the options of Control Panel categories: (i) System and Security (ii) Network and Internet (iii) Hardware and Sound.",
+   "(i) Action Center, Windows Update, Power Options, Backup and Restore, Administrative Tools, Windows Firewall and BitLocker. (ii) Network and Sharing Center, Homegroup, Internet Options. (iii) Devices and Printers, AutoPlay, Sound, Power Options, Display.",
+   [
+    "October 2024"
+   ]
+  ],
+  [
+   "Explain the network troubleshooting tools ping, traceroute, ifconfig and netstat.",
+   "Ping checks reachability; traceroute shows the hops and where packets are lost; ifconfig configures network interfaces; netstat shows connections, the routing table and statistics."
+  ],
+  [
+   "Explain the precautions before troubleshooting hardware.",
+   "Do not replace peripherals near the main supply, do not touch with wet hands, use an anti-static kit and proper tools, never use teeth to cut wires and use proper earthing."
+  ],
+  [
+   "Explain software troubleshooting methods.",
+   "Keep software updated with patches; restart; uninstall and reinstall a misbehaving program; defragment the hard disk; format only as a last resort; install antivirus."
+  ]
+ ]
+}

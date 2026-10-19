@@ -1,0 +1,202 @@
+{
+ "lesson": 8,
+ "title": "Mailing and Messaging Services",
+ "module": 3,
+ "summary": [
+  "## E-mail",
+  "E-mail (Electronic Mail) is the exchange of messages through digital devices via the internet; text, graphic, audio and video files can be sent as attachments. Advantages: send and receive from anywhere at any time (both must be connected and logged in); very fast; the same mail can go to many recipients; multiple files of any type can be attached; mails can be organised in folders.",
+  "An e-mail account gives a definite address such as user_student@gmail.com: user_student is the user name, gmail the service provider, .com the commercial domain and @ separates the user name and domain name. Providers: Gmail, Yahoo! Mail, Hotmail, Zoho Mail. Create a Gmail account: open a browser and type www.gmail.com, press Enter, click Create account, fill in the registration form (user name, password, name, address, date of birth, phone number), accept the terms and conditions. Sign in with a valid user name and password.",
+  "Inbox has three tabs: Primary (mails from people), Social (notifications from sites such as Twitter and LinkedIn) and Promotions (advertisements, offers). Unread mails are counted on the tab headers; mails are shown in reverse order of date (latest on top) with the sender, subject and time. Compose a mail: click Compose; the New Message window opens; type the recipient addresses (separate several by comma or semicolon); type the subject; type the message and format it; click Send (shortcut Ctrl+Enter) or Discard Draft to cancel. CC (carbon copy) sends a copy to another person; BCC (blind carbon copy) recipients are not visible to the other recipients. Reply sends a mail back to the sender (address filled automatically); Forward sends the same mail to another person.",
+  "Send an attachment: click Compose (or Reply/Forward), type the recipient, subject and message, click the Paperclip icon, browse and select the file and click Open (a progress bar shows uploading), then click Send; Gmail allows a maximum of 25 MB attachments. Download an attachment: a paperclip icon shows in the inbox; open the mail, click the Download icon; the file saves in the default download folder. Always log out (Sign Out) after work.",
+  "## E-etiquettes",
+  "E-mail etiquette is the code of conduct for e-mail; good etiquette gives a good impression of the sender and organization and brings a prompt response. Composing: e-mail is not private so do not send confidential information; use a professional font; state the purpose in a short subject line; be careful with CC and BCC; do not use uppercase; be courteous with a suitable salutation (Dear, Mr., Ms.); avoid blaming, ambiguous statements, abbreviations and long introductions; begin with a greeting or thanks; mention attachments and compress large ones; end with a closing phrase and an official signature; review and spell-check before sending; keep antivirus updated. Replying: reply within 24 hours; do not reply to spam or likely fraud mails; answer queries precisely; scan attachments before downloading; do not overuse Reply to All.",
+  "## Messaging services and apps",
+  "Messaging service (Instant Messaging, IM): messages sent and received in real time over the internet through digital devices, using a messenger program; the sender and receiver generally know each other; when a messenger runs on a smartphone it is called an App. IM is an informal communication medium; e-mail is a formal one. Skype (launched 2003; owned by Microsoft): video conferencing, messaging, user profiles, online status, emoticons, chat history, job interviews, conference calls; used in education for virtual field trips and language exchange. Facebook Messenger (launched 2011): messages, pictures, audio and video calls, files; Messenger Kids (December 2017) for ages 6–12, managed by parents. WhatsApp: very popular mobile messaging (taken over by Facebook in February 2014): text, images, voice messages, voice and video calls, group chat and location sharing; needs a mobile number. WhatsApp Web (released January 2015) is a browser extension of the phone: open https://web.whatsapp.com, scan the QR code with the phone, which must be connected to the internet."
+ ],
+ "q1": [
+  [
+   "What is Instant Messaging?",
+   "Real-time exchange of messages over the internet through a messenger program; it is a sort of online chat.",
+   [
+    "April 2026"
+   ]
+  ],
+  [
+   "Define Instant Messaging Service.",
+   "A service that enables messages to be sent and received in real time through any digital device with an internet connection.",
+   [
+    "October 2025"
+   ]
+  ],
+  [
+   "Define Messaging App.",
+   "Instant messaging software installed on a mobile device such as a smartphone is known as a messaging app (e.g. WhatsApp).",
+   [
+    "October 2024"
+   ]
+  ],
+  [
+   "Name any two messaging services.",
+   "Skype, Facebook Messenger and WhatsApp (any two).",
+   [
+    "April 2024"
+   ]
+  ],
+  [
+   "Always remember to ______ of your E-mail account after the work is done.",
+   "Log out (sign out).",
+   [
+    "October 2024"
+   ]
+  ],
+  [
+   "Gmail allows a maximum of ______ MB attachment size.",
+   "25 MB.",
+   [
+    "October 2024"
+   ]
+  ],
+  [
+   "Using a ______ makes the mail invisible to other recipients of the mail.",
+   "BCC (blind carbon copy).",
+   [
+    "April 2024"
+   ]
+  ],
+  [
+   "To draft an e-mail to a user we click the ______ button.",
+   "Compose.",
+   [
+    "April 2024"
+   ]
+  ],
+  [
+   "We can send any file in e-mail through ______.",
+   "Attachment (the paperclip icon).",
+   [
+    "April 2024"
+   ]
+  ],
+  [
+   "Our behaviour which is to be followed while working with e-mails is called ______.",
+   "E-etiquettes (e-mail etiquettes).",
+   [
+    "October 2024"
+   ]
+  ],
+  [
+   "What does the @ symbol signify in an e-mail address?",
+   "It separates the user name from the domain name and shows it is an e-mail address."
+  ],
+  [
+   "What is the shortcut key to send an e-mail?",
+   "Ctrl + Enter."
+  ],
+  [
+   "What is the web version of WhatsApp called?",
+   "WhatsApp Web."
+  ],
+  [
+   "Name the three tabs of the Gmail inbox.",
+   "Primary, Social and Promotions."
+  ]
+ ],
+ "q2": [
+  [
+   "Write the steps for the following while working with e-mails: (a) attach an attachment (b) download an attachment.",
+   "(a) Click Compose, type recipient, subject and message, click the Paperclip icon, browse and select the file, click Open, then Send. (b) Open the mail with the paperclip icon and click the Download icon; the file saves in the default download folder.",
+   [
+    "April 2026"
+   ]
+  ],
+  [
+   "What do you mean by the term attachment while sending an E-mail? Write the steps to attach a file with your E-mail message.",
+   "An attachment is a file (text, picture, audio, video) sent along with an e-mail. Steps: Compose, enter recipient, subject and message, click Paperclip, select the file, Open, then Send.",
+   [
+    "October 2025"
+   ]
+  ],
+  [
+   "What is an E-mail account? Write the steps to create an E-mail account.",
+   "An e-mail account gives a unique address to send and receive e-mails. Steps: open a browser, type www.gmail.com, click Create account, fill in the registration form (name, user name, password, DOB, phone) and accept the terms.",
+   [
+    "April 2025"
+   ]
+  ],
+  [
+   "Write any two benefits of following E-mail etiquettes while sending E-mails.",
+   "Good language gives a good impression of the sender and the organization; a properly worded mail is effective and gets a prompt response.",
+   [
+    "April 2025"
+   ]
+  ],
+  [
+   "Fill in the blanks for the following: (i) After using our e-mail account, we should always ______. (ii) Using a ______ makes the mail invisible to other recipients. (iii) To draft an e-mail we click ______ button. (iv) We can send any file through ______.",
+   "(i) log out; (ii) BCC; (iii) Compose; (iv) attachment.",
+   [
+    "April 2024"
+   ]
+  ],
+  [
+   "Fill in the blanks: (i) Gmail allows maximum ______ MB attachment size. (ii) Always ______ of your E-mail account after the work is done. (iii) Our behaviour while working with E-mails is called ______. (iv) It is good practice to ______ large attachments before sending.",
+   "(i) 25; (ii) log out; (iii) e-etiquette; (iv) compress.",
+   [
+    "October 2024"
+   ]
+  ],
+  [
+   "Define an E-mail.",
+   "Electronic mail is the exchange of messages (with attachments) through digital devices via the internet."
+  ],
+  [
+   "What is the difference between e-mailing and instant messaging?",
+   "E-mail is a formal, store-and-forward medium needing an account; instant messaging is informal, real time and uses a messenger program or app."
+  ],
+  [
+   "How is replying a mail different from forwarding a mail?",
+   "Reply sends a response to the sender with the address filled automatically; forward sends the same mail to some other user whose address must be typed."
+  ],
+  [
+   "List any three advantages of E-mail.",
+   "Fast, available anywhere and any time; one mail can go to many recipients; files of any type can be attached."
+  ],
+  [
+   "List any four E-etiquettes while composing a mail.",
+   "Write a short clear subject; do not use uppercase; use a polite salutation; mention attachments; end with a signature; spell-check before sending (any four)."
+  ],
+  [
+   "What is the difference between CC and BCC?",
+   "CC sends a visible copy to another person; BCC sends a copy whose recipients are not visible to others."
+  ],
+  [
+   "How can WhatsApp Web be used?",
+   "Open https://web.whatsapp.com in a browser and scan the QR code with the phone (connected to internet); the chats then appear on the computer."
+  ]
+ ],
+ "q3": [
+  [
+   "Explain the features of Skype, Facebook Messenger and WhatsApp.",
+   "Skype: video conferencing, messaging, conference calls and chat history. Facebook Messenger: messages, calls, files and Messenger Kids. WhatsApp: text, voice and video calls, group chats, location sharing and WhatsApp Web."
+  ],
+  [
+   "Write the steps to compose and send a mail with an attachment.",
+   "Click Compose; enter the recipient address, subject and message; click the Paperclip icon; select the file and click Open; wait for the progress bar; click Send (Ctrl+Enter)."
+  ],
+  [
+   "Explain the E-etiquettes to be followed while replying to a mail.",
+   "Reply within 24 hours; do not reply to spam or suspected fraud; answer each query precisely; scan attachments before downloading; do not overuse Reply to All."
+  ],
+  [
+   "Explain how to create a new e-mail account using Gmail.",
+   "Open the browser and type www.gmail.com; click Create account; fill the registration form with user name, password, name, address, date of birth and phone; accept the terms and conditions; the account is created."
+  ],
+  [
+   "Write any six e-mail etiquettes while composing.",
+   "No confidential information; professional font; clear short subject; no capital letters; polite salutation; mention attachment; closing phrase and signature; spell-check before sending."
+  ],
+  [
+   "Poonam wants to send a file rep.docx to her teacher by e-mail. Write the steps.",
+   "Sign in to Gmail; click Compose; enter the teacher's address and subject; type a short message; click the Paperclip, select rep.docx, click Open; click Send."
+  ]
+ ]
+}

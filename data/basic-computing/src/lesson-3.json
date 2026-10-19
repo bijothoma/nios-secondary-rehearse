@@ -1,0 +1,57 @@
+{
+ "lesson": 3, "title": "Introduction to Internet", "module": 1,
+ "summary": [
+  "## Internet and intranet",
+  "The Internet ('Net') is a global network of networks that lets anyone with a device and a connection communicate across the world. An intranet is a private network designed for a particular group of people, such as the employees of a company, who are given a user id and password; it is not open to the public. In simple terms the internet is a public space and an intranet a private space.",
+  "## Connecting to the internet",
+  "Requirements: a digital device (computer or laptop) with a web browser, a modem or router and an account with an Internet Service Provider (ISP). A modem (Modulator-Demodulator) converts a digital signal into an analog signal for telephone lines (modulation) and analog back into digital (demodulation); it links the device and the ISP. An ISP is a company that offers internet services for a fee (MTNL, BSNL). When connecting, the user id and password are checked. A web browser is software for viewing web pages; a web page is a document written in HTML (Hypertext Markup Language); the World Wide Web (www) is the collection of billions of web pages on connected computers.",
+  "Wired versus wireless: wired connections are cheaper to install, more secure and have a steady signal but the workstations are fixed and installation becomes difficult as computers increase; wireless installation is easy and flexible within the range of the access point, but costs more (adaptors, access points), has limited and varying signal strength and is less secure because signals can be intercepted. Wired examples: dial-up (modem dials the ISP's number over a landline; cheap and slow; phone and internet cannot be used together), DSL (Digital Subscriber Line; two lines, 'Always On', 128 Kbps to 50 Mbps) and cable connection (cable modem over cable TV lines, 512 Kbps to 100 Mbps). Wireless examples: satellite (10 to 50 Mbps), Wi-Fi (Wireless Fidelity; local area network using high-frequency radio signals or infrared over short distances at homes, hotels, malls and airports) and WiMax (Worldwide Interoperability for Microwave Access; very high speed, radio signals or microwaves, range up to 30 miles or about 50 km).",
+  "Mobile connections: a mobile phone accesses the internet through cellular towers or through wireless modems (Wi-Fi/WiMax). 2G carried text data only; 3G raised speed up to 200 kbps and brought video calls and GPS; 4G offers up to 100 Mbps for mobile users and 1 Gbps for fixed users, enabling high-quality audio/video, gaming, HD mobile TV and cloud computing.",
+  "## Surfing the net and how the internet works",
+  "The www works on client-server architecture: the computer is the client that sends a request, a web address typed in the address bar, to the server of the ISP, which returns the page; hyperlinks connect pages, and moving from page to page is called surfing the net. Each computer has a unique IP address. Rules for transferring data are called protocols; the two most important are TCP (Transmission Control Protocol) and IP (Internet Protocol). TCP breaks the data into fixed-size packets, IP gives each packet the IP addresses of the sender and receiver, the packets travel from network to network, and TCP reassembles them at the destination; lost or garbled packets are requested again.",
+  "## Web browsers",
+  "A web browser is software that reads and interprets HTML documents on the www; examples are Internet Explorer, Mozilla Firefox, Safari and Google Chrome. Features: address bar (type the address and click Go or press Enter); navigation buttons – Back (previous page), Forward (next page), Refresh (reloads the page from the server), Stop (stops downloading) and Home (opens the home page); Favourites/Bookmarks (store frequently visited pages in folders); History (recently visited pages, by default saved for 20 days, sortable by date, site name or visits); Tools (save, print, view a page). Internet Explorer: by Microsoft, free with Windows, first released with Windows 95 in 1995. Mozilla Firefox: free, open source, by Mozilla Corporation, released in 2002, for Windows, MacOS and Linux. Google Chrome: by Google Inc., released in 2008; it has a 'Customize and Control Google Chrome' button instead of Home, Favourites and History buttons.",
+  "## Search engines",
+  "A search engine is a tool (a set of programs) that finds information on the web; examples are Google, Bing, Yahoo! and MSN Search. Keywords or phrases are entered in the search box or address bar; the search engine sends a spider to retrieve matching pages, images, audio or video, and the list shown is the Search Engine Results Page (SERP).",
+  "## Do's and don'ts",
+  "Do: log in with your id and password, be a responsible user and respect privacy, use the internet only when needed, inform parents or teachers if someone bullies you, keep antivirus updated and scan downloads, use public monitored chat rooms with an alias, shop only on secure sites, block people who make you uncomfortable. Don't: give personal information, share your user-id and password (change them regularly), tag friends in awkward photos, post objectionable content, spread rumours, be rude, meet an online friend alone, open attachments from unknown sources, or let the browser remember passwords."
+ ],
+ "q1": [
+  ["Expand TCP/IP.", "Transmission Control Protocol / Internet Protocol."],
+  ["Expand HTML.", "Hypertext Markup Language."],
+  ["Name any two wireless internet connections.", "Satellite, Wi-Fi, WiMax (any two)."],
+  ["What does ISP stand for?", "Internet Service Provider."],
+  ["What does the Refresh button of a web browser do?", "It reloads the web page from the server."],
+  ["Expand SERP.", "Search Engine Results Page."],
+  ["Name any two web browsers.", "Internet Explorer, Mozilla Firefox, Google Chrome, Safari (any two)."],
+  ["Which web browser comes free with the Windows operating system?", "Microsoft Internet Explorer."],
+  ["What is a modem?", "Modulator-Demodulator, a device that converts digital signals to analog and back and links a device to the ISP."],
+  ["Name two ISPs in India.", "BSNL and MTNL."],
+  ["Which protocol breaks data into packets?", "TCP (Transmission Control Protocol)."],
+  ["What is the unique identity of a computer on a network called?", "IP address."],
+  ["Which wired connection is called 'Always On'?", "DSL (Digital Subscriber Line)."]
+ ],
+ "q2": [
+  ["What is a Search Engine? Name any two search engines.", "A search engine is a tool or set of programs that finds information on the web from keywords entered; examples are Google and Bing.", ["April 2024"]],
+  ["Define the following: (i) Microsoft Internet Explorer (ii) Google Chrome", "(i) Internet Explorer: a free web browser from Microsoft that comes with Windows, first released in 1995. (ii) Google Chrome: a popular web browser from Google released in 2008 for Windows, Linux, MacOS, iOS and Android.", ["October 2024"]],
+  ["Define (i) Surfing the Net.", "Moving from one web page to another through hyperlinks to find information or complete a task is called surfing the net.", ["October 2024"]],
+  ["Differentiate between Internet and Intranet.", "The Internet is a public worldwide network open to everyone; an intranet is a private network of an organization limited to authorised users with ids and passwords."],
+  ["List the requirements to access the Internet.", "A digital device with a web browser, a modem or router and an account with an ISP."],
+  ["Give two differences between wired and wireless connections.", "Wired is more secure and has steady signal but fixed workstations; wireless is flexible within range but less secure and signal strength weakens with distance."],
+  ["Differentiate between Wi-Fi and WiMax.", "Wi-Fi covers short distances using high-frequency radio or infrared waves in a LAN; WiMax gives very high speed over a range up to 50 km using radio signals or microwaves."],
+  ["Define the following: (i) Web page (ii) Web site.", "(i) Web page: a document written in HTML that can be viewed in a browser. (ii) Web site: a collection of related web pages."],
+  ["What is the use of Favourites and History buttons of a web browser?", "Favourites (bookmarks) store frequently visited pages for quick access; History lists recently visited pages so they can be opened again."],
+  ["How can a mobile phone access the Internet?", "Through cellular towers using mobile data (2G/3G/4G) or through wireless modems such as Wi-Fi and WiMax."],
+  ["Sohail wants to search information on festivals of India. List the steps.", "Step 1: Open a web browser. Step 2: Open a search engine such as Google. Step 3: Type 'festivals of India' in the search box. Step 4: Press Enter or click Search. Step 5: Click a link in the results."],
+  ["Name any three actions that should not be done while surfing the net.", "Do not share your password, do not give personal information to strangers, do not open attachments from unknown sources."]
+ ],
+ "q3": [
+  ["What is a Web Browser? Name any two and write the importance of navigation buttons of a web browser.", "A web browser is software that reads HTML and displays web pages, e.g. Google Chrome and Mozilla Firefox. Back shows the previous page, Forward the next page, Refresh reloads the page, Stop halts downloading and Home opens the home page.", ["April 2026"]],
+  ["Explain the working of the Internet.", "Each computer has a unique IP address. Data is divided into packets by TCP, IP adds the sender's and receiver's addresses, packets travel across networks and TCP reassembles them at the destination; lost packets are re-sent.", ["April 2025"]],
+  ["Define the following: (i) Intranet (ii) Wired connection (iii) History feature of a web browser.", "(i) Intranet: a private network for a particular group such as an organization's employees. (ii) Wired connection: connecting devices to the modem with cables. (iii) History: a list of recently visited pages (saved by default for 20 days) which can be sorted by date, site or visits.", ["October 2025"]],
+  ["Explain the different types of wired internet connections.", "Dial-up: modem dials the ISP over a landline, cheap but slow. DSL: uses two lines, always on, 128 Kbps to 50 Mbps. Cable: cable modem over TV cable, 512 Kbps to 100 Mbps."],
+  ["Explain the wireless internet connections and mobile generations.", "Satellite (10–50 Mbps), Wi-Fi (short-range radio) and WiMax (high speed up to 50 km). Mobile data: 2G text only, 3G up to 200 kbps with video calls, 4G up to 100 Mbps for audio/video, gaming and cloud."],
+  ["Explain how a search engine works.", "Keywords are typed in the search box; the search engine sends a spider to retrieve pages, images or media that match; the matching list, SERP, is displayed and clicking a link opens the page."],
+  ["List any six do's and don'ts of using the internet.", "Do: use secure sites for shopping, scan downloads, respect privacy. Don't: share passwords, post objectionable content, open files from unknown sources, meet online friends alone."]
+ ]
+}

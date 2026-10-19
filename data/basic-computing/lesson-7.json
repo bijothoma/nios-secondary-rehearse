@@ -1,0 +1,241 @@
+{
+  "subject": "basic-computing",
+  "lesson": 7,
+  "title": "Digital Storage",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Answer in one line.",
+      "marks": "13 × 1 = 13",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "open",
+          "q": "Name any two cloud storage services.",
+          "answer": "Google Drive, Dropbox, OneDrive (any two).",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "1.2",
+          "type": "open",
+          "q": "Write the full form of SSD.",
+          "answer": "Secondary Storage Device (as used in the textbook)."
+        },
+        {
+          "id": "1.3",
+          "type": "open",
+          "q": "Write the full form of NAS.",
+          "answer": "Network Attached Storage."
+        },
+        {
+          "id": "1.4",
+          "type": "open",
+          "q": "Which of these is an optical storage device: hard disk, tape, Blu-ray disk, punch card?",
+          "answer": "Blu-ray disk."
+        },
+        {
+          "id": "1.5",
+          "type": "open",
+          "q": "What is online storage?",
+          "answer": "Storage that is currently connected to the computer."
+        },
+        {
+          "id": "1.6",
+          "type": "open",
+          "q": "What is offline storage?",
+          "answer": "Any storage that is not currently connected to the computer."
+        },
+        {
+          "id": "1.7",
+          "type": "open",
+          "q": "What is the default place where data is stored on a computer?",
+          "answer": "The hard drive (secondary storage)."
+        },
+        {
+          "id": "1.8",
+          "type": "open",
+          "q": "Name the online storage that needs internet connectivity.",
+          "answer": "Cloud storage."
+        },
+        {
+          "id": "1.9",
+          "type": "open",
+          "q": "Which storage was used in earlier times through punching machines?",
+          "answer": "Punch cards."
+        },
+        {
+          "id": "1.10",
+          "type": "open",
+          "q": "State true or false: Secondary memory is temporary storage.",
+          "answer": "False; secondary memory is permanent storage."
+        },
+        {
+          "id": "1.11",
+          "type": "open",
+          "q": "Which memory in the hierarchy is the fastest?",
+          "answer": "Register (processor) memory."
+        },
+        {
+          "id": "1.12",
+          "type": "open",
+          "q": "Where do you see files shared by others in Google Drive?",
+          "answer": "In the 'Shared with me' section."
+        },
+        {
+          "id": "1.13",
+          "type": "open",
+          "q": "What is the purpose of data backup in cloud storage?",
+          "answer": "To keep copies of files so they can be recovered if deleted or corrupted."
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Short answer questions. Answer in 30–50 words.",
+      "marks": "12 × 2 = 24",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "What is a Hard disk? Explain its structure and working process.",
+          "answer": "A hard disk is the most common secondary storage device. It has many disks stacked on a cylindrical spindle; data is stored magnetically in concentric tracks; read/write heads on an arm move across the disks to read or write data.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "How can you broadly categorize the digital storage in terms of Memory Hierarchy?",
+          "answer": "Internal memory (registers and cache), main memory (RAM), on-line mass storage (secondary storage) and off-line bulk storage (tertiary and offline storage).",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "Describe any 4 core characteristics of storage device technologies on the basis of which they are differentiated.",
+          "answer": "Volatility (data kept after power off), mutability (read, write, overwrite), accessibility (random or sequential), capacity, performance, security and energy use (any four).",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Write the steps to create a personal workspace to store, organise and share files using Google Drive.",
+          "answer": "Step 1: Go to drive.google.com and log in with the Google account. Step 2: Upload files or create files/folders by right-clicking a blank area. Step 3: Right-click the file, choose Share, enter e-mail IDs and set the permission (view, edit, comment).",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "State True or False: (i) Tertiary storage devices provide large capacity at low cost. (ii) Blu-ray disc is an optical storage device. (iii) Primary storage stores data permanently. (iv) RAM is tertiary memory.",
+          "answer": "(i) True. (ii) True. (iii) False – primary storage is temporary. (iv) False – RAM is primary (main) memory.",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "Define cloud storage. Write any two benefits of using cloud storage.",
+          "answer": "Cloud storage is online storage on the web that needs internet. Benefits: files can be accessed anytime and anywhere; it works as a backup; it allows sharing and collaboration; it saves hardware cost (any two).",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "2.7",
+          "type": "open",
+          "q": "Define digital storage.",
+          "answer": "The process of storing data electronically on a storage medium in devices such as computers and smartphones."
+        },
+        {
+          "id": "2.8",
+          "type": "open",
+          "q": "Differentiate between online and offline storage.",
+          "answer": "Online storage is currently connected to the computer (e.g. hard disk); offline storage is not connected (e.g. a CD kept on a shelf or a tape)."
+        },
+        {
+          "id": "2.9",
+          "type": "open",
+          "q": "Name any two large size, large capacity digital storage devices that are affordable.",
+          "answer": "Hard drives and magnetic tapes."
+        },
+        {
+          "id": "2.10",
+          "type": "open",
+          "q": "Write advantages of cloud storage (any four).",
+          "answer": "Anytime anywhere access, backup and recovery, security with login, cost saving, easy sharing and collaboration."
+        },
+        {
+          "id": "2.11",
+          "type": "open",
+          "q": "Explain the importance of the collaboration feature of cloud storage with an example.",
+          "answer": "Many people can work on a document at the same time from different places; for example, classmates can edit a Google Docs project together over the internet."
+        },
+        {
+          "id": "2.12",
+          "type": "open",
+          "q": "Match: (i) RAM (ii) Tape backup (iii) Flash memory with (a) small size, large capacity (b) medium size, medium capacity (c) large size, very large capacity.",
+          "answer": "(i)–(b); (ii)–(c); (iii)–(a)."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Answer the questions. Answer in 50–80 words.",
+      "marks": "6 × 3 = 18",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "Explain the features (characteristics) of a digital storage.",
+          "answer": "Volatility, mutability, accessibility, addressability, capacity, performance, security and energy use are used to compare storage technologies in the hierarchy."
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "Explain the benefits of cloud storage.",
+          "answer": "Usability and accessibility; recovery as backup; security through login; cost saving; easy sharing with permissions; automatic data backup; and collaboration by multiple users in real time."
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "Explain the storage hierarchy from register to magnetic tape.",
+          "answer": "Registers and cache are small, very fast and very expensive; RAM is medium and fast; flash/USB is large and cheap but slower; hard drives have very large capacity and are slow; magnetic tapes are very large, very slow and affordable."
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "Write the steps to use Google Drive to upload, share and organize files.",
+          "answer": "Go to drive.google.com; upload a file or create files by right-clicking in a white space; right-click the file, choose Share, add e-mail IDs and permissions; use Shared with me to see others' files."
+        },
+        {
+          "id": "3.5",
+          "type": "open",
+          "q": "Describe the types of digital storage devices used from earlier times till now.",
+          "answer": "Punch cards; magnetic storage (tapes, floppy disk, hard disk); optical storage (CD, DVD, Blu-ray); USB flash drives; and network storage (NAS, cloud)."
+        },
+        {
+          "id": "3.6",
+          "type": "open",
+          "q": "Explain how cloud storage helps in the case of a system failure, with an example.",
+          "answer": "A user who saves files on cloud storage can log in from another system and access them anytime, so work is not lost; e.g. an office assistant whose computer fails can still share the document."
+        }
+      ]
+    }
+  ]
+}

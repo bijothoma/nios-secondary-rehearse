@@ -1,0 +1,187 @@
+{
+ "lesson": 10,
+ "title": "Securing the Computer System",
+ "module": 4,
+ "summary": [
+  "## Cyber security",
+  "Cyber security (Information Technology Security or Cyber Safety) is the processes, practices and techniques that protect devices, networks, data and programs from attack, damage or unauthorized access. Unauthorized access is a cyber crime (online transaction fraud, online stalking, identity theft, child pornography) punishable under the Indian Penal Code. Need: data is available to everyone and must be protected from unauthorized access, copying and distribution; organizational data must not leak to competitors; personal data on social media is prone to hacking; and cyber attacks and digital spying threaten national security.",
+  "## Steps to secure your system",
+  "Always password protect your system, applications and files: do not share passwords, do not use the same password for all applications, make it strong with alphabets, digits and special characters, do not use initials, date of birth or pet's name, keep it 8–10 characters and use a password manager. Always update the operating system, antivirus and other software (updates add features and close security loopholes). Always pay attention to security warnings. Always install original antivirus: antivirus software protects the system from viruses, worms, Trojans and other malware; it does not give 100% assurance, so use only original antivirus and update it regularly. Never open unsolicited mails or click links in them. Download authenticated, reputable software from the official site and ignore ads. Scan files before downloading. Enable the firewall: a barrier between your computer/network and the internet that blocks data communication by closing all ports; hardware firewall (built into home routers) or software firewall (built into the OS; enable through Control Panel, System and Security); antivirus often includes one. Adjust browser settings (block cookies, ads, location access; options are disabled by default; in Chrome use the Customize and Control Google Chrome button). Use anti-spy software: spyware secretly gathers information such as banking and card details and sends it to a third party. Back up your data on a secondary storage device or the cloud. Uninstall programs no longer in use (safer and faster).",
+  "## Cyber law",
+  "Cyber law (Internet Law, IT Law, Law of the Internet) deals with legal issues of electronic devices, internet and related services: online privacy, intellectual property, freedom of expression, internet usage, online transaction frauds. Cyber crime is any unlawful act using digital devices connected to the internet: online fraud (credit card theft, identity theft), copyright infringement (unauthorized download and usage), defamation (fake public statements harming reputation), cyber stalking and cyber bullying, business ethics (trade secrets protected) and identity theft.",
+  "The IT Act 2000 (based on the Indian Penal Code 1860, Indian Evidence Act 1872, Bankers' Books Evidence Act 1891 and RBI Act 1934) is the primary law for cyber crime and e-commerce in India. Salient features: legal recognition of electronic transactions and of digital signatures; facilitates online correspondence with government (file returns, pay taxes, apply for passports and Aadhaar); allows electronic storage of data; allows online money transfer; defines offences, penalties and breaches; lays down trial procedure; penalties for damaging computer systems and cyber terrorism; Section 66A made offensive messages illegal. Report a cyber crime to the cyber cell of the local police station or online at the cyber crime portal (cybercrime.gov.in), where anonymous complaints are possible. Advantages: addresses security of data and services; encourages healthy trade practices under legal provisions; digital signatures make exchange of authenticated documents easy; improves e-governance.",
+  "## E-waste management",
+  "E-waste (electronic waste) is old electric or electronic devices no longer in use (computers, laptops, mobiles, tablets). In a landfill it leaches toxic chemicals which contaminate groundwater and drinking water. Waste Electrical and Electronic Equipment (WEEE) is a major threat. Harmful effects: lead (monitors, batteries) causes lead poisoning, harming brain development, the central nervous system and kidneys; mercury causes respiratory disorders and brain damage; plastics damage the immune system and cause stress and anxiety; burning motherboards produces beryllium, which causes lung cancer, skin diseases and allergies; cadmium is also toxic. Efficient disposal is e-waste management; the most feasible methods are recycling (e-waste converted into reusable material; dismantle to extract copper, gold; wear gloves and masks), refurbishing (renovating and selling again at lower prices) and re-use (using a device again after slight modification). The government should set up recycling units, arrange safe storage, encourage research, enforce strict laws and punish open burning, acid baths and landfill dumping. More than 55 million tonnes of e-waste is generated globally every year."
+ ],
+ "q1": [
+  [
+   "What is the role of an Antivirus software?",
+   "It protects the system from viruses, worms, Trojans and other malware.",
+   [
+    "October 2025"
+   ]
+  ],
+  [
+   "What is the function of Antivirus Program?",
+   "To detect, block and remove viruses and other malware from the computer.",
+   [
+    "October 2024"
+   ]
+  ],
+  [
+   "Define cyber crime and give examples.",
+   "Cyber crime is any unlawful act done using digital devices connected to the internet; examples are online fraud, identity theft, cyber bullying and copyright infringement.",
+   [
+    "April 2025"
+   ]
+  ],
+  [
+   "Define 'Recycling' with reference to E-waste management.",
+   "Recycling is converting e-waste into something that can be used again, by dismantling devices and extracting metals like copper and gold.",
+   [
+    "April 2025"
+   ]
+  ],
+  [
+   "What is the full form of WEEE?",
+   "Waste Electrical and Electronic Equipment.",
+   [
+    "April 2026"
+   ]
+  ],
+  [
+   "Which are the most feasible methods of E-waste management?",
+   "Recycling, refurbishing and re-use.",
+   [
+    "April 2026"
+   ]
+  ],
+  [
+   "Define E-waste management.",
+   "The efficient disposal of e-waste in a way that is less harmful to people and the environment.",
+   [
+    "October 2024"
+   ]
+  ],
+  [
+   "List two harmful effects of E-waste.",
+   "Lead causes brain and kidney damage; mercury causes respiratory disorders and brain damage; it pollutes air, water and soil (any two).",
+   [
+    "April 2024"
+   ]
+  ],
+  [
+   "What precautions are to be taken for password protection of a system? Mention two points.",
+   "Do not share passwords and do not use the same password for all applications; make it strong with letters, digits and special characters.",
+   [
+    "April 2024"
+   ]
+  ],
+  [
+   "Which chemical is created when a motherboard is burnt?",
+   "Beryllium."
+  ],
+  [
+   "What acts as a barrier between a computer and the internet?",
+   "A firewall."
+  ],
+  [
+   "What is spyware?",
+   "A malware designed to secretly gather information from a system and send it to a third party."
+  ],
+  [
+   "Which Act is the primary cyber law in India?",
+   "The IT Act 2000."
+  ],
+  [
+   "Name the process in which electronics are sold again at lower prices.",
+   "Refurbishing."
+  ]
+ ],
+ "q2": [
+  [
+   "What is an Antivirus software? What precaution must one take while using any antivirus program?",
+   "Antivirus software protects the system from viruses and malware. Precautions: install only original antivirus, update it regularly, and remember it gives no 100% assurance so also scan files and avoid unknown links.",
+   [
+    "April 2026"
+   ]
+  ],
+  [
+   "How do mercury and plastic material found in E-waste harm the human body?",
+   "Mercury causes respiratory disorders and brain damage; plastics react with air and moisture, damage the immune system and cause stress and anxiety.",
+   [
+    "October 2025"
+   ]
+  ],
+  [
+   "Define cyber security.",
+   "The processes, practices and techniques to protect devices, networks, data and programs from attack, damage or unauthorized access."
+  ],
+  [
+   "Why is cyber security important? Give three points.",
+   "Data is available to everyone and needs protection; organizational data must not be leaked; personal information on social media can be hacked; national security needs protection from digital spying (any three)."
+  ],
+  [
+   "What points should be kept in mind while setting passwords?",
+   "Do not share it, use different passwords for different applications, use letters, digits and special characters, avoid initials and date of birth, keep it 8–10 characters."
+  ],
+  [
+   "Name any four salient features of the IT Act 2000.",
+   "Legal recognition of electronic transactions; legal recognition of digital signatures; online correspondence with government; legal electronic storage of data; penalties for cyber crime (any four)."
+  ],
+  [
+   "Write any two advantages of Cyber Law.",
+   "It addresses security of data and services; it encourages healthy trade; digital signatures make exchange of documents easy; it improves e-governance (any two)."
+  ],
+  [
+   "Why should e-waste not be dumped in a landfill?",
+   "Toxic chemicals leach out and contaminate groundwater and soil, which may reach drinking water."
+  ],
+  [
+   "Differentiate between recycling and refurbishing.",
+   "Recycling converts e-waste into reusable material by extracting metals; refurbishing renovates the device and sells it again at a lower price."
+  ],
+  [
+   "What is a firewall? How is it enabled?",
+   "A firewall (hardware or software) acts as a barrier between the computer or network and the internet; it can be enabled through Control Panel, System and Security."
+  ],
+  [
+   "How can a cyber crime be reported?",
+   "To the cyber cell of the local police station or online at the cyber crime portal, where complaints can be anonymous."
+  ],
+  [
+   "Why should we back up our data and uninstall unused programs?",
+   "A backup on secondary storage or cloud saves data if the system is hacked or the disk crashes; uninstalling unused programs keeps the system secure and faster."
+  ]
+ ],
+ "q3": [
+  [
+   "Explain the steps to be taken to secure your system (any six).",
+   "Password protect the system; update OS and software; heed security warnings; install original antivirus; do not open unsolicited mails; download from official sites; scan files; enable the firewall; adjust browser settings; use anti-spyware; back up data."
+  ],
+  [
+   "Explain the acts that come under cyber crime.",
+   "Online fraud such as credit card theft, copyright infringement, defamation, cyber stalking and bullying, violation of business trade secrets and identity theft."
+  ],
+  [
+   "Explain the salient features of the IT Act 2000.",
+   "It gives legal recognition to electronic transactions and digital signatures, allows online dealings with government and online money transfer, permits electronic records, and lists offences, penalties and trial procedure including cyber terrorism."
+  ],
+  [
+   "Explain the harmful effects of e-waste.",
+   "Lead damages the brain, nervous system and kidneys; mercury causes respiratory problems and brain damage; plastics harm the immune system and cause stress; burning produces beryllium that causes lung cancer, skin diseases and allergies."
+  ],
+  [
+   "Explain the methods of e-waste management.",
+   "Recycling converts e-waste to reusable material; refurbishing renovates devices and sells them cheaply; re-use means using the device again after slight modification. The government should set up recycling units and enforce laws."
+  ],
+  [
+   "Explain the need for cyber security.",
+   "Data is accessible to all so must be protected; organizations share confidential data; personal data on social sites can be hacked; cyber attacks threaten national security."
+  ],
+  [
+   "What is a firewall and what are spyware and its protection?",
+   "A firewall blocks communication between a device and the internet to protect from threats; spyware secretly collects bank and card details; anti-spy software, often built into antivirus, protects against spyware, adware and Trojans."
+  ]
+ ]
+}

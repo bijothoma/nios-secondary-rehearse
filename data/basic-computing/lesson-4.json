@@ -1,0 +1,332 @@
+{
+  "subject": "basic-computing",
+  "lesson": 4,
+  "title": "Digital Documentation",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Answer in one line.",
+      "marks": "13 × 1 = 13",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "open",
+          "q": "Name any one open source word processor.",
+          "answer": "OpenOffice Writer (or LibreOffice Writer)."
+        },
+        {
+          "id": "1.2",
+          "type": "open",
+          "q": "What is the default file extension of an MS Word 2013 document?",
+          "answer": ".docx"
+        },
+        {
+          "id": "1.3",
+          "type": "open",
+          "q": "What is the shortcut key to print a document?",
+          "answer": "Ctrl + P."
+        },
+        {
+          "id": "1.4",
+          "type": "open",
+          "q": "What is the shortcut key to start Spelling and Grammar check?",
+          "answer": "F7."
+        },
+        {
+          "id": "1.5",
+          "type": "open",
+          "q": "Which tab contains the command to insert page numbers?",
+          "answer": "The Insert tab."
+        },
+        {
+          "id": "1.6",
+          "type": "open",
+          "q": "The vertical blinking line in the work area of MS Word is called ______.",
+          "answer": "The insertion point (cursor)."
+        },
+        {
+          "id": "1.7",
+          "type": "open",
+          "q": "On which tab do you find the commands to set margins?",
+          "answer": "The Page Layout tab."
+        },
+        {
+          "id": "1.8",
+          "type": "open",
+          "q": "What is the shortcut key to open the Find and Replace dialog box?",
+          "answer": "Ctrl + F (the Replace option is on the Home tab)."
+        },
+        {
+          "id": "1.9",
+          "type": "open",
+          "q": "Which software has freely available source code: proprietary or open source?",
+          "answer": "Open source software."
+        },
+        {
+          "id": "1.10",
+          "type": "open",
+          "q": "Name any two online word processing tools.",
+          "answer": "Google Docs and Zoho (also Etherpad, Dropbox Paper)."
+        },
+        {
+          "id": "1.11",
+          "type": "open",
+          "q": "What is the use of Mail Merge?",
+          "answer": "To send personalized letters or invitations to many people."
+        },
+        {
+          "id": "1.12",
+          "type": "open",
+          "q": "What is the shortcut key to make selected text bold?",
+          "answer": "Ctrl + B."
+        },
+        {
+          "id": "1.13",
+          "type": "open",
+          "q": "What is the blank space at the beginning of a paragraph called?",
+          "answer": "Indentation."
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Short answer questions. Answer in 30–50 words.",
+      "marks": "14 × 2 = 28",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "Write any four features of a word processor.",
+          "answer": "It allows inserting text, images and tables; cut, copy, paste and delete; saving and modifying documents; formatting text (bold, italic, colour, size); Find and Replace; Spelling and Grammar check; OLE and Mail Merge.",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "What do you understand by proprietary and open source word processing tools?",
+          "answer": "Proprietary tools (MS Word) are owned by a company and must be purchased; the source code cannot be copied or modified. Open source tools (OpenOffice Writer) have free source code that can be downloaded, edited and redistributed.",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "Define a word processor.",
+          "answer": "An application used to create, edit, format, save and print documents containing text, images, lists and tables."
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Give one difference between a proprietary and an open source software.",
+          "answer": "Proprietary software must be bought and its source code is closed; open source software can be downloaded free and its source code can be edited and shared."
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "Define an online document and name two online word processing tools.",
+          "answer": "A document created and stored on the internet using an online word processor and shareable in real time; Google Docs and Zoho."
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "Give one difference between a document created in MS Word 2013 and in Google Docs.",
+          "answer": "An MS Word document is saved on the computer using Save; a Google Docs document is saved automatically on Google Drive and can be edited collaboratively online."
+        },
+        {
+          "id": "2.7",
+          "type": "open",
+          "q": "Write the steps to save a document in MS Word for the first time.",
+          "answer": "Step 1: Click File, Save As. Step 2: Click Browse and choose the drive and folder. Step 3: Type the file name in the File Name box. Step 4: Click Save."
+        },
+        {
+          "id": "2.8",
+          "type": "open",
+          "q": "Write the steps to print a document.",
+          "answer": "Click File, Print (Ctrl+P), choose the number of copies and the printer, set pages and orientation, then click Print."
+        },
+        {
+          "id": "2.9",
+          "type": "open",
+          "q": "Differentiate between copying and moving text.",
+          "answer": "Copying duplicates the text so it exists at both places; moving deletes it from the old place and pastes it at the new one (Cut and Paste)."
+        },
+        {
+          "id": "2.10",
+          "type": "open",
+          "q": "Differentiate between a header and a footer.",
+          "answer": "A header is information placed at the top of every page; a footer is information placed at the bottom (page number, date, author)."
+        },
+        {
+          "id": "2.11",
+          "type": "open",
+          "q": "Write the steps to insert line spacing and indentation in a paragraph.",
+          "answer": "Select the paragraph; click Increase Indent in the Paragraph section of the Home tab; click the arrow near Line and Paragraph Spacing and choose the value."
+        },
+        {
+          "id": "2.12",
+          "type": "open",
+          "q": "Latisha's name is underlined by a red wavy line though correctly spelt. What should she do?",
+          "answer": "Right-click on the word and choose Add to Dictionary so the wavy line no longer appears."
+        },
+        {
+          "id": "2.13",
+          "type": "open",
+          "q": "Write the steps to share a Google Docs document with two friends.",
+          "answer": "Click Share; type the two e-mail addresses; choose the permission (view, edit or comment) from the Permissions arrow; add a note; click Send."
+        },
+        {
+          "id": "2.14",
+          "type": "open",
+          "q": "Differentiate between Sentence Case and Capitalize Each Word.",
+          "answer": "Sentence case capitalizes only the first letter of the sentence; Capitalize Each Word capitalizes the first letter of every word."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Answer the questions. Answer in 50–80 words.",
+      "marks": "8 × 3 = 24",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "Explain the components of the MS Word 2013 window.",
+          "answer": "Title bar shows document and application name; Ribbon has tabs and command groups; Quick Access Toolbar has Save, Undo, Redo; work area has the insertion point; rulers set margins and indents; scroll bars navigate; status bar shows word count and page number."
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "Explain the three types of formatting in MS Word.",
+          "answer": "Character formatting changes font style, size, colour, bold, italic, underline and case; paragraph formatting sets alignment, indents and line spacing; page formatting sets margins, orientation and page size in the Page Layout tab."
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "Write the steps to find a word and replace it with another word in a document.",
+          "answer": "Click Replace in the Editing section of the Home tab; type the word in Find what; type the new word in Replace with; click Replace for one occurrence or Replace All for all occurrences."
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "Explain the Spelling and Grammar check feature.",
+          "answer": "Word marks spelling errors with a red wavy line; right-click gives suggestions; the Review tab's Spelling and Grammar (F7) shows a pane with Change, Change All, Add, Ignore and Ignore All; a message shows when the check is complete."
+        },
+        {
+          "id": "3.5",
+          "type": "open",
+          "q": "Write the steps to insert a header, a footer and page numbers.",
+          "answer": "Insert tab, Header and Footer section: click Header, choose a layout, type the text, double-click the document; click Footer similarly; click Page Number, choose location and style."
+        },
+        {
+          "id": "3.6",
+          "type": "open",
+          "q": "Explain how to create an online document in Google Docs.",
+          "answer": "Open the browser, type docs.google.com/document, sign in with the Gmail account, click Blank (+), name the document in the Untitled Document box and type the text; it saves automatically to Google Drive."
+        },
+        {
+          "id": "3.7",
+          "type": "open",
+          "q": "Explain the different alignments and the page orientations.",
+          "answer": "Text can be Left, Center, Right or Justify aligned. Portrait page is taller than wide; landscape page is wider than tall; both are set in Page Setup."
+        },
+        {
+          "id": "3.8",
+          "type": "open",
+          "q": "How can text be selected using the keyboard? Give any three shortcuts.",
+          "answer": "Hold Shift and press arrow keys; Shift+End selects to the end of the line, Shift+Home to the beginning of the line, Ctrl+A selects the whole document."
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Word-processing task: write the steps for each part.",
+      "marks": "10 × 4 = 40",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "With reference to the given paragraphs, write the steps for doing the following.\n\nWeather is the condition of the atmosphere at a particular place and time, including factors like temperature, wind and rainfall. It changes quickly and affects our activities, mood and environment.\n\nClimate is the average weather pattern of a place over a long period of time, usually decades. It helps us understand seasonal changes and prepare for future environmental conditions.\n\n(a) Make the first paragraph left aligned and the second paragraph right aligned.\n(b) Make the text of the first paragraph Uppercase and the second paragraph Sentence case.\n(c) Increase the line spacing from Single to Double for the entire text.\n(d) Make the first word of each paragraph Bold and Italics.",
+          "answer": "(a) Step 1: Click inside the first paragraph and click Align Left on the Home tab. Step 2: Click inside the second paragraph and click Align Right.\n(b) Step 1: Select the first paragraph, click Change Case in the Font section of the Home tab and choose UPPERCASE. Step 2: Select the second paragraph, click Change Case and choose Sentence case.\n(c) Step 1: Press Ctrl+A to select all the text. Step 2: Click Line and Paragraph Spacing in the Paragraph section and choose 2.0.\n(d) Step 1: Select the first word of the first paragraph and click Bold (Ctrl+B) and Italic (Ctrl+I). Step 2: Repeat for the first word of the second paragraph.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "Consider the following document created in MS-Word and write the steps.\n\nArtificial Intelligence (AI) is a revolutionary technology that enables machines to think, learn and act like humans. Problem solving, decision making and language understanding have become easy using AI systems. AI is transforming industries and the way we live and work.\n\n(i) Change the case of the paragraph to uppercase.\n(ii) Align the paragraph text to the right margin.\n(iii) Add a header to the document.\n(iv) Decrease the font size from 12 points to 8 points.",
+          "answer": "(i) Select the paragraph; on the Home tab click Change Case in the Font section; choose UPPERCASE.\n(ii) Select the paragraph; click Align Right in the Paragraph section of the Home tab.\n(iii) Click the Insert tab; in the Header and Footer section click Header; choose a layout; type the header text; double-click the document body.\n(iv) Select the paragraph; in the Font section click the Font Size box arrow and choose 8 (or click Decrease Font Size).",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "Consider the following document created in MS Word and answer.\n\nTemple Town Bhubaneswar\nThe Mukteswara temple is located in the city of Bhubaneswar and is known for its intricate carvings.\nRajrani temple in Bhubner attracts tourists for its ornate sculptures that depict anecdotes from Hindu mythology.\nLingraj temple in Bhubaneswar is dedicated to Lord Shiva and the temple's architecture is a blend of Kalinga and Dravidian styles.\n\n(a) Write the steps to align the second paragraph as right aligned and the third paragraph as justified.\n(b) Change the first paragraph to upper case.\n(c) Find the word Bhubner and replace it with Bhubaneswar.\n(d) Change the line spacing of the text to double.",
+          "answer": "(a) Click in the second paragraph and click Align Right; click in the third paragraph and click Justify (Home tab, Paragraph).\n(b) Select the first paragraph, Home tab, Change Case, UPPERCASE.\n(c) Home tab, Replace; type Bhubner in Find what and Bhubaneswar in Replace with; click Replace All.\n(d) Select all the text (Ctrl+A); click Line and Paragraph Spacing and choose 2.0.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "Consider the following document in MS Word.\n\nThere is a fruit seller who sits at the corner of a big house which belongs to a very rich man. Every day the fruit seller used to bring 10 fruits named Apple, Orange, Papaya, Pomegranate, Grapes, Guava, Dates, Kiwi, Coconut and Bananas.\n\nOne day the fruit seller fell ill and his son who was only 12 years old came to the rich person and asked to buy some fruits.\n\n(i) Write the steps to create a numbered list for the 10 fruit names in paragraph 1.\n(ii) Write the steps for saving this document as 'story 1' in the folder 'short stories'.\n(iii) Write the steps to copy the first paragraph, paste it at the end of the document and change its colour to red.\n(iv) Write the steps to add the heading 'The story of a fruit seller' in all capitals, bold, underlined and centre aligned.",
+          "answer": "(i) Place each fruit name on a new line, select them, click the arrow near Numbering in the Paragraph section of the Home tab and choose a numbering style.\n(ii) Click File, Save As, Browse; open the folder short stories; type story 1 in File Name; click Save.\n(iii) Select paragraph 1, click Copy (Ctrl+C) in Clipboard; press Ctrl+End; click Paste (Ctrl+V); select the pasted text, click the arrow near Font Color and choose red.\n(iv) Place the cursor at the start, type the heading and select it; click Change Case, UPPERCASE; click Bold, Underline and Center on the Home tab.",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "4.5",
+          "type": "open",
+          "q": "(i) Write any four features of a word processor. (ii) What do you understand by proprietary and open source word processing tools?",
+          "answer": "(i) Create documents with text, images, lists and tables; cut, copy, paste and delete; format text (bold, italic, size, colour) and paragraphs; Find and Replace, Spelling and Grammar check, Mail Merge, OLE. (ii) Proprietary tools, e.g. MS Word, are owned by a company and bought for a fee without source code. Open source tools, e.g. OpenOffice Writer, have free source code that can be downloaded, edited and distributed.",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "4.6",
+          "type": "open",
+          "q": "Consider the following text in MS Word: 'Our school will celebrate Annual Day on 15 December. all students must attend.'\n(a) Write the steps to make the text Capitalize Each Word. (b) Write the steps to make the text bold and centre aligned. (c) Write the steps to insert a footer with page number. (d) Write the steps to save the document as 'notice' on the desktop.",
+          "answer": "(a) Select the text, Home tab, Change Case, Capitalize Each Word.\n(b) Select the text, click Bold (Ctrl+B) and Center on the Home tab.\n(c) Insert tab, Page Number, Bottom of Page, choose a style (or Footer, choose layout and type text).\n(d) File, Save As, Browse, choose Desktop, type notice in File Name, click Save."
+        },
+        {
+          "id": "4.7",
+          "type": "open",
+          "q": "A paragraph on 'Water Conservation' is typed in MS Word. Write the steps to (a) set the left and right margins to 1 inch, (b) change the page orientation to landscape, (c) increase the indent of the paragraph, (d) print 2 copies.",
+          "answer": "(a) Page Layout tab, Page Setup, Margins, Custom Margins, set Left and Right to 1\" and click OK.\n(b) Page Layout tab, Orientation, Landscape.\n(c) Select the paragraph and click Increase Indent in the Paragraph section.\n(d) File, Print, set Copies to 2, choose the printer, click Print."
+        },
+        {
+          "id": "4.8",
+          "type": "open",
+          "q": "A list of subjects is typed in MS Word: English, Maths, Science, Computing. Write the steps to (a) make it a bulleted list, (b) change it to a numbered list, (c) check the spelling of the document, (d) copy the list and paste it below.",
+          "answer": "(a) Select the list, click the arrow near Bullets and choose a bullet.\n(b) With the list selected click the arrow near Numbering and choose a style.\n(c) Review tab, Spelling and Grammar (F7), accept suggestions with Change or Change All.\n(d) Select the list, click Copy, click below the list and click Paste."
+        },
+        {
+          "id": "4.9",
+          "type": "open",
+          "q": "Write the steps to create a new document in Google Docs, name it 'Notes', type a paragraph and share it with a friend with permission to comment.",
+          "answer": "Step 1: Open the browser and go to docs.google.com/document; sign in. Step 2: Click Blank (+). Step 3: Click Untitled Document, type Notes, press Enter. Step 4: Type the paragraph (it saves automatically). Step 5: Click Share, type the friend's e-mail, choose Can comment under Permissions, click Send."
+        },
+        {
+          "id": "4.10",
+          "type": "open",
+          "q": "In an MS Word document with a paragraph about 'Digital India', write the steps to (a) find the word 'digital' and replace all with 'Digital', (b) underline the heading, (c) insert a header with your name, (d) close the document without saving.",
+          "answer": "(a) Home tab, Replace, Find what: digital, Replace with: Digital, click Replace All.\n(b) Select the heading and click Underline (Ctrl+U).\n(c) Insert tab, Header, choose a layout, type your name, double-click the document.\n(d) File, Close, click Don't Save in the message box."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,259 @@
+{
+  "subject": "basic-computing",
+  "lesson": 1,
+  "title": "Introduction to Computer System",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Answer in one line.",
+      "marks": "13 × 1 = 13",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "open",
+          "q": "Name the device which can identify characters printed with special magnetic ink and is used in banking.",
+          "answer": "MICR (Magnetic Ink Character Recognition).",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "1.2",
+          "type": "open",
+          "q": "How many bytes are equal to one kilobyte?",
+          "answer": "1 kilobyte = 1024 bytes.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "1.3",
+          "type": "open",
+          "q": "Identify the scanner and the monitor from the following devices: OCR, LED, CRT, OMR.",
+          "answer": "OCR (and OMR) are scanning input devices; LED and CRT are monitors. Scanner: OCR; monitor: LED (or CRT).",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "1.4",
+          "type": "open",
+          "q": "Identify hardware and software among the following: MS-Office, Mouse, Windows-7, Keyboard.",
+          "answer": "Hardware: Mouse and Keyboard. Software: MS-Office and Windows-7.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "1.5",
+          "type": "open",
+          "q": "Classify the hardware and software among the following: Monitor, Windows, MS Office, CPU.",
+          "answer": "Hardware: Monitor and CPU. Software: Windows and MS Office.",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "1.6",
+          "type": "open",
+          "q": "Expand EEPROM.",
+          "answer": "Electrically Erasable Programmable Read Only Memory.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "1.7",
+          "type": "open",
+          "q": "Identify flash memories and optical disks among the following: CD-ROM, DVD, SD Card, Pendrive.",
+          "answer": "Flash memories: SD Card and Pendrive. Optical disks: CD-ROM and DVD.",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "1.8",
+          "type": "open",
+          "q": "What is the 'brain of the computer'?",
+          "answer": "The Central Processing Unit (CPU), since it controls the complete working of the computer."
+        },
+        {
+          "id": "1.9",
+          "type": "open",
+          "q": "Name the four main components of a computer.",
+          "answer": "Input devices, Central Processing Unit, memory and output devices."
+        },
+        {
+          "id": "1.10",
+          "type": "open",
+          "q": "What does OMR stand for and where is it used?",
+          "answer": "Optical Mark Recognition; it assesses objective (multiple-choice) examinations by sensing pencil marks."
+        },
+        {
+          "id": "1.11",
+          "type": "open",
+          "q": "Which input device is used in supermarkets to read the price of a product?",
+          "answer": "A bar code reader."
+        },
+        {
+          "id": "1.12",
+          "type": "open",
+          "q": "Which memory is volatile: RAM or ROM?",
+          "answer": "RAM; it loses its data when power is switched off."
+        },
+        {
+          "id": "1.13",
+          "type": "open",
+          "q": "Name the memory that holds the BIOS.",
+          "answer": "ROM (Read Only Memory)."
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Short answer questions. Answer in 30–50 words.",
+      "marks": "12 × 2 = 24",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "What are the functions of the following? (i) Thermal printer (ii) Plotter",
+          "answer": "(i) Thermal printer: produces images by pushing electrically heated pins against heat-sensitive paper; used in fax machines. (ii) Plotter: draws charts, graphs, maps and engineering drawings with automated pens.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Explain the function of the following: (i) Pendrive (ii) MICR",
+          "answer": "(i) Pendrive: a small portable flash storage device connected through a USB port to store and carry data. (ii) MICR: reads characters printed in magnetic ink, as on bank cheques.",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "Define the following: (i) DVD (ii) Memory card",
+          "answer": "(i) DVD (Digital Versatile Disk): an optical disk storing up to 4.7 GB on one side, used for movies and audio-video files. (ii) Memory card: a flash memory card such as an SD card used in cameras and mobile phones.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Explain the function of the following: (i) Barcode reader (ii) Microphone",
+          "answer": "(i) Barcode reader: scans the bar code of a product to show its description and price. (ii) Microphone: a speech input device that converts speech into digital form.",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "Differentiate between hardware and software.",
+          "answer": "Hardware is the physical component (CPU, keyboard) that can be touched; software is a set of programs with logical existence (operating system, MS-Office). Both are needed; software links the user and hardware."
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "Differentiate between RAM and ROM.",
+          "answer": "RAM is read/write and volatile; ROM is read only and non-volatile, holding permanent programs such as the BIOS."
+        },
+        {
+          "id": "2.7",
+          "type": "open",
+          "q": "What is cache memory? Why is it used?",
+          "answer": "A small, very fast memory placed between CPU and main memory that stores frequently used data and instructions; it speeds up execution because the CPU is faster than main memory."
+        },
+        {
+          "id": "2.8",
+          "type": "open",
+          "q": "Explain the four functions of a computer.",
+          "answer": "Receive input from devices like keyboard, process information with arithmetic and logical operations, store information on devices like hard disk, and produce output through monitor or printer."
+        },
+        {
+          "id": "2.9",
+          "type": "open",
+          "q": "Differentiate between primary and secondary memory.",
+          "answer": "Primary memory is accessed directly by the CPU, is fast, costly and loses its data on power off; secondary memory is slower, cheaper, larger and stores data permanently (hard disk, CD, pen drive)."
+        },
+        {
+          "id": "2.10",
+          "type": "open",
+          "q": "Differentiate between a CRT monitor and a TFT-LCD monitor.",
+          "answer": "A CRT monitor is bulky, takes more desk space and consumes more electricity; a TFT-LCD (flat screen) is light, thin and consumes much less electricity."
+        },
+        {
+          "id": "2.11",
+          "type": "open",
+          "q": "What is an OCR? Why is it used?",
+          "answer": "Optical Character Recognition reads text from paper and converts the image into characters the computer can edit, to digitise books, magazines and printed documents."
+        },
+        {
+          "id": "2.12",
+          "type": "open",
+          "q": "What is flash memory? Give two examples.",
+          "answer": "A non-volatile memory chip that retains data without power and is erased in blocks; examples are USB pen drive and SD card."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Answer the questions. Answer in 50–80 words.",
+      "marks": "7 × 3 = 21",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "Describe the various types of printers.",
+          "answer": "Dot matrix: an impact printer whose head strikes an inked ribbon to form dot characters. Ink-jet: non-impact, sprays ionized ink, about 300 dpi, better quality. Laser: non-impact page printer using a laser beam, drum and toner; 4–20 pages per minute. Thermal: heated pins on heat-sensitive paper, cheap, used in fax machines."
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "Explain the parts of the CPU.",
+          "answer": "The Control Unit directs and coordinates all units, fetches and decodes instructions. The Arithmetic Logic Unit does arithmetic (addition, subtraction, multiplication) and logical (AND, OR, NOT) operations. Memory registers are high-speed storage areas holding data and instructions temporarily during processing."
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "Explain the types of ROM.",
+          "answer": "PROM can be programmed once by the user and never changed; EPROM can be erased with ultraviolet light and reprogrammed; EEPROM is erased with electrical signals and can be partially modified."
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "Describe the types of optical disks.",
+          "answer": "CD-ROM is read-only and holds over 600 MB; CD-R can be written once; CD-R/W can be written and erased repeatedly; a DVD stores about 4.7 GB per side and is used for movies."
+        },
+        {
+          "id": "3.5",
+          "type": "open",
+          "q": "Explain hard disk, magnetic tape and flash memory as secondary storage.",
+          "answer": "A hard disk has stacked disks with tracks and read/write heads and stores large data with quick access. Magnetic tape stores large volumes cheaply on mainframes. Flash memory is non-volatile, erased in blocks, used in pen drives and memory cards."
+        },
+        {
+          "id": "3.6",
+          "type": "open",
+          "q": "Describe the input devices OCR, MICR and OMR.",
+          "answer": "OCR converts printed text into digital form; MICR reads magnetic ink characters on bank cheques; OMR senses pencil marks on answer sheets of objective examinations."
+        },
+        {
+          "id": "3.7",
+          "type": "open",
+          "q": "Explain how memory capacity is measured. Convert 64 KB into bytes.",
+          "answer": "Memory is measured in bits, bytes (8 bits), KB (1024 bytes), MB, GB and TB. 64 KB = 64 x 1024 = 32,768 bytes."
+        }
+      ]
+    }
+  ]
+}

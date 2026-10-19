@@ -1,0 +1,244 @@
+{
+  "subject": "basic-computing",
+  "lesson": 3,
+  "title": "Introduction to Internet",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Answer in one line.",
+      "marks": "13 × 1 = 13",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "open",
+          "q": "Expand TCP/IP.",
+          "answer": "Transmission Control Protocol / Internet Protocol."
+        },
+        {
+          "id": "1.2",
+          "type": "open",
+          "q": "Expand HTML.",
+          "answer": "Hypertext Markup Language."
+        },
+        {
+          "id": "1.3",
+          "type": "open",
+          "q": "Name any two wireless internet connections.",
+          "answer": "Satellite, Wi-Fi, WiMax (any two)."
+        },
+        {
+          "id": "1.4",
+          "type": "open",
+          "q": "What does ISP stand for?",
+          "answer": "Internet Service Provider."
+        },
+        {
+          "id": "1.5",
+          "type": "open",
+          "q": "What does the Refresh button of a web browser do?",
+          "answer": "It reloads the web page from the server."
+        },
+        {
+          "id": "1.6",
+          "type": "open",
+          "q": "Expand SERP.",
+          "answer": "Search Engine Results Page."
+        },
+        {
+          "id": "1.7",
+          "type": "open",
+          "q": "Name any two web browsers.",
+          "answer": "Internet Explorer, Mozilla Firefox, Google Chrome, Safari (any two)."
+        },
+        {
+          "id": "1.8",
+          "type": "open",
+          "q": "Which web browser comes free with the Windows operating system?",
+          "answer": "Microsoft Internet Explorer."
+        },
+        {
+          "id": "1.9",
+          "type": "open",
+          "q": "What is a modem?",
+          "answer": "Modulator-Demodulator, a device that converts digital signals to analog and back and links a device to the ISP."
+        },
+        {
+          "id": "1.10",
+          "type": "open",
+          "q": "Name two ISPs in India.",
+          "answer": "BSNL and MTNL."
+        },
+        {
+          "id": "1.11",
+          "type": "open",
+          "q": "Which protocol breaks data into packets?",
+          "answer": "TCP (Transmission Control Protocol)."
+        },
+        {
+          "id": "1.12",
+          "type": "open",
+          "q": "What is the unique identity of a computer on a network called?",
+          "answer": "IP address."
+        },
+        {
+          "id": "1.13",
+          "type": "open",
+          "q": "Which wired connection is called 'Always On'?",
+          "answer": "DSL (Digital Subscriber Line)."
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Short answer questions. Answer in 30–50 words.",
+      "marks": "12 × 2 = 24",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "What is a Search Engine? Name any two search engines.",
+          "answer": "A search engine is a tool or set of programs that finds information on the web from keywords entered; examples are Google and Bing.",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Define the following: (i) Microsoft Internet Explorer (ii) Google Chrome",
+          "answer": "(i) Internet Explorer: a free web browser from Microsoft that comes with Windows, first released in 1995. (ii) Google Chrome: a popular web browser from Google released in 2008 for Windows, Linux, MacOS, iOS and Android.",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "Define (i) Surfing the Net.",
+          "answer": "Moving from one web page to another through hyperlinks to find information or complete a task is called surfing the net.",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Differentiate between Internet and Intranet.",
+          "answer": "The Internet is a public worldwide network open to everyone; an intranet is a private network of an organization limited to authorised users with ids and passwords."
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "List the requirements to access the Internet.",
+          "answer": "A digital device with a web browser, a modem or router and an account with an ISP."
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "Give two differences between wired and wireless connections.",
+          "answer": "Wired is more secure and has steady signal but fixed workstations; wireless is flexible within range but less secure and signal strength weakens with distance."
+        },
+        {
+          "id": "2.7",
+          "type": "open",
+          "q": "Differentiate between Wi-Fi and WiMax.",
+          "answer": "Wi-Fi covers short distances using high-frequency radio or infrared waves in a LAN; WiMax gives very high speed over a range up to 50 km using radio signals or microwaves."
+        },
+        {
+          "id": "2.8",
+          "type": "open",
+          "q": "Define the following: (i) Web page (ii) Web site.",
+          "answer": "(i) Web page: a document written in HTML that can be viewed in a browser. (ii) Web site: a collection of related web pages."
+        },
+        {
+          "id": "2.9",
+          "type": "open",
+          "q": "What is the use of Favourites and History buttons of a web browser?",
+          "answer": "Favourites (bookmarks) store frequently visited pages for quick access; History lists recently visited pages so they can be opened again."
+        },
+        {
+          "id": "2.10",
+          "type": "open",
+          "q": "How can a mobile phone access the Internet?",
+          "answer": "Through cellular towers using mobile data (2G/3G/4G) or through wireless modems such as Wi-Fi and WiMax."
+        },
+        {
+          "id": "2.11",
+          "type": "open",
+          "q": "Sohail wants to search information on festivals of India. List the steps.",
+          "answer": "Step 1: Open a web browser. Step 2: Open a search engine such as Google. Step 3: Type 'festivals of India' in the search box. Step 4: Press Enter or click Search. Step 5: Click a link in the results."
+        },
+        {
+          "id": "2.12",
+          "type": "open",
+          "q": "Name any three actions that should not be done while surfing the net.",
+          "answer": "Do not share your password, do not give personal information to strangers, do not open attachments from unknown sources."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Answer the questions. Answer in 50–80 words.",
+      "marks": "7 × 3 = 21",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "What is a Web Browser? Name any two and write the importance of navigation buttons of a web browser.",
+          "answer": "A web browser is software that reads HTML and displays web pages, e.g. Google Chrome and Mozilla Firefox. Back shows the previous page, Forward the next page, Refresh reloads the page, Stop halts downloading and Home opens the home page.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "Explain the working of the Internet.",
+          "answer": "Each computer has a unique IP address. Data is divided into packets by TCP, IP adds the sender's and receiver's addresses, packets travel across networks and TCP reassembles them at the destination; lost packets are re-sent.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "Define the following: (i) Intranet (ii) Wired connection (iii) History feature of a web browser.",
+          "answer": "(i) Intranet: a private network for a particular group such as an organization's employees. (ii) Wired connection: connecting devices to the modem with cables. (iii) History: a list of recently visited pages (saved by default for 20 days) which can be sorted by date, site or visits.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "Explain the different types of wired internet connections.",
+          "answer": "Dial-up: modem dials the ISP over a landline, cheap but slow. DSL: uses two lines, always on, 128 Kbps to 50 Mbps. Cable: cable modem over TV cable, 512 Kbps to 100 Mbps."
+        },
+        {
+          "id": "3.5",
+          "type": "open",
+          "q": "Explain the wireless internet connections and mobile generations.",
+          "answer": "Satellite (10–50 Mbps), Wi-Fi (short-range radio) and WiMax (high speed up to 50 km). Mobile data: 2G text only, 3G up to 200 kbps with video calls, 4G up to 100 Mbps for audio/video, gaming and cloud."
+        },
+        {
+          "id": "3.6",
+          "type": "open",
+          "q": "Explain how a search engine works.",
+          "answer": "Keywords are typed in the search box; the search engine sends a spider to retrieve pages, images or media that match; the matching list, SERP, is displayed and clicking a link opens the page."
+        },
+        {
+          "id": "3.7",
+          "type": "open",
+          "q": "List any six do's and don'ts of using the internet.",
+          "answer": "Do: use secure sites for shopping, scan downloads, respect privacy. Don't: share passwords, post objectionable content, open files from unknown sources, meet online friends alone."
+        }
+      ]
+    }
+  ]
+}

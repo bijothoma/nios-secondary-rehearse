@@ -1,0 +1,209 @@
+{
+  "subject": "basic-computing",
+  "lesson": 901,
+  "title": "Model Question Paper 1",
+  "meta": "Time: 2 hours · Maximum marks: 40 · Modelled on the April 2026 NIOS paper",
+  "instructions": [
+    "All questions are compulsory and carry marks as indicated against each question.",
+    "Questions 1–8 carry 1 mark, questions 9–16 carry 2 marks, questions 17–20 carry 3 marks and question 21 carries 4 marks.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Answer in one line.",
+      "marks": "8 × 1 = 8",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "open",
+          "q": "Define Instant Messaging Service.",
+          "answer": "A service that enables messages to be sent and received in real time through any digital device with an internet connection.",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 8."
+        },
+        {
+          "id": "1.2",
+          "type": "open",
+          "q": "What is the maximum number of characters in a tweet?",
+          "answer": "280 characters.",
+          "note": "Lesson 9."
+        },
+        {
+          "id": "1.3",
+          "type": "open",
+          "q": "Define 'Recycling' with reference to E-waste management.",
+          "answer": "Recycling is converting e-waste into something that can be used again, by dismantling devices and extracting metals like copper and gold.",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 10."
+        },
+        {
+          "id": "1.4",
+          "type": "open",
+          "q": "What is UPI?",
+          "answer": "Unified Payment Interface, a unique identifier used by banks to transfer money and make payments using IMPS.",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 11."
+        },
+        {
+          "id": "1.5",
+          "type": "open",
+          "q": "What is assistive technology?",
+          "answer": "Any tool, software or technique used by persons with disabilities to perform tasks that would otherwise be difficult.",
+          "note": "Lesson 12."
+        },
+        {
+          "id": "1.6",
+          "type": "open",
+          "q": "How should you dress while dealing with customers?",
+          "answer": "Formally, neat and well groomed.",
+          "note": "Lesson 13."
+        },
+        {
+          "id": "1.7",
+          "type": "open",
+          "q": "What is defragmentation?",
+          "answer": "Rearranging fragmented files on the hard disk to improve its performance.",
+          "note": "Lesson 14."
+        },
+        {
+          "id": "1.8",
+          "type": "open",
+          "q": "Which document helps to prioritize daily work?",
+          "answer": "A 'To Do' list.",
+          "note": "Lesson 15."
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Short answer questions. Answer in 30–50 words.",
+      "marks": "8 × 2 = 16",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "What do you mean by the term attachment while sending an E-mail? Write the steps to attach a file with your E-mail message.",
+          "answer": "An attachment is a file (text, picture, audio, video) sent along with an e-mail. Steps: Compose, enter recipient, subject and message, click Paperclip, select the file, Open, then Send.",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 8."
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Define the following: (i) Social Networking (ii) Blog (iii) Digital footprints (any two for 2 marks).",
+          "answer": "(i) Social networking: linking and sharing with people through websites or apps. (ii) Blog: an online diary or journal website. (iii) Digital footprint: the trail of data left after using the internet.",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 9."
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "Why is cyber security important? Give three points.",
+          "answer": "Data is available to everyone and needs protection; organizational data must not be leaked; personal information on social media can be hacked; national security needs protection from digital spying (any three).",
+          "note": "Lesson 10."
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "List the government initiated E-services in the field of education.",
+          "answer": "SWAYAM, NROER, National Digital Library of India (NDLI) and DigiLocker for certificates.",
+          "note": "Lesson 11."
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "What do you mean by assistive technology?",
+          "answer": "Tools, software or techniques that let persons with disabilities do tasks which would otherwise be difficult.",
+          "note": "Lesson 12."
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "List the basic communication skills required while interacting with the customer.",
+          "answer": "Active listening, not interrupting, clear words, courtesy, formal tone, positive statements, noting the preferred mode of communication.",
+          "note": "Lesson 13."
+        },
+        {
+          "id": "2.7",
+          "type": "open",
+          "q": "What are the preliminary measures to ensure the system is working properly?",
+          "answer": "Restart the machine, keep OS, drivers and software updated with patches, and install a good antivirus.",
+          "note": "Lesson 14."
+        },
+        {
+          "id": "2.8",
+          "type": "open",
+          "q": "How does ineffective work management lead to anger?",
+          "answer": "It creates stress due to missed deadlines, which when not managed gets converted into anger.",
+          "note": "Lesson 15."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Answer the questions. Answer in 50–80 words.",
+      "marks": "4 × 3 = 12",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "Explain the desktop elements of Windows.",
+          "answer": "Start button opens programs, search and shut down; the task bar shows open programs; the Computer icon shows drives and hardware; the Network icon shows connections; the Recycle Bin holds deleted files.",
+          "note": "Lesson 2."
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "Write the steps to compose and send a mail with an attachment.",
+          "answer": "Click Compose; enter the recipient address, subject and message; click the Paperclip icon; select the file and click Open; wait for the progress bar; click Send (Ctrl+Enter).",
+          "note": "Lesson 8."
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "Explain SWAYAM, NROER and NDLI.",
+          "answer": "SWAYAM offers courses with content and quizzes for all levels; NROER is a repository of open educational resources under Creative Commons; NDLI integrates digital libraries with study material in more than 70 languages.",
+          "note": "Lesson 11."
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "Explain the options of Control Panel categories: (i) System and Security (ii) Network and Internet (iii) Hardware and Sound.",
+          "answer": "(i) Action Center, Windows Update, Power Options, Backup and Restore, Administrative Tools, Windows Firewall and BitLocker. (ii) Network and Sharing Center, Homegroup, Internet Options. (iii) Devices and Printers, AutoPlay, Sound, Power Options, Display.",
+          "years": [
+            "October 2024"
+          ],
+          "note": "Lesson 14."
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Word-processing task: write the steps for each part.",
+      "marks": "1 × 4 = 4",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "With reference to the given paragraphs, write the steps for doing the following.\n\nWeather is the condition of the atmosphere at a particular place and time, including factors like temperature, wind and rainfall. It changes quickly and affects our activities, mood and environment.\n\nClimate is the average weather pattern of a place over a long period of time, usually decades. It helps us understand seasonal changes and prepare for future environmental conditions.\n\n(a) Make the first paragraph left aligned and the second paragraph right aligned.\n(b) Make the text of the first paragraph Uppercase and the second paragraph Sentence case.\n(c) Increase the line spacing from Single to Double for the entire text.\n(d) Make the first word of each paragraph Bold and Italics.",
+          "answer": "(a) Step 1: Click inside the first paragraph and click Align Left on the Home tab. Step 2: Click inside the second paragraph and click Align Right.\n(b) Step 1: Select the first paragraph, click Change Case in the Font section of the Home tab and choose UPPERCASE. Step 2: Select the second paragraph, click Change Case and choose Sentence case.\n(c) Step 1: Press Ctrl+A to select all the text. Step 2: Click Line and Paragraph Spacing in the Paragraph section and choose 2.0.\n(d) Step 1: Select the first word of the first paragraph and click Bold (Ctrl+B) and Italic (Ctrl+I). Step 2: Repeat for the first word of the second paragraph.",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 4."
+        }
+      ]
+    }
+  ]
+}

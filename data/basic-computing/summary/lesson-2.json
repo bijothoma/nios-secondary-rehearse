@@ -1,0 +1,96 @@
+{
+  "subject": "basic-computing",
+  "lesson": 2,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 2: Operating System — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Windows 7 and the desktop"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "An operating system provides the interface between hardware and software and today uses a Graphical User Interface (GUI). Proprietary operating systems (Windows) need a licence; open source operating systems can be downloaded freely. After the login screen (enter the password and press Enter) the first screen is the Desktop. The most used desktop elements are the Start button, Task bar, Computer icon, Network icon and Recycle Bin icon."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Start button: choose installed programs, search programs or files, shut down. Start menu options: All Programs (list of installed programs), Documents, Pictures, Music, Computer (disk drives and hardware), Control Panel (change system settings, install or uninstall programs), Devices and Printers, Default Programs, Help and Support, Search box, and Switch User, Log Off, Lock, Restart and Sleep. Task bar: at the bottom of the screen; an icon appears for each running program or open window and disappears when it is closed; click an icon to switch between windows. To start a program: click Start, All Programs, choose the folder (e.g. Accessories) and the program (e.g. Calculator). To quit a program click the Close button or File, Close."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Getting help: Start, Help and Support, then type keywords. Locating files and folders: Start, search box, type the name in part or full. Changing system settings: Control Panel (Start, Control Panel, select the tool) is used to customize the look and working of Windows, install hardware, add or remove software, change the desktop and use administrative tools; User Account changes passwords of users. Computer icon shows drives (hard disk, CD-ROM, DVD, pen drive); double-click a drive to see its files."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "File management"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "File management in Windows is done through Windows Explorer or Computer. Windows Explorer displays the hierarchical list of files, folders and drives and is used to copy, move, rename and search files and folders. Deleted files from the hard disk go to the Recycle Bin until it is emptied; files deleted from removable media or network drives are permanently deleted. To open Windows Explorer: Start, All Programs, Accessories, Windows Explorer."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Copy a file or folder: open the folder, click the file (hold Shift for consecutive items, Ctrl for non-consecutive), Edit, Copy (Ctrl+C), select the target drive or folder, Edit, Paste (Ctrl+V). Move: drag to the destination (dragging to another disk copies; hold Shift to move; hold Ctrl to copy). View file details: Start, Documents, open the folder, View menu, Details (name, type, size). Create a new folder: File, New, Folder, type the name, Enter (or right-click blank area, New, Folder). Rename: click the file, File, Rename (or right-click, Rename), type the new name and press Enter. Delete: click the file, File, Delete (or right-click, Delete); to retrieve open the Recycle Bin, right-click the file and choose Restore; to delete permanently press Shift and delete."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Installing software and hardware"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Install software: obtain the licensed software (CD/DVD/USB) or download free software after checking that it is not malicious, double-click the setup (.exe) file, follow the instructions; use it from Start, All Programs. Uninstall: Start, Control Panel, Programs and Features, select the software, right-click, Uninstall. Install hardware: Start, Control Panel, Device Manager, right-click the root node, Add Legacy Hardware, follow the Add Hardware Wizard."
+        ]
+      ]
+    }
+  ]
+}

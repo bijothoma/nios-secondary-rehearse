@@ -1,0 +1,161 @@
+{
+ "lesson": 2,
+ "title": "Operating System",
+ "module": 1,
+ "summary": [
+  "## Windows 7 and the desktop",
+  "An operating system provides the interface between hardware and software and today uses a Graphical User Interface (GUI). Proprietary operating systems (Windows) need a licence; open source operating systems can be downloaded freely. After the login screen (enter the password and press Enter) the first screen is the Desktop. The most used desktop elements are the Start button, Task bar, Computer icon, Network icon and Recycle Bin icon.",
+  "Start button: choose installed programs, search programs or files, shut down. Start menu options: All Programs (list of installed programs), Documents, Pictures, Music, Computer (disk drives and hardware), Control Panel (change system settings, install or uninstall programs), Devices and Printers, Default Programs, Help and Support, Search box, and Switch User, Log Off, Lock, Restart and Sleep. Task bar: at the bottom of the screen; an icon appears for each running program or open window and disappears when it is closed; click an icon to switch between windows. To start a program: click Start, All Programs, choose the folder (e.g. Accessories) and the program (e.g. Calculator). To quit a program click the Close button or File, Close.",
+  "Getting help: Start, Help and Support, then type keywords. Locating files and folders: Start, search box, type the name in part or full. Changing system settings: Control Panel (Start, Control Panel, select the tool) is used to customize the look and working of Windows, install hardware, add or remove software, change the desktop and use administrative tools; User Account changes passwords of users. Computer icon shows drives (hard disk, CD-ROM, DVD, pen drive); double-click a drive to see its files.",
+  "## File management",
+  "File management in Windows is done through Windows Explorer or Computer. Windows Explorer displays the hierarchical list of files, folders and drives and is used to copy, move, rename and search files and folders. Deleted files from the hard disk go to the Recycle Bin until it is emptied; files deleted from removable media or network drives are permanently deleted. To open Windows Explorer: Start, All Programs, Accessories, Windows Explorer.",
+  "Copy a file or folder: open the folder, click the file (hold Shift for consecutive items, Ctrl for non-consecutive), Edit, Copy (Ctrl+C), select the target drive or folder, Edit, Paste (Ctrl+V). Move: drag to the destination (dragging to another disk copies; hold Shift to move; hold Ctrl to copy). View file details: Start, Documents, open the folder, View menu, Details (name, type, size). Create a new folder: File, New, Folder, type the name, Enter (or right-click blank area, New, Folder). Rename: click the file, File, Rename (or right-click, Rename), type the new name and press Enter. Delete: click the file, File, Delete (or right-click, Delete); to retrieve open the Recycle Bin, right-click the file and choose Restore; to delete permanently press Shift and delete.",
+  "## Installing software and hardware",
+  "Install software: obtain the licensed software (CD/DVD/USB) or download free software after checking that it is not malicious, double-click the setup (.exe) file, follow the instructions; use it from Start, All Programs. Uninstall: Start, Control Panel, Programs and Features, select the software, right-click, Uninstall. Install hardware: Start, Control Panel, Device Manager, right-click the root node, Add Legacy Hardware, follow the Add Hardware Wizard."
+ ],
+ "q1": [
+  [
+   "Start button, Task Bar, Computer icon and Network icon are most used ______ elements.",
+   "Desktop.",
+   [
+    "April 2025"
+   ]
+  ],
+  [
+   "Windows provides a quick and easy way to ______ new software and hardware programs.",
+   "Install.",
+   [
+    "October 2024"
+   ]
+  ],
+  [
+   "Name the feature of Windows which helps in file management.",
+   "Windows Explorer (or Computer).",
+   [
+    "April 2026"
+   ]
+  ],
+  [
+   "By using ______ tools you can customize the way Windows looks and works.",
+   "Control Panel.",
+   [
+    "April 2024"
+   ]
+  ],
+  [
+   "Where do deleted files from the hard disk go first?",
+   "Into the Recycle Bin."
+  ],
+  [
+   "What is the shortcut key to copy a selected file?",
+   "Ctrl + C."
+  ],
+  [
+   "Where does the task bar appear by default on the screen?",
+   "At the bottom of the screen."
+  ],
+  [
+   "Which key is pressed with the mouse to select non-consecutive files?",
+   "The Ctrl key."
+  ],
+  [
+   "Which key must be held to delete a file permanently?",
+   "The Shift key (Shift + Delete)."
+  ],
+  [
+   "What does the Computer icon show?",
+   "The disk drives (hard disk, CD/DVD, pen drive) and hardware connected to the computer."
+  ],
+  [
+   "Name the menu option that shows all installed programs.",
+   "All Programs in the Start menu."
+  ]
+ ],
+ "q2": [
+  [
+   "Ravi has created a file ABC and later wants to change its name to PROJECT_ABC. Write the steps.",
+   "Step 1: Open Windows Explorer/Documents and click the file ABC. Step 2: Under File choose Rename (or right-click, Rename). Step 3: Type PROJECT_ABC and press Enter.",
+   [
+    "April 2026"
+   ]
+  ],
+  [
+   "Amit has saved a file with the name C1 but later wants it renamed as chart 1. Write the steps.",
+   "Step 1: Select the file C1. Step 2: Right-click and choose Rename (or File, Rename). Step 3: Type chart 1 and press Enter.",
+   [
+    "April 2025"
+   ]
+  ],
+  [
+   "Reeta wants to copy a file ABC to a folder XYZ. Write the steps.",
+   "Step 1: Select the file ABC. Step 2: Click Edit, Copy (Ctrl+C). Step 3: Open the folder XYZ. Step 4: Click Edit, Paste (Ctrl+V).",
+   [
+    "October 2025"
+   ]
+  ],
+  [
+   "Shyam has created a file QRT1 in a folder SALES. Later he wants to view its details. Write the steps.",
+   "Step 1: Open the folder SALES through Start, Documents. Step 2: Click the View menu. Step 3: Click Details; name, type, size and date of QRT1 are displayed.",
+   [
+    "April 2024"
+   ]
+  ],
+  [
+   "Define the following: (i) Task Bar (ii) File management in Windows.",
+   "(i) Task bar: the bar at the bottom of the screen showing the Start button and an icon for every open program or window. (ii) File management: creating, copying, moving, renaming, deleting and searching files and folders using Windows Explorer or Computer.",
+   [
+    "October 2024"
+   ]
+  ],
+  [
+   "Write the steps to create a new folder.",
+   "Step 1: Open Windows Explorer. Step 2: Click File, New, Folder. Step 3: Type the folder name over 'New Folder' and press Enter. (Or right-click on blank space, New, Folder.)"
+  ],
+  [
+   "Write the steps to delete a file and to restore it.",
+   "Delete: select the file, File, Delete (or right-click, Delete). Restore: double-click the Recycle Bin, right-click the file and choose Restore."
+  ],
+  [
+   "Write the steps to uninstall a software.",
+   "Step 1: Click Start, Control Panel. Step 2: Choose Programs and Features. Step 3: Select the software. Step 4: Right-click and choose Uninstall."
+  ],
+  [
+   "Write the steps to search for a file or folder.",
+   "Click Start, type the full or part name of the file or folder in the search box, and the results are listed."
+  ],
+  [
+   "Write the steps to start a program such as Calculator.",
+   "Click Start, All Programs, Accessories, then click Calculator."
+  ],
+  [
+   "How can one get help in Windows?",
+   "Click Start and choose Help and Support, then type the keywords on which help is needed."
+  ],
+  [
+   "Differentiate between copying and moving a file.",
+   "Copying makes a duplicate and leaves the original in place; moving removes the file from the old place and puts it in the new location (drag with Shift or use Cut and Paste)."
+  ]
+ ],
+ "q3": [
+  [
+   "Explain the options in the Start menu.",
+   "All Programs lists installed programs; Documents, Pictures and Music open those folders; Computer shows drives; Control Panel changes settings; Devices and Printers lists hardware; Help and Support gives help; the search box finds files; Switch User, Log Off, Lock, Restart and Sleep manage the session."
+  ],
+  [
+   "Describe how to copy and move a file using Windows Explorer.",
+   "Open Windows Explorer, select the file. To copy: Edit, Copy, open the target, Edit, Paste. To move: drag it to the destination (Shift while dragging between disks) or use Cut and Paste. Ctrl selects non-consecutive and Shift consecutive files."
+  ],
+  [
+   "Explain how to install and uninstall a software.",
+   "Install: locate the setup (.exe) on CD/DVD/USB or after download, double-click it and follow the wizard; use it from All Programs. Uninstall: Start, Control Panel, Programs and Features, select the software, right-click, Uninstall."
+  ],
+  [
+   "Describe file management in Windows and the role of the Recycle Bin.",
+   "Windows Explorer and Computer show the hierarchy of drives, folders and files and let you copy, move, rename, delete and search. Deleted hard-disk files go to the Recycle Bin and can be restored until it is emptied; removable-media files are deleted permanently."
+  ],
+  [
+   "Explain the desktop elements of Windows.",
+   "Start button opens programs, search and shut down; the task bar shows open programs; the Computer icon shows drives and hardware; the Network icon shows connections; the Recycle Bin holds deleted files."
+  ]
+ ]
+}

@@ -1,0 +1,87 @@
+{
+  "subject": "basic-computing",
+  "lesson": 12,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 12: Assistive Technology for Differently-abled Person — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Assistive technology"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Assistive technology is any tool, software or technique that a person with disabilities can use to accomplish tasks that would otherwise be difficult; it is the bridge between the person with disability and Information and Communication Technology (ICT). Examples: software for people with low vision to type and read; computers with large keys for limited hand function; mobility aids (wheelchairs, scooters, walkers, canes, crutches, prosthetic and orthotic devices); hearing aids; cognitive aids for brain injury; voice identification programs, screen readers and screen enlargement applications; automatic page-turners, book holders and adapted pencil grips; closed captioning for movies and TV; adaptive switches for children with limited motor skills."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Types of disabilities"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Physical disability (related to body and sensory functions): blindness (cannot see), low vision (partial vision), hearing impairment (cannot hear or partial hearing). Mental disability (related to the brain): cerebral palsy (brain damage causing a movement disorder; multiple handicaps, hearing and speech defects, difficulty with fine motor tasks); autism (neurological behavioural problem; lacks social interaction and communication skills; uneven skill development); learning disability dyslexia (cannot understand what is read); dyspraxia (neurological disorder of coordinating, planning and carrying out motor movements); dysgraphia (learning disability affecting handwriting and fine motor skills; difficulty with spelling or writing); dyscalculia (difficulty with arithmetic calculations); ADHD (Attention Deficit and Hyperactivity Disorder: cannot pay attention or control behaviour; restless and hyperactive). A person with 40 per cent or more disability is categorized as a person with a disability."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Software assistive tools"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Screen readers read the screen content for blind or visually impaired users (JAWS, NVDA, VoiceOver). Screen magnification software enlarges text and images. Text readers read the text aloud and highlight the word being spoken for people who find reading difficult. Speech input software helps those who find typing difficult by voice commands (Dragon Naturally Speaking, Siri, Cortana). Braille translators convert text into braille notation and send it to a braille embosser to print."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Hardware assistive tools"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Braille printer/embosser: an impact printer that prints text as tactile braille dots on heavy paper. Reading devices for low vision: magnifiers, special high-power reading glasses and reading telescopes (mounted on eyeglass lenses). Video magnifiers: a desktop camera shows images in big size on the screen with adjustable magnification, brightness, contrast and colour. Portable electronic magnifiers: tablet-like devices that show enlarged text on an LED screen. Scanning devices. Digital talking books: electronic books stored as audio or video files; DAISY (Digital Accessible Information SYstem) is the technical standard for digital audio books, designed for blind, visually impaired and dyslexic users and for navigating the files. Other input devices: head pointer (a stick mounted on the head to press keys), motion or eye tracking, braille keyboard; trackball mice and joysticks for users who cannot use a standard mouse. Listening devices: Assistive Listening Device (ALD) and hearing aids help hearing-impaired persons separate speech from background noise and amplify sound."
+        ]
+      ]
+    }
+  ]
+}

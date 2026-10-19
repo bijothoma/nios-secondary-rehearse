@@ -1,0 +1,244 @@
+{
+  "subject": "basic-computing",
+  "lesson": 12,
+  "title": "Assistive Technology for Differently-abled Person",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Answer in one line.",
+      "marks": "13 × 1 = 13",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "open",
+          "q": "Define Dysgraphia.",
+          "answer": "A learning disability that affects handwriting and fine motor skills, with difficulty in spelling or writing.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "1.2",
+          "type": "open",
+          "q": "Define Autism.",
+          "answer": "A neurological behavioural problem in which a person lacks social interaction and communication skills and has uneven skill development.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "1.3",
+          "type": "open",
+          "q": "Name any two input devices which work as assistive tools for persons with disability.",
+          "answer": "Head pointer, braille keyboard, eye tracking device, trackball mouse (any two).",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "1.4",
+          "type": "open",
+          "q": "What does DAISY stand for?",
+          "answer": "Digital Accessible Information SYstem."
+        },
+        {
+          "id": "1.5",
+          "type": "open",
+          "q": "What does ALD stand for?",
+          "answer": "Assistive Listening Device."
+        },
+        {
+          "id": "1.6",
+          "type": "open",
+          "q": "What is assistive technology?",
+          "answer": "Any tool, software or technique used by persons with disabilities to perform tasks that would otherwise be difficult."
+        },
+        {
+          "id": "1.7",
+          "type": "open",
+          "q": "Which software reads the screen content for blind users? Give an example.",
+          "answer": "Screen reader, e.g. JAWS, NVDA or VoiceOver."
+        },
+        {
+          "id": "1.8",
+          "type": "open",
+          "q": "Name the disability in which a person cannot understand what he/she reads.",
+          "answer": "Dyslexia."
+        },
+        {
+          "id": "1.9",
+          "type": "open",
+          "q": "Name the disability related to difficulty in arithmetic calculations.",
+          "answer": "Dyscalculia."
+        },
+        {
+          "id": "1.10",
+          "type": "open",
+          "q": "Which device is a stick mounted on the head to press keys?",
+          "answer": "A head pointer."
+        },
+        {
+          "id": "1.11",
+          "type": "open",
+          "q": "Which printer prints text as tactile dots for the blind?",
+          "answer": "A braille printer (embosser)."
+        },
+        {
+          "id": "1.12",
+          "type": "open",
+          "q": "Name one speech input software.",
+          "answer": "Dragon Naturally Speaking (or Siri, Cortana)."
+        },
+        {
+          "id": "1.13",
+          "type": "open",
+          "q": "What does ADHD stand for?",
+          "answer": "Attention Deficit and Hyperactivity Disorder."
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Short answer questions. Answer in 30–50 words.",
+      "marks": "12 × 2 = 24",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "Ritu has dyslexia as well as impaired vision but wants to read and listen to books. Which hardware assistive tool will help her and how?",
+          "answer": "Digital talking books (DAISY player): books are converted to audio files that she can listen to and navigate, helping blind, visually impaired and dyslexic people.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "How is an assistive listening device useful for hearing impaired persons? Name two input devices which work as assistive tools.",
+          "answer": "An ALD helps a hard-of-hearing person separate speech from background noise and hear audio better. Input devices: head pointer and braille keyboard.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "Define the following: (i) Dysgraphia (ii) Autism.",
+          "answer": "(i) Dysgraphia: a learning disability affecting handwriting and fine motor skills. (ii) Autism: a neurological behavioural problem with poor social interaction and communication.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Explain the following assistive tools: (i) Text readers (ii) Braille translators.",
+          "answer": "(i) Text readers are software that read the text aloud and highlight the spoken word for people who find reading difficult. (ii) Braille translators are software that convert text into braille notation and send it to a braille embosser.",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "Define and describe digital talking books.",
+          "answer": "Digital talking books are electronic books stored as audio or video files; DAISY is the standard that converts books into audio for blind, visually impaired and dyslexic people and helps them navigate.",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "What do you mean by assistive technology?",
+          "answer": "Tools, software or techniques that let persons with disabilities do tasks which would otherwise be difficult."
+        },
+        {
+          "id": "2.7",
+          "type": "open",
+          "q": "Briefly explain the term 'person with disability'.",
+          "answer": "A person who needs assistance to perform tasks because of physical or mental disability (40 per cent or more disability)."
+        },
+        {
+          "id": "2.8",
+          "type": "open",
+          "q": "Give any four examples of assistive technology.",
+          "answer": "Screen reader, screen magnifier, braille keyboard, hearing aid, head pointer, text reader (any four)."
+        },
+        {
+          "id": "2.9",
+          "type": "open",
+          "q": "Differentiate between Dyspraxia and Dysgraphia.",
+          "answer": "Dyspraxia is difficulty in coordinating, planning and carrying out motor movements; dysgraphia is difficulty with handwriting, spelling and writing."
+        },
+        {
+          "id": "2.10",
+          "type": "open",
+          "q": "Differentiate between physical and mental disabilities with examples.",
+          "answer": "Physical disabilities relate to body and sensory functions, e.g. blindness, hearing impairment; mental disabilities relate to the brain, e.g. autism, dyslexia."
+        },
+        {
+          "id": "2.11",
+          "type": "open",
+          "q": "What is a video magnifier?",
+          "answer": "A desktop device with a camera lens that shows images in a bigger size on a screen with adjustable magnification, brightness, contrast and colour."
+        },
+        {
+          "id": "2.12",
+          "type": "open",
+          "q": "What is a braille embosser?",
+          "answer": "An impact printer that renders text as tactile braille dots, used with braille translation software."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Answer the questions. Answer in 50–80 words.",
+      "marks": "6 × 3 = 18",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "Explain the types of disabilities.",
+          "answer": "Physical disability: blindness, low vision, hearing impairment. Mental disability: cerebral palsy, autism, dyslexia, dyspraxia, dysgraphia, dyscalculia and ADHD."
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "Explain any three software assistive tools.",
+          "answer": "Screen readers read the screen for blind users; screen magnifiers enlarge text and images; text readers read out text and highlight words; speech input software lets users dictate and give commands; braille translators convert text to braille."
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "Explain the reading devices for people with low vision.",
+          "answer": "Magnifiers enlarge things; high-power reading glasses help read small print; reading telescopes mounted on glasses enlarge text; video and portable electronic magnifiers display enlarged images."
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "Explain the other input devices for persons who cannot use a mouse or keyboard.",
+          "answer": "Head pointers press keys from a stick on the head; eye or motion tracking follows a target; braille keyboards allow typing with braille dots; trackball mice and joysticks help with physical access challenges."
+        },
+        {
+          "id": "3.5",
+          "type": "open",
+          "q": "Describe the disabilities ADHD, dyslexia and dyscalculia.",
+          "answer": "ADHD: cannot pay attention or control behaviour and is hyperactive. Dyslexia: cannot understand what is read. Dyscalculia: difficulty in arithmetic calculations."
+        },
+        {
+          "id": "3.6",
+          "type": "open",
+          "q": "Explain assistive technology with any four examples.",
+          "answer": "It bridges persons with disabilities and ICT, e.g. hearing aids, screen readers, adapted pencil grips, closed captioning and adaptive switches."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+ "lesson": 12, "title": "Assistive Technology for Differently-abled Person", "module": 4,
+ "summary": [
+  "## Assistive technology",
+  "Assistive technology is any tool, software or technique that a person with disabilities can use to accomplish tasks that would otherwise be difficult; it is the bridge between the person with disability and Information and Communication Technology (ICT). Examples: software for people with low vision to type and read; computers with large keys for limited hand function; mobility aids (wheelchairs, scooters, walkers, canes, crutches, prosthetic and orthotic devices); hearing aids; cognitive aids for brain injury; voice identification programs, screen readers and screen enlargement applications; automatic page-turners, book holders and adapted pencil grips; closed captioning for movies and TV; adaptive switches for children with limited motor skills.",
+  "## Types of disabilities",
+  "Physical disability (related to body and sensory functions): blindness (cannot see), low vision (partial vision), hearing impairment (cannot hear or partial hearing). Mental disability (related to the brain): cerebral palsy (brain damage causing a movement disorder; multiple handicaps, hearing and speech defects, difficulty with fine motor tasks); autism (neurological behavioural problem; lacks social interaction and communication skills; uneven skill development); learning disability dyslexia (cannot understand what is read); dyspraxia (neurological disorder of coordinating, planning and carrying out motor movements); dysgraphia (learning disability affecting handwriting and fine motor skills; difficulty with spelling or writing); dyscalculia (difficulty with arithmetic calculations); ADHD (Attention Deficit and Hyperactivity Disorder: cannot pay attention or control behaviour; restless and hyperactive). A person with 40 per cent or more disability is categorized as a person with a disability.",
+  "## Software assistive tools",
+  "Screen readers read the screen content for blind or visually impaired users (JAWS, NVDA, VoiceOver). Screen magnification software enlarges text and images. Text readers read the text aloud and highlight the word being spoken for people who find reading difficult. Speech input software helps those who find typing difficult by voice commands (Dragon Naturally Speaking, Siri, Cortana). Braille translators convert text into braille notation and send it to a braille embosser to print.",
+  "## Hardware assistive tools",
+  "Braille printer/embosser: an impact printer that prints text as tactile braille dots on heavy paper. Reading devices for low vision: magnifiers, special high-power reading glasses and reading telescopes (mounted on eyeglass lenses). Video magnifiers: a desktop camera shows images in big size on the screen with adjustable magnification, brightness, contrast and colour. Portable electronic magnifiers: tablet-like devices that show enlarged text on an LED screen. Scanning devices. Digital talking books: electronic books stored as audio or video files; DAISY (Digital Accessible Information SYstem) is the technical standard for digital audio books, designed for blind, visually impaired and dyslexic users and for navigating the files. Other input devices: head pointer (a stick mounted on the head to press keys), motion or eye tracking, braille keyboard; trackball mice and joysticks for users who cannot use a standard mouse. Listening devices: Assistive Listening Device (ALD) and hearing aids help hearing-impaired persons separate speech from background noise and amplify sound."
+ ],
+ "q1": [
+  ["Define Dysgraphia.", "A learning disability that affects handwriting and fine motor skills, with difficulty in spelling or writing.", ["April 2025"]],
+  ["Define Autism.", "A neurological behavioural problem in which a person lacks social interaction and communication skills and has uneven skill development.", ["April 2025"]],
+  ["Name any two input devices which work as assistive tools for persons with disability.", "Head pointer, braille keyboard, eye tracking device, trackball mouse (any two).", ["October 2025"]],
+  ["What does DAISY stand for?", "Digital Accessible Information SYstem."],
+  ["What does ALD stand for?", "Assistive Listening Device."],
+  ["What is assistive technology?", "Any tool, software or technique used by persons with disabilities to perform tasks that would otherwise be difficult."],
+  ["Which software reads the screen content for blind users? Give an example.", "Screen reader, e.g. JAWS, NVDA or VoiceOver."],
+  ["Name the disability in which a person cannot understand what he/she reads.", "Dyslexia."],
+  ["Name the disability related to difficulty in arithmetic calculations.", "Dyscalculia."],
+  ["Which device is a stick mounted on the head to press keys?", "A head pointer."],
+  ["Which printer prints text as tactile dots for the blind?", "A braille printer (embosser)."],
+  ["Name one speech input software.", "Dragon Naturally Speaking (or Siri, Cortana)."],
+  ["What does ADHD stand for?", "Attention Deficit and Hyperactivity Disorder."]
+ ],
+ "q2": [
+  ["Ritu has dyslexia as well as impaired vision but wants to read and listen to books. Which hardware assistive tool will help her and how?", "Digital talking books (DAISY player): books are converted to audio files that she can listen to and navigate, helping blind, visually impaired and dyslexic people.", ["April 2026"]],
+  ["How is an assistive listening device useful for hearing impaired persons? Name two input devices which work as assistive tools.", "An ALD helps a hard-of-hearing person separate speech from background noise and hear audio better. Input devices: head pointer and braille keyboard.", ["October 2025"]],
+  ["Define the following: (i) Dysgraphia (ii) Autism.", "(i) Dysgraphia: a learning disability affecting handwriting and fine motor skills. (ii) Autism: a neurological behavioural problem with poor social interaction and communication.", ["April 2025"]],
+  ["Explain the following assistive tools: (i) Text readers (ii) Braille translators.", "(i) Text readers are software that read the text aloud and highlight the spoken word for people who find reading difficult. (ii) Braille translators are software that convert text into braille notation and send it to a braille embosser.", ["April 2024"]],
+  ["Define and describe digital talking books.", "Digital talking books are electronic books stored as audio or video files; DAISY is the standard that converts books into audio for blind, visually impaired and dyslexic people and helps them navigate.", ["October 2024"]],
+  ["What do you mean by assistive technology?", "Tools, software or techniques that let persons with disabilities do tasks which would otherwise be difficult."],
+  ["Briefly explain the term 'person with disability'.", "A person who needs assistance to perform tasks because of physical or mental disability (40 per cent or more disability)."],
+  ["Give any four examples of assistive technology.", "Screen reader, screen magnifier, braille keyboard, hearing aid, head pointer, text reader (any four)."],
+  ["Differentiate between Dyspraxia and Dysgraphia.", "Dyspraxia is difficulty in coordinating, planning and carrying out motor movements; dysgraphia is difficulty with handwriting, spelling and writing."],
+  ["Differentiate between physical and mental disabilities with examples.", "Physical disabilities relate to body and sensory functions, e.g. blindness, hearing impairment; mental disabilities relate to the brain, e.g. autism, dyslexia."],
+  ["What is a video magnifier?", "A desktop device with a camera lens that shows images in a bigger size on a screen with adjustable magnification, brightness, contrast and colour."],
+  ["What is a braille embosser?", "An impact printer that renders text as tactile braille dots, used with braille translation software."]
+ ],
+ "q3": [
+  ["Explain the types of disabilities.", "Physical disability: blindness, low vision, hearing impairment. Mental disability: cerebral palsy, autism, dyslexia, dyspraxia, dysgraphia, dyscalculia and ADHD."],
+  ["Explain any three software assistive tools.", "Screen readers read the screen for blind users; screen magnifiers enlarge text and images; text readers read out text and highlight words; speech input software lets users dictate and give commands; braille translators convert text to braille."],
+  ["Explain the reading devices for people with low vision.", "Magnifiers enlarge things; high-power reading glasses help read small print; reading telescopes mounted on glasses enlarge text; video and portable electronic magnifiers display enlarged images."],
+  ["Explain the other input devices for persons who cannot use a mouse or keyboard.", "Head pointers press keys from a stick on the head; eye or motion tracking follows a target; braille keyboards allow typing with braille dots; trackball mice and joysticks help with physical access challenges."],
+  ["Describe the disabilities ADHD, dyslexia and dyscalculia.", "ADHD: cannot pay attention or control behaviour and is hyperactive. Dyslexia: cannot understand what is read. Dyscalculia: difficulty in arithmetic calculations."],
+  ["Explain assistive technology with any four examples.", "It bridges persons with disabilities and ICT, e.g. hearing aids, screen readers, adapted pencil grips, closed captioning and adaptive switches."]
+ ]
+}

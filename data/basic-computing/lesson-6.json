@@ -1,0 +1,256 @@
+{
+  "subject": "basic-computing",
+  "lesson": 6,
+  "title": "Presentations",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Answer in one line.",
+      "marks": "12 × 1 = 12",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "open",
+          "q": "How many slide layouts are available in the New Slide dialog box?",
+          "answer": "Nine."
+        },
+        {
+          "id": "1.2",
+          "type": "open",
+          "q": "Which view is used to show the presentation in a conference?",
+          "answer": "Slide Show view."
+        },
+        {
+          "id": "1.3",
+          "type": "open",
+          "q": "Which tab contains the Thesaurus option?",
+          "answer": "The Review tab (Proofing section)."
+        },
+        {
+          "id": "1.4",
+          "type": "open",
+          "q": "On which tab is the Hyperlink command found?",
+          "answer": "The Insert tab (Links section)."
+        },
+        {
+          "id": "1.5",
+          "type": "open",
+          "q": "What is the shortcut key to duplicate a slide?",
+          "answer": "Ctrl + Shift + D."
+        },
+        {
+          "id": "1.6",
+          "type": "open",
+          "q": "Which tab is used to apply a theme?",
+          "answer": "The Design tab."
+        },
+        {
+          "id": "1.7",
+          "type": "open",
+          "q": "Name the three options in the Proofing section of the Review tab.",
+          "answer": "Spelling, Research and Thesaurus."
+        },
+        {
+          "id": "1.8",
+          "type": "open",
+          "q": "How do you remove a hyperlink from a presentation?",
+          "answer": "Right-click the hyperlink and click Remove Hyperlink."
+        },
+        {
+          "id": "1.9",
+          "type": "open",
+          "q": "Which button changes the type of a chart on a slide?",
+          "answer": "Change Chart Type on the Design tab."
+        },
+        {
+          "id": "1.10",
+          "type": "open",
+          "q": "What is the recommended minimum font size for slides?",
+          "answer": "24 points or larger."
+        },
+        {
+          "id": "1.11",
+          "type": "open",
+          "q": "Which option protects a PowerPoint presentation with a password?",
+          "answer": "File, Info, Protect Presentation, Encrypt with Password."
+        },
+        {
+          "id": "1.12",
+          "type": "open",
+          "q": "Which tab appears only when an object on the slide is selected?",
+          "answer": "The Format tab."
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Short answer questions. Answer in 30–50 words.",
+      "marks": "13 × 2 = 26",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "Define the following: (a) Slide Sorter view (b) Themes.",
+          "answer": "(a) Slide Sorter view shows a small image of each slide so slides can be ordered and sorted and transitions added. (b) Themes are inbuilt coloured layouts with matching background, fonts and effects applied to the whole presentation.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "(a) What is the purpose of hiding slides? How can a slide be hidden? (b) What is meant by duplicating slides? How is it done?",
+          "answer": "(a) A hidden slide is not shown in the slide show but is not deleted; right-click the slide in the slide pane and choose Hide. (b) Duplicating makes a copy of a slide after the current one; right-click and choose Duplicate Slide or press Ctrl+Shift+D.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "Write the steps to insert a saved audio on your presentation.",
+          "answer": "Click the Insert tab; in the Media section click the arrow below Audio; choose Audio on My PC; browse and select the audio file; click Insert.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Describe the sections of the Review tab and their functions.",
+          "answer": "Proofing (spelling, research, thesaurus), Language (choose the language), Compare (compare and combine presentations) and Comments (add, delete, view comments).",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "Explain the options found under the Review tab which help the reviewer to review a presentation.",
+          "answer": "Proofing checks spelling and finds synonyms; Language sets the language; Compare combines versions; Comments lets the reviewer add, delete and navigate comments.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "Write the steps to insert a hyperlink in your presentation.",
+          "answer": "Select the text or image; click the Insert tab and Hyperlink in the Links section; choose the file or web page (or type the address); click OK.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "2.7",
+          "type": "open",
+          "q": "Write the steps to protect a PowerPoint presentation.",
+          "answer": "Save the file; File tab, Info, Protect Presentation, Encrypt with Password; enter the password and click OK; re-enter it to confirm and click OK.",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "2.8",
+          "type": "open",
+          "q": "What are themes in a presentation and how can they be applied?",
+          "answer": "Themes are inbuilt colour layouts with background, fonts and effects; click the Design tab and select a theme in the Themes section.",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "2.9",
+          "type": "open",
+          "q": "Write the steps to insert audio and video in your presentation.",
+          "answer": "Audio: Insert tab, Audio, Audio on My PC, select file, Insert. Video: Insert tab, Video, Video on My PC, select file, Insert.",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "2.10",
+          "type": "open",
+          "q": "How can you add comments in the presentation while reviewing it? Write the steps.",
+          "answer": "Select the object; click the Review tab; click New Comment; type the suggestion in the Comments pane.",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "2.11",
+          "type": "open",
+          "q": "Write the steps to change the layout of a slide.",
+          "answer": "Click the Home tab, click Layout, and click one of the nine layouts."
+        },
+        {
+          "id": "2.12",
+          "type": "open",
+          "q": "Write the steps to change the colour of an applied theme.",
+          "answer": "Click the Design tab; in the Variants section click the down arrow; choose Colors and select a colour theme."
+        },
+        {
+          "id": "2.13",
+          "type": "open",
+          "q": "Differentiate between Normal view and Slide Show view.",
+          "answer": "Normal view is for creating and editing a slide with outline and notes panes; Slide Show view displays slides full screen with sound, animations and hyperlinks working."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Answer the questions. Answer in 50–80 words.",
+      "marks": "7 × 3 = 21",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "Explain the three views of PowerPoint.",
+          "answer": "Normal view has the slide, outline pane and notes pane; Slide Sorter view shows thumbnails to order slides and add transitions; Slide Show view runs the presentation for the audience."
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "List the slide layouts available in PowerPoint (any six) and the use of any two.",
+          "answer": "Title Slide, Title and Content, Section Header, Two Content, Comparison, Title Only, Blank, Content with Caption, Picture with Caption. Title Slide starts a presentation; Comparison is for pro and con lists."
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "Write the design tips for making good slides.",
+          "answer": "Use contrasting colours, font size 24 or more, short phrases, simple transitions, avoid clutter and avoid mixing many text effects."
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "Explain how to format an image inserted in a slide.",
+          "answer": "Select the image; click the Format tab; use Adjust to change colour, contrast and brightness; use Picture Styles to apply borders and effects such as shadow and 3D rotation; use Size and Arrange to resize and align."
+        },
+        {
+          "id": "3.5",
+          "type": "open",
+          "q": "Explain how to modify the applied theme.",
+          "answer": "Click the Design tab; in the Variants section use Colors to change colours, Fonts to change fonts, Effects to change effects and Background Styles to choose a background; the whole presentation changes."
+        },
+        {
+          "id": "3.6",
+          "type": "open",
+          "q": "Write the steps to create an online presentation in Google Slides.",
+          "answer": "Open Google's home page, click the grid and Drive, log in with Gmail, click New, choose Google Slides; add text, images and videos; save and share the presentation."
+        },
+        {
+          "id": "3.7",
+          "type": "open",
+          "q": "Write the steps to protect a presentation with a password and remove it.",
+          "answer": "File, Info, Protect Presentation, Encrypt with Password, type the password, OK, confirm it, OK. To remove it repeat the steps, delete the password and click OK."
+        }
+      ]
+    }
+  ]
+}

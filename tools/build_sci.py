@@ -145,6 +145,18 @@ def build_full_papers(sources):
                 used.add((lesson, key, i))
                 picked.append((lesson, it))
             if len(picked) < count:
+                # a section some lessons lack (e.g. the word-processing steps question): deal over the lessons that have it
+                have = [l for l in order if any((l, key, i) not in used for i in range(len(by_no[l].get(key) or [])))]
+                for k in range(10 * max(len(have), 1)):
+                    if len(picked) >= count or not have:
+                        break
+                    lesson = have[(start + k) % len(have)]
+                    pool = [(i, it) for i, it in enumerate(by_no[lesson].get(key) or []) if (lesson, key, i) not in used]
+                    if pool:
+                        i, it = pool[(p * 5 + k) % len(pool)]
+                        used.add((lesson, key, i))
+                        picked.append((lesson, it))
+            if len(picked) < count:
                 raise SystemExit(f'Not enough {key} questions for full paper {p + 1}')
             picked.sort(key=lambda x: x[0])  # lesson order, like the real paper
             qs = []
