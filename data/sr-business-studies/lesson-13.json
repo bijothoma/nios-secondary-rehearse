@@ -1,0 +1,348 @@
+{
+  "subject": "sr-business-studies",
+  "lesson": 13,
+  "title": "Financial Markets and Stock Exchange",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "12 × 1 = 12",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "Money market deals in funds with maturity of —",
+          "options": [
+            "up to one year",
+            "more than ten years",
+            "more than five years",
+            "exactly three years"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "The regulator of the capital market in India is —",
+          "options": [
+            "SEBI",
+            "RBI",
+            "IRDA",
+            "Finance Ministry"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "The regulator of the money market in India is —",
+          "options": [
+            "RBI",
+            "SEBI",
+            "NABARD",
+            "IFCI"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "A treasury bill is issued for a period not exceeding —",
+          "options": [
+            "364 days",
+            "91 days",
+            "15 days",
+            "5 years"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "The interest rate on call money is called —",
+          "options": [
+            "call rate",
+            "bank rate",
+            "repo rate",
+            "discount rate"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "The market for fresh issue of securities is the —",
+          "options": [
+            "primary market",
+            "secondary market",
+            "money market",
+            "call market"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "Listing of securities is compulsory in the —",
+          "options": [
+            "secondary market",
+            "primary market",
+            "private placement",
+            "none"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "Commercial paper is issued for a period of —",
+          "options": [
+            "15 days to one year",
+            "1 day to a fortnight",
+            "5 to 10 years",
+            "364 days exactly"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "A stock exchange is often called the barometer of the economy because —",
+          "options": [
+            "share prices reflect economic conditions",
+            "it issues currency",
+            "it controls banks",
+            "it sets taxes"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "Rolling settlement was introduced in India's equity market from —",
+          "options": [
+            "1 April 2003",
+            "1 April 1991",
+            "1 April 2013",
+            "1 April 1947"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "Price discovery is a function of —",
+          "options": [
+            "financial markets",
+            "consumer markets",
+            "retail shops",
+            "co-operatives"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "Certificates of deposit are issued by —",
+          "options": [
+            "commercial banks and special financial institutions",
+            "the Government only",
+            "SEBI",
+            "consumers"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark.",
+      "marks": "8 × 2 = 16",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "Identify the money market instruments: (a) Issued by the RBI at a discount and redeemed at face value. (b) Issued by highly reputed companies as an unsecured promissory note.",
+          "answer": "(a) Treasury bill. (b) Commercial paper."
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Fill in the blanks: (a) The primary market is also called the ______ market. (b) The secondary market is also called the ______.",
+          "answer": "(a) new issue. (b) stock exchange (stock market)."
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "State true or false: (i) Money market deals in cash. (ii) Listing is mandatory in the secondary market.",
+          "answer": "(i) False – it deals in short-term credit instruments. (ii) True."
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Name the three functions of financial markets.",
+          "answer": "Price discovery, providing liquidity and reducing transaction costs."
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "A treasury bill was bought for Rs 9,200 and redeemed after a year for Rs 10,000. Find the yield.",
+          "answer": "Interest = 10,000 − 9,200 = Rs 800.\nYield = 800 / 9,200 × 100 = 8.69 per cent."
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "Expand: (i) IPO (ii) FPO (iii) SEBI.",
+          "answer": "(i) Initial Public Offering. (ii) Follow-on Public Offering. (iii) Securities and Exchange Board of India."
+        },
+        {
+          "id": "2.7",
+          "type": "open",
+          "q": "Rashmi bought 200 shares at Rs 210 and sold them at Rs 235 without taking delivery. Find the amount she receives (before brokerage).",
+          "answer": "Difference per share = 235 − 210 = Rs 25.\nAmount = 200 × 25 = Rs 5,000."
+        },
+        {
+          "id": "2.8",
+          "type": "open",
+          "q": "Name the instrument used by banks to meet temporary cash needs for one day to a fortnight.",
+          "answer": "Call money."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "6 × 2 = 12",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "Give the meaning of 'Price Discovery' as an important function of financial markets.",
+          "answer": "The interaction of buyers and sellers in the financial market determines the price of a financial instrument and helps allocate funds among those who need them.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "Identify and give the meaning of the money market instrument whose interest rate is called 'Call Rate'.",
+          "answer": "Call money: money borrowed and lent by banks for a day to a fortnight, repayable on demand, to meet temporary cash needs.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "Define financial market.",
+          "answer": "A transmission mechanism between investors (lenders) and borrowers through which the transfer of funds is facilitated."
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "What is a stock exchange?",
+          "answer": "An organised market where existing approved securities such as shares, debentures and bonds are bought and sold regularly by its members."
+        },
+        {
+          "id": "3.5",
+          "type": "open",
+          "q": "What is meant by rolling settlement?",
+          "answer": "Transactions are settled after a fixed number of days from the trade date (e.g. T+2), by electronic transfer through demat accounts."
+        },
+        {
+          "id": "3.6",
+          "type": "open",
+          "q": "State any two limitations of stock exchanges.",
+          "answer": "Excessive speculation causes wide price fluctuations; prices are affected by unpredictable political, social and economic factors."
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "6 × 3 = 18",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "Explain the advantages of stock exchanges to society.",
+          "answer": "It induces savings and investment and so aids capital formation; supports the new issue market and industrial growth; moves resources to profitable units; reflects economic health; and facilitates government borrowing.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "Explain any three functions of a stock exchange.",
+          "answer": "It gives a ready market for securities, provides information on prices and ensures safety in dealings (also mobilises savings and acts as a barometer)."
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "Explain any three money market instruments.",
+          "answer": "Treasury bill (RBI, up to 364 days), commercial paper (reputed companies, 15 days to one year) and certificate of deposit (banks, 91 days to one year)."
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "Explain the functions of financial markets.",
+          "answer": "Price discovery, liquidity for financial instruments and lower transaction costs through an organised platform."
+        },
+        {
+          "id": "4.5",
+          "type": "open",
+          "q": "Distinguish between investment and speculation transactions.",
+          "answer": "Investment: delivery and full payment for income and long-term gain; speculation: buying or selling to gain from price differences, settled by paying or receiving the difference."
+        },
+        {
+          "id": "4.6",
+          "type": "open",
+          "q": "State the advantages of stock exchanges to investors.",
+          "answer": "Ready facility to buy and sell, safety of dealings, regular price information and loans from banks against securities."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Long answer questions. Answer in 80–120 words.",
+      "marks": "4 × 5 = 20",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "What is meant by 'Capital Market'? Give any four points of distinction between 'Primary Market' and 'Secondary Market'.",
+          "answer": "The capital market deals in medium- and long-term funds. Primary versus secondary: function (raising funds by fresh issue versus ready market for existing securities); participants (institutions, mutual funds, underwriters, investors versus these plus stockbrokers); listing (not required versus mandatory); price (set by management with SEBI norms versus demand and supply).",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "Distinguish between capital market and money market.",
+          "answer": "Period (long versus short); securities (shares and debentures versus bills and commercial paper); participants (stockbrokers, mutual funds versus banks); regulator (SEBI versus RBI)."
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "Explain the functions of a stock exchange.",
+          "answer": "Ready market, price information, safety in dealings, mobilisation of savings and capital formation, barometer of the economy and efficient allocation of funds."
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "Explain the money market instruments with their maturity periods.",
+          "answer": "Call money (1 day to a fortnight), treasury bills (up to 364 days), commercial paper (15 days to one year), certificates of deposit (91 days to one year) and trade bills (within one year)."
+        }
+      ]
+    }
+  ]
+}

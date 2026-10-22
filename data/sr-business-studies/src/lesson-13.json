@@ -1,0 +1,63 @@
+{
+ "lesson": 13, "title": "Financial Markets and Stock Exchange", "module": 3,
+ "summary": [
+  "## Financial market",
+  "A financial market is a transmission mechanism between investors (lenders) and borrowers (users) through which the transfer of funds is facilitated; funds flow from the surplus sector to the deficit sector. A bill of exchange is a written unconditional order signed by the maker (creditor) directing a debtor to pay a certain sum to a certain person or the bearer; a promissory note is a written unconditional undertaking signed by the maker to pay a sum to a certain person or bearer. Functions: price discovery (interaction of buyers and sellers determines the price of the financial asset and helps allocate funds), providing liquidity (ease of converting a financial asset into cash) and reducing transaction costs (an organised platform that saves the cost of acquiring information).",
+  "Types: money market (short-term funds, maturity up to one year, regulated by the Reserve Bank of India) and capital market (medium- and long-term funds, regulated by SEBI).",
+  "## Money market instruments",
+  "Money market deals in close substitutes of money, not in cash. Call money: used by banks to meet temporary cash needs, repayable on demand, one day to a fortnight; the interest rate is the call rate. Treasury bill: a promissory note issued by the RBI (on behalf of the Government) to meet short-term needs, issued at a discount and redeemed at face value, maturity not exceeding 364 days, very safe and liquid (e.g. bought for Rs 9,200 and redeemed for Rs 10,000: interest Rs 800, yield 800/9,200 = 8.69 per cent). Commercial paper: unsecured promissory note issued by highly reputed companies for 15 days to one year, introduced in 1990. Certificate of deposit: short-term instrument issued by banks and special financial institutions, 91 days to one year, freely transferable. Trade bill: bill of exchange drawn by the seller and accepted by the buyer; when accepted by a bank it is a commercial bill; it can be discounted with a bank.",
+  "## Capital market",
+  "The capital market deals in medium- and long-term funds (shares, debentures, bonds and government securities). The primary market (new issue market) deals with fresh issues of securities through private placement or public issue (IPO, FPO) using intermediaries such as underwriters and brokers. The secondary market (stock market or stock exchange) is where existing securities are bought and sold and gives liquidity to holdings.",
+  "Primary versus secondary market: function (raising long-term funds by fresh issue versus continuous and ready market for existing securities); participants (financial institutions, mutual funds, underwriters and individual investors versus these plus companies and stockbrokers); listing (not required versus mandatory); price determination (by management with SEBI norms versus demand and supply). Money versus capital market: period (short-term versus medium and long-term); securities (treasury bills, commercial paper, trade bills, certificates of deposit versus shares, debentures, bonds and government securities); participants (commercial banks, NBFCs versus stockbrokers, underwriters, mutual funds, institutions and investors); regulator (RBI versus SEBI, set up in 1992).",
+  "## Stock exchange",
+  "A stock exchange is an organised market (association, society or company with limited members acting as brokers) where existing approved securities are traded under its rules, with public information on prices and volumes. Functions: ready market for securities (liquidity); information on prices and sales; safety in dealings and investment (SEBI regulation and listing); mobilisation of savings and capital formation; barometer of economic and business conditions; efficient allocation of funds.",
+  "Advantages: to companies (goodwill and credit standing, wider market, higher value of securities and bargaining power, convenience in deciding size, price and timing of issue); to investors (ready facility to buy and sell, safety, information on prices, loans from banks against securities); to society (capital formation, support to the new issue market and industrial growth, financial resources to profitable units, reflects economic health, government borrowing is facilitated). Limitations: excessive speculation, price fluctuation due to political, social and economic factors and malpractices of vested interests.",
+  "Investment transactions mean taking delivery and paying in full to earn income and long-term gain; speculation transactions mean buying or selling only to gain from price differences, settled by paying or receiving the difference (e.g. 200 shares bought at Rs 210 and sold at Rs 235 give a difference of 200 × 25 = Rs 5,000 minus brokerage). Rolling settlement (since 1 April 2003 in India) settles transactions a fixed number of days after the trade (T+2 means two working days after the transaction day), carried out through electronic transfer using a demat account."
+ ],
+ "mcq": [
+  ["Money market deals in funds with maturity of —", ["up to one year", "more than ten years", "more than five years", "exactly three years"], "A"],
+  ["The regulator of the capital market in India is —", ["SEBI", "RBI", "IRDA", "Finance Ministry"], "A"],
+  ["The regulator of the money market in India is —", ["RBI", "SEBI", "NABARD", "IFCI"], "A"],
+  ["A treasury bill is issued for a period not exceeding —", ["364 days", "91 days", "15 days", "5 years"], "A"],
+  ["The interest rate on call money is called —", ["call rate", "bank rate", "repo rate", "discount rate"], "A"],
+  ["The market for fresh issue of securities is the —", ["primary market", "secondary market", "money market", "call market"], "A"],
+  ["Listing of securities is compulsory in the —", ["secondary market", "primary market", "private placement", "none"], "A"],
+  ["Commercial paper is issued for a period of —", ["15 days to one year", "1 day to a fortnight", "5 to 10 years", "364 days exactly"], "A"],
+  ["A stock exchange is often called the barometer of the economy because —", ["share prices reflect economic conditions", "it issues currency", "it controls banks", "it sets taxes"], "A"],
+  ["Rolling settlement was introduced in India's equity market from —", ["1 April 2003", "1 April 1991", "1 April 2013", "1 April 1947"], "A"],
+  ["Price discovery is a function of —", ["financial markets", "consumer markets", "retail shops", "co-operatives"], "A"],
+  ["Certificates of deposit are issued by —", ["commercial banks and special financial institutions", "the Government only", "SEBI", "consumers"], "A"]
+ ],
+ "objective": [
+  ["Identify the money market instruments: (a) Issued by the RBI at a discount and redeemed at face value. (b) Issued by highly reputed companies as an unsecured promissory note.", "(a) Treasury bill. (b) Commercial paper."],
+  ["Fill in the blanks: (a) The primary market is also called the ______ market. (b) The secondary market is also called the ______.", "(a) new issue. (b) stock exchange (stock market)."],
+  ["State true or false: (i) Money market deals in cash. (ii) Listing is mandatory in the secondary market.", "(i) False – it deals in short-term credit instruments. (ii) True."],
+  ["Name the three functions of financial markets.", "Price discovery, providing liquidity and reducing transaction costs."],
+  ["A treasury bill was bought for Rs 9,200 and redeemed after a year for Rs 10,000. Find the yield.", "Interest = 10,000 − 9,200 = Rs 800.\nYield = 800 / 9,200 × 100 = 8.69 per cent."],
+  ["Expand: (i) IPO (ii) FPO (iii) SEBI.", "(i) Initial Public Offering. (ii) Follow-on Public Offering. (iii) Securities and Exchange Board of India."],
+  ["Rashmi bought 200 shares at Rs 210 and sold them at Rs 235 without taking delivery. Find the amount she receives (before brokerage).", "Difference per share = 235 − 210 = Rs 25.\nAmount = 200 × 25 = Rs 5,000."],
+  ["Name the instrument used by banks to meet temporary cash needs for one day to a fortnight.", "Call money."]
+ ],
+ "vsa": [
+  ["Give the meaning of 'Price Discovery' as an important function of financial markets.", "The interaction of buyers and sellers in the financial market determines the price of a financial instrument and helps allocate funds among those who need them.", ["October 2025"]],
+  ["Identify and give the meaning of the money market instrument whose interest rate is called 'Call Rate'.", "Call money: money borrowed and lent by banks for a day to a fortnight, repayable on demand, to meet temporary cash needs.", ["October 2025"]],
+  ["Define financial market.", "A transmission mechanism between investors (lenders) and borrowers through which the transfer of funds is facilitated."],
+  ["What is a stock exchange?", "An organised market where existing approved securities such as shares, debentures and bonds are bought and sold regularly by its members."],
+  ["What is meant by rolling settlement?", "Transactions are settled after a fixed number of days from the trade date (e.g. T+2), by electronic transfer through demat accounts."],
+  ["State any two limitations of stock exchanges.", "Excessive speculation causes wide price fluctuations; prices are affected by unpredictable political, social and economic factors."]
+ ],
+ "sa": [
+  ["Explain the advantages of stock exchanges to society.", "It induces savings and investment and so aids capital formation; supports the new issue market and industrial growth; moves resources to profitable units; reflects economic health; and facilitates government borrowing.", ["October 2025"]],
+  ["Explain any three functions of a stock exchange.", "It gives a ready market for securities, provides information on prices and ensures safety in dealings (also mobilises savings and acts as a barometer)."],
+  ["Explain any three money market instruments.", "Treasury bill (RBI, up to 364 days), commercial paper (reputed companies, 15 days to one year) and certificate of deposit (banks, 91 days to one year)."],
+  ["Explain the functions of financial markets.", "Price discovery, liquidity for financial instruments and lower transaction costs through an organised platform."],
+  ["Distinguish between investment and speculation transactions.", "Investment: delivery and full payment for income and long-term gain; speculation: buying or selling to gain from price differences, settled by paying or receiving the difference."],
+  ["State the advantages of stock exchanges to investors.", "Ready facility to buy and sell, safety of dealings, regular price information and loans from banks against securities."]
+ ],
+ "la": [
+  ["What is meant by 'Capital Market'? Give any four points of distinction between 'Primary Market' and 'Secondary Market'.", "The capital market deals in medium- and long-term funds. Primary versus secondary: function (raising funds by fresh issue versus ready market for existing securities); participants (institutions, mutual funds, underwriters, investors versus these plus stockbrokers); listing (not required versus mandatory); price (set by management with SEBI norms versus demand and supply).", ["October 2025"]],
+  ["Distinguish between capital market and money market.", "Period (long versus short); securities (shares and debentures versus bills and commercial paper); participants (stockbrokers, mutual funds versus banks); regulator (SEBI versus RBI)."],
+  ["Explain the functions of a stock exchange.", "Ready market, price information, safety in dealings, mobilisation of savings and capital formation, barometer of the economy and efficient allocation of funds."],
+  ["Explain the money market instruments with their maturity periods.", "Call money (1 day to a fortnight), treasury bills (up to 364 days), commercial paper (15 days to one year), certificates of deposit (91 days to one year) and trade bills (within one year)."]
+ ]
+}

@@ -1,0 +1,123 @@
+{
+  "subject": "sr-business-studies",
+  "lesson": 10,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 10: Financial Planning and Management — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Financial management and decisions"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Financial management is concerned with procuring funds in an economic and prudent manner and deploying them in the most profitable way in a given risk situation; it deals with three decisions. Investment decision: careful selection of viable and productive assets: long-term investment in fixed assets (capital budgeting decision) and short-term investment in current assets (working capital decision); influenced by cash flow, time value of money, risk and technological changes. Financing decision: procurement of funds economically after identifying timing and quantum of sources; considers the cost of capital, timing, underwriting, best capital structure mix, statutory provisions, takeover threat, company image, liquidity and the amount needed; relates to the liabilities side of the balance sheet. Dividend decision: how much net profit to distribute to shareholders and how much to retain, depending on expansion and diversification plans; equity shareholders' return consists of dividends and capital gains."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Objectives: profit maximisation (vague, ignores timing of returns and ignores risk) and wealth (value) maximisation, which depends on earnings per share and capitalisation rate and considers the time value of money; wealth maximisation is superior to profit maximisation."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Financial planning"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Financial planning is the framing of financial policies for procurement, investment and administration of funds to achieve objectives; it estimates the current financial condition, appraises investment options, projects growth and profit, estimates fund requirements and compares financing options. Essentials of a sound financial plan: it must be simple; take a long-term view; be flexible; ensure optimal use of funds; keep the cost of capital at the lowest level (optimal capital structure); ensure adequate liquidity (readiness to meet obligations when due). Importance: estimates accurate fund requirements; develops a sound capital structure; proper utilisation of funds; avoids shortage or surplus of funds; provides policies and procedures to coordinate departments; basis for control; helps face unforeseen situations."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Capital structure"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Capital structure is the combination of debt and equity (equity share capital, preference share capital, debentures, long-term loans, retained earnings) used to finance the business and maximise the market value of shares. Equity capital: money put in by owners, costliest source (contributed capital and retained earnings); debt capital: borrowings, term loans, debentures. Debt is cheaper (interest is tax deductible) but risky (legal obligation to pay interest and principal); equity is safe for the company (no obligation to pay dividend) but expensive. Capital structure includes only long-term debt and shareholders' funds; financial structure includes capital structure plus current liabilities. Determinants of capital structure: cash flow position, return on investment, tax rate, cost of financing, floatation costs, risk, flexibility, control, interest coverage ratio, debt service coverage ratio, regulatory framework and stock market conditions."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Leverage"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Leverage (gearing) is the use of debt to increase earnings per share and returns to owners. Financial leverage = EBIT / EBT (EBIT = earnings before interest and tax; EBT = earnings before tax) measures financial risk. Operating leverage = Contribution / EBIT measures business risk. Combined leverage = Contribution / EBT = operating leverage × financial leverage (e.g. 2 × 5 = 10: a 1 per cent rise in sales raises EBT by 10 per cent). High operating and high financial leverage together is very risky; high operating with low financial leverage is the ideal situation."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Fixed capital and working capital"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Fixed capital is invested in non-current assets that serve for more than one accounting period (land, buildings, plant, machinery, patents). Sources: issue of shares (equity and preference), rights issue (to existing shareholders below market price; economical), private placement, debentures, term loans from banks and institutions, retained earnings (ploughing back of profits), lease. Factors affecting fixed capital requirement: nature of business (manufacturing needs more than trading), size, scale of operation, technology (capital-intensive needs more), type of products, scope of activities, method of acquiring assets (lease needs less) and government subsidy."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Working capital is the capital for day-to-day operations (circulating capital). Gross concept: investment in current assets (convertible into cash within 12 months); net concept: current assets minus current liabilities (suitable to assess liquidity). Types: permanent or fixed working capital (minimum level of current assets always needed) and variable (fluctuating, temporary) working capital. Factors affecting working capital requirement: nature of business, scale of operations, business cycle, seasonal factors (seasonal sales need high working capital), production cycle, credit policy, operating efficiency, availability of raw material, growth prospects, level of competition and inflation."
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,378 @@
+{
+  "subject": "sr-business-studies",
+  "lesson": 23,
+  "title": "Modern Modes of Business",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "12 × 1 = 12",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "The full form of B2C in e-commerce is —",
+          "options": [
+            "Business to Consumer",
+            "Business to Customer care",
+            "Buyer to Consumer",
+            "Bank to Customer"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "The payment method in which customers pay when goods are delivered is —",
+          "options": [
+            "prepaid payment",
+            "cash on delivery (COD)",
+            "net banking",
+            "credit card payment"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "Which of the following is not an advantage of e-commerce?",
+          "options": [
+            "Wider accessibility",
+            "Lack of personal touch",
+            "Cost saving",
+            "Convenience to customers"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "Creating a website and selling online is related to —",
+          "options": [
+            "E-commerce",
+            "Outsourcing",
+            "BPO",
+            "Manual billing"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "In online buying, the buyer drops the selected items in a —",
+          "options": [
+            "shopping cart",
+            "godown",
+            "ledger",
+            "cash box"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "Which of the following is NOT an application of e-business?",
+          "options": [
+            "Online trading",
+            "Contract R&D",
+            "Online bidding",
+            "Online procurement"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "The conversion of data into a code so that it cannot be read by other users is called —",
+          "options": [
+            "Password",
+            "Encryption",
+            "Authentication",
+            "Hacking"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "A card that allows spending only up to the balance in the account is a —",
+          "options": [
+            "debit card",
+            "credit card",
+            "gift card",
+            "smart bond"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "The Internet was conceived by —",
+          "options": [
+            "ARPA of the US Government",
+            "SEBI",
+            "RBI",
+            "WTO"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "E-Post messages are —",
+          "options": [
+            "transmitted as e-mail and delivered by the postman after printing",
+            "sent only by telephone",
+            "delivered only digitally",
+            "restricted to cities"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "The credit period on a credit card ranges from —",
+          "options": [
+            "10 to 55 days",
+            "1 to 2 days",
+            "6 to 12 months",
+            "2 to 5 years"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "Which type of e-commerce involves used books being sold between individuals?",
+          "options": [
+            "C2C",
+            "B2B",
+            "B2C",
+            "C2B"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark.",
+      "marks": "8 × 2 = 16",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "Expand: (a) WWW (b) B2B (c) B2C (d) C2C.",
+          "answer": "(a) World Wide Web. (b) Business to Business. (c) Business to Consumer. (d) Consumer to Consumer."
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Identify in e-banking: (a) a card that allows spending up to the balance in the account; (b) a machine to withdraw money at convenience; (c) a system giving banking facility over the telephone; (d) accessing the account anytime, anywhere.",
+          "answer": "(a) Debit card. (b) ATM. (c) Telebanking. (d) Internet banking.",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "Arrange the stages of an online transaction: order, delivery, payment, search, after-sales service.",
+          "answer": "Search; order; payment; delivery; after-sales service.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Name any two e-commerce businesses.",
+          "answer": "Amazon and Flipkart (also eBay, Myntra, BigBasket).",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "Mention the various ways of making payment in online transactions.",
+          "answer": "Cash on delivery, cheque, net banking, credit or debit card and digital cash."
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "Name the security measure: (a) conversion of data into a code, (b) used to authenticate the sender and check integrity.",
+          "answer": "(a) Encryption. (b) Digital signature."
+        },
+        {
+          "id": "2.7",
+          "type": "open",
+          "q": "Fill in the blanks: (a) The ______ is an online record of items picked while browsing. (b) ______ means the interaction among departments within the firm.",
+          "answer": "(a) virtual shopping cart. (b) Intra-B commerce."
+        },
+        {
+          "id": "2.8",
+          "type": "open",
+          "q": "State true or false: (i) A credit card holder can spend beyond the credit limit. (ii) E-Post helps rural people use e-mail facilities.",
+          "answer": "(i) False. (ii) True."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "5 × 2 = 10",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "Give any two benefits of e-commerce.",
+          "answer": "Wider accessibility to national and global customers and savings in cost leading to lower prices (also convenience and time saving).",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "What is e-Post?",
+          "answer": "A service in which printed or handwritten messages are sent as e-mail and printed, enveloped and delivered by the post office at the destination."
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "State any two limitations of e-commerce.",
+          "answer": "It lacks personal touch and customers cannot see or try goods before buying."
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "What is meant by intra-B commerce?",
+          "answer": "The interaction and dealings among departments and persons within the firm using the Internet."
+        },
+        {
+          "id": "3.5",
+          "type": "open",
+          "q": "Mention one benefit of an ATM for bank customers.",
+          "answer": "Withdrawal or deposit of money at any time and a check of balance and mini statement without visiting the bank."
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "6 × 3 = 18",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "Explain any three forms of e-commerce.",
+          "answer": "B2B (between firms), B2C (between firms and consumers) and C2C (between consumers); C2B is the reverse of B2C.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "Explain the benefits of e-commerce (any three).",
+          "answer": "Wider accessibility, shorter transaction time, and cost saving with low prices (also improved service)."
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "Explain any three limitations of e-commerce.",
+          "answer": "Lack of personal touch, delivery delays and privacy and security risks."
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "Explain any three precautions for security in online transactions.",
+          "answer": "Use passwords, encrypt data and use digital signatures (also trusted third parties and authentication)."
+        },
+        {
+          "id": "4.5",
+          "type": "open",
+          "q": "Distinguish between a debit card and a credit card.",
+          "answer": "Debit card spends up to the balance in the account; credit card allows purchases up to a credit limit with payment by a due date, interest being charged on delay."
+        },
+        {
+          "id": "4.6",
+          "type": "open",
+          "q": "Explain any three e-business risks.",
+          "answer": "Default on order or delivery, data theft through virus or hacking and loss of privacy or intellectual property."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Long answer questions. Answer in 80–120 words.",
+      "marks": "5 × 5 = 25",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "Explain the stages in online transactions.",
+          "answer": "Search for a vendor, order through registration and shopping cart, payment, delivery and after-sales service.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "What options are available for securing online transactions? Explain.",
+          "answer": "Passwords, authentication, encryption, digital signatures and trusted third parties, though stolen cards and fraudulent sites need vigilance.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "Explain the applications of e-commerce.",
+          "answer": "E-banking, e-ticketing, e-advertising, e-trading at stock exchanges, computerised mail and e-Post, and online education."
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "Explain the payment mechanisms of online transactions.",
+          "answer": "Cash on delivery, cheque, net banking, credit or debit card and digital cash."
+        },
+        {
+          "id": "5.5",
+          "type": "open",
+          "q": "Explain the resources required for successful e-business implementation.",
+          "answer": "A website, trained workforce, adequate computers, effective telecommunication and a payment mechanism."
+        }
+      ]
+    }
+  ]
+}

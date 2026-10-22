@@ -2299,6 +2299,116 @@
           "file": "data/mass-communication/paper-3.json"
         }
       ]
+    },
+    {
+      "id": "sr-business-studies",
+      "name": "Business Studies",
+      "label": "",
+      "level": "senior-secondary",
+      "lessons": [
+        {
+          "no": 3,
+          "title": "Business Environment",
+          "file": "data/sr-business-studies/lesson-3.json",
+          "summary": "data/sr-business-studies/summary/lesson-3.json"
+        },
+        {
+          "no": 5,
+          "title": "Company Form of Business Organisation",
+          "file": "data/sr-business-studies/lesson-5.json",
+          "summary": "data/sr-business-studies/summary/lesson-5.json"
+        },
+        {
+          "no": 7,
+          "title": "Planning and Organising",
+          "file": "data/sr-business-studies/lesson-7.json",
+          "summary": "data/sr-business-studies/summary/lesson-7.json"
+        },
+        {
+          "no": 8,
+          "title": "Staffing and Directing",
+          "file": "data/sr-business-studies/lesson-8.json",
+          "summary": "data/sr-business-studies/summary/lesson-8.json"
+        },
+        {
+          "no": 9,
+          "title": "Co-ordination and Controlling",
+          "file": "data/sr-business-studies/lesson-9.json",
+          "summary": "data/sr-business-studies/summary/lesson-9.json"
+        },
+        {
+          "no": 10,
+          "title": "Financial Planning and Management",
+          "file": "data/sr-business-studies/lesson-10.json",
+          "summary": "data/sr-business-studies/summary/lesson-10.json"
+        },
+        {
+          "no": 12,
+          "title": "Long-term Sources of Business Finance",
+          "file": "data/sr-business-studies/lesson-12.json",
+          "summary": "data/sr-business-studies/summary/lesson-12.json"
+        },
+        {
+          "no": 13,
+          "title": "Financial Markets and Stock Exchange",
+          "file": "data/sr-business-studies/lesson-13.json",
+          "summary": "data/sr-business-studies/summary/lesson-13.json"
+        },
+        {
+          "no": 15,
+          "title": "The Marketing Mix",
+          "file": "data/sr-business-studies/lesson-15.json",
+          "summary": "data/sr-business-studies/summary/lesson-15.json"
+        },
+        {
+          "no": 16,
+          "title": "Advertising and Salesmanship",
+          "file": "data/sr-business-studies/lesson-16.json",
+          "summary": "data/sr-business-studies/summary/lesson-16.json"
+        },
+        {
+          "no": 18,
+          "title": "Internal Trade",
+          "file": "data/sr-business-studies/lesson-18.json",
+          "summary": "data/sr-business-studies/summary/lesson-18.json"
+        },
+        {
+          "no": 19,
+          "title": "External Trade",
+          "file": "data/sr-business-studies/lesson-19.json",
+          "summary": "data/sr-business-studies/summary/lesson-19.json"
+        },
+        {
+          "no": 20,
+          "title": "Self-Employment and Small Business",
+          "file": "data/sr-business-studies/lesson-20.json",
+          "summary": "data/sr-business-studies/summary/lesson-20.json"
+        },
+        {
+          "no": 23,
+          "title": "Modern Modes of Business",
+          "file": "data/sr-business-studies/lesson-23.json",
+          "summary": "data/sr-business-studies/summary/lesson-23.json"
+        },
+        {
+          "no": 901,
+          "tag": "Full paper",
+          "title": "Model Question Paper 1",
+          "file": "data/sr-business-studies/paper-1.json"
+        },
+        {
+          "no": 902,
+          "tag": "Full paper",
+          "title": "Model Question Paper 2",
+          "file": "data/sr-business-studies/paper-2.json"
+        },
+        {
+          "no": 903,
+          "tag": "Full paper",
+          "title": "Model Question Paper 3",
+          "file": "data/sr-business-studies/paper-3.json"
+        }
+      ]
     }
   ]
 }

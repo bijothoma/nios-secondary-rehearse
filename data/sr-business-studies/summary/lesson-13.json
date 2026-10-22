@@ -1,0 +1,123 @@
+{
+  "subject": "sr-business-studies",
+  "lesson": 13,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 13: Financial Markets and Stock Exchange — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Financial market"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "A financial market is a transmission mechanism between investors (lenders) and borrowers (users) through which the transfer of funds is facilitated; funds flow from the surplus sector to the deficit sector. A bill of exchange is a written unconditional order signed by the maker (creditor) directing a debtor to pay a certain sum to a certain person or the bearer; a promissory note is a written unconditional undertaking signed by the maker to pay a sum to a certain person or bearer. Functions: price discovery (interaction of buyers and sellers determines the price of the financial asset and helps allocate funds), providing liquidity (ease of converting a financial asset into cash) and reducing transaction costs (an organised platform that saves the cost of acquiring information)."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Types: money market (short-term funds, maturity up to one year, regulated by the Reserve Bank of India) and capital market (medium- and long-term funds, regulated by SEBI)."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Money market instruments"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Money market deals in close substitutes of money, not in cash. Call money: used by banks to meet temporary cash needs, repayable on demand, one day to a fortnight; the interest rate is the call rate. Treasury bill: a promissory note issued by the RBI (on behalf of the Government) to meet short-term needs, issued at a discount and redeemed at face value, maturity not exceeding 364 days, very safe and liquid (e.g. bought for Rs 9,200 and redeemed for Rs 10,000: interest Rs 800, yield 800/9,200 = 8.69 per cent). Commercial paper: unsecured promissory note issued by highly reputed companies for 15 days to one year, introduced in 1990. Certificate of deposit: short-term instrument issued by banks and special financial institutions, 91 days to one year, freely transferable. Trade bill: bill of exchange drawn by the seller and accepted by the buyer; when accepted by a bank it is a commercial bill; it can be discounted with a bank."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Capital market"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "The capital market deals in medium- and long-term funds (shares, debentures, bonds and government securities). The primary market (new issue market) deals with fresh issues of securities through private placement or public issue (IPO, FPO) using intermediaries such as underwriters and brokers. The secondary market (stock market or stock exchange) is where existing securities are bought and sold and gives liquidity to holdings."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Primary versus secondary market: function (raising long-term funds by fresh issue versus continuous and ready market for existing securities); participants (financial institutions, mutual funds, underwriters and individual investors versus these plus companies and stockbrokers); listing (not required versus mandatory); price determination (by management with SEBI norms versus demand and supply). Money versus capital market: period (short-term versus medium and long-term); securities (treasury bills, commercial paper, trade bills, certificates of deposit versus shares, debentures, bonds and government securities); participants (commercial banks, NBFCs versus stockbrokers, underwriters, mutual funds, institutions and investors); regulator (RBI versus SEBI, set up in 1992)."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Stock exchange"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "A stock exchange is an organised market (association, society or company with limited members acting as brokers) where existing approved securities are traded under its rules, with public information on prices and volumes. Functions: ready market for securities (liquidity); information on prices and sales; safety in dealings and investment (SEBI regulation and listing); mobilisation of savings and capital formation; barometer of economic and business conditions; efficient allocation of funds."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Advantages: to companies (goodwill and credit standing, wider market, higher value of securities and bargaining power, convenience in deciding size, price and timing of issue); to investors (ready facility to buy and sell, safety, information on prices, loans from banks against securities); to society (capital formation, support to the new issue market and industrial growth, financial resources to profitable units, reflects economic health, government borrowing is facilitated). Limitations: excessive speculation, price fluctuation due to political, social and economic factors and malpractices of vested interests."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Investment transactions mean taking delivery and paying in full to earn income and long-term gain; speculation transactions mean buying or selling only to gain from price differences, settled by paying or receiving the difference (e.g. 200 shares bought at Rs 210 and sold at Rs 235 give a difference of 200 × 25 = Rs 5,000 minus brokerage). Rolling settlement (since 1 April 2003 in India) settles transactions a fixed number of days after the trade (T+2 means two working days after the transaction day), carried out through electronic transfer using a demat account."
+        ]
+      ]
+    }
+  ]
+}

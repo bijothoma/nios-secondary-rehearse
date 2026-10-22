@@ -1,0 +1,284 @@
+{
+ "lesson": 23,
+ "title": "Modern Modes of Business",
+ "module": 6,
+ "summary": [
+  "## E-business and e-commerce",
+  "The Internet is a worldwide network of computers through which users can access information, e-mail, transfer files, chat, browse catalogues and buy goods online, and set up websites (conceived by ARPA of the US in 1969 as ARPANET). E-business means carrying out business activities (production, marketing, selling, banking, insurance) electronically. E-commerce is conducting business with electronic devices and telecommunication networks, where the offer for sale and its acceptance are made electronically; also called online trading, online shopping or e-shopping. E-commerce began with Electronic Data Interchange (EDI) in the 1960s, and grew with eBay and Amazon in the 1990s.",
+  "Forms of e-commerce: B2B (business to business: manufacturer and supplier, wholesaler and retailer), B2C (business to consumer: firms and their customers, round the clock), C2C (consumer to consumer: used books and household goods) and C2B (consumers offer products and services for companies to bid on). E-business is a broader term which also includes intra-B commerce (interaction among departments within the firm).",
+  "Benefits: wider accessibility; improved customer service (open round the clock); shortened transaction time; cost saving and low prices; business growth and profits; convenience to customers (wide choice and competitive prices); personalisation and product recommendations. Limitations: lack of personal touch (clothes, jewellery); customers cannot see, feel or try goods; delivery delays; problems in returning faulty goods; unsuitable for non-routine buying; risks in the transaction, data storage and transmission, and privacy; for B2B, challenges include lack of Internet infrastructure, delivery and payment issues and absence of cyber laws.",
+  "## Online transactions",
+  "Stages: search (find a vendor); order (register, create an account with a password and put items in the virtual shopping cart, an online record of what has been picked); payment (credit or debit card, net banking, cheque, cash on delivery (COD), digital cash, an electronic currency); delivery; after-sales service (warranty, maintenance, complaints). Resources for e-business: website, technically qualified workforce, adequate computers, effective telecommunication and a payment mechanism.",
+  "Security: passwords; authentication (identifying the sender); encryption (conversion of data into a code that cannot be read by others; cryptography uses a secret key); digital signatures (authenticate the sender and ensure integrity); trusted third parties (a copy of the transaction held to settle disputes); antivirus programs. Risks: transaction risks (default on order giving or taking, default on delivery), data storage and transmission risks (virus, hacking) and risks to intellectual property and privacy. Measures: verify the customer's identity and location, check cookies, shop only from well-established sites.",
+  "## Applications of e-commerce",
+  "E-banking: telebanking (T-PIN for telephone access), internet banking (anywhere, anytime, any number of times), ATM (Automated Teller Machine, operated with a card and PIN for withdrawal, deposit, balance and mini statement), debit card (spend up to the balance in the account) and credit card (credit limit fixed by the bank; credit period 10 to 55 days; interest at a high rate on late payment). Others: e-ticketing (railway and air tickets), e-advertising (the surfer clicks only on advertisements of interest), e-trading at stock exchanges (NSE and BSE; transfer by electronic records; rolling settlement of 2 days), computerisation of mail (VSAT for money orders, Unified Message Service), e-Post (messages sent as e-mail and printed and delivered at the destination post office, Rs 10 per addressee) and education (online classes)."
+ ],
+ "mcq": [
+  [
+   "The full form of B2C in e-commerce is —",
+   [
+    "Business to Consumer",
+    "Business to Customer care",
+    "Buyer to Consumer",
+    "Bank to Customer"
+   ],
+   "A",
+   [
+    "April 2025"
+   ]
+  ],
+  [
+   "The payment method in which customers pay when goods are delivered is —",
+   [
+    "prepaid payment",
+    "cash on delivery (COD)",
+    "net banking",
+    "credit card payment"
+   ],
+   "B",
+   [
+    "April 2025"
+   ]
+  ],
+  [
+   "Which of the following is not an advantage of e-commerce?",
+   [
+    "Wider accessibility",
+    "Lack of personal touch",
+    "Cost saving",
+    "Convenience to customers"
+   ],
+   "B",
+   [
+    "April 2025"
+   ]
+  ],
+  [
+   "Creating a website and selling online is related to —",
+   [
+    "E-commerce",
+    "Outsourcing",
+    "BPO",
+    "Manual billing"
+   ],
+   "A",
+   [
+    "October 2024"
+   ]
+  ],
+  [
+   "In online buying, the buyer drops the selected items in a —",
+   [
+    "shopping cart",
+    "godown",
+    "ledger",
+    "cash box"
+   ],
+   "A",
+   [
+    "October 2024"
+   ]
+  ],
+  [
+   "Which of the following is NOT an application of e-business?",
+   [
+    "Online trading",
+    "Contract R&D",
+    "Online bidding",
+    "Online procurement"
+   ],
+   "B",
+   [
+    "October 2024"
+   ]
+  ],
+  [
+   "The conversion of data into a code so that it cannot be read by other users is called —",
+   [
+    "Password",
+    "Encryption",
+    "Authentication",
+    "Hacking"
+   ],
+   "B",
+   [
+    "October 2025"
+   ]
+  ],
+  [
+   "A card that allows spending only up to the balance in the account is a —",
+   [
+    "debit card",
+    "credit card",
+    "gift card",
+    "smart bond"
+   ],
+   "A"
+  ],
+  [
+   "The Internet was conceived by —",
+   [
+    "ARPA of the US Government",
+    "SEBI",
+    "RBI",
+    "WTO"
+   ],
+   "A"
+  ],
+  [
+   "E-Post messages are —",
+   [
+    "transmitted as e-mail and delivered by the postman after printing",
+    "sent only by telephone",
+    "delivered only digitally",
+    "restricted to cities"
+   ],
+   "A"
+  ],
+  [
+   "The credit period on a credit card ranges from —",
+   [
+    "10 to 55 days",
+    "1 to 2 days",
+    "6 to 12 months",
+    "2 to 5 years"
+   ],
+   "A"
+  ],
+  [
+   "Which type of e-commerce involves used books being sold between individuals?",
+   [
+    "C2C",
+    "B2B",
+    "B2C",
+    "C2B"
+   ],
+   "A"
+  ]
+ ],
+ "objective": [
+  [
+   "Expand: (a) WWW (b) B2B (c) B2C (d) C2C.",
+   "(a) World Wide Web. (b) Business to Business. (c) Business to Consumer. (d) Consumer to Consumer."
+  ],
+  [
+   "Identify in e-banking: (a) a card that allows spending up to the balance in the account; (b) a machine to withdraw money at convenience; (c) a system giving banking facility over the telephone; (d) accessing the account anytime, anywhere.",
+   "(a) Debit card. (b) ATM. (c) Telebanking. (d) Internet banking.",
+   [
+    "October 2024"
+   ]
+  ],
+  [
+   "Arrange the stages of an online transaction: order, delivery, payment, search, after-sales service.",
+   "Search; order; payment; delivery; after-sales service.",
+   [
+    "April 2025"
+   ]
+  ],
+  [
+   "Name any two e-commerce businesses.",
+   "Amazon and Flipkart (also eBay, Myntra, BigBasket).",
+   [
+    "April 2025"
+   ]
+  ],
+  [
+   "Mention the various ways of making payment in online transactions.",
+   "Cash on delivery, cheque, net banking, credit or debit card and digital cash."
+  ],
+  [
+   "Name the security measure: (a) conversion of data into a code, (b) used to authenticate the sender and check integrity.",
+   "(a) Encryption. (b) Digital signature."
+  ],
+  [
+   "Fill in the blanks: (a) The ______ is an online record of items picked while browsing. (b) ______ means the interaction among departments within the firm.",
+   "(a) virtual shopping cart. (b) Intra-B commerce."
+  ],
+  [
+   "State true or false: (i) A credit card holder can spend beyond the credit limit. (ii) E-Post helps rural people use e-mail facilities.",
+   "(i) False. (ii) True."
+  ]
+ ],
+ "vsa": [
+  [
+   "Give any two benefits of e-commerce.",
+   "Wider accessibility to national and global customers and savings in cost leading to lower prices (also convenience and time saving).",
+   [
+    "April 2026"
+   ]
+  ],
+  [
+   "What is e-Post?",
+   "A service in which printed or handwritten messages are sent as e-mail and printed, enveloped and delivered by the post office at the destination."
+  ],
+  [
+   "State any two limitations of e-commerce.",
+   "It lacks personal touch and customers cannot see or try goods before buying."
+  ],
+  [
+   "What is meant by intra-B commerce?",
+   "The interaction and dealings among departments and persons within the firm using the Internet."
+  ],
+  [
+   "Mention one benefit of an ATM for bank customers.",
+   "Withdrawal or deposit of money at any time and a check of balance and mini statement without visiting the bank."
+  ]
+ ],
+ "sa": [
+  [
+   "Explain any three forms of e-commerce.",
+   "B2B (between firms), B2C (between firms and consumers) and C2C (between consumers); C2B is the reverse of B2C.",
+   [
+    "April 2026"
+   ]
+  ],
+  [
+   "Explain the benefits of e-commerce (any three).",
+   "Wider accessibility, shorter transaction time, and cost saving with low prices (also improved service)."
+  ],
+  [
+   "Explain any three limitations of e-commerce.",
+   "Lack of personal touch, delivery delays and privacy and security risks."
+  ],
+  [
+   "Explain any three precautions for security in online transactions.",
+   "Use passwords, encrypt data and use digital signatures (also trusted third parties and authentication)."
+  ],
+  [
+   "Distinguish between a debit card and a credit card.",
+   "Debit card spends up to the balance in the account; credit card allows purchases up to a credit limit with payment by a due date, interest being charged on delay."
+  ],
+  [
+   "Explain any three e-business risks.",
+   "Default on order or delivery, data theft through virus or hacking and loss of privacy or intellectual property."
+  ]
+ ],
+ "la": [
+  [
+   "Explain the stages in online transactions.",
+   "Search for a vendor, order through registration and shopping cart, payment, delivery and after-sales service.",
+   [
+    "April 2025"
+   ]
+  ],
+  [
+   "What options are available for securing online transactions? Explain.",
+   "Passwords, authentication, encryption, digital signatures and trusted third parties, though stolen cards and fraudulent sites need vigilance.",
+   [
+    "April 2025"
+   ]
+  ],
+  [
+   "Explain the applications of e-commerce.",
+   "E-banking, e-ticketing, e-advertising, e-trading at stock exchanges, computerised mail and e-Post, and online education."
+  ],
+  [
+   "Explain the payment mechanisms of online transactions.",
+   "Cash on delivery, cheque, net banking, credit or debit card and digital cash."
+  ],
+  [
+   "Explain the resources required for successful e-business implementation.",
+   "A website, trained workforce, adequate computers, effective telecommunication and a payment mechanism."
+  ]
+ ]
+}

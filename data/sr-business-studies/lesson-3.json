@@ -1,0 +1,430 @@
+{
+  "subject": "sr-business-studies",
+  "lesson": 3,
+  "title": "Business Environment",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "12 × 1 = 12",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "A firm decides to train its staff to use the latest android software. This is a response to which environmental change?",
+          "options": [
+            "Social",
+            "Technological",
+            "Legal",
+            "Natural"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "Which factor is included in the economic environment?",
+          "options": [
+            "Tax policies",
+            "Cultural values",
+            "Demographic changes",
+            "Social trends"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "Which of the following is an example of the legal environment?",
+          "options": [
+            "Banking policies",
+            "The Consumer Protection Act",
+            "Inflation rate",
+            "Population growth"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "Which of the following is a part of the legal environment?",
+          "options": [
+            "Government policies towards business",
+            "Companies Act 2013",
+            "Life expectancy rate",
+            "Geographical factors"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "The process of eliminating unnecessary controls and restrictions on the smooth functioning of business is called —",
+          "options": [
+            "Liberalization",
+            "Privatization",
+            "Globalization",
+            "Indianization"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "Creating digital infrastructure, delivering government services digitally and digital literacy are components of —",
+          "options": [
+            "Make in India",
+            "Privatization",
+            "Digital India",
+            "Globalization"
+          ],
+          "answer": "C",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "To provide goods of standard quality is the responsibility of business towards —",
+          "options": [
+            "Government",
+            "Shareholders",
+            "Consumers",
+            "Community"
+          ],
+          "answer": "C",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "The element of business environment shaped by beliefs and customs of people is —",
+          "options": [
+            "Legal",
+            "Economic",
+            "Social",
+            "Political"
+          ],
+          "answer": "C",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "Which of the following is NOT a feature of business environment?",
+          "options": [
+            "Interrelatedness",
+            "Dynamics",
+            "Complexity",
+            "Continuity"
+          ],
+          "answer": "D",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "Creating a website and selling online is related to which environment?",
+          "options": [
+            "Political",
+            "Technological",
+            "Social",
+            "Economic"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "Infosys opening schools for less privileged children is an example of ______ environment.",
+          "options": [
+            "Economic",
+            "Political",
+            "Legal",
+            "Social"
+          ],
+          "answer": "D",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "Fiscal policy deals with —",
+          "options": [
+            "public expenditure, taxation and public debt",
+            "supply of credit",
+            "foreign investment",
+            "import-export duties"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark.",
+      "marks": "10 × 2 = 20",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "Identify the type of business environment: (a) Includes the set of laws and regulations which influence business organisations. (b) Includes methods, techniques and approaches for production of goods and services.",
+          "answer": "(a) Legal environment. (b) Technological environment.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Identify the interest group of business: (a) To pay taxes honestly and on time. (b) To provide reasonable and fair wages and salary.",
+          "answer": "(a) Government. (b) Employees.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "Name any two factors included under demographic environment.",
+          "answer": "Size, density, distribution and growth rate of population (also age composition).",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Fill in the blanks regarding the 1991 reforms: (a) ______ refers to eliminating unnecessary controls and restrictions. (b) ______ refers to reducing the role of the public sector.",
+          "answer": "(a) Liberalisation. (b) Privatisation.",
+          "years": [
+            "April 2026",
+            "October 2024"
+          ]
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "State whether true or false: (a) The business environment is static in nature. (b) The changes in business environment are unpredictable.",
+          "answer": "(a) False. (b) True.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "State true or false: (i) The interaction between the business and its environment helps in identifying opportunities and threats. (ii) Environmental understanding does not help business organisations in improving their image.",
+          "answer": "(i) True. (ii) False.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "2.7",
+          "type": "open",
+          "q": "Fill in the blanks: (i) To ensure safety of investment is the responsibility of business towards its ______. (ii) To develop a sense of belonging is the responsibility towards its ______.",
+          "answer": "(i) shareholders (owners). (ii) employees.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "2.8",
+          "type": "open",
+          "q": "Identify the type of non-economic environment: (a) Demand for new clothes increases during festivals. (b) The computer has outdated the typewriter.",
+          "answer": "(a) Social environment. (b) Technological environment.",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "2.9",
+          "type": "open",
+          "q": "Give the full form: (a) GST (b) FEMA.",
+          "answer": "(a) Goods and Services Tax. (b) Foreign Exchange Management Act."
+        },
+        {
+          "id": "2.10",
+          "type": "open",
+          "q": "Name any two economic policies of the government.",
+          "answer": "Industrial policy, fiscal policy, monetary policy, foreign investment policy, Exim policy (any two)."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "8 × 2 = 16",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "State any two objectives of the 'Make in India' initiative of the Government of India.",
+          "answer": "Expansion of job opportunities and ease of doing business; upgradation of technology and improving India's global ranking.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "State any two benefits of 'Digital India'.",
+          "answer": "It introduces e-services such as e-health and DigiLocker and gives easy access to information with less documentation.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "List any four economic policies.",
+          "answer": "Industrial policy, fiscal policy, monetary policy, foreign investment policy and export-import policy.",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "How do judicial decisions constitute part of the legal environment?",
+          "answer": "Decisions of courts interpret laws and set precedents which businesses must follow, so they affect business conduct.",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "3.5",
+          "type": "open",
+          "q": "State any two responsibilities of business towards the shareholders or owners.",
+          "answer": "To ensure safety of investment and to provide a fair and regular dividend (also information and capital appreciation).",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "3.6",
+          "type": "open",
+          "q": "State any two features of business environment.",
+          "answer": "It is dynamic and uncertain; it is complex and inter-related."
+        },
+        {
+          "id": "3.7",
+          "type": "open",
+          "q": "What is meant by globalisation?",
+          "answer": "Integrating the economy of a country with the world economy through free flow of goods, services, capital, technology and labour across borders."
+        },
+        {
+          "id": "3.8",
+          "type": "open",
+          "q": "Mention any two causes of environmental pollution.",
+          "answer": "Carbon monoxide from automobiles and chemical waste from factories, plastic and excess pesticides."
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "5 × 3 = 15",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "Explain the importance of business environment (any three points).",
+          "answer": "It helps determine opportunities and threats, gives direction for growth, supports continuous learning, builds image and helps meet competition."
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "Explain the impact of government policy changes of 1991 on business.",
+          "answer": "Companies adopted world-class technology, customers became more demanding, competition from MNCs increased, businesses had to change policies and had to develop human resources."
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "Explain the benefits of GST.",
+          "answer": "It eliminates tax on tax, is technology driven and online, lowers the cost of goods, speeds up taxation, reduces compliances and regularises the unorganised sector."
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "Explain the responsibilities of business towards consumers.",
+          "answer": "Regular supply, reasonable prices, standard quality, true advertisements and prompt service and attention to complaints."
+        },
+        {
+          "id": "4.5",
+          "type": "open",
+          "q": "Distinguish between social responsibility and legal obligation, and give three reasons for social responsibility.",
+          "answer": "Legal obligation is followed for fear of law; social responsibility is voluntary. Reasons: self-interest, public image and moral justification."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Long answer questions. Answer in 80–120 words.",
+      "marks": "4 × 5 = 20",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "Explain the dimensions of business environment (economic and non-economic) with examples.",
+          "answer": "Economic: conditions, policies and system (mixed economy). Non-economic: social (customs, literacy), political (stability), legal (Companies Act 2013), technological, demographic and natural environment, each influencing business decisions."
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "Why is it significant for a business to understand its environment?",
+          "answer": "It identifies opportunities and threats, gives direction for growth, enables continuous learning, builds image, helps meet competition and shows strengths and weaknesses.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "Explain liberalisation, privatisation and globalisation and their impact on business.",
+          "answer": "Liberalisation removes controls; privatisation reduces the public sector's role; globalisation integrates the economy with the world; effects: technological change, demanding consumers, competition, need for change and human resource development."
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "Explain the social responsibility of business towards different interest groups.",
+          "answer": "Towards owners (fair return), employees (fair wages), consumers (quality goods), government (taxes and laws) and the community (environment, employment, culture)."
+        }
+      ]
+    }
+  ]
+}

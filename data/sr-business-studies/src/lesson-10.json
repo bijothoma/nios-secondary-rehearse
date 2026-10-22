@@ -1,0 +1,328 @@
+{
+ "lesson": 10,
+ "title": "Financial Planning and Management",
+ "module": 3,
+ "summary": [
+  "## Financial management and decisions",
+  "Financial management is concerned with procuring funds in an economic and prudent manner and deploying them in the most profitable way in a given risk situation; it deals with three decisions. Investment decision: careful selection of viable and productive assets: long-term investment in fixed assets (capital budgeting decision) and short-term investment in current assets (working capital decision); influenced by cash flow, time value of money, risk and technological changes. Financing decision: procurement of funds economically after identifying timing and quantum of sources; considers the cost of capital, timing, underwriting, best capital structure mix, statutory provisions, takeover threat, company image, liquidity and the amount needed; relates to the liabilities side of the balance sheet. Dividend decision: how much net profit to distribute to shareholders and how much to retain, depending on expansion and diversification plans; equity shareholders' return consists of dividends and capital gains.",
+  "Objectives: profit maximisation (vague, ignores timing of returns and ignores risk) and wealth (value) maximisation, which depends on earnings per share and capitalisation rate and considers the time value of money; wealth maximisation is superior to profit maximisation.",
+  "## Financial planning",
+  "Financial planning is the framing of financial policies for procurement, investment and administration of funds to achieve objectives; it estimates the current financial condition, appraises investment options, projects growth and profit, estimates fund requirements and compares financing options. Essentials of a sound financial plan: it must be simple; take a long-term view; be flexible; ensure optimal use of funds; keep the cost of capital at the lowest level (optimal capital structure); ensure adequate liquidity (readiness to meet obligations when due). Importance: estimates accurate fund requirements; develops a sound capital structure; proper utilisation of funds; avoids shortage or surplus of funds; provides policies and procedures to coordinate departments; basis for control; helps face unforeseen situations.",
+  "## Capital structure",
+  "Capital structure is the combination of debt and equity (equity share capital, preference share capital, debentures, long-term loans, retained earnings) used to finance the business and maximise the market value of shares. Equity capital: money put in by owners, costliest source (contributed capital and retained earnings); debt capital: borrowings, term loans, debentures. Debt is cheaper (interest is tax deductible) but risky (legal obligation to pay interest and principal); equity is safe for the company (no obligation to pay dividend) but expensive. Capital structure includes only long-term debt and shareholders' funds; financial structure includes capital structure plus current liabilities. Determinants of capital structure: cash flow position, return on investment, tax rate, cost of financing, floatation costs, risk, flexibility, control, interest coverage ratio, debt service coverage ratio, regulatory framework and stock market conditions.",
+  "## Leverage",
+  "Leverage (gearing) is the use of debt to increase earnings per share and returns to owners. Financial leverage = EBIT / EBT (EBIT = earnings before interest and tax; EBT = earnings before tax) measures financial risk. Operating leverage = Contribution / EBIT measures business risk. Combined leverage = Contribution / EBT = operating leverage × financial leverage (e.g. 2 × 5 = 10: a 1 per cent rise in sales raises EBT by 10 per cent). High operating and high financial leverage together is very risky; high operating with low financial leverage is the ideal situation.",
+  "## Fixed capital and working capital",
+  "Fixed capital is invested in non-current assets that serve for more than one accounting period (land, buildings, plant, machinery, patents). Sources: issue of shares (equity and preference), rights issue (to existing shareholders below market price; economical), private placement, debentures, term loans from banks and institutions, retained earnings (ploughing back of profits), lease. Factors affecting fixed capital requirement: nature of business (manufacturing needs more than trading), size, scale of operation, technology (capital-intensive needs more), type of products, scope of activities, method of acquiring assets (lease needs less) and government subsidy.",
+  "Working capital is the capital for day-to-day operations (circulating capital). Gross concept: investment in current assets (convertible into cash within 12 months); net concept: current assets minus current liabilities (suitable to assess liquidity). Types: permanent or fixed working capital (minimum level of current assets always needed) and variable (fluctuating, temporary) working capital. Factors affecting working capital requirement: nature of business, scale of operations, business cycle, seasonal factors (seasonal sales need high working capital), production cycle, credit policy, operating efficiency, availability of raw material, growth prospects, level of competition and inflation."
+ ],
+ "mcq": [
+  [
+   "Financial planning starts with —",
+   [
+    "estimating fund requirements",
+    "collecting funds",
+    "investing funds",
+    "distributing dividends"
+   ],
+   "A",
+   [
+    "April 2026"
+   ]
+  ],
+  [
+   "Which of the following is a component of financial planning?",
+   [
+    "Determining capital requirements",
+    "Making business policies",
+    "Managing human resources",
+    "Selling goods to customers"
+   ],
+   "A",
+   [
+    "April 2025"
+   ]
+  ],
+  [
+   "The financial decision concerned with the procurement of funds is —",
+   [
+    "Investment Decision",
+    "Dividend Decision",
+    "Financing Decision",
+    "Working Capital Decision"
+   ],
+   "C",
+   [
+    "October 2025"
+   ]
+  ],
+  [
+   "It deals with framing of financial policies for procurement, investment and administration of funds to achieve objectives —",
+   [
+    "Financial Management",
+    "Financial Decision",
+    "Financing Decision",
+    "Financial Planning"
+   ],
+   "A",
+   [
+    "October 2025"
+   ]
+  ],
+  [
+   "Fluctuating working capital is also called —",
+   [
+    "Gross Working Capital",
+    "Net Working Capital",
+    "Variable Working Capital",
+    "Fixed Working Capital"
+   ],
+   "C",
+   [
+    "October 2025"
+   ]
+  ],
+  [
+   "Long-term investment decisions are also called —",
+   [
+    "Working Capital Decisions",
+    "Capital Budgeting Decisions",
+    "Dividend Decision",
+    "Financing Decision"
+   ],
+   "B",
+   [
+    "October 2024"
+   ]
+  ],
+  [
+   "The capital structure of an organisation refers to the combination of —",
+   [
+    "Dividend and wealth",
+    "Debt and equity",
+    "Fixed assets and current assets",
+    "Fixed capital and working capital"
+   ],
+   "B",
+   [
+    "October 2024"
+   ]
+  ],
+  [
+   "Current assets are assets that get converted into cash —",
+   [
+    "Within six months",
+    "Within one year",
+    "Between one and three years",
+    "Between three and five years"
+   ],
+   "B",
+   [
+    "October 2024"
+   ]
+  ],
+  [
+   "Funds required for purchasing current assets are an example of —",
+   [
+    "Fixed capital requirement",
+    "Ploughing back of profits",
+    "Working capital requirement",
+    "Lease financing"
+   ],
+   "C",
+   [
+    "October 2024"
+   ]
+  ],
+  [
+   "The ability of a firm to convert an asset into cash is called —",
+   [
+    "Liquidity",
+    "Solvency",
+    "Return",
+    "Marketability"
+   ],
+   "A",
+   [
+    "October 2024"
+   ]
+  ],
+  [
+   "Which source of finance does not require repayment?",
+   [
+    "Loans",
+    "Equity shares",
+    "Debentures",
+    "Bonds"
+   ],
+   "B",
+   [
+    "April 2025"
+   ]
+  ],
+  [
+   "Financial leverage is calculated as —",
+   [
+    "EBIT / EBT",
+    "Contribution / EBIT",
+    "Contribution / EBT",
+    "EBT / EBIT"
+   ],
+   "A"
+  ]
+ ],
+ "objective": [
+  [
+   "Identify whether the working capital requirement is high or low: (a) When sales are seasonal. (b) When sales are uniform.",
+   "(a) High. (b) Low.",
+   [
+    "April 2026"
+   ]
+  ],
+  [
+   "(a) What is financial leverage? (b) How is it calculated?",
+   "(a) The use of debt in the capital structure to magnify the effect of EBIT on EPS. (b) EBIT / EBT.",
+   [
+    "April 2025"
+   ]
+  ],
+  [
+   "Identify the financial decisions: (a) Decision relating to long-term investment in fixed assets. (b) Decision relating to short-term investment in current assets.",
+   "(a) Capital budgeting decision. (b) Working capital decision.",
+   [
+    "April 2025",
+    "October 2025"
+   ]
+  ],
+  [
+   "Fill in the blanks: (i) Capital structure includes ______ liabilities. (ii) Financial structure includes ______ liabilities and ______ liabilities.",
+   "(i) non-current (long-term). (ii) non-current; current.",
+   [
+    "October 2025"
+   ]
+  ],
+  [
+   "State true or false: (i) Shares are secured. (ii) Debentures are generally unsecured.",
+   "(i) False. (ii) False – debentures are generally secured.",
+   [
+    "October 2025"
+   ]
+  ],
+  [
+   "Give one word for the following: (a) The date on which the board declares a dividend (b) Dividend in the form of bonus shares.",
+   "(a) Declaration date. (b) Stock dividend.",
+   [
+    "October 2024"
+   ]
+  ],
+  [
+   "Differentiate Debt from Equity (any two points).",
+   "Debt is borrowed capital, repayable with interest, cheaper and risky; equity is owners' capital, no repayment obligation, costlier and safer for the company.",
+   [
+    "April 2025"
+   ]
+  ],
+  [
+   "Give an example of current assets.",
+   "Cash, inventories, debtors or bills receivable (any one).",
+   [
+    "October 2024"
+   ]
+  ],
+  [
+   "Give the formula of (a) operating leverage (b) combined leverage.",
+   "(a) Contribution / EBIT. (b) Contribution / EBT (financial leverage × operating leverage)."
+  ]
+ ],
+ "vsa": [
+  [
+   "State any four objectives of financial management other than maximisation of shareholders' wealth.",
+   "Ensuring regular and adequate funds, ensuring optimum use of funds, maintaining liquidity and ensuring safety of investment.",
+   [
+    "October 2024"
+   ]
+  ],
+  [
+   "Why is wealth maximisation superior to profit maximisation?",
+   "It considers risk and the time value of money and focuses on earnings per share, unlike vague profit maximisation."
+  ],
+  [
+   "State any two factors affecting the choice of capital structure.",
+   "Cash flow position and cost of financing (also tax rate, return on investment and risk)."
+  ],
+  [
+   "What is the difference between capital structure and financial structure?",
+   "Capital structure includes long-term debt and equity; financial structure also includes current liabilities."
+  ],
+  [
+   "What is meant by fixed capital? Give an example of its use.",
+   "Capital invested in assets lasting more than a year, e.g. buying plant and machinery."
+  ],
+  [
+   "Define working capital.",
+   "The capital needed for day-to-day operations; the investment in current assets (gross) or current assets minus current liabilities (net)."
+  ]
+ ],
+ "sa": [
+  [
+   "A company is planning to set up a new plant and estimate its future financial requirements. Explain how financial planning will help.",
+   "It estimates accurate fund requirements, develops a sound capital structure, ensures proper utilisation of funds, avoids shortage or surplus and helps face unforeseen situations.",
+   [
+    "April 2026"
+   ]
+  ],
+  [
+   "State any three objectives of financial planning.",
+   "To ensure timely availability of funds, to avoid raising excess or inadequate funds and to raise funds at the lowest cost with adequate liquidity.",
+   [
+    "October 2024"
+   ]
+  ],
+  [
+   "Explain the three financial decisions.",
+   "Investment (selecting assets), financing (procuring funds at the best mix) and dividend decisions (how much profit to distribute or retain)."
+  ],
+  [
+   "Explain the difference between operating leverage and financial leverage.",
+   "Operating leverage = contribution/EBIT shows business risk; financial leverage = EBIT/EBT shows financial risk from debt."
+  ],
+  [
+   "Distinguish between fixed capital and working capital.",
+   "Fixed capital is invested in long-term assets and is used permanently; working capital is invested in current assets for day-to-day needs and circulates."
+  ]
+ ],
+ "la": [
+  [
+   "Discuss the essentials of a sound financial plan.",
+   "It should be simple, take a long-term view, be flexible, ensure optimal use of funds, keep the cost of capital low through an optimal capital structure and ensure adequate liquidity.",
+   [
+    "April 2025"
+   ]
+  ],
+  [
+   "State any five main objectives of financial planning.",
+   "Estimating funds correctly, developing a sound capital structure, proper utilisation, avoiding shortage or surplus and controlling financial activities.",
+   [
+    "October 2024"
+   ]
+  ],
+  [
+   "Explain any five factors that influence fixed capital requirement.",
+   "Nature of business, size, scale of operation, technology used, types of products, scope of activities, method of acquiring assets and government subsidy.",
+   [
+    "October 2024"
+   ]
+  ],
+  [
+   "Explain any five factors affecting the working capital requirement of a business.",
+   "Nature of business, scale of operations, business cycle, seasonal factors, production cycle, credit policy, operating efficiency and inflation.",
+   [
+    "October 2024"
+   ]
+  ],
+  [
+   "Explain the determinants of capital structure.",
+   "Cash flow position, return on investment, tax rate, cost of financing, floatation cost, risk, flexibility, control, coverage ratios, regulations and stock market conditions."
+  ]
+ ]
+}

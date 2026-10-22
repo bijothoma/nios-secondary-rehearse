@@ -1,0 +1,384 @@
+{
+  "subject": "sr-business-studies",
+  "lesson": 19,
+  "title": "External Trade",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "12 × 1 = 12",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "Which of the following is NOT a component of external trade?",
+          "options": [
+            "Import",
+            "Export",
+            "Entrepot trade",
+            "Retail trade"
+          ],
+          "answer": "D",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "A shipping company asks for proof of delivery authorisation. The document to be shown is the —",
+          "options": [
+            "Indent",
+            "Mate's Receipt",
+            "Bill of Lading",
+            "Invoice"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "Entrepot trade refers to —",
+          "options": [
+            "importing goods for local consumption",
+            "exporting goods to another country",
+            "importing goods and then re-exporting them without using them",
+            "buying goods from retailers"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "Importing goods for the purpose of re-exporting is called —",
+          "options": [
+            "Import trade",
+            "Export trade",
+            "Entrepot trade",
+            "External trade"
+          ],
+          "answer": "C",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "The officials appointed by the government in its embassy to represent the country's trade interests are called —",
+          "options": [
+            "Trade Commissioners",
+            "Trade Representatives",
+            "Clearing Agents",
+            "Forwarding Agents"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "A document prepared by the exporter or forwarding agent, on the basis of which customs calculates the export duty, is the —",
+          "options": [
+            "Shipping Bill",
+            "Mate's Receipt",
+            "Shipping Order",
+            "Bill of Lading"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "Which of the following is another name for external trade?",
+          "options": [
+            "Home trade",
+            "Foreign trade",
+            "Domestic trade",
+            "Internal trade"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "The IEC number is granted by —",
+          "options": [
+            "DGFT",
+            "RBI",
+            "SEBI",
+            "ECGC"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "The form filled by the importer at the time of receiving goods, on which customs duty is calculated, is the —",
+          "options": [
+            "Bill of entry",
+            "Shipping bill",
+            "Mate's receipt",
+            "Indent"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "Foreign exchange for imports is released by the —",
+          "options": [
+            "RBI",
+            "SEBI",
+            "Customs",
+            "ECGC"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "Visible trade refers to the trade in —",
+          "options": [
+            "tangible goods",
+            "services",
+            "money",
+            "securities"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "Which agent clears goods from the port of destination on behalf of the importer?",
+          "options": [
+            "Clearing agent",
+            "Forwarding agent",
+            "Indent house",
+            "Export house"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark.",
+      "marks": "8 × 2 = 16",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "State true or false: (a) An importer cannot import goods without a valid import licence. (b) The exporter pays the import duty.",
+          "answer": "(a) True. (b) False – the importer (through the clearing agent) pays import duty.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Name the document: (a) An agreement signed with the shipping company to put goods on the ship. (b) Issued by the captain of the ship after loading.",
+          "answer": "(a) Shipping order. (b) Mate's receipt."
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "Name the document: (a) Obtained by the forwarding agent from the shipping company after the mate's receipt. (b) An order placed for import of goods.",
+          "answer": "(a) Bill of lading. (b) Indent.",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Identify the official: (a) Provides guidance to exporters abroad on behalf of the government. (b) A form filled by the importer at the time of receiving the goods.",
+          "answer": "(a) Trade representative. (b) Bill of entry.",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "State whether it is export, import or entrepot trade for India: (a) India bought goods from Russia and sold to Sri Lanka. (b) UK bought jewellery from India.",
+          "answer": "(a) Entrepot trade. (b) Export trade."
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "Match: (a) Export houses (b) Indent houses (c) Clearing agents (d) Shipping company with (i) carries goods for freight (ii) receive orders with instructions (iii) clear goods at destination (iv) export promotion.",
+          "answer": "(a)-(iv); (b)-(ii); (c)-(iii); (d)-(i)."
+        },
+        {
+          "id": "2.7",
+          "type": "open",
+          "q": "Give two examples of invisible trade.",
+          "answer": "Shipping and insurance services (also tourism, technician services)."
+        },
+        {
+          "id": "2.8",
+          "type": "open",
+          "q": "Expand: (i) IEC (ii) RCMC (iii) ECGC.",
+          "answer": "(i) Import Export Code. (ii) Registration-cum-Membership Certificate. (iii) Export Credit and Guarantee Corporation."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "6 × 2 = 12",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "Mention any two reasons for entrepot trade.",
+          "answer": "Non-accessibility of trade routes and goods needing processing or finishing (also lack of trade agreement)."
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "How does external trade improve the standard of living of people?",
+          "answer": "People consume goods they do not produce, and exports earn foreign exchange, raising income and living standards."
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "How can a clearing agent help the importer?",
+          "answer": "He completes the customs and dock formalities, pays duty and takes delivery of the goods from the port and sends them to the importer."
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "Define 'Letter of Credit'.",
+          "answer": "A document issued by the importer's bank in favour of the exporter assuring payment of the exporter's bill up to the specified amount."
+        },
+        {
+          "id": "3.5",
+          "type": "open",
+          "q": "Explain visible and invisible trade.",
+          "answer": "Visible trade is import and export of goods; invisible trade is exchange of services such as shipping, insurance and tourism."
+        },
+        {
+          "id": "3.6",
+          "type": "open",
+          "q": "State any four difficulties faced in external trade.",
+          "answer": "Geographical distance, greater risk, legal and customs restrictions and exchange rate fluctuations."
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "6 × 3 = 18",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "Explain the three types of external trade.",
+          "answer": "Import trade (buying goods from a foreign country), export trade (selling goods to a foreign country) and entrepot trade (importing goods and re-exporting them).",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "Explain any three roles played by a clearing agent in external trade.",
+          "answer": "Gets the bill of lading endorsed, files the bill of entry and pays customs duty; pays dock charges and takes delivery; despatches goods to the importer and sends advice.",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "Explain any three documents used in external trade.",
+          "answer": "Bill of lading (issued by the shipping company), shipping bill (used by customs to compute export duty) and bill of entry (filed by the importer or clearing agent).",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "Explain any three importance of external trade.",
+          "answer": "It promotes specialisation, improves living standards and generates employment."
+        },
+        {
+          "id": "4.5",
+          "type": "open",
+          "q": "Explain any three facilitators of external trade.",
+          "answer": "Indent houses, forwarding agents and insurance companies (also shipping company and trade commissioners)."
+        },
+        {
+          "id": "4.6",
+          "type": "open",
+          "q": "Explain the difference between a letter of credit and a letter of hypothecation.",
+          "answer": "A letter of credit is issued by the importer's bank guaranteeing payment; a letter of hypothecation is given by the exporter to his bank authorising it to sell the goods if the bill is dishonoured."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Long answer questions. Answer in 80–120 words.",
+      "marks": "5 × 5 = 25",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "Explain the procedure for export trade.",
+          "answer": "Enquiry and quotation, indent, credit enquiry, export licence, procurement, inspection, excise clearance, packing, forwarding agent and shipping formalities, invoice and securing payment."
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "Explain the procedure for import trade.",
+          "answer": "Trade enquiry, import licence, foreign exchange, indent, letter of credit, shipping documents, clearing agent, bill of entry, dock charges, despatch and advice."
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "Explain the formalities completed by a forwarding agent.",
+          "answer": "Customs permit, shipping order, shipping bill and export duty, dock dues, customs verification, mate's receipt, bill of lading, insurance and advice to the exporter."
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "Explain the difficulties faced in external trade.",
+          "answer": "Distance, risk, transport problems, customs restrictions, market study, changing rules and exchange rate fluctuations."
+        },
+        {
+          "id": "5.5",
+          "type": "open",
+          "q": "Explain the importance of external trade.",
+          "answer": "Specialisation, standard of living, competition, employment, price equalisation, international relations, economic growth and resource utilisation."
+        }
+      ]
+    }
+  ]
+}

@@ -154,6 +154,10 @@ question's own short note.
   plus the optional-module lessons (27 and 28 for Module A, Traditional Media; 29 and 30 for Module B, Photojournalism).
   A full paper shows both optional modules (a student answers one). Textbook PDFs came from nios.ac.in; past papers
   (April 2024 to April 2026 tagged) came from the Senior Secondary session archives.
+- `tools/build_sr_business.py`: builds Senior Secondary Business Studies (319, id `sr-business-studies`, separate from the
+  Secondary course) from `data/sr-business-studies/src/lesson-<n>.json` with `build_sci.py` (51 questions, 100 marks:
+  20 MCQs, fifteen 2-mark objective questions, six 2-mark, six 3-mark and four 5-mark answers). The 14 public-exam
+  lessons of the NIOS bifurcation are included; past-paper questions of October 2024 to April 2026 are tagged by exam.
 - All of these builders share `build_question` in `tools/build_ss.py`. It marks an MCQ `fixed` (options
   keep their printed order instead of being shuffled) when an option refers to the others, such as
   "all of these", "none of the above" or "both (A) and (B)".

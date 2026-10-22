@@ -1,0 +1,96 @@
+{
+  "subject": "sr-business-studies",
+  "lesson": 23,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 23: Modern Modes of Business — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "E-business and e-commerce"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "The Internet is a worldwide network of computers through which users can access information, e-mail, transfer files, chat, browse catalogues and buy goods online, and set up websites (conceived by ARPA of the US in 1969 as ARPANET). E-business means carrying out business activities (production, marketing, selling, banking, insurance) electronically. E-commerce is conducting business with electronic devices and telecommunication networks, where the offer for sale and its acceptance are made electronically; also called online trading, online shopping or e-shopping. E-commerce began with Electronic Data Interchange (EDI) in the 1960s, and grew with eBay and Amazon in the 1990s."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Forms of e-commerce: B2B (business to business: manufacturer and supplier, wholesaler and retailer), B2C (business to consumer: firms and their customers, round the clock), C2C (consumer to consumer: used books and household goods) and C2B (consumers offer products and services for companies to bid on). E-business is a broader term which also includes intra-B commerce (interaction among departments within the firm)."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Benefits: wider accessibility; improved customer service (open round the clock); shortened transaction time; cost saving and low prices; business growth and profits; convenience to customers (wide choice and competitive prices); personalisation and product recommendations. Limitations: lack of personal touch (clothes, jewellery); customers cannot see, feel or try goods; delivery delays; problems in returning faulty goods; unsuitable for non-routine buying; risks in the transaction, data storage and transmission, and privacy; for B2B, challenges include lack of Internet infrastructure, delivery and payment issues and absence of cyber laws."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Online transactions"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Stages: search (find a vendor); order (register, create an account with a password and put items in the virtual shopping cart, an online record of what has been picked); payment (credit or debit card, net banking, cheque, cash on delivery (COD), digital cash, an electronic currency); delivery; after-sales service (warranty, maintenance, complaints). Resources for e-business: website, technically qualified workforce, adequate computers, effective telecommunication and a payment mechanism."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Security: passwords; authentication (identifying the sender); encryption (conversion of data into a code that cannot be read by others; cryptography uses a secret key); digital signatures (authenticate the sender and ensure integrity); trusted third parties (a copy of the transaction held to settle disputes); antivirus programs. Risks: transaction risks (default on order giving or taking, default on delivery), data storage and transmission risks (virus, hacking) and risks to intellectual property and privacy. Measures: verify the customer's identity and location, check cookies, shop only from well-established sites."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Applications of e-commerce"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "E-banking: telebanking (T-PIN for telephone access), internet banking (anywhere, anytime, any number of times), ATM (Automated Teller Machine, operated with a card and PIN for withdrawal, deposit, balance and mini statement), debit card (spend up to the balance in the account) and credit card (credit limit fixed by the bank; credit period 10 to 55 days; interest at a high rate on late payment). Others: e-ticketing (railway and air tickets), e-advertising (the surfer clicks only on advertisements of interest), e-trading at stock exchanges (NSE and BSE; transfer by electronic records; rolling settlement of 2 days), computerisation of mail (VSAT for money orders, Unified Message Service), e-Post (messages sent as e-mail and printed and delivered at the destination post office, Rs 10 per addressee) and education (online classes)."
+        ]
+      ]
+    }
+  ]
+}
