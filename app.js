@@ -106,6 +106,7 @@ function levelOf(s) {
 function renderHome() {
   setHidden(scoreEl, true);
   setChildren(app,
+    crumbs([['Courses', null]]),
     el('h1', {}, 'Choose a course'),
     el('div', { 'class': 'tiles' },
       levels.map(function (lv) {
@@ -119,11 +120,27 @@ function renderHome() {
   );
 }
 
+function crumbs(items) {
+  var kids = [];
+  items.forEach(function (it, i) {
+    if (i) kids.push(el('span', { 'class': 'sep' }, ' › '));
+    kids.push(it[1] ? el('a', { href: it[1] }, it[0]) : el('span', { 'class': 'here' }, it[0]));
+  });
+  return el('div', { 'class': 'crumbs' }, kids);
+}
+function subjectCrumbs(subject) {
+  var lv = levelOf(subject);
+  return [['Courses', '#/'], [lv.name, '#/' + lv.id], [subject.label || subject.name, '#/' + subject.id]];
+}
+function lessonCrumbs(subject, lessonMeta) {
+  return subjectCrumbs(subject).concat([['Lesson ' + lessonMeta.no, lessonHash(subject, lessonMeta)]]);
+}
+
 function renderLevel(level) {
   setHidden(scoreEl, true);
   var list = subjects.filter(function (s) { return levelOf(s) === level; });
   setChildren(app,
-    el('div', { 'class': 'crumbs' }, el('a', { href: '#/' }, '« Courses')),
+    crumbs([['Courses', '#/'], [level.name, null]]),
     el('h1', {}, level.name + ' (' + level.label + ')'),
     list.length === 0
       ? el('p', { 'class': 'muted' }, 'No subjects added yet.')
@@ -149,7 +166,7 @@ function lessonCount(s) {
 function renderSubject(subject) {
   setHidden(scoreEl, true);
   setChildren(app,
-    el('div', { 'class': 'crumbs' }, el('a', { href: '#/' + levelOf(subject).id }, '« ' + levelOf(subject).name)),
+    crumbs(subjectCrumbs(subject).slice(0, 2).concat([[subject.label || subject.name, null]])),
     el('h1', {}, subject.label || subject.name),
     subject.lessons.length === 0
       ? el('p', { 'class': 'muted' }, 'No lessons added yet.')
@@ -177,7 +194,7 @@ function renderLessonMenu(subject, lessonMeta) {
   setHidden(scoreEl, true);
   var base = lessonHash(subject, lessonMeta);
   setChildren(app,
-    el('div', { 'class': 'crumbs' }, el('a', { href: '#/' + subject.id }, '« ' + (subject.label || subject.name))),
+    crumbs(subjectCrumbs(subject).concat([['Lesson ' + lessonMeta.no, null]])),
     el('div', { 'class': 'muted' }, lessonLabel(lessonMeta)),
     el('h1', {}, lessonMeta.title),
     el('div', { 'class': 'tiles' },
@@ -220,7 +237,7 @@ function renderText(subject, lessonMeta, kind, withEnglish) {
         parts.map(function (p) { return el('span', { 'class': p[0] }, p[1]); })));
     });
     setChildren(app,
-      el('div', { 'class': 'crumbs' }, el('a', { href: lessonHash(subject, lessonMeta) }, '« Lesson ' + lessonMeta.no)),
+      crumbs(lessonCrumbs(subject, lessonMeta)),
       el('div', { 'class': 'lesson-text' + (withEnglish ? ' with-en' : '') }, blocks),
       el('div', { 'class': 'actions' },
         hasEnglish ? el('a', { 'class': 'btn', href: lessonHash(subject, lessonMeta) + views[withEnglish ? 0 : 1] },
@@ -295,9 +312,7 @@ function showPaper(subject, lessonMeta) {
     var restart = function () { renderPaper(subject, lessonMeta); };
 
     var head = el('div', { 'class': 'paper-head' },
-      el('div', { 'class': 'crumbs' }, lessonMeta.text || lessonMeta.summary
-        ? el('a', { href: lessonHash(subject, lessonMeta) }, '« Lesson ' + lessonMeta.no)
-        : el('a', { href: '#/' + subject.id }, '« ' + (subject.label || subject.name))),
+      crumbs(lessonMeta.text || lessonMeta.summary ? lessonCrumbs(subject, lessonMeta) : subjectCrumbs(subject)),
       el('div', { 'class': 'muted' }, lessonLabel(lessonMeta)),
       el('h1', {}, paper.title),
       paper.author ? el('div', {}, paper.author) : null,

@@ -75,6 +75,8 @@ a { color: #3b5bdb; color: var(--accent); }
 .tile span { color: #667085; color: var(--muted); font-size: .9em; }
 
 .crumbs { margin-bottom: 8px; font-size: .95em; }
+.crumbs .sep { color: #888; }
+.crumbs .here { font-weight: 600; }
 
 /* Lesson text */
 .lesson-text {
