@@ -1,0 +1,348 @@
+{
+  "subject": "biology",
+  "lesson": 30,
+  "title": "Immunobiology: An Introduction",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "12 × 1 = 12",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "Who is considered the father of modern immunobiology?",
+          "options": [
+            "Edward Jenner",
+            "Louis Pasteur",
+            "Robert Koch",
+            "Alexander Fleming"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "B-cells mature in the —",
+          "options": [
+            "bone marrow",
+            "thymus",
+            "spleen",
+            "liver"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "T-cells mature in the —",
+          "options": [
+            "thymus",
+            "bone marrow",
+            "spleen",
+            "lymph node"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "The antibody class present in the highest concentration is —",
+          "options": [
+            "IgG",
+            "IgM",
+            "IgA",
+            "IgE"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "BCG is a vaccine against —",
+          "options": [
+            "tuberculosis",
+            "polio",
+            "measles",
+            "typhoid"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "The DPT vaccine protects against —",
+          "options": [
+            "diphtheria, pertussis and tetanus",
+            "dengue, polio and typhoid",
+            "diarrhoea, plague and tuberculosis",
+            "diphtheria, polio and typhoid"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "The antibody-producing cells are —",
+          "options": [
+            "plasma cells",
+            "macrophages",
+            "mast cells",
+            "platelets"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "Which of the following is a primary lymphoid organ?",
+          "options": [
+            "Thymus",
+            "Spleen",
+            "Tonsil",
+            "Lymph node"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "Anti-tetanus serum gives —",
+          "options": [
+            "passive immunity",
+            "active immunity",
+            "innate immunity",
+            "no immunity"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "The part of an antigen that contacts the antibody is the —",
+          "options": [
+            "epitope",
+            "paratope",
+            "Fc region",
+            "heavy chain"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "Cell-mediated immunity is carried out by —",
+          "options": [
+            "T-cells",
+            "B-cells",
+            "plasma cells",
+            "platelets"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "Which of the following gives passive immunity to a newborn?",
+          "options": [
+            "Colostrum",
+            "BCG",
+            "DPT",
+            "Oral polio vaccine"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark.",
+      "marks": "8 × 2 = 16",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "Name the type of immunity: (a) transfer of IgG from mother to foetus (b) vaccination with BCG.",
+          "answer": "(a) Passive immunity. (b) Active acquired immunity."
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "State true or false: (a) B-cells mature in the thymus. (b) Memory cells give a quick response to a second exposure to an antigen.",
+          "answer": "(a) False – in bone marrow. (b) True."
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "Name the three types of T-cells.",
+          "answer": "Helper T-cells (TH), cytotoxic T-cells (TC) and suppressor T-cells (TS)."
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Match: (a) Plasma cells (b) Cytotoxic T-cells (c) Macrophages with (i) antibodies (ii) phagocytosis (iii) kill infected cells.",
+          "answer": "(a)-(i); (b)-(iii); (c)-(ii)."
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "Expand: (a) BCG (b) MMR.",
+          "answer": "(a) Bacillus Calmette-Guerin. (b) Measles, Mumps and Rubella."
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "Name two live attenuated vaccines and two killed vaccines.",
+          "answer": "Live: BCG and measles; killed: typhoid and rabies."
+        },
+        {
+          "id": "2.7",
+          "type": "open",
+          "q": "Name the two types of specific immune responses.",
+          "answer": "Cell-mediated and humoral (antibody-mediated)."
+        },
+        {
+          "id": "2.8",
+          "type": "open",
+          "q": "Name two primary and two secondary lymphoid organs.",
+          "answer": "Primary: thymus and bone marrow; secondary: spleen and lymph nodes."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "8 × 2 = 16",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "What is meant by 'self' and 'non-self'?",
+          "answer": "Self is the body's own tissues; non-self is foreign material such as pathogens that the immune system recognises and attacks."
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "Differentiate between B-cells and T-cells (two points).",
+          "answer": "B-cells mature in the bone marrow and produce antibodies (humoral); T-cells mature in the thymus and mediate cell-mediated immunity."
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "What is an antigen? Name its parts which contact the antibody.",
+          "answer": "A foreign molecule that triggers a specific immune response; the epitope is the part that contacts the antibody paratope."
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "What is the complement system?",
+          "answer": "A group of at least 20 plasma proteins that kill microbes without phagocytosis and help phagocytosis (opsonins)."
+        },
+        {
+          "id": "3.5",
+          "type": "open",
+          "q": "What are memory cells?",
+          "answer": "B-cells that do not become plasma cells and remain to produce antibodies quickly if the antigen appears again."
+        },
+        {
+          "id": "3.6",
+          "type": "open",
+          "q": "State the difference between active and passive immunity.",
+          "answer": "Active: the body produces its own antibodies after infection or vaccination, long lasting; passive: ready-made antibodies are received, short-lived."
+        },
+        {
+          "id": "3.7",
+          "type": "open",
+          "q": "What is a toxoid?",
+          "answer": "A chemically or physically modified toxin which is no longer harmful but remains immunogenic, used in vaccines against diphtheria and tetanus."
+        },
+        {
+          "id": "3.8",
+          "type": "open",
+          "q": "Write any two physical barriers of innate immunity.",
+          "answer": "The keratinised skin with acidic secretions and the mucus with cilia in the respiratory tract."
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "6 × 3 = 18",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "Explain the structure of an antibody.",
+          "answer": "A Y-shaped immunoglobulin with two heavy and two light chains joined by disulphide bonds; the stem (Fc) is constant while the two prongs have variable antigen-binding sites."
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "Distinguish between cell-mediated and humoral immune responses (three points).",
+          "answer": "Cell-mediated: by T-cells, kills virus-infected and cancer cells and rejects grafts, no antibodies; humoral: by antibodies from plasma cells, acts on bacteria, toxins and free viruses."
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "Describe the innate immunity and its first line of defence.",
+          "answer": "Physical barriers (skin, mucus, cilia, secretions), phagocytic cells and complement proteins."
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "Explain the principle of vaccination.",
+          "answer": "Attenuated or killed germs are introduced; the body produces specific memory cells; on later exposure it responds rapidly with antibodies."
+        },
+        {
+          "id": "4.5",
+          "type": "open",
+          "q": "Describe the functions of T-cells.",
+          "answer": "Regulate immune responses; helper T-cells activate B-cells and T-cells; cytotoxic T-cells kill infected and tumour cells; suppressor T-cells limit the response."
+        },
+        {
+          "id": "4.6",
+          "type": "open",
+          "q": "Explain the classes of immunoglobulins.",
+          "answer": "IgG (75 per cent, crosses the placenta), IgM, IgA (in secretions and milk), IgD and IgE (allergy)."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Long answer questions. Answer in 80–120 words.",
+      "marks": "4 × 5 = 20",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "Describe the cells of the immune system.",
+          "answer": "Lymphocytes (B-cells and T-cells with their origin, maturation and functions), macrophages and plasma and memory cells."
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "Explain the types of immunity with examples.",
+          "answer": "Innate (barriers, phagocytes, complement) and acquired (active by infection or vaccine; passive by antibodies from the mother or serum)."
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "Describe antigens and antibodies and the types of immune response.",
+          "answer": "Antigen properties and epitopes; antibody structure and classes; non-specific and specific (cell-mediated and humoral) responses."
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "Describe the types of vaccines with examples, with BCG, DPT and MMR.",
+          "answer": "Killed, live attenuated and toxoid vaccines; BCG for TB, DPT for diphtheria, pertussis and tetanus, MMR for measles, mumps and rubella."
+        }
+      ]
+    }
+  ]
+}

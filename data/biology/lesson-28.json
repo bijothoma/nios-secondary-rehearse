@@ -1,0 +1,388 @@
+{
+  "subject": "biology",
+  "lesson": 28,
+  "title": "Nutrition and Health",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "12 × 1 = 12",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "An obese person may get —",
+          "options": [
+            "hypertension",
+            "atherosclerosis",
+            "heart attack",
+            "all of these"
+          ],
+          "answer": "D",
+          "fixed": true,
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "Loss of weight, low haemoglobin content, tiredness and loss of appetite are symptoms of which deficiency disease?",
+          "options": [
+            "Scurvy",
+            "Marasmus",
+            "Anaemia",
+            "Osteomalacia"
+          ],
+          "answer": "C",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "Cyanocobalamin is —",
+          "options": [
+            "vitamin B1",
+            "vitamin D",
+            "vitamin B12",
+            "vitamin C"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "Elderly people often get their bones fractured during a slight fall. The possible condition diagnosed in them is —",
+          "options": [
+            "obesity",
+            "osteomalacia / osteoporosis",
+            "anaemia",
+            "rickets"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "Scurvy is caused by deficiency of —",
+          "options": [
+            "vitamin C",
+            "vitamin D",
+            "vitamin A",
+            "vitamin K"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "Night blindness is caused by deficiency of —",
+          "options": [
+            "vitamin A",
+            "vitamin B1",
+            "vitamin C",
+            "vitamin E"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "Which of the following is a fat-soluble vitamin?",
+          "options": [
+            "Vitamin D",
+            "Vitamin C",
+            "Vitamin B1",
+            "Vitamin B12"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "The richest source of energy is —",
+          "options": [
+            "fat",
+            "protein",
+            "carbohydrate",
+            "vitamin"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "Kwashiorkor is due to deficiency of —",
+          "options": [
+            "proteins",
+            "iodine",
+            "vitamin A",
+            "iron"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "Iodine deficiency causes —",
+          "options": [
+            "goitre",
+            "anaemia",
+            "rickets",
+            "beri-beri"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "One gram of protein yields about —",
+          "options": [
+            "4 kcal",
+            "9 kcal",
+            "2 kcal",
+            "1 kcal"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "Roughage is mainly made of —",
+          "options": [
+            "cellulose",
+            "starch",
+            "protein",
+            "fat"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark.",
+      "marks": "8 × 2 = 16",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "Write the function of (a) glucose (b) cellulose.",
+          "answer": "(a) Glucose is the main energy source (the only source for the nervous system). (b) Cellulose gives bulk to faeces and helps bowel movement.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Match: (a) Vitamin D (b) Vitamin B1 (c) Vitamin C with (i) beri-beri (ii) scurvy (iii) rickets.",
+          "answer": "(a)-(iii); (b)-(i); (c)-(ii)."
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "Name the deficiency disease caused by lack of (a) iron (b) iodine.",
+          "answer": "(a) Anaemia. (b) Goitre."
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "State true or false: (a) Vitamin D can be made in the skin. (b) 1 g of fat gives more energy than 1 g of carbohydrate.",
+          "answer": "(a) True. (b) True."
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "Name two water-soluble vitamins and two fat-soluble vitamins.",
+          "answer": "Water-soluble: B complex and C. Fat-soluble: A, D, E and K."
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "Name the two forms of PEM.",
+          "answer": "Kwashiorkor and marasmus."
+        },
+        {
+          "id": "2.7",
+          "type": "open",
+          "q": "Which provides more energy: 100 g of sugar or 100 g of butter? Why?",
+          "answer": "Butter, since fats give about 9 kcal per gram while carbohydrates give about 4 kcal."
+        },
+        {
+          "id": "2.8",
+          "type": "open",
+          "q": "Fill in the blanks: (a) Rickets is due to deficiency of vitamin ______. (b) The essential amino acids are those which cannot be ______ by the body.",
+          "answer": "(a) D. (b) synthesised."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "9 × 2 = 18",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "What is PEM? Give two reasons for PEM.",
+          "answer": "Protein energy malnutrition, a deficiency of proteins and calories mainly in children. Reasons: a diet poor in proteins and calories due to poverty, and early weaning or infections.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "Write any two functions of roughage.",
+          "answer": "It helps bowel movement and prevents constipation; it helps in retaining water and in controlling blood sugar and cholesterol.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "Why does a pregnant woman need a special diet? List any four main nutrient constituents of that diet.",
+          "answer": "To meet the energy and growth needs of the foetus and her own health. Nutrients: proteins, iron, calcium and vitamins (folic acid) along with extra calories.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "Expand the abbreviation PEM. Write the names of two deficiency diseases caused due to PEM.",
+          "answer": "Protein Energy Malnutrition. Kwashiorkor and marasmus.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "3.5",
+          "type": "open",
+          "q": "Differentiate between macronutrients and micronutrients.",
+          "answer": "Macronutrients (carbohydrates, fats, proteins, water) are needed in large amounts; micronutrients (vitamins and minerals) in small amounts."
+        },
+        {
+          "id": "3.6",
+          "type": "open",
+          "q": "Name two sources and two functions of proteins.",
+          "answer": "Sources: milk and pulses. Functions: growth and repair; enzymes and antibodies."
+        },
+        {
+          "id": "3.7",
+          "type": "open",
+          "q": "What is a balanced diet?",
+          "answer": "A diet containing all nutrients in adequate amounts in the right proportion for the age, sex and work of the person."
+        },
+        {
+          "id": "3.8",
+          "type": "open",
+          "q": "What is obesity? Name two disorders associated with it.",
+          "answer": "Excess fat deposition in the body; hypertension and heart disease."
+        },
+        {
+          "id": "3.9",
+          "type": "open",
+          "q": "Write the deficiency diseases of vitamin A and vitamin D.",
+          "answer": "Vitamin A: night blindness and xerophthalmia. Vitamin D: rickets in children and osteomalacia in adults."
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "7 × 3 = 21",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "Write the functions and sources of carbohydrates.",
+          "answer": "They are the cheapest source of energy, glucose fuels the nervous system, excess is stored as glycogen and fat, and cellulose gives bulk. Sources: cereals, potato, sugar, fruits and honey."
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "Write the functions of fats.",
+          "answer": "Richest energy source, structural part of membranes, absorption of fat-soluble vitamins, hormone precursors, insulation and padding of organs."
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "Write the functions of proteins with sources.",
+          "answer": "Growth and repair, enzymes, hormones, antibodies and transport; sources: milk, egg, fish, pulses and cereals."
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "Describe the deficiency diseases caused by vitamins B1, C and D.",
+          "answer": "B1: beri-beri (pain in the limbs, paralysis); C: scurvy (bleeding gums, joint pain); D: rickets in children (bow legs) and osteomalacia in adults."
+        },
+        {
+          "id": "4.5",
+          "type": "open",
+          "q": "Describe the functions of calcium, iron and iodine.",
+          "answer": "Calcium builds bones and teeth; iron forms haemoglobin; iodine is required for thyroxine."
+        },
+        {
+          "id": "4.6",
+          "type": "open",
+          "q": "Differentiate between kwashiorkor and marasmus.",
+          "answer": "Kwashiorkor: protein deficiency; swollen belly and oedema. Marasmus: deficiency of both protein and energy; severe wasting."
+        },
+        {
+          "id": "4.7",
+          "type": "open",
+          "q": "Explain the energy requirements of the body.",
+          "answer": "They depend on age, sex, work and physiological condition; for example 2400 kcal for a sedentary man, 4000 for heavy work, 3300 in pregnancy and 3700 during lactation."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Long answer questions. Answer in 80–120 words.",
+      "marks": "4 × 5 = 20",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "Describe the vitamins, their sources, functions and deficiency diseases.",
+          "answer": "Water-soluble B complex and C; fat-soluble A, D, E and K with sources, functions and deficiency symptoms."
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "Describe the classification of nutrients and the functions of proteins, carbohydrates and fats.",
+          "answer": "Macronutrients and micronutrients; energy, body-building and protective foods; functions of each major nutrient."
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "Explain protein energy malnutrition, obesity and hypervitaminosis.",
+          "answer": "Kwashiorkor and marasmus with causes and symptoms; obesity from excess intake and associated diseases; hypervitaminosis from excess fat-soluble vitamins."
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "Explain the role of minerals and water in the body.",
+          "answer": "Calcium and phosphorus for bones; iron for haemoglobin; iodine for thyroxine; sodium and potassium for fluid balance; water for transport, digestion, excretion and temperature control."
+        }
+      ]
+    }
+  ]
+}

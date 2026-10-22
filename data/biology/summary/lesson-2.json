@@ -1,0 +1,105 @@
+{
+  "subject": "biology",
+  "lesson": 2,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 2: The Kingdoms Monera, Protoctista and Fungi — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Kingdom Monera"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Monera includes bacteria and cyanobacteria (blue-green algae) and is the only prokaryotic kingdom: there is no nuclear membrane and no membrane-bound organelles (only mesosomes) and only 70S ribosomes. Bacteria were the first cellular organisms (about 3.5 billion years ago). Most are unicellular, but actinomycetes and some cyanobacteria are filamentous."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Structure of a bacterium: a cell wall made of peptidoglycan (unique to bacteria), a plasma membrane of lipids and proteins, cytoplasm, a single circular chromosome of double-stranded DNA lying in the nucleoid, and sometimes plasmids (extra rings of DNA bearing genes for antibiotic resistance, and the F-factor or sex factor), pili (short, thin; used in conjugation), flagella (longer and thicker; for movement) and a slime capsule. Respiration (aerobic or anaerobic) occurs in mesosomes. Nutrition: autotrophs, saprotrophs, symbionts and parasites. Reproduction: asexual by binary fission (one cell divides in about 20 minutes, so about 8 bacteria arise in an hour) and sexual recombination by conjugation (a segment of DNA or the F-factor is transferred from a donor to a recipient cell through pili)."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Harmful bacteria: Vibrio cholerae (cholera), Salmonella typhi (typhoid), Clostridium tetani (tetanus), Corynebacterium diphtheriae (diphtheria), Mycobacterium tuberculosis (tuberculosis). Useful bacteria: Rhizobium (fixes nitrogen in legume roots), Azotobacter (fixes nitrogen in soil), Streptomyces (streptomycin), Lactobacillus (curd formation from lactose) and methanogenic bacteria (sewage treatment). Cyanobacteria are larger, lack flagella and carry out oxygenic photosynthesis, unlike photosynthetic bacteria (anoxygenic). Monera has three groups: Archaebacteria (methanogens, thermoacidophiles, halophiles), Eubacteria and Cyanobacteria."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Kingdom Protoctista"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Protoctista are unicellular eukaryotes with a true nucleus and membrane-bound organelles (mitochondria for respiration, chloroplasts in photosynthetic forms); their cilia and flagella have a 9+2 microtubule structure (a bacterial flagellum is made of flagellin). They are photosynthetic, saprotrophic or parasitic, and reproduce asexually and sexually. Phylum Protozoa has four classes: Rhizopoda (Amoeba), Flagellata (Euglena), Ciliata (Paramecium) and Sporozoa (Plasmodium). Algae: Bacillariophyta (diatoms) and Chlorophyta (Chlorella)."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Amoeba: pseudopodia for movement and food capture, food vacuole, contractile vacuole for osmoregulation, binary fission. Entamoeba histolytica causes amoebic dysentery. Plasmodium causes malaria: the asexual phase is in human blood and the sexual phase in the female Anopheles mosquito (the male does not bite). Euglena: pellicle, cytostome, reservoir, stigma (eyespot), contractile vacuole, flagellum and chloroplasts; it is both autotrophic and heterotrophic. Diatoms: silica shells, found in fresh and salt water; their deposits form diatomaceous earth used in filters and lining furnaces. Algae contain pigments (phycocyanin, fucoxanthin, phycoerythrin), are food for fish, and are sources of vitamins A and E and iodine; blue-green algae fix atmospheric nitrogen."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Kingdom Fungi"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Fungi are heterotrophic eukaryotes made of filaments called hyphae (with septa); a network of hyphae is a mycelium; the cell wall is made of chitin; nutrition is by absorption (saprotrophic); reproduction is by spores and conjugation. Kinds: Myxomycetes (slime moulds), Phycomycetes (Rhizopus), Ascomycetes (yeast, Aspergillus, Penicillium, Neurospora), Basidiomycetes (mushrooms, rusts, smuts) and Deuteromycetes (only asexual, e.g. Alternaria). Lichens are symbiotic associations of an alga and a fungus (the alga makes food, the fungus gives protection and absorbs water and minerals). Mycorrhizae are fungi associated with roots, which gain food while helping the plant to absorb minerals."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Yeast: unicellular oval cell; ferments sugar (C6H12O6 gives 2C2H5OH + 2CO2 + 2ATP); asexual reproduction by budding; sexual by conjugation giving an ascus with eight ascospores. Rhizopus (bread mould): the mycelium is white and sporangia are black with spores; sexual reproduction by conjugation giving a zygospore. Harmful fungi: Puccinia graminis (wheat rust), ringworm and athlete's foot. Useful fungi: edible mushrooms (Agaricus), yeast for bread, beer and wine, Penicillium notatum (penicillin discovered by Alexander Fleming in 1927), Neurospora in genetics."
+        ]
+      ]
+    }
+  ]
+}

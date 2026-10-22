@@ -1,0 +1,114 @@
+{
+  "subject": "biology",
+  "lesson": 11,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 11: Photosynthesis — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "What is photosynthesis"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Photosynthesis is the process by which green plants, algae and some bacteria use the energy of sunlight to make food (carbohydrates) from CO2 and water, releasing oxygen. Overall equation: 6CO2 + 12H2O gives C6H12O6 + 6H2O + 6O2 (in the presence of sunlight and chlorophyll). It is the only process that liberates oxygen; it converts light energy into chemical energy, makes plants autotrophs on which all heterotrophs depend, and fossil fuels are products of ancient photosynthesis. History: Priestley (1772) and Ingenhousz (1779; O2 is released only in light and by green parts); Robert Hill (1939; isolated chloroplasts evolve O2 in light in the presence of an electron acceptor: the Hill reaction, showing water is the source of the electrons and the oxygen released comes from water). It occurs in the mesophyll cells' chloroplasts."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Pigments, photosystems and spectra"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Photosynthetic pigments (on thylakoid membranes): chlorophylls and carotenoids (carotene and xanthophyll). Chlorophyll a is the essential photosynthetic pigment forming the reaction centre; chlorophyll b and the carotenoids are accessory pigments that pass energy to chlorophyll a. Chlorophyll absorbs mostly violet-blue and red light and reflects green. Photosystems: PS I (reaction centre P700, primary acceptor an Fe-S protein; carriers plastocyanin, ferredoxin) and PS II (reaction centre P680, primary acceptor pheophytin; carriers plastoquinone and cytochromes); each has about 250-400 chlorophyll a molecules. Absorption spectrum: absorbance of different wavelengths by a pigment. Action spectrum: effectiveness of different wavelengths in stimulating photosynthesis (O2 released); the two spectra are similar, showing chlorophyll a is responsible; the rate is maximum in blue and red light and minimum in green and yellow light."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Light reaction (photochemical phase)"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "In the thylakoids: absorption of light excites PS II (P680), whose electrons pass to pheophytin and down the electron transport chain to PS I; the oxidised P680 regains electrons from water by photolysis (light-dependent splitting of water, releasing O2 and H+); PS I (P700) is excited and its electrons reduce NADP to NADPH2. ATP is formed by photophosphorylation (the coupling of electron flow to phosphorylation). The products ATP and NADPH2 (assimilatory power) pass to the stroma. Non-cyclic photophosphorylation: electrons flow from water through PS II and PS I to NADP, involving both photosystems; O2 is evolved; ATP and NADPH2 are formed. Cyclic photophosphorylation: only PS I; electrons return to P700; only ATP is formed; no photolysis of water, no O2 and no NADPH2; occurs in photosynthetic bacteria."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Dark reaction (biosynthetic phase)"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "In the stroma, independent of light but dependent on its products. C3 cycle (Calvin cycle; Melvin Calvin): CO2 is accepted by the 5-carbon RuBP and Rubisco catalyses carboxylation, giving two molecules of 3-phosphoglyceric acid (PGA, the first stable product); PGA is reduced to triose phosphate using ATP and NADPH2; triose phosphate forms glucose, sucrose and starch; the remaining RuBP is regenerated using ATP. C4 cycle (Hatch-Slack): an adaptation to dry, hot environments (sugarcane, maize); the initial CO2 acceptor is phosphoenolpyruvate (PEP, 3-carbon) in the mesophyll cells with PEP carboxylase, forming oxaloacetic acid (4-carbon, first stable product); the C4 acid is transported to the bundle sheath cells, where it releases CO2 that enters the C3 cycle. C4 plants show Kranz anatomy (wreath-like bundle sheath around vascular bundles; dimorphic chloroplasts: granal in mesophyll without starch and agranal with starch in the bundle sheath), have no photorespiration and higher yield."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Differences between C3 and C4 plants: CO2 is fixed once versus twice; acceptor RuBP versus PEP then RuBP; enzymes Rubisco versus PEP carboxylase and Rubisco; first product PGA (3C) versus OAA (4C); one type of chloroplast versus two (Kranz); photorespiration present versus absent; less versus more efficient with lower versus higher yield."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Factors affecting photosynthesis"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Internal: amount of chlorophyll, leaf age and anatomy (stomata, intercellular spaces, palisade and spongy tissue, cuticle), demand for photosynthate. External: light, CO2, temperature, water, minerals. Blackman's law of limiting factors (1905): when a process depends on several factors, its rate is limited by the factor that is at the lowest (slowest) level."
+        ]
+      ]
+    }
+  ]
+}

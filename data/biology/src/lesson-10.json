@@ -1,0 +1,60 @@
+{
+ "lesson": 10, "title": "Nitrogen Metabolism", "module": 2,
+ "summary": [
+  "## Molecular nitrogen and the nitrogen cycle",
+  "Nitrogen is a constituent of amino acids, proteins, enzymes, nucleic acids, vitamins, alkaloids and some growth hormones. Air has 78 per cent nitrogen (N2, a stable triple-bonded molecule, boiling point -195.8 degrees Celsius), but most organisms cannot use it directly; proteins contain about 16 per cent nitrogen. Combined nitrogen occurs as Chile saltpetre (sodium nitrate).",
+  "The nitrogen cycle: atmospheric nitrogen is fixed to ammonia by lightning (as oxides of nitrogen) and by nitrogen-fixing bacteria such as Rhizobium; plants absorb nitrates and reduce them to ammonia; animals get nitrogen by eating plants; dead organisms and excreta (urea) are decomposed by bacteria to ammonia, which is converted to nitrites and nitrates by nitrifying bacteria; denitrifying bacteria return nitrogen to the atmosphere. Schematic: Atmospheric N2 → (nitrogen fixation) NH3 → (nitrification) nitrite → nitrate → plants → animals → dead matter and excreta → (ammonification) NH3 → nitrate; nitrate → (denitrification) N2.",
+  "## Nitrogen fixation",
+  "Nitrogen fixation is the reduction of molecular nitrogen to ammonia; it is a reductive process and stops in the presence of oxygen. Abiological fixation: industrial (Haber's process: N2 + 3H2 gives 2NH3 at 500 degrees Celsius and 1000 atmospheres over an iron oxide catalyst) and natural (lightning forms oxides of nitrogen, nitrite and nitrate). Biological fixation is done by living cells with the enzyme nitrogenase (a Mo-Fe protein).",
+  "Free-living fixers: Clostridium (anaerobic), Klebsiella (facultative), Azotobacter (aerobic), Rhodospirillum (photosynthetic bacterium), Anabaena (cyanobacterium). Symbiotic systems: lichens, Anthoceros (cyanobacteria), Azolla (cyanobacteria), Cycas (cyanobacteria), legumes with Rhizobium, Alnus and Myrica with an actinomycete, Azospirillum with grasses and corn.",
+  "Requirements: N2, strong reducing power (NADH2, FADH2), ATP (16 ATP per N2), nitrogenase and a compound to trap the toxic ammonia. N2 is reduced stepwise to diimide (N2H2), hydrazine (N2H4) and then 2NH3: N2 + 16ATP + 8H+ + 8e- gives 2NH3 + 16ADP + 16Pi + H2 (hydrogen gas is evolved). The ammonia is combined with organic acids to form amino acids. In legumes the root nodules are formed by interaction of Rhizobium with root cells; they contain leghemoglobin, which scavenges oxygen to maintain anaerobic conditions for nitrogenase and gives the nodule a pink colour; it is made by the symbiosis (the heme part is coded by Rhizobium and the globin part by the legume); nodulins are proteins that establish the symbiosis and maintain nodule function.",
+  "## Assimilation and amino acid synthesis",
+  "Most plants take up nitrate and reduce it to ammonia in two steps: nitrate to nitrite by nitrate reductase (in the cytosol, containing FAD, cytochrome and molybdenum; inducible by nitrate) and nitrite to ammonia by nitrite reductase (in the chloroplast or plastid, using electrons from NADPH or ferredoxin). Ammonia is toxic if accumulated. Amino acids contain an amino group and a carboxyl group. Reductive amination: ammonia combines with a keto acid; alpha-ketoglutaric acid plus NH3 gives glutamic acid (enzyme glutamate dehydrogenase; the major port of entry of ammonia); oxaloacetic acid gives aspartic acid. Transamination: transfer of an amino group from an amino acid to a keto acid by transaminases; alpha-ketoglutaric acid + aspartic acid gives glutamic acid + oxaloacetic acid."
+ ],
+ "mcq": [
+  ["Nitrogen fixation is the conversion of —", ["atmospheric nitrogen into nitrates only", "atmospheric nitrogen into ammonia", "ammonia into amino acids", "nitrates into nitrogen"], "B"],
+  ["The enzyme that fixes nitrogen in living cells is —", ["nitrogenase", "nitrate reductase", "nitrite reductase", "transaminase"], "A"],
+  ["The pink pigment present in root nodules of legumes is —", ["leghemoglobin", "chlorophyll", "carotene", "haemoglobin"], "A"],
+  ["Which of the following is an aerobic free-living nitrogen fixer?", ["Azotobacter", "Clostridium", "Anabaena", "Rhodospirillum"], "A"],
+  ["Which of the following is an anaerobic nitrogen-fixing bacterium?", ["Clostridium", "Azotobacter", "Klebsiella", "Rhizobium"], "A"],
+  ["The number of ATP molecules needed to reduce one N2 molecule is —", ["16", "8", "2", "36"], "A"],
+  ["Haber's process is a method of —", ["industrial nitrogen fixation", "biological nitrogen fixation", "denitrification", "nitrification"], "A"],
+  ["The conversion of nitrate to nitrite is catalysed by —", ["nitrate reductase", "nitrite reductase", "nitrogenase", "transaminase"], "A"],
+  ["Nitrite reductase is located in the —", ["chloroplast", "mitochondria", "ribosome", "nucleus"], "A"],
+  ["The major entry point of ammonia into amino acid synthesis is —", ["reductive amination", "transamination", "denitrification", "nitrification"], "A"],
+  ["Which of the following is a symbiotic nitrogen fixer in Azolla?", ["Anabaena", "Rhizobium", "Azotobacter", "Clostridium"], "A"],
+  ["Nitrates are converted back to N2 gas by —", ["denitrifying bacteria", "nitrifying bacteria", "Rhizobium", "Azotobacter"], "A"]
+ ],
+ "objective": [
+  ["Choose the two correct words to fill in the blank (nodules, nodes, nodulins): (a) In legumes, nitrogen fixation occurs in specialised bodies called ______. (b) ______ is the special protein formed as a result of symbiosis in legumes.", "(a) nodules. (b) Leghemoglobin (the nodulins help to establish the symbiosis and maintain nodule function).", ["April 2026"]],
+  ["Match: (a) Azotobacter (b) Clostridium (c) Anabaena (d) Lichens with (i) anaerobic fixer (ii) aerobic fixer (iii) aerobic cyanobacterium (iv) symbiotic fixer.", "(a)-(ii); (b)-(i); (c)-(iii); (d)-(iv)."],
+  ["Name the enzymes for: (a) nitrate to nitrite (b) nitrite to ammonia.", "(a) Nitrate reductase. (b) Nitrite reductase."],
+  ["State true or false: (a) Nitrogen fixation is an oxidative process. (b) Leghemoglobin is formed by the symbiosis of Rhizobium and the legume.", "(a) False – it is reductive. (b) True."],
+  ["Name the amino acid formed by reductive amination of (a) alpha-ketoglutaric acid (b) oxaloacetic acid.", "(a) Glutamic acid. (b) Aspartic acid."],
+  ["Name the organisms that fix nitrogen in (a) lichens (b) Cycas.", "(a) Cyanobacteria. (b) Cyanobacteria (Anabaena)."],
+  ["What is the percentage of nitrogen in the air by volume? Name the source of Chile saltpetre.", "78 per cent. Chile saltpetre is sodium nitrate."],
+  ["Name the gas evolved along with ammonia in nitrogen fixation. Give the net equation.", "Hydrogen. N2 + 16ATP + 8H+ + 8e- gives 2NH3 + 16ADP + 16Pi + H2."]
+ ],
+ "vsa": [
+  ["What is the function of leghemoglobin in root nodules?", "It acts as an oxygen scavenger, lowering the oxygen level so that nitrogenase works under anaerobic conditions."],
+  ["Distinguish between biological and abiological nitrogen fixation.", "Biological fixation occurs in living cells through nitrogenase; abiological fixation occurs without living cells, industrially (Haber's process) or naturally (lightning)."],
+  ["Name two conditions required for biological nitrogen fixation.", "A strong reducing power (NADH2) with ATP and the enzyme nitrogenase under anaerobic conditions."],
+  ["What are nodulins?", "Proteins synthesised in legume nodules that help in establishing the symbiosis and maintaining nodule functioning."],
+  ["State the role of transaminases.", "They transfer an amino group from an amino acid to a keto acid, forming new amino acids."],
+  ["How do plants avoid the toxic effect of ammonia?", "They quickly combine it with keto acids to form amino acids."],
+  ["What is Haber's process?", "Industrial fixation: N2 + 3H2 gives 2NH3 at about 500 degrees Celsius and 1000 atmospheres over an iron oxide catalyst."]
+ ],
+ "sa": [
+  ["Write the schematic representation of the nitrogen cycle.", "Atmospheric N2 → NH3 by lightning and nitrogen-fixing bacteria (nitrogen fixation); NH3 → nitrite → nitrate by nitrifying bacteria; nitrate → plants → animals; dead organisms and excreta → NH3 by decomposers (ammonification); nitrate → N2 by denitrifying bacteria (denitrification).", ["April 2026"]],
+  ["Explain symbiotic nitrogen fixation in legumes.", "Rhizobium infects the roots and forms nodules; the nodule contains leghemoglobin, which removes oxygen so that nitrogenase can reduce N2 to NH3 using ATP and reducing power from the host, and the ammonia is converted to amino acids."],
+  ["Explain the assimilation of nitrate by plants.", "Nitrate is reduced to nitrite by nitrate reductase in the cytosol and nitrite is reduced to ammonia by nitrite reductase in the chloroplast; the ammonia is then used in amino acid synthesis."],
+  ["Describe the two reactions of amino acid synthesis in plants.", "Reductive amination: alpha-ketoglutaric acid + NH3 gives glutamic acid. Transamination: alpha-ketoglutaric acid + aspartic acid gives glutamic acid + oxaloacetic acid, using transaminase."],
+  ["Name any three free-living nitrogen-fixing organisms with their nature.", "Clostridium (anaerobic), Azotobacter (aerobic) and Anabaena (photosynthetic cyanobacterium)."],
+  ["Write short notes on abiological nitrogen fixation.", "Industrial fixation through Haber's process and natural fixation by lightning, which forms oxides of nitrogen that are converted into nitrites and nitrates."]
+ ],
+ "la": [
+  ["Describe the mechanism of biological nitrogen fixation.", "It needs N2, reducing power (NADH2 and FADH2), ATP, nitrogenase and a trap for ammonia. N2 is reduced stepwise to diimide, hydrazine and then 2NH3 with 16 ATP; the ammonia is combined with organic acids to form amino acids."],
+  ["Explain the nitrogen cycle with a flow chart.", "Nitrogen fixation (by lightning and bacteria) to ammonia, nitrification to nitrates, absorption by plants, passage to animals, decay to ammonia and denitrification back to N2."],
+  ["Explain nitrate and ammonia assimilation and amino acid synthesis in plants.", "Nitrate is reduced to nitrite and then ammonia by two enzymes; the ammonia is used in reductive amination and transamination to form glutamic acid and other amino acids."]
+ ]
+}

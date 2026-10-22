@@ -1,0 +1,290 @@
+{
+ "lesson": 23,
+ "title": "Molecular Inheritance and Gene Expression",
+ "module": 3,
+ "summary": [
+  "## One gene one enzyme and DNA as genetic material",
+  "Garrod described inborn errors of metabolism (phenylketonuria, alkaptonuria) caused by absent enzymes. Beadle and Tatum, working on Neurospora mutants, proposed the one gene-one enzyme hypothesis (later one gene-one polypeptide). Griffith (1928) showed bacterial transformation in Streptococcus pneumoniae: heat-killed virulent smooth (S) cells mixed with harmless rough (R) cells made the R cells virulent. Avery, MacLeod and McCarty (1944) showed that DNA was the transforming principle (DNase destroyed the effect). Hershey and Chase (1952) used T2 bacteriophage: radioactive sulphur-35 labelled the protein coat and stayed outside; radioactive phosphorus-32 labelled the viral DNA and entered the bacteria, proving that DNA is the genetic material.",
+  "## Structure of DNA and RNA",
+  "DNA is a polynucleotide; each nucleotide has three subunits: a pentose sugar (deoxyribose), a nitrogenous base (purines adenine and guanine; pyrimidines thymine and cytosine) and a phosphate group. Base + sugar = nucleoside; base + sugar + phosphate = nucleotide. Chargaff's rule: A = T and G = C (purines equal pyrimidines). Watson and Crick (1953; Nobel prize; X-ray data of Franklin and Wilkins) double helix model: two antiparallel strands (5' to 3' and 3' to 5') coiled around each other, a sugar-phosphate backbone, bases linked by hydrogen bonds (two between A and T, three between G and C), one turn of 3.4 nm contains 10 base pairs 0.34 nm apart, diameter 2 nm. Packaging in eukaryotes: DNA wound around a histone octamer forms a nucleosome (beads on a string), then the solenoid and supercoils, forming the chromosome.",
+  "DNA versus RNA: deoxyribose versus ribose sugar; thymine versus uracil; double-stranded versus mostly single-stranded; DNA carries hereditary information and can duplicate itself while RNA has many types (mRNA, tRNA, rRNA) and is synthesised on a DNA template. RNA types: mRNA (copy of a gene; carries the message from the nucleus to the ribosomes), tRNA (clover-leaf shape; anticodon loop recognises the codon; carries a specific amino acid; 3' end CCA) and rRNA (component of ribosomes; role in protein synthesis).",
+  "## Gene transfer in bacteria",
+  "Conjugation (plasmid or F-factor passes from an F+ to an F- cell; Hfr strain), transformation (uptake of extracellular DNA, as in Streptococcus) and transduction (transfer of DNA through a bacteriophage).",
+  "## DNA replication",
+  "Replication occurs in the S-phase and is semiconservative (each new molecule has one old and one new strand; shown by Meselson and Stahl) and semidiscontinuous. Helicase unwinds the strands and topoisomerase keeps them open (replication fork); primase makes an RNA primer (5-10 bases) giving a 3'-OH; DNA polymerase adds nucleotides in the 5' to 3' direction; the leading strand is synthesised continuously and the lagging strand discontinuously as Okazaki fragments, which are joined by DNA ligase using ATP; proof-reading corrects errors.",
+  "## Gene expression: transcription and translation",
+  "Central dogma: DNA (transcription) → RNA (translation) → protein; in retroviruses RNA → DNA by reverse transcriptase. Genetic code (Nirenberg, Mathaei and Ochoa): triplet (codon), unambiguous, non-overlapping and commaless, degenerate (64 codons for 20 amino acids; wobble hypothesis), universal; AUG codes for methionine and is the initiation (start) codon; UAA, UAG and UGA are stop codons. A cistron is a gene coding for one polypeptide. Anticodons are complementary to codons: AGU pairs with UCA and UGC with ACG; anticodon GAU pairs with codon CUA.",
+  "Transcription: the DNA double helix unwinds (helicase, topoisomerase) and RNA polymerase (starting at the promoter signalled by the sigma factor, stopping with the Rho factor) makes mRNA complementary to the sense strand. In eukaryotes hnRNA is processed: introns are removed and exons joined (splicing), a methyl guanosine cap is added at the 5' end and a poly-A tail at the 3' end before it leaves the nucleus. Translation: amino acid activation by aminoacyl-tRNA synthetase using ATP; initiation (mRNA binds to the small ribosomal subunit, methionine tRNA attaches to the AUG codon); elongation (peptidyl transferase forms peptide bonds; the ribosome moves along mRNA toward the 3' end); polysome (several ribosomes on one mRNA); termination at a stop codon; the polypeptide is released.",
+  "## Regulation of gene expression and mutation",
+  "Housekeeping genes are expressed all the time; inducible genes are switched on by a substance and repressible genes are switched off. Lac operon (Jacob and Monod, E. coli): regulator gene i, promoter p, operator o and structural genes z, y, a (galactosidase, permease, transacetylase); in the absence of lactose the repressor binds the operator and blocks transcription; lactose (inducer) binds the repressor, which releases the operator, and the genes are switched on. Mutation: a sudden heritable change in the genetic material; gene (point) mutations (substitution, deletion, insertion, frame shift) and chromosomal mutations; caused by mutagens such as radiation and chemicals; harmful effects include genetic disorders and cancer while useful ones give variation for evolution and new varieties in crops."
+ ],
+ "mcq": [
+  [
+   "Pick the mRNA codon which will pair with the anticodon GAU of tRNA.",
+   [
+    "CUA",
+    "UCA",
+    "AGU",
+    "AGT"
+   ],
+   "A",
+   [
+    "October 2025"
+   ]
+  ],
+  [
+   "Hershey and Chase used —",
+   [
+    "T2 bacteriophage",
+    "Streptococcus",
+    "Neurospora",
+    "Drosophila"
+   ],
+   "A"
+  ],
+  [
+   "Which of the following is NOT present in DNA?",
+   [
+    "Uracil",
+    "Thymine",
+    "Adenine",
+    "Guanine"
+   ],
+   "A"
+  ],
+  [
+   "The number of hydrogen bonds between G and C is —",
+   [
+    "3",
+    "2",
+    "1",
+    "4"
+   ],
+   "A"
+  ],
+  [
+   "The initiation codon is —",
+   [
+    "AUG",
+    "UAA",
+    "UAG",
+    "UGA"
+   ],
+   "A"
+  ],
+  [
+   "The enzyme that joins Okazaki fragments is —",
+   [
+    "DNA ligase",
+    "helicase",
+    "primase",
+    "RNA polymerase"
+   ],
+   "A"
+  ],
+  [
+   "DNA replication is —",
+   [
+    "semiconservative",
+    "conservative",
+    "dispersive",
+    "non-specific"
+   ],
+   "A"
+  ],
+  [
+   "The stop codon is —",
+   [
+    "UGA",
+    "AUG",
+    "GUU",
+    "AAA"
+   ],
+   "A"
+  ],
+  [
+   "The enzyme which unwinds the DNA double helix is —",
+   [
+    "helicase",
+    "ligase",
+    "polymerase",
+    "reverse transcriptase"
+   ],
+   "A"
+  ],
+  [
+   "The transforming principle was shown to be DNA by —",
+   [
+    "Avery, MacLeod and McCarty",
+    "Griffith",
+    "Beadle and Tatum",
+    "Meselson and Stahl"
+   ],
+   "A"
+  ],
+  [
+   "Which RNA carries amino acids to the ribosome?",
+   [
+    "tRNA",
+    "mRNA",
+    "rRNA",
+    "hnRNA"
+   ],
+   "A"
+  ],
+  [
+   "The Lac operon is an example of —",
+   [
+    "an inducible system",
+    "a repressible system",
+    "a housekeeping gene",
+    "a mutation"
+   ],
+   "A"
+  ]
+ ],
+ "objective": [
+  [
+   "DNA → (A) → mRNA → (B) → Protein. Name A and B.",
+   "A: Transcription. B: Translation.",
+   [
+    "April 2026"
+   ]
+  ],
+  [
+   "Name the processes A and B involved in the central dogma of molecular biology: DNA (A) DNA; DNA (B) RNA → Protein.",
+   "A: DNA replication. B: Transcription (then translation).",
+   [
+    "October 2025"
+   ]
+  ],
+  [
+   "Given the structure of DNA, fill in the blanks (any two): (a) the sugar is ______ (b) A pairs with ______ by ______ hydrogen bonds.",
+   "(a) deoxyribose. (b) thymine, 2.",
+   [
+    "April 2025"
+   ]
+  ],
+  [
+   "Name the scientists: (a) who proposed the double helix model of DNA (b) who proved semiconservative replication.",
+   "(a) Watson and Crick. (b) Meselson and Stahl."
+  ],
+  [
+   "State true or false: (a) RNA contains thymine. (b) mRNA is synthesised on a DNA template.",
+   "(a) False – it contains uracil. (b) True."
+  ],
+  [
+   "Name the radioactive isotopes used by Hershey and Chase to label (a) protein (b) DNA.",
+   "(a) Sulphur-35. (b) Phosphorus-32."
+  ]
+ ],
+ "vsa": [
+  [
+   "AUG has a dual function. What are they?",
+   "AUG is the initiation (start) codon, and it codes for the amino acid methionine.",
+   [
+    "April 2026"
+   ]
+  ],
+  [
+   "Write the anticodon of codon (i) AGU and (ii) UGC.",
+   "(i) UCA. (ii) ACG.",
+   [
+    "April 2026"
+   ]
+  ],
+  [
+   "Draw the diagram to show the structure of the DNA molecule.",
+   "Two antiparallel sugar-phosphate backbones coiled in a double helix with base pairs A=T (two hydrogen bonds) and G≡C (three hydrogen bonds) as rungs; one turn 3.4 nm contains 10 base pairs; diameter 2 nm.",
+   [
+    "April 2026"
+   ]
+  ],
+  [
+   "Explain briefly: (a) translation (b) transcription (any one each).",
+   "Transcription: synthesis of mRNA on a DNA template by RNA polymerase. Translation: synthesis of a polypeptide at the ribosome from the sequence of codons on the mRNA.",
+   [
+    "April 2025"
+   ]
+  ],
+  [
+   "What are primers? State their role in DNA replication.",
+   "Short RNA sequences made by primase that provide a 3'-OH group for DNA polymerase to start a new strand.",
+   [
+    "April 2025"
+   ]
+  ],
+  [
+   "What is the function of tRNA?",
+   "It carries a specific amino acid to the ribosome and its anticodon recognises the codon on the mRNA."
+  ],
+  [
+   "What is meant by the one gene-one enzyme hypothesis? Who proposed it?",
+   "A gene controls the production of one enzyme; proposed by Beadle and Tatum from work on Neurospora."
+  ],
+  [
+   "What are Okazaki fragments?",
+   "The short pieces in which the lagging strand of DNA is synthesised discontinuously."
+  ]
+ ],
+ "sa": [
+  [
+   "Name the three subunits of a nucleotide.",
+   "A pentose sugar (deoxyribose), a nitrogenous base (purine A or G; pyrimidine T or C) and a phosphate group; base and sugar make a nucleoside and the phosphate converts it to a nucleotide.",
+   [
+    "April 2026"
+   ]
+  ],
+  [
+   "Write any three differences between DNA and RNA.",
+   "DNA has deoxyribose, thymine, is double-stranded and stores hereditary information; RNA has ribose, uracil, is single-stranded and is of three types (mRNA, tRNA, rRNA) made on a DNA template.",
+   [
+    "April 2026"
+   ]
+  ],
+  [
+   "Explain the Griffith experiment on bacterial transformation.",
+   "Live smooth (virulent) cells killed mice; live rough cells did not; heat-killed smooth cells did not; but heat-killed smooth cells mixed with live rough cells killed mice and live smooth cells were recovered, showing a transforming principle."
+  ],
+  [
+   "Explain the mechanism of DNA replication.",
+   "Helicase unwinds the helix; primase makes a primer; DNA polymerase extends new strands in the 5' to 3' direction, the leading strand continuously and the lagging strand as Okazaki fragments joined by ligase; each daughter has one old and one new strand (semiconservative)."
+  ],
+  [
+   "Explain the processing of hnRNA in eukaryotes.",
+   "Introns are removed and exons are joined; a methyl guanosine cap is added at the 5' end and a poly-A tail at the 3' end, and the mature mRNA leaves the nucleus."
+  ],
+  [
+   "Describe the characteristics of the genetic code.",
+   "Triplet, unambiguous, non-overlapping and commaless, degenerate (wobble), universal; AUG starts and UAA, UAG, UGA stop."
+  ]
+ ],
+ "la": [
+  [
+   "(a) Name the scientists who proposed the double helical structure of DNA. (b) Distinguish between nucleoside and nucleotide. (c) Briefly explain the nitrogenous base pairing in DNA.",
+   "(a) Watson and Crick. (b) Nucleoside = base + sugar; nucleotide = base + sugar + phosphate. (c) Adenine pairs with thymine by two hydrogen bonds and guanine with cytosine by three (Chargaff's rule A = T and G = C); this keeps the two strands complementary.",
+   [
+    "October 2025"
+   ]
+  ],
+  [
+   "Write the differences between DNA and RNA. Write the names of the different types of RNA along with their functions.",
+   "Differences: sugar, base, strands and function. mRNA carries the message from DNA to ribosomes; tRNA brings amino acids and has an anticodon; rRNA forms the ribosome and takes part in protein synthesis.",
+   [
+    "October 2025"
+   ]
+  ],
+  [
+   "Describe the process of protein synthesis (translation).",
+   "Amino acid activation, initiation with methionine at AUG, elongation with peptide bond formation and ribosome movement, polysome formation and termination at a stop codon."
+  ],
+  [
+   "Explain the Lac operon model of gene regulation.",
+   "Regulator gene i makes a repressor; in the absence of lactose it binds to the operator and blocks transcription of z, y and a; lactose binds the repressor, the operator is freed and the structural genes make the enzymes for lactose breakdown."
+  ],
+  [
+   "Describe the experiments proving DNA is the genetic material.",
+   "Griffith's transformation, Avery, MacLeod and McCarty's DNA transformation and Hershey and Chase's labelled T2 phage experiment."
+  ]
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "lesson": 30, "title": "Immunobiology: An Introduction", "module": 5,
+ "summary": [
+  "## Immunity and the immune system",
+  "Immunity is the capacity of the body to recognise foreign material and neutralise, eliminate or metabolise it. Immunobiology is the study of the immune system. Edward Jenner (1749-1823) is the father of modern immunobiology: milkmaids who recovered from cowpox did not get smallpox, hence vaccination (vacca = cow). The immune system distinguishes 'self' from 'non-self'. Defence mechanisms: physical or anatomical barriers, metabolic defence, immunological defence (the most important: protects against viruses, bacteria, fungi, parasites and tumours, removes damaged cells and maintains homeostasis) and other cellular defences.",
+  "Lymphoid organs: central or primary (thymus and bone marrow) and peripheral or secondary (spleen, lymph nodes, tonsils, Peyer's patches and MALT). Cells: lymphocytes and macrophages (from monocytes), all derived from stem cells of the bone marrow. B-cells (B for bursa of Fabricius): mature in the bone marrow, have surface immunoglobulin that acts as the receptor for a specific antigen, produce antibodies after turning into plasma cells and also form memory cells that respond quickly to the same antigen later. T-cells (T for thymus): mature in the thymus; regulate the immune response, mediate cell-mediated immunity and induce B-cells to make antibodies; helper T-cells (TH) promote B-cell and T-cell activity, cytotoxic T-cells (TC) kill virus-infected and tumour cells and suppressor T-cells (TS) limit the response.",
+  "## Antigen and antibody",
+  "An antigen is any foreign molecule (usually proteins or large polysaccharides) that triggers a specific immune response; an immunogen provokes the response; the part of the antigen that contacts the antibody is the epitope and the part of the antibody that binds is the paratope. An antibody is a protein (immunoglobulin) made in response to an antigen: four polypeptide chains, two heavy and two light chains joined by disulphide bonds, shaped like a Y with a constant stem (Fc) and two variable prongs forming the specific antigen-binding sites. Five classes: IgG (75 per cent of the total; crosses the placenta), IgM, IgA (in milk, colostrum and mucosa), IgD and IgE (allergy). Plasma cells (differentiated B-cells) make antibodies, which bind antigens and lead to clumping (agglutination), neutralisation, and phagocytosis of the antigen.",
+  "Immune responses: non-specific (phagocytosis by macrophages and microphages; the complement system of at least 20 proteins, C3 being most abundant, which kills microbes and acts as opsonin) and specific or adaptive: cell-mediated (by cytotoxic T-cells and natural killer cells; against intracellular viruses, cancer cells and transplanted tissue) and humoral or antibody-mediated (by plasma cells; against bacteria and viruses and their toxins). Both are helped by helper T-cells and inhibited by suppressor T-cells.",
+  "## Types of immunity and vaccines",
+  "Innate (natural) immunity: first line of defence; physical barriers (skin made of keratin, with acidic lactic acid secretion by sebaceous glands; mucus and cilia in the respiratory tract; epithelial linings; sweat, tears, HCl in gastric juice, spermine); phagocytic cells; and the complement system. Acquired immunity: active (after infection, e.g. lifelong after diphtheria, whooping cough, smallpox and mumps, short-lived after cold and influenza; or by vaccination) and passive (antibodies transferred ready-made: from mother to foetus across the placenta or through colostrum and breast milk, or by injecting serum or pooled immunoglobulin).",
+  "Active immunisation (vaccination): introduces attenuated or killed germs so that the body produces memory cells for quick response on re-exposure (Jenner 1796). Types: killed organisms (typhoid, cholera, pertussis, rabies, polio injection), live attenuated organisms (BCG, rubella, measles, oral polio) and toxoids (modified, harmless toxins such as in diphtheria and tetanus). BCG (Bacillus Calmette-Guerin) is for tuberculosis; DPT is a triple vaccine against diphtheria, pertussis (whooping cough) and tetanus; MMR is against measles, mumps and rubella. Passive immunisation: ready-made antibodies such as anti-tetanus serum and anti-snake venom give immediate but temporary protection."
+ ],
+ "mcq": [
+  ["Who is considered the father of modern immunobiology?", ["Edward Jenner", "Louis Pasteur", "Robert Koch", "Alexander Fleming"], "A"],
+  ["B-cells mature in the —", ["bone marrow", "thymus", "spleen", "liver"], "A"],
+  ["T-cells mature in the —", ["thymus", "bone marrow", "spleen", "lymph node"], "A"],
+  ["The antibody class present in the highest concentration is —", ["IgG", "IgM", "IgA", "IgE"], "A"],
+  ["BCG is a vaccine against —", ["tuberculosis", "polio", "measles", "typhoid"], "A"],
+  ["The DPT vaccine protects against —", ["diphtheria, pertussis and tetanus", "dengue, polio and typhoid", "diarrhoea, plague and tuberculosis", "diphtheria, polio and typhoid"], "A"],
+  ["The antibody-producing cells are —", ["plasma cells", "macrophages", "mast cells", "platelets"], "A"],
+  ["Which of the following is a primary lymphoid organ?", ["Thymus", "Spleen", "Tonsil", "Lymph node"], "A"],
+  ["Anti-tetanus serum gives —", ["passive immunity", "active immunity", "innate immunity", "no immunity"], "A"],
+  ["The part of an antigen that contacts the antibody is the —", ["epitope", "paratope", "Fc region", "heavy chain"], "A"],
+  ["Cell-mediated immunity is carried out by —", ["T-cells", "B-cells", "plasma cells", "platelets"], "A"],
+  ["Which of the following gives passive immunity to a newborn?", ["Colostrum", "BCG", "DPT", "Oral polio vaccine"], "A"]
+ ],
+ "objective": [
+  ["Name the type of immunity: (a) transfer of IgG from mother to foetus (b) vaccination with BCG.", "(a) Passive immunity. (b) Active acquired immunity."],
+  ["State true or false: (a) B-cells mature in the thymus. (b) Memory cells give a quick response to a second exposure to an antigen.", "(a) False – in bone marrow. (b) True."],
+  ["Name the three types of T-cells.", "Helper T-cells (TH), cytotoxic T-cells (TC) and suppressor T-cells (TS)."],
+  ["Match: (a) Plasma cells (b) Cytotoxic T-cells (c) Macrophages with (i) antibodies (ii) phagocytosis (iii) kill infected cells.", "(a)-(i); (b)-(iii); (c)-(ii)."],
+  ["Expand: (a) BCG (b) MMR.", "(a) Bacillus Calmette-Guerin. (b) Measles, Mumps and Rubella."],
+  ["Name two live attenuated vaccines and two killed vaccines.", "Live: BCG and measles; killed: typhoid and rabies."],
+  ["Name the two types of specific immune responses.", "Cell-mediated and humoral (antibody-mediated)."],
+  ["Name two primary and two secondary lymphoid organs.", "Primary: thymus and bone marrow; secondary: spleen and lymph nodes."]
+ ],
+ "vsa": [
+  ["What is meant by 'self' and 'non-self'?", "Self is the body's own tissues; non-self is foreign material such as pathogens that the immune system recognises and attacks."],
+  ["Differentiate between B-cells and T-cells (two points).", "B-cells mature in the bone marrow and produce antibodies (humoral); T-cells mature in the thymus and mediate cell-mediated immunity."],
+  ["What is an antigen? Name its parts which contact the antibody.", "A foreign molecule that triggers a specific immune response; the epitope is the part that contacts the antibody paratope."],
+  ["What is the complement system?", "A group of at least 20 plasma proteins that kill microbes without phagocytosis and help phagocytosis (opsonins)."],
+  ["What are memory cells?", "B-cells that do not become plasma cells and remain to produce antibodies quickly if the antigen appears again."],
+  ["State the difference between active and passive immunity.", "Active: the body produces its own antibodies after infection or vaccination, long lasting; passive: ready-made antibodies are received, short-lived."],
+  ["What is a toxoid?", "A chemically or physically modified toxin which is no longer harmful but remains immunogenic, used in vaccines against diphtheria and tetanus."],
+  ["Write any two physical barriers of innate immunity.", "The keratinised skin with acidic secretions and the mucus with cilia in the respiratory tract."]
+ ],
+ "sa": [
+  ["Explain the structure of an antibody.", "A Y-shaped immunoglobulin with two heavy and two light chains joined by disulphide bonds; the stem (Fc) is constant while the two prongs have variable antigen-binding sites."],
+  ["Distinguish between cell-mediated and humoral immune responses (three points).", "Cell-mediated: by T-cells, kills virus-infected and cancer cells and rejects grafts, no antibodies; humoral: by antibodies from plasma cells, acts on bacteria, toxins and free viruses."],
+  ["Describe the innate immunity and its first line of defence.", "Physical barriers (skin, mucus, cilia, secretions), phagocytic cells and complement proteins."],
+  ["Explain the principle of vaccination.", "Attenuated or killed germs are introduced; the body produces specific memory cells; on later exposure it responds rapidly with antibodies."],
+  ["Describe the functions of T-cells.", "Regulate immune responses; helper T-cells activate B-cells and T-cells; cytotoxic T-cells kill infected and tumour cells; suppressor T-cells limit the response."],
+  ["Explain the classes of immunoglobulins.", "IgG (75 per cent, crosses the placenta), IgM, IgA (in secretions and milk), IgD and IgE (allergy)."]
+ ],
+ "la": [
+  ["Describe the cells of the immune system.", "Lymphocytes (B-cells and T-cells with their origin, maturation and functions), macrophages and plasma and memory cells."],
+  ["Explain the types of immunity with examples.", "Innate (barriers, phagocytes, complement) and acquired (active by infection or vaccine; passive by antibodies from the mother or serum)."],
+  ["Describe antigens and antibodies and the types of immune response.", "Antigen properties and epitopes; antibody structure and classes; non-specific and specific (cell-mediated and humoral) responses."],
+  ["Describe the types of vaccines with examples, with BCG, DPT and MMR.", "Killed, live attenuated and toxoid vaccines; BCG for TB, DPT for diphtheria, pertussis and tetanus, MMR for measles, mumps and rubella."]
+ ]
+}

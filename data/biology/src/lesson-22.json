@@ -1,0 +1,73 @@
+{
+ "lesson": 22, "title": "Principles of Genetics", "module": 3,
+ "summary": [
+  "## Heredity and variation",
+  "Heredity is the transmission of characters from parents to offspring; genetics is its study. Variation is the difference between parents and offspring or among offspring; it arises by mutation (sudden change in genes) and genetic recombination (crossing over during meiosis and random mixing of paternal and maternal chromosomes at fertilisation) and has survival value for the population.",
+  "## Mendel's experiments",
+  "Gregor Johann Mendel (1822-1884; Austrian monk; paper in 1865; father of genetics) worked on the garden pea (Pisum sativum; rediscovered in 1900 by Tschermak, Correns and de Vries). He studied seven pairs of contrasting characters: seed shape (round or wrinkled), seed colour (yellow or green), flower colour (purple or white), flower position (axial or terminal), pod shape (inflated or constricted), pod colour (green or yellow) and stem height (tall or dwarf). He chose pea because it has a short life cycle, bisexual self-pollinating flowers, pure-breeding varieties and clear contrasting characters showing complete dominance, and he used statistical analysis, reciprocal and test crosses.",
+  "Monohybrid cross: a pure tall plant (TT) crossed with a pure dwarf plant (tt) gives all tall F1 (Tt); on selfing, F2 gives 3 tall : 1 dwarf (phenotypic ratio 3:1; genotypic 1 TT : 2 Tt : 1 tt). Laws: (1) law of segregation (purity of gametes): the two factors of a pair separate during gamete formation, and each gamete gets one factor; (2) law of dominance: when two contrasting factors are present, only the dominant one is expressed in F1; (3) law of independent assortment: in a dihybrid cross, factors of different characters assort independently; TTRR × ttrr gives TtRr in F1 and 9 tall red : 3 tall white : 3 dwarf red : 1 dwarf white in F2 (dihybrid ratio 9:3:3:1; the 1/16 class is the double recessive).",
+  "Terms: gene, allele (alternative forms of a gene), trait, dominant, recessive, genotype (genetic constitution), phenotype (visible expression), homozygous (identical alleles), heterozygous (dissimilar alleles), F1 and F2, hybridisation, test cross (cross of F1 with the homozygous recessive parent; a heterozygote gives a 1:1 ratio) and reciprocal cross (sexes of the parents reversed).",
+  "Deviations: incomplete dominance (no dominance; the heterozygote is intermediate; red × white in Mirabilis jalapa (four o'clock) or Antirrhinum gives pink F1 and 1 red : 2 pink : 1 white in F2; genotypic and phenotypic ratios are both 1:2:1); multiple alleles and codominance (ABO blood groups from IA, IB and i; IA and IB are codominant; genotypes IAIA or IAi give A; IBIB or IBi give B; IAIB gives AB; ii gives O); lethal genes (yellow coat colour in mice, yy dies as zygote); pleiotropy (one gene affects several characters; white eye gene in Drosophila also affects wing and abdomen); polygenic inheritance (many genes with additive effect; skin colour and height in humans, wheat kernel colour).",
+  "## Chromosome theory, linkage and crossing over",
+  "Sutton and Boveri (1902): chromosomes behave like Mendelian factors; genes are on chromosomes arranged linearly; chromosomes occur in homologous pairs which separate in meiosis. Linkage: genes on the same chromosome tend to be inherited together (Bateson and Punnett, sweet pea, ratio 7:1:1:7 instead of 9:3:3:1). Crossing over: exchange of segments between non-sister chromatids of homologous chromosomes at chiasmata in prophase I of meiosis, giving recombinants.",
+  "## Sex determination and sex-linked inheritance",
+  "Sex chromosomes and autosomes; XX-XY type in humans: the female is homogametic (all eggs X), the male is heterogametic (X-bearing and Y-bearing sperms); the sex of the child depends on the sperm, a matter of chance. In birds the ZW-ZZ type: females are heterogametic (ZW) and males are ZZ. In honey bees haplodiploidy: unfertilised eggs (haploid) develop into males (drones) and fertilised eggs (diploid) into females (workers and queen); so males have no father and cannot have sons, but have a grandfather.",
+  "Sex-linked (X-linked) genes show criss-cross inheritance: the recessive trait passes from father to daughter (carrier) and from her to her sons; males (XhY) are affected with one gene, females only when both X chromosomes carry it. Examples: red-green colour blindness and haemophilia. A haemophilic man (XhY) and normal woman (XX): all daughters carriers (XhX), all sons normal (XY). A carrier woman (XhX) and normal man (XY): 1 normal daughter : 1 carrier daughter : 1 normal son : 1 haemophilic son. A colour-blind man and a normal homozygous woman have no colour-blind sons because the sons get their X from the mother and Y from the father.",
+  "Mitochondrial inheritance is maternal: mitochondria come into the zygote from the egg only, so mitochondrial DNA (and its diseases) passes from the mother.",
+  "## Human karyotype and genetic disorders",
+  "Human karyotype: 46 chromosomes (23 pairs); 44 autosomes and 2 sex chromosomes (XX female, XY male), arranged in seven groups A to G; the Y is necessary for maleness. Disorders: Down's syndrome (trisomy 21; 47 chromosomes; mental retardation, thick tongue, drooping face; risk rises with the mother's age); Klinefelter's syndrome (XXY; 47 chromosomes; tall, sterile male with breast development); Turner's syndrome (XO; 45 chromosomes; sterile female with webbed neck and underdeveloped breasts); colour blindness and haemophilia (sex-linked recessive); thalassaemia (autosomal recessive; defective haemoglobin synthesis; needs blood transfusions) and sickle-cell anaemia (autosomal recessive; sickle-shaped RBCs due to defective haemoglobin; heterozygotes resist malaria). Rh incompatibility: an Rh-negative mother carrying an Rh-positive foetus makes antibodies after the first delivery; in later pregnancies they destroy the foetus's RBCs (erythroblastosis foetalis); prevented by anti-Rh treatment after delivery.",
+  "Amniocentesis: a sample of amniotic fluid is taken, foetal cells are cultured and the chromosomes analysed to detect genetic defects; its use for finding the sex of the unborn child is illegal. Genome: all the genes on the haploid set of chromosomes of an organism; genomics is its study; most human genes were mapped by 2003 and gene therapy is now hoped for."
+ ],
+ "mcq": [
+  ["The alleles that express in the homozygous condition are —", ["dominant, codominant", "dominant, recessive", "recessive, dominant only", "incompletely dominant"], "B", ["April 2026"]],
+  ["The unique method of sex determination in honey bees is called —", ["XX-XY type", "Parthenogenetic type", "ZW-ZZ type", "Haplodiploidy"], "D", ["October 2025"]],
+  ["In a dihybrid Mendelian cross the phenotypic ratio in F2 was 9:3:3:1. The 1/16 portion represents —", ["recessive phenotypic condition for both characters", "one dominant and one recessive character", "both dominant characters", "new recombinants due to crossing over"], "A", ["April 2025"]],
+  ["The phenotypic ratio in the F2 generation of a monohybrid cross is —", ["3:1", "9:3:3:1", "1:1", "1:2:1"], "A"],
+  ["In Mirabilis jalapa, the cross of red and white flowered plants gives F1 —", ["pink", "red", "white", "variegated"], "A"],
+  ["A test cross is a cross between F1 and the —", ["homozygous recessive parent", "homozygous dominant parent", "another F1", "wild type"], "A"],
+  ["The number of autosomes in a human cell is —", ["44", "46", "22", "23"], "A"],
+  ["The genotype of a haemophilic man is —", ["XhY", "XhXh", "XhX", "XY"], "A"],
+  ["The syndrome in which an individual has an XXY chromosome constitution is —", ["Klinefelter's", "Turner's", "Down's", "Patau's"], "A"],
+  ["Crossing over takes place during —", ["prophase I of meiosis", "metaphase of mitosis", "anaphase II", "interphase"], "A"],
+  ["The father of genetics is —", ["Mendel", "Morgan", "Sutton", "Bateson"], "A"],
+  ["The ABO blood group system is an example of —", ["multiple alleles and codominance", "incomplete dominance", "lethal genes", "linkage"], "A"],
+  ["Which of these is an autosomal recessive disorder?", ["Thalassaemia", "Haemophilia", "Colour blindness", "Klinefelter's syndrome"], "A"]
+ ],
+ "objective": [
+  ["In humans, since mitochondria come into the zygote only from the egg, the inheritance of mitochondrial DNA is said to be a case of ______ inheritance. Fill in the blank.", "maternal (cytoplasmic) inheritance.", ["April 2026"]],
+  ["Write the genotypes of the human blood groups: (a) A (b) AB.", "(a) IAIA or IAi. (b) IAIB."],
+  ["State true or false: (a) A male honey bee has a father. (b) Females of birds are heterogametic.", "(a) False. (b) True."],
+  ["Name the types of sex determination: (a) humans (b) birds.", "(a) XX-XY type. (b) ZW-ZZ type."],
+  ["Name the chromosomal abnormality: (a) trisomy of chromosome 21 (b) XO.", "(a) Down's syndrome. (b) Turner's syndrome."],
+  ["Match: (a) Sutton and Boveri (b) Bateson and Punnett (c) Mendel with (i) linkage (ii) chromosome theory (iii) law of segregation.", "(a)-(ii); (b)-(i); (c)-(iii)."],
+  ["Define: (a) allele (b) genotype.", "(a) Alternative forms of a gene at the same locus. (b) The genetic constitution of an individual."],
+  ["Give the phenotypic ratio in (a) incomplete dominance (b) test cross of a heterozygote.", "(a) 1:2:1 (1 red : 2 pink : 1 white). (b) 1:1."]
+ ],
+ "vsa": [
+  ["State Mendel's law of segregation.", "The two factors of a pair separate during gamete formation so that each gamete carries only one factor, and the gametes are pure."],
+  ["What is incomplete dominance? Give an example.", "When neither allele is dominant and the heterozygote shows an intermediate phenotype; e.g. pink flowers in Mirabilis jalapa from red and white."],
+  ["Distinguish between linkage and crossing over.", "Linkage is the tendency of genes on the same chromosome to be inherited together; crossing over is the exchange of segments between non-sister chromatids, producing recombinants."],
+  ["Explain the statement 'Male honey bees have no father but have a grandfather'.", "Males develop from unfertilised eggs of the queen, so they have no father; they have a grandfather as the queen's father mated to produce her."],
+  ["What is pleiotropy? Give one example.", "One gene controlling several phenotypic traits; the white eye gene in Drosophila also affects wing and abdomen shape."],
+  ["What is amniocentesis? Mention its use.", "A technique in which amniotic fluid is withdrawn and foetal cells are cultured to detect genetic disorders; its use to find the sex of the foetus is illegal."],
+  ["Write two features of Down's syndrome.", "Trisomy 21 (47 chromosomes), mental retardation and a thick tongue with a drooping face."],
+  ["Why do males suffer more from X-linked recessive disorders?", "Males have only one X, so a single recessive gene is expressed; females need two."],
+  ["What is a human karyotype?", "The arrangement of the 23 pairs of human chromosomes in seven groups A to G by size and centromere position."]
+ ],
+ "sa": [
+  ["A haemophilic man marries a normal woman. Show the genotypes of both individuals. With the help of a flow chart work out the phenotype of their progeny.", "Man: XhY; woman: XX. Gametes: Xh, Y × X, X. Progeny: XhX (carrier daughter) and XY (normal son), so all daughters are carriers and all sons are normal.", ["October 2025"]],
+  ["A carrier female for red-green colour blindness marries a man with normal vision. With the help of a flow chart work out the phenotypes of the progeny.", "Woman XCXc, man XCY; gametes XC, Xc × XC, Y; progeny XCXC (normal daughter), XCXc (carrier daughter), XCY (normal son) and XcY (colour-blind son).", ["October 2025"]],
+  ["State and explain Mendel's law of independent assortment with a cross.", "The genes of different characters assort independently. TTRR × ttrr gives TtRr in F1; F2 gives 9 tall red : 3 tall white : 3 dwarf red : 1 dwarf white."],
+  ["Describe sex determination in humans.", "The female has XX and produces only X eggs; the male has XY and produces X and Y sperms; an X sperm gives a girl, a Y sperm gives a boy, so sex is a matter of chance."],
+  ["Explain the cause of Rh incompatibility.", "An Rh-negative mother with an Rh-positive foetus forms antibodies against Rh antigen after the first delivery; in later pregnancies these antibodies destroy the foetal RBCs, causing erythroblastosis foetalis."],
+  ["Explain Klinefelter's and Turner's syndromes.", "Klinefelter's: XXY male, tall, sterile with breast development; Turner's: XO female, sterile, webbed neck, underdeveloped breasts."],
+  ["Explain the inheritance of ABO blood groups.", "Three alleles IA, IB and i; IA and IB are codominant and dominant over i; genotypes IAIA and IAi give A, IBIB and IBi give B, IAIB gives AB and ii gives O."]
+ ],
+ "la": [
+  ["Explain Mendel's monohybrid cross and the laws it led to.", "Tall × dwarf gives all tall F1 and 3:1 in F2; this led to the law of dominance and the law of segregation (purity of gametes); a dihybrid cross gave 9:3:3:1 and the law of independent assortment."],
+  ["Explain the chromosome theory of inheritance and linkage and crossing over.", "Sutton and Boveri showed genes are located on chromosomes; genes on the same chromosome are linked; crossing over at chiasmata in prophase I produces recombinants."],
+  ["Explain sex-linked inheritance with reference to haemophilia and colour blindness.", "Genes on the X chromosome show criss-cross inheritance; males are affected by a single recessive gene; carrier females pass it to half their sons; crosses with genotypes and ratios."],
+  ["Describe the deviations from Mendelian inheritance.", "Incomplete dominance, multiple alleles and codominance, lethal genes, pleiotropy and polygenic inheritance with examples."],
+  ["Describe the chromosomal disorders and genetic diseases in humans.", "Down's, Klinefelter's and Turner's syndromes; colour blindness, haemophilia, thalassaemia and sickle-cell anaemia."]
+ ]
+}

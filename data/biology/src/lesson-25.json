@@ -1,0 +1,66 @@
+{
+ "lesson": 25, "title": "Principles of Ecology", "module": 4,
+ "summary": [
+  "## Environment and organisation of life",
+  "Environment is all the physical, chemical and biotic conditions surrounding an organism. Abiotic (non-living) components: physical (light, temperature, humidity, wind), edaphic (soil) and chemical; some act as resources (air, soil, water), others as regulatory factors (light, temperature). Biotic components: plants, animals and microorganisms. Ecology (oikos, household; logos, study) is the study of the relationship between organisms and their environment. Levels of organisation: gene → cell → organ → organism → species → population → community → ecosystem → biome → biosphere. Ecosphere = biosphere + lithosphere + hydrosphere + atmosphere.",
+  "Habitat is the physical environment where an organism lives (its address); niche is the sum of all its activities and relationships in using resources (its profession); no two species can have the same niche in a habitat. Adaptation is a structure, behaviour or mode of life that allows an organism to survive in its environment (gills and fins in fish, beak shape in birds, thorns in plants, no wood and reduced roots in aquatic plants). A species is a group that can interbreed; a population is a group of interbreeding individuals of a species in a place at a time; a community is the populations of different species in one place; community + non-living environment = ecosystem.",
+  "## Population",
+  "Population characteristics: density (determined by quadrat sampling or counting, e.g. pugmarks), natality, mortality, dispersal (emigration and immigration), age distribution (pre-reproductive, reproductive and post-reproductive groups: a growing population has many young, a stationary one an even distribution, a declining one many old), sex ratio, biotic potential and growth form. Density depends on natality, mortality, immigration and emigration. Growth curves: J-shaped (exponential growth when resources are abundant, followed by a crash; insects in the monsoon) and S-shaped or sigmoid (lag phase, growth phase and stable plateau phase when natality equals mortality and the environmental resistance (carrying capacity) limits growth).",
+  "## Ecosystem",
+  "An ecosystem is a self-sustaining functional unit of nature: terrestrial (forest, desert, grassland), aquatic (pond, lake, sea) or human-made (crop land, aquarium). Pond ecosystem: abiotic components (light, temperature, water, dissolved O2 and CO2, nutrients, organic matter); biotic components: producers (phytoplankton such as Spirogyra, Volvox; rooted plants such as Hydrilla and Typha), consumers (zooplankton, insect larvae, snails, fish) and decomposers (bacteria and fungi at the bottom). Structure: species composition and stratification (vertical in forests, horizontal in deserts). Ecotone is a transitional zone between two ecosystems (grassland between forest and desert).",
+  "Food chain: transfer of food from producers through a series of organisms (grass → grasshopper → frog → snake → eagle); each step is a trophic level; the number of steps is limited to four or five. Producers (autotrophs) first trophic level; gross primary productivity (GPP) is the total energy fixed; net primary productivity (NPP) = GPP minus respiration. Herbivores are primary consumers; carnivores are secondary, tertiary or quaternary consumers (a snake may be both a secondary and a tertiary consumer in different chains); decomposers (bacteria, fungi) recycle nutrients; special groups: scavengers (vultures), omnivores (humans) and parasites. Humans are primary consumers when vegetarian and secondary or tertiary when non-vegetarian. A food web is a network of interconnected food chains.",
+  "Energy flow: unidirectional, from solar energy to producers and onward; at each step energy is lost as heat in respiration and non-utilised; only about 10 per cent is passed on (the 10 per cent law): 10,000 kcal → 1,000 → 100 → 10. Ecological pyramids (number, biomass, energy) show standing crop with producers at the base; the pyramid of energy is always upright; the pyramid of number in a grassland: grass (many) → grasshoppers → frogs/mice → snakes/hawks (very few).",
+  "Biotic interactions: negative (amensalism: one species is inhibited and the other unaffected, e.g. Penicillium secretes penicillin that inhibits bacteria; predation: lion and deer; parasitism: parasite benefits and host is harmed, e.g. Cuscuta, Ascaris; competition: both species are harmed), positive (commensalism: one benefits and the other is neither harmed nor benefited, e.g. remora on shark, epiphytes on trees; mutualism: both benefit, e.g. sea anemone and hermit crab, flowering plants and pollinating insects, termites and flagellates as symbiosis) and neutral (neutralism).",
+  "Biomes: large ecosystems with characteristic flora and fauna. Tropical rain forest (rainfall above 200 cm, humus-rich soil, highest productivity and biodiversity), temperate deciduous forest (75-150 cm rain, leaf fall in autumn), coniferous forest or taiga (very cold, poor acidic soil, spruce, fir and pine), grassland (savanna, prairies; between forest and desert; ecotone), desert (rainfall below 25 cm; xerophytes; camel) and tundra (barren, very cold). Carbon cycle: CO2 fixed by photosynthesis, returned by respiration, decay, burning of fuels; human activities that increase atmospheric CO2 include burning fossil fuels and deforestation."
+ ],
+ "mcq": [
+  ["A transitional zone between two ecosystems is —", ["ecotone", "biome", "wetland", "biosphere"], "A", ["April 2026", "October 2025"]],
+  ["The association between insect-pollinated flowers and pollinating insects is termed —", ["Symbiosis", "Mutualism", "Commensalism", "Parasitism"], "B", ["October 2025"]],
+  ["Habitat is called the —", ["address of an organism", "profession of an organism", "food of an organism", "age of an organism"], "A"],
+  ["The pyramid which is always upright is the pyramid of —", ["energy", "number", "biomass", "all of these"], "A"],
+  ["The percentage of energy transferred from one trophic level to the next is about —", ["10", "50", "90", "1"], "A"],
+  ["Remora and shark show —", ["commensalism", "mutualism", "parasitism", "predation"], "A"],
+  ["Producers are also called —", ["autotrophs", "heterotrophs", "decomposers", "scavengers"], "A"],
+  ["An S-shaped growth curve has a stable phase when —", ["natality equals mortality", "natality exceeds mortality", "mortality exceeds natality", "dispersal is zero"], "A"],
+  ["Which of the following is a decomposer?", ["Fungi", "Grass", "Frog", "Eagle"], "A"],
+  ["The biome with the highest productivity is —", ["tropical rain forest", "tundra", "desert", "taiga"], "A"],
+  ["Cuscuta on a host plant shows —", ["parasitism", "mutualism", "commensalism", "amensalism"], "A"],
+  ["The first trophic level in a food chain consists of —", ["producers", "herbivores", "carnivores", "decomposers"], "A"]
+ ],
+ "objective": [
+  ["With reference to biological interactions between two species, identify the two wrong statements: (a) One organism benefits while the other is harmed: parasitism. (b) Both species cannot survive without the other: mutualism. (c) Penicillium secretes antibiotics which inhibit bacteria: predation. (d) One species benefits and the other is unharmed: commensalism.", "(b) and (c) are wrong: (b) interdependence with neither able to survive is symbiosis (obligate mutualism); (c) Penicillium inhibiting bacteria is amensalism, not predation.", ["October 2025"]],
+  ["Name two human activities which continuously increase the atmospheric carbon dioxide.", "Burning of fossil fuels and deforestation.", ["October 2025"]],
+  ["Fill in the blanks: (a) The relationship in which one species benefits at the cost of another is ______. (b) A group of species living together in a natural area is a ______.", "(a) parasitism. (b) community."],
+  ["Match: (a) Amensalism (b) Mutualism (c) Competition with (i) both benefit (ii) both harmed (iii) one inhibited, the other unaffected.", "(a)-(iii); (b)-(i); (c)-(ii)."],
+  ["State true or false: (a) A snake can be a secondary as well as a tertiary consumer. (b) Energy flow in an ecosystem is cyclic.", "(a) True. (b) False – it is unidirectional."],
+  ["Name the two basic forms of population growth curves.", "J-shaped (exponential) and S-shaped (sigmoid)."],
+  ["Name the biotic components of a pond ecosystem.", "Producers (phytoplankton and rooted plants), consumers (zooplankton, insect larvae, fish) and decomposers (bacteria and fungi)."],
+  ["Give the levels of organisation in life from gene to biosphere.", "Gene, cell, organ, organism, species, population, community, ecosystem, biome and biosphere."]
+ ],
+ "vsa": [
+  ["Construct a pyramid of number in a grassland with four trophic levels.", "From base to top: grass (producers, very many) → grasshoppers (primary consumers, many) → frogs (secondary consumers, fewer) → snakes (tertiary consumers, fewest); the pyramid is upright with a broad base.", ["April 2026"]],
+  ["Write any two biotic and two abiotic components of a pond ecosystem.", "Biotic: phytoplankton and fish. Abiotic: sunlight and water (temperature, dissolved O2).", ["April 2026"]],
+  ["Explain the term commensalism with an example.", "An association in which one species benefits and the other is neither harmed nor benefited; e.g. the remora fish attached to a shark, or epiphytes on trees.", ["April 2026"]],
+  ["Construct a food chain showing one producer and three consumers of different trophic levels. What is the trophic level of the final consumer?", "Grass → grasshopper → frog → snake. The snake, the final consumer, is at the fourth trophic level (tertiary consumer).", ["October 2025"]],
+  ["Under what conditions do the population growth curves become J-shaped and S-shaped?", "J-shaped when resources are unlimited (exponential growth followed by a crash); S-shaped when resources become limiting and the population stabilises at the carrying capacity.", ["October 2025"]],
+  ["Distinguish between habitat and niche.", "Habitat is the place where an organism lives (its address); niche is its functional role and use of resources (its profession)."],
+  ["What is the 10 per cent law?", "Only about 10 per cent of the energy at one trophic level passes to the next; the rest is lost as heat in respiration."],
+  ["What are decomposers? Give two examples.", "Organisms that feed on dead organic matter and recycle nutrients; bacteria and fungi."],
+  ["State two differences between a food chain and a food web.", "A food chain is a single linear sequence of feeding; a food web is a network of interconnected food chains and gives stability."]
+ ],
+ "sa": [
+  ["Describe the characteristics of a population.", "Density, natality, mortality, dispersal (emigration and immigration), age distribution, sex ratio and growth form; density depends on natality, mortality, immigration and emigration."],
+  ["Explain the S-shaped population growth curve.", "A lag phase with few births; a growth phase with rapid increase when food is plentiful; a stable (plateau) phase when resources become limiting and natality equals mortality."],
+  ["Explain the energy flow in an ecosystem.", "Solar energy is trapped by producers, passed to herbivores and carnivores; at each level energy is lost as heat in respiration; only 10 per cent passes on, so flow is unidirectional and the chain has 4-5 steps."],
+  ["Explain the types of interspecific interactions with one example each.", "Amensalism (Penicillium and bacteria), predation (lion and deer), parasitism (Cuscuta), competition, commensalism (remora and shark) and mutualism (sea anemone and hermit crab)."],
+  ["Explain the structure of a pond ecosystem.", "Abiotic: light, temperature, water, gases, nutrients; biotic: producers (phytoplankton, rooted plants), consumers (zooplankton, fish) and decomposers (bacteria and fungi)."],
+  ["Write short notes on the tropical rain forest biome.", "Rainfall above 200 cm, high temperature and light, humus-rich soil, high turnover of nutrients, highest productivity and biomass, with epiphytes and lianas and rich fauna."],
+  ["Write any three adaptations of desert plants and animals.", "Reduced leaves or spines, deep roots, water storage (Opuntia); camel stores fat and survives without water; burrowing rodents."]
+ ],
+ "la": [
+  ["Explain the levels of biological organisation and the concepts of habitat, niche and adaptation.", "Gene to biosphere; habitat as address; niche as profession with examples; adaptation as a structure or behaviour helping survival, e.g. bird beaks, gills, thorns."],
+  ["Describe the food chain, trophic levels and food web.", "Producers, primary, secondary and tertiary consumers and decomposers with examples; special feeding groups; the position of humans; the food web."],
+  ["Describe ecological pyramids and the energy flow in an ecosystem.", "Pyramids of number, biomass and energy; 10 per cent law; energy is lost as heat; flow is one way."],
+  ["Describe the major terrestrial biomes.", "Tropical rain forest, temperate deciduous forest, coniferous forest, grassland, desert and tundra with climate, flora and fauna."]
+ ]
+}

@@ -1,0 +1,357 @@
+{
+  "subject": "biology",
+  "lesson": 6,
+  "title": "Root System",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "12 × 1 = 12",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "Which of the following roots is swollen in the middle and tapers at both ends?",
+          "options": [
+            "Fusiform",
+            "Conical",
+            "Napiform",
+            "Fasciculated"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "The roots of mangrove plants that grow upwards out of the water are called —",
+          "options": [
+            "Pneumatophores",
+            "Prop roots",
+            "Stilt roots",
+            "Haustoria"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "Prop roots are found in —",
+          "options": [
+            "Banyan",
+            "Sugarcane",
+            "Maize",
+            "Money plant"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "Which of the following is a conical root?",
+          "options": [
+            "Carrot",
+            "Turnip",
+            "Radish",
+            "Sweet potato"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "The fibrous root system is a feature of —",
+          "options": [
+            "monocots",
+            "dicots",
+            "gymnosperms",
+            "fungi"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "Casparian strips are present in the —",
+          "options": [
+            "endodermis",
+            "epiblema",
+            "cortex",
+            "pith"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "The seat of origin of lateral roots is the —",
+          "options": [
+            "pericycle",
+            "endodermis",
+            "cortex",
+            "epiblema"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "The root cap is absent and replaced by a root pocket in —",
+          "options": [
+            "water hyacinth",
+            "mustard",
+            "wheat",
+            "gram"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "Cuscuta absorbs food from its host with the help of —",
+          "options": [
+            "haustoria",
+            "pneumatophores",
+            "tendrils",
+            "root hairs"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "Secondary growth is absent in —",
+          "options": [
+            "monocot roots",
+            "dicot roots",
+            "gymnosperm roots",
+            "dicot stems"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "The region of the root which absorbs water is —",
+          "options": [
+            "root hair zone",
+            "root cap",
+            "meristematic zone",
+            "zone of elongation"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "The xylem of a root is described as exarch because —",
+          "options": [
+            "protoxylem lies towards the periphery",
+            "protoxylem lies at the centre",
+            "there is no metaxylem",
+            "xylem is scattered"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark.",
+      "marks": "8 × 2 = 16",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "Match: (a) Prop roots (b) Haustorium (c) Sweet potato (d) Floating roots with (i) Storage (ii) Jussiaea (iii) Banyan (iv) Cuscuta.",
+          "answer": "(a)-(iii); (b)-(iv); (c)-(i); (d)-(ii)."
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Name the modification: (a) Rhizophora roots coming up from the marsh (b) Roots of Cuscuta.",
+          "answer": "(a) Pneumatophores (respiratory roots). (b) Sucking roots (haustoria)."
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "Fill in the blanks: (a) The lateral roots arise from the ______. (b) The number of xylem patches in a dicot root is ______ to six.",
+          "answer": "(a) pericycle. (b) two."
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "State true or false: (a) The cambium is absent in a monocot root. (b) Roots are positively phototropic.",
+          "answer": "(a) True. (b) False – roots are negatively phototropic."
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "Name the type of root modification and one example for storage: (a) swollen in the middle (b) spherical at the base.",
+          "answer": "(a) Fusiform; radish. (b) Napiform; turnip."
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "Name the layers formed by the cork cambium on its outer and inner sides.",
+          "answer": "Outside: cork (phellem). Inside: secondary cortex (phelloderm)."
+        },
+        {
+          "id": "2.7",
+          "type": "open",
+          "q": "Name the two regions of the maturation zone of the root.",
+          "answer": "Root hair (piliferous) region and the permanent region."
+        },
+        {
+          "id": "2.8",
+          "type": "open",
+          "q": "In a tetrarch root, how many lateral roots form in one row?",
+          "answer": "Four, equal to the number of xylem bundles."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "8 × 2 = 16",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "Identify the modified root in the following: (1) Rhizophora (2) Cuscuta (3) Banyan (4) Sugarcane (5) Money plant.",
+          "answer": "(1) Pneumatophores. (2) Haustoria (sucking roots). (3) Prop roots. (4) Stilt roots. (5) Climbing roots.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "Differentiate between tap root and fibrous root systems (two points).",
+          "answer": "A tap root system has a persistent primary root with branches, going deep and giving strong anchorage; a fibrous system has a cluster of thin roots from the stem base, which is shallow."
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "What is the quiescent centre?",
+          "answer": "A group of inactive cells between the root cap and the active meristem; they become active when the meristem is damaged."
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "What are passage cells?",
+          "answer": "Endodermal cells opposite the protoxylem without Casparian strips, through which water and salts pass from the cortex into the xylem."
+        },
+        {
+          "id": "3.5",
+          "type": "open",
+          "q": "State two functions of roots.",
+          "answer": "Anchoring the plant in the soil and absorbing water and mineral salts."
+        },
+        {
+          "id": "3.6",
+          "type": "open",
+          "q": "Why are carrot, radish and turnip considered roots?",
+          "answer": "They are fleshy, have no nodes or buds and bear lateral roots; they store food and develop from the radicle."
+        },
+        {
+          "id": "3.7",
+          "type": "open",
+          "q": "What is meant by exarch xylem?",
+          "answer": "The protoxylem lies towards the periphery and the metaxylem towards the centre."
+        },
+        {
+          "id": "3.8",
+          "type": "open",
+          "q": "What is periderm?",
+          "answer": "The protective layers of phellogen, phellem and phelloderm formed in secondary growth."
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "6 × 3 = 18",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "Give any three differences between a dicot root and a monocot root.",
+          "answer": "Dicot root: 2-6 xylem bundles, small pith, secondary growth present. Monocot root: many bundles (polyarch), large pith, no secondary growth."
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "Describe the regions of the root tip.",
+          "answer": "Root cap protects the apex; meristematic zone divides; elongation zone makes the root longer; maturation zone has root hairs for absorption and a permanent zone producing lateral roots."
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "Write about the modifications of tap root for food storage.",
+          "answer": "Conical (carrot), fusiform (radish), napiform (turnip) and tuberous (four o'clock plant): they are swollen and fleshy for storing food."
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "Explain how lateral roots originate.",
+          "answer": "They arise endogenously from the pericycle opposite the protoxylem; the cells divide to form a hump which pushes through the endodermis and cortex and emerges as a branch; the number of lateral roots equals the number of xylem bundles."
+        },
+        {
+          "id": "4.5",
+          "type": "open",
+          "q": "Describe the adventitious roots modified for support.",
+          "answer": "Prop roots (banyan) hang from branches and support them; stilt roots (sugarcane) grow obliquely from the lower nodes; climbing roots (money plant) clasp the support."
+        },
+        {
+          "id": "4.6",
+          "type": "open",
+          "q": "What are pneumatophores? Where are they found and what is their function?",
+          "answer": "Respiratory roots that grow vertically upward out of marshy water with minute pores; found in mangroves such as Rhizophora; they help in gaseous exchange."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Long answer questions. Answer in 80–120 words.",
+      "marks": "4 × 5 = 20",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "Identify the modified adventitious root in the following: (1) Rhizophora (2) Cuscuta (3) Banyan (4) Sugarcane (5) Money plant. Mention the function of each.",
+          "answer": "(1) Pneumatophores: gas exchange. (2) Haustoria: absorb food from the host. (3) Prop roots: support. (4) Stilt roots: support. (5) Climbing roots: attach to the support.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "Describe the secondary growth in a dicot root.",
+          "answer": "A cambium ring forms from the conjunctive tissue and pericycle; it adds secondary phloem outside and secondary xylem inside; cork cambium arises from the pericycle and forms cork and secondary cortex; the periderm protects the root and the epiblema, cortex and endodermis peel off."
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "Describe the internal structure of a dicot root.",
+          "answer": "Epiblema with root hairs, cortex, endodermis with Casparian strips and passage cells, pericycle, radial vascular bundles with exarch xylem, conjunctive tissue and a small pith."
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "Explain the adventitious root modifications for storage, photosynthesis and absorption of moisture.",
+          "answer": "Tuberous (sweet potato), fasciculated (dahlia), nodulose (mango ginger), moniliform and annulated store food; assimilatory roots photosynthesise; epiphytic roots absorb moisture using velamen."
+        }
+      ]
+    }
+  ]
+}

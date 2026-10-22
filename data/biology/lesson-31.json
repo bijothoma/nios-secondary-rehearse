@@ -1,0 +1,375 @@
+{
+  "subject": "biology",
+  "lesson": 31,
+  "title": "Biotechnology",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "12 × 1 = 12",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "Saccharomyces cerevisiae belongs to —",
+          "options": [
+            "algae",
+            "fungi",
+            "bacteria",
+            "virus"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "Large tanks used to carry out the fermentation process are —",
+          "options": [
+            "Stirrer",
+            "Bioreactor",
+            "Autoclave",
+            "Motor"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "Which of the following is a broad spectrum antibiotic?",
+          "options": [
+            "Penicillin",
+            "Erythromycin",
+            "Streptomycin",
+            "Aspirin"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "Name the scientist who discovered antibiotics.",
+          "options": [
+            "Selman Waksman",
+            "Edward Jenner",
+            "Alexander Fleming",
+            "Louis Pasteur"
+          ],
+          "answer": "C",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "Bacteria are preferred in experiments of recombinant DNA technology because —",
+          "options": [
+            "bacteria have a huge single chromosome",
+            "they have extranuclear chromosomes, the plasmids",
+            "their chromosomes have exons and introns",
+            "they have pili on their body surface"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "The enzyme that joins DNA fragments is —",
+          "options": [
+            "ligase",
+            "restriction enzyme",
+            "polymerase",
+            "primase"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "Which one of the following examples is NOT a transgenic variety?",
+          "options": [
+            "Cotton",
+            "Corn",
+            "Goat",
+            "Man"
+          ],
+          "answer": "D",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "Restriction endonucleases are called —",
+          "options": [
+            "molecular scissors",
+            "molecular glue",
+            "molecular carriers",
+            "molecular motors"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "Biogas mainly contains —",
+          "options": [
+            "methane",
+            "ethane",
+            "propane",
+            "hydrogen"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "The first commercial product of recombinant DNA technology was —",
+          "options": [
+            "human insulin",
+            "interferon",
+            "growth hormone",
+            "factor VIII"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "Agrobacterium tumefaciens is used to produce —",
+          "options": [
+            "transgenic plants",
+            "antibiotics",
+            "vitamins",
+            "biogas"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "Gene therapy aims at —",
+          "options": [
+            "replacing defective genes",
+            "producing antibiotics",
+            "making vaccines",
+            "fermentation"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark.",
+      "marks": "8 × 2 = 16",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "Name the source to extract the following antibiotics: (a) Tetracycline (b) Streptomycin.",
+          "answer": "(a) Streptomyces (S. aureofaciens). (b) Streptomyces griseus.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Fill in the blanks: (a) The 'molecular scissors' in genetic engineering are ______. (b) The 'molecular glue' is ______.",
+          "answer": "(a) restriction endonucleases. (b) DNA ligase."
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "Match: (a) Penicillin (b) Streptomycin (c) Tetracycline with (i) Penicillium (ii) Streptomyces griseus (iii) broad spectrum.",
+          "answer": "(a)-(i); (b)-(ii); (c)-(iii)."
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "State true or false: (a) Plasmids are used as cloning vectors. (b) Biogas is produced in the presence of oxygen.",
+          "answer": "(a) True. (b) False – anaerobically."
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "Name the gall-producing bacterium and the plasmid used to produce transgenic plants.",
+          "answer": "Agrobacterium tumefaciens; Ti plasmid."
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "Name two proteins and two enzymes obtained by recombinant DNA technology.",
+          "answer": "Proteins: insulin and growth hormone; enzymes: protease and amylase."
+        },
+        {
+          "id": "2.7",
+          "type": "open",
+          "q": "Name the microorganism used for the production of (a) curd (b) alcohol.",
+          "answer": "(a) Lactobacillus. (b) Yeast (Saccharomyces cerevisiae)."
+        },
+        {
+          "id": "2.8",
+          "type": "open",
+          "q": "Name two diseases for which bioengineered vaccines have been developed.",
+          "answer": "Hepatitis B and rabies."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "8 × 2 = 16",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "Write any two advantages of biogas.",
+          "answer": "It is a cheap, clean fuel that saves fossil fuels, and the slurry left behind is an excellent manure.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "What are antibiotics? Differentiate broad-spectrum and narrow-spectrum antibiotics.",
+          "answer": "Antibiotics are chemicals produced by microbes that inhibit other microbes. Broad-spectrum (tetracycline) act on many kinds of bacteria; narrow-spectrum (penicillin) on a few."
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "What is bioremediation? Give an example.",
+          "answer": "Cleaning of the environment using living organisms; mercury-resistant bacteria convert metallic mercury to a harmless compound."
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "What is a transgenic organism? Give one example.",
+          "answer": "An organism carrying a foreign gene; Bt cotton or a goat producing tPA in its milk."
+        },
+        {
+          "id": "3.5",
+          "type": "open",
+          "q": "What is gene therapy?",
+          "answer": "Replacement or correction of a defective gene by a normal gene to treat a genetic disorder."
+        },
+        {
+          "id": "3.6",
+          "type": "open",
+          "q": "Write two drawbacks of antibiotics.",
+          "answer": "Bacteria become resistant by mutation, and antibiotics may kill useful gut bacteria or cause allergy."
+        },
+        {
+          "id": "3.7",
+          "type": "open",
+          "q": "What is a clone? What is a DNA library?",
+          "answer": "A group of genetically identical cells or copies from one cell; a DNA library is a collection of cloned DNA fragments stored for use."
+        },
+        {
+          "id": "3.8",
+          "type": "open",
+          "q": "Name the steps of the production of alcohol by yeast in brief.",
+          "answer": "Sterilise the fermenter, add medium and yeast, control temperature and pH, ferment sugar to alcohol and CO2, then remove the product."
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "6 × 3 = 18",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "Describe the steps of recombinant DNA technology.",
+          "answer": "Isolate the DNA, cut the gene with a restriction enzyme, cut the plasmid with the same enzyme, join with ligase to form recombinant DNA, insert into the host bacteria, grow the clone and store in a gene library."
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "Explain the production of yoghurt and cheese.",
+          "answer": "Lactobacillus in the starter converts lactose to lactic acid; the lowered pH curdles casein, which separates from the whey; for cheese rennin is also used."
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "Explain how biogas is produced.",
+          "answer": "Cowdung is fermented anaerobically by methanogenic bacteria in a digester at pH 6.8-7.6 producing methane and CO2; the slurry is used as manure."
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "Describe the production of transgenic animals by microinjection.",
+          "answer": "Ova are matured and fertilised in vitro, foreign DNA is injected into the male pronucleus, the embryo develops in vitro and is implanted into a foster mother; offspring with the transgene are transgenic."
+        },
+        {
+          "id": "4.5",
+          "type": "open",
+          "q": "Write the uses of biotechnology in medicine.",
+          "answer": "Production of insulin, growth hormone and vaccines, antibiotics, gene therapy and DNA fingerprinting."
+        },
+        {
+          "id": "4.6",
+          "type": "open",
+          "q": "Describe the steps in the fermentation process for alcohol.",
+          "answer": "Sterilise the fermenter, select and inoculate the yeast, maintain conditions, stir and ferment, take out the product."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Long answer questions. Answer in 80–120 words.",
+      "marks": "4 × 5 = 20",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "Describe the tools and steps of recombinant DNA technology and its applications.",
+          "answer": "Restriction endonuclease, plasmids, ligase, host bacteria and cell culture; steps from cutting to cloning; applications in insulin, growth hormone, vaccines and enzymes."
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "Explain transgenic plants and animals with examples.",
+          "answer": "Agrobacterium Ti plasmid in plants (Bt cotton), microinjection in mice and goats; uses in better crops and medicine."
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "Describe antibiotics, their sources and drawbacks.",
+          "answer": "Definition; penicillin, streptomycin, tetracycline and their sources; broad and narrow spectrum; resistance and allergy."
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "Explain gene therapy and the single-gene disorders it may treat.",
+          "answer": "Replacement of the defective gene with a normal gene; SCID, haemophilia, sickle-cell anaemia and phenylketonuria."
+        }
+      ]
+    }
+  ]
+}

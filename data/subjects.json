@@ -2409,6 +2409,140 @@
           "file": "data/sr-business-studies/paper-3.json"
         }
       ]
+    },
+    {
+      "id": "biology",
+      "name": "Biology",
+      "label": "",
+      "level": "senior-secondary",
+      "lessons": [
+        {
+          "no": 2,
+          "title": "The Kingdoms Monera, Protoctista and Fungi",
+          "file": "data/biology/lesson-2.json",
+          "summary": "data/biology/summary/lesson-2.json"
+        },
+        {
+          "no": 3,
+          "title": "Kingdoms Plantae and Animalia",
+          "file": "data/biology/lesson-3.json",
+          "summary": "data/biology/summary/lesson-3.json"
+        },
+        {
+          "no": 5,
+          "title": "Tissues and Other Levels of Organization",
+          "file": "data/biology/lesson-5.json",
+          "summary": "data/biology/summary/lesson-5.json"
+        },
+        {
+          "no": 6,
+          "title": "Root System",
+          "file": "data/biology/lesson-6.json",
+          "summary": "data/biology/summary/lesson-6.json"
+        },
+        {
+          "no": 7,
+          "title": "Shoot System",
+          "file": "data/biology/lesson-7.json",
+          "summary": "data/biology/summary/lesson-7.json"
+        },
+        {
+          "no": 10,
+          "title": "Nitrogen Metabolism",
+          "file": "data/biology/lesson-10.json",
+          "summary": "data/biology/summary/lesson-10.json"
+        },
+        {
+          "no": 11,
+          "title": "Photosynthesis",
+          "file": "data/biology/lesson-11.json",
+          "summary": "data/biology/summary/lesson-11.json"
+        },
+        {
+          "no": 12,
+          "title": "Respiration in Plants",
+          "file": "data/biology/lesson-12.json",
+          "summary": "data/biology/summary/lesson-12.json"
+        },
+        {
+          "no": 15,
+          "title": "Circulation of Body Fluids",
+          "file": "data/biology/lesson-15.json",
+          "summary": "data/biology/summary/lesson-15.json"
+        },
+        {
+          "no": 17,
+          "title": "Coordination and Control: The Nervous and Endocrine Systems",
+          "file": "data/biology/lesson-17.json",
+          "summary": "data/biology/summary/lesson-17.json"
+        },
+        {
+          "no": 19,
+          "title": "Reproduction in Plants",
+          "file": "data/biology/lesson-19.json",
+          "summary": "data/biology/summary/lesson-19.json"
+        },
+        {
+          "no": 21,
+          "title": "Reproduction and Population Control",
+          "file": "data/biology/lesson-21.json",
+          "summary": "data/biology/summary/lesson-21.json"
+        },
+        {
+          "no": 22,
+          "title": "Principles of Genetics",
+          "file": "data/biology/lesson-22.json",
+          "summary": "data/biology/summary/lesson-22.json"
+        },
+        {
+          "no": 23,
+          "title": "Molecular Inheritance and Gene Expression",
+          "file": "data/biology/lesson-23.json",
+          "summary": "data/biology/summary/lesson-23.json"
+        },
+        {
+          "no": 25,
+          "title": "Principles of Ecology",
+          "file": "data/biology/lesson-25.json",
+          "summary": "data/biology/summary/lesson-25.json"
+        },
+        {
+          "no": 28,
+          "title": "Nutrition and Health",
+          "file": "data/biology/lesson-28.json",
+          "summary": "data/biology/summary/lesson-28.json"
+        },
+        {
+          "no": 30,
+          "title": "Immunobiology: An Introduction",
+          "file": "data/biology/lesson-30.json",
+          "summary": "data/biology/summary/lesson-30.json"
+        },
+        {
+          "no": 31,
+          "title": "Biotechnology",
+          "file": "data/biology/lesson-31.json",
+          "summary": "data/biology/summary/lesson-31.json"
+        },
+        {
+          "no": 901,
+          "tag": "Full paper",
+          "title": "Model Question Paper 1",
+          "file": "data/biology/paper-1.json"
+        },
+        {
+          "no": 902,
+          "tag": "Full paper",
+          "title": "Model Question Paper 2",
+          "file": "data/biology/paper-2.json"
+        },
+        {
+          "no": 903,
+          "tag": "Full paper",
+          "title": "Model Question Paper 3",
+          "file": "data/biology/paper-3.json"
+        }
+      ]
     }
   ]
 }

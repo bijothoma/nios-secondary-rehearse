@@ -1,0 +1,61 @@
+{
+ "lesson": 31, "title": "Biotechnology", "module": 5,
+ "summary": [
+  "## Biotechnology and its uses",
+  "Biotechnology is the industrial application of living organisms and their biological processes (biochemistry, microbiology, genetic engineering) for the benefit of mankind. Applications: pharmaceuticals, vaccines and antibiotics (Penicillium notatum gives penicillin; Bacillus polymyxa gives polymyxin B), treating genetic disorders (gene therapy), DNA fingerprinting in forensic science, bioremediation (cleaning up the environment with living organisms), improved crops (disease, herbicide and insect resistance), pest control, industrial products, and food and drinks (cheese, yoghurt, alcohol, seedless fruits). Industrial microorganisms: yeasts, moulds, bacteria and actinomycetes; products: alcoholic drinks, yoghurt, proteins, antibiotics, monoclonal antibodies (hybridomas), vitamins, steroids, enzymes and biogas.",
+  "Alcoholic beverages: fermentation of sugars by yeast Saccharomyces cerevisiae (brewer's yeast, a fungus): glucose gives ethyl alcohol + CO2 + ATP (Louis Pasteur); wine from grapes, beer from barley malt; carried out in large tanks called bioreactors or fermenters; steps: sterilise the fermenter and medium (autoclave), select the yeast strain, inoculate (support or suspended growth), keep temperature, pH and gases right, stir and ferment, then take out the product. Bakers use yeast to leaven dough; yeast extract is a source of vitamins. Yoghurt and cheese: Lactobacillus (starter) converts lactose to lactic acid, lowering pH and curdling casein (whey separates); rennin from calf stomach is used for cheese; butter is made by churning sour milk with Streptococcus cremoris and Leuconostoc.",
+  "Antibiotics: substances produced by microorganisms that inhibit the growth of other microorganisms (Fleming discovered penicillin in 1928; Waksman coined the term in 1942). Broad-spectrum antibiotics act on many bacteria (chloramphenicol, erythromycin, tetracycline, from Streptomyces); narrow-spectrum act on few (penicillin, streptomycin). Sources: tetracycline and streptomycin from Streptomyces; penicillin from Penicillium; cephalosporin from Cephalosporium. Drawbacks: allergy, destruction of useful gut bacteria and resistance by mutation of bacteria. Vaccination: Edward Jenner (1796; vacca = cow); first-generation vaccines from attenuated or killed germs, second-generation vaccines by recombinant DNA (hepatitis B, rabies), third-generation synthetic. Vitamins: vitamin C was the first made by fermentation; B12 by propionic bacteria and B2 by microbes.",
+  "Biogas: produced by anaerobic fermentation of cowdung or organic waste by methanogenic bacteria in a digester at pH 6.8-7.6 without oxygen; the fuel is methane (with CO2); the leftover slurry is excellent manure. Advantages: cheap clean fuel, saves fossil fuels, slurry as manure and disposal of waste.",
+  "## Genetic engineering",
+  "Genetic engineering is the manipulation of genes (recombinant DNA technology): a 'cut and paste' technique. Requirements: cell culture, restriction endonuclease (molecular scissors; recognises a 4-6 base sequence and cuts it leaving sticky ends), plasmids (extra-chromosomal DNA in bacteria used as vectors; the clonal vector can also be a bacteriophage), DNA ligase (molecular glue, joins DNA fragments) and host bacteria. Steps: isolate the DNA; cut it with a restriction enzyme to get the gene fragment; cut the plasmid with the same enzyme; join the fragment into the plasmid with ligase to form recombinant DNA; put the recombinant plasmid into host bacteria; the bacteria multiply and give a clone with multiple copies of the gene, stored in a gene library. Applications: human insulin (1982, first commercial product), growth hormone, interferon, factor VIII, enzymes (proteases for detergents, amylases for beer and bread, glucoisomerases for corn syrup), antibiotics and bioengineered vaccines for rabies and hepatitis B.",
+  "Transgenic organisms carry a foreign gene (transgene): produced by microinjection of DNA into fertilised eggs or by a retroviral vector; in plants by Agrobacterium tumefaciens (a gall-producing soil bacterium) with its Ti plasmid. Examples: Bt cotton resistant to bollworm, drought-tolerant corn and soyabean, potato and tobacco making serum albumin; transgenic mice with rat growth hormone gene grew larger; goats producing tPA (dissolves blood clots) in milk; Chinese hamster making factor VIII for haemophilia A. Bioremediation: genetically engineered bacteria break down toxic pollutants (mercury-resistant bacteria). Gene therapy: replacement or correction of defective genes with normal ones to treat single-gene disorders such as SCID (absence of adenosine deaminase), haemophilia (factor VIII), sickle-cell anaemia and phenylketonuria."
+ ],
+ "mcq": [
+  ["Saccharomyces cerevisiae belongs to —", ["algae", "fungi", "bacteria", "virus"], "B", ["April 2026"]],
+  ["Large tanks used to carry out the fermentation process are —", ["Stirrer", "Bioreactor", "Autoclave", "Motor"], "B", ["April 2026"]],
+  ["Which of the following is a broad spectrum antibiotic?", ["Penicillin", "Erythromycin", "Streptomycin", "Aspirin"], "B", ["October 2025"]],
+  ["Name the scientist who discovered antibiotics.", ["Selman Waksman", "Edward Jenner", "Alexander Fleming", "Louis Pasteur"], "C", ["October 2025"]],
+  ["Bacteria are preferred in experiments of recombinant DNA technology because —", ["bacteria have a huge single chromosome", "they have extranuclear chromosomes, the plasmids", "their chromosomes have exons and introns", "they have pili on their body surface"], "B", ["April 2025"]],
+  ["The enzyme that joins DNA fragments is —", ["ligase", "restriction enzyme", "polymerase", "primase"], "A", ["April 2025"]],
+  ["Which one of the following examples is NOT a transgenic variety?", ["Cotton", "Corn", "Goat", "Man"], "D", ["April 2025"]],
+  ["Restriction endonucleases are called —", ["molecular scissors", "molecular glue", "molecular carriers", "molecular motors"], "A"],
+  ["Biogas mainly contains —", ["methane", "ethane", "propane", "hydrogen"], "A"],
+  ["The first commercial product of recombinant DNA technology was —", ["human insulin", "interferon", "growth hormone", "factor VIII"], "A"],
+  ["Agrobacterium tumefaciens is used to produce —", ["transgenic plants", "antibiotics", "vitamins", "biogas"], "A"],
+  ["Gene therapy aims at —", ["replacing defective genes", "producing antibiotics", "making vaccines", "fermentation"], "A"]
+ ],
+ "objective": [
+  ["Name the source to extract the following antibiotics: (a) Tetracycline (b) Streptomycin.", "(a) Streptomyces (S. aureofaciens). (b) Streptomyces griseus.", ["April 2026"]],
+  ["Fill in the blanks: (a) The 'molecular scissors' in genetic engineering are ______. (b) The 'molecular glue' is ______.", "(a) restriction endonucleases. (b) DNA ligase."],
+  ["Match: (a) Penicillin (b) Streptomycin (c) Tetracycline with (i) Penicillium (ii) Streptomyces griseus (iii) broad spectrum.", "(a)-(i); (b)-(ii); (c)-(iii)."],
+  ["State true or false: (a) Plasmids are used as cloning vectors. (b) Biogas is produced in the presence of oxygen.", "(a) True. (b) False – anaerobically."],
+  ["Name the gall-producing bacterium and the plasmid used to produce transgenic plants.", "Agrobacterium tumefaciens; Ti plasmid."],
+  ["Name two proteins and two enzymes obtained by recombinant DNA technology.", "Proteins: insulin and growth hormone; enzymes: protease and amylase."],
+  ["Name the microorganism used for the production of (a) curd (b) alcohol.", "(a) Lactobacillus. (b) Yeast (Saccharomyces cerevisiae)."],
+  ["Name two diseases for which bioengineered vaccines have been developed.", "Hepatitis B and rabies."]
+ ],
+ "vsa": [
+  ["Write any two advantages of biogas.", "It is a cheap, clean fuel that saves fossil fuels, and the slurry left behind is an excellent manure.", ["April 2026"]],
+  ["What are antibiotics? Differentiate broad-spectrum and narrow-spectrum antibiotics.", "Antibiotics are chemicals produced by microbes that inhibit other microbes. Broad-spectrum (tetracycline) act on many kinds of bacteria; narrow-spectrum (penicillin) on a few."],
+  ["What is bioremediation? Give an example.", "Cleaning of the environment using living organisms; mercury-resistant bacteria convert metallic mercury to a harmless compound."],
+  ["What is a transgenic organism? Give one example.", "An organism carrying a foreign gene; Bt cotton or a goat producing tPA in its milk."],
+  ["What is gene therapy?", "Replacement or correction of a defective gene by a normal gene to treat a genetic disorder."],
+  ["Write two drawbacks of antibiotics.", "Bacteria become resistant by mutation, and antibiotics may kill useful gut bacteria or cause allergy."],
+  ["What is a clone? What is a DNA library?", "A group of genetically identical cells or copies from one cell; a DNA library is a collection of cloned DNA fragments stored for use."],
+  ["Name the steps of the production of alcohol by yeast in brief.", "Sterilise the fermenter, add medium and yeast, control temperature and pH, ferment sugar to alcohol and CO2, then remove the product."]
+ ],
+ "sa": [
+  ["Describe the steps of recombinant DNA technology.", "Isolate the DNA, cut the gene with a restriction enzyme, cut the plasmid with the same enzyme, join with ligase to form recombinant DNA, insert into the host bacteria, grow the clone and store in a gene library."],
+  ["Explain the production of yoghurt and cheese.", "Lactobacillus in the starter converts lactose to lactic acid; the lowered pH curdles casein, which separates from the whey; for cheese rennin is also used."],
+  ["Explain how biogas is produced.", "Cowdung is fermented anaerobically by methanogenic bacteria in a digester at pH 6.8-7.6 producing methane and CO2; the slurry is used as manure."],
+  ["Describe the production of transgenic animals by microinjection.", "Ova are matured and fertilised in vitro, foreign DNA is injected into the male pronucleus, the embryo develops in vitro and is implanted into a foster mother; offspring with the transgene are transgenic."],
+  ["Write the uses of biotechnology in medicine.", "Production of insulin, growth hormone and vaccines, antibiotics, gene therapy and DNA fingerprinting."],
+  ["Describe the steps in the fermentation process for alcohol.", "Sterilise the fermenter, select and inoculate the yeast, maintain conditions, stir and ferment, take out the product."]
+ ],
+ "la": [
+  ["Describe the tools and steps of recombinant DNA technology and its applications.", "Restriction endonuclease, plasmids, ligase, host bacteria and cell culture; steps from cutting to cloning; applications in insulin, growth hormone, vaccines and enzymes."],
+  ["Explain transgenic plants and animals with examples.", "Agrobacterium Ti plasmid in plants (Bt cotton), microinjection in mice and goats; uses in better crops and medicine."],
+  ["Describe antibiotics, their sources and drawbacks.", "Definition; penicillin, streptomycin, tetracycline and their sources; broad and narrow spectrum; resistance and allergy."],
+  ["Explain gene therapy and the single-gene disorders it may treat.", "Replacement of the defective gene with a normal gene; SCID, haemophilia, sickle-cell anaemia and phenylketonuria."]
+ ]
+}

@@ -1,0 +1,366 @@
+{
+  "subject": "biology",
+  "lesson": 11,
+  "title": "Photosynthesis",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "12 × 1 = 12",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "The essential photosynthetic pigment is —",
+          "options": [
+            "Chlorophyll A",
+            "Chlorophyll B",
+            "Xanthophyll",
+            "Carotenoids"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "The source of oxygen released in photosynthesis is —",
+          "options": [
+            "water",
+            "carbon dioxide",
+            "glucose",
+            "chlorophyll"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "The first stable product of the C3 cycle is —",
+          "options": [
+            "3-phosphoglyceric acid",
+            "oxaloacetic acid",
+            "RuBP",
+            "glucose"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "The first stable product of the C4 cycle is —",
+          "options": [
+            "oxaloacetic acid",
+            "PGA",
+            "pyruvic acid",
+            "glucose"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "The reaction centre of photosystem I is —",
+          "options": [
+            "P700",
+            "P680",
+            "P450",
+            "P560"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "Photolysis of water takes place in —",
+          "options": [
+            "photosystem II",
+            "photosystem I",
+            "stroma",
+            "mitochondria"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "Cyclic photophosphorylation produces —",
+          "options": [
+            "ATP only",
+            "NADPH2 only",
+            "ATP and NADPH2",
+            "O2"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "Kranz anatomy is characteristic of —",
+          "options": [
+            "C4 plants",
+            "C3 plants",
+            "CAM plants only",
+            "fungi"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "The enzyme which fixes CO2 in the C3 cycle is —",
+          "options": [
+            "Rubisco",
+            "PEP carboxylase",
+            "nitrogenase",
+            "amylase"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "The law of limiting factors was proposed by —",
+          "options": [
+            "Blackman",
+            "Hill",
+            "Calvin",
+            "Ingenhousz"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "The dark reaction of photosynthesis occurs in the —",
+          "options": [
+            "stroma",
+            "grana",
+            "thylakoid lumen",
+            "cytosol"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "Pigments which pass energy to chlorophyll a are called —",
+          "options": [
+            "accessory pigments",
+            "reaction centres",
+            "photosystems",
+            "enzymes"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark.",
+      "marks": "8 × 2 = 16",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "Write the names of the scientists: (a) Who discovered the C3 cycle. (b) Who showed that isolated chloroplasts release oxygen in light.",
+          "answer": "(a) Melvin Calvin. (b) Robert Hill (the Hill reaction).",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Fill in the blanks: (a) The initial CO2 acceptor in the C3 cycle is ______. (b) The initial CO2 acceptor in the C4 cycle is ______.",
+          "answer": "(a) RuBP (ribulose bisphosphate). (b) PEP (phosphoenolpyruvate)."
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "State true or false: (a) Oxygen is evolved in cyclic photophosphorylation. (b) NADPH2 and ATP are the assimilatory power.",
+          "answer": "(a) False. (b) True."
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Match: (a) P680 (b) P700 with (i) PS I (ii) PS II.",
+          "answer": "(a)-(ii); (b)-(i)."
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "Name the two phases of photosynthesis and where each occurs.",
+          "answer": "Light reaction in the thylakoids (grana) and dark reaction in the stroma."
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "Name the pigment groups: (a) chlorophyll a and b (b) carotene and xanthophyll.",
+          "answer": "(a) Chlorophylls. (b) Carotenoids."
+        },
+        {
+          "id": "2.7",
+          "type": "open",
+          "q": "Give two examples of C4 plants.",
+          "answer": "Sugarcane and maize."
+        },
+        {
+          "id": "2.8",
+          "type": "open",
+          "q": "In which regions of the spectrum is photosynthesis maximum and minimum?",
+          "answer": "Maximum in blue and red light; minimum in green and yellow light."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "7 × 2 = 14",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "What is photophosphorylation?",
+          "answer": "The formation of ATP from ADP and inorganic phosphate using the energy released during electron flow in the light reaction."
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "Differentiate between the absorption spectrum and the action spectrum.",
+          "answer": "The absorption spectrum shows the absorbance of different wavelengths by a pigment; the action spectrum shows the effectiveness of different wavelengths in driving photosynthesis."
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "What is Kranz anatomy? In which plants is it found?",
+          "answer": "A wreath-like arrangement of large bundle sheath cells around the vascular bundles with dimorphic chloroplasts, found in C4 plants such as maize and sugarcane."
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "State Blackman's law of limiting factors.",
+          "answer": "When a process depends on several factors, its rate is limited by the factor which is at the lowest level (the slowest factor)."
+        },
+        {
+          "id": "3.5",
+          "type": "open",
+          "q": "Write the overall equation of photosynthesis.",
+          "answer": "6CO2 + 12H2O gives C6H12O6 + 6H2O + 6O2 in the presence of light and chlorophyll."
+        },
+        {
+          "id": "3.6",
+          "type": "open",
+          "q": "What is photolysis? Where does it occur?",
+          "answer": "The light-dependent splitting of water into H+, electrons and O2, which occurs in PS II inside the thylakoid."
+        },
+        {
+          "id": "3.7",
+          "type": "open",
+          "q": "Mention two internal factors affecting photosynthesis.",
+          "answer": "Amount of chlorophyll and leaf age and anatomy."
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "6 × 3 = 18",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "Differentiate between PS I and PS II (three points).",
+          "answer": "PS I has reaction centre P700 and an Fe-S protein as primary acceptor and reduces NADP; PS II has reaction centre P680 and pheophytin as primary acceptor and splits water to release O2."
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "Explain the role of light in the formation of assimilatory power.",
+          "answer": "Light excites the electrons of PS II and PS I; as they pass down the electron transport chain ATP is formed and at the end NADP is reduced to NADPH2; these two (ATP and NADPH2) are the assimilatory power used to fix CO2."
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "Write any three differences between the light and dark reactions.",
+          "answer": "The light reaction needs light, occurs in the thylakoids and forms ATP and NADPH2 with release of O2; the dark reaction occurs in the stroma, uses ATP and NADPH2 to fix CO2 into sugar and is not directly light dependent."
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "Explain the importance of photosynthesis.",
+          "answer": "It converts light energy into chemical energy, provides food to all organisms, releases oxygen and fossil fuels are its ancient products."
+        },
+        {
+          "id": "4.5",
+          "type": "open",
+          "q": "Explain the structure of C4 leaf and its significance.",
+          "answer": "Bundle sheath cells wreath the vascular bundles; mesophyll chloroplasts are granal without starch and bundle sheath chloroplasts are agranal with starch; the arrangement concentrates CO2 and prevents photorespiration, so the plant can grow in hot, dry conditions."
+        },
+        {
+          "id": "4.6",
+          "type": "open",
+          "q": "Describe the C4 pathway briefly.",
+          "answer": "In the mesophyll, PEP combines with CO2 (PEP carboxylase) to form OAA; it is converted into a C4 acid and transported to the bundle sheath, where it releases CO2 which enters the Calvin cycle to give sugars."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Long answer questions. Answer in 80–120 words.",
+      "marks": "5 × 5 = 25",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "What is photophosphorylation? Write the differences between cyclic and non-cyclic photophosphorylation.",
+          "answer": "Photophosphorylation is the synthesis of ATP using light energy. Cyclic: only PS I; electrons return to P700; only ATP; no photolysis and no O2; in bacteria. Non-cyclic: PS II and PS I; electrons from water finally reach NADP; ATP and NADPH2 formed; photolysis and O2 evolved; in green plants.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "Name the scientists who discovered the C3 cycle in plants. Write any four differences between C3 plants and C4 plants.",
+          "answer": "Melvin Calvin. C3: one CO2 fixation with RuBP and Rubisco, first product PGA, no Kranz anatomy, photorespiration present, less efficient. C4: two fixations with PEP carboxylase and Rubisco, first product OAA, Kranz anatomy, no photorespiration, more efficient.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "In photosynthesis, there are two reactions: light and dark reactions. Why are they called so? Explain briefly.",
+          "answer": "The light reaction needs light directly: it occurs in the thylakoids, splits water and makes ATP and NADPH2. The dark reaction does not use light directly: it occurs in the stroma and fixes CO2 using the ATP and NADPH2 formed in the light reaction (it can go on in light too).",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "With the help of a diagrammatic representation explain the Calvin cycle. Where does it take place?",
+          "answer": "In the stroma of the chloroplast: CO2 + RuBP gives 2 PGA (carboxylation by Rubisco); PGA is reduced to triose phosphate using ATP and NADPH2; some triose phosphate forms glucose, sucrose and starch; the rest regenerates RuBP using ATP.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "5.5",
+          "type": "open",
+          "q": "Explain the factors affecting the rate of photosynthesis.",
+          "answer": "Internal: chlorophyll, leaf age and structure, demand for photosynthate; external: light, CO2, temperature, water and minerals; Blackman's law of limiting factors says the slowest factor limits the rate."
+        }
+      ]
+    }
+  ]
+}

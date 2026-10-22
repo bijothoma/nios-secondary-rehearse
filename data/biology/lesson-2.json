@@ -1,0 +1,369 @@
+{
+  "subject": "biology",
+  "lesson": 2,
+  "title": "The Kingdoms Monera, Protoctista and Fungi",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "12 × 1 = 12",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "Salmonella typhi is a pathogen for —",
+          "options": [
+            "Cholera",
+            "Tetanus",
+            "Typhoid",
+            "Tuberculosis"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "Peptidoglycan is present in the cell wall of which organism?",
+          "options": [
+            "Fungi",
+            "Gymnosperm",
+            "Protozoa",
+            "Bacteria"
+          ],
+          "answer": "D",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "Which of the following is a photosynthetic microbe?",
+          "options": [
+            "Clostridium",
+            "Klebsiella",
+            "Azotobacter",
+            "Rhodospirillum"
+          ],
+          "answer": "D",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "The only prokaryotic kingdom is —",
+          "options": [
+            "Monera",
+            "Protoctista",
+            "Fungi",
+            "Plantae"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "Which of the following is NOT present in a bacterial cell?",
+          "options": [
+            "Mitochondria",
+            "70S ribosomes",
+            "Plasmid",
+            "Cell wall"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "The cell wall of fungi is made of —",
+          "options": [
+            "Chitin",
+            "Cellulose",
+            "Peptidoglycan",
+            "Silica"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "Which protozoan causes amoebic dysentery?",
+          "options": [
+            "Entamoeba histolytica",
+            "Plasmodium",
+            "Euglena",
+            "Paramecium"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "Diatomaceous earth is formed from the walls of —",
+          "options": [
+            "Diatoms",
+            "Fungi",
+            "Cyanobacteria",
+            "Amoeba"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "The sexual phase of Plasmodium is completed in —",
+          "options": [
+            "female Anopheles mosquito",
+            "human liver",
+            "human red blood cells",
+            "male Anopheles mosquito"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "The antibiotic penicillin is obtained from —",
+          "options": [
+            "Penicillium notatum",
+            "Streptomyces",
+            "Rhizopus",
+            "Aspergillus"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "Mycorrhiza is an association between a fungus and —",
+          "options": [
+            "roots of plants",
+            "algae",
+            "bacteria",
+            "insects"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "Conjugation in bacteria occurs through —",
+          "options": [
+            "pili",
+            "flagella",
+            "mesosomes",
+            "capsule"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark.",
+      "marks": "8 × 2 = 16",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "Why are bacteria classified under Kingdom Monera? (a) Name the type of cell organisation. (b) Name one structure that is absent.",
+          "answer": "(a) Prokaryotic (no true nucleus, single circular DNA). (b) Membrane-bound organelles such as mitochondria or endoplasmic reticulum (also nuclear membrane).",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Fill in the blanks: (a) The part of a bacterial cell where DNA lies is the ______. (b) The extra ring of DNA is called a ______.",
+          "answer": "(a) nucleoid. (b) plasmid (F-factor).",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "Name the organelle responsible for osmoregulation in Amoeba. (b) What is the mode of asexual reproduction in Amoeba?",
+          "answer": "(a) Contractile vacuole. (b) Binary fission.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Match: (a) Rhizobium (b) Lactobacillus (c) Streptomyces with (i) streptomycin (ii) nitrogen fixation in legumes (iii) curd.",
+          "answer": "(a)-(ii); (b)-(iii); (c)-(i)."
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "State true or false: (a) Cyanobacteria are oxygenic photoautotrophs. (b) The male Anopheles mosquito transmits malaria.",
+          "answer": "(a) True. (b) False – only the female Anopheles bites humans."
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "Name the pathogen causing: (a) cholera (b) tuberculosis.",
+          "answer": "(a) Vibrio cholerae. (b) Mycobacterium tuberculosis."
+        },
+        {
+          "id": "2.7",
+          "type": "open",
+          "q": "Name the classes of protozoa to which these belong: (a) Euglena (b) Paramecium.",
+          "answer": "(a) Flagellata. (b) Ciliata."
+        },
+        {
+          "id": "2.8",
+          "type": "open",
+          "q": "Name the fungus: (a) causing wheat rust (b) a unicellular fungus used in bread making.",
+          "answer": "(a) Puccinia graminis. (b) Yeast (Saccharomyces)."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "8 × 2 = 16",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "What are lichens?",
+          "answer": "Lichens are symbiotic associations of an alga (or cyanobacterium) and a fungus; the alga prepares food while the fungus gives protection and absorbs water and minerals.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "Differentiate between bacteria and cyanobacteria (any two points).",
+          "answer": "Bacteria are smaller and may have flagella; cyanobacteria are larger, lack flagella and perform oxygenic photosynthesis."
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "What are mycorrhizae? State their significance.",
+          "answer": "Fungi associated with roots of plants; the roots obtain minerals from the soil through the fungus and the fungus gets food from the plant."
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "Why have Protoctista been placed in a separate kingdom although they are unicellular like Monera?",
+          "answer": "They are eukaryotes with a true nucleus and membrane-bound organelles, whereas Monera are prokaryotes."
+        },
+        {
+          "id": "3.5",
+          "type": "open",
+          "q": "Write any two beneficial roles of fungi.",
+          "answer": "Yeast is used in making bread, beer and wine; Penicillium produces the antibiotic penicillin."
+        },
+        {
+          "id": "3.6",
+          "type": "open",
+          "q": "How do bacteria reproduce asexually? Mention the time taken.",
+          "answer": "By binary fission: the DNA replicates and the cell divides into two; under favourable conditions it takes about 20 minutes."
+        },
+        {
+          "id": "3.7",
+          "type": "open",
+          "q": "State two economic importance of algae.",
+          "answer": "They are food for fish (phytoplankton) and blue-green algae fix atmospheric nitrogen, adding to soil fertility."
+        },
+        {
+          "id": "3.8",
+          "type": "open",
+          "q": "What is the function of plasmids in bacteria?",
+          "answer": "Plasmids carry genes for antibiotic resistance and act as the F-factor (sex factor) in conjugation."
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "6 × 3 = 18",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "Describe the structure of a bacterial cell in a text diagram: list the labelled parts.",
+          "answer": "From outside to inside: slime capsule (in some), cell wall of peptidoglycan, plasma membrane, cytoplasm with 70S ribosomes and mesosomes, nucleoid with circular DNA, plasmid, pili and flagella."
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "Write any three differences between Monera and Protoctista.",
+          "answer": "Monera are prokaryotic without nuclear membrane or organelles, with 70S ribosomes and a flagellum of flagellin; Protoctista are eukaryotic with membrane-bound organelles, 80S ribosomes and cilia or flagella with 9+2 microtubules."
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "Explain the sexual reproduction in bacteria.",
+          "answer": "By conjugation: two bacteria lie close and are held by pili; a segment of DNA, or the F-factor, is transferred from the donor (male) to the recipient (female) cell, giving genetic recombination."
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "Write short notes on the structure of Euglena.",
+          "answer": "It has an elastic pellicle, a cytostome leading to the reservoir, a red eyespot (stigma) sensitive to light, a contractile vacuole for osmoregulation, a flagellum for propulsion and chloroplasts for photosynthesis; it reproduces by binary fission."
+        },
+        {
+          "id": "4.5",
+          "type": "open",
+          "q": "Write any three characteristics of fungi.",
+          "answer": "They are heterotrophic eukaryotes with chitinous cell walls; the body is made of hyphae forming a mycelium; they feed by absorption and reproduce by spores and conjugation."
+        },
+        {
+          "id": "4.6",
+          "type": "open",
+          "q": "Name the useful and harmful bacteria with one example each.",
+          "answer": "Useful: Rhizobium (nitrogen fixation), Lactobacillus (curd). Harmful: Salmonella typhi (typhoid), Clostridium tetani (tetanus)."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Long answer questions. Answer in 80–120 words.",
+      "marks": "4 × 5 = 20",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "Describe the reproduction in Rhizopus.",
+          "answer": "Asexual: the sporangium formed on the hyphae bursts and releases dark spores that germinate on a suitable substratum into new mycelium.\nSexual: conjugation between two neighbouring hyphae forms a zygospore, which after rest undergoes meiosis and mitosis to produce a germ sporangium with haploid spores; this bursts to give a new mycelium."
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "Explain the life cycle of Plasmodium.",
+          "answer": "Asexual phase in man: sporozoites from the mosquito enter the liver (tissue cycle), then red blood cells (merozoites), causing malaria with fever.\nSexual phase in the female Anopheles: gametocytes from human blood form gametes, a zygote forms in the mosquito stomach and sporozoites reach the salivary gland and are injected into a new person."
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "Write the economic importance of fungi.",
+          "answer": "Beneficial: yeast in bread, beer and wine; edible mushrooms; penicillin from Penicillium; Neurospora in genetics; mycorrhizae.\nHarmful: wheat rust (Puccinia graminis), bread mould and diseases such as ringworm and athlete's foot."
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "Describe yeast: its structure, nutrition and reproduction.",
+          "answer": "Yeast is a unicellular ovoid fungus with a cell wall, nucleus and vacuoles. It secretes invertase to digest sucrose and ferments glucose (C6H12O6 gives 2C2H5OH + 2CO2 + 2ATP). It reproduces asexually by budding and sexually by conjugation forming an ascus with eight ascospores."
+        }
+      ]
+    }
+  ]
+}

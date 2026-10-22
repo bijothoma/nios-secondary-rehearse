@@ -1,0 +1,96 @@
+{
+  "subject": "biology",
+  "lesson": 10,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 10: Nitrogen Metabolism — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Molecular nitrogen and the nitrogen cycle"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Nitrogen is a constituent of amino acids, proteins, enzymes, nucleic acids, vitamins, alkaloids and some growth hormones. Air has 78 per cent nitrogen (N2, a stable triple-bonded molecule, boiling point -195.8 degrees Celsius), but most organisms cannot use it directly; proteins contain about 16 per cent nitrogen. Combined nitrogen occurs as Chile saltpetre (sodium nitrate)."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "The nitrogen cycle: atmospheric nitrogen is fixed to ammonia by lightning (as oxides of nitrogen) and by nitrogen-fixing bacteria such as Rhizobium; plants absorb nitrates and reduce them to ammonia; animals get nitrogen by eating plants; dead organisms and excreta (urea) are decomposed by bacteria to ammonia, which is converted to nitrites and nitrates by nitrifying bacteria; denitrifying bacteria return nitrogen to the atmosphere. Schematic: Atmospheric N2 → (nitrogen fixation) NH3 → (nitrification) nitrite → nitrate → plants → animals → dead matter and excreta → (ammonification) NH3 → nitrate; nitrate → (denitrification) N2."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Nitrogen fixation"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Nitrogen fixation is the reduction of molecular nitrogen to ammonia; it is a reductive process and stops in the presence of oxygen. Abiological fixation: industrial (Haber's process: N2 + 3H2 gives 2NH3 at 500 degrees Celsius and 1000 atmospheres over an iron oxide catalyst) and natural (lightning forms oxides of nitrogen, nitrite and nitrate). Biological fixation is done by living cells with the enzyme nitrogenase (a Mo-Fe protein)."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Free-living fixers: Clostridium (anaerobic), Klebsiella (facultative), Azotobacter (aerobic), Rhodospirillum (photosynthetic bacterium), Anabaena (cyanobacterium). Symbiotic systems: lichens, Anthoceros (cyanobacteria), Azolla (cyanobacteria), Cycas (cyanobacteria), legumes with Rhizobium, Alnus and Myrica with an actinomycete, Azospirillum with grasses and corn."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Requirements: N2, strong reducing power (NADH2, FADH2), ATP (16 ATP per N2), nitrogenase and a compound to trap the toxic ammonia. N2 is reduced stepwise to diimide (N2H2), hydrazine (N2H4) and then 2NH3: N2 + 16ATP + 8H+ + 8e- gives 2NH3 + 16ADP + 16Pi + H2 (hydrogen gas is evolved). The ammonia is combined with organic acids to form amino acids. In legumes the root nodules are formed by interaction of Rhizobium with root cells; they contain leghemoglobin, which scavenges oxygen to maintain anaerobic conditions for nitrogenase and gives the nodule a pink colour; it is made by the symbiosis (the heme part is coded by Rhizobium and the globin part by the legume); nodulins are proteins that establish the symbiosis and maintain nodule function."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Assimilation and amino acid synthesis"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Most plants take up nitrate and reduce it to ammonia in two steps: nitrate to nitrite by nitrate reductase (in the cytosol, containing FAD, cytochrome and molybdenum; inducible by nitrate) and nitrite to ammonia by nitrite reductase (in the chloroplast or plastid, using electrons from NADPH or ferredoxin). Ammonia is toxic if accumulated. Amino acids contain an amino group and a carboxyl group. Reductive amination: ammonia combines with a keto acid; alpha-ketoglutaric acid plus NH3 gives glutamic acid (enzyme glutamate dehydrogenase; the major port of entry of ammonia); oxaloacetic acid gives aspartic acid. Transamination: transfer of an amino group from an amino acid to a keto acid by transaminases; alpha-ketoglutaric acid + aspartic acid gives glutamic acid + oxaloacetic acid."
+        ]
+      ]
+    }
+  ]
+}

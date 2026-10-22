@@ -1,0 +1,105 @@
+{
+  "subject": "biology",
+  "lesson": 12,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 12: Respiration in Plants — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Respiration"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Respiration is the stepwise oxidation of complex organic molecules with the release of energy as ATP (the energy currency of the cell). External respiration (gaseous exchange) is a physical process; cellular respiration is a biochemical process in cells. Aerobic respiration uses oxygen, takes place in the mitochondria of eukaryotes (mesosomes in prokaryotes) and gives 38 ATP per glucose: C6H12O6 + 6O2 gives 6CO2 + 6H2O + 38 ATP. Anaerobic respiration is an incomplete breakdown in the cytoplasm without oxygen, giving 2 ATP: C6H12O6 gives 2C2H5OH + 2CO2 + 2ATP (yeast, bacteria) or C6H12O6 gives 2 lactic acid + 2ATP (muscles). Common features: oxidation of food, hydrogen carriers NAD and FAD, ATP. In plants gas exchange is by diffusion through the general body surface, lenticels and stomata; plants have no special respiratory organs because their need for oxygen is low, they have a large surface area and each part exchanges gases independently. By day, photosynthesis exceeds respiration so plants release oxygen; at night they release only CO2."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Steps of cellular respiration"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Glycolysis (EMP pathway; in the cytosol; common to aerobic and anaerobic respiration): glucose (6C) is phosphorylated using 2 ATP to fructose 1,6-diphosphate, split into two 3-carbon sugar phosphates and oxidised to 2 pyruvic acid with 4 ATP and 2 NADH; net gain 2 ATP and 2 NADH. Glucose + 4ADP + 4Pi + 2NAD gives 2 pyruvic acid + 4ATP + 2NADH."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Fermentation: in the absence of oxygen pyruvic acid is reduced to ethyl alcohol and CO2 (yeast) or lactic acid (muscles), regenerating NAD so that glycolysis continues; no further ATP is released. Uses: bread, beer and wine, vinegar, curing of leather, ethanol (gasohol), idli, dosa and dhokla; muscle pain after exercise is due to lactic acid."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Aerobic phase: pyruvic acid enters the mitochondria and is converted to acetyl CoA (2C) with release of CO2 and NADH (the link reaction). Krebs' cycle (citric or tricarboxylic acid cycle, in the mitochondrial matrix; worked out by Hans Krebs): acetyl CoA (2C) combines with oxaloacetate (4C) to form citrate (6C), then alpha-ketoglutarate (5C), with two decarboxylations and four dehydrogenations; per turn 3 NADH, 1 FADH2 and 1 ATP; two turns per glucose. Electron transport chain (respiratory chain; on the inner membrane cristae): NADH and FADH2 are oxidised; electrons pass through carriers to cytochrome oxidase and oxygen, which forms water; ATP is made by oxidative phosphorylation (3 ATP per NADH, 2 per FADH2). CO and H2S poison the chain."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "ATP budget per glucose: glycolysis 2 ATP + 2 NADH; link reaction 2 NADH; Krebs 2 ATP + 6 NADH + 2 FADH2; totals 4 ATP + 10 NADH (30 ATP) + 2 FADH2 (4 ATP) = 38 ATP (36 by some biologists as 2 ATP are used to bring glycolytic NADH into the mitochondria). Significance of the Krebs cycle: common oxidative pathway for carbohydrates, fats (via acetyl CoA) and proteins (after deamination); provides intermediates for synthesising amino acids, nucleotides, chlorophyll and fats. Photosynthesis (anabolic) and respiration (catabolic) together form an amphibolic pathway."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Rate of respiration, RQ and photorespiration"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Factors: type of substrate, temperature (30-35 degrees Celsius best; reduced above 50 and at 0-10), oxygen, CO2 (accumulation reduces the rate), water (dry seeds respire very slowly) and age of tissue. Respiratory quotient (RQ) = volume of CO2 evolved / volume of O2 consumed; carbohydrates 1 (stems and roots); proteins less than 1 (pulses); fats and oils greater than 1 (mustard seeds); it identifies the respiratory substrate."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Photorespiration: respiration in the chloroplast, peroxisome and mitochondria in light, with high O2 and low CO2, when Rubisco acts as an oxygenase: RuBP + O2 gives PGA + phosphoglycolate; no ATP is produced; about 25 per cent of the fixed carbon is lost; it protects plant pigments from photo-oxidation; absent in C4 plants. Pentose phosphate pathway (HMP shunt): occurs in the cytosol of microbes and highly active animal tissues without ETC; glucose-6-phosphate is oxidised to 6CO2 + 12NADPH2 giving ribose-5-phosphate (for RNA and DNA); net energy about 35 ATP."
+        ]
+      ]
+    }
+  ]
+}

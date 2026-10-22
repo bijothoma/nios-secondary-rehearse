@@ -1,0 +1,64 @@
+{
+ "lesson": 5, "title": "Tissues and Other Levels of Organization", "module": 1,
+ "summary": [
+  "## Tissue",
+  "A tissue is a group of cells with a common origin, structure and function; the study of tissues is histology. Several tissues form an organ (e.g. blood, bone and cartilage in animals; parenchyma, collenchyma, xylem and phloem in plants).",
+  "## Plant tissues",
+  "Meristematic tissues: undifferentiated, living, thin-walled cells with dense cytoplasm, a prominent nucleus, small or no vacuoles and no intercellular spaces; they keep dividing. Apical meristem (root and shoot tips) increases length; intercalary meristem (at the bases of leaves or internodes) causes internodal growth and growth of leaf in grasses; lateral meristem (cambium and cork cambium) increases thickness (secondary growth). Permanent tissues have stopped dividing, and are simple (one type of cell) or complex (more than one type of cell working as a unit).",
+  "Simple tissues: parenchyma (living, thin-walled, oval or round cells with intercellular spaces; stores food; chlorenchyma carries out photosynthesis and aerenchyma has air spaces to give buoyancy in aquatic plants; found in cortex, pith, mesophyll, endosperm); collenchyma (living, with cellulose and pectin thickening at the corners; gives mechanical support and flexibility to young stems, petioles and leaves); sclerenchyma (dead, thick lignified walls; fibres and sclereids; gives strength and protection). Complex tissues: xylem (conducts water and minerals upward; made of tracheids, vessels, fibres and xylem parenchyma; all except parenchyma are dead) and phloem (conducts the food made in the leaves to other parts; made of sieve tube elements, companion cells, phloem fibres and phloem parenchyma; sieve tubes and companion cells are living).",
+  "Tunica-corpus theory (for the shoot apex): the tunica is the peripheral layers showing anticlinal division and giving surface growth (epidermis and cortex); the corpus is the central mass with irregular division giving volume (pith and vascular tissue). Histogen theory: the promeristem differentiates into dermatogen (epidermis in the stem, epiblema in the root), periblem (cortex) and plerome (pericycle, pith and vascular tissue).",
+  "## Animal tissues",
+  "Four types: epithelial (protection by covering, secretion, absorption), connective (binding and support), muscular (movement) and nervous (control and coordination).",
+  "Epithelial tissue: closely packed cells without intercellular spaces, resting on a non-cellular basement membrane, with no blood vessels. Types: squamous (flat cells; lining of lung air sacs and blood capillaries; exchange), cuboidal (cube-shaped; kidney tubules, glands; secretion and absorption), columnar (stomach and intestine lining; secretion and absorption), ciliated columnar (lining of trachea; moves mucus in one direction), brush-bordered columnar (intestine lining; the folds increase the surface for absorption); compound or stratified epithelium (many layers) is found where there is wear and tear (skin, lining of cheeks).",
+  "Connective tissue has a matrix and cells. Proper: areolar (fibroblasts form collagen and elastin fibres; macrophages engulf bacteria; mast cells release heparin), adipose (stores fat) and fibrous (tendons and ligaments). Supporting: cartilage (matrix of chondrin) and bone (matrix of ossein with calcium and phosphorus salts; Haversian system in compact bone, spongy bone at the ends of long bones; bone marrow makes blood cells). Fluid: blood (plasma, RBCs for gas transport, WBCs for defence, platelets for clotting; plasma proteins are fibrinogen, albumin and globulin) and lymph.",
+  "Muscle tissue (contractile proteins actin, myosin, troponin, tropomyosin): striated (skeletal, voluntary; cylindrical, unbranched, multinucleate fibres), unstriated (smooth, involuntary; spindle-shaped, uninucleate; in walls of stomach and intestine) and cardiac (involuntary, striated, branched with intercalated discs; in the heart). Nervous tissue: neurons (cell body with dendrites and an axon) and neuroglia; it conducts impulses."
+ ],
+ "mcq": [
+  ["Histology refers to the study of —", ["Cells", "Organs", "Tissues", "Plants"], "C", ["April 2026"]],
+  ["Cambium is a/an —", ["apical meristem", "intercalary meristem", "lateral meristem", "complex tissue"], "C", ["April 2025"]],
+  ["The tissue that gives mechanical support to young stems and has thickening at the corners is —", ["Collenchyma", "Parenchyma", "Sclerenchyma", "Xylem"], "A"],
+  ["Dead cells with lignified walls make up —", ["Sclerenchyma", "Collenchyma", "Parenchyma", "Phloem parenchyma"], "A"],
+  ["The living component of xylem is —", ["xylem parenchyma", "vessels", "tracheids", "xylem fibres"], "A"],
+  ["The conducting tissue for food is —", ["Phloem", "Xylem", "Cambium", "Sclerenchyma"], "A"],
+  ["The epithelium lining the trachea is —", ["ciliated columnar", "squamous", "cuboidal", "brush-bordered"], "A"],
+  ["Heparin is secreted by —", ["mast cells", "fibroblasts", "macrophages", "platelets"], "A"],
+  ["Tendons and ligaments are formed of —", ["fibrous connective tissue", "areolar tissue", "adipose tissue", "cartilage"], "A"],
+  ["Intercalated discs are present in —", ["cardiac muscle", "skeletal muscle", "smooth muscle", "nervous tissue"], "A"],
+  ["The matrix of bone is composed of —", ["ossein", "chondrin", "fibrin", "keratin"], "A"],
+  ["Which meristem is responsible for the growth in thickness of a tree trunk?", ["Lateral", "Apical", "Intercalary", "Primary"], "A"]
+ ],
+ "objective": [
+  ["Match: (a) Brush-bordered epithelium (b) Ciliated epithelium with (i) lining of trachea (ii) skin (iii) increasing surface area for absorption.", "(a)-(iii); (b)-(i).", ["October 2025"]],
+  ["Fill in the blanks: Ciliated columnar epithelium is found as the lining of the ______; the matrix of cartilage is ______.", "trachea; chondrin.", ["April 2025"]],
+  ["Complete the flow chart of connective tissue: Connective tissue → A (Proper) → areolar, ______; B (Supporting) → ______, bone; C (Fluid) → ______, lymph.", "Proper: areolar, adipose, fibrous. Supporting: cartilage, bone. Fluid: blood, lymph.", ["October 2025"]],
+  ["Give the one-word term: (a) A tissue made of cells that continue to divide. (b) A tissue made of only one type of cell.", "(a) Meristematic tissue. (b) Simple tissue."],
+  ["Name the layers of the histogen theory that give rise to (a) epidermis (b) cortex.", "(a) Dermatogen. (b) Periblem."],
+  ["State true or false: (a) Epithelial tissue has blood vessels. (b) Sclerenchyma cells are dead at maturity.", "(a) False. (b) True."],
+  ["Name the contractile proteins of muscle.", "Actin and myosin (also troponin and tropomyosin).", ["October 2025"]],
+  ["Name any two plasma proteins.", "Fibrinogen and albumin (globulin).", ["October 2025"]]
+ ],
+ "vsa": [
+  ["Construct a flow chart using these words: xylem, complex permanent tissue, simple permanent tissue, plant tissue, meristem, parenchyma.", "Plant tissue → Meristem; Permanent tissue → simple permanent tissue (parenchyma) and complex permanent tissue (xylem).", ["April 2026"]],
+  ["Write the names of two types of complex tissues in plants and state the main function of each.", "Xylem: conducts water and minerals upward from roots to leaves. Phloem: conducts the food prepared in the leaves to the other parts of the plant.", ["October 2025"]],
+  ["Define tissue. Name the branch of biology which deals with its study.", "A tissue is a group of cells with common origin, structure and function; the branch is histology."],
+  ["Name any two contractile proteins found in muscle fibres.", "Actin and myosin.", ["October 2025"]],
+  ["Write any two characteristics of meristematic cells.", "They are thin-walled, undifferentiated with dense cytoplasm and a prominent nucleus; they have no intercellular spaces and divide continuously."],
+  ["Distinguish between a simple tissue and a complex tissue.", "A simple tissue consists of one type of cells (parenchyma); a complex tissue has more than one type of cells that work together (xylem)."],
+  ["Mention two functions of epithelial tissue.", "It covers and protects surfaces and helps in secretion and absorption."],
+  ["Name the three types of cells of blood and one function each.", "RBCs carry oxygen and carbon dioxide; WBCs defend against germs; platelets help in clotting."]
+ ],
+ "sa": [
+  ["Differentiate between parenchyma, collenchyma and sclerenchyma (one point each).", "Parenchyma: thin-walled living cells that store food. Collenchyma: living cells with corner thickening of cellulose and pectin; gives flexible support. Sclerenchyma: dead cells with lignified thick walls; gives rigidity."],
+  ["Explain the tunica-corpus theory.", "In the shoot apex the tunica is the outer layers of cells dividing anticlinally, giving surface growth and forming the epidermis and cortex; the corpus is the inner mass dividing irregularly, giving volume growth and forming the pith and vascular tissue."],
+  ["Draw a text diagram of xylem: list its elements and state which are living and which are dead.", "Tracheids, vessels and fibres are dead lignified cells that conduct water and give strength; xylem parenchyma is living and stores food."],
+  ["Write any three differences between skeletal, smooth and cardiac muscle.", "Skeletal: striated, voluntary, multinucleate and attached to bones. Smooth: unstriated, involuntary, uninucleate and in the walls of internal organs. Cardiac: striated, involuntary, branched with intercalated discs, found in the heart."],
+  ["Explain the structure of bone.", "Matrix of ossein with calcium and phosphate salts; in compact bone osteocytes lie in lacunae on concentric lamellae around Haversian canals; spongy bone is at the ends; the marrow cavity makes blood cells."],
+  ["Describe the different types of epithelial tissue with one location each.", "Squamous (lining of alveoli), cuboidal (kidney tubules), columnar (intestine), ciliated columnar (trachea) and brush-bordered (intestine, to increase surface area)."]
+ ],
+ "la": [
+  ["Describe the types of meristematic tissue with their location and function.", "Apical meristem: root and shoot tips; increases length. Intercalary meristem: at the bases of leaves or internodes; increases internode length. Lateral meristem: cambium and cork cambium; increases thickness (secondary growth)."],
+  ["Explain the structure and function of xylem and phloem.", "Xylem: tracheids, vessels, fibres and parenchyma; conducts water and minerals upward. Phloem: sieve tubes, companion cells, fibres and parenchyma; conducts food from the leaves to the other parts."],
+  ["Describe the connective tissues of animals.", "Proper (areolar, adipose, fibrous), supporting (cartilage and bone) and fluid (blood and lymph) with their cells, matrix and functions."],
+  ["Explain the histogen theory.", "The promeristem at the apex differentiates into dermatogen (epidermis or epiblema), periblem (cortex) and plerome (pericycle, pith and vascular tissue)."]
+ ]
+}

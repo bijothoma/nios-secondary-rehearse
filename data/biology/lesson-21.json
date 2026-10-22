@@ -1,0 +1,390 @@
+{
+  "subject": "biology",
+  "lesson": 21,
+  "title": "Reproduction and Population Control",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "12 × 1 = 12",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "A human population density in an area is 100 and after one year it increases to 110. The factors responsible are —",
+          "options": [
+            "Immigration, Natality",
+            "Immigration, Mortality",
+            "Emigration, Natality",
+            "Emigration, Mortality"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "In a healthy human female, the ovum matures and is released at what time of the menstrual cycle?",
+          "options": [
+            "1st day",
+            "Between 13th-14th day",
+            "18th day",
+            "28th day"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "The correct sequence of development of the embryo in a human female is —",
+          "options": [
+            "union of sperm and ovum → zygote → morula → blastocyst",
+            "morula → zygote → union of sperm and ovum → blastocyst",
+            "zygote → morula → blastocyst → union of sperm and ovum",
+            "blastocyst → morula → zygote → union of sperm and ovum"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "Fraternal twins are produced when —",
+          "options": [
+            "two ova are fertilised by two sperms",
+            "a fertilised ovum divides into two independent cells each developing into a separate individual",
+            "ova develop into two embryos without fertilisation",
+            "twins produced from one egg fail to separate"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "Implantation of the embryo takes place in the —",
+          "options": [
+            "uterus",
+            "ovary",
+            "fallopian tube",
+            "vagina"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "Sperms are produced in the —",
+          "options": [
+            "seminiferous tubules",
+            "epididymis",
+            "vas deferens",
+            "prostate"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "The hormone that stimulates milk production is —",
+          "options": [
+            "prolactin",
+            "oxytocin",
+            "insulin",
+            "FSH"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "Fertilisation in humans occurs in the —",
+          "options": [
+            "fallopian tube",
+            "uterus",
+            "ovary",
+            "vagina"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "The structure that nourishes the foetus in the uterus is the —",
+          "options": [
+            "placenta",
+            "amnion",
+            "ovary",
+            "cervix"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "Scrotum helps to keep the temperature of the testis —",
+          "options": [
+            "2-3 degrees Celsius lower than the body",
+            "equal to the body",
+            "5 degrees higher",
+            "very high"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "The surgical method of birth control in females is —",
+          "options": [
+            "tubectomy",
+            "vasectomy",
+            "copper T",
+            "condom"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "The Graafian follicle after ovulation changes into the —",
+          "options": [
+            "corpus luteum",
+            "morula",
+            "placenta",
+            "endometrium"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark.",
+      "marks": "8 × 2 = 16",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "Fill in the table: (a) Process: spermatogenesis; location? (b) Location: fallopian tube; process?",
+          "answer": "(a) Seminiferous tubules of the testis. (b) Fertilisation.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "A is an association between maternal and foetal tissue. B is a tough structure which serves as the blood vascular connection between the foetus and the uterine wall. The embryo is enclosed in a sac C filled with D. Fill in the blanks (any two).",
+          "answer": "A: placenta. B: umbilical cord. C: amnion. D: amniotic fluid (shock absorber).",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "In a section of the ovary, identify the two structures A (large fluid-filled follicle with the ovum) and B (the yellowish body left after ovulation).",
+          "answer": "A: Graafian follicle. B: corpus luteum.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Name the glands: (a) the secretion forms the lubricant of semen (b) the secretion activates the sperms.",
+          "answer": "(a) Cowper's (bulbourethral) glands. (b) Prostate gland (and seminal vesicles)."
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "Match: (a) Corpus luteum (b) Oxytocin (c) Colostrum with (i) progesterone (ii) childbirth (iii) first milk.",
+          "answer": "(a)-(i); (b)-(ii); (c)-(iii)."
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "State true or false: (a) Testes are intra-abdominal. (b) Identical twins are always of the same sex.",
+          "answer": "(a) False – they are in the scrotum. (b) True."
+        },
+        {
+          "id": "2.7",
+          "type": "open",
+          "q": "Name the term: (a) onset of menstruation (b) permanent stoppage of menstruation.",
+          "answer": "(a) Menarche. (b) Menopause."
+        },
+        {
+          "id": "2.8",
+          "type": "open",
+          "q": "Define: (a) birth rate (b) death rate.",
+          "answer": "(a) Number of live births per 1000 individuals per year. (b) Number of deaths per 1000 individuals per year."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "8 × 2 = 16",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "What is a gemmule? State its importance in sponges.",
+          "answer": "A reproductive body of asexual reproduction with archaeocytes in a resistant covering; it tides over unfavourable conditions and develops into a new sponge when conditions improve."
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "Write the functions of the placenta (any two).",
+          "answer": "It supplies oxygen and nutrients from the mother to the foetus, removes CO2 and wastes from the foetus and secretes hormones (progesterone, hCG)."
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "Differentiate between identical and fraternal twins (two points).",
+          "answer": "Identical twins arise from one zygote that splits and are of the same sex; fraternal twins arise from two ova fertilised by two sperms and may be of different sexes."
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "Mention two functions of the epididymis and the vas deferens.",
+          "answer": "The epididymis stores sperms; the vas deferens carries sperms from the epididymis to the urethra."
+        },
+        {
+          "id": "3.5",
+          "type": "open",
+          "q": "What is implantation? When does it occur?",
+          "answer": "Fixing of the blastocyst into the wall of the uterus, about a week after fertilisation."
+        },
+        {
+          "id": "3.6",
+          "type": "open",
+          "q": "State two causes of population explosion in India.",
+          "answer": "Advances in medicine (lower death rate) and illiteracy or social customs against family planning."
+        },
+        {
+          "id": "3.7",
+          "type": "open",
+          "q": "Name two permanent surgical methods of birth control.",
+          "answer": "Vasectomy in males and tubectomy in females."
+        },
+        {
+          "id": "3.8",
+          "type": "open",
+          "q": "Write the hormonal roles of FSH and LH in the female menstrual cycle.",
+          "answer": "FSH stimulates follicle growth and oestrogen secretion; LH causes ovulation and formation of the corpus luteum."
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "8 × 3 = 24",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "Give reasons: (a) Testes are extra-abdominal. (b) In aphids, we can see only females. (c) A mother should feed her newborn baby just after birth.",
+          "answer": "(a) The scrotum keeps the temperature 2-3 degrees Celsius lower than the body, which is needed for sperm production. (b) Aphids reproduce parthenogenetically, so every generation consists of females. (c) The first milk, colostrum, contains antibodies that give passive immunity to the baby.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "What is colostrum? Why is it essential for the newly born baby?",
+          "answer": "Colostrum is the first yellowish secretion of the mammary glands after childbirth, rich in proteins and containing IgA antibodies; it protects the newborn by giving passive immunity and nourishes it.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "What is placenta? Give any two of its functions.",
+          "answer": "The placenta is the tissue formed by the union of maternal and foetal tissue, attached to the uterus by which the embryo is nourished. It supplies oxygen and food to the foetus, removes wastes and secretes progesterone.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "Describe the events of the menstrual cycle.",
+          "answer": "Menstruation for 3-4 days; growth of the Graafian follicle with oestrogen builds the endometrium; ovulation on the 13th-14th day; the corpus luteum secretes progesterone; if there is no fertilisation, the lining is shed again at the end of 28 days."
+        },
+        {
+          "id": "4.5",
+          "type": "open",
+          "q": "Explain the structure of a human sperm.",
+          "answer": "Head with nucleus and acrosome that helps penetrate the egg, neck with centriole, middle piece with mitochondria for energy and a tail (flagellum) for movement."
+        },
+        {
+          "id": "4.6",
+          "type": "open",
+          "q": "Describe the functions of the accessory glands in males.",
+          "answer": "Seminal vesicles secrete fluid to nourish sperms; the prostate secretes an alkaline fluid that activates them; Cowper's glands secrete a lubricating fluid."
+        },
+        {
+          "id": "4.7",
+          "type": "open",
+          "q": "Explain test tube baby technique and artificial insemination.",
+          "answer": "In IVF ripe ova are taken out, fertilised with sperms in a dish and one embryo is put into the uterus; in artificial insemination stored semen is introduced into the woman at ovulation."
+        },
+        {
+          "id": "4.8",
+          "type": "open",
+          "q": "Write three methods of birth control.",
+          "answer": "Condoms and diaphragms (barrier), copper T (IUD) and oral pills (prevent ovulation)."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Long answer questions. Answer in 80–120 words.",
+      "marks": "4 × 5 = 20",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "Describe the male reproductive system of humans with the functions of its parts.",
+          "answer": "Testes (seminiferous tubules make sperms; Leydig cells make testosterone), epididymis (stores sperm), vas deferens, urethra, penis and accessory glands (seminal vesicles, prostate, Cowper's glands) with functions."
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "Describe the female reproductive system of humans with the functions of its parts.",
+          "answer": "Ovaries produce ova and hormones, oviducts are the site of fertilisation, the uterus nourishes the embryo, the cervix and vagina are the birth canal."
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "Describe the development of the embryo from fertilisation to birth.",
+          "answer": "Fertilisation in the oviduct, zygote, morula on day 4, blastocyst on day 5, implantation on day 6-7, embryo at 4 weeks, foetus at 6 weeks, placenta, amnion, birth at about 40 weeks and lactation."
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "Explain the causes and effects of population growth and its control.",
+          "answer": "Causes: better medicine and agriculture, illiteracy, customs, economic reasons. Effects on the family and country: poor housing, health, education, pollution, resource depletion. Control: education, contraceptives, sterilisation and MTP."
+        }
+      ]
+    }
+  ]
+}

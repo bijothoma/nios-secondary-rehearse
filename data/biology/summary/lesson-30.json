@@ -1,0 +1,96 @@
+{
+  "subject": "biology",
+  "lesson": 30,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 30: Immunobiology: An Introduction — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Immunity and the immune system"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Immunity is the capacity of the body to recognise foreign material and neutralise, eliminate or metabolise it. Immunobiology is the study of the immune system. Edward Jenner (1749-1823) is the father of modern immunobiology: milkmaids who recovered from cowpox did not get smallpox, hence vaccination (vacca = cow). The immune system distinguishes 'self' from 'non-self'. Defence mechanisms: physical or anatomical barriers, metabolic defence, immunological defence (the most important: protects against viruses, bacteria, fungi, parasites and tumours, removes damaged cells and maintains homeostasis) and other cellular defences."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Lymphoid organs: central or primary (thymus and bone marrow) and peripheral or secondary (spleen, lymph nodes, tonsils, Peyer's patches and MALT). Cells: lymphocytes and macrophages (from monocytes), all derived from stem cells of the bone marrow. B-cells (B for bursa of Fabricius): mature in the bone marrow, have surface immunoglobulin that acts as the receptor for a specific antigen, produce antibodies after turning into plasma cells and also form memory cells that respond quickly to the same antigen later. T-cells (T for thymus): mature in the thymus; regulate the immune response, mediate cell-mediated immunity and induce B-cells to make antibodies; helper T-cells (TH) promote B-cell and T-cell activity, cytotoxic T-cells (TC) kill virus-infected and tumour cells and suppressor T-cells (TS) limit the response."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Antigen and antibody"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "An antigen is any foreign molecule (usually proteins or large polysaccharides) that triggers a specific immune response; an immunogen provokes the response; the part of the antigen that contacts the antibody is the epitope and the part of the antibody that binds is the paratope. An antibody is a protein (immunoglobulin) made in response to an antigen: four polypeptide chains, two heavy and two light chains joined by disulphide bonds, shaped like a Y with a constant stem (Fc) and two variable prongs forming the specific antigen-binding sites. Five classes: IgG (75 per cent of the total; crosses the placenta), IgM, IgA (in milk, colostrum and mucosa), IgD and IgE (allergy). Plasma cells (differentiated B-cells) make antibodies, which bind antigens and lead to clumping (agglutination), neutralisation, and phagocytosis of the antigen."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Immune responses: non-specific (phagocytosis by macrophages and microphages; the complement system of at least 20 proteins, C3 being most abundant, which kills microbes and acts as opsonin) and specific or adaptive: cell-mediated (by cytotoxic T-cells and natural killer cells; against intracellular viruses, cancer cells and transplanted tissue) and humoral or antibody-mediated (by plasma cells; against bacteria and viruses and their toxins). Both are helped by helper T-cells and inhibited by suppressor T-cells."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Types of immunity and vaccines"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Innate (natural) immunity: first line of defence; physical barriers (skin made of keratin, with acidic lactic acid secretion by sebaceous glands; mucus and cilia in the respiratory tract; epithelial linings; sweat, tears, HCl in gastric juice, spermine); phagocytic cells; and the complement system. Acquired immunity: active (after infection, e.g. lifelong after diphtheria, whooping cough, smallpox and mumps, short-lived after cold and influenza; or by vaccination) and passive (antibodies transferred ready-made: from mother to foetus across the placenta or through colostrum and breast milk, or by injecting serum or pooled immunoglobulin)."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Active immunisation (vaccination): introduces attenuated or killed germs so that the body produces memory cells for quick response on re-exposure (Jenner 1796). Types: killed organisms (typhoid, cholera, pertussis, rabies, polio injection), live attenuated organisms (BCG, rubella, measles, oral polio) and toxoids (modified, harmless toxins such as in diphtheria and tetanus). BCG (Bacillus Calmette-Guerin) is for tuberculosis; DPT is a triple vaccine against diphtheria, pertussis (whooping cough) and tetanus; MMR is against measles, mumps and rubella. Passive immunisation: ready-made antibodies such as anti-tetanus serum and anti-snake venom give immediate but temporary protection."
+        ]
+      ]
+    }
+  ]
+}

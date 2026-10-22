@@ -1,0 +1,64 @@
+{
+ "lesson": 28, "title": "Nutrition and Health", "module": 4,
+ "summary": [
+  "## Food and nutrition",
+  "Food is any substance that yields energy, builds new cells, repairs tissues and aids production of useful body compounds. Food groups: energy-giving foods (carbohydrates and fats: cereals, sugar, jaggery, oils), body-building foods (proteins: pulses, milk, egg, meat, fish) and protective or regulatory foods (minerals, vitamins, roughage, water: green leafy vegetables, fruits, amla, guava). Nutrition is the sum of the processes by which an organism takes in, metabolises and uses food. Nutrients are macronutrients (carbohydrates, fats, proteins, water) and micronutrients (vitamins and minerals).",
+  "Carbohydrates (C, H, O): the cheapest source of energy, 60-80 per cent of the energy in the diet; 1 g gives about 17-18 kJ (4 kcal); 1 kcal = 4.18 kJ; sugars (glucose, fructose, sucrose, lactose, maltose), starch (storage form; cereals, potato) and cellulose (roughage). Functions: energy (glucose is the only source of energy for the nervous system), excess stored as glycogen and fat, lactose helps absorption of calcium, cellulose gives faecal bulk. Fats (triglycerides): richest energy source, 1 g gives about 9 kcal (37 kJ); sources: ghee, butter, oils, nuts; functions: energy, structural component of membranes, absorption of fat-soluble vitamins A, D, E and K, precursor of hormones, insulation (subcutaneous fat) and padding of vital organs. Proteins (C, H, O, N, sometimes P and S): polymers of amino acids; 1 g gives about 4 kcal; essential amino acids (not made by the body, e.g. leucine) and non-essential amino acids (alanine); sources: milk, egg, fish, meat, pulses, cereals (dal-roti combinations give all the essential amino acids); functions: growth, repair, enzymes, hormones (insulin), antibodies, transport (haemoglobin), structural proteins (keratin, collagen) and contractile proteins (actin, myosin).",
+  "Vitamins: organic compounds needed in tiny amounts that act as biocatalysts; water-soluble (B complex and C) and fat-soluble (A, D, E, K). Vitamin A (retinol): vision; deficiency causes night blindness and xerophthalmia; sources: carrot, mango, papaya, milk, liver. B1 (thiamine): beri-beri. B2 (riboflavin): cracking of the skin at the corners of the mouth. B3 (niacin): pellagra (dermatitis, diarrhoea, dementia). B12 (cyanocobalamin): pernicious anaemia. C (ascorbic acid): scurvy (bleeding gums, joint pain); amla, citrus, guava. D (calciferol): rickets in children (bow legs, pigeon chest) and osteomalacia in adults; made in skin in sunlight; cod liver oil, egg yolk. E (tocopherol): sterility, miscarriage. K: delayed blood clotting.",
+  "Minerals: calcium and phosphorus (bones and teeth; deficiency causes rickets and osteomalacia; osteoporosis in the elderly makes bones fragile), iron (haemoglobin; deficiency causes anaemia: paleness, tiredness, loss of weight, low haemoglobin), iodine (thyroxine; deficiency causes goitre; iodised salt), sodium and potassium (fluid balance, nerve conduction), zinc, copper, magnesium (enzymes). Water: 75 per cent of an infant's and 60 per cent of an adult's body; transport, digestion, excretion, temperature regulation and solvent. Roughage (cellulose in fruits and vegetables): bowel movement, prevents constipation, retains water, helps control blood sugar and cholesterol.",
+  "## Energy needs and balanced diet",
+  "Daily energy needs depend on age, sex, occupation, pregnancy and lactation: infants 100-120 kcal per kg; children 1200-2000; adolescent boys 2500 and girls 2200; adult man sedentary 2400, moderate work 2800, heavy work 4000; woman 2400; pregnant woman (later half) 3300; lactating mother 3700. A balanced diet contains all the nutrients in the right proportion; a pregnant woman needs a special diet rich in proteins, iron, calcium, folic acid, vitamins and energy for the growth of the foetus and her own health.",
+  "## Deficiency diseases and obesity",
+  "Protein energy malnutrition (PEM): kwashiorkor (protein deficiency in a child whose diet is mostly carbohydrate; swollen belly, oedema, thin limbs, skin and hair changes) and marasmus (deficiency of both calories and proteins; severe wasting with thin limbs, an old-man look and a prominent ribcage). Causes of PEM: poverty and poor diet, early weaning, infections and ignorance. Obesity: excess fat deposition due to overeating and lack of exercise; predisposes to hypertension, atherosclerosis, heart attack and diabetes; prevented by a balanced diet and exercise. Hypervitaminosis: excess intake of vitamins, especially fat-soluble A and D, causes harmful effects such as bone and liver damage."
+ ],
+ "mcq": [
+  ["An obese person may get —", ["hypertension", "atherosclerosis", "heart attack", "all of these"], "D", ["April 2026"]],
+  ["Loss of weight, low haemoglobin content, tiredness and loss of appetite are symptoms of which deficiency disease?", ["Scurvy", "Marasmus", "Anaemia", "Osteomalacia"], "C", ["October 2025"]],
+  ["Cyanocobalamin is —", ["vitamin B1", "vitamin D", "vitamin B12", "vitamin C"], "C", ["April 2025"]],
+  ["Elderly people often get their bones fractured during a slight fall. The possible condition diagnosed in them is —", ["obesity", "osteomalacia / osteoporosis", "anaemia", "rickets"], "B", ["April 2025"]],
+  ["Scurvy is caused by deficiency of —", ["vitamin C", "vitamin D", "vitamin A", "vitamin K"], "A"],
+  ["Night blindness is caused by deficiency of —", ["vitamin A", "vitamin B1", "vitamin C", "vitamin E"], "A"],
+  ["Which of the following is a fat-soluble vitamin?", ["Vitamin D", "Vitamin C", "Vitamin B1", "Vitamin B12"], "A"],
+  ["The richest source of energy is —", ["fat", "protein", "carbohydrate", "vitamin"], "A"],
+  ["Kwashiorkor is due to deficiency of —", ["proteins", "iodine", "vitamin A", "iron"], "A"],
+  ["Iodine deficiency causes —", ["goitre", "anaemia", "rickets", "beri-beri"], "A"],
+  ["One gram of protein yields about —", ["4 kcal", "9 kcal", "2 kcal", "1 kcal"], "A"],
+  ["Roughage is mainly made of —", ["cellulose", "starch", "protein", "fat"], "A"]
+ ],
+ "objective": [
+  ["Write the function of (a) glucose (b) cellulose.", "(a) Glucose is the main energy source (the only source for the nervous system). (b) Cellulose gives bulk to faeces and helps bowel movement.", ["April 2026"]],
+  ["Match: (a) Vitamin D (b) Vitamin B1 (c) Vitamin C with (i) beri-beri (ii) scurvy (iii) rickets.", "(a)-(iii); (b)-(i); (c)-(ii)."],
+  ["Name the deficiency disease caused by lack of (a) iron (b) iodine.", "(a) Anaemia. (b) Goitre."],
+  ["State true or false: (a) Vitamin D can be made in the skin. (b) 1 g of fat gives more energy than 1 g of carbohydrate.", "(a) True. (b) True."],
+  ["Name two water-soluble vitamins and two fat-soluble vitamins.", "Water-soluble: B complex and C. Fat-soluble: A, D, E and K."],
+  ["Name the two forms of PEM.", "Kwashiorkor and marasmus."],
+  ["Which provides more energy: 100 g of sugar or 100 g of butter? Why?", "Butter, since fats give about 9 kcal per gram while carbohydrates give about 4 kcal."],
+  ["Fill in the blanks: (a) Rickets is due to deficiency of vitamin ______. (b) The essential amino acids are those which cannot be ______ by the body.", "(a) D. (b) synthesised."]
+ ],
+ "vsa": [
+  ["What is PEM? Give two reasons for PEM.", "Protein energy malnutrition, a deficiency of proteins and calories mainly in children. Reasons: a diet poor in proteins and calories due to poverty, and early weaning or infections.", ["April 2026"]],
+  ["Write any two functions of roughage.", "It helps bowel movement and prevents constipation; it helps in retaining water and in controlling blood sugar and cholesterol.", ["April 2026"]],
+  ["Why does a pregnant woman need a special diet? List any four main nutrient constituents of that diet.", "To meet the energy and growth needs of the foetus and her own health. Nutrients: proteins, iron, calcium and vitamins (folic acid) along with extra calories.", ["October 2025"]],
+  ["Expand the abbreviation PEM. Write the names of two deficiency diseases caused due to PEM.", "Protein Energy Malnutrition. Kwashiorkor and marasmus.", ["October 2025"]],
+  ["Differentiate between macronutrients and micronutrients.", "Macronutrients (carbohydrates, fats, proteins, water) are needed in large amounts; micronutrients (vitamins and minerals) in small amounts."],
+  ["Name two sources and two functions of proteins.", "Sources: milk and pulses. Functions: growth and repair; enzymes and antibodies."],
+  ["What is a balanced diet?", "A diet containing all nutrients in adequate amounts in the right proportion for the age, sex and work of the person."],
+  ["What is obesity? Name two disorders associated with it.", "Excess fat deposition in the body; hypertension and heart disease."],
+  ["Write the deficiency diseases of vitamin A and vitamin D.", "Vitamin A: night blindness and xerophthalmia. Vitamin D: rickets in children and osteomalacia in adults."]
+ ],
+ "sa": [
+  ["Write the functions and sources of carbohydrates.", "They are the cheapest source of energy, glucose fuels the nervous system, excess is stored as glycogen and fat, and cellulose gives bulk. Sources: cereals, potato, sugar, fruits and honey."],
+  ["Write the functions of fats.", "Richest energy source, structural part of membranes, absorption of fat-soluble vitamins, hormone precursors, insulation and padding of organs."],
+  ["Write the functions of proteins with sources.", "Growth and repair, enzymes, hormones, antibodies and transport; sources: milk, egg, fish, pulses and cereals."],
+  ["Describe the deficiency diseases caused by vitamins B1, C and D.", "B1: beri-beri (pain in the limbs, paralysis); C: scurvy (bleeding gums, joint pain); D: rickets in children (bow legs) and osteomalacia in adults."],
+  ["Describe the functions of calcium, iron and iodine.", "Calcium builds bones and teeth; iron forms haemoglobin; iodine is required for thyroxine."],
+  ["Differentiate between kwashiorkor and marasmus.", "Kwashiorkor: protein deficiency; swollen belly and oedema. Marasmus: deficiency of both protein and energy; severe wasting."],
+  ["Explain the energy requirements of the body.", "They depend on age, sex, work and physiological condition; for example 2400 kcal for a sedentary man, 4000 for heavy work, 3300 in pregnancy and 3700 during lactation."]
+ ],
+ "la": [
+  ["Describe the vitamins, their sources, functions and deficiency diseases.", "Water-soluble B complex and C; fat-soluble A, D, E and K with sources, functions and deficiency symptoms."],
+  ["Describe the classification of nutrients and the functions of proteins, carbohydrates and fats.", "Macronutrients and micronutrients; energy, body-building and protective foods; functions of each major nutrient."],
+  ["Explain protein energy malnutrition, obesity and hypervitaminosis.", "Kwashiorkor and marasmus with causes and symptoms; obesity from excess intake and associated diseases; hypervitaminosis from excess fat-soluble vitamins."],
+  ["Explain the role of minerals and water in the body.", "Calcium and phosphorus for bones; iron for haemoglobin; iodine for thyroxine; sodium and potassium for fluid balance; water for transport, digestion, excretion and temperature control."]
+ ]
+}

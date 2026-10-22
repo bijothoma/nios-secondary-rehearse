@@ -1,0 +1,369 @@
+{
+  "subject": "biology",
+  "lesson": 3,
+  "title": "Kingdoms Plantae and Animalia",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "12 × 1 = 12",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "Which one of the following is NOT a characteristic feature of flatworms (Platyhelminthes)?",
+          "options": [
+            "No digestive system",
+            "Having scolex",
+            "Mostly parasitic",
+            "Coelomate"
+          ],
+          "answer": "D",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "Which of them is a true fish?",
+          "options": [
+            "Dog fish",
+            "Silver fish",
+            "Jelly fish",
+            "Star fish"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "Bryophytes are called the amphibians of the plant kingdom because —",
+          "options": [
+            "they need water for fertilisation",
+            "they have vascular tissue",
+            "they bear seeds",
+            "they have true roots"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "The dominant phase of a fern is —",
+          "options": [
+            "sporophyte",
+            "gametophyte",
+            "prothallus",
+            "zygote"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "The fruit of Poaceae is —",
+          "options": [
+            "caryopsis",
+            "pod",
+            "capsule",
+            "berry"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "The stamens of the pea flower are —",
+          "options": [
+            "diadelphous (9+1)",
+            "monadelphous",
+            "polyandrous",
+            "syngenesious"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "Cnidoblasts are present in —",
+          "options": [
+            "Cnidaria",
+            "Porifera",
+            "Annelida",
+            "Mollusca"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "The excretory organs of earthworm are —",
+          "options": [
+            "nephridia",
+            "green glands",
+            "Malpighian tubules",
+            "flame cells"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "The class of animals with a four-chambered heart and pneumatic bones is —",
+          "options": [
+            "Aves",
+            "Reptilia",
+            "Amphibia",
+            "Osteichthyes"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "Tube feet are the organs of locomotion in —",
+          "options": [
+            "Echinodermata",
+            "Mollusca",
+            "Arthropoda",
+            "Annelida"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "Which of the following is a cartilaginous fish?",
+          "options": [
+            "Scoliodon",
+            "Labeo",
+            "Rohu",
+            "Catla"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "Which of the following is a pseudocoelomate?",
+          "options": [
+            "Ascaris",
+            "Earthworm",
+            "Hydra",
+            "Frog"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark.",
+      "marks": "8 × 2 = 16",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "Match: (a) Malvaceae (b) Fabaceae (c) Poaceae with (i) Pisum sativum (ii) Hibiscus rosa-sinensis (iii) Oryza sativa.",
+          "answer": "(a)-(ii); (b)-(i); (c)-(iii).",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Fill in the blanks: (a) The male sex organ of bryophytes is the ______. (b) The spore-bearing structures of a fern occur in groups called ______.",
+          "answer": "(a) antheridium. (b) sori."
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "State true or false: (a) Gymnosperms have seeds enclosed in an ovary. (b) The fern prothallus is a gametophyte.",
+          "answer": "(a) False – the seeds are naked. (b) True."
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Name the phylum: (a) tube feet (b) cnidoblasts.",
+          "answer": "(a) Echinodermata. (b) Cnidaria."
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "Give the number of stamens in: (a) Fabaceae (b) Liliaceae.",
+          "answer": "(a) Ten (9+1). (b) Six (3+3)."
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "Give the botanical name of (a) rice (b) wheat.",
+          "answer": "(a) Oryza sativa. (b) Triticum aestivum."
+        },
+        {
+          "id": "2.7",
+          "type": "open",
+          "q": "Name one example each: (a) liverwort (b) moss.",
+          "answer": "(a) Marchantia. (b) Funaria."
+        },
+        {
+          "id": "2.8",
+          "type": "open",
+          "q": "Give the number of heart chambers in (a) a frog (b) a crocodile.",
+          "answer": "(a) Three. (b) Four."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "8 × 2 = 16",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "With reference to class Reptilia, identify the two wrong statements: (a) Body is covered by hairs (b) Paired pentadactyl limbs with clawed digits (c) Respiration by lungs (d) Heart is two chambered.",
+          "answer": "(a) and (d) are wrong. The body of reptiles is covered by dry horny scales, not hair, and the heart is three-chambered (four-chambered in crocodiles), not two-chambered.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "With the help of suitable diagrams differentiate between the androecium in pea and china rose.",
+          "answer": "Pea (Fabaceae): 10 stamens, diadelphous (9 fused in one bundle and 1 free). China rose (Malvaceae): numerous stamens fused by their filaments into a staminal tube (monadelphous).",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "Write two differences between gymnosperms and angiosperms.",
+          "answer": "Gymnosperm seeds are naked (borne on cones) and xylem lacks vessels; angiosperm seeds are enclosed in fruits and xylem has vessels."
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "Write any two general characters of phylum Arthropoda.",
+          "answer": "Jointed legs and a chitinous exoskeleton, with a segmented body divided into head, thorax and abdomen."
+        },
+        {
+          "id": "3.5",
+          "type": "open",
+          "q": "Why are sponges classed as the lowest animals?",
+          "answer": "They are asymmetrical, have a cellular grade of organisation without tissues or organs, and have a canal system."
+        },
+        {
+          "id": "3.6",
+          "type": "open",
+          "q": "List two economic importance of gymnosperms.",
+          "answer": "They yield timber and resins or turpentine; chilgoza (dry fruit) and sago from Cycas."
+        },
+        {
+          "id": "3.7",
+          "type": "open",
+          "q": "Distinguish between cartilaginous and bony fishes (any two points).",
+          "answer": "Cartilaginous fishes (Scoliodon) have a cartilaginous skeleton, ventral mouth and no operculum; bony fishes (Labeo) have a bony skeleton, terminal mouth and an operculum."
+        },
+        {
+          "id": "3.8",
+          "type": "open",
+          "q": "Name the two subkingdoms of Animalia and give their basis.",
+          "answer": "Parazoa (no tissues, cellular grade, e.g. sponges) and Eumetazoa (tissue or organ grades of organisation)."
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "6 × 3 = 18",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "Write the characteristic features of Bryophyta.",
+          "answer": "They are non-vascular embryophytes; the independent plant body is the haploid gametophyte; it has rhizoids but no true roots, stems or leaves; sex organs are antheridia and archegonia surrounded by a sterile jacket; the dependent sporophyte produces spores by meiosis."
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "Describe the main features of the family Fabaceae.",
+          "answer": "Zygomorphic, bisexual flowers; five sepals; five papilionaceous petals (standard, two wings and two keel petals); ten diadelphous stamens; monocarpellary superior ovary with marginal placentation; the fruit is a pod; examples are pea and gram."
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "Give the main characteristics of the family Malvaceae.",
+          "answer": "Actinomorphic pentamerous flowers with an epicalyx; five free petals; numerous monadelphous stamens joined into a staminal tube; five syncarpous carpels with axile placentation; fruit a capsule; e.g. Hibiscus, cotton, bhindi."
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "Write the characters of Aves.",
+          "answer": "They are warm-blooded with feathers, a beak without teeth, pneumatic bones, forelimbs modified into wings, a four-chambered heart, a syrinx and only the left ovary, and they lay shelled eggs."
+        },
+        {
+          "id": "4.5",
+          "type": "open",
+          "q": "Write any three characters of Phylum Platyhelminthes with examples.",
+          "answer": "Dorsoventrally flattened and acoelomate, with a gut that has a single opening or is absent; mostly parasitic; examples are Planaria, Fasciola and Taenia."
+        },
+        {
+          "id": "4.6",
+          "type": "open",
+          "q": "List the distinguishing features of Mammalia.",
+          "answer": "Hair on the body, mammary glands, external ears (pinnae), heterodont and thecodont dentition, four-chambered heart, diaphragm and viviparity."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Long answer questions. Answer in 80–120 words.",
+      "marks": "5 × 5 = 25",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "Classify the Kingdom Plantae into divisions with their main characteristics.",
+          "answer": "Bryophyta: non-vascular, gametophyte dominant. Pteridophyta: vascular, sporophyte dominant, spores in sori. Spermatophyta: seed plants, divided into gymnosperms (naked seeds, cones) and angiosperms (seeds in fruits; dicots with two cotyledons and monocots with one)."
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "Distinguish between dicots and monocots.",
+          "answer": "Seed with two versus one cotyledon; tap root versus fibrous root; reticulate versus parallel venation; flowers pentamerous versus trimerous; vascular bundles in a ring, open and collateral versus scattered and closed."
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "Classify phylum Arthropoda into classes with examples.",
+          "answer": "Arachnida (cephalothorax, four pairs of legs; scorpion), Crustacea (cephalothorax with carapace; prawn), Myriapoda (many segments with 1-2 pairs of legs each; centipede, millipede) and Insecta (head, thorax with three pairs of legs and wings, abdomen; cockroach)."
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "Describe the characteristic features of the classes Amphibia and Reptilia.",
+          "answer": "Amphibia: live on land and in water, moist glandular skin, no claws, three-chambered heart, eggs laid in water, gills in larva and lungs in adult (frog). Reptilia: dry scaly skin, clawed digits, lungs, three-chambered heart with a partial septum (four in crocodile), leathery shelled eggs on land (lizard, snake)."
+        },
+        {
+          "id": "5.5",
+          "type": "open",
+          "q": "Describe the basis for the classification of animals.",
+          "answer": "Level of organisation, symmetry, body cavity, number of germ layers and presence of the notochord, with examples of each category."
+        }
+      ]
+    }
+  ]
+}

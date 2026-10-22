@@ -1,0 +1,114 @@
+{
+  "subject": "biology",
+  "lesson": 25,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 25: Principles of Ecology — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Environment and organisation of life"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Environment is all the physical, chemical and biotic conditions surrounding an organism. Abiotic (non-living) components: physical (light, temperature, humidity, wind), edaphic (soil) and chemical; some act as resources (air, soil, water), others as regulatory factors (light, temperature). Biotic components: plants, animals and microorganisms. Ecology (oikos, household; logos, study) is the study of the relationship between organisms and their environment. Levels of organisation: gene → cell → organ → organism → species → population → community → ecosystem → biome → biosphere. Ecosphere = biosphere + lithosphere + hydrosphere + atmosphere."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Habitat is the physical environment where an organism lives (its address); niche is the sum of all its activities and relationships in using resources (its profession); no two species can have the same niche in a habitat. Adaptation is a structure, behaviour or mode of life that allows an organism to survive in its environment (gills and fins in fish, beak shape in birds, thorns in plants, no wood and reduced roots in aquatic plants). A species is a group that can interbreed; a population is a group of interbreeding individuals of a species in a place at a time; a community is the populations of different species in one place; community + non-living environment = ecosystem."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Population"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Population characteristics: density (determined by quadrat sampling or counting, e.g. pugmarks), natality, mortality, dispersal (emigration and immigration), age distribution (pre-reproductive, reproductive and post-reproductive groups: a growing population has many young, a stationary one an even distribution, a declining one many old), sex ratio, biotic potential and growth form. Density depends on natality, mortality, immigration and emigration. Growth curves: J-shaped (exponential growth when resources are abundant, followed by a crash; insects in the monsoon) and S-shaped or sigmoid (lag phase, growth phase and stable plateau phase when natality equals mortality and the environmental resistance (carrying capacity) limits growth)."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Ecosystem"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "An ecosystem is a self-sustaining functional unit of nature: terrestrial (forest, desert, grassland), aquatic (pond, lake, sea) or human-made (crop land, aquarium). Pond ecosystem: abiotic components (light, temperature, water, dissolved O2 and CO2, nutrients, organic matter); biotic components: producers (phytoplankton such as Spirogyra, Volvox; rooted plants such as Hydrilla and Typha), consumers (zooplankton, insect larvae, snails, fish) and decomposers (bacteria and fungi at the bottom). Structure: species composition and stratification (vertical in forests, horizontal in deserts). Ecotone is a transitional zone between two ecosystems (grassland between forest and desert)."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Food chain: transfer of food from producers through a series of organisms (grass → grasshopper → frog → snake → eagle); each step is a trophic level; the number of steps is limited to four or five. Producers (autotrophs) first trophic level; gross primary productivity (GPP) is the total energy fixed; net primary productivity (NPP) = GPP minus respiration. Herbivores are primary consumers; carnivores are secondary, tertiary or quaternary consumers (a snake may be both a secondary and a tertiary consumer in different chains); decomposers (bacteria, fungi) recycle nutrients; special groups: scavengers (vultures), omnivores (humans) and parasites. Humans are primary consumers when vegetarian and secondary or tertiary when non-vegetarian. A food web is a network of interconnected food chains."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Energy flow: unidirectional, from solar energy to producers and onward; at each step energy is lost as heat in respiration and non-utilised; only about 10 per cent is passed on (the 10 per cent law): 10,000 kcal → 1,000 → 100 → 10. Ecological pyramids (number, biomass, energy) show standing crop with producers at the base; the pyramid of energy is always upright; the pyramid of number in a grassland: grass (many) → grasshoppers → frogs/mice → snakes/hawks (very few)."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Biotic interactions: negative (amensalism: one species is inhibited and the other unaffected, e.g. Penicillium secretes penicillin that inhibits bacteria; predation: lion and deer; parasitism: parasite benefits and host is harmed, e.g. Cuscuta, Ascaris; competition: both species are harmed), positive (commensalism: one benefits and the other is neither harmed nor benefited, e.g. remora on shark, epiphytes on trees; mutualism: both benefit, e.g. sea anemone and hermit crab, flowering plants and pollinating insects, termites and flagellates as symbiosis) and neutral (neutralism)."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Biomes: large ecosystems with characteristic flora and fauna. Tropical rain forest (rainfall above 200 cm, humus-rich soil, highest productivity and biodiversity), temperate deciduous forest (75-150 cm rain, leaf fall in autumn), coniferous forest or taiga (very cold, poor acidic soil, spruce, fir and pine), grassland (savanna, prairies; between forest and desert; ecotone), desert (rainfall below 25 cm; xerophytes; camel) and tundra (barren, very cold). Carbon cycle: CO2 fixed by photosynthesis, returned by respiration, decay, burning of fuels; human activities that increase atmospheric CO2 include burning fossil fuels and deforestation."
+        ]
+      ]
+    }
+  ]
+}

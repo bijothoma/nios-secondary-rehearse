@@ -1,0 +1,63 @@
+{
+ "lesson": 2, "title": "The Kingdoms Monera, Protoctista and Fungi", "module": 1,
+ "summary": [
+  "## Kingdom Monera",
+  "Monera includes bacteria and cyanobacteria (blue-green algae) and is the only prokaryotic kingdom: there is no nuclear membrane and no membrane-bound organelles (only mesosomes) and only 70S ribosomes. Bacteria were the first cellular organisms (about 3.5 billion years ago). Most are unicellular, but actinomycetes and some cyanobacteria are filamentous.",
+  "Structure of a bacterium: a cell wall made of peptidoglycan (unique to bacteria), a plasma membrane of lipids and proteins, cytoplasm, a single circular chromosome of double-stranded DNA lying in the nucleoid, and sometimes plasmids (extra rings of DNA bearing genes for antibiotic resistance, and the F-factor or sex factor), pili (short, thin; used in conjugation), flagella (longer and thicker; for movement) and a slime capsule. Respiration (aerobic or anaerobic) occurs in mesosomes. Nutrition: autotrophs, saprotrophs, symbionts and parasites. Reproduction: asexual by binary fission (one cell divides in about 20 minutes, so about 8 bacteria arise in an hour) and sexual recombination by conjugation (a segment of DNA or the F-factor is transferred from a donor to a recipient cell through pili).",
+  "Harmful bacteria: Vibrio cholerae (cholera), Salmonella typhi (typhoid), Clostridium tetani (tetanus), Corynebacterium diphtheriae (diphtheria), Mycobacterium tuberculosis (tuberculosis). Useful bacteria: Rhizobium (fixes nitrogen in legume roots), Azotobacter (fixes nitrogen in soil), Streptomyces (streptomycin), Lactobacillus (curd formation from lactose) and methanogenic bacteria (sewage treatment). Cyanobacteria are larger, lack flagella and carry out oxygenic photosynthesis, unlike photosynthetic bacteria (anoxygenic). Monera has three groups: Archaebacteria (methanogens, thermoacidophiles, halophiles), Eubacteria and Cyanobacteria.",
+  "## Kingdom Protoctista",
+  "Protoctista are unicellular eukaryotes with a true nucleus and membrane-bound organelles (mitochondria for respiration, chloroplasts in photosynthetic forms); their cilia and flagella have a 9+2 microtubule structure (a bacterial flagellum is made of flagellin). They are photosynthetic, saprotrophic or parasitic, and reproduce asexually and sexually. Phylum Protozoa has four classes: Rhizopoda (Amoeba), Flagellata (Euglena), Ciliata (Paramecium) and Sporozoa (Plasmodium). Algae: Bacillariophyta (diatoms) and Chlorophyta (Chlorella).",
+  "Amoeba: pseudopodia for movement and food capture, food vacuole, contractile vacuole for osmoregulation, binary fission. Entamoeba histolytica causes amoebic dysentery. Plasmodium causes malaria: the asexual phase is in human blood and the sexual phase in the female Anopheles mosquito (the male does not bite). Euglena: pellicle, cytostome, reservoir, stigma (eyespot), contractile vacuole, flagellum and chloroplasts; it is both autotrophic and heterotrophic. Diatoms: silica shells, found in fresh and salt water; their deposits form diatomaceous earth used in filters and lining furnaces. Algae contain pigments (phycocyanin, fucoxanthin, phycoerythrin), are food for fish, and are sources of vitamins A and E and iodine; blue-green algae fix atmospheric nitrogen.",
+  "## Kingdom Fungi",
+  "Fungi are heterotrophic eukaryotes made of filaments called hyphae (with septa); a network of hyphae is a mycelium; the cell wall is made of chitin; nutrition is by absorption (saprotrophic); reproduction is by spores and conjugation. Kinds: Myxomycetes (slime moulds), Phycomycetes (Rhizopus), Ascomycetes (yeast, Aspergillus, Penicillium, Neurospora), Basidiomycetes (mushrooms, rusts, smuts) and Deuteromycetes (only asexual, e.g. Alternaria). Lichens are symbiotic associations of an alga and a fungus (the alga makes food, the fungus gives protection and absorbs water and minerals). Mycorrhizae are fungi associated with roots, which gain food while helping the plant to absorb minerals.",
+  "Yeast: unicellular oval cell; ferments sugar (C6H12O6 gives 2C2H5OH + 2CO2 + 2ATP); asexual reproduction by budding; sexual by conjugation giving an ascus with eight ascospores. Rhizopus (bread mould): the mycelium is white and sporangia are black with spores; sexual reproduction by conjugation giving a zygospore. Harmful fungi: Puccinia graminis (wheat rust), ringworm and athlete's foot. Useful fungi: edible mushrooms (Agaricus), yeast for bread, beer and wine, Penicillium notatum (penicillin discovered by Alexander Fleming in 1927), Neurospora in genetics."
+ ],
+ "mcq": [
+  ["Salmonella typhi is a pathogen for —", ["Cholera", "Tetanus", "Typhoid", "Tuberculosis"], "C", ["April 2026"]],
+  ["Peptidoglycan is present in the cell wall of which organism?", ["Fungi", "Gymnosperm", "Protozoa", "Bacteria"], "D", ["October 2025"]],
+  ["Which of the following is a photosynthetic microbe?", ["Clostridium", "Klebsiella", "Azotobacter", "Rhodospirillum"], "D", ["October 2025"]],
+  ["The only prokaryotic kingdom is —", ["Monera", "Protoctista", "Fungi", "Plantae"], "A"],
+  ["Which of the following is NOT present in a bacterial cell?", ["Mitochondria", "70S ribosomes", "Plasmid", "Cell wall"], "A"],
+  ["The cell wall of fungi is made of —", ["Chitin", "Cellulose", "Peptidoglycan", "Silica"], "A"],
+  ["Which protozoan causes amoebic dysentery?", ["Entamoeba histolytica", "Plasmodium", "Euglena", "Paramecium"], "A"],
+  ["Diatomaceous earth is formed from the walls of —", ["Diatoms", "Fungi", "Cyanobacteria", "Amoeba"], "A"],
+  ["The sexual phase of Plasmodium is completed in —", ["female Anopheles mosquito", "human liver", "human red blood cells", "male Anopheles mosquito"], "A"],
+  ["The antibiotic penicillin is obtained from —", ["Penicillium notatum", "Streptomyces", "Rhizopus", "Aspergillus"], "A"],
+  ["Mycorrhiza is an association between a fungus and —", ["roots of plants", "algae", "bacteria", "insects"], "A"],
+  ["Conjugation in bacteria occurs through —", ["pili", "flagella", "mesosomes", "capsule"], "A"]
+ ],
+ "objective": [
+  ["Why are bacteria classified under Kingdom Monera? (a) Name the type of cell organisation. (b) Name one structure that is absent.", "(a) Prokaryotic (no true nucleus, single circular DNA). (b) Membrane-bound organelles such as mitochondria or endoplasmic reticulum (also nuclear membrane).", ["October 2025"]],
+  ["Fill in the blanks: (a) The part of a bacterial cell where DNA lies is the ______. (b) The extra ring of DNA is called a ______.", "(a) nucleoid. (b) plasmid (F-factor).", ["October 2025"]],
+  ["Name the organelle responsible for osmoregulation in Amoeba. (b) What is the mode of asexual reproduction in Amoeba?", "(a) Contractile vacuole. (b) Binary fission.", ["October 2025"]],
+  ["Match: (a) Rhizobium (b) Lactobacillus (c) Streptomyces with (i) streptomycin (ii) nitrogen fixation in legumes (iii) curd.", "(a)-(ii); (b)-(iii); (c)-(i)."],
+  ["State true or false: (a) Cyanobacteria are oxygenic photoautotrophs. (b) The male Anopheles mosquito transmits malaria.", "(a) True. (b) False – only the female Anopheles bites humans."],
+  ["Name the pathogen causing: (a) cholera (b) tuberculosis.", "(a) Vibrio cholerae. (b) Mycobacterium tuberculosis."],
+  ["Name the classes of protozoa to which these belong: (a) Euglena (b) Paramecium.", "(a) Flagellata. (b) Ciliata."],
+  ["Name the fungus: (a) causing wheat rust (b) a unicellular fungus used in bread making.", "(a) Puccinia graminis. (b) Yeast (Saccharomyces)."]
+ ],
+ "vsa": [
+  ["What are lichens?", "Lichens are symbiotic associations of an alga (or cyanobacterium) and a fungus; the alga prepares food while the fungus gives protection and absorbs water and minerals.", ["October 2025"]],
+  ["Differentiate between bacteria and cyanobacteria (any two points).", "Bacteria are smaller and may have flagella; cyanobacteria are larger, lack flagella and perform oxygenic photosynthesis."],
+  ["What are mycorrhizae? State their significance.", "Fungi associated with roots of plants; the roots obtain minerals from the soil through the fungus and the fungus gets food from the plant."],
+  ["Why have Protoctista been placed in a separate kingdom although they are unicellular like Monera?", "They are eukaryotes with a true nucleus and membrane-bound organelles, whereas Monera are prokaryotes."],
+  ["Write any two beneficial roles of fungi.", "Yeast is used in making bread, beer and wine; Penicillium produces the antibiotic penicillin."],
+  ["How do bacteria reproduce asexually? Mention the time taken.", "By binary fission: the DNA replicates and the cell divides into two; under favourable conditions it takes about 20 minutes."],
+  ["State two economic importance of algae.", "They are food for fish (phytoplankton) and blue-green algae fix atmospheric nitrogen, adding to soil fertility."],
+  ["What is the function of plasmids in bacteria?", "Plasmids carry genes for antibiotic resistance and act as the F-factor (sex factor) in conjugation."]
+ ],
+ "sa": [
+  ["Describe the structure of a bacterial cell in a text diagram: list the labelled parts.", "From outside to inside: slime capsule (in some), cell wall of peptidoglycan, plasma membrane, cytoplasm with 70S ribosomes and mesosomes, nucleoid with circular DNA, plasmid, pili and flagella."],
+  ["Write any three differences between Monera and Protoctista.", "Monera are prokaryotic without nuclear membrane or organelles, with 70S ribosomes and a flagellum of flagellin; Protoctista are eukaryotic with membrane-bound organelles, 80S ribosomes and cilia or flagella with 9+2 microtubules."],
+  ["Explain the sexual reproduction in bacteria.", "By conjugation: two bacteria lie close and are held by pili; a segment of DNA, or the F-factor, is transferred from the donor (male) to the recipient (female) cell, giving genetic recombination."],
+  ["Write short notes on the structure of Euglena.", "It has an elastic pellicle, a cytostome leading to the reservoir, a red eyespot (stigma) sensitive to light, a contractile vacuole for osmoregulation, a flagellum for propulsion and chloroplasts for photosynthesis; it reproduces by binary fission."],
+  ["Write any three characteristics of fungi.", "They are heterotrophic eukaryotes with chitinous cell walls; the body is made of hyphae forming a mycelium; they feed by absorption and reproduce by spores and conjugation."],
+  ["Name the useful and harmful bacteria with one example each.", "Useful: Rhizobium (nitrogen fixation), Lactobacillus (curd). Harmful: Salmonella typhi (typhoid), Clostridium tetani (tetanus)."]
+ ],
+ "la": [
+  ["Describe the reproduction in Rhizopus.", "Asexual: the sporangium formed on the hyphae bursts and releases dark spores that germinate on a suitable substratum into new mycelium.\nSexual: conjugation between two neighbouring hyphae forms a zygospore, which after rest undergoes meiosis and mitosis to produce a germ sporangium with haploid spores; this bursts to give a new mycelium."],
+  ["Explain the life cycle of Plasmodium.", "Asexual phase in man: sporozoites from the mosquito enter the liver (tissue cycle), then red blood cells (merozoites), causing malaria with fever.\nSexual phase in the female Anopheles: gametocytes from human blood form gametes, a zygote forms in the mosquito stomach and sporozoites reach the salivary gland and are injected into a new person."],
+  ["Write the economic importance of fungi.", "Beneficial: yeast in bread, beer and wine; edible mushrooms; penicillin from Penicillium; Neurospora in genetics; mycorrhizae.\nHarmful: wheat rust (Puccinia graminis), bread mould and diseases such as ringworm and athlete's foot."],
+  ["Describe yeast: its structure, nutrition and reproduction.", "Yeast is a unicellular ovoid fungus with a cell wall, nucleus and vacuoles. It secretes invertase to digest sucrose and ferments glucose (C6H12O6 gives 2C2H5OH + 2CO2 + 2ATP). It reproduces asexually by budding and sexually by conjugation forming an ascus with eight ascospores."]
+ ]
+}

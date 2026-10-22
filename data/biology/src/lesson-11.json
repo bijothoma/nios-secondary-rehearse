@@ -1,0 +1,64 @@
+{
+ "lesson": 11, "title": "Photosynthesis", "module": 2,
+ "summary": [
+  "## What is photosynthesis",
+  "Photosynthesis is the process by which green plants, algae and some bacteria use the energy of sunlight to make food (carbohydrates) from CO2 and water, releasing oxygen. Overall equation: 6CO2 + 12H2O gives C6H12O6 + 6H2O + 6O2 (in the presence of sunlight and chlorophyll). It is the only process that liberates oxygen; it converts light energy into chemical energy, makes plants autotrophs on which all heterotrophs depend, and fossil fuels are products of ancient photosynthesis. History: Priestley (1772) and Ingenhousz (1779; O2 is released only in light and by green parts); Robert Hill (1939; isolated chloroplasts evolve O2 in light in the presence of an electron acceptor: the Hill reaction, showing water is the source of the electrons and the oxygen released comes from water). It occurs in the mesophyll cells' chloroplasts.",
+  "## Pigments, photosystems and spectra",
+  "Photosynthetic pigments (on thylakoid membranes): chlorophylls and carotenoids (carotene and xanthophyll). Chlorophyll a is the essential photosynthetic pigment forming the reaction centre; chlorophyll b and the carotenoids are accessory pigments that pass energy to chlorophyll a. Chlorophyll absorbs mostly violet-blue and red light and reflects green. Photosystems: PS I (reaction centre P700, primary acceptor an Fe-S protein; carriers plastocyanin, ferredoxin) and PS II (reaction centre P680, primary acceptor pheophytin; carriers plastoquinone and cytochromes); each has about 250-400 chlorophyll a molecules. Absorption spectrum: absorbance of different wavelengths by a pigment. Action spectrum: effectiveness of different wavelengths in stimulating photosynthesis (O2 released); the two spectra are similar, showing chlorophyll a is responsible; the rate is maximum in blue and red light and minimum in green and yellow light.",
+  "## Light reaction (photochemical phase)",
+  "In the thylakoids: absorption of light excites PS II (P680), whose electrons pass to pheophytin and down the electron transport chain to PS I; the oxidised P680 regains electrons from water by photolysis (light-dependent splitting of water, releasing O2 and H+); PS I (P700) is excited and its electrons reduce NADP to NADPH2. ATP is formed by photophosphorylation (the coupling of electron flow to phosphorylation). The products ATP and NADPH2 (assimilatory power) pass to the stroma. Non-cyclic photophosphorylation: electrons flow from water through PS II and PS I to NADP, involving both photosystems; O2 is evolved; ATP and NADPH2 are formed. Cyclic photophosphorylation: only PS I; electrons return to P700; only ATP is formed; no photolysis of water, no O2 and no NADPH2; occurs in photosynthetic bacteria.",
+  "## Dark reaction (biosynthetic phase)",
+  "In the stroma, independent of light but dependent on its products. C3 cycle (Calvin cycle; Melvin Calvin): CO2 is accepted by the 5-carbon RuBP and Rubisco catalyses carboxylation, giving two molecules of 3-phosphoglyceric acid (PGA, the first stable product); PGA is reduced to triose phosphate using ATP and NADPH2; triose phosphate forms glucose, sucrose and starch; the remaining RuBP is regenerated using ATP. C4 cycle (Hatch-Slack): an adaptation to dry, hot environments (sugarcane, maize); the initial CO2 acceptor is phosphoenolpyruvate (PEP, 3-carbon) in the mesophyll cells with PEP carboxylase, forming oxaloacetic acid (4-carbon, first stable product); the C4 acid is transported to the bundle sheath cells, where it releases CO2 that enters the C3 cycle. C4 plants show Kranz anatomy (wreath-like bundle sheath around vascular bundles; dimorphic chloroplasts: granal in mesophyll without starch and agranal with starch in the bundle sheath), have no photorespiration and higher yield.",
+  "Differences between C3 and C4 plants: CO2 is fixed once versus twice; acceptor RuBP versus PEP then RuBP; enzymes Rubisco versus PEP carboxylase and Rubisco; first product PGA (3C) versus OAA (4C); one type of chloroplast versus two (Kranz); photorespiration present versus absent; less versus more efficient with lower versus higher yield.",
+  "## Factors affecting photosynthesis",
+  "Internal: amount of chlorophyll, leaf age and anatomy (stomata, intercellular spaces, palisade and spongy tissue, cuticle), demand for photosynthate. External: light, CO2, temperature, water, minerals. Blackman's law of limiting factors (1905): when a process depends on several factors, its rate is limited by the factor that is at the lowest (slowest) level."
+ ],
+ "mcq": [
+  ["The essential photosynthetic pigment is —", ["Chlorophyll A", "Chlorophyll B", "Xanthophyll", "Carotenoids"], "A", ["April 2026"]],
+  ["The source of oxygen released in photosynthesis is —", ["water", "carbon dioxide", "glucose", "chlorophyll"], "A"],
+  ["The first stable product of the C3 cycle is —", ["3-phosphoglyceric acid", "oxaloacetic acid", "RuBP", "glucose"], "A"],
+  ["The first stable product of the C4 cycle is —", ["oxaloacetic acid", "PGA", "pyruvic acid", "glucose"], "A"],
+  ["The reaction centre of photosystem I is —", ["P700", "P680", "P450", "P560"], "A"],
+  ["Photolysis of water takes place in —", ["photosystem II", "photosystem I", "stroma", "mitochondria"], "A"],
+  ["Cyclic photophosphorylation produces —", ["ATP only", "NADPH2 only", "ATP and NADPH2", "O2"], "A"],
+  ["Kranz anatomy is characteristic of —", ["C4 plants", "C3 plants", "CAM plants only", "fungi"], "A"],
+  ["The enzyme which fixes CO2 in the C3 cycle is —", ["Rubisco", "PEP carboxylase", "nitrogenase", "amylase"], "A"],
+  ["The law of limiting factors was proposed by —", ["Blackman", "Hill", "Calvin", "Ingenhousz"], "A"],
+  ["The dark reaction of photosynthesis occurs in the —", ["stroma", "grana", "thylakoid lumen", "cytosol"], "A"],
+  ["Pigments which pass energy to chlorophyll a are called —", ["accessory pigments", "reaction centres", "photosystems", "enzymes"], "A"]
+ ],
+ "objective": [
+  ["Write the names of the scientists: (a) Who discovered the C3 cycle. (b) Who showed that isolated chloroplasts release oxygen in light.", "(a) Melvin Calvin. (b) Robert Hill (the Hill reaction).", ["April 2026"]],
+  ["Fill in the blanks: (a) The initial CO2 acceptor in the C3 cycle is ______. (b) The initial CO2 acceptor in the C4 cycle is ______.", "(a) RuBP (ribulose bisphosphate). (b) PEP (phosphoenolpyruvate)."],
+  ["State true or false: (a) Oxygen is evolved in cyclic photophosphorylation. (b) NADPH2 and ATP are the assimilatory power.", "(a) False. (b) True."],
+  ["Match: (a) P680 (b) P700 with (i) PS I (ii) PS II.", "(a)-(ii); (b)-(i)."],
+  ["Name the two phases of photosynthesis and where each occurs.", "Light reaction in the thylakoids (grana) and dark reaction in the stroma."],
+  ["Name the pigment groups: (a) chlorophyll a and b (b) carotene and xanthophyll.", "(a) Chlorophylls. (b) Carotenoids."],
+  ["Give two examples of C4 plants.", "Sugarcane and maize."],
+  ["In which regions of the spectrum is photosynthesis maximum and minimum?", "Maximum in blue and red light; minimum in green and yellow light."]
+ ],
+ "vsa": [
+  ["What is photophosphorylation?", "The formation of ATP from ADP and inorganic phosphate using the energy released during electron flow in the light reaction."],
+  ["Differentiate between the absorption spectrum and the action spectrum.", "The absorption spectrum shows the absorbance of different wavelengths by a pigment; the action spectrum shows the effectiveness of different wavelengths in driving photosynthesis."],
+  ["What is Kranz anatomy? In which plants is it found?", "A wreath-like arrangement of large bundle sheath cells around the vascular bundles with dimorphic chloroplasts, found in C4 plants such as maize and sugarcane."],
+  ["State Blackman's law of limiting factors.", "When a process depends on several factors, its rate is limited by the factor which is at the lowest level (the slowest factor)."],
+  ["Write the overall equation of photosynthesis.", "6CO2 + 12H2O gives C6H12O6 + 6H2O + 6O2 in the presence of light and chlorophyll."],
+  ["What is photolysis? Where does it occur?", "The light-dependent splitting of water into H+, electrons and O2, which occurs in PS II inside the thylakoid."],
+  ["Mention two internal factors affecting photosynthesis.", "Amount of chlorophyll and leaf age and anatomy."]
+ ],
+ "sa": [
+  ["Differentiate between PS I and PS II (three points).", "PS I has reaction centre P700 and an Fe-S protein as primary acceptor and reduces NADP; PS II has reaction centre P680 and pheophytin as primary acceptor and splits water to release O2."],
+  ["Explain the role of light in the formation of assimilatory power.", "Light excites the electrons of PS II and PS I; as they pass down the electron transport chain ATP is formed and at the end NADP is reduced to NADPH2; these two (ATP and NADPH2) are the assimilatory power used to fix CO2."],
+  ["Write any three differences between the light and dark reactions.", "The light reaction needs light, occurs in the thylakoids and forms ATP and NADPH2 with release of O2; the dark reaction occurs in the stroma, uses ATP and NADPH2 to fix CO2 into sugar and is not directly light dependent."],
+  ["Explain the importance of photosynthesis.", "It converts light energy into chemical energy, provides food to all organisms, releases oxygen and fossil fuels are its ancient products."],
+  ["Explain the structure of C4 leaf and its significance.", "Bundle sheath cells wreath the vascular bundles; mesophyll chloroplasts are granal without starch and bundle sheath chloroplasts are agranal with starch; the arrangement concentrates CO2 and prevents photorespiration, so the plant can grow in hot, dry conditions."],
+  ["Describe the C4 pathway briefly.", "In the mesophyll, PEP combines with CO2 (PEP carboxylase) to form OAA; it is converted into a C4 acid and transported to the bundle sheath, where it releases CO2 which enters the Calvin cycle to give sugars."]
+ ],
+ "la": [
+  ["What is photophosphorylation? Write the differences between cyclic and non-cyclic photophosphorylation.", "Photophosphorylation is the synthesis of ATP using light energy. Cyclic: only PS I; electrons return to P700; only ATP; no photolysis and no O2; in bacteria. Non-cyclic: PS II and PS I; electrons from water finally reach NADP; ATP and NADPH2 formed; photolysis and O2 evolved; in green plants.", ["April 2026"]],
+  ["Name the scientists who discovered the C3 cycle in plants. Write any four differences between C3 plants and C4 plants.", "Melvin Calvin. C3: one CO2 fixation with RuBP and Rubisco, first product PGA, no Kranz anatomy, photorespiration present, less efficient. C4: two fixations with PEP carboxylase and Rubisco, first product OAA, Kranz anatomy, no photorespiration, more efficient.", ["April 2026"]],
+  ["In photosynthesis, there are two reactions: light and dark reactions. Why are they called so? Explain briefly.", "The light reaction needs light directly: it occurs in the thylakoids, splits water and makes ATP and NADPH2. The dark reaction does not use light directly: it occurs in the stroma and fixes CO2 using the ATP and NADPH2 formed in the light reaction (it can go on in light too).", ["October 2025"]],
+  ["With the help of a diagrammatic representation explain the Calvin cycle. Where does it take place?", "In the stroma of the chloroplast: CO2 + RuBP gives 2 PGA (carboxylation by Rubisco); PGA is reduced to triose phosphate using ATP and NADPH2; some triose phosphate forms glucose, sucrose and starch; the rest regenerates RuBP using ATP.", ["October 2025"]],
+  ["Explain the factors affecting the rate of photosynthesis.", "Internal: chlorophyll, leaf age and structure, demand for photosynthate; external: light, CO2, temperature, water and minerals; Blackman's law of limiting factors says the slowest factor limits the rate."]
+ ]
+}

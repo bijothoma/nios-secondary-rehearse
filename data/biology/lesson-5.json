@@ -1,0 +1,378 @@
+{
+  "subject": "biology",
+  "lesson": 5,
+  "title": "Tissues and Other Levels of Organization",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "12 × 1 = 12",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "Histology refers to the study of —",
+          "options": [
+            "Cells",
+            "Organs",
+            "Tissues",
+            "Plants"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "Cambium is a/an —",
+          "options": [
+            "apical meristem",
+            "intercalary meristem",
+            "lateral meristem",
+            "complex tissue"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "The tissue that gives mechanical support to young stems and has thickening at the corners is —",
+          "options": [
+            "Collenchyma",
+            "Parenchyma",
+            "Sclerenchyma",
+            "Xylem"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "Dead cells with lignified walls make up —",
+          "options": [
+            "Sclerenchyma",
+            "Collenchyma",
+            "Parenchyma",
+            "Phloem parenchyma"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "The living component of xylem is —",
+          "options": [
+            "xylem parenchyma",
+            "vessels",
+            "tracheids",
+            "xylem fibres"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "The conducting tissue for food is —",
+          "options": [
+            "Phloem",
+            "Xylem",
+            "Cambium",
+            "Sclerenchyma"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "The epithelium lining the trachea is —",
+          "options": [
+            "ciliated columnar",
+            "squamous",
+            "cuboidal",
+            "brush-bordered"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "Heparin is secreted by —",
+          "options": [
+            "mast cells",
+            "fibroblasts",
+            "macrophages",
+            "platelets"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "Tendons and ligaments are formed of —",
+          "options": [
+            "fibrous connective tissue",
+            "areolar tissue",
+            "adipose tissue",
+            "cartilage"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "Intercalated discs are present in —",
+          "options": [
+            "cardiac muscle",
+            "skeletal muscle",
+            "smooth muscle",
+            "nervous tissue"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "The matrix of bone is composed of —",
+          "options": [
+            "ossein",
+            "chondrin",
+            "fibrin",
+            "keratin"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "Which meristem is responsible for the growth in thickness of a tree trunk?",
+          "options": [
+            "Lateral",
+            "Apical",
+            "Intercalary",
+            "Primary"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark.",
+      "marks": "8 × 2 = 16",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "Match: (a) Brush-bordered epithelium (b) Ciliated epithelium with (i) lining of trachea (ii) skin (iii) increasing surface area for absorption.",
+          "answer": "(a)-(iii); (b)-(i).",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Fill in the blanks: Ciliated columnar epithelium is found as the lining of the ______; the matrix of cartilage is ______.",
+          "answer": "trachea; chondrin.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "Complete the flow chart of connective tissue: Connective tissue → A (Proper) → areolar, ______; B (Supporting) → ______, bone; C (Fluid) → ______, lymph.",
+          "answer": "Proper: areolar, adipose, fibrous. Supporting: cartilage, bone. Fluid: blood, lymph.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Give the one-word term: (a) A tissue made of cells that continue to divide. (b) A tissue made of only one type of cell.",
+          "answer": "(a) Meristematic tissue. (b) Simple tissue."
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "Name the layers of the histogen theory that give rise to (a) epidermis (b) cortex.",
+          "answer": "(a) Dermatogen. (b) Periblem."
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "State true or false: (a) Epithelial tissue has blood vessels. (b) Sclerenchyma cells are dead at maturity.",
+          "answer": "(a) False. (b) True."
+        },
+        {
+          "id": "2.7",
+          "type": "open",
+          "q": "Name the contractile proteins of muscle.",
+          "answer": "Actin and myosin (also troponin and tropomyosin).",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "2.8",
+          "type": "open",
+          "q": "Name any two plasma proteins.",
+          "answer": "Fibrinogen and albumin (globulin).",
+          "years": [
+            "October 2025"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "8 × 2 = 16",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "Construct a flow chart using these words: xylem, complex permanent tissue, simple permanent tissue, plant tissue, meristem, parenchyma.",
+          "answer": "Plant tissue → Meristem; Permanent tissue → simple permanent tissue (parenchyma) and complex permanent tissue (xylem).",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "Write the names of two types of complex tissues in plants and state the main function of each.",
+          "answer": "Xylem: conducts water and minerals upward from roots to leaves. Phloem: conducts the food prepared in the leaves to the other parts of the plant.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "Define tissue. Name the branch of biology which deals with its study.",
+          "answer": "A tissue is a group of cells with common origin, structure and function; the branch is histology."
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "Name any two contractile proteins found in muscle fibres.",
+          "answer": "Actin and myosin.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "3.5",
+          "type": "open",
+          "q": "Write any two characteristics of meristematic cells.",
+          "answer": "They are thin-walled, undifferentiated with dense cytoplasm and a prominent nucleus; they have no intercellular spaces and divide continuously."
+        },
+        {
+          "id": "3.6",
+          "type": "open",
+          "q": "Distinguish between a simple tissue and a complex tissue.",
+          "answer": "A simple tissue consists of one type of cells (parenchyma); a complex tissue has more than one type of cells that work together (xylem)."
+        },
+        {
+          "id": "3.7",
+          "type": "open",
+          "q": "Mention two functions of epithelial tissue.",
+          "answer": "It covers and protects surfaces and helps in secretion and absorption."
+        },
+        {
+          "id": "3.8",
+          "type": "open",
+          "q": "Name the three types of cells of blood and one function each.",
+          "answer": "RBCs carry oxygen and carbon dioxide; WBCs defend against germs; platelets help in clotting."
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "6 × 3 = 18",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "Differentiate between parenchyma, collenchyma and sclerenchyma (one point each).",
+          "answer": "Parenchyma: thin-walled living cells that store food. Collenchyma: living cells with corner thickening of cellulose and pectin; gives flexible support. Sclerenchyma: dead cells with lignified thick walls; gives rigidity."
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "Explain the tunica-corpus theory.",
+          "answer": "In the shoot apex the tunica is the outer layers of cells dividing anticlinally, giving surface growth and forming the epidermis and cortex; the corpus is the inner mass dividing irregularly, giving volume growth and forming the pith and vascular tissue."
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "Draw a text diagram of xylem: list its elements and state which are living and which are dead.",
+          "answer": "Tracheids, vessels and fibres are dead lignified cells that conduct water and give strength; xylem parenchyma is living and stores food."
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "Write any three differences between skeletal, smooth and cardiac muscle.",
+          "answer": "Skeletal: striated, voluntary, multinucleate and attached to bones. Smooth: unstriated, involuntary, uninucleate and in the walls of internal organs. Cardiac: striated, involuntary, branched with intercalated discs, found in the heart."
+        },
+        {
+          "id": "4.5",
+          "type": "open",
+          "q": "Explain the structure of bone.",
+          "answer": "Matrix of ossein with calcium and phosphate salts; in compact bone osteocytes lie in lacunae on concentric lamellae around Haversian canals; spongy bone is at the ends; the marrow cavity makes blood cells."
+        },
+        {
+          "id": "4.6",
+          "type": "open",
+          "q": "Describe the different types of epithelial tissue with one location each.",
+          "answer": "Squamous (lining of alveoli), cuboidal (kidney tubules), columnar (intestine), ciliated columnar (trachea) and brush-bordered (intestine, to increase surface area)."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Long answer questions. Answer in 80–120 words.",
+      "marks": "4 × 5 = 20",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "Describe the types of meristematic tissue with their location and function.",
+          "answer": "Apical meristem: root and shoot tips; increases length. Intercalary meristem: at the bases of leaves or internodes; increases internode length. Lateral meristem: cambium and cork cambium; increases thickness (secondary growth)."
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "Explain the structure and function of xylem and phloem.",
+          "answer": "Xylem: tracheids, vessels, fibres and parenchyma; conducts water and minerals upward. Phloem: sieve tubes, companion cells, fibres and parenchyma; conducts food from the leaves to the other parts."
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "Describe the connective tissues of animals.",
+          "answer": "Proper (areolar, adipose, fibrous), supporting (cartilage and bone) and fluid (blood and lymph) with their cells, matrix and functions."
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "Explain the histogen theory.",
+          "answer": "The promeristem at the apex differentiates into dermatogen (epidermis or epiblema), periblem (cortex) and plerome (pericycle, pith and vascular tissue)."
+        }
+      ]
+    }
+  ]
+}

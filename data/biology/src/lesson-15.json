@@ -1,0 +1,68 @@
+{
+ "lesson": 15, "title": "Circulation of Body Fluids", "module": 2,
+ "summary": [
+  "## Circulatory systems",
+  "Circulation transports nutrients, respiratory gases, wastes and hormones, protects the body by destroying pathogens and distributes heat uniformly. Open circulatory system: blood is not in closed vessels but flows through the body cavity and mixes with body fluid; pressure is low (prawns, insects). Closed circulatory system: blood flows in well-defined vessels at sufficient pressure; more efficient (all vertebrates). The cockroach has an open system: a dorsal tubular heart of thirteen funnel-shaped chambers with ostia, alary muscles, sinuses (pericardial, perivisceral, perineural) and haemocoel; the colourless blood (haemolymph, with haemocytes) has no respiratory pigment so it does not carry gases.",
+  "## Human heart",
+  "A four-chambered muscular organ (two atria and two ventricles) covered by the pericardium. Valves: tricuspid (right atrioventricular), bicuspid or mitral (left atrioventricular) and semilunar valves at the origin of the aorta and pulmonary artery; they allow flow in one direction. Heartbeat produces two sounds: lubb (closure of AV valves, atrial systole and ventricular contraction) and dubb (closure of semilunar valves). It originates at the sinu-atrial (SA) node (the pacemaker, in the right atrium), spreads to the atrio-ventricular (AV) node, the bundle of His and the Purkinje fibres, causing ventricular systole. An artificial pacemaker is grafted into the chest to regularise the heartbeat; the ECG (electrocardiograph) records the conduction of the heartbeat and helps detect heart disorders.",
+  "Blood vessels: artery (carries blood away from the heart, thick elastic muscular tunica media, high pressure, no valves, small lumen, oxygenated blood except the pulmonary artery), capillary (single layer of endothelial cells; exchange of materials) and vein (carries blood to the heart, thin walls, valves, low pressure, large lumen, deoxygenated blood except the pulmonary vein). Double circulation: blood passes twice through the heart: body → venae cavae → right atrium → tricuspid valve → right ventricle → pulmonary artery → lungs → pulmonary veins → left atrium → bicuspid valve → left ventricle → aorta → body. The superior vena cava brings blood from the head and shoulders and the inferior from the lower body.",
+  "## Blood",
+  "Blood is a fluid connective tissue: plasma (55 per cent; water 90 per cent, proteins albumin, globulin and fibrinogen; transports digested food, hormones, wastes, antibodies and heat) and cells (45 per cent): RBCs (erythrocytes, about 5 million per mm3; transport O2 and CO2), WBCs (leucocytes, 4000-8000; granulocytes: neutrophils engulf bacteria, eosinophils with anti-histamine action, basophils produce histamine and heparin; agranulocytes: monocytes engulf bacteria, lymphocytes make antibodies) and platelets (about 250,000; start clotting). Formation of blood cells is haemopoiesis (in bone marrow). Coagulation: injury releases thromboplastin from platelets; with Ca++ it converts prothrombin to thrombin; thrombin converts soluble fibrinogen to insoluble fibrin fibres; fibrin and RBCs form the clot (scab). Haemophilia is a genetic disorder in which blood fails to clot.",
+  "Blood groups A, B, AB and O depend on antigens on RBCs and antibodies in plasma: A (antigen A, antibody b), B (antigen B, antibody a), AB (antigens A and B, no antibodies), O (no antigens, antibodies a and b). O is the universal donor; AB is the universal recipient. Rh factor: Rh+ or Rh-; an Rh+ foetus in an Rh- mother is in danger. Blood pressure: pressure exerted on arterial walls; systolic (ventricular contraction) and diastolic (relaxation); normal 120/75 mm Hg (+/- 5), measured by a sphygmomanometer; pulse rate about 70 per minute.",
+  "## Lymph and immunity",
+  "Lymph is the colourless fluid (modified tissue fluid) that leaves the blood capillaries, collected by lymph capillaries and drained into the subclavian vein. Functions: supplies nutrients and O2 to parts the blood cannot reach, drains excess tissue fluid, absorbs fats from the intestine (lacteals), carries wastes, and lymphocytes and antibodies remove bacteria. The lymphatic system has lymph vessels, ducts and nodes (filter bacteria, viruses and cancer cells) and lymphoid organs (spleen, tonsils, thymus, appendix); the spleen is the graveyard of RBCs and a blood reservoir; it has no pump.",
+  "Immunity is the body's ability to resist disease-causing agents. Antigens are substances that cause antibody production. Natural (innate) immunity is from birth (first line of defence: skin and mucous membranes prevent entry). Acquired immunity: active (the body makes antibodies after exposure to the disease or a vaccine, e.g. after measles, chicken pox; DPT, BCG; usually long-lasting) and passive (ready-made antibodies injected, e.g. anti-tetanus serum; short-lived). Vaccine: a weakened antigen sample that produces antibodies. B-cells make antibodies (humoral immunity; short-lived antibodies); T-cells recognise and destroy antigens (cell-mediated immunity; do not make antibodies). Immunodeficiency disorders: SCID (absence of both T- and B-cells, from birth) and AIDS (HIV reduces T-cells and destroys the immune system; spread by sex, contaminated needles and blood). Disorders of heart and blood: hypertension (high blood pressure from stress, overweight, faulty diet), atherosclerosis (fat deposit atheroma narrows the arteries), arteriosclerosis (hardening of arteries with age); treatments: angioplasty with a stent and heart bypass."
+ ],
+ "mcq": [
+  ["Use of an artificial pace maker helps the patient to —", ["Regulate body temperature", "Regularise heart beat", "Help in respiration", "Help in recording heart beat"], "B", ["April 2026"]],
+  ["A person recovered from measles in childhood does not get the disease again. This is due to —", ["Innate immunity", "Active acquired immunity", "Passive immunity", "Non specific body defense"], "B", ["April 2026"]],
+  ["Skin serves as the first line of defence because —", ["it prevents the entry of pathogens into the body", "it is the outer tough layer", "it is the sense organ", "none of the above"], "A", ["April 2026"]],
+  ["The blood vessel which transports deoxygenated blood from the heart to the lungs is —", ["Aorta", "Pulmonary vein", "Vena cava", "Pulmonary artery"], "D", ["October 2025"]],
+  ["Select the vaccine used against tuberculosis —", ["BCG", "MMR", "Bio-engineered vaccine", "DPT"], "A", ["October 2025"]],
+  ["The hormone-independent pacemaker of the heart is the —", ["SA node", "AV node", "Bundle of His", "Purkinje fibres"], "A"],
+  ["Which of the following carries oxygenated blood?", ["Pulmonary vein", "Pulmonary artery", "Superior vena cava", "Inferior vena cava"], "A"],
+  ["The universal donor blood group is —", ["O", "A", "B", "AB"], "A"],
+  ["The instrument used for measuring blood pressure is —", ["sphygmomanometer", "ECG", "stethoscope", "thermometer"], "A"],
+  ["Insects have —", ["open circulation", "closed circulation", "no circulation", "double circulation"], "A"],
+  ["The second heart sound 'dubb' is due to closure of —", ["semilunar valves", "tricuspid valve", "bicuspid valve", "venous valves"], "A"],
+  ["Which cell fragments help in blood clotting?", ["Platelets", "RBCs", "Neutrophils", "Lymphocytes"], "A"],
+  ["The graveyard of RBCs is the —", ["spleen", "liver", "thymus", "kidney"], "A"],
+  ["Which of these is an immunodeficiency disorder caused by HIV?", ["AIDS", "SCID", "Asthma", "Haemophilia"], "A"]
+ ],
+ "objective": [
+  ["Name the medical instruments used for recording: (a) blood pressure (b) conduction of the heart beat.", "(a) Sphygmomanometer. (b) Electrocardiograph (ECG).", ["October 2025"]],
+  ["After organ transplantation, a patient should be given immunosuppressants. (a) Why? (b) Which cells of the immune system are responsible for the rejection?", "(a) To prevent the body's immune system from rejecting the foreign organ as an antigen. (b) T-cells (cell-mediated immunity).", ["April 2026"]],
+  ["Fill in the blanks: (a) The heart beat originates at the ______. (b) Blood is a ______ connective tissue.", "(a) SA node. (b) fluid."],
+  ["Match: (a) Platelets (b) Lymphocytes (c) RBC with (i) antibodies (ii) clotting (iii) oxygen transport.", "(a)-(ii); (b)-(i); (c)-(iii)."],
+  ["Write the antigens and antibodies of blood group (a) A (b) O.", "(a) Antigen A, antibody b. (b) No antigen, antibodies a and b."],
+  ["State true or false: (a) Arteries have valves. (b) Pulmonary vein carries oxygenated blood.", "(a) False. (b) True."],
+  ["Name the two types of lymphocytes and their site of development.", "B-cells and T-cells, both developing in the bone marrow."],
+  ["Name the immunodeficiency disorders: (a) absence of both T- and B-cells from birth (b) caused by HIV.", "(a) SCID. (b) AIDS."]
+ ],
+ "vsa": [
+  ["Write the main functions of B-cells and T-cells in the immune system.", "B-cells produce antibodies to neutralise antigens (humoral immunity); T-cells recognise and destroy infected cells and antigens directly (cell-mediated immunity).", ["October 2025"]],
+  ["Draw a diagrammatic structure of an antibody and label the specific antigen-binding site.", "Y-shaped molecule of four polypeptide chains: two heavy and two light chains joined by disulphide bonds, with two antigen-binding sites at the tips of the arms (variable regions) and a constant stem region.", ["October 2025"]],
+  ["Differentiate between artery and vein (two points).", "An artery carries blood from the heart, has thick elastic walls and no valves; a vein carries blood to the heart, has thin walls and valves."],
+  ["What is double circulation?", "The blood passes twice through the heart in one complete circulation: pulmonary (heart-lungs-heart) and systemic (heart-body-heart)."],
+  ["Write the steps of blood clotting in short.", "Platelets release thromboplastin; with Ca++ it converts prothrombin to thrombin; thrombin changes fibrinogen to fibrin, which entangles RBCs and forms a clot."],
+  ["Why is O called the universal donor and AB the universal recipient?", "O has no antigens on its RBCs so it does not agglutinate in others; AB has no antibodies in the plasma so it can receive any group."],
+  ["Define immunity and an antigen.", "Immunity is the body's ability to resist disease-causing agents; an antigen is any substance that stimulates the production of antibodies."],
+  ["Differentiate between active and passive immunity (two points).", "Active: the body makes its own antibodies after infection or vaccination, long-lasting; passive: ready-made antibodies are injected (serum), short-lived."],
+  ["Name any two functions of the lymph.", "Drains excess tissue fluid and transports fats absorbed from the intestine."]
+ ],
+ "sa": [
+  ["Describe the conduction of the heart beat.", "The wave starts at the SA node (pacemaker) in the right atrium, causing atrial contraction; it reaches the AV node, passes to the bundle of His and Purkinje fibres in the ventricular walls and causes ventricular systole."],
+  ["Explain the path of blood in double circulation with a flow chart.", "Body → venae cavae → right atrium → right ventricle → pulmonary artery → lungs → pulmonary veins → left atrium → left ventricle → aorta → body."],
+  ["Write any three differences between blood and lymph.", "Blood has RBCs and haemoglobin and is red; lymph is colourless with no RBCs; blood has more plasma proteins and flows in closed vessels with a pumping heart; lymph has no pump."],
+  ["Describe the structural differences between arteries, veins and capillaries.", "Arteries have thick elastic muscular walls and small lumen; veins have thin walls, valves and large lumen; capillaries have walls of a single layer of endothelium for exchange."],
+  ["Explain the blood groups and transfusion.", "Antigens A and B on RBCs and antibodies in plasma give groups A, B, AB and O; mismatched transfusion causes agglutination; O is the universal donor and AB the universal recipient; Rh factor must also match."],
+  ["Describe the cells of the immune system and their functions.", "Lymphocytes: B-cells make antibodies; T-cells recognise and destroy antigens; macrophages and monocytes engulf bacteria by phagocytosis."]
+ ],
+ "la": [
+  ["Describe the structure of the human heart and the cardiac cycle.", "Four chambers (two atria, two ventricles) with tricuspid, bicuspid and semilunar valves; heart sounds lubb and dubb; the beat begins at the SA node, passes to the AV node, bundle of His and Purkinje fibres; atrial systole is followed by ventricular systole and a joint diastole."],
+  ["Describe the composition of blood and the functions of its components.", "Plasma (water, proteins, nutrients, hormones) and cells: RBCs carry gases, WBCs defend, platelets help clotting; the table of counts, origin in bone marrow and haemopoiesis."],
+  ["Describe the mechanism of blood coagulation with a flow chart.", "Injury; platelets release thromboplastin; thromboplastin + Ca++ convert prothrombin to thrombin; thrombin converts fibrinogen to fibrin; fibrin + RBCs form the clot."],
+  ["What is immunity? Describe its types and the role of vaccines.", "Innate and acquired immunity (active and passive); vaccines contain weakened antigens that stimulate antibody production, e.g. BCG and DPT; anti-tetanus serum gives passive immunity."],
+  ["Describe the disorders of blood and heart.", "Hypertension, atherosclerosis (atheroma), arteriosclerosis, their causes and treatments such as angioplasty and bypass; immunodeficiency disorders SCID and AIDS."]
+ ]
+}

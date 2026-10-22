@@ -1,0 +1,159 @@
+{
+  "subject": "biology",
+  "lesson": 22,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 22: Principles of Genetics — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Heredity and variation"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Heredity is the transmission of characters from parents to offspring; genetics is its study. Variation is the difference between parents and offspring or among offspring; it arises by mutation (sudden change in genes) and genetic recombination (crossing over during meiosis and random mixing of paternal and maternal chromosomes at fertilisation) and has survival value for the population."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Mendel's experiments"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Gregor Johann Mendel (1822-1884; Austrian monk; paper in 1865; father of genetics) worked on the garden pea (Pisum sativum; rediscovered in 1900 by Tschermak, Correns and de Vries). He studied seven pairs of contrasting characters: seed shape (round or wrinkled), seed colour (yellow or green), flower colour (purple or white), flower position (axial or terminal), pod shape (inflated or constricted), pod colour (green or yellow) and stem height (tall or dwarf). He chose pea because it has a short life cycle, bisexual self-pollinating flowers, pure-breeding varieties and clear contrasting characters showing complete dominance, and he used statistical analysis, reciprocal and test crosses."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Monohybrid cross: a pure tall plant (TT) crossed with a pure dwarf plant (tt) gives all tall F1 (Tt); on selfing, F2 gives 3 tall : 1 dwarf (phenotypic ratio 3:1; genotypic 1 TT : 2 Tt : 1 tt). Laws: (1) law of segregation (purity of gametes): the two factors of a pair separate during gamete formation, and each gamete gets one factor; (2) law of dominance: when two contrasting factors are present, only the dominant one is expressed in F1; (3) law of independent assortment: in a dihybrid cross, factors of different characters assort independently; TTRR × ttrr gives TtRr in F1 and 9 tall red : 3 tall white : 3 dwarf red : 1 dwarf white in F2 (dihybrid ratio 9:3:3:1; the 1/16 class is the double recessive)."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Terms: gene, allele (alternative forms of a gene), trait, dominant, recessive, genotype (genetic constitution), phenotype (visible expression), homozygous (identical alleles), heterozygous (dissimilar alleles), F1 and F2, hybridisation, test cross (cross of F1 with the homozygous recessive parent; a heterozygote gives a 1:1 ratio) and reciprocal cross (sexes of the parents reversed)."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Deviations: incomplete dominance (no dominance; the heterozygote is intermediate; red × white in Mirabilis jalapa (four o'clock) or Antirrhinum gives pink F1 and 1 red : 2 pink : 1 white in F2; genotypic and phenotypic ratios are both 1:2:1); multiple alleles and codominance (ABO blood groups from IA, IB and i; IA and IB are codominant; genotypes IAIA or IAi give A; IBIB or IBi give B; IAIB gives AB; ii gives O); lethal genes (yellow coat colour in mice, yy dies as zygote); pleiotropy (one gene affects several characters; white eye gene in Drosophila also affects wing and abdomen); polygenic inheritance (many genes with additive effect; skin colour and height in humans, wheat kernel colour)."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Chromosome theory, linkage and crossing over"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Sutton and Boveri (1902): chromosomes behave like Mendelian factors; genes are on chromosomes arranged linearly; chromosomes occur in homologous pairs which separate in meiosis. Linkage: genes on the same chromosome tend to be inherited together (Bateson and Punnett, sweet pea, ratio 7:1:1:7 instead of 9:3:3:1). Crossing over: exchange of segments between non-sister chromatids of homologous chromosomes at chiasmata in prophase I of meiosis, giving recombinants."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Sex determination and sex-linked inheritance"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Sex chromosomes and autosomes; XX-XY type in humans: the female is homogametic (all eggs X), the male is heterogametic (X-bearing and Y-bearing sperms); the sex of the child depends on the sperm, a matter of chance. In birds the ZW-ZZ type: females are heterogametic (ZW) and males are ZZ. In honey bees haplodiploidy: unfertilised eggs (haploid) develop into males (drones) and fertilised eggs (diploid) into females (workers and queen); so males have no father and cannot have sons, but have a grandfather."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Sex-linked (X-linked) genes show criss-cross inheritance: the recessive trait passes from father to daughter (carrier) and from her to her sons; males (XhY) are affected with one gene, females only when both X chromosomes carry it. Examples: red-green colour blindness and haemophilia. A haemophilic man (XhY) and normal woman (XX): all daughters carriers (XhX), all sons normal (XY). A carrier woman (XhX) and normal man (XY): 1 normal daughter : 1 carrier daughter : 1 normal son : 1 haemophilic son. A colour-blind man and a normal homozygous woman have no colour-blind sons because the sons get their X from the mother and Y from the father."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Mitochondrial inheritance is maternal: mitochondria come into the zygote from the egg only, so mitochondrial DNA (and its diseases) passes from the mother."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Human karyotype and genetic disorders"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Human karyotype: 46 chromosomes (23 pairs); 44 autosomes and 2 sex chromosomes (XX female, XY male), arranged in seven groups A to G; the Y is necessary for maleness. Disorders: Down's syndrome (trisomy 21; 47 chromosomes; mental retardation, thick tongue, drooping face; risk rises with the mother's age); Klinefelter's syndrome (XXY; 47 chromosomes; tall, sterile male with breast development); Turner's syndrome (XO; 45 chromosomes; sterile female with webbed neck and underdeveloped breasts); colour blindness and haemophilia (sex-linked recessive); thalassaemia (autosomal recessive; defective haemoglobin synthesis; needs blood transfusions) and sickle-cell anaemia (autosomal recessive; sickle-shaped RBCs due to defective haemoglobin; heterozygotes resist malaria). Rh incompatibility: an Rh-negative mother carrying an Rh-positive foetus makes antibodies after the first delivery; in later pregnancies they destroy the foetus's RBCs (erythroblastosis foetalis); prevented by anti-Rh treatment after delivery."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Amniocentesis: a sample of amniotic fluid is taken, foetal cells are cultured and the chromosomes analysed to detect genetic defects; its use for finding the sex of the unborn child is illegal. Genome: all the genes on the haploid set of chromosomes of an organism; genomics is its study; most human genes were mapped by 2003 and gene therapy is now hoped for."
+        ]
+      ]
+    }
+  ]
+}

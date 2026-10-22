@@ -1,0 +1,481 @@
+{
+  "subject": "biology",
+  "lesson": 903,
+  "title": "Model Question Paper 3",
+  "meta": "Time: 3 hours · Maximum marks: 80 · Modelled on the April 2026 NIOS paper",
+  "instructions": [
+    "All questions are compulsory. Where a question has OR, answer either one.",
+    "MCQs carry 1 mark; objective questions carry 2 marks (two parts of 1 mark each); very short answers carry 2 marks (30–50 words); short answers 3 marks (50–80 words); long answers 5 marks (80–120 words).",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "16 × 1 = 16",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "Diatomaceous earth is formed from the walls of —",
+          "options": [
+            "Diatoms",
+            "Fungi",
+            "Cyanobacteria",
+            "Amoeba"
+          ],
+          "answer": "A",
+          "note": "Lesson 2."
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "The class of animals with a four-chambered heart and pneumatic bones is —",
+          "options": [
+            "Aves",
+            "Reptilia",
+            "Amphibia",
+            "Osteichthyes"
+          ],
+          "answer": "A",
+          "note": "Lesson 3."
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "The fruit of pineapple is —",
+          "options": [
+            "sorosis",
+            "syconus",
+            "pome",
+            "drupe"
+          ],
+          "answer": "A",
+          "note": "Lesson 7."
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "The pink pigment present in root nodules of legumes is —",
+          "options": [
+            "leghemoglobin",
+            "chlorophyll",
+            "carotene",
+            "haemoglobin"
+          ],
+          "answer": "A",
+          "note": "Lesson 10."
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "The first stable product of the C4 cycle is —",
+          "options": [
+            "oxaloacetic acid",
+            "PGA",
+            "pyruvic acid",
+            "glucose"
+          ],
+          "answer": "A",
+          "note": "Lesson 11."
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "The net gain of ATP in glycolysis is —",
+          "options": [
+            "2",
+            "4",
+            "36",
+            "38"
+          ],
+          "answer": "A",
+          "note": "Lesson 12."
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "The blood vessel which transports deoxygenated blood from the heart to the lungs is —",
+          "options": [
+            "Aorta",
+            "Pulmonary vein",
+            "Vena cava",
+            "Pulmonary artery"
+          ],
+          "answer": "D",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 15."
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "The part of the brain that controls balance and coordination is the —",
+          "options": [
+            "cerebellum",
+            "cerebrum",
+            "thalamus",
+            "pons"
+          ],
+          "answer": "A",
+          "note": "Lesson 17."
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "Pollination by water is called —",
+          "options": [
+            "hydrophily",
+            "anemophily",
+            "entomophily",
+            "ornithophily"
+          ],
+          "answer": "A",
+          "note": "Lesson 19."
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "The surgical method of birth control in females is —",
+          "options": [
+            "tubectomy",
+            "vasectomy",
+            "copper T",
+            "condom"
+          ],
+          "answer": "A",
+          "note": "Lesson 21."
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "The father of genetics is —",
+          "options": [
+            "Mendel",
+            "Morgan",
+            "Sutton",
+            "Bateson"
+          ],
+          "answer": "A",
+          "note": "Lesson 22."
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "Pick the mRNA codon which will pair with the anticodon GAU of tRNA.",
+          "options": [
+            "CUA",
+            "UCA",
+            "AGU",
+            "AGT"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 23."
+        },
+        {
+          "id": "1.13",
+          "type": "mcq",
+          "q": "The association between insect-pollinated flowers and pollinating insects is termed —",
+          "options": [
+            "Symbiosis",
+            "Mutualism",
+            "Commensalism",
+            "Parasitism"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 25."
+        },
+        {
+          "id": "1.14",
+          "type": "mcq",
+          "q": "Cyanocobalamin is —",
+          "options": [
+            "vitamin B1",
+            "vitamin D",
+            "vitamin B12",
+            "vitamin C"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 28."
+        },
+        {
+          "id": "1.15",
+          "type": "mcq",
+          "q": "B-cells mature in the —",
+          "options": [
+            "bone marrow",
+            "thymus",
+            "spleen",
+            "liver"
+          ],
+          "answer": "A",
+          "note": "Lesson 30."
+        },
+        {
+          "id": "1.16",
+          "type": "mcq",
+          "q": "Name the scientist who discovered antibiotics.",
+          "options": [
+            "Selman Waksman",
+            "Edward Jenner",
+            "Alexander Fleming",
+            "Louis Pasteur"
+          ],
+          "answer": "C",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 31."
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark.",
+      "marks": "12 × 2 = 24",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "Fill in the blanks: (a) The part of a bacterial cell where DNA lies is the ______. (b) The extra ring of DNA is called a ______.",
+          "answer": "(a) nucleoid. (b) plasmid (F-factor).",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 2."
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Give the number of ATP molecules formed per glucose in (a) aerobic respiration (b) anaerobic respiration.",
+          "answer": "(a) 38 (36 by some accounts). (b) 2.",
+          "note": "Lesson 12."
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "State true or false: (a) Arteries have valves. (b) Pulmonary vein carries oxygenated blood.",
+          "answer": "(a) False. (b) True.",
+          "note": "Lesson 15."
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "State true or false: (a) The sympathetic system slows the heart. (b) Rods are sensitive to dim light.",
+          "answer": "(a) False. (b) True.",
+          "note": "Lesson 17."
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "Label the parts of the androecium and gynoecium (any one).",
+          "answer": "Androecium: anther (with pollen sacs), connective and filament. Gynoecium: stigma, style and ovary (with ovules).",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 19."
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "In a section of the ovary, identify the two structures A (large fluid-filled follicle with the ovum) and B (the yellowish body left after ovulation).",
+          "answer": "A: Graafian follicle. B: corpus luteum.",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 21."
+        },
+        {
+          "id": "2.7",
+          "type": "open",
+          "q": "Name the types of sex determination: (a) humans (b) birds.",
+          "answer": "(a) XX-XY type. (b) ZW-ZZ type.",
+          "note": "Lesson 22."
+        },
+        {
+          "id": "2.8",
+          "type": "open",
+          "q": "Given the structure of DNA, fill in the blanks (any two): (a) the sugar is ______ (b) A pairs with ______ by ______ hydrogen bonds.",
+          "answer": "(a) deoxyribose. (b) thymine, 2.",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 23."
+        },
+        {
+          "id": "2.9",
+          "type": "open",
+          "q": "With reference to biological interactions between two species, identify the two wrong statements: (a) One organism benefits while the other is harmed: parasitism. (b) Both species cannot survive without the other: mutualism. (c) Penicillium secretes antibiotics which inhibit bacteria: predation. (d) One species benefits and the other is unharmed: commensalism.",
+          "answer": "(b) and (c) are wrong: (b) interdependence with neither able to survive is symbiosis (obligate mutualism); (c) Penicillium inhibiting bacteria is amensalism, not predation.",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 25."
+        },
+        {
+          "id": "2.10",
+          "type": "open",
+          "q": "Name the two forms of PEM.",
+          "answer": "Kwashiorkor and marasmus.",
+          "note": "Lesson 28."
+        },
+        {
+          "id": "2.11",
+          "type": "open",
+          "q": "Name two primary and two secondary lymphoid organs.",
+          "answer": "Primary: thymus and bone marrow; secondary: spleen and lymph nodes.",
+          "note": "Lesson 30."
+        },
+        {
+          "id": "2.12",
+          "type": "open",
+          "q": "Name the source to extract the following antibiotics: (a) Tetracycline (b) Streptomycin.",
+          "answer": "(a) Streptomyces (S. aureofaciens). (b) Streptomyces griseus.",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 31."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "9 × 2 = 18",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "Distinguish between hormones and pheromones.",
+          "answer": "Hormones act inside the body of the same organism through blood; pheromones are released outside to influence other individuals of the same species.",
+          "note": "Lesson 17."
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "Write the functions of synergids and antipodal cells.",
+          "answer": "Synergids guide the pollen tube to the egg; antipodals degenerate and provide nutrition to the young embryo.",
+          "note": "Lesson 19."
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "Name two permanent surgical methods of birth control.",
+          "answer": "Vasectomy in males and tubectomy in females.",
+          "note": "Lesson 21."
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "Write two features of Down's syndrome.",
+          "answer": "Trisomy 21 (47 chromosomes), mental retardation and a thick tongue with a drooping face.",
+          "note": "Lesson 22."
+        },
+        {
+          "id": "3.5",
+          "type": "open",
+          "q": "Draw the diagram to show the structure of the DNA molecule.",
+          "answer": "Two antiparallel sugar-phosphate backbones coiled in a double helix with base pairs A=T (two hydrogen bonds) and G≡C (three hydrogen bonds) as rungs; one turn 3.4 nm contains 10 base pairs; diameter 2 nm.",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 23."
+        },
+        {
+          "id": "3.6",
+          "type": "open",
+          "q": "What are decomposers? Give two examples.",
+          "answer": "Organisms that feed on dead organic matter and recycle nutrients; bacteria and fungi.",
+          "note": "Lesson 25."
+        },
+        {
+          "id": "3.7",
+          "type": "open",
+          "q": "Write the deficiency diseases of vitamin A and vitamin D.",
+          "answer": "Vitamin A: night blindness and xerophthalmia. Vitamin D: rickets in children and osteomalacia in adults.",
+          "note": "Lesson 28."
+        },
+        {
+          "id": "3.8",
+          "type": "open",
+          "q": "What are memory cells?",
+          "answer": "B-cells that do not become plasma cells and remain to produce antibodies quickly if the antigen appears again.",
+          "note": "Lesson 30."
+        },
+        {
+          "id": "3.9",
+          "type": "open",
+          "q": "Write two drawbacks of antibiotics.",
+          "answer": "Bacteria become resistant by mutation, and antibiotics may kill useful gut bacteria or cause allergy.",
+          "note": "Lesson 31."
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "4 × 3 = 12",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "Describe the main features of the family Fabaceae.",
+          "answer": "Zygomorphic, bisexual flowers; five sepals; five papilionaceous petals (standard, two wings and two keel petals); ten diadelphous stamens; monocarpellary superior ovary with marginal placentation; the fruit is a pod; examples are pea and gram.",
+          "note": "Lesson 3."
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "Explain the types of placentation with one example each.",
+          "answer": "Marginal (pea), axile (china rose), parietal (mustard), basal (sunflower) and free central (Dianthus).",
+          "note": "Lesson 7."
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "Describe the characteristics of the genetic code.",
+          "answer": "Triplet, unambiguous, non-overlapping and commaless, degenerate (wobble), universal; AUG starts and UAA, UAG, UGA stop.",
+          "note": "Lesson 23."
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "Explain the structure of an antibody.",
+          "answer": "A Y-shaped immunoglobulin with two heavy and two light chains joined by disulphide bonds; the stem (Fc) is constant while the two prongs have variable antigen-binding sites.",
+          "note": "Lesson 30."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Long answer questions. Answer in 80–120 words.",
+      "marks": "2 × 5 = 10",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "Describe the types of meristematic tissue with their location and function.",
+          "answer": "Apical meristem: root and shoot tips; increases length. Intercalary meristem: at the bases of leaves or internodes; increases internode length. Lateral meristem: cambium and cork cambium; increases thickness (secondary growth).",
+          "note": "Lesson 5."
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "Explain gene therapy and the single-gene disorders it may treat.",
+          "answer": "Replacement of the defective gene with a normal gene; SCID, haemophilia, sickle-cell anaemia and phenylketonuria.",
+          "note": "Lesson 31."
+        }
+      ]
+    }
+  ]
+}

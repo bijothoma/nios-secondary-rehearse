@@ -1,0 +1,466 @@
+{
+  "subject": "biology",
+  "lesson": 902,
+  "title": "Model Question Paper 2",
+  "meta": "Time: 3 hours · Maximum marks: 80 · Modelled on the April 2026 NIOS paper",
+  "instructions": [
+    "All questions are compulsory. Where a question has OR, answer either one.",
+    "MCQs carry 1 mark; objective questions carry 2 marks (two parts of 1 mark each); very short answers carry 2 marks (30–50 words); short answers 3 marks (50–80 words); long answers 5 marks (80–120 words).",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "16 × 1 = 16",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "The only prokaryotic kingdom is —",
+          "options": [
+            "Monera",
+            "Protoctista",
+            "Fungi",
+            "Plantae"
+          ],
+          "answer": "A",
+          "note": "Lesson 2."
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "The fruit of Poaceae is —",
+          "options": [
+            "caryopsis",
+            "pod",
+            "capsule",
+            "berry"
+          ],
+          "answer": "A",
+          "note": "Lesson 3."
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "The conducting tissue for food is —",
+          "options": [
+            "Phloem",
+            "Xylem",
+            "Cambium",
+            "Sclerenchyma"
+          ],
+          "answer": "A",
+          "note": "Lesson 5."
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "The seat of origin of lateral roots is the —",
+          "options": [
+            "pericycle",
+            "endodermis",
+            "cortex",
+            "epiblema"
+          ],
+          "answer": "A",
+          "note": "Lesson 6."
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "Water chestnut shows two different types of leaves on the same plant. This condition is called —",
+          "options": [
+            "Phyllotaxy",
+            "Heterophylly",
+            "Heterotrophic",
+            "Hypogynous"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 7."
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "Nitrite reductase is located in the —",
+          "options": [
+            "chloroplast",
+            "mitochondria",
+            "ribosome",
+            "nucleus"
+          ],
+          "answer": "A",
+          "note": "Lesson 10."
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "The law of limiting factors was proposed by —",
+          "options": [
+            "Blackman",
+            "Hill",
+            "Calvin",
+            "Ingenhousz"
+          ],
+          "answer": "A",
+          "note": "Lesson 11."
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "Which of the following is the first compound of the Krebs' cycle formed from acetyl CoA?",
+          "options": [
+            "citrate",
+            "oxaloacetate",
+            "pyruvate",
+            "malate"
+          ],
+          "answer": "A",
+          "note": "Lesson 12."
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "The instrument used for measuring blood pressure is —",
+          "options": [
+            "sphygmomanometer",
+            "ECG",
+            "stethoscope",
+            "thermometer"
+          ],
+          "answer": "A",
+          "note": "Lesson 15."
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "Fertilisation in humans occurs in the —",
+          "options": [
+            "fallopian tube",
+            "uterus",
+            "ovary",
+            "vagina"
+          ],
+          "answer": "A",
+          "note": "Lesson 21."
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "The syndrome in which an individual has an XXY chromosome constitution is —",
+          "options": [
+            "Klinefelter's",
+            "Turner's",
+            "Down's",
+            "Patau's"
+          ],
+          "answer": "A",
+          "note": "Lesson 22."
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "The transforming principle was shown to be DNA by —",
+          "options": [
+            "Avery, MacLeod and McCarty",
+            "Griffith",
+            "Beadle and Tatum",
+            "Meselson and Stahl"
+          ],
+          "answer": "A",
+          "note": "Lesson 23."
+        },
+        {
+          "id": "1.13",
+          "type": "mcq",
+          "q": "Cuscuta on a host plant shows —",
+          "options": [
+            "parasitism",
+            "mutualism",
+            "commensalism",
+            "amensalism"
+          ],
+          "answer": "A",
+          "note": "Lesson 25."
+        },
+        {
+          "id": "1.14",
+          "type": "mcq",
+          "q": "Roughage is mainly made of —",
+          "options": [
+            "cellulose",
+            "starch",
+            "protein",
+            "fat"
+          ],
+          "answer": "A",
+          "note": "Lesson 28."
+        },
+        {
+          "id": "1.15",
+          "type": "mcq",
+          "q": "Which of the following gives passive immunity to a newborn?",
+          "options": [
+            "Colostrum",
+            "BCG",
+            "DPT",
+            "Oral polio vaccine"
+          ],
+          "answer": "A",
+          "note": "Lesson 30."
+        },
+        {
+          "id": "1.16",
+          "type": "mcq",
+          "q": "Saccharomyces cerevisiae belongs to —",
+          "options": [
+            "algae",
+            "fungi",
+            "bacteria",
+            "virus"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 31."
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark.",
+      "marks": "12 × 2 = 24",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "Name the organelle responsible for osmoregulation in Amoeba. (b) What is the mode of asexual reproduction in Amoeba?",
+          "answer": "(a) Contractile vacuole. (b) Binary fission.",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 2."
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Name the phylum: (a) tube feet (b) cnidoblasts.",
+          "answer": "(a) Echinodermata. (b) Cnidaria.",
+          "note": "Lesson 3."
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "Name the layers of the histogen theory that give rise to (a) epidermis (b) cortex.",
+          "answer": "(a) Dermatogen. (b) Periblem.",
+          "note": "Lesson 5."
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "In a tetrarch root, how many lateral roots form in one row?",
+          "answer": "Four, equal to the number of xylem bundles.",
+          "note": "Lesson 6."
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "State true or false: (a) Lateral branches of stem are exogenous in origin. (b) Monocot stems show secondary growth.",
+          "answer": "(a) True. (b) False.",
+          "note": "Lesson 7."
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "Match: (a) Azotobacter (b) Clostridium (c) Anabaena (d) Lichens with (i) anaerobic fixer (ii) aerobic fixer (iii) aerobic cyanobacterium (iv) symbiotic fixer.",
+          "answer": "(a)-(ii); (b)-(i); (c)-(iii); (d)-(iv).",
+          "note": "Lesson 10."
+        },
+        {
+          "id": "2.7",
+          "type": "open",
+          "q": "State true or false: (a) Oxygen is evolved in cyclic photophosphorylation. (b) NADPH2 and ATP are the assimilatory power.",
+          "answer": "(a) False. (b) True.",
+          "note": "Lesson 11."
+        },
+        {
+          "id": "2.8",
+          "type": "open",
+          "q": "Match the RQ: (a) carbohydrate (b) fat with (i) greater than 1 (ii) 1.",
+          "answer": "(a)-(ii); (b)-(i).",
+          "note": "Lesson 12."
+        },
+        {
+          "id": "2.9",
+          "type": "open",
+          "q": "Give the levels of organisation in life from gene to biosphere.",
+          "answer": "Gene, cell, organ, organism, species, population, community, ecosystem, biome and biosphere.",
+          "note": "Lesson 25."
+        },
+        {
+          "id": "2.10",
+          "type": "open",
+          "q": "Fill in the blanks: (a) Rickets is due to deficiency of vitamin ______. (b) The essential amino acids are those which cannot be ______ by the body.",
+          "answer": "(a) D. (b) synthesised.",
+          "note": "Lesson 28."
+        },
+        {
+          "id": "2.11",
+          "type": "open",
+          "q": "Name the type of immunity: (a) transfer of IgG from mother to foetus (b) vaccination with BCG.",
+          "answer": "(a) Passive immunity. (b) Active acquired immunity.",
+          "note": "Lesson 30."
+        },
+        {
+          "id": "2.12",
+          "type": "open",
+          "q": "Fill in the blanks: (a) The 'molecular scissors' in genetic engineering are ______. (b) The 'molecular glue' is ______.",
+          "answer": "(a) restriction endonucleases. (b) DNA ligase.",
+          "note": "Lesson 31."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "9 × 2 = 18",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "What are lichens?",
+          "answer": "Lichens are symbiotic associations of an alga (or cyanobacterium) and a fungus; the alga prepares food while the fungus gives protection and absorbs water and minerals.",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 2."
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "With the help of suitable diagrams differentiate between the androecium in pea and china rose.",
+          "answer": "Pea (Fabaceae): 10 stamens, diadelphous (9 fused in one bundle and 1 free). China rose (Malvaceae): numerous stamens fused by their filaments into a staminal tube (monadelphous).",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 3."
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "Define tissue. Name the branch of biology which deals with its study.",
+          "answer": "A tissue is a group of cells with common origin, structure and function; the branch is histology.",
+          "note": "Lesson 5."
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "What are passage cells?",
+          "answer": "Endodermal cells opposite the protoxylem without Casparian strips, through which water and salts pass from the cortex into the xylem.",
+          "note": "Lesson 6."
+        },
+        {
+          "id": "3.5",
+          "type": "open",
+          "q": "Differentiate between a simple and a compound leaf (two points).",
+          "answer": "A simple leaf has an undivided lamina (or incisions not reaching the midrib); a compound leaf has leaflets, incisions reaching the midrib, and an axillary bud only at the base of the whole leaf.",
+          "note": "Lesson 7."
+        },
+        {
+          "id": "3.6",
+          "type": "open",
+          "q": "Name two conditions required for biological nitrogen fixation.",
+          "answer": "A strong reducing power (NADH2) with ATP and the enzyme nitrogenase under anaerobic conditions.",
+          "note": "Lesson 10."
+        },
+        {
+          "id": "3.7",
+          "type": "open",
+          "q": "State Blackman's law of limiting factors.",
+          "answer": "When a process depends on several factors, its rate is limited by the factor which is at the lowest level (the slowest factor).",
+          "note": "Lesson 11."
+        },
+        {
+          "id": "3.8",
+          "type": "open",
+          "q": "What is a toxoid?",
+          "answer": "A chemically or physically modified toxin which is no longer harmful but remains immunogenic, used in vaccines against diphtheria and tetanus.",
+          "note": "Lesson 30."
+        },
+        {
+          "id": "3.9",
+          "type": "open",
+          "q": "Name the steps of the production of alcohol by yeast in brief.",
+          "answer": "Sterilise the fermenter, add medium and yeast, control temperature and pH, ferment sugar to alcohol and CO2, then remove the product.",
+          "note": "Lesson 31."
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "4 × 3 = 12",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "Differentiate between parenchyma, collenchyma and sclerenchyma (one point each).",
+          "answer": "Parenchyma: thin-walled living cells that store food. Collenchyma: living cells with corner thickening of cellulose and pectin; gives flexible support. Sclerenchyma: dead cells with lignified thick walls; gives rigidity.",
+          "note": "Lesson 5."
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "Explain symbiotic nitrogen fixation in legumes.",
+          "answer": "Rhizobium infects the roots and forms nodules; the nodule contains leghemoglobin, which removes oxygen so that nitrogenase can reduce N2 to NH3 using ATP and reducing power from the host, and the ammonia is converted to amino acids.",
+          "note": "Lesson 10."
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "Write any three differences between blood and lymph.",
+          "answer": "Blood has RBCs and haemoglobin and is red; lymph is colourless with no RBCs; blood has more plasma proteins and flows in closed vessels with a pumping heart; lymph has no pump.",
+          "note": "Lesson 15."
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "What is colostrum? Why is it essential for the newly born baby?",
+          "answer": "Colostrum is the first yellowish secretion of the mammary glands after childbirth, rich in proteins and containing IgA antibodies; it protects the newborn by giving passive immunity and nourishes it.",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 21."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Long answer questions. Answer in 80–120 words.",
+      "marks": "2 × 5 = 10",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "Name the scientists who discovered the C3 cycle in plants. Write any four differences between C3 plants and C4 plants.",
+          "answer": "Melvin Calvin. C3: one CO2 fixation with RuBP and Rubisco, first product PGA, no Kranz anatomy, photorespiration present, less efficient. C4: two fixations with PEP carboxylase and Rubisco, first product OAA, Kranz anatomy, no photorespiration, more efficient.",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 11."
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "Explain the hormones of the pituitary gland with their functions and disorders.",
+          "answer": "GH (dwarfism, gigantism, acromegaly), TSH, ACTH, FSH, LH, ADH (diabetes insipidus) and oxytocin.",
+          "note": "Lesson 17."
+        }
+      ]
+    }
+  ]
+}

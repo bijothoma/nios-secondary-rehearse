@@ -158,6 +158,11 @@ question's own short note.
   Secondary course) from `data/sr-business-studies/src/lesson-<n>.json` with `build_sci.py` (51 questions, 100 marks:
   20 MCQs, fifteen 2-mark objective questions, six 2-mark, six 3-mark and four 5-mark answers). The 14 public-exam
   lessons of the NIOS bifurcation are included; past-paper questions of October 2024 to April 2026 are tagged by exam.
+- `tools/build_biology.py`: builds Senior Secondary Biology (314) from `data/biology/src/lesson-<n>.json` with
+  `build_sci.py` (43 questions, 80 marks: 16 MCQs, twelve 2-mark objective questions, nine 2-mark, four 3-mark and two
+  5-mark answers). The 18 public-exam lessons of the NIOS bifurcation are included (numbered as in the bifurcation:
+  30 is Immunobiology and 31 is Biotechnology). Diagram questions of the real papers are given as text equivalents.
+  Past-paper questions of April 2025, October 2025 and April 2026 are tagged by exam.
 - All of these builders share `build_question` in `tools/build_ss.py`. It marks an MCQ `fixed` (options
   keep their printed order instead of being shuffled) when an option refers to the others, such as
   "all of these", "none of the above" or "both (A) and (B)".

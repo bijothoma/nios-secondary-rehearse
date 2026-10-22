@@ -1,0 +1,351 @@
+{
+  "subject": "biology",
+  "lesson": 12,
+  "title": "Respiration in Plants",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "12 × 1 = 12",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "The RQ for carbohydrates is —",
+          "options": [
+            "0.7",
+            "0.9",
+            "1.0",
+            "1.2"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "The end products of glycolysis in muscles are —",
+          "options": [
+            "pyruvic acid, 36 ATP",
+            "pyruvic acid, 4 ATP",
+            "ethyl alcohol, 2 ATP",
+            "pyruvic acid, 2 ATP"
+          ],
+          "answer": "D",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "Glycolysis takes place in the —",
+          "options": [
+            "cytosol",
+            "mitochondrial matrix",
+            "cristae",
+            "chloroplast"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "The Krebs' cycle takes place in —",
+          "options": [
+            "mitochondrial matrix",
+            "cytosol",
+            "chloroplast stroma",
+            "nucleus"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "The net gain of ATP in glycolysis is —",
+          "options": [
+            "2",
+            "4",
+            "36",
+            "38"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "The final electron acceptor in the respiratory chain is —",
+          "options": [
+            "oxygen",
+            "NAD",
+            "cytochrome c",
+            "FAD"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "The RQ of fats and oils is —",
+          "options": [
+            "greater than 1",
+            "equal to 1",
+            "less than 1",
+            "zero"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "Photorespiration occurs in —",
+          "options": [
+            "high O2 and low CO2 in light",
+            "low O2 and high CO2",
+            "darkness",
+            "mitochondria only"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "Which of these poisons the electron transport chain?",
+          "options": [
+            "Carbon monoxide",
+            "Oxygen",
+            "Water",
+            "Glucose"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "The number of ATP molecules obtained per FADH2 is —",
+          "options": [
+            "2",
+            "3",
+            "4",
+            "1"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "Which of the following is the first compound of the Krebs' cycle formed from acetyl CoA?",
+          "options": [
+            "citrate",
+            "oxaloacetate",
+            "pyruvate",
+            "malate"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "Alcoholic fermentation is carried out by —",
+          "options": [
+            "yeast",
+            "muscles",
+            "chloroplasts",
+            "red cells"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark.",
+      "marks": "8 × 2 = 16",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "Write the equations to show the difference between aerobic and anaerobic respiration.",
+          "answer": "Aerobic: C6H12O6 + 6O2 gives 6CO2 + 6H2O + 38 ATP. Anaerobic: C6H12O6 gives 2C2H5OH + 2CO2 + 2 ATP.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Fill in the blanks: (a) Glycolysis is also known as the ______ pathway. (b) Krebs' cycle is also called the ______ cycle.",
+          "answer": "(a) Embden-Meyerhof-Parnas (EMP). (b) citric acid (TCA)."
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "State true or false: (a) Fermentation produces 38 ATP. (b) Photorespiration produces no ATP.",
+          "answer": "(a) False – it gives 2 ATP in glycolysis only. (b) True."
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Match the RQ: (a) carbohydrate (b) fat with (i) greater than 1 (ii) 1.",
+          "answer": "(a)-(ii); (b)-(i)."
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "Name the end product of fermentation in (a) yeast (b) muscle cells.",
+          "answer": "(a) Ethyl alcohol and CO2. (b) Lactic acid."
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "Name the process in which (a) Pyruvic acid is converted into acetyl CoA (b) NADH is oxidised in the mitochondrial membrane.",
+          "answer": "(a) Link (oxidative decarboxylation) reaction. (b) Oxidative phosphorylation (respiratory chain)."
+        },
+        {
+          "id": "2.7",
+          "type": "open",
+          "q": "Name the enzyme that catalyses photorespiration and the molecule it acts on.",
+          "answer": "Rubisco (oxygenase activity) acts on RuBP."
+        },
+        {
+          "id": "2.8",
+          "type": "open",
+          "q": "Give the number of ATP molecules formed per glucose in (a) aerobic respiration (b) anaerobic respiration.",
+          "answer": "(a) 38 (36 by some accounts). (b) 2."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "8 × 2 = 16",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "Define respiratory quotient. Give its value for carbohydrates.",
+          "answer": "RQ is the ratio of the volume of CO2 evolved to the volume of O2 consumed; for carbohydrates it is 1."
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "What is photorespiration? State its significance.",
+          "answer": "Respiration in light in the chloroplast in which Rubisco oxygenates RuBP at high O2 and low CO2; it protects pigments from photo-oxidative damage but wastes about 25 per cent of fixed carbon and gives no ATP."
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "Write two differences between aerobic and anaerobic respiration.",
+          "answer": "Aerobic needs oxygen, occurs in mitochondria and gives 38 ATP; anaerobic needs no oxygen, occurs in the cytoplasm and gives 2 ATP."
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "Why do muscles pain during prolonged exercise?",
+          "answer": "Due to anaerobic respiration, lactic acid accumulates in the muscles."
+        },
+        {
+          "id": "3.5",
+          "type": "open",
+          "q": "Why do plants not need special respiratory organs?",
+          "answer": "Each part exchanges gases directly by diffusion, they have a large surface area and need less oxygen."
+        },
+        {
+          "id": "3.6",
+          "type": "open",
+          "q": "What is amphibolic pathway?",
+          "answer": "The combination of the anabolic photosynthesis and the catabolic respiration in the plant."
+        },
+        {
+          "id": "3.7",
+          "type": "open",
+          "q": "Name the three stages of aerobic respiration and the sites.",
+          "answer": "Glycolysis in the cytosol, Krebs' cycle in the mitochondrial matrix and electron transport chain on the inner mitochondrial membrane (cristae)."
+        },
+        {
+          "id": "3.8",
+          "type": "open",
+          "q": "State the significance of fermentation in industry (any two).",
+          "answer": "Production of alcohol, bread, wine and vinegar."
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "6 × 3 = 18",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "Describe glycolysis briefly.",
+          "answer": "Glucose is phosphorylated using 2 ATP, split into two 3-carbon sugar phosphates and oxidised to two pyruvic acid molecules, giving 4 ATP and 2 NADH; the net gain is 2 ATP and 2 NADH, in the cytosol."
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "Account for the 38 ATP released in aerobic respiration.",
+          "answer": "Glycolysis 2 ATP + 2 NADH (6); link reaction 2 NADH (6); Krebs 2 ATP + 6 NADH (18) + 2 FADH2 (4); that is 4 ATP direct + 30 from NADH + 4 from FADH2 = 38."
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "Explain the factors affecting the rate of respiration.",
+          "answer": "Type of substrate (shown by RQ), temperature (30-35 degrees Celsius best), oxygen, accumulated CO2 and water content."
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "Write the products of one turn of the Krebs' cycle.",
+          "answer": "Per turn of the Krebs cycle: 2 CO2 are released, and 3 NADH, 1 FADH2 and 1 ATP are formed; oxaloacetate is regenerated."
+        },
+        {
+          "id": "4.5",
+          "type": "open",
+          "q": "Write a note on the pentose phosphate pathway.",
+          "answer": "A cytosolic pathway in microbes and active animal tissues that oxidises glucose-6-phosphate to CO2 and NADPH2 without the ETC, giving ribose-5-phosphate for nucleic acids."
+        },
+        {
+          "id": "4.6",
+          "type": "open",
+          "q": "Write short notes on the significance of the Krebs' cycle.",
+          "answer": "It is the common oxidative pathway of carbohydrates, fats and proteins and provides intermediates for synthesis of amino acids, nucleotides, chlorophyll and fats."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Long answer questions. Answer in 80–120 words.",
+      "marks": "3 × 5 = 15",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "Describe the Krebs' cycle and the electron transport chain.",
+          "answer": "Acetyl CoA combines with oxaloacetate to form citrate; successive decarboxylations and dehydrogenations release CO2, NADH, FADH2 and ATP and regenerate oxaloacetate. NADH and FADH2 are oxidised on the cristae through carriers to oxygen, forming water and ATP by oxidative phosphorylation."
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "Explain fermentation and its industrial applications.",
+          "answer": "In the absence of oxygen pyruvic acid is converted into ethanol and CO2 or lactic acid with regeneration of NAD; used for bread, beer, wine, vinegar, leather curing, gasohol, idli and dosa."
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "Differentiate between respiration and photorespiration, and explain the process of photorespiration.",
+          "answer": "Respiration occurs in mitochondria, produces ATP and is independent of light; photorespiration occurs in light in chloroplast, peroxisome and mitochondria, gives no ATP and loses carbon. Rubisco adds O2 to RuBP, forming PGA and phosphoglycolate, which is converted to PGA and CO2."
+        }
+      ]
+    }
+  ]
+}

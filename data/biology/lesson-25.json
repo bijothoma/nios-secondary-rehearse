@@ -1,0 +1,389 @@
+{
+  "subject": "biology",
+  "lesson": 25,
+  "title": "Principles of Ecology",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "12 × 1 = 12",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "A transitional zone between two ecosystems is —",
+          "options": [
+            "ecotone",
+            "biome",
+            "wetland",
+            "biosphere"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2026",
+            "October 2025"
+          ]
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "The association between insect-pollinated flowers and pollinating insects is termed —",
+          "options": [
+            "Symbiosis",
+            "Mutualism",
+            "Commensalism",
+            "Parasitism"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "Habitat is called the —",
+          "options": [
+            "address of an organism",
+            "profession of an organism",
+            "food of an organism",
+            "age of an organism"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "The pyramid which is always upright is the pyramid of —",
+          "options": [
+            "energy",
+            "number",
+            "biomass",
+            "all of these"
+          ],
+          "answer": "A",
+          "fixed": true
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "The percentage of energy transferred from one trophic level to the next is about —",
+          "options": [
+            "10",
+            "50",
+            "90",
+            "1"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "Remora and shark show —",
+          "options": [
+            "commensalism",
+            "mutualism",
+            "parasitism",
+            "predation"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "Producers are also called —",
+          "options": [
+            "autotrophs",
+            "heterotrophs",
+            "decomposers",
+            "scavengers"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "An S-shaped growth curve has a stable phase when —",
+          "options": [
+            "natality equals mortality",
+            "natality exceeds mortality",
+            "mortality exceeds natality",
+            "dispersal is zero"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "Which of the following is a decomposer?",
+          "options": [
+            "Fungi",
+            "Grass",
+            "Frog",
+            "Eagle"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "The biome with the highest productivity is —",
+          "options": [
+            "tropical rain forest",
+            "tundra",
+            "desert",
+            "taiga"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "Cuscuta on a host plant shows —",
+          "options": [
+            "parasitism",
+            "mutualism",
+            "commensalism",
+            "amensalism"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "The first trophic level in a food chain consists of —",
+          "options": [
+            "producers",
+            "herbivores",
+            "carnivores",
+            "decomposers"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark.",
+      "marks": "8 × 2 = 16",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "With reference to biological interactions between two species, identify the two wrong statements: (a) One organism benefits while the other is harmed: parasitism. (b) Both species cannot survive without the other: mutualism. (c) Penicillium secretes antibiotics which inhibit bacteria: predation. (d) One species benefits and the other is unharmed: commensalism.",
+          "answer": "(b) and (c) are wrong: (b) interdependence with neither able to survive is symbiosis (obligate mutualism); (c) Penicillium inhibiting bacteria is amensalism, not predation.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Name two human activities which continuously increase the atmospheric carbon dioxide.",
+          "answer": "Burning of fossil fuels and deforestation.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "Fill in the blanks: (a) The relationship in which one species benefits at the cost of another is ______. (b) A group of species living together in a natural area is a ______.",
+          "answer": "(a) parasitism. (b) community."
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Match: (a) Amensalism (b) Mutualism (c) Competition with (i) both benefit (ii) both harmed (iii) one inhibited, the other unaffected.",
+          "answer": "(a)-(iii); (b)-(i); (c)-(ii)."
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "State true or false: (a) A snake can be a secondary as well as a tertiary consumer. (b) Energy flow in an ecosystem is cyclic.",
+          "answer": "(a) True. (b) False – it is unidirectional."
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "Name the two basic forms of population growth curves.",
+          "answer": "J-shaped (exponential) and S-shaped (sigmoid)."
+        },
+        {
+          "id": "2.7",
+          "type": "open",
+          "q": "Name the biotic components of a pond ecosystem.",
+          "answer": "Producers (phytoplankton and rooted plants), consumers (zooplankton, insect larvae, fish) and decomposers (bacteria and fungi)."
+        },
+        {
+          "id": "2.8",
+          "type": "open",
+          "q": "Give the levels of organisation in life from gene to biosphere.",
+          "answer": "Gene, cell, organ, organism, species, population, community, ecosystem, biome and biosphere."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "9 × 2 = 18",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "Construct a pyramid of number in a grassland with four trophic levels.",
+          "answer": "From base to top: grass (producers, very many) → grasshoppers (primary consumers, many) → frogs (secondary consumers, fewer) → snakes (tertiary consumers, fewest); the pyramid is upright with a broad base.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "Write any two biotic and two abiotic components of a pond ecosystem.",
+          "answer": "Biotic: phytoplankton and fish. Abiotic: sunlight and water (temperature, dissolved O2).",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "Explain the term commensalism with an example.",
+          "answer": "An association in which one species benefits and the other is neither harmed nor benefited; e.g. the remora fish attached to a shark, or epiphytes on trees.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "Construct a food chain showing one producer and three consumers of different trophic levels. What is the trophic level of the final consumer?",
+          "answer": "Grass → grasshopper → frog → snake. The snake, the final consumer, is at the fourth trophic level (tertiary consumer).",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "3.5",
+          "type": "open",
+          "q": "Under what conditions do the population growth curves become J-shaped and S-shaped?",
+          "answer": "J-shaped when resources are unlimited (exponential growth followed by a crash); S-shaped when resources become limiting and the population stabilises at the carrying capacity.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "3.6",
+          "type": "open",
+          "q": "Distinguish between habitat and niche.",
+          "answer": "Habitat is the place where an organism lives (its address); niche is its functional role and use of resources (its profession)."
+        },
+        {
+          "id": "3.7",
+          "type": "open",
+          "q": "What is the 10 per cent law?",
+          "answer": "Only about 10 per cent of the energy at one trophic level passes to the next; the rest is lost as heat in respiration."
+        },
+        {
+          "id": "3.8",
+          "type": "open",
+          "q": "What are decomposers? Give two examples.",
+          "answer": "Organisms that feed on dead organic matter and recycle nutrients; bacteria and fungi."
+        },
+        {
+          "id": "3.9",
+          "type": "open",
+          "q": "State two differences between a food chain and a food web.",
+          "answer": "A food chain is a single linear sequence of feeding; a food web is a network of interconnected food chains and gives stability."
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "7 × 3 = 21",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "Describe the characteristics of a population.",
+          "answer": "Density, natality, mortality, dispersal (emigration and immigration), age distribution, sex ratio and growth form; density depends on natality, mortality, immigration and emigration."
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "Explain the S-shaped population growth curve.",
+          "answer": "A lag phase with few births; a growth phase with rapid increase when food is plentiful; a stable (plateau) phase when resources become limiting and natality equals mortality."
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "Explain the energy flow in an ecosystem.",
+          "answer": "Solar energy is trapped by producers, passed to herbivores and carnivores; at each level energy is lost as heat in respiration; only 10 per cent passes on, so flow is unidirectional and the chain has 4-5 steps."
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "Explain the types of interspecific interactions with one example each.",
+          "answer": "Amensalism (Penicillium and bacteria), predation (lion and deer), parasitism (Cuscuta), competition, commensalism (remora and shark) and mutualism (sea anemone and hermit crab)."
+        },
+        {
+          "id": "4.5",
+          "type": "open",
+          "q": "Explain the structure of a pond ecosystem.",
+          "answer": "Abiotic: light, temperature, water, gases, nutrients; biotic: producers (phytoplankton, rooted plants), consumers (zooplankton, fish) and decomposers (bacteria and fungi)."
+        },
+        {
+          "id": "4.6",
+          "type": "open",
+          "q": "Write short notes on the tropical rain forest biome.",
+          "answer": "Rainfall above 200 cm, high temperature and light, humus-rich soil, high turnover of nutrients, highest productivity and biomass, with epiphytes and lianas and rich fauna."
+        },
+        {
+          "id": "4.7",
+          "type": "open",
+          "q": "Write any three adaptations of desert plants and animals.",
+          "answer": "Reduced leaves or spines, deep roots, water storage (Opuntia); camel stores fat and survives without water; burrowing rodents."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Long answer questions. Answer in 80–120 words.",
+      "marks": "4 × 5 = 20",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "Explain the levels of biological organisation and the concepts of habitat, niche and adaptation.",
+          "answer": "Gene to biosphere; habitat as address; niche as profession with examples; adaptation as a structure or behaviour helping survival, e.g. bird beaks, gills, thorns."
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "Describe the food chain, trophic levels and food web.",
+          "answer": "Producers, primary, secondary and tertiary consumers and decomposers with examples; special feeding groups; the position of humans; the food web."
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "Describe ecological pyramids and the energy flow in an ecosystem.",
+          "answer": "Pyramids of number, biomass and energy; 10 per cent law; energy is lost as heat; flow is one way."
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "Describe the major terrestrial biomes.",
+          "answer": "Tropical rain forest, temperate deciduous forest, coniferous forest, grassland, desert and tundra with climate, flora and fauna."
+        }
+      ]
+    }
+  ]
+}

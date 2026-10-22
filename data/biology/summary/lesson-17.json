@@ -1,0 +1,132 @@
+{
+  "subject": "biology",
+  "lesson": 17,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 17: Coordination and Control: The Nervous and Endocrine Systems — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Nervous system"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Terms: stimulus (change in the environment), impulse (wave of electrical disturbance along a nerve), response, receptors (receive the stimulus), effectors (muscles or glands), nerve (bundle of axons), sensory (afferent) and motor (efferent) nerves. The nervous system consists of the central nervous system (brain and spinal cord) and the peripheral nervous system (nerves). Cockroach: a supra-oesophageal ganglion (brain) above the oesophagus, a sub-oesophageal ganglion joined to it by circumoesophageal connectives, a double ventral nerve cord with three thoracic and six abdominal ganglia (compare the spinal cord, but ventral), peripheral nerves, and a sympathetic (visceral) system with frontal and visceral ganglia."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Human brain: protected by the skull and three meninges (dura mater, arachnoid, pia mater) with cerebrospinal fluid between them and in the cavities. Forebrain: cerebrum (two hemispheres; grey matter outside as cortex and white matter inside; corpus callosum joins the hemispheres; controls voluntary movement, receives and processes sensory information, thinking, reasoning and memory; the left side controls the right side of the body), thalamus (relay centre for sensory impulses) and hypothalamus (controls eating, drinking, temperature and body fluids; controls the pituitary). Midbrain. Hindbrain: cerebellum (balance and coordination of muscles), pons and medulla oblongata (centre for breathing, coughing, swallowing, heartbeat and involuntary actions). Spinal cord: white matter outside and grey matter inside; carries out reflexes below the neck and conducts impulses to and from the brain."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Peripheral nervous system: afferent (sensory) pathways and efferent (motor) pathways, the latter divided into the somatic system (voluntary muscles) and the autonomic nervous system (involuntary muscles and glands) with the sympathetic system (prepares the body for emergencies: increases heart rate, dilates pupil and air passages, raises blood glucose through adrenaline) and the parasympathetic system (restores normal conditions: slows the heart, increases digestion and salivation, constricts the pupil)."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Neuron: cell body (perikaryon) with nucleus and Nissl granules, short dendrites that receive impulses, a long axon with terminal endings and often a fatty myelin sheath (nodes of Ranvier); the synapse is the junction between neurons. Impulse conduction along a fibre is electrochemical: in the resting state the outside is positive (polarised, more Na+ outside, kept by the sodium-potassium pump using ATP); a stimulus makes the membrane permeable to Na+, causing depolarisation (inside becomes positive) and a wave of depolarisation passes forward while the previous region repolarises. Across the synapse it is chemical: acetylcholine is released from the axon ending, stimulates the next neuron and is then broken down. All-or-none principle: an impulse is set up only if the stimulus reaches the threshold and travels at its own speed."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Reflex action is an automatic, quick and involuntary response to a stimulus; simple (inborn: knee jerk, withdrawing the hand from a hot plate, coughing, blinking) and conditioned (learned: braking a vehicle, salivation on smelling tasty food, tying shoelaces). Reflex arc: stimulus → receptor → sensory neuron (dorsal root) → spinal cord (intermediate neuron) → motor neuron (ventral root) → effector (muscle or gland)."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Sense organs"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Eye: the wall has three layers: sclera (outer, white, with transparent cornea in front), choroid (middle, dark and vascular, prevents reflection) and retina (inner, with rods for dim light and cones for bright light and colour). The yellow spot (fovea) is the area of sharpest vision with the most cones; the blind spot is where the optic nerve leaves and has no sensory cells. Chambers: aqueous humour (front; keeps the lens moist) and vitreous humour (back; maintains eyeball shape). Lens: biconvex, held by suspensory ligaments attached to ciliary muscles. Iris controls the size of the pupil (circular muscles narrow it, radial muscles dilate it). Image formed on the retina is real and inverted; the brain interprets it upright. Accommodation: distant vision, ciliary muscles relaxed and lens thin; near vision, ciliary muscles contract, tension on the ligaments reduces and the lens becomes thicker. Defects: myopia (short sight; image in front of the retina; concave lens), hypermetropia (long sight; image behind the retina; convex lens) and cataract (opaque lens; surgery with an intra-ocular lens)."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Ear: external ear (pinna, auditory canal, eardrum), middle ear (tympanic cavity, three ear ossicles malleus, incus and stapes, Eustachian tube connecting the tympanic cavity to the pharynx to equalise pressure) and internal ear (cochlea with organ of Corti for hearing, filled with endolymph; semicircular canals with ampullae for static balance; utriculus and sacculus for dynamic balance). Hearing: sound waves vibrate the eardrum, then malleus, incus, stapes, oval window, fluid in the cochlea, organ of Corti, auditory nerve and brain. Tongue (taste buds), nose (olfactory epithelium) and skin (receptors for touch, pressure, heat, cold and pain)."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Endocrine system"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Endocrine (ductless) glands secrete hormones directly into the blood; exocrine glands have ducts. Hormones: carried by blood to target cells, needed in minute quantities, highly active, may be peptides, amines, glycoproteins or steroids, not stored; excess or deficiency both cause disorders. Pheromones are chemicals released outside the body to influence other individuals of the same species. Exclusively endocrine: pituitary, thyroid, parathyroid, thymus, adrenals; partially endocrine: pancreas, gonads, placenta, gastric and duodenal lining."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Pituitary (hypophysis): anterior lobe makes growth hormone (GH; undersecretion in childhood causes dwarfism, oversecretion causes gigantism, in adults acromegaly), TSH (stimulates the thyroid), ACTH (stimulates the adrenal cortex), FSH (egg formation in females, sperm formation in males; Graafian follicle) and LH (ovulation, corpus luteum, progesterone; testosterone in males); posterior lobe releases ADH or vasopressin (water reabsorption in kidney tubules; deficiency causes diabetes insipidus) and oxytocin (contraction of the uterus during childbirth and milk ejection). Thyroid: thyroxine regulates basal metabolism, growth and development; hypothyroidism causes simple goitre (iodine deficiency), cretinism (stunted growth and mental retardation in children) and myxoedema (adults); hyperthyroidism causes exophthalmic goitre (Graves' disease; protruding eyes); calcitonin lowers blood calcium by moving it to the bones. Parathyroid: parathormone raises blood calcium. Thymus: matures T-lymphocytes. Adrenal: medulla secretes adrenaline (emergency hormone: raises heart rate, BP and blood glucose); cortex secretes glucocorticoids (cortisol; glucose from amino acids; stress adaptation) and mineralocorticoids (aldosterone; sodium and water retention). Pancreas (islets of Langerhans): alpha cells glucagon (raises blood sugar by breaking glycogen), beta cells insulin (lowers blood sugar by glucose utilisation and glycogen storage; deficiency causes diabetes mellitus) and delta (gamma) cells somatostatin. Gonads: testes make testosterone (male characters); ovaries make oestrogen (from follicles; female characters, uterine lining) and progesterone (from corpus luteum; maintains pregnancy); placenta makes hCG. Gastrin (stomach), secretin and cholecystokinin (duodenum)."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Feedback mechanism: the hypothalamus releases TSH-releasing hormone, which stimulates the anterior pituitary to release TSH, which stimulates the thyroid to release thyroxine; a high thyroxine level inhibits the hypothalamus and pituitary (negative feedback) and a low level stimulates them. Hormonal versus nervous control: hormonal is slow, general effect, long-lasting, by chemicals through blood, cannot be modified by learning; nervous is rapid, localised, short-lived, by electrical impulses and synapses, and can be modified by learning."
+        ]
+      ]
+    }
+  ]
+}

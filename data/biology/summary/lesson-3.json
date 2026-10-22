@@ -1,0 +1,96 @@
+{
+  "subject": "biology",
+  "lesson": 3,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 3: Kingdoms Plantae and Animalia — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Kingdom Plantae"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Plantae are multicellular, eukaryotic autotrophs with cellulosic cell walls, all embryophytes. Divisions: Bryophyta (non-vascular), Pteridophyta (vascular, no seeds) and Spermatophyta (seed plants), the last being divided into Gymnospermae (naked seeds) and Angiospermae (seeds enclosed in the ovary; dicotyledons and monocotyledons)."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Bryophyta are the amphibians of the plant kingdom; they have no xylem or phloem and no true roots, stems or leaves; the main plant body is the haploid gametophyte, attached by rhizoids; the sex organs are antheridia (male) and archegonia (female), both jacketed; the sporophyte is dependent on the gametophyte and produces spores by meiosis. Types: liverworts (Marchantia), mosses (Funaria) and hornworts (Anthoceros). The life cycle shows alternation of generations. Bryophytes are pioneers of vegetation, soil binders and hold water. Pteridophyta (ferns) are lower vascular plants whose main plant body is the diploid sporophyte with rhizome, roots and fronds (leaves with rachis, pinnae and pinnules, young leaves circinately coiled); sporangia are in groups called sori (covered by indusium); spores grow into a free-living prothallus (gametophyte) bearing antheridia and archegonia."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Gymnosperms (Pinus, Cycas, Cedrus, Sequoia, Juniperus) bear naked ovules on ovuliferous scales in cones; plants are tall, woody and evergreen; vascular bundles in a ring with secondary growth; Pinus has winged pollen grains and dimorphic leaves; products: timber, resin, turpentine, chilgoza and sago from Cycas. Angiosperms: seeds enclosed in fruit (a mature ovary). Differences from gymnosperms: seeds enclosed versus naked; flowers versus cones; vessels present in angiosperm xylem (absent in gymnosperms). Dicots have two cotyledons, reticulate venation, tap root, pentamerous (4 or 5) flowers and collateral open bundles in a ring; monocots have one cotyledon, parallel venation, fibrous roots, trimerous flowers and scattered closed bundles."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Families: Fabaceae (pea): zygomorphic, bisexual flowers; five sepals; five petals (standard, two wings, two keel petals, papilionaceous); ten stamens in two bundles (9+1, diadelphous); superior monocarpellary ovary with marginal placentation; fruit a pod; e.g. Pisum sativum, Cajanus cajan, Arachis hypogaea. Malvaceae (china rose): actinomorphic, pentamerous flowers with epicalyx; five sepals and petals; indefinite stamens joined in a staminal tube (monadelphous); five syncarpous carpels with axile placentation; fruit capsule; e.g. Hibiscus rosa-sinensis, cotton, bhindi. Liliaceae (lily; monocot): perennial herbs with bulbs or rhizomes; trimerous, actinomorphic, hypogynous flowers; six petaloid perianth lobes; six stamens; three syncarpous carpels; fruit capsule; e.g. Allium cepa, Aloe, Asparagus. Poaceae (grass; monocot): inflorescence of spikelets; three stamens; unilocular ovary with a single basal ovule; fruit caryopsis; e.g. Oryza sativa, Triticum aestivum, Zea mays, sugarcane."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Kingdom Animalia"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Animals are multicellular, eukaryotic, heterotrophic with ingestive nutrition, locomotion and a nervous system. Basis of classification: level of organisation (cellular, tissue, organ-system), symmetry (asymmetrical, radial, bilateral), body cavity (acoelomate, pseudocoelomate, eucoelomate), embryonic layers (diploblastic, triploblastic) and the notochord (chordates versus non-chordates)."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Porifera (sponges): pores, canal system, osculum, spongocoel, spicules, asymmetrical, marine. Cnidaria (Hydra, jellyfish, corals): radial, diploblastic, cnidoblasts (stinging cells), polyp and medusa forms. Platyhelminthes (flatworms): dorsoventrally flattened, acoelomate, single opening of gut (none in tapeworm), mostly parasitic (Fasciola, Taenia); Planaria is free living. Aschelminthes (roundworms): cylindrical, pseudocoelomate, complete gut, separate sexes (Ascaris, Wuchereria). Annelida: segmented, coelomate, setae or parapodia, nephridia (earthworm Pheretima, Nereis, leech Hirudinaria). Arthropoda: jointed legs, chitinous exoskeleton, head, thorax and abdomen; classes Arachnida (4 pairs of legs, scorpion), Crustacea (prawn), Myriapoda (centipede, millipede) and Insecta (3 pairs of legs, cockroach). Mollusca: soft unsegmented body, shell, muscular foot (snail, octopus). Echinodermata: marine, radial symmetry, water vascular system with tube feet (starfish, sea urchin)."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Chordata: notochord, dorsal tubular nerve cord and gill slits at some stage. Subphyla: Urochordata (Herdmania), Cephalochordata (Amphioxus) and Vertebrata. Agnatha (jawless; Cyclostomata, Petromyzon) and Gnathostomata (jawed): Chondrichthyes (cartilaginous fish, e.g. dogfish Scoliodon, ventral mouth, no operculum), Osteichthyes (bony fish, e.g. Labeo, operculum), Amphibia (three-chambered heart, moist skin, tympanum, e.g. frog, toad), Reptilia (dry scaly skin, three-chambered heart with partial ventricle division, four-chambered in crocodiles, leathery eggs, no hair), Aves (feathers, beak, pneumatic bones, four-chambered heart, syrinx, only left ovary, forelimbs as wings), Mammalia (hair, mammary glands, pinna, four-chambered heart, thecodont and heterodont teeth, diaphragm, viviparous)."
+        ]
+      ]
+    }
+  ]
+}

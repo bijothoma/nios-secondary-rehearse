@@ -1,0 +1,87 @@
+{
+  "subject": "biology",
+  "lesson": 31,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 31: Biotechnology — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Biotechnology and its uses"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Biotechnology is the industrial application of living organisms and their biological processes (biochemistry, microbiology, genetic engineering) for the benefit of mankind. Applications: pharmaceuticals, vaccines and antibiotics (Penicillium notatum gives penicillin; Bacillus polymyxa gives polymyxin B), treating genetic disorders (gene therapy), DNA fingerprinting in forensic science, bioremediation (cleaning up the environment with living organisms), improved crops (disease, herbicide and insect resistance), pest control, industrial products, and food and drinks (cheese, yoghurt, alcohol, seedless fruits). Industrial microorganisms: yeasts, moulds, bacteria and actinomycetes; products: alcoholic drinks, yoghurt, proteins, antibiotics, monoclonal antibodies (hybridomas), vitamins, steroids, enzymes and biogas."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Alcoholic beverages: fermentation of sugars by yeast Saccharomyces cerevisiae (brewer's yeast, a fungus): glucose gives ethyl alcohol + CO2 + ATP (Louis Pasteur); wine from grapes, beer from barley malt; carried out in large tanks called bioreactors or fermenters; steps: sterilise the fermenter and medium (autoclave), select the yeast strain, inoculate (support or suspended growth), keep temperature, pH and gases right, stir and ferment, then take out the product. Bakers use yeast to leaven dough; yeast extract is a source of vitamins. Yoghurt and cheese: Lactobacillus (starter) converts lactose to lactic acid, lowering pH and curdling casein (whey separates); rennin from calf stomach is used for cheese; butter is made by churning sour milk with Streptococcus cremoris and Leuconostoc."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Antibiotics: substances produced by microorganisms that inhibit the growth of other microorganisms (Fleming discovered penicillin in 1928; Waksman coined the term in 1942). Broad-spectrum antibiotics act on many bacteria (chloramphenicol, erythromycin, tetracycline, from Streptomyces); narrow-spectrum act on few (penicillin, streptomycin). Sources: tetracycline and streptomycin from Streptomyces; penicillin from Penicillium; cephalosporin from Cephalosporium. Drawbacks: allergy, destruction of useful gut bacteria and resistance by mutation of bacteria. Vaccination: Edward Jenner (1796; vacca = cow); first-generation vaccines from attenuated or killed germs, second-generation vaccines by recombinant DNA (hepatitis B, rabies), third-generation synthetic. Vitamins: vitamin C was the first made by fermentation; B12 by propionic bacteria and B2 by microbes."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Biogas: produced by anaerobic fermentation of cowdung or organic waste by methanogenic bacteria in a digester at pH 6.8-7.6 without oxygen; the fuel is methane (with CO2); the leftover slurry is excellent manure. Advantages: cheap clean fuel, saves fossil fuels, slurry as manure and disposal of waste."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Genetic engineering"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Genetic engineering is the manipulation of genes (recombinant DNA technology): a 'cut and paste' technique. Requirements: cell culture, restriction endonuclease (molecular scissors; recognises a 4-6 base sequence and cuts it leaving sticky ends), plasmids (extra-chromosomal DNA in bacteria used as vectors; the clonal vector can also be a bacteriophage), DNA ligase (molecular glue, joins DNA fragments) and host bacteria. Steps: isolate the DNA; cut it with a restriction enzyme to get the gene fragment; cut the plasmid with the same enzyme; join the fragment into the plasmid with ligase to form recombinant DNA; put the recombinant plasmid into host bacteria; the bacteria multiply and give a clone with multiple copies of the gene, stored in a gene library. Applications: human insulin (1982, first commercial product), growth hormone, interferon, factor VIII, enzymes (proteases for detergents, amylases for beer and bread, glucoisomerases for corn syrup), antibiotics and bioengineered vaccines for rabies and hepatitis B."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Transgenic organisms carry a foreign gene (transgene): produced by microinjection of DNA into fertilised eggs or by a retroviral vector; in plants by Agrobacterium tumefaciens (a gall-producing soil bacterium) with its Ti plasmid. Examples: Bt cotton resistant to bollworm, drought-tolerant corn and soyabean, potato and tobacco making serum albumin; transgenic mice with rat growth hormone gene grew larger; goats producing tPA (dissolves blood clots) in milk; Chinese hamster making factor VIII for haemophilia A. Bioremediation: genetically engineered bacteria break down toxic pollutants (mercury-resistant bacteria). Gene therapy: replacement or correction of defective genes with normal ones to treat single-gene disorders such as SCID (absence of adenosine deaminase), haemophilia (factor VIII), sickle-cell anaemia and phenylketonuria."
+        ]
+      ]
+    }
+  ]
+}
