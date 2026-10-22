@@ -1,0 +1,241 @@
+{
+  "subject": "mass-communication",
+  "lesson": 9,
+  "title": "Characteristics of Radio",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "9 × 1 = 9",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "Why is radio deemed a passive medium?",
+          "options": [
+            "Radio is an aural medium",
+            "People do multiple chores while listening",
+            "It doesn't engage viewing",
+            "All of the above"
+          ],
+          "answer": "D",
+          "fixed": true,
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "A programme broadcast directly without pre-recording is a —",
+          "options": [
+            "live broadcast",
+            "pre-recorded programme",
+            "script",
+            "documentary"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "The written copy of words to be spoken in a radio programme is the —",
+          "options": [
+            "script",
+            "lead",
+            "caption",
+            "log"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "Who can be called the first radio broadcaster?",
+          "options": [
+            "Sanjay",
+            "Marconi",
+            "Dhritarashtra",
+            "Arjuna"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "Which is a characteristic of radio?",
+          "options": [
+            "It makes pictures in the mind",
+            "It needs literacy",
+            "It is expensive",
+            "It is slow"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "Radio does not need —",
+          "options": [
+            "electric power supply (can use batteries)",
+            "a receiver",
+            "a station",
+            "a broadcaster"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "The radio station for educational programmes mentioned in the lesson is —",
+          "options": [
+            "Gyanvani",
+            "Vividh Bharati",
+            "Radio Mirchi",
+            "FM Gold"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "One of the main limitations of radio is that it is —",
+          "options": [
+            "a one-chance medium",
+            "very expensive",
+            "not portable",
+            "slow"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "Broadcasting means —",
+          "options": [
+            "transmission of a message to the public through electronic apparatus",
+            "writing a script",
+            "printing a newspaper",
+            "recording a film"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark.",
+      "marks": "4 × 2 = 8",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "State true or false: (i) Radio is a slow medium. (ii) One has to be literate to listen to radio.",
+          "answer": "(i) False. (ii) False."
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Fill in the blanks: The three objectives of radio are to ______, ______ and ______.",
+          "answer": "inform; educate; entertain."
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "Match: (i) Broadcaster (ii) Script (iii) Live broadcast (iv) Pre-recorded programme with (a) no pre-recording (b) written words to be spoken (c) recorded for later (d) presents programmes.",
+          "answer": "(i)–(d); (ii)–(b); (iii)–(a); (iv)–(c)."
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "State true or false: (i) Radio messages are easily forgotten. (ii) Radio gives visual images.",
+          "answer": "(i) True. (ii) False."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "4 × 2 = 8",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "What is meant by 'radio is a one-chance medium'?",
+          "answer": "A listener gets only one chance to hear and understand the spoken message, which cannot be re-read like print."
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "Name any two characteristics of radio.",
+          "answer": "It makes pictures in the mind; it is fast, simple, inexpensive and portable."
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "Define broadcasting.",
+          "answer": "Any communication or transmission of a message or signal to the public through electronic apparatus."
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "Why is radio useful in rural areas?",
+          "answer": "It is cheap, battery run, needs no literacy and is the only source of news and entertainment for the rural majority."
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "3 × 3 = 9",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "Briefly discuss any three limitations of radio broadcast.",
+          "answer": "It is a one-chance medium as the spoken word is momentary; it has no visual images so is less convincing than television; and messages are easily forgotten.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "Describe the objectives of radio with examples.",
+          "answer": "To inform (water supply announcements), to educate (agriculture programmes, Gyanvani) and to entertain (film songs)."
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "Explain why radio is called a medium that 'makes pictures'.",
+          "answer": "Listeners visualise scenes from sound, e.g. commentary on the Republic Day parade, using imagination."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Long answer question. Answer in 80–120 words.",
+      "marks": "2 × 4 = 8",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "Radio as a medium has certain characteristic features. Explain.",
+          "answer": "It makes pictures, is the fastest and simplest medium, inexpensive, runs on batteries, is portable, needs no literacy and serves the rural majority with music and news."
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "Explain in detail the limitations of radio.",
+          "answer": "One-chance medium, no visuals, messages easily forgotten, poor announcers lose listeners, and no use for people with hearing disabilities."
+        }
+      ]
+    }
+  ]
+}

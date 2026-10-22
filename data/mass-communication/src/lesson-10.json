@@ -1,0 +1,50 @@
+{
+ "lesson": 10, "title": "The Radio Station", "module": 3,
+ "summary": [
+  "## Wings of a radio station",
+  "A radio station has three wings: the Programme Wing, the Engineering Wing and the Administration Wing (it provides all the support). The first two run the broadcasts.",
+  "## Studio, control room and transmitter",
+  "Radio studio: a room with a table and a microphone, a heavy door and a sound lock (an enclosed space before the door) that stops unnecessary outside sounds; walls and ceiling have perforated woollen panels; air-conditioned. A station has at least two studios; the second is the announcer's booth or transmission studio, where the announcer sits at a microphone with a computer, CD players, tape decks and a mixer. Control Room (CR): the main technical area connected with all segments; whatever is spoken in the studio or played from CD or computer reaches the control room, where technical people control the process, and it is sent to the transmitter. Flow: Studio → Control Room → Transmitter (XTR) → Listener. Transmitter: the equipment through which we receive the broadcast on our sets; its strength decides the coverage area; Low Power Transmitters (LPT, e.g. 1 KW, installed near the studio) and High Power Transmitters (HPT, 100, 200, 250 KW or above, located outside the city boundaries); Medium Wave (MW) and Short Wave (SW) transmitters.",
+  "## Functionaries of a radio station",
+  "Station Director: in charge of the station and head of the programme wing (called manager in some stations). Station Engineer: heads the engineering wing and is responsible for all technical work; engineers and technicians operate and maintain equipment and oversee the control room. Programme personnel (programme executives or producers): plan, produce, prepare and present programmes. Transmission staff (transmission executives): smooth, trouble-free transmission. Radio announcer: presents programmes and makes them interesting, conveying feeling through voice only (Amin Sayani of Binaca Geetmala). Artists: vocalists and instrumentalists, graded by experience.",
+  "## Radio broadcasting system in India",
+  "All India Radio (AIR), officially Akashvani, is a division of Prasar Bharati (Broadcasting Corporation of India), an autonomous corporation under the Ministry of Information and Broadcasting; headquarters at Akashvani Bhawan, New Delhi; one of the largest radio networks in the world. Vividh Bharati offers news, film music and comedy. AIR has a three-tier system: national (National channel started 18 May 1988 with transmitters at Nagpur, Mogra and Delhi, Hindi, English and Urdu, reaching about 76% of the population), regional (stations in states including the North-eastern service at Shillong) and local radio (area-specific, intimate, the mouthpiece of the local community). FM (Frequency Modulation) channels of AIR: FM Rainbow (12 channels) and FM Gold (4 channels), with popular Indian and Western music for urban youth plus news. Private (commercial) FM radio stations such as Radio Mirchi, Radio Mango, Big FM and Times FM have a licence to broadcast and cater to the young with music and fun. Community radio serves a limited, homogenous community with local programmes, mostly developmental, in the local language or dialect; a community radio licence is required; Anna FM, launched on 1 February 2004 at Anna University, Chennai, is India's first campus community radio."
+ ],
+ "mcq": [
+  ["Where are the high powered transmitters meant for radio broadcast located?", ["Inside the city", "Outside the city boundaries", "Anywhere", "In the studio"], "B", ["April 2026"]],
+  ["The full form of AIR is —", ["All India Radio", "Asian Internet Resource", "Audio Information Relay", "Advanced Indian Radio"], "A", ["April 2026"]],
+  ["Another name for AIR is —", ["Akashvani", "Prasar Bharati", "National Bharati", "None of the above"], "A", ["October 2024"]],
+  ["Radio Mirchi and Radio Mango are considered as —", ["Public Broadcasting Channels", "Private Broadcasting", "Community Radio", "All of the above"], "B", ["October 2024"]],
+  ["Which is NOT correct about the Station Director of a radio station?", ["He/She is in charge of the radio station", "He/She is the head of the programme wing", "In some stations the Station Director is called manager", "He/She presents the programme on radio"], "D", ["April 2025"]],
+  ["The enclosed space before the studio door that stops outside noise is the —", ["sound lock", "control room", "booth", "mixer"], "A"],
+  ["Programmes are sent from the control room to the —", ["transmitter", "studio", "script", "microphone"], "A"],
+  ["The head of the engineering wing of a radio station is the —", ["Station Engineer", "Station Director", "Announcer", "Producer"], "A"],
+  ["India's first campus community radio is —", ["Anna FM", "FM Gold", "Radio Mirchi", "Vividh Bharati"], "A"],
+  ["AIR's National channel started functioning on —", ["18 May 1988", "15 August 1947", "26 January 1950", "2 October 1969"], "A"],
+  ["AIR is a division of —", ["Prasar Bharati", "Doordarshan", "Press Council of India", "NFDC"], "A"]
+ ],
+ "objective": [
+  ["Fill in the blanks: A community radio ______ is required to operate a community radio station. These stations are expected to produce programmes in local ______.", "licence; language.", ["April 2026"]],
+  ["Match: (i) Transmitter (ii) Studio with (a) from where a presenter makes announcements (b) through which we receive the radio broadcast on our sets.", "(i)–(b); (ii)–(a).", ["October 2025"]],
+  ["Fill in the blanks: For radio, ______ and a ______ is required to receive the signals.", "a transmitter; a radio receiver (set).", ["October 2024"]],
+  ["State true or false: (a) The Chief engineer heads the programme wing. (b) Engineers are responsible for the technical quality of broadcasts.", "(a) False – the Station Director does. (b) True."],
+  ["Match: (i) Station Director (ii) Station Engineer (iii) Announcer (iv) AIR with (a) three-tier broadcasting (b) head of programme wing (c) head of engineering wing (d) presents programmes.", "(i)–(b); (ii)–(c); (iii)–(d); (iv)–(a)."],
+  ["Expand: (i) LPT (ii) HPT (iii) FM (iv) MW.", "(i) Low Power Transmitter. (ii) High Power Transmitter. (iii) Frequency Modulation. (iv) Medium Wave."]
+ ],
+ "vsa": [
+  ["Discuss the role of the Station Engineer and Radio Announcer in a radio station.", "The Station Engineer heads the engineering wing and is responsible for all technical work; the Radio Announcer presents the programmes and makes them interesting through voice.", ["October 2024"]],
+  ["List any two functionaries of a radio station with their function.", "Station Director: in charge of the station and programme wing. Programme producer: plans, produces and presents programmes.", ["April 2025"]],
+  ["What is a sound lock?", "An enclosed space with a heavy door before the studio that prevents unnecessary outside sounds from entering."],
+  ["Name the three tiers of AIR's broadcasting.", "National, regional and local."]
+ ],
+ "sa": [
+  ["Write a short note on community radio or private radio station.", "Community radio serves a limited, homogenous community with developmental programmes in the local language and needs a licence (Anna FM); private radio stations such as Radio Mirchi are licensed commercial stations giving music and fun to the youth.", ["October 2024"]],
+  ["Describe community radio and its operations. Give an example.", "Community radio caters to the interests of a limited area; it needs a licence, produces local-language programmes stressing development though entertainment is allowed; example: Anna FM, India's first campus community radio.", ["April 2025"]],
+  ["Explain the three-tier system of All India Radio.", "National channel (since 18 May 1988; news, plays, music in Hindi, English and Urdu), regional stations (middle tier, including the North-eastern service at Shillong) and local radio (area specific)."],
+  ["Describe the roles of the studio, control room and transmitter.", "Studio: sound-proof room where programmes are produced; control room: technical area that sends the programmes to the transmitter; transmitter: sends waves to the listener's radio set."]
+ ],
+ "la": [
+  ["Explain the structure and functioning of a radio station.", "Three wings: programme, engineering, administration. Studio (sound lock, woollen panels, announcer's booth) → control room → transmitter → listener. Functionaries: Station Director, Station Engineer, programme staff, transmission staff, announcers and artists.", ["April 2026"]],
+  ["Describe the role played by different functionaries of a radio station.", "Station Director, Station Engineer, technicians, programme executives, transmission executives, announcers and artists each handle planning, technical work, transmission and presentation."]
+ ]
+}

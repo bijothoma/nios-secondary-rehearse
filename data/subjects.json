@@ -2153,6 +2153,152 @@
           "file": "data/basic-computing/paper-3.json"
         }
       ]
+    },
+    {
+      "id": "mass-communication",
+      "name": "Mass Communication",
+      "label": "",
+      "level": "senior-secondary",
+      "lessons": [
+        {
+          "no": 2,
+          "title": "Introduction to Mass Communication",
+          "file": "data/mass-communication/lesson-2.json",
+          "summary": "data/mass-communication/summary/lesson-2.json"
+        },
+        {
+          "no": 3,
+          "title": "Role and Impact of Mass Media",
+          "file": "data/mass-communication/lesson-3.json",
+          "summary": "data/mass-communication/summary/lesson-3.json"
+        },
+        {
+          "no": 4,
+          "title": "Development Communication",
+          "file": "data/mass-communication/lesson-4.json",
+          "summary": "data/mass-communication/summary/lesson-4.json"
+        },
+        {
+          "no": 6,
+          "title": "What is News?",
+          "file": "data/mass-communication/lesson-6.json",
+          "summary": "data/mass-communication/summary/lesson-6.json"
+        },
+        {
+          "no": 7,
+          "title": "Reporting and Editing",
+          "file": "data/mass-communication/lesson-7.json",
+          "summary": "data/mass-communication/summary/lesson-7.json"
+        },
+        {
+          "no": 8,
+          "title": "Language Press in India",
+          "file": "data/mass-communication/lesson-8.json",
+          "summary": "data/mass-communication/summary/lesson-8.json"
+        },
+        {
+          "no": 9,
+          "title": "Characteristics of Radio",
+          "file": "data/mass-communication/lesson-9.json",
+          "summary": "data/mass-communication/summary/lesson-9.json"
+        },
+        {
+          "no": 10,
+          "title": "The Radio Station",
+          "file": "data/mass-communication/lesson-10.json",
+          "summary": "data/mass-communication/summary/lesson-10.json"
+        },
+        {
+          "no": 11,
+          "title": "Formats of Radio Programmes",
+          "file": "data/mass-communication/lesson-11.json",
+          "summary": "data/mass-communication/summary/lesson-11.json"
+        },
+        {
+          "no": 13,
+          "title": "Television in India",
+          "file": "data/mass-communication/lesson-13.json",
+          "summary": "data/mass-communication/summary/lesson-13.json"
+        },
+        {
+          "no": 15,
+          "title": "Television Channels",
+          "file": "data/mass-communication/lesson-15.json",
+          "summary": "data/mass-communication/summary/lesson-15.json"
+        },
+        {
+          "no": 16,
+          "title": "Television Programme Production",
+          "file": "data/mass-communication/lesson-16.json",
+          "summary": "data/mass-communication/summary/lesson-16.json"
+        },
+        {
+          "no": 18,
+          "title": "Advertising: An Industry",
+          "file": "data/mass-communication/lesson-18.json",
+          "summary": "data/mass-communication/summary/lesson-18.json"
+        },
+        {
+          "no": 19,
+          "title": "Public Relations: An Introduction",
+          "file": "data/mass-communication/lesson-19.json",
+          "summary": "data/mass-communication/summary/lesson-19.json"
+        },
+        {
+          "no": 22,
+          "title": "New Media: The Industry",
+          "file": "data/mass-communication/lesson-22.json",
+          "summary": "data/mass-communication/summary/lesson-22.json"
+        },
+        {
+          "no": 23,
+          "title": "New Media: Target Audience",
+          "file": "data/mass-communication/lesson-23.json",
+          "summary": "data/mass-communication/summary/lesson-23.json"
+        },
+        {
+          "no": 27,
+          "title": "Optional Module A: Comparison of Traditional Media with Electronic Media",
+          "file": "data/mass-communication/lesson-27.json",
+          "summary": "data/mass-communication/summary/lesson-27.json"
+        },
+        {
+          "no": 28,
+          "title": "Optional Module A: Communicating through Traditional Media",
+          "file": "data/mass-communication/lesson-28.json",
+          "summary": "data/mass-communication/summary/lesson-28.json"
+        },
+        {
+          "no": 29,
+          "title": "Optional Module B: Photojournalism",
+          "file": "data/mass-communication/lesson-29.json",
+          "summary": "data/mass-communication/summary/lesson-29.json"
+        },
+        {
+          "no": 30,
+          "title": "Optional Module B: Role of a Photojournalist",
+          "file": "data/mass-communication/lesson-30.json",
+          "summary": "data/mass-communication/summary/lesson-30.json"
+        },
+        {
+          "no": 901,
+          "tag": "Full paper",
+          "title": "Model Question Paper 1",
+          "file": "data/mass-communication/paper-1.json"
+        },
+        {
+          "no": 902,
+          "tag": "Full paper",
+          "title": "Model Question Paper 2",
+          "file": "data/mass-communication/paper-2.json"
+        },
+        {
+          "no": 903,
+          "tag": "Full paper",
+          "title": "Model Question Paper 3",
+          "file": "data/mass-communication/paper-3.json"
+        }
+      ]
     }
   ]
 }

@@ -1,0 +1,278 @@
+{
+  "subject": "mass-communication",
+  "lesson": 6,
+  "title": "What is News?",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "10 × 1 = 10",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "Which factor makes news more appealing to audiences?",
+          "options": [
+            "Accuracy",
+            "Human interest",
+            "Objectivity",
+            "Grammar"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "News values include —",
+          "options": [
+            "Accuracy",
+            "Timeliness",
+            "Impact",
+            "All of the above"
+          ],
+          "answer": "D",
+          "fixed": true,
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "A news value should contain —",
+          "options": [
+            "Objectivity",
+            "Clarity",
+            "Timeliness",
+            "All the above"
+          ],
+          "answer": "C",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "What transforms information into news?",
+          "options": [
+            "Song",
+            "Numbers",
+            "News value",
+            "None of these"
+          ],
+          "answer": "C",
+          "fixed": true,
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "The letters of NEWS stand for —",
+          "options": [
+            "North, East, West, South",
+            "New, East, Watch, Standard",
+            "North, Eager, Wide, South",
+            "None"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "When bird flu spreads in your own state it makes news because of —",
+          "options": [
+            "proximity",
+            "oddity",
+            "controversy",
+            "currency"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "The six questions of a perfect news item are —",
+          "options": [
+            "five Ws and one H",
+            "four Ws and two Hs",
+            "three Ws and three Hs",
+            "six Ws"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "The Kargil conflict is an example of which news value?",
+          "options": [
+            "Controversy",
+            "Oddity",
+            "Usefulness",
+            "Educational value"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "A film star's wedding is an example of —",
+          "options": [
+            "soft news",
+            "hard news",
+            "regional news",
+            "information"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "Verifying facts before printing is called —",
+          "options": [
+            "cross-checking",
+            "editing",
+            "proofreading",
+            "layout"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark.",
+      "marks": "3 × 2 = 6",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "State true or false: (i) Train timings are news. (ii) News is a report of a current event.",
+          "answer": "(i) False – it is information. (ii) True."
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Name the types of news by area.",
+          "answer": "International, national, regional and local news."
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "Match: (i) Oddity (ii) Prominence (iii) Emotion (iv) Proximity with (a) the Prime Minister's visit (b) a man pulling a car by hair (c) human interest (d) nearby events.",
+          "answer": "(i)–(b); (ii)–(a); (iii)–(c); (iv)–(d)."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "4 × 2 = 8",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "Distinguish between hard news and soft news with examples.",
+          "answer": "Hard news is serious and important, e.g. India–Pakistan talks; soft news is light and human interest, e.g. a film star's wedding.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "What is meant by objectivity and fairness in news?",
+          "answer": "Objectivity means reporting without bias; fairness means not taking sides and giving the other party's version."
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "Differentiate between news and information.",
+          "answer": "Information (train timings) is general; it becomes news when something new is added, such as a changed timetable."
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "What is meant by currency in news?",
+          "answer": "News is about current events of wide interest, e.g. the Olympic Games held in India."
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "4 × 3 = 12",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "Discuss the importance of timeliness, proximity and impact in news value.",
+          "answer": "Timeliness: news must be new (previous day for a paper, every second for a news channel). Proximity: events near us matter more (bird flu in West Bengal). Impact: events affecting many people are big news (the tsunami).",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "Write short notes on any two news values: proximity, timeliness, impact, controversy.",
+          "answer": "Timeliness: news is new and varies by medium. Impact: the wider the effect on people, the bigger the news.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "Explain the five Ws and one H of news.",
+          "answer": "When, Where, What, Why, Who and How; a news item that answers all six is complete."
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "Explain credibility, fairness and objectivity in news.",
+          "answer": "Cross-check facts; stay unbiased; hear both sides; credibility is the most important virtue because readers trust a paper for it."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Long answer question. Answer in 80–120 words.",
+      "marks": "3 × 4 = 12",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "Define news. Describe the main types of news.",
+          "answer": "News is a report of a current event, not known earlier and of wide interest. Types: international, national, regional, local; hard and soft; by subject such as politics, sports, economy, entertainment and crime."
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "Describe the news values.",
+          "answer": "Timeliness, impact, proximity, controversy, prominence, currency, oddity, emotion, usefulness and educational value, each decides whether an event is newsworthy, with examples."
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "Explain how news acts as a powerful tool.",
+          "answer": "News can be positive (voluntary service, NGO stories), negative (communal clash reports provoking tension) and developmental (fee concession for students); credibility and fairness are essential."
+        }
+      ]
+    }
+  ]
+}

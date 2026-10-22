@@ -1,0 +1,317 @@
+{
+  "subject": "mass-communication",
+  "lesson": 10,
+  "title": "The Radio Station",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "11 × 1 = 11",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "Where are the high powered transmitters meant for radio broadcast located?",
+          "options": [
+            "Inside the city",
+            "Outside the city boundaries",
+            "Anywhere",
+            "In the studio"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "The full form of AIR is —",
+          "options": [
+            "All India Radio",
+            "Asian Internet Resource",
+            "Audio Information Relay",
+            "Advanced Indian Radio"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "Another name for AIR is —",
+          "options": [
+            "Akashvani",
+            "Prasar Bharati",
+            "National Bharati",
+            "None of the above"
+          ],
+          "answer": "A",
+          "fixed": true,
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "Radio Mirchi and Radio Mango are considered as —",
+          "options": [
+            "Public Broadcasting Channels",
+            "Private Broadcasting",
+            "Community Radio",
+            "All of the above"
+          ],
+          "answer": "B",
+          "fixed": true,
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "Which is NOT correct about the Station Director of a radio station?",
+          "options": [
+            "He/She is in charge of the radio station",
+            "He/She is the head of the programme wing",
+            "In some stations the Station Director is called manager",
+            "He/She presents the programme on radio"
+          ],
+          "answer": "D",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "The enclosed space before the studio door that stops outside noise is the —",
+          "options": [
+            "sound lock",
+            "control room",
+            "booth",
+            "mixer"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "Programmes are sent from the control room to the —",
+          "options": [
+            "transmitter",
+            "studio",
+            "script",
+            "microphone"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "The head of the engineering wing of a radio station is the —",
+          "options": [
+            "Station Engineer",
+            "Station Director",
+            "Announcer",
+            "Producer"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "India's first campus community radio is —",
+          "options": [
+            "Anna FM",
+            "FM Gold",
+            "Radio Mirchi",
+            "Vividh Bharati"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "AIR's National channel started functioning on —",
+          "options": [
+            "18 May 1988",
+            "15 August 1947",
+            "26 January 1950",
+            "2 October 1969"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "AIR is a division of —",
+          "options": [
+            "Prasar Bharati",
+            "Doordarshan",
+            "Press Council of India",
+            "NFDC"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark.",
+      "marks": "6 × 2 = 12",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "Fill in the blanks: A community radio ______ is required to operate a community radio station. These stations are expected to produce programmes in local ______.",
+          "answer": "licence; language.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Match: (i) Transmitter (ii) Studio with (a) from where a presenter makes announcements (b) through which we receive the radio broadcast on our sets.",
+          "answer": "(i)–(b); (ii)–(a).",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "Fill in the blanks: For radio, ______ and a ______ is required to receive the signals.",
+          "answer": "a transmitter; a radio receiver (set).",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "State true or false: (a) The Chief engineer heads the programme wing. (b) Engineers are responsible for the technical quality of broadcasts.",
+          "answer": "(a) False – the Station Director does. (b) True."
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "Match: (i) Station Director (ii) Station Engineer (iii) Announcer (iv) AIR with (a) three-tier broadcasting (b) head of programme wing (c) head of engineering wing (d) presents programmes.",
+          "answer": "(i)–(b); (ii)–(c); (iii)–(d); (iv)–(a)."
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "Expand: (i) LPT (ii) HPT (iii) FM (iv) MW.",
+          "answer": "(i) Low Power Transmitter. (ii) High Power Transmitter. (iii) Frequency Modulation. (iv) Medium Wave."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "4 × 2 = 8",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "Discuss the role of the Station Engineer and Radio Announcer in a radio station.",
+          "answer": "The Station Engineer heads the engineering wing and is responsible for all technical work; the Radio Announcer presents the programmes and makes them interesting through voice.",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "List any two functionaries of a radio station with their function.",
+          "answer": "Station Director: in charge of the station and programme wing. Programme producer: plans, produces and presents programmes.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "What is a sound lock?",
+          "answer": "An enclosed space with a heavy door before the studio that prevents unnecessary outside sounds from entering."
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "Name the three tiers of AIR's broadcasting.",
+          "answer": "National, regional and local."
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "4 × 3 = 12",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "Write a short note on community radio or private radio station.",
+          "answer": "Community radio serves a limited, homogenous community with developmental programmes in the local language and needs a licence (Anna FM); private radio stations such as Radio Mirchi are licensed commercial stations giving music and fun to the youth.",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "Describe community radio and its operations. Give an example.",
+          "answer": "Community radio caters to the interests of a limited area; it needs a licence, produces local-language programmes stressing development though entertainment is allowed; example: Anna FM, India's first campus community radio.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "Explain the three-tier system of All India Radio.",
+          "answer": "National channel (since 18 May 1988; news, plays, music in Hindi, English and Urdu), regional stations (middle tier, including the North-eastern service at Shillong) and local radio (area specific)."
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "Describe the roles of the studio, control room and transmitter.",
+          "answer": "Studio: sound-proof room where programmes are produced; control room: technical area that sends the programmes to the transmitter; transmitter: sends waves to the listener's radio set."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Long answer question. Answer in 80–120 words.",
+      "marks": "2 × 4 = 8",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "Explain the structure and functioning of a radio station.",
+          "answer": "Three wings: programme, engineering, administration. Studio (sound lock, woollen panels, announcer's booth) → control room → transmitter → listener. Functionaries: Station Director, Station Engineer, programme staff, transmission staff, announcers and artists.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "Describe the role played by different functionaries of a radio station.",
+          "answer": "Station Director, Station Engineer, technicians, programme executives, transmission executives, announcers and artists each handle planning, technical work, transmission and presentation."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,621 @@
+{
+  "subject": "mass-communication",
+  "lesson": 902,
+  "title": "Model Question Paper 2",
+  "meta": "Time: 3 hours · Maximum marks: 80 · Modelled on the April 2026 NIOS paper",
+  "instructions": [
+    "All questions are compulsory. Where a question has OR, answer either one.",
+    "For the Optional Modules, attempt Module A (Traditional Media) or Module B (Photojournalism) in the sections that have both.",
+    "MCQs carry 1 mark; objective questions carry 2 marks (two parts of 1 mark each); very short answers carry 2 marks (30–50 words); short answers 3 marks (50–80 words); the long answer 4 marks (80–120 words).",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "15 × 1 = 15",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "Television was invented by —",
+          "options": [
+            "Baird",
+            "Marconi",
+            "Bell",
+            "Edison"
+          ],
+          "answer": "A",
+          "note": "Lesson 2."
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "The mass media are called the fourth institution of democracy because they —",
+          "options": [
+            "act as a bridge between the people and the government",
+            "make laws",
+            "decide cases",
+            "run the government"
+          ],
+          "answer": "A",
+          "note": "Lesson 3."
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "In 1975 India used satellites for telecasting television programmes, known as —",
+          "options": [
+            "SITE",
+            "DTH",
+            "ATS",
+            "All of the above"
+          ],
+          "answer": "A",
+          "fixed": true,
+          "years": [
+            "October 2024"
+          ],
+          "note": "Lesson 4."
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "Which factor makes news more appealing to audiences?",
+          "options": [
+            "Accuracy",
+            "Human interest",
+            "Objectivity",
+            "Grammar"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 6."
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "The first war correspondent mentioned in the lesson is —",
+          "options": [
+            "Sanjay",
+            "Narada",
+            "Vyasa",
+            "Arjuna"
+          ],
+          "answer": "A",
+          "note": "Lesson 7."
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "The Audit Bureau of Circulation was established in —",
+          "options": [
+            "1948",
+            "1956",
+            "1822",
+            "1990"
+          ],
+          "answer": "A",
+          "note": "Lesson 8."
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "Radio does not need —",
+          "options": [
+            "electric power supply (can use batteries)",
+            "a receiver",
+            "a station",
+            "a broadcaster"
+          ],
+          "answer": "A",
+          "note": "Lesson 9."
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "Another name for AIR is —",
+          "options": [
+            "Akashvani",
+            "Prasar Bharati",
+            "National Bharati",
+            "None of the above"
+          ],
+          "answer": "A",
+          "fixed": true,
+          "years": [
+            "October 2024"
+          ],
+          "note": "Lesson 10."
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "AIR started its internet services on —",
+          "options": [
+            "1 May 1998",
+            "15 August 1997",
+            "26 January 2000",
+            "2 October 1990"
+          ],
+          "answer": "A",
+          "note": "Lesson 11."
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "Prasar Bharati was established in —",
+          "options": [
+            "1997",
+            "1976",
+            "1982",
+            "1959"
+          ],
+          "answer": "A",
+          "note": "Lesson 13."
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "Cutting recorded visuals to the appropriate length is part of —",
+          "options": [
+            "post-production",
+            "pre-production",
+            "production",
+            "transmission"
+          ],
+          "answer": "A",
+          "note": "Lesson 16."
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "A person using any product or service is a —",
+          "options": [
+            "consumer",
+            "freelancer",
+            "visualizer",
+            "planner"
+          ],
+          "answer": "A",
+          "note": "Lesson 18."
+        },
+        {
+          "id": "1.13",
+          "type": "mcq",
+          "q": "The head of PIB, the official spokesperson of the Government of India, is the —",
+          "options": [
+            "Principal Information Officer",
+            "Prime Minister",
+            "Station Director",
+            "Registrar"
+          ],
+          "answer": "A",
+          "note": "Lesson 19."
+        },
+        {
+          "id": "1.14",
+          "type": "mcq",
+          "q": "Which of the following is an example of new media platforms?",
+          "options": [
+            "E-Libraries",
+            "Websites",
+            "Blogs",
+            "All of the above"
+          ],
+          "answer": "D",
+          "fixed": true,
+          "years": [
+            "October 2024"
+          ],
+          "note": "Lesson 22."
+        },
+        {
+          "id": "1.15",
+          "type": "mcq",
+          "q": "Which factor makes news more appealing to youth in new media?",
+          "options": [
+            "Narrative, human interest style",
+            "Long text",
+            "No visuals",
+            "Complex words"
+          ],
+          "answer": "A",
+          "note": "Lesson 23."
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Optional Module A (Traditional Media): attempt A or Module B. Choose the correct answer.",
+      "marks": "1 × 1 = 1",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "mcq",
+          "q": "The greatest advantage of traditional media over electronic media is their —",
+          "options": [
+            "flexibility in accommodating new themes",
+            "wide archiving",
+            "high cost",
+            "need for training"
+          ],
+          "answer": "A",
+          "note": "Lesson 27."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Optional Module B (Photojournalism): attempt B or Module A. Choose the correct answer.",
+      "marks": "1 × 1 = 1",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "mcq",
+          "q": "The most common rule of framing is the —",
+          "options": [
+            "rule of thirds",
+            "rule of halves",
+            "rule of fours",
+            "rule of nines"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 29."
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Objective type questions: each has two parts of 1 mark.",
+      "marks": "9 × 2 = 18",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "Fill in the blanks: Mass communication is 'public communication transmitted ______ or ______'.",
+          "answer": "electronically; mechanically.",
+          "note": "Lesson 2."
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "State true or false: (i) Mass media have a strict code of conduct like doctors. (ii) Media can change people's attitudes and habits.",
+          "answer": "(i) False. (ii) True.",
+          "note": "Lesson 3."
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "State true or false: (i) Traditional media are closest to people needing development messages. (ii) Comics should be created by outsiders.",
+          "answer": "(i) True. (ii) False – they should be created locally.",
+          "note": "Lesson 4."
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "Match: (i) Oddity (ii) Prominence (iii) Emotion (iv) Proximity with (a) the Prime Minister's visit (b) a man pulling a car by hair (c) human interest (d) nearby events.",
+          "answer": "(i)–(b); (ii)–(a); (iii)–(c); (iv)–(d).",
+          "note": "Lesson 6."
+        },
+        {
+          "id": "4.5",
+          "type": "open",
+          "q": "Which of the given pairs are attributes of an effective journalist: clarity and sincerity, or friendly and lazy?",
+          "answer": "Clarity and sincerity.",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 7."
+        },
+        {
+          "id": "4.6",
+          "type": "open",
+          "q": "Fill in the blanks: The three countries with the highest circulation are ______, ______ and ______.",
+          "answer": "China; India; Japan.",
+          "note": "Lesson 8."
+        },
+        {
+          "id": "4.7",
+          "type": "open",
+          "q": "Fill in the blanks: The three objectives of radio are to ______, ______ and ______.",
+          "answer": "inform; educate; entertain.",
+          "note": "Lesson 9."
+        },
+        {
+          "id": "4.8",
+          "type": "open",
+          "q": "State true or false: (a) Customization of news means whatever kind of news interests you will be sent to you. (b) News stories for new media are kept very short and crisp.",
+          "answer": "(a) True. (b) True.",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 22."
+        },
+        {
+          "id": "4.9",
+          "type": "open",
+          "q": "State true or false: (i) We develop interpersonal skills when we deal with people. (ii) Children today are generally found to be socially active.",
+          "answer": "(i) True. (ii) False.",
+          "note": "Lesson 23."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Optional Module A (Traditional Media): attempt A or Module B. Objective type questions: two parts of 1 mark.",
+      "marks": "3 × 2 = 6",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "Fill in the blanks: Integration of traditional media with electronic media should retain the ______ of the traditional form.",
+          "answer": "originality (authenticity).",
+          "note": "Lesson 27."
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "Name any two advantages of electronic media.",
+          "answer": "Wide outreach; messages in no time to many people; recording and archiving (any two).",
+          "note": "Lesson 27."
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "Name any two government bodies promoting traditional media.",
+          "answer": "Song and Drama Division and Sangeet Natak Akademi (also Lalit Kala Academy).",
+          "note": "Lesson 28."
+        }
+      ]
+    },
+    {
+      "no": 6,
+      "title": "Optional Module B (Photojournalism): attempt B or Module A. Objective type questions: two parts of 1 mark.",
+      "marks": "3 × 2 = 6",
+      "questions": [
+        {
+          "id": "6.1",
+          "type": "open",
+          "q": "State true or false: (a) A photo editor is the overall in-charge of the photo section in a newspaper. (b) A photo feature is also called a photo essay.",
+          "answer": "(a) True. (b) True.",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 29."
+        },
+        {
+          "id": "6.2",
+          "type": "open",
+          "q": "Fill in the blanks: A photo feature is also called a ______; it is a story or essay told using ______.",
+          "answer": "photo essay; photographs.",
+          "years": [
+            "October 2024",
+            "April 2026"
+          ],
+          "note": "Lesson 29."
+        },
+        {
+          "id": "6.3",
+          "type": "open",
+          "q": "Match: (i) Raja Deen Dayal (ii) Raghu Rai with (a) a court photographer during the rule of the sixth Nizam of Hyderabad (b) a photojournalist during the 1960s in Delhi.",
+          "answer": "(i)–(a); (ii)–(b).",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 30."
+        }
+      ]
+    },
+    {
+      "no": 7,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "5 × 2 = 10",
+      "questions": [
+        {
+          "id": "7.1",
+          "type": "open",
+          "q": "Define development communication.",
+          "answer": "The use of communication to promote development, i.e. to change or improve social and economic conditions of people.",
+          "note": "Lesson 4."
+        },
+        {
+          "id": "7.2",
+          "type": "open",
+          "q": "What are language newspapers?",
+          "answer": "Newspapers published in the different Indian languages; they are also called regional newspapers.",
+          "note": "Lesson 8."
+        },
+        {
+          "id": "7.3",
+          "type": "open",
+          "q": "What is a signature tune?",
+          "answer": "A piece of music specific to a programme, like the masthead of a magazine, played at the beginning.",
+          "note": "Lesson 11."
+        },
+        {
+          "id": "7.4",
+          "type": "open",
+          "q": "Differentiate between studio and outdoor recording.",
+          "answer": "Studio recording is within the four walls of a studio; outdoor recording is shooting outside it.",
+          "note": "Lesson 16."
+        },
+        {
+          "id": "7.5",
+          "type": "open",
+          "q": "Give any two examples of new media.",
+          "answer": "Websites and blogs (also social networking sites, online libraries, e-learning).",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 22."
+        }
+      ]
+    },
+    {
+      "no": 8,
+      "title": "Optional Module A (Traditional Media): attempt A or Module B. Very short answer questions. Answer in 30–50 words.",
+      "marks": "2 × 2 = 4",
+      "questions": [
+        {
+          "id": "8.1",
+          "type": "open",
+          "q": "What should be done while integrating traditional media with electronic media for development purposes? Write any two points of consideration.",
+          "answer": "Retain the social authenticity and original form of the traditional media; choose a suitable form for the region; keep collaboration between folk artists and producers.",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 27."
+        },
+        {
+          "id": "8.2",
+          "type": "open",
+          "q": "What is a ballad?",
+          "answer": "A poem usually set to music, often a story told as a song; used for messages on environment or dowry.",
+          "note": "Lesson 28."
+        }
+      ]
+    },
+    {
+      "no": 9,
+      "title": "Optional Module B (Photojournalism): attempt B or Module A. Very short answer questions. Answer in 30–50 words.",
+      "marks": "2 × 2 = 4",
+      "questions": [
+        {
+          "id": "9.1",
+          "type": "open",
+          "q": "Who is a photojournalist? What is meant by wildlife photojournalism?",
+          "answer": "A photojournalist is a news photographer whose pictures support news stories; wildlife photojournalism photographs animals, needing advanced equipment and knowledge of animal behaviour and terrain.",
+          "years": [
+            "October 2024"
+          ],
+          "note": "Lesson 29."
+        },
+        {
+          "id": "9.2",
+          "type": "open",
+          "q": "Name any two famous photojournalists of India with their work.",
+          "answer": "Raghu Rai – photographs of Indira Gandhi and Bhopal gas tragedy; Homai Vyarawalla – first woman photojournalist covering World War II.",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 30."
+        }
+      ]
+    },
+    {
+      "no": 10,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "6 × 3 = 18",
+      "questions": [
+        {
+          "id": "10.1",
+          "type": "open",
+          "q": "Define mass communication and its process with 'channel of communication' using a flow diagram.",
+          "answer": "Mass communication is public communication transmitted electronically or mechanically. Process: Communicator (who) → Message (says what) → Channel (newspaper, radio, TV) → Receiver (to whom) → Effect (with what effect), with feedback from the receiver.",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 2."
+        },
+        {
+          "id": "10.2",
+          "type": "open",
+          "q": "Explain credibility, fairness and objectivity in news.",
+          "answer": "Cross-check facts; stay unbiased; hear both sides; credibility is the most important virtue because readers trust a paper for it.",
+          "note": "Lesson 6."
+        },
+        {
+          "id": "10.3",
+          "type": "open",
+          "q": "Explain why radio is called a medium that 'makes pictures'.",
+          "answer": "Listeners visualise scenes from sound, e.g. commentary on the Republic Day parade, using imagination.",
+          "note": "Lesson 9."
+        },
+        {
+          "id": "10.4",
+          "type": "open",
+          "q": "Explain how private channels emerged in India.",
+          "answer": "The Gulf War coverage by CNN led to satellite dishes and cable; STAR and an Indian company created Zee TV; the Supreme Court ruling of 1995 broke the government's monopoly of airwaves; regional channels followed.",
+          "note": "Lesson 13."
+        },
+        {
+          "id": "10.5",
+          "type": "open",
+          "q": "List three advertising principles and briefly describe them with examples.",
+          "answer": "Gain attention (size, colour, slogan); stimulate desire (make the product seem special or cool); impart conviction (show certainty, e.g. a fairness cream promising success).",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 18."
+        },
+        {
+          "id": "10.6",
+          "type": "open",
+          "q": "Discuss the impact of new media on interpersonal relations.",
+          "answer": "Youth chat online without meeting, so talking, listening and sharing skills and confidence suffer; balance and regulation of internet use are needed.",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 23."
+        }
+      ]
+    },
+    {
+      "no": 11,
+      "title": "Long answer question. Answer in 80–120 words.",
+      "marks": "1 × 4 = 4",
+      "questions": [
+        {
+          "id": "11.1",
+          "type": "open",
+          "q": "What is meant by the 'inverted pyramid' method of writing? Explain in detail.",
+          "answer": "The most important facts come in the opening paragraphs; importance narrows down to the end; the least important details come last and can be cut without harming the story; it keeps the reader's interest and suits the lead.",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 7."
+        }
+      ]
+    },
+    {
+      "no": 12,
+      "title": "Optional Module A (Traditional Media): attempt A or Module B. Long answer question. Answer in 80–120 words.",
+      "marks": "1 × 4 = 4",
+      "questions": [
+        {
+          "id": "12.1",
+          "type": "open",
+          "q": "Write down any four advantages of traditional media that distinguish them from electronic media. Give examples.",
+          "answer": "Local and live with direct rapport (street play); flexible to new themes (tamasha); cost effective and need no special training (folk songs); immediate known feedback and emotional appeal.",
+          "years": [
+            "October 2024"
+          ],
+          "note": "Lesson 27."
+        }
+      ]
+    },
+    {
+      "no": 13,
+      "title": "Optional Module B (Photojournalism): attempt B or Module A. Long answer question. Answer in 80–120 words.",
+      "marks": "1 × 4 = 4",
+      "questions": [
+        {
+          "id": "13.1",
+          "type": "open",
+          "q": "Explain the role of photographs in news reporting.",
+          "answer": "Photographs support written news with authority and emphasis, convey the news at a glance (a single picture is worth a thousand words), enhance the lead story, tell stories through photo essays and use composition for impact.",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 29."
+        }
+      ]
+    }
+  ]
+}

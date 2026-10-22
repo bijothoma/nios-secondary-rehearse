@@ -148,6 +148,12 @@ question's own short note.
   All 15 lessons of the textbook are included (NIOS has no bifurcation for this course; the textbook PDF came from
   nios.ac.in). Past-paper questions of April 2024 to April 2026 are tagged by exam. `build_sci.py` now deals a
   section that only some lessons have (the steps question, only in Digital Documentation) over those lessons.
+- `tools/build_mass_comm.py`: builds Senior Secondary Mass Communication (335) from
+  `data/mass-communication/src/lesson-<n>.json` with `build_sci.py` (43 questions, 80 marks: 16 MCQs, twelve 2-mark
+  objective questions, seven 2-mark, six 3-mark and two 4-mark answers). The 16 core public-exam lessons are included
+  plus the optional-module lessons (27 and 28 for Module A, Traditional Media; 29 and 30 for Module B, Photojournalism).
+  A full paper shows both optional modules (a student answers one). Textbook PDFs came from nios.ac.in; past papers
+  (April 2024 to April 2026 tagged) came from the Senior Secondary session archives.
 - All of these builders share `build_question` in `tools/build_ss.py`. It marks an MCQ `fixed` (options
   keep their printed order instead of being shuffled) when an option refers to the others, such as
   "all of these", "none of the above" or "both (A) and (B)".

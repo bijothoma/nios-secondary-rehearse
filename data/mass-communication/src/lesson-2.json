@@ -1,0 +1,45 @@
+{
+ "lesson": 2, "title": "Introduction to Mass Communication", "module": 1,
+ "summary": [
+  "## Meaning of mass communication",
+  "The simplest definition of mass communication is 'public communication transmitted electronically or mechanically'. Messages are sent to large, perhaps millions or billions of people through mass media such as newspapers, magazines, films, radio, television and the internet. Media is the plural of medium, 'means of communication', also called the channel of communication. Mass communication can be defined as 'who' (communicator) 'says what' (message) 'in which channel' (medium) 'to whom' (receiver) 'with what effect' (impact of the message, e.g. a change of attitude towards dowry).",
+  "## Functions of mass communication",
+  "The functions of media are to inform (news bulletins), educate (a doctor speaking on prevention of disease, experts telling farmers about new seeds) and entertain (films, serials, music programmes). Examples of effect: the Green Revolution (radio told farmers to use the right seed and fertilizers), small family norm and the polio campaign ('Do boond zindagi ki').",
+  "## Origin",
+  "Mass communication is a 20th century development. Men on horseback and pigeons carried messages; Kalidasa's Meghdoot used clouds as messenger. Paper (the Chinese used it in 105 AD; the word comes from papyrus), printing (Johannes Gutenberg of Germany, about 1439), newspapers, the telegraph (Samuel Morse, 1835; International Morse Code 1851), the telephone (Alexander Graham Bell, 1876), radio (Marconi, 1901), the transistor (1947, which made radio the most popular medium) and television (Baird, 1920) were the steps. Newspapers have limitations of time and need literate readers; the radio was the first truly mass medium.",
+  "## Different forms of mass media",
+  "Newspapers and journalism (first published in the 17th century in Germany, Italy and the Netherlands; in India Raja Rammohan Roy, Bal Gangadhar Tilak and Mahatma Gandhi used journalism in the freedom movement; Gandhiji started Indian Opinion in 1903 in South Africa, Harijan and wrote for Young India). Wireless communication (the cell phone). Photography (Niepce and Daguerre of France, 19th century). Films (Edison in the USA and the Lumiere brothers in France; talkies in 1927; the first Indian motion picture Raja Harishchandra by Dadasaheb Phalke; first Indian talkie Alam Ara). Radio (first formal radio station in Bombay; radio in India by the 1920s). Television (Baird, 1920; started in India in 1959 on an experimental basis, first station in Delhi; colour in 1982; satellite TV from early 1990s and DTH). New media (computers, information technology, communication networks and digital media) bring convergence, the coming together of many media forms. Traditional media are rooted in oral tradition and culture (story telling, folk songs, street theatre, puppetry, Ram Lila); performers and audience know each other and people never tire of them."
+ ],
+ "mcq": [
+  ["The main purpose of mass communication is to —", ["Entertain only", "Inform, educate and entertain", "Advertise products", "Control the audience"], "B", ["April 2026"]],
+  ["What does channel signify in communication?", ["Medium or means", "Receiver", "Text", "Effect"], "A", ["October 2024"]],
+  ["______ was the first talkie film in Indian cinema.", ["Kaliya Mardan", "Raja Harishchandra", "Alam Ara", "Kisan Kanya"], "C", ["October 2024"]],
+  ["Who invented the radio in 1901?", ["Baird", "Marconi", "Morse", "Bell"], "B"],
+  ["Who is credited with developing printing around 1439?", ["Johannes Gutenberg", "Samuel Morse", "Edison", "Daguerre"], "A"],
+  ["The first Indian motion picture was —", ["Alam Ara", "Raja Harishchandra", "Kisan Kanya", "Kaliya Mardan"], "B"],
+  ["Which of the following is NOT a function of mass media?", ["Inform", "Educate", "Entertain", "Punish"], "D"],
+  ["'With what effect' in the definition of mass communication refers to —", ["the impact of the message", "the sender", "the channel", "the receiver"], "A"],
+  ["Television was invented by —", ["Baird", "Marconi", "Bell", "Edison"], "A"]
+ ],
+ "objective": [
+  ["Fill in the blanks: Mass communication is 'public communication transmitted ______ or ______'.", "electronically; mechanically."],
+  ["State true or false: (i) The telegraph was invented by Samuel Morse in 1835. (ii) Television started in India in 1959.", "(i) True. (ii) True."],
+  ["Match: (i) Paper (ii) Gutenberg (iii) Marconi (iv) Baird with (a) radio (b) television (c) printing (d) papyrus.", "(i)–(d); (ii)–(c); (iii)–(a); (iv)–(b)."],
+  ["Fill in the blanks: Mahatma Gandhi started ______ in South Africa in 1903 and wrote for ______ in India.", "Indian Opinion; Young India."]
+ ],
+ "vsa": [
+  ["How can we define mass communication in the simplest way?", "Mass communication is public communication transmitted electronically or mechanically to a large audience through the mass media.", ["October 2024"]],
+  ["Describe any two forms of mass media with examples.", "Newspapers inform people of events and views, e.g. daily newspapers; television gives audio-visual programmes, e.g. news and serials on Doordarshan.", ["October 2024"]],
+  ["Name the three functions of mass media with one example each.", "Inform – news bulletin; educate – a doctor's talk on preventing disease; entertain – films and serials."],
+  ["What is convergence?", "The coming together of many forms of media and formats such as printed text, photographs, films, radio and television in new media."]
+ ],
+ "sa": [
+  ["Define mass communication and its process with 'channel of communication' using a flow diagram.", "Mass communication is public communication transmitted electronically or mechanically. Process: Communicator (who) → Message (says what) → Channel (newspaper, radio, TV) → Receiver (to whom) → Effect (with what effect), with feedback from the receiver.", ["October 2025"]],
+  ["Explain the functions of mass communication.", "It informs through news, educates through talks and campaigns (Green Revolution, polio), and entertains through films, serials and music."],
+  ["Describe the origin of mass communication.", "From horse messengers and pigeons to paper, printing (Gutenberg), telegraph (Morse 1835), telephone (Bell 1876), radio (Marconi 1901), transistor (1947) and television (Baird 1920)."]
+ ],
+ "la": [
+  ["Explain briefly the different forms of mass media.", "Newspapers and journalism, wireless communication, photography, films, radio, television, new media with convergence, and traditional media such as folk songs, street theatre and puppetry; each reaches large audiences in its own way."],
+  ["Describe the functions and origin of mass communication.", "Functions: inform, educate, entertain, and bring effect. Origin: invention of paper and printing, newspapers, telegraph, telephone, radio, transistor, television; it developed fully in the 20th century."]
+ ]
+}

@@ -1,0 +1,49 @@
+{
+ "lesson": 16, "title": "Television Programme Production", "module": 4,
+ "summary": [
+  "## Stages of programme production",
+  "Like preparing a dinner (planning the menu and arranging ingredients, cooking, presenting), a television programme is made in three stages. (1) Pre-production: everything done before entering the studio or reaching the location: idea generation, research, scripting, discussions with crew and talent, arranging equipment, tapes, properties, costumes, set designing or location hunting and booking editing shifts. The most important element is a clear idea and a detailed script; planning everything in advance makes the other two stages easy. (2) Production: on the studio floor or location, when actually shooting: managing facilities, handling talent and crew, controlling the crowd, shooting without hurdles and solving problems on the spot. (3) Post-production: giving final shape: cutting visuals to length, arranging them in sequence, effects, text and captions, commentary recording, music recording and final assembly (editing).",
+  "## Equipment",
+  "Camera: the most basic equipment; the lens forms an optical image which the camera converts into an electrical (video) signal. Lights: give the camera adequate illumination, show viewers what objects look like (season and time of day) and establish the general mood. Microphone: converts sound waves into electrical audio signals (different types for news anchors, tennis matches, rock concerts); the signal is amplified and reconverted by a loudspeaker. Sound recorder: records the sound picked up by the microphone; can select a microphone, amplify a weak signal, control volume and quality, and mix two or more sources. Videotape recorder: visuals recorded on video tape or computer disk before telecast. Post-production editing machine: selects the relevant visuals and copies them in a specific order (editing); it cannot make creative decisions for you.",
+  "## Key professionals",
+  "Television production is a team effort. Producer: head of the production, manages the budget, coordinates with advertising agencies, actors and writers and with technical and non-technical elements. Director: directs actors and technical operations; transforms the script into audio and video; decides camera placement, visuals and positions of actors. Production assistant: facilitates smooth execution and assists the producer and director. Script writer: writes the script (dialogues, list of actors, costumes, mood, locations). Actors perform roles. Anchor: presents a programme formally (news anchors, reality show anchors). Cameraperson (videographer): operates cameras, often lighting in small productions. Sound recordist: records the sound track (dialogue, effects) and background music. Art director: in charge of creative design aspects (set design, location and graphics). Property manager: manages sets and properties in large productions. Floor manager (floor director or stage manager): in charge of all activities on the studio floor, conveys the director's instructions and supervises floor personnel. Costume designer: designs and sometimes constructs costumes.",
+  "## Studio and outdoor recording; live and recorded programmes",
+  "Studio recording is done within the four walls of a studio; outdoor recording is shooting outside it. Live programmes (cricket match, Republic Day parade) depend entirely on the performance of talent and crew, are made speedily and generate excitement; recorded programmes offer retakes, can be polished and edited and have a better chance of marketing but lack the excitement. Pre-production research and paper work is a must for both."
+ ],
+ "mcq": [
+  ["The first stage of programme production is —", ["Production", "Post-production", "Pre-production", "Distribution"], "C", ["April 2026"]],
+  ["Which function is performed during the pre-production stage of a television programme?", ["Managing crowd", "Shooting", "Idea generation", "Caption writing"], "C", ["April 2026"]],
+  ["______ and ______ are part of the pre-production stage.", ["Idea generation and scriptwriting", "Editing and shooting", "Camera and recording", "All of the above"], "A", ["October 2024"]],
+  ["The most basic equipment in any production is the —", ["camera", "microphone", "light", "recorder"], "A"],
+  ["What converts sound waves into electrical signals?", ["Microphone", "Camera", "Lights", "Switcher"], "A"],
+  ["Who is in charge of all activities on the studio floor?", ["Floor manager", "Director", "Anchor", "Cameraperson"], "A"],
+  ["Who is the head of the television production and manages the budget?", ["Producer", "Director", "Script writer", "Costume designer"], "A"],
+  ["Cutting recorded visuals to the appropriate length is part of —", ["post-production", "pre-production", "production", "transmission"], "A"],
+  ["Which is an advantage of live programmes?", ["They generate excitement", "They allow retakes", "They are easy to market", "They can be edited later"], "A"],
+  ["The art director is in charge of —", ["creative design aspects such as sets and graphics", "recording sound", "operating cameras", "writing the script"], "A"]
+ ],
+ "objective": [
+  ["Match: (i) Art Director (ii) Cameraperson with (a) Handles visuals (b) Handles creative design aspects.", "(i)–(b); (ii)–(a).", ["April 2026"]],
+  ["Match: (i) Script writers (ii) Anchor with (a) Writes for programmes (b) Presents programmes.", "(i)–(a); (ii)–(b).", ["April 2026"]],
+  ["State true or false: (i) Lighting any object or individual establishes the general mood of the event in television production. (ii) The Production Assistant facilitates all that is required for the smooth execution of the television production.", "(i) True. (ii) True.", ["October 2025"]],
+  ["Fill in the blanks: ______ and ______ are part of the pre-production stage.", "Idea generation; scriptwriting.", ["October 2024"]],
+  ["Fill in the blanks: A television camera converts the ______ image into ______ signals.", "optical; electrical (video)."],
+  ["Arrange in order: post-production, pre-production, production.", "1. Pre-production; 2. Production; 3. Post-production."]
+ ],
+ "vsa": [
+  ["List any two types of equipment and their functions used in studio recording.", "Microphone converts sound into electrical signals; camera converts the optical image into a video signal (also lights illuminate, sound recorder records and mixes sound).", ["April 2025"]],
+  ["Briefly describe the work profile of any two of: Art Director, Costume Designer, Property Manager.", "Art Director is in charge of creative design (sets, location, graphics); Costume Designer designs and sometimes constructs costumes.", ["October 2025"]],
+  ["What is post-production?", "The stage of final shaping: cutting, sequencing, effects, captions, commentary, music and final assembly."],
+  ["What is the role of a floor manager?", "He is in charge of all activities on the studio floor, conveys the director's instructions and supervises floor personnel."],
+  ["Differentiate between studio and outdoor recording.", "Studio recording is within the four walls of a studio; outdoor recording is shooting outside it."]
+ ],
+ "sa": [
+  ["Explain the stages of television programme production.", "Pre-production: idea, research, script, arranging equipment and sets. Production: shooting with the crew and talent on the floor or location. Post-production: editing, captions, commentary, music and final assembly.", ["April 2026"]],
+  ["Describe the roles of the producer, director and script writer.", "The producer heads the production, budget and coordination; the director directs actors and technical operations and turns the script into audio-visuals; the script writer writes dialogues, costumes, mood and locations."],
+  ["Compare live and recorded programmes.", "Live programmes generate excitement and can be made speedily but depend on the crew's performance; recorded programmes allow retakes and editing and market better but lack excitement."]
+ ],
+ "la": [
+  ["Explain the production process of a television programme with the equipment required.", "Three stages: pre-production (idea, script), production (shooting with camera, lights, microphone and sound recorder) and post-production (editing on the editing machine); the team includes producer, director, anchor and crew."],
+  ["Describe the work profile of the key professionals involved in programme production.", "Producer, director, production assistant, script writer, actors, anchor, cameraperson, sound recordist, art director, property manager, floor manager and costume designer each play a crucial role in the team effort."]
+ ]
+}

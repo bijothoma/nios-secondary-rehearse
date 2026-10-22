@@ -1,0 +1,632 @@
+{
+  "subject": "mass-communication",
+  "lesson": 901,
+  "title": "Model Question Paper 1",
+  "meta": "Time: 3 hours · Maximum marks: 80 · Modelled on the April 2026 NIOS paper",
+  "instructions": [
+    "All questions are compulsory. Where a question has OR, answer either one.",
+    "For the Optional Modules, attempt Module A (Traditional Media) or Module B (Photojournalism) in the sections that have both.",
+    "MCQs carry 1 mark; objective questions carry 2 marks (two parts of 1 mark each); very short answers carry 2 marks (30–50 words); short answers 3 marks (50–80 words); the long answer 4 marks (80–120 words).",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "15 × 1 = 15",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "What does channel signify in communication?",
+          "options": [
+            "Medium or means",
+            "Receiver",
+            "Text",
+            "Effect"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2024"
+          ],
+          "note": "Lesson 2."
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "Which of the following is NOT a part of a modern democratic government?",
+          "options": [
+            "Legislature",
+            "Executive",
+            "Judiciary",
+            "Mass media company"
+          ],
+          "answer": "D",
+          "note": "Lesson 3."
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "Development communication is the use of communication to —",
+          "options": [
+            "promote development",
+            "sell goods",
+            "entertain only",
+            "collect taxes"
+          ],
+          "answer": "A",
+          "note": "Lesson 4."
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "The letters of NEWS stand for —",
+          "options": [
+            "North, East, West, South",
+            "New, East, Watch, Standard",
+            "North, Eager, Wide, South",
+            "None"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 6."
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "Preparing the page of a newspaper is called —",
+          "options": [
+            "page making",
+            "proofreading",
+            "printing",
+            "binding"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 7."
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "Which state publishes the largest number of newspapers in a single language?",
+          "options": [
+            "Uttar Pradesh",
+            "Kerala",
+            "Punjab",
+            "Tamil Nadu"
+          ],
+          "answer": "A",
+          "note": "Lesson 8."
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "One of the main limitations of radio is that it is —",
+          "options": [
+            "a one-chance medium",
+            "very expensive",
+            "not portable",
+            "slow"
+          ],
+          "answer": "A",
+          "note": "Lesson 9."
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "India's first campus community radio is —",
+          "options": [
+            "Anna FM",
+            "FM Gold",
+            "Radio Mirchi",
+            "Vividh Bharati"
+          ],
+          "answer": "A",
+          "note": "Lesson 10."
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "Thumri and Dadra are which forms of music?",
+          "options": [
+            "Folk music",
+            "Western Classical",
+            "Light Classical music",
+            "Instrumental music"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 11."
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "An oversimplified, standardized image of a person or group created in television programmes is called —",
+          "options": [
+            "Stereotype",
+            "Couch Potato",
+            "Both (A) & (B)",
+            "Neither (A) nor (B)"
+          ],
+          "answer": "A",
+          "fixed": true,
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 13."
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "Children mostly prefer watching —",
+          "options": [
+            "News channels",
+            "Cartoon channels",
+            "Sports channels",
+            "Documentary channels"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 15."
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "______ and ______ are part of the pre-production stage.",
+          "options": [
+            "Idea generation and scriptwriting",
+            "Editing and shooting",
+            "Camera and recording",
+            "All of the above"
+          ],
+          "answer": "A",
+          "fixed": true,
+          "years": [
+            "October 2024"
+          ],
+          "note": "Lesson 16."
+        },
+        {
+          "id": "1.13",
+          "type": "mcq",
+          "q": "Which of the following activities does a visualizer perform?",
+          "options": [
+            "Slogan designing",
+            "Marketing",
+            "Media planning",
+            "Media research"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 18."
+        },
+        {
+          "id": "1.14",
+          "type": "mcq",
+          "q": "Setting up public libraries and sponsoring public events are tools of —",
+          "options": [
+            "Media Relations",
+            "Employee Relations",
+            "Community Relations",
+            "All of the above"
+          ],
+          "answer": "C",
+          "fixed": true,
+          "years": [
+            "October 2024"
+          ],
+          "note": "Lesson 19."
+        },
+        {
+          "id": "1.15",
+          "type": "mcq",
+          "q": "Customisation of news means —",
+          "options": [
+            "news of one's interest is sent to the user",
+            "all news is sent",
+            "news is delayed",
+            "news is printed"
+          ],
+          "answer": "A",
+          "note": "Lesson 22."
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Optional Module A (Traditional Media): attempt A or Module B. Choose the correct answer.",
+      "marks": "1 × 1 = 1",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "mcq",
+          "q": "The primary appeal found in traditional media is —",
+          "options": [
+            "Emotional",
+            "Intellectual",
+            "Rational",
+            "Logical"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 27."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Optional Module B (Photojournalism): attempt B or Module A. Choose the correct answer.",
+      "marks": "1 × 1 = 1",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "mcq",
+          "q": "Which of the following is NOT correct about the preparedness of photojournalists?",
+          "options": [
+            "Be prepared to act fast",
+            "Have the camera always at hand",
+            "Always reach the place after the event happens",
+            "Try to take pictures conveying the sense of the event"
+          ],
+          "answer": "C",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 30."
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Objective type questions: each has two parts of 1 mark.",
+      "marks": "9 × 2 = 18",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "Name the types of news by area.",
+          "answer": "International, national, regional and local news.",
+          "note": "Lesson 6."
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "Fill in the blanks: ______ and ______ are the tools required by a sub-editor.",
+          "answer": "Dictionary; reference books.",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 7."
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "Match: (i) RNI (ii) ABC (iii) NRSC with (a) readership surveys every six months (b) 1956 government body (c) 1948 non-government body.",
+          "answer": "(i)–(b); (ii)–(c); (iii)–(a).",
+          "note": "Lesson 8."
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "State true or false: (i) Radio is a slow medium. (ii) One has to be literate to listen to radio.",
+          "answer": "(i) False. (ii) False.",
+          "note": "Lesson 9."
+        },
+        {
+          "id": "4.5",
+          "type": "open",
+          "q": "Expand: (i) LPT (ii) HPT (iii) FM (iv) MW.",
+          "answer": "(i) Low Power Transmitter. (ii) High Power Transmitter. (iii) Frequency Modulation. (iv) Medium Wave.",
+          "note": "Lesson 10."
+        },
+        {
+          "id": "4.6",
+          "type": "open",
+          "q": "State 'True' or 'False' about the sound effects used in radio formats: (i) Sound does not play any role in evoking interest. (ii) Sound can be used to enhance certain moods.",
+          "answer": "(i) False. (ii) True.",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 11."
+        },
+        {
+          "id": "4.7",
+          "type": "open",
+          "q": "Fill in the blanks: ______ and ______ are emerging trends in television transmission.",
+          "answer": "IPTV; mobile TV broadcasting.",
+          "years": [
+            "October 2024"
+          ],
+          "note": "Lesson 13."
+        },
+        {
+          "id": "4.8",
+          "type": "open",
+          "q": "State true or false: (i) Comedy shows are entertainment programmes. (ii) Culture and gender studies programmes are informative.",
+          "answer": "(i) True. (ii) False – educational.",
+          "note": "Lesson 15."
+        },
+        {
+          "id": "4.9",
+          "type": "open",
+          "q": "Fill in the blanks: ______ and ______ are part of the pre-production stage.",
+          "answer": "Idea generation; scriptwriting.",
+          "years": [
+            "October 2024"
+          ],
+          "note": "Lesson 16."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Optional Module A (Traditional Media): attempt A or Module B. Objective type questions: two parts of 1 mark.",
+      "marks": "3 × 2 = 6",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "Fill in the blanks: Traditional media are most effective in ______, ______ areas and among ______.",
+          "answer": "rural; tribal; illiterates.",
+          "note": "Lesson 27."
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "Fill in the blanks: Ram Lila, the story of ______, is celebrated and performed all over ______ India.",
+          "answer": "Ramayana; North.",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 28."
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "State true or false: (i) Traditional media is very useful to deal with sensitive issues of health. (ii) A market, festival, ritual or village fair are situations where traditional communication takes place.",
+          "answer": "(i) True. (ii) True.",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 28."
+        }
+      ]
+    },
+    {
+      "no": 6,
+      "title": "Optional Module B (Photojournalism): attempt B or Module A. Objective type questions: two parts of 1 mark.",
+      "marks": "3 × 2 = 6",
+      "questions": [
+        {
+          "id": "6.1",
+          "type": "open",
+          "q": "Match: (i) Composition (ii) Camera angle with (a) intelligently placing the subject in the picture frame (b) intelligently placing the camera to make the picture more effective.",
+          "answer": "(i)–(a); (ii)–(b).",
+          "years": [
+            "October 2024"
+          ],
+          "note": "Lesson 29."
+        },
+        {
+          "id": "6.2",
+          "type": "open",
+          "q": "State true or false: (i) Truthfulness is a core journalistic ethic. (ii) A photojournalist can stage a picture.",
+          "answer": "(i) True. (ii) False.",
+          "note": "Lesson 30."
+        },
+        {
+          "id": "6.3",
+          "type": "open",
+          "q": "Choose the correct words: (i) A photojournalist must follow ______. (ii) Ethics in photography means ______. (Options: light/ air/ ethics/ reporter/ honesty/ right angle/ composition/ bias)",
+          "answer": "(i) ethics. (ii) honesty.",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 30."
+        }
+      ]
+    },
+    {
+      "no": 7,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "5 × 2 = 10",
+      "questions": [
+        {
+          "id": "7.1",
+          "type": "open",
+          "q": "Name the three functions of mass media with one example each.",
+          "answer": "Inform – news bulletin; educate – a doctor's talk on preventing disease; entertain – films and serials.",
+          "note": "Lesson 2."
+        },
+        {
+          "id": "7.2",
+          "type": "open",
+          "q": "Differentiate between circulation and readership.",
+          "answer": "Circulation is the number of copies sold; readership is the number of people who read them, which is higher since one copy has many readers.",
+          "note": "Lesson 8."
+        },
+        {
+          "id": "7.3",
+          "type": "open",
+          "q": "What is a vox pop?",
+          "answer": "A Latin phrase meaning 'voice of people': one or two questions are put to ordinary people to measure public opinion on a current topic.",
+          "note": "Lesson 11."
+        },
+        {
+          "id": "7.4",
+          "type": "open",
+          "q": "What is the role of a floor manager?",
+          "answer": "He is in charge of all activities on the studio floor, conveys the director's instructions and supervises floor personnel.",
+          "note": "Lesson 16."
+        },
+        {
+          "id": "7.5",
+          "type": "open",
+          "q": "Explain any two functions of a website.",
+          "answer": "It gives initial information to customers and employees through a 'contact us' section, allows feedback through blogs, and offers online services such as shopping and news.",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 22."
+        }
+      ]
+    },
+    {
+      "no": 8,
+      "title": "Optional Module A (Traditional Media): attempt A or Module B. Very short answer questions. Answer in 30–50 words.",
+      "marks": "2 × 2 = 4",
+      "questions": [
+        {
+          "id": "8.1",
+          "type": "open",
+          "q": "List any two disadvantages of electronic media.",
+          "answer": "They are expensive and less intimate; feedback is slow; special training is required.",
+          "note": "Lesson 27."
+        },
+        {
+          "id": "8.2",
+          "type": "open",
+          "q": "Write a short note on any one: (i) Demonstrations (ii) Puppetry.",
+          "answer": "Demonstrations help transfer knowledge and encourage farmers to try new ideas, with story telling and plays at weekly markets. Puppetry combines entertainment with education and treats sensitive topics such as HIV/AIDS.",
+          "years": [
+            "October 2024"
+          ],
+          "note": "Lesson 28."
+        }
+      ]
+    },
+    {
+      "no": 9,
+      "title": "Optional Module B (Photojournalism): attempt B or Module A. Very short answer questions. Answer in 30–50 words.",
+      "marks": "2 × 2 = 4",
+      "questions": [
+        {
+          "id": "9.1",
+          "type": "open",
+          "q": "Name any two types of photojournalism.",
+          "answer": "Sports photojournalism and war photojournalism (also glamour, spot news, travel, wildlife).",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 29."
+        },
+        {
+          "id": "9.2",
+          "type": "open",
+          "q": "Why is 'manipulation' considered unethical in photojournalism?",
+          "answer": "Because the photojournalist must capture the truth; manipulating or staging an image is like making up a news story.",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 30."
+        }
+      ]
+    },
+    {
+      "no": 10,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "6 × 3 = 18",
+      "questions": [
+        {
+          "id": "10.1",
+          "type": "open",
+          "q": "List any three positive and any three negative effects of media.",
+          "answer": "Positive: informs and educates, helps democracy, promotes trade. Negative: harms traditional culture, promotes violence, creates desire for non-essential products.",
+          "note": "Lesson 3."
+        },
+        {
+          "id": "10.2",
+          "type": "open",
+          "q": "Explain the job of a sub-editor in editing a copy.",
+          "answer": "Correct language and facts, add background, write a crisp heading, add photographs or graphs, condense to fit space and suggest a byline.",
+          "note": "Lesson 7."
+        },
+        {
+          "id": "10.3",
+          "type": "open",
+          "q": "Describe the roles of the studio, control room and transmitter.",
+          "answer": "Studio: sound-proof room where programmes are produced; control room: technical area that sends the programmes to the transmitter; transmitter: sends waves to the listener's radio set.",
+          "note": "Lesson 10."
+        },
+        {
+          "id": "10.4",
+          "type": "open",
+          "q": "List three milestones in the history of television in India.",
+          "answer": "1959 experimental start; 1975–76 SITE; 1982 national colour coverage by INSAT 1A (also 1976 Doordarshan separated, 1997 Prasar Bharati).",
+          "note": "Lesson 13."
+        },
+        {
+          "id": "10.5",
+          "type": "open",
+          "q": "Describe any three guidelines governing advertising.",
+          "answer": "No exaggerated or misleading claims; no direct endorsement of tobacco or liquor; no portrayal of women as passive or submissive.",
+          "note": "Lesson 18."
+        },
+        {
+          "id": "10.6",
+          "type": "open",
+          "q": "Is new media a big industry or an SME? Give reasons.",
+          "answer": "It is an SME as it needs little infrastructure and money but much creativity; niche websites started in small rooms and grew.",
+          "note": "Lesson 23."
+        }
+      ]
+    },
+    {
+      "no": 11,
+      "title": "Long answer question. Answer in 80–120 words.",
+      "marks": "1 × 4 = 4",
+      "questions": [
+        {
+          "id": "11.1",
+          "type": "open",
+          "q": "Explain the types of public relations.",
+          "answer": "Product PR, employee relations, government and political relations and community relations, each with its methods.",
+          "note": "Lesson 19."
+        }
+      ]
+    },
+    {
+      "no": 12,
+      "title": "Optional Module A (Traditional Media): attempt A or Module B. Long answer question. Answer in 80–120 words.",
+      "marks": "1 × 4 = 4",
+      "questions": [
+        {
+          "id": "12.1",
+          "type": "open",
+          "q": "Discuss the relevance of traditional media in modern society.",
+          "answer": "They reach rural and tribal people and illiterates, are flexible and cheap, preserve culture, give deeper impact through audience participation and are being integrated with electronic media for development messages.",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 27."
+        }
+      ]
+    },
+    {
+      "no": 13,
+      "title": "Optional Module B (Photojournalism): attempt B or Module A. Long answer question. Answer in 80–120 words.",
+      "marks": "1 × 4 = 4",
+      "questions": [
+        {
+          "id": "13.1",
+          "type": "open",
+          "q": "Explain the role played by famous photojournalists in India before and after Independence.",
+          "answer": "Raja Deen Dayal, Sunil Janah and Homai Vyarawalla recorded British India, partition and the freedom movement; Henri Cartier-Bresson, Raghu Rai and Prashant Panjiar documented events and leaders after independence.",
+          "note": "Lesson 30."
+        }
+      ]
+    }
+  ]
+}
