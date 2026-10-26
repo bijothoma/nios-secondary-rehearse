@@ -333,7 +333,22 @@ function showPaper(subject, lessonMeta) {
       el('button', { 'class': 'btn primary', onclick: restart }, 'Try again with a new shuffle')
     );
 
-    setChildren(app, head, sections, summary);
+    // Malayalam model papers: no "Show answer" buttons until the student asks for them at the bottom.
+    var hold = subject.id === 'malayalam' && lessonMeta.tag === 'Full paper';
+    var body = el('div', { 'class': hold ? 'answers-off' : '' }, sections);
+    var reveal = null;
+    if (hold) {
+      reveal = el('div', { 'class': 'actions' },
+        el('button', {
+          'class': 'btn',
+          onclick: function () {
+            var off = body.className === 'answers-off';
+            body.className = off ? '' : 'answers-off';
+            this.textContent = off ? 'Hide answer buttons' : 'Show answer';
+          }
+        }, 'Show answer'));
+    }
+    setChildren(app, head, body, reveal, summary);
     updateScore();
     updateSummary();
     window.scrollTo(0, 0);
@@ -406,7 +421,7 @@ function renderChoice(num, text, years, options, correct, note, image, fixed, wo
   var finished = false;
 
   var feedback = el('p', { 'class': 'feedback' });
-  var showBtn = el('button', { 'class': 'btn', onclick: reveal }, 'Show answer');
+  var showBtn = el('button', { 'class': 'btn show-btn', onclick: reveal }, 'Show answer');
   setHidden(showBtn, true);
   var noteEl = note || work || extra ? el('div', {},
     work ? el('div', { 'class': 'answer' }, el('p', {}, el('strong', {}, 'Working')), answerParas(work)) : null,
@@ -489,7 +504,7 @@ function renderOpen(num, q, extra) {
   setHidden(answer, true);
 
   var btn = el('button', {
-    'class': 'btn',
+    'class': 'btn show-btn',
     onclick: function () {
       setHidden(answer, !isHidden(answer));
       btn.textContent = isHidden(answer) ? 'Show answer' : 'Hide answer';
