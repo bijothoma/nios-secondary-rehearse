@@ -96,6 +96,9 @@ def main():
     counts = ', '.join(f"§{s['no']}×{len(s['questions'])}" for s in sections)
     tagged = sum(1 for s in sections for q in s['questions'] if q.get('years'))
     print(f'Wrote {rel}: {counts}; {tagged} with exam tags')
+    if subject == 'malayalam':
+        import apply_ml_keywords
+        apply_ml_keywords.main()
 
 
 if __name__ == '__main__':

@@ -470,12 +470,19 @@ function answerParas(text) {
   return text.split('\n').map(function (p) { return el('p', {}, p); });
 }
 
+// Keywords under a 3- or 5-mark answer: the student memorises them and builds their own sentences.
+function keywordBlock(words) {
+  if (!words || !words.length) return null;
+  return el('p', { 'class': 'keywords' }, el('strong', {}, 'Keywords: '), words.join(', '));
+}
+
 // q.or is an internal choice: { q, answer } asked as an alternative to the main question.
 function renderOpen(num, q, extra) {
   var note = noteWith(q, extra);
   var answer = el('div', { 'class': 'answer' },
     answerParas(q.answer),
-    q.or ? [el('p', { 'class': 'or' }, 'OR'), answerParas(q.or.answer)] : null,
+    keywordBlock(q.keywords),
+    q.or ? [el('p', { 'class': 'or' }, 'OR'), answerParas(q.or.answer), keywordBlock(q.or.keywords)] : null,
     quoteBlock(extra),
     note ? el('p', { 'class': 'note' }, note) : null
   );

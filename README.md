@@ -163,6 +163,10 @@ question's own short note.
   5-mark answers). The 18 public-exam lessons of the NIOS bifurcation are included (numbered as in the bifurcation:
   30 is Immunobiology and 31 is Biotechnology). Diagram questions of the real papers are given as text equivalents.
   Past-paper questions of April 2025, October 2025 and April 2026 are tagged by exam.
+- Malayalam 3- and 5-mark answers (sections 9 and 10 of every lesson paper and model paper) carry a **Keywords** block
+  to memorise and build sentences from. The keyword lists live in `data/malayalam/keywords/lesson-<n>.json` (one list
+  per question, in order); `tools/apply_ml_keywords.py` stamps them into the lesson and model-paper JSON (matched by
+  answer text, OR alternatives included) and is called by `build_lesson.py` and `build_ml_papers.py`.
 - All of these builders share `build_question` in `tools/build_ss.py`. It marks an MCQ `fixed` (options
   keep their printed order instead of being shuffled) when an option refers to the others, such as
   "all of these", "none of the above" or "both (A) and (B)".

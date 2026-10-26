@@ -15,6 +15,7 @@ data/subjects.json as lessons 901-903 with the tag 'Full paper'.
 import json
 import random
 import re
+import sys
 from pathlib import Path
 
 APP_DIR = Path(__file__).resolve().parent.parent
@@ -153,6 +154,10 @@ def main():
         titles.append((n, paper['title']))
         print(f'paper-{n}.json: {sum(len(s["questions"]) for s in paper["sections"])} questions')
     register(titles)
+    if SUBJECT == 'malayalam':
+        sys.path.insert(0, str(Path(__file__).resolve().parent))
+        import apply_ml_keywords
+        apply_ml_keywords.main()
 
 
 if __name__ == '__main__':

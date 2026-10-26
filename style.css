@@ -209,3 +209,5 @@ a.btn { display: inline-block; text-decoration: none; }
   .quote .quote-head { color: #000; }
   .btn, .btn.primary { background: #fff; color: #000; border: 2px solid #000; }
 }
+
+.keywords { margin: 10px 0 0; padding: 8px 10px; border-left: 4px solid #3b5bdb; border-left-color: var(--accent); background: #e7ecff; background: var(--accent-soft); border-radius: 6px; }
