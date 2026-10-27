@@ -168,6 +168,9 @@ function renderSubject(subject) {
   setChildren(app,
     crumbs(subjectCrumbs(subject).slice(0, 2).concat([[subject.label || subject.name, null]])),
     el('h1', {}, subject.label || subject.name),
+    (subject.downloads || []).map(function (d) {
+      return el('p', {}, el('a', { 'class': 'btn', href: d.file, download: '' }, '⬇ ' + d.title));
+    }),
     subject.lessons.length === 0
       ? el('p', { 'class': 'muted' }, 'No lessons added yet.')
       : el('div', { 'class': 'tiles' },

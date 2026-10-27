@@ -149,7 +149,13 @@
           "file": "data/malayalam/paper-3.json"
         }
       ],
-      "level": "secondary"
+      "level": "secondary",
+      "downloads": [
+        {
+          "title": "Printable model question paper 4 with answers (PDF)",
+          "file": "downloads/malayalam-model-paper-4.pdf"
+        }
+      ]
     },
     {
       "id": "social-science",

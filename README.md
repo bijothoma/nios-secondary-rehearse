@@ -167,6 +167,10 @@ question's own short note.
   to memorise and build sentences from. The keyword lists live in `data/malayalam/keywords/lesson-<n>.json` (one list
   per question, in order); `tools/apply_ml_keywords.py` stamps them into the lesson and model-paper JSON (matched by
   answer text, OR alternatives included) and is called by `build_lesson.py` and `build_ml_papers.py`.
+- `tools/build_ml_pdf.py`: builds the printable Malayalam model paper 4 (`downloads/malayalam-model-paper-4.pdf`) in the
+  layout of the April 2026 paper (cover page, general instructions, 10 sections) with the answer key, including keywords,
+  on separate pages. It uses only questions that model papers 1-3 did not use and prints HTML to PDF with Edge
+  (headless). The Malayalam subject page links to it (`downloads` in `data/subjects.json`).
 - All of these builders share `build_question` in `tools/build_ss.py`. It marks an MCQ `fixed` (options
   keep their printed order instead of being shuffled) when an option refers to the others, such as
   "all of these", "none of the above" or "both (A) and (B)".
