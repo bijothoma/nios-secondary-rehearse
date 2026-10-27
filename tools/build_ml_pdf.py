@@ -132,7 +132,7 @@ def paras(text):
 def build_html(secs):
     out = [f'<html lang="ml"><head><meta charset="utf-8"><style>{CSS}</style></head><body>']
     gen = ''.join(f'<li>{e(t)}</li>' for t in GENERAL)
-    boxes = ''.join('<span class="box"></span>' for _ in range(9))
+    boxes = ''.join('<span class="box"></span>' for _ in range(12))
     instr = ''.join(f'<div style="margin-bottom:4px"><span style="display:inline-block;width:34px">{a}</span>{e(b)}</div>'
                     for a, b in PAPER_INSTR)
     out.append(f"""<div style="line-height:1.4">
