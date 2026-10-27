@@ -54,7 +54,7 @@ CSS = """
   @bottom-left { content: 'CODEHERE'; font: 10pt 'Nirmala UI'; }
   @bottom-center { content: counter(page); font: 10pt 'Nirmala UI'; }
   @bottom-right { content: 'Model Paper 4'; font: 10pt 'Nirmala UI'; } }
-body { font-family: 'Nirmala UI', 'Kartika', serif; font-size: 11.5pt; line-height: 1.35; color: #000; }
+body { font-family: 'Nirmala UI', 'Kartika', serif; font-size: 11.5pt; line-height: 1.7; color: #000; }
 h1 { text-align: center; font-size: 20pt; margin: 4px 0; letter-spacing: 1px; }
 .c { text-align: center; } .b { font-weight: bold; }
 .row { display: flex; justify-content: space-between; border-top: 1.5px solid #000; border-bottom: 1.5px solid #000;
@@ -74,7 +74,8 @@ h1 { text-align: center; font-size: 20pt; margin: 4px 0; letter-spacing: 1px; }
 
 
 def e(t):
-    return html.escape(str(t))
+    # The printed paper uses the traditional spelling: ന്റെ is written ൻ്റെ.
+    return html.escape(str(t)).replace('ന്റെ', 'ൻ്റെ')
 
 
 def paper4():
@@ -134,7 +135,7 @@ def build_html(secs):
     boxes = ''.join('<span class="box"></span>' for _ in range(9))
     instr = ''.join(f'<div style="margin-bottom:4px"><span style="display:inline-block;width:34px">{a}</span>{e(b)}</div>'
                     for a, b in PAPER_INSTR)
-    out.append(f"""
+    out.append(f"""<div style="line-height:1.4">
 <div style="text-align:right">This Question Paper consists of 10 questions.<br>
 <span class="b">Code No. {CODE}</span></div>
 <table class="cover"><tr><td class="b">Roll No.<br><span style="font-size:9pt">റോൾ നമ്പർ</span></td>
@@ -145,7 +146,7 @@ def build_html(secs):
 <div class="b" style="margin-top:14px">Signature of Invigilators &nbsp; 1. ______________________________<br>
 <span style="margin-left:150px">2. ______________________________</span></div>
 <div class="b" style="border-top:1.5px solid #000;margin-top:14px;padding-top:6px">പൊതുവായ നിർദ്ദേശങ്ങൾ :</div>
-<ol class="gen">{gen}</ol>
+<ol class="gen">{gen}</ol></div>
 <div class="pb"></div>
 <h1>MALAYALAM</h1><div class="c b" style="font-size:15pt">മലയാളം</div><div class="c b" style="font-size:20pt">(232)</div>
 <div class="row"><span>സമയം : 3 മണിക്കൂർ]</span><span>[മാർക്ക് : 100</span></div>
