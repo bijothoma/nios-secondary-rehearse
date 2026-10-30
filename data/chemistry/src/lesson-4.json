@@ -1,0 +1,59 @@
+{
+ "lesson": 4, "title": "Chemical Bonding", "module": 2,
+ "summary": [
+  "## Types of bonds",
+  "Atoms combine to attain a stable noble-gas (octet) configuration. Ionic (electrovalent) bond: transfer of electrons from a metal to a non-metal forming cation and anion held by electrostatic attraction (NaCl); favoured by low ionisation enthalpy, high electron gain enthalpy and high lattice enthalpy; ionic compounds are crystalline, hard, have high melting points and conduct when molten or dissolved. Covalent bond: sharing of electron pairs (single, double, triple) – Lewis structures; polar covalent bond has unequal sharing (dipole moment μ = q × d, in debye); coordinate bond: both shared electrons come from one atom (NH4+, H3O+). Formal charge = valence electrons − non-bonding electrons − ½ bonding electrons. Fajans' rules: a covalent character increases with small cation, large anion and high charge.",
+  "## VSEPR theory, VBT and hybridisation",
+  "VSEPR: electron pairs around the central atom repel each other and take positions of minimum repulsion; lone pair–lone pair > lone pair–bond pair > bond pair–bond pair. Shapes: 2 pairs – linear (BeCl2); 3 – trigonal planar (BF3); 4 – tetrahedral (CH4, 109.5°), trigonal pyramidal (NH3, 107°, one lone pair), bent (H2O, 104.5°, two lone pairs); 5 – trigonal bipyramidal (PCl5); 6 – octahedral (SF6). Valence bond theory: a covalent bond forms by overlap of half-filled atomic orbitals; sigma (σ) bond by head-on overlap (strong), pi (π) bond by sideways overlap of p orbitals (weaker). A single bond is one σ; a double bond is one σ + one π; a triple bond is one σ + two π. Hybridisation: mixing of orbitals of one atom: sp (linear, 180°; BeCl2, ethyne), sp2 (trigonal planar, 120°; BCl3, ethene) and sp3 (tetrahedral; CH4, NH3, H2O), sp3d (PCl5), sp3d2 (SF6).",
+  "## Molecular orbital theory and other ideas",
+  "Atomic orbitals combine to form molecular orbitals (MOs): bonding (lower energy) and antibonding (higher energy). Bond order = ½(Nb − Na). Order of energy for O2, F2: σ1s < σ*1s < σ2s < σ*2s < σ2pz < π2px = π2py < π*2px = π*2py < σ*2pz (for B2, C2, N2 the π2p MOs lie below σ2pz). Stability increases with bond order; H2 (1), He2 (0, does not exist), N2 (3), O2 (2, paramagnetic with two unpaired electrons), Be2 (0, not formed), F2 (1). Hydrogen bonding (intermolecular in H2O, HF; intramolecular in o-nitrophenol) explains high boiling points; bond length decreases and bond energy increases with bond order; the bond strength of Cl–Cl is greater than that of F–F and Br–Br because of lone pair repulsion in the small F2."
+ ],
+ "mcq": [
+  ["The number of sigma bonds in ethene (C2H4) is —", ["5", "4", "6", "3"], "A", ["April 2026"]],
+  ["Among the halogens, the strongest single bond is in —", ["Cl2", "F2", "Br2", "I2"], "A", ["April 2026"]],
+  ["The shape of the ammonia molecule is —", ["trigonal pyramidal", "trigonal planar", "tetrahedral", "bent"], "A", ["October 2024"]],
+  ["The hybridisation of boron in BCl3 is —", ["sp2", "sp3", "sp", "sp3d"], "A", ["October 2025"]],
+  ["The bond angle in water is about —", ["104.5°", "109.5°", "107°", "120°"], "A"],
+  ["The bond order of N2 molecule is —", ["3", "2", "1", "2.5"], "A"],
+  ["Which species is paramagnetic?", ["O2", "N2", "F2", "H2"], "A"],
+  ["The number of π bonds in ethyne (HC≡CH) is —", ["2", "1", "3", "0"], "A", ["April 2026"]],
+  ["The molecule with zero dipole moment is —", ["BF3", "NH3", "H2O", "HF"], "A"],
+  ["The geometry of SF6 is —", ["octahedral", "tetrahedral", "trigonal bipyramidal", "square planar"], "A"],
+  ["A coordinate bond is present in —", ["NH4+", "CH4", "NaCl", "H2"], "A"],
+  ["Which of the following has the highest boiling point due to hydrogen bonding?", ["H2O", "H2S", "H2Se", "H2Te"], "A"]
+ ],
+ "objective": [
+  ["(a) What is the shape of the ammonia molecule and why? (b) Which type of dipole does it have?", "(a) Trigonal pyramidal – the central N has three bond pairs and one lone pair (sp3 hybridised), and the lone pair repels the bond pairs.\n(b) NH3 has a net dipole moment (polar molecule).", ["April 2026"]],
+  ["State true or false: (a) Acetylene has one σ and two π bonds between the carbon atoms. (b) Be2 molecule can exist.", "(a) True. (b) False – bond order is zero (2 bonding and 2 antibonding electron pairs).", ["April 2026"]],
+  ["(a) Name the type of bond in NaCl. (b) Why does NaCl conduct electricity only in the molten or dissolved state?", "(a) Ionic (electrovalent) bond.\n(b) Ions are free to move only in the molten state or in solution; in the solid state ions are fixed in the lattice.", ["April 2026"]],
+  ["Fill in: (a) The hybridisation of carbon in methane is ______. (b) The number of lone pairs on oxygen in water is ______.", "(a) sp3. (b) Two."],
+  ["Write (a) the molecular orbital configuration of O2 and (b) its bond order.", "(a) σ1s2 σ*1s2 σ2s2 σ*2s2 σ2pz2 π2px2 π2py2 π*2px1 π*2py1.\n(b) Bond order = (10 − 6)/2 = 2."],
+  ["Match: (a) sp (b) sp2 (c) sp3 with (i) tetrahedral (ii) linear (iii) trigonal planar.", "(a)-(ii); (b)-(iii); (c)-(i)."],
+  ["Calculate the bond order of (a) H2 and (b) He2.", "(a) H2: (2 − 0)/2 = 1. (b) He2: (2 − 2)/2 = 0 – does not exist."],
+  ["Name the type of hydrogen bond present in (a) water (b) o-nitrophenol.", "(a) Intermolecular hydrogen bond. (b) Intramolecular hydrogen bond."]
+ ],
+ "vsa": [
+  ["Why is the shape of the ammonia molecule trigonal pyramidal?", "N has five valence electrons; three form bonds with H and one lone pair remains. The four electron pairs are tetrahedrally arranged (sp3), but the lone pair occupies one position, so the molecule is pyramidal with angle 107°.", ["October 2024"]],
+  ["Why is the bond angle in water (104.5°) less than that in methane (109.5°)?", "Water has two lone pairs on oxygen, which repel the bond pairs more strongly than bond pairs repel one another, compressing the H–O–H angle."],
+  ["Distinguish between a sigma and a pi bond.", "Sigma: formed by head-on (axial) overlap, strong, free rotation, can exist alone. Pi: formed by sideways overlap of p orbitals, weaker, restricts rotation, exists only with a σ bond."],
+  ["Explain why Cl–Cl is stronger than F–F although fluorine is more electronegative.", "In the very small F2 molecule, the lone pairs on the two F atoms are close together and repel each other strongly, weakening the F–F bond; Cl is larger and has less repulsion.", ["April 2026"]],
+  ["What is meant by bond order? Calculate it for N2.", "Bond order = ½(number of bonding electrons − number of antibonding electrons). N2 has 10 bonding and 4 antibonding electrons: (10 − 4)/2 = 3."],
+  ["What is a dipole moment? Why is the dipole moment of CO2 zero?", "Dipole moment μ = charge × distance (unit debye). CO2 is linear, so the two equal C=O dipoles act in opposite directions and cancel."],
+  ["Give two conditions favourable for the formation of an ionic bond.", "Low ionisation enthalpy of the metal, high electron gain enthalpy of the non-metal and high lattice enthalpy."],
+  ["What is hybridisation? Name the hybridisation in BeCl2.", "Mixing of atomic orbitals of nearly equal energy of the same atom to form equal number of new equivalent orbitals. BeCl2 is sp hybridised (linear)."]
+ ],
+ "sa": [
+  ["Explain the shapes of BF3 and NH3 on the basis of VSEPR theory.", "BF3: boron has three bond pairs and no lone pair – trigonal planar, 120°. NH3: nitrogen has three bond pairs and one lone pair – the four pairs are tetrahedral but the shape is trigonal pyramidal, 107°."],
+  ["Explain the formation of the σ and π bonds in ethene with the hybridisation of carbon.", "Each carbon is sp2 hybridised; its three sp2 orbitals form two C–H σ bonds and one C–C σ bond. The remaining unhybridised p orbitals overlap sideways to form a π bond, giving C=C (one σ + one π)."],
+  ["Write the molecular orbital configuration of N2 and O2 and compare their bond order and magnetic behaviour.", "N2: σ1s2 σ*1s2 σ2s2 σ*2s2 π2px2 π2py2 σ2pz2, bond order 3, diamagnetic. O2: …σ2pz2 π2px2 π2py2 π*2px1 π*2py1, bond order 2, paramagnetic (two unpaired electrons)."],
+  ["Explain hydrogen bonding and its effect on the properties of water.", "A hydrogen bond is the attraction between H attached to a highly electronegative atom (F, O, N) and a lone pair on another such atom. In water each molecule bonds to four others, giving a high boiling point, high heat of vaporisation, and ice lower in density than water."],
+  ["What is meant by formal charge? Calculate it on N in NH4+.", "Formal charge = valence electrons − non-bonding electrons − ½ bonding electrons. On N in NH4+: 5 − 0 − ½(8) = +1."],
+  ["Compare ionic and covalent compounds on the basis of melting point, solubility and conductivity.", "Ionic: high melting points, soluble in water, conduct in the molten or dissolved state. Covalent: low melting and boiling points, soluble in non-polar solvents, generally non-conductors."]
+ ],
+ "la": [
+  ["(a) Explain the postulates of VSEPR theory. (b) Predict the shapes of CH4, NH3 and H2O with bond angles.", "(a) Electron pairs around the central atom repel and arrange as far apart as possible; repulsion order: lone–lone > lone–bond > bond–bond; the shape depends on the number of bonding and lone pairs; multiple bonds are treated as one pair.\n(b) CH4: four bond pairs – tetrahedral, 109.5°. NH3: three bond pairs + one lone pair – trigonal pyramidal, 107°. H2O: two bond pairs + two lone pairs – bent, 104.5°."],
+  ["Explain sp, sp2 and sp3 hybridisation with one example of each, giving the geometry and bond angle.", "sp: one s + one p, linear, 180° (BeCl2, ethyne). sp2: one s + two p, trigonal planar, 120° (BCl3, ethene). sp3: one s + three p, tetrahedral, 109.5° (CH4; also NH3 and H2O with lone pairs)."],
+  ["Explain the main features of molecular orbital theory and use it to show that He2 does not exist and O2 is paramagnetic.", "Atomic orbitals combine to form bonding (lower energy) and antibonding molecular orbitals; electrons fill by Aufbau, Pauli and Hund; bond order = ½(Nb − Na).\nHe2: σ1s2 σ*1s2, bond order 0, so it does not exist. O2: the last two electrons occupy π*2px and π*2py singly, so two unpaired electrons make it paramagnetic; bond order 2."],
+  ["(a) What is an ionic bond? Explain its formation in NaCl. (b) State any three properties of ionic compounds.", "(a) An ionic bond is the electrostatic attraction between oppositely charged ions formed by electron transfer: Na (2,8,1) → Na+ + e−; Cl (2,8,7) + e− → Cl−; the ions attract to form NaCl crystal lattice.\n(b) High melting and boiling points, soluble in water, conduct electricity in molten and aqueous state; hard and brittle."]
+ ]
+}

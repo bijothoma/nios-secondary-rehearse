@@ -1,0 +1,386 @@
+{
+  "subject": "chemistry",
+  "lesson": 17,
+  "title": "Hydrogen and s-Block Elements",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "12 × 1 = 12",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "Heavy water is —",
+          "options": [
+            "D2O",
+            "H2O2",
+            "T2O",
+            "H2O"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "The most abundant isotope of hydrogen is —",
+          "options": [
+            "protium",
+            "deuterium",
+            "tritium",
+            "none of these"
+          ],
+          "answer": "A",
+          "fixed": true
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "The flame colour of sodium is —",
+          "options": [
+            "golden yellow",
+            "crimson red",
+            "violet",
+            "brick red"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "Lithium shows a diagonal relationship with —",
+          "options": [
+            "magnesium",
+            "aluminium",
+            "calcium",
+            "beryllium"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "The cathode used in the Castner–Kellner cell is —",
+          "options": [
+            "mercury",
+            "graphite",
+            "iron",
+            "platinum"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "Temporary hardness of water is due to —",
+          "options": [
+            "bicarbonates of Ca and Mg",
+            "chlorides of Ca and Mg",
+            "sulphates of Ca and Mg",
+            "sodium chloride"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "Plaster of Paris is —",
+          "options": [
+            "CaSO4·½H2O",
+            "CaSO4·2H2O",
+            "CaSO4",
+            "CaCO3"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "Which alkaline earth metal sulphate is insoluble in water?",
+          "options": [
+            "BaSO4",
+            "MgSO4",
+            "BeSO4",
+            "MgSO4·7H2O"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "Hydrogen peroxide acts as —",
+          "options": [
+            "both oxidising and reducing agent",
+            "only oxidising agent",
+            "only reducing agent",
+            "a dehydrating agent"
+          ],
+          "answer": "A",
+          "fixed": true
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "The Solvay process is used to prepare —",
+          "options": [
+            "sodium carbonate",
+            "sodium hydroxide",
+            "sodium chloride",
+            "potassium nitrate"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "Which of the following is an ionic hydride?",
+          "options": [
+            "NaH",
+            "CH4",
+            "H2O",
+            "NH3"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "Quicklime is —",
+          "options": [
+            "CaO",
+            "Ca(OH)2",
+            "CaCO3",
+            "CaSO4"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark.",
+      "marks": "8 × 2 = 16",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "(a) Write the formula of heavy water. (b) State one use of heavy water.",
+          "answer": "(a) D2O. (b) Used as a moderator in nuclear reactors to slow down neutrons.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "(a) Write the reactions occurring at the anode and cathode in the Castner–Kellner cell. (b) Which electrode is made of mercury?",
+          "answer": "(a) Anode: 2Cl− → Cl2 + 2e−; cathode: Na+ + e− → Na (amalgam). (b) The cathode.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "State true or false: (a) Lithium shows a diagonal relationship with magnesium. (b) Sodium forms a superoxide on heating in excess air.",
+          "answer": "(a) True. (b) False – sodium forms the peroxide Na2O2 (K, Rb, Cs form superoxides).",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Name two elements that show a diagonal relationship other than Li and Mg.",
+          "answer": "Beryllium and aluminium; boron and silicon.",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "Fill in: (a) The isotope of hydrogen that is radioactive is ______. (b) Plaster of Paris on mixing with water sets to ______.",
+          "answer": "(a) tritium. (b) gypsum (CaSO4·2H2O)."
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "Match: (a) Quicklime (b) Gypsum (c) Washing soda with (i) Na2CO3·10H2O (ii) CaO (iii) CaSO4·2H2O.",
+          "answer": "(a)-(ii); (b)-(iii); (c)-(i)."
+        },
+        {
+          "id": "2.7",
+          "type": "open",
+          "q": "State the flame colours of (a) K (b) Ca.",
+          "answer": "(a) Violet (lilac). (b) Brick red."
+        },
+        {
+          "id": "2.8",
+          "type": "open",
+          "q": "Complete the reactions: (a) 2Na + 2H2O → ______ (b) CaCO3 → (heat) ______.",
+          "answer": "(a) 2NaOH + H2. (b) CaO + CO2."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "8 × 2 = 16",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "What is heavy water? How is it prepared?",
+          "answer": "Water in which hydrogen is replaced by deuterium (D2O). It is obtained by repeated electrolysis of ordinary water, in which H2O is electrolysed faster than D2O, so D2O concentrates in the residue.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "How is sodium hydroxide manufactured by the Castner–Kellner process? Write the reactions.",
+          "answer": "Brine is electrolysed with a mercury cathode and graphite anode. Anode: 2Cl− → Cl2 + 2e−. Cathode: Na+ + e− → Na-amalgam. The amalgam is treated with water: 2Na-Hg + 2H2O → 2NaOH + H2 + 2Hg.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "What is meant by a diagonal relationship? Give an example.",
+          "answer": "The similarity between the first member of a group and the second member of the next group, due to similar polarising power. Li and Mg are an example (also Be and Al).",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "Why are the alkali metals kept in kerosene oil?",
+          "answer": "They are highly reactive and react vigorously with moisture and oxygen of air; kerosene prevents this contact."
+        },
+        {
+          "id": "3.5",
+          "type": "open",
+          "q": "Write two uses of hydrogen peroxide.",
+          "answer": "As a bleaching agent for hair, paper and textile and as an antiseptic (also a rocket propellant)."
+        },
+        {
+          "id": "3.6",
+          "type": "open",
+          "q": "Why are BaSO4 and SrSO4 insoluble while BeSO4 and MgSO4 are soluble?",
+          "answer": "Down the group, the hydration enthalpy decreases faster than the lattice enthalpy; for the large cations Ba^2+ and Sr^2+ the lattice enthalpy dominates, so sulphates are insoluble.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "3.7",
+          "type": "open",
+          "q": "What is temporary hardness of water? How is it removed?",
+          "answer": "Hardness due to the bicarbonates of calcium and magnesium; removed by boiling (forms insoluble carbonates) or by Clark's method using lime water."
+        },
+        {
+          "id": "3.8",
+          "type": "open",
+          "q": "Name the alkali metal which does not form a superoxide and mention the oxide formed by sodium.",
+          "answer": "Lithium forms only the normal oxide Li2O; sodium forms the peroxide Na2O2."
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "6 × 3 = 18",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "Compare the properties of alkali and alkaline earth metals in terms of ionisation enthalpy, hardness and flame colour.",
+          "answer": "Alkali metals have lower ionisation enthalpy, are soft and give +1 ions; flame colours: Li crimson, Na yellow, K violet. Alkaline earth metals have higher ionisation enthalpy, are harder, with +2 ions; flame colours: Ca brick red, Sr crimson, Ba green; Be and Mg give no colour."
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "Describe the Solvay process for the manufacture of sodium carbonate with the reactions.",
+          "answer": "CO2 passed through ammoniated brine: NaCl + NH3 + CO2 + H2O → NaHCO3 + NH4Cl. Sparingly soluble NaHCO3 is filtered and heated: 2NaHCO3 → Na2CO3 + H2O + CO2. CO2 and NH3 are recovered and used again."
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "Explain the diagonal relationship between lithium and magnesium (three points).",
+          "answer": "Both form normal oxides on burning in air; both react with nitrogen to form nitrides; the carbonates and hydroxides of both decompose on heating; their chlorides are soluble in ethanol and deliquescent. The similarity is due to similar polarising power."
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "What are the uses of plaster of Paris? How is it prepared?",
+          "answer": "Prepared by heating gypsum at 393 K: CaSO4·2H2O → CaSO4·½H2O + 1½H2O. With water it sets to gypsum. Used in surgery to set fractured bones, in making statues, moulds and wall decoration."
+        },
+        {
+          "id": "4.5",
+          "type": "open",
+          "q": "Write the preparation of hydrogen in the laboratory and by the water-gas method. State two uses.",
+          "answer": "Laboratory: Zn + H2SO4 (dil.) → ZnSO4 + H2. Water gas: C + H2O → CO + H2 (steam over red hot coke at 1273 K); CO is converted to CO2 by steam to increase H2. Uses: manufacture of ammonia (Haber) and hydrogenation of vegetable oils."
+        },
+        {
+          "id": "4.6",
+          "type": "open",
+          "q": "Explain the biological importance of sodium, potassium, magnesium and calcium.",
+          "answer": "Na+ and K+ maintain the osmotic balance and nerve impulse transmission (the sodium–potassium pump); Mg^2+ is in chlorophyll and activates enzymes; Ca^2+ forms bones and teeth and helps blood clotting and muscle contraction."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Long answer questions. Answer in 80–120 words.",
+      "marks": "4 × 5 = 20",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "(a) Describe the three isotopes of hydrogen. (b) Write the method of preparing heavy water and two of its uses. (c) What is hard water? How is permanent hardness removed?",
+          "answer": "(a) Protium (no neutron, 99.98%), deuterium (one neutron, stable), tritium (two neutrons, radioactive).\n(b) Prepared by prolonged electrolysis of water; used as a moderator in nuclear reactors and as a tracer in studying reaction mechanisms.\n(c) Water containing Ca^2+ and Mg^2+ salts that does not lather with soap. Permanent hardness is removed by washing soda (Na2CO3 precipitates CaCO3 and MgCO3) or by permutit/ion-exchange."
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "(a) Explain the working of the Castner–Kellner cell for making NaOH. (b) Write two uses of NaOH.",
+          "answer": "(a) Brine is electrolysed in a cell divided into compartments: the cathode is a flowing layer of mercury, the anode is graphite; Cl2 is liberated at the anode and sodium is deposited as sodium amalgam at the cathode. The amalgam passes to another chamber where water reacts with it: 2Na-Hg + 2H2O → 2NaOH + H2 + 2Hg; mercury is recycled.\n(b) Soap, paper and textile manufacture; refining of petroleum and making of rayon."
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "(a) State the general electronic configuration and trends in the properties of alkali metals (ionisation enthalpy, reactivity). (b) Why does lithium differ from the other members? (c) Write the reactions of Li, Na and K with oxygen.",
+          "answer": "(a) ns1. Ionisation enthalpy decreases and reactivity increases down the group; flame colours are characteristic.\n(b) Li is very small with high polarising power and high hydration enthalpy and no d-orbitals, so it resembles Mg.\n(c) 4Li + O2 → 2Li2O; 2Na + O2 → Na2O2; K + O2 → KO2."
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "(a) Explain why BaSO4 is insoluble but MgSO4 soluble. (b) State the uses of quicklime and slaked lime. (c) Write three biological roles of calcium and magnesium.",
+          "answer": "(a) The hydration enthalpy of the small Mg^2+ exceeds the lattice enthalpy and the salt dissolves, whereas for the large Ba^2+ the lattice enthalpy exceeds hydration enthalpy.\n(b) Quicklime: in making cement, glass and steel as flux, drying agent; slaked lime: whitewash, softening of water and mortar.\n(c) Ca^2+ in bones and teeth, blood clotting, muscle contraction; Mg^2+ in chlorophyll and enzyme action."
+        }
+      ]
+    }
+  ]
+}

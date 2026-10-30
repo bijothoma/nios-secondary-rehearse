@@ -1,0 +1,69 @@
+{
+  "subject": "chemistry",
+  "lesson": 26,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 26: Alcohols, Phenols and Ethers — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Alcohols"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Alcohols (R–OH) are classified as primary (1°), secondary (2°) and tertiary (3°) according to the carbon bearing the –OH; they may be mono-, di- (glycol) or trihydric (glycerol). Preparation: hydration of alkenes (Markovnikov), hydroboration–oxidation (anti-Markovnikov), hydrolysis of haloalkanes with aq. KOH, reduction of aldehydes, ketones (NaBH4 or LiAlH4, H2/Ni) and carboxylic acids and esters (LiAlH4), reaction of Grignard reagents with carbonyl compounds, and fermentation of sugars (glucose → ethanol + CO2 by zymase). Physical properties: high boiling points due to intermolecular hydrogen bonding and solubility of lower alcohols in water; boiling points 1° > 2° > 3° for isomers. Chemical reactions: acidity (reaction with Na gives alkoxide + H2; order of acidity: methanol > 1° > 2° > 3° > water slightly stronger than ethanol); esterification with carboxylic acids (acid + alcohol ⇌ ester + water, conc. H2SO4); with HX (order of reactivity 3° > 2° > 1°); dehydration (443 K gives alkene; 413 K gives ether); oxidation (1° → aldehyde (PCC) → acid; 2° → ketone; 3° resists). The Lucas test (anhydrous ZnCl2 + conc. HCl) distinguishes 1°, 2° and 3° alcohols: tertiary gives turbidity immediately, secondary in about 5 minutes, primary only on heating."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Phenols"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Phenol (C6H5OH, carbolic acid) is acidic (pKa about 10) because the phenoxide ion is stabilised by resonance; it is more acidic than alcohols but less than carboxylic acids and carbonic acid, and electron-withdrawing groups (–NO2) increase acidity (2,4,6-trinitrophenol is picric acid). Preparation: from chlorobenzene (Dow's process), cumene (cumene → cumene hydroperoxide → phenol + acetone), from diazonium salts and benzene sulphonic acid. Reactions: electrophilic substitution (–OH is o,p-directing and activating): nitration (dilute HNO3 gives o- and p-nitrophenol; conc. gives picric acid), bromination (bromine water gives 2,4,6-tribromophenol white precipitate), Kolbe's reaction (sodium phenoxide + CO2, then H+ → salicylic acid), Reimer–Tiemann reaction (phenol + CHCl3 + NaOH → salicylaldehyde), with FeCl3 violet colour (test for phenols), coupling with benzene diazonium chloride (azo dye). Uses: disinfectant, phenol-formaldehyde (Bakelite), aspirin and dyes."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Ethers"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Ethers (R–O–R') contain a C–O–C bond (bent, sp³ oxygen, 111°); they are less polar than alcohols and have much lower boiling points than isomeric alcohols (no hydrogen bonding). Preparation: dehydration of alcohols (excess alcohol at 413 K) and Williamson synthesis (RONa + R'X → ROR' + NaX; best with primary alkyl halide, since tertiary halides give elimination). Reactions: cleavage by HI (R–O–R' + HI → R–I + R'OH; with excess HI gives two RI); ethers are inert to bases, reducing agents and metals but form explosive peroxides on standing in air; they act as solvents (diethyl ether as anaesthetic earlier). Functional isomers: ethanol and methoxymethane."
+        ]
+      ]
+    }
+  ]
+}

@@ -163,6 +163,10 @@ question's own short note.
   5-mark answers). The 18 public-exam lessons of the NIOS bifurcation are included (numbered as in the bifurcation:
   30 is Immunobiology and 31 is Biotechnology). Diagram questions of the real papers are given as text equivalents.
   Past-paper questions of April 2025, October 2025 and April 2026 are tagged by exam.
+- `tools/build_chemistry.py`: builds Senior Secondary Chemistry (313) from `data/chemistry/src/lesson-<n>.json` with
+  `build_sci.py` (same 43-question, 80-mark paper pattern as Biology). The 20 public-exam lessons of the NIOS
+  bifurcation are included (lessons 1, 2, 4, 7, 9, 12, 13, 17, 18, 20–29 and 31); numerical answers show working, and
+  past-paper questions of October 2024 to April 2026 are tagged by exam.
 - Malayalam 3- and 5-mark answers (sections 9 and 10 of every lesson paper and model paper) carry a **Keywords** block
   to memorise and build sentences from. The keyword lists live in `data/malayalam/keywords/lesson-<n>.json` (one list
   per question, in order); `tools/apply_ml_keywords.py` stamps them into the lesson and model-paper JSON (matched by

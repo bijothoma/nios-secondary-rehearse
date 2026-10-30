@@ -1,0 +1,69 @@
+{
+  "subject": "chemistry",
+  "lesson": 22,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 22: Coordination Compounds — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Basic terms and Werner's theory"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "A coordination compound has a central metal atom or ion bonded to a fixed number of ligands (ions or molecules which donate electron pairs) by coordinate bonds. In [Co(NH3)6]Cl3 the coordination sphere is [Co(NH3)6]^3+ (the complex ion) and the counter ions are Cl−. Coordination number is the number of ligand donor atoms attached to the metal (6 in [Co(NH3)6]^3+, 4 in [Ni(CN)4]^2−). Ligands: monodentate (Cl−, NH3, H2O, CN−), bidentate (ethylenediamine en, oxalate ox^2−), polydentate (EDTA, hexadentate) and ambidentate (NO2−/ONO−, SCN−/NCS−, which can bind through two different atoms). Werner's theory: metals have primary valence (oxidation state, ionisable) and secondary valence (coordination number, non-ionisable, directional). Charge on complex = sum of the metal's oxidation state and ligand charges. Double salts break into simple ions in water whereas complexes keep the coordination sphere."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Nomenclature and isomerism"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "IUPAC naming: ligands first in alphabetical order, then the metal; the cation is named before the anion; prefixes di, tri for simple ligands and bis, tris for complex ligands; the oxidation state of the metal in Roman numerals; for anionic complexes the metal ends in -ate (ferrate, cuprate, argentate, platinate, cobaltate). Anionic ligands end in -o (chlorido, cyanido, oxalato); neutral ligands keep their names (ammine, aqua, carbonyl, ethane-1,2-diamine). Examples: [PtCl6]^2− hexachloridoplatinate(IV); K[Ag(CN)2] potassium dicyanidoargentate(I); [Co(NH3)6]Cl3 hexaamminecobalt(III) chloride. Structural isomerism: ionisation ([Co(NH3)5Br]SO4 and [Co(NH3)5SO4]Br), hydrate, linkage ([Co(NH3)5NO2]^2+ nitro and [Co(NH3)5ONO]^2+ nitrito), coordination ([Co(NH3)6][Cr(CN)6] and [Cr(NH3)6][Co(CN)6]). Stereoisomerism: geometrical (cis/trans in square planar [Pt(NH3)2Cl2] and octahedral [CoCl2(en)2]+, which has cis and trans forms; the cis form is optically active, giving 3 stereoisomers in all; fac/mer in MA3B3) and optical isomerism (non-superimposable mirror images, e.g. [Co(en)3]^3+)."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Bonding: VBT and crystal field theory"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "VBT: ligands donate pairs to empty hybrid orbitals of the metal – octahedral d²sp³ (inner orbital, low spin, uses (n−1)d: [Fe(CN)6]^3−, [Co(NH3)6]^3+) or sp³d² (outer orbital, high spin, uses nd: [FeF6]^3−, [CoF6]^3−); tetrahedral sp³ ([NiCl4]^2−, paramagnetic); square planar dsp² ([Ni(CN)4]^2−, [Pt(NH3)2Cl2], diamagnetic). [Fe(CN)6]^3− has one unpaired electron (paramagnetic, μ ≈ 1.73 BM). Crystal field theory: ligands split the d orbitals; in octahedral complexes into t2g (lower) and eg (higher) with splitting Δo; strong field ligands (CN−, CO) give low spin, weak field ligands (I−, Br−, Cl−, F−, H2O) give high spin. Colour arises from d–d transitions: [Ni(H2O)6]^2+ is green while [Ni(CN)4]^2− is colourless (square planar d⁸, strong field, diamagnetic and its absorption is not in the visible region). Applications: EDTA in water softening, cis-platin in cancer therapy, extraction of Ag and Au by cyanide complexes, chlorophyll (Mg), haemoglobin (Fe), vitamin B12 (Co)."
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,363 @@
+{
+  "subject": "chemistry",
+  "lesson": 29,
+  "title": "Biomolecules",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "12 × 1 = 12",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "Hormones are transported to their site of action by —",
+          "options": [
+            "blood",
+            "lymph only",
+            "nerves",
+            "diffusion through the skin"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "Oxytocin is a hormone which brings about —",
+          "options": [
+            "contraction of the uterus (childbirth) and milk ejection",
+            "lowering of blood sugar",
+            "growth of bones",
+            "increase in metabolic rate"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "Glucose is a —",
+          "options": [
+            "aldohexose",
+            "ketohexose",
+            "disaccharide",
+            "polysaccharide"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "The disaccharide that does not show reducing properties is —",
+          "options": [
+            "sucrose",
+            "maltose",
+            "lactose",
+            "cellobiose"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "The linkage between two amino acids in a protein is —",
+          "options": [
+            "peptide bond",
+            "glycosidic bond",
+            "ester bond",
+            "phosphodiester bond"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "The vitamin whose deficiency causes scurvy is —",
+          "options": [
+            "vitamin C",
+            "vitamin A",
+            "vitamin D",
+            "vitamin K"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "The base present in RNA but not in DNA is —",
+          "options": [
+            "uracil",
+            "thymine",
+            "adenine",
+            "guanine"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "Sucrose on hydrolysis gives —",
+          "options": [
+            "glucose and fructose",
+            "glucose and galactose",
+            "two glucose",
+            "glucose only"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "The secondary structure of proteins is stabilised by —",
+          "options": [
+            "hydrogen bonds",
+            "peptide bonds",
+            "glycosidic bonds",
+            "ionic bonds only"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "Which of the following is a fat-soluble vitamin?",
+          "options": [
+            "Vitamin D",
+            "Vitamin C",
+            "Vitamin B1",
+            "Vitamin B12"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "Denaturation of protein involves loss of —",
+          "options": [
+            "secondary and tertiary structure",
+            "primary structure",
+            "peptide bonds",
+            "amino acids"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "The pairing of bases in DNA is —",
+          "options": [
+            "A–T and G–C",
+            "A–G and T–C",
+            "A–U and G–C",
+            "A–C and G–T"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark.",
+      "marks": "8 × 2 = 16",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "(a) How are hormones transported to their place of action? (b) State the function of oxytocin.",
+          "answer": "(a) Through the blood stream (carried by blood to target organs). (b) It causes contraction of the uterus during childbirth and release of milk.",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "State true or false: (a) Sucrose is a reducing sugar. (b) Insulin is a steroid hormone.",
+          "answer": "(a) False – sucrose is non-reducing (the aldehyde and ketone groups are involved in the glycosidic link). (b) False – insulin is a polypeptide hormone.",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "Fill in: (a) A zwitterion has a ______ charge overall. (b) The vitamin deficient in rickets is ______.",
+          "answer": "(a) zero (net neutral). (b) vitamin D."
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Match: (a) Vitamin A (b) Vitamin B1 (c) Vitamin K with (i) beri-beri (ii) night blindness (iii) blood clotting.",
+          "answer": "(a)-(ii); (b)-(i); (c)-(iii)."
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "Name (a) the monomers of sucrose and (b) the sugar present in DNA.",
+          "answer": "(a) α-D-glucose and β-D-fructose. (b) 2-deoxy-D-ribose."
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "Write (a) the number of hydrogen bonds between A–T and G–C and (b) the type of RNA that carries amino acids.",
+          "answer": "(a) Two and three. (b) tRNA (transfer RNA)."
+        },
+        {
+          "id": "2.7",
+          "type": "open",
+          "q": "Name (a) the polysaccharide that is the storage form in animals and (b) the structural polysaccharide in plants.",
+          "answer": "(a) Glycogen. (b) Cellulose."
+        },
+        {
+          "id": "2.8",
+          "type": "open",
+          "q": "Write (a) the functional groups in an α-amino acid and (b) the structure of glycine.",
+          "answer": "(a) –NH2 and –COOH. (b) H2N–CH2–COOH."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "8 × 2 = 16",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "What are hormones? How are they transported?",
+          "answer": "Chemical messengers secreted by endocrine glands directly into the blood; they are carried by the blood to the target organs where they produce specific effects.",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "What is meant by the terms (a) anomers (b) invert sugar?",
+          "answer": "(a) Cyclic forms of a sugar differing in configuration at C-1 (α- and β-glucose). (b) The equimolar mixture of glucose and fructose obtained by hydrolysis of sucrose; it is laevorotatory."
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "What are essential amino acids? Give two examples.",
+          "answer": "Amino acids that cannot be synthesised by the body and must be taken in the diet, e.g. valine and lysine (also leucine)."
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "Distinguish between DNA and RNA (two points).",
+          "answer": "DNA contains deoxyribose and the base thymine, and is double-stranded; RNA contains ribose and uracil, and is single-stranded."
+        },
+        {
+          "id": "3.5",
+          "type": "open",
+          "q": "What is denaturation of proteins? Give an example.",
+          "answer": "Loss of the secondary and tertiary structure and biological activity of a protein due to heat, acid, alkali or heavy metals; the coagulation of egg white on boiling is an example."
+        },
+        {
+          "id": "3.6",
+          "type": "open",
+          "q": "Why is sucrose non-reducing while maltose is reducing?",
+          "answer": "In sucrose, the aldehyde of glucose and the ketone of fructose are both used in the glycosidic bond, leaving no free carbonyl; maltose has a free hemiacetal –OH at C-1 of one glucose."
+        },
+        {
+          "id": "3.7",
+          "type": "open",
+          "q": "Name the deficiency diseases caused by lack of vitamins A, C and D.",
+          "answer": "Night blindness (A), scurvy (C) and rickets (D)."
+        },
+        {
+          "id": "3.8",
+          "type": "open",
+          "q": "What is a peptide bond? Write the structure of a dipeptide of glycine and alanine.",
+          "answer": "The –CO–NH– amide linkage formed between –COOH of one amino acid and –NH2 of another. Gly–Ala: H2N–CH2–CO–NH–CH(CH3)–COOH."
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "6 × 3 = 18",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "Explain the structure of proteins: primary, secondary, tertiary and quaternary.",
+          "answer": "Primary: the sequence of amino acids joined by peptide bonds. Secondary: α-helix or β-sheet held by H-bonds. Tertiary: the overall 3D folding stabilised by disulphide, ionic, hydrogen and hydrophobic bonds. Quaternary: arrangement of several polypeptide subunits (haemoglobin)."
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "Describe the structures of starch and cellulose and compare them.",
+          "answer": "Starch: α-D-glucose units, amylose (unbranched, α-1,4) and amylopectin (branched, α-1,6), energy reserve of plants. Cellulose: β-D-glucose units joined by β-1,4 links, unbranched, structural material; humans cannot digest it."
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "What are nucleic acids? Describe the components of a nucleotide.",
+          "answer": "Polymers of nucleotides that store and transmit genetic information. A nucleotide = a pentose sugar (ribose or deoxyribose) + a nitrogenous base (A, G, C, T/U) + a phosphate group; nucleotides are joined by phosphodiester bonds."
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "Write the classification of vitamins with examples and one deficiency disease each.",
+          "answer": "Fat-soluble: A (night blindness), D (rickets), E (sterility in rats), K (blood clotting). Water-soluble: B1 (beri-beri), B12 (pernicious anaemia), C (scurvy)."
+        },
+        {
+          "id": "4.5",
+          "type": "open",
+          "q": "Explain why amino acids behave as amphoteric substances and exist as zwitterions.",
+          "answer": "They have an acidic –COOH and a basic –NH2; in solution the proton transfers from –COOH to –NH2 giving the dipolar ion H3N+–CHR–COO−, which can react with both acids and bases."
+        },
+        {
+          "id": "4.6",
+          "type": "open",
+          "q": "Write short notes on enzymes.",
+          "answer": "Enzymes are protein catalysts of biological reactions; they are highly specific, work at body temperature at an optimum pH and speed up reactions by lowering the activation energy (e.g. amylase digests starch, invertase hydrolyses sucrose, zymase brings about fermentation)."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Long answer questions. Answer in 80–120 words.",
+      "marks": "4 × 5 = 20",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "(a) Classify carbohydrates with examples. (b) Explain the structure of glucose (open chain and cyclic). (c) Why is glucose called a reducing sugar?",
+          "answer": "(a) Monosaccharides (glucose, fructose), disaccharides (sucrose, maltose, lactose) and polysaccharides (starch, cellulose, glycogen).\n(b) Open chain: HOCH2–(CHOH)4–CHO, an aldohexose; in the cyclic form the –CHO at C-1 reacts with the –OH at C-5 to give a six-membered pyranose ring (α- and β-anomers).\n(c) It has a free aldehyde (hemiacetal) group which reduces Tollens' and Fehling's reagents."
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "(a) What are proteins? Name the types of bonds that stabilise their structures. (b) Describe the four levels of protein structure and denaturation.",
+          "answer": "(a) Polymers of α-amino acids joined by peptide bonds; stabilised by hydrogen bonds, disulphide bridges, ionic and hydrophobic interactions.\n(b) Primary – sequence; secondary – α-helix and β-sheet; tertiary – 3D folding; quaternary – assembly of subunits. Denaturation by heat, pH or chemicals destroys the higher structures but not the primary one (egg white coagulates)."
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "(a) Compare DNA and RNA in structure and function. (b) State the base pairing rule and the type of bond that holds the strands.",
+          "answer": "(a) DNA: deoxyribose, A, G, C, T, double helix, stores genetic information; RNA: ribose, A, G, C, U, single strand, mRNA, tRNA and rRNA work in protein synthesis.\n(b) A pairs with T (two H-bonds) and G with C (three H-bonds); hydrogen bonds hold the two strands."
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "(a) What are hormones? Classify them with examples. (b) Name the functions of insulin, adrenaline and oxytocin. (c) List the vitamins and the diseases due to the deficiency of A, B1, C and D.",
+          "answer": "(a) Chemical messengers secreted by endocrine glands: steroids (sex hormones), polypeptides (insulin, oxytocin, vasopressin) and amino acid derivatives (thyroxine, adrenaline).\n(b) Insulin lowers blood sugar; adrenaline prepares the body for emergency; oxytocin causes uterine contraction and milk ejection.\n(c) A – night blindness; B1 – beri-beri; C – scurvy; D – rickets."
+        }
+      ]
+    }
+  ]
+}

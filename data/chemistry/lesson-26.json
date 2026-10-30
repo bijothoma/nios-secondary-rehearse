@@ -1,0 +1,372 @@
+{
+  "subject": "chemistry",
+  "lesson": 26,
+  "title": "Alcohols, Phenols and Ethers",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "12 × 1 = 12",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "Lucas test is used to distinguish between —",
+          "options": [
+            "1°, 2° and 3° alcohols",
+            "aldehydes and ketones",
+            "phenol and benzoic acid",
+            "ethers and alcohols only"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "Lucas reagent is —",
+          "options": [
+            "anhydrous ZnCl2 and conc. HCl",
+            "conc. H2SO4 and HNO3",
+            "Zn and HCl",
+            "NaOH and I2"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "The alcohol which gives turbidity immediately with Lucas reagent is —",
+          "options": [
+            "tertiary butyl alcohol",
+            "propan-1-ol",
+            "propan-2-ol",
+            "methanol"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "Phenol on reaction with bromine water gives —",
+          "options": [
+            "2,4,6-tribromophenol",
+            "o-bromophenol",
+            "p-bromophenol",
+            "bromobenzene"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "The Reimer–Tiemann reaction of phenol gives —",
+          "options": [
+            "salicylaldehyde",
+            "salicylic acid",
+            "picric acid",
+            "benzaldehyde"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "Which of the following is the most acidic?",
+          "options": [
+            "Phenol",
+            "Ethanol",
+            "Water",
+            "Cyclohexanol"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "Ethers are prepared by the Williamson synthesis from —",
+          "options": [
+            "sodium alkoxide and an alkyl halide",
+            "alcohol and aldehyde",
+            "alkene and water",
+            "two ketones"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "Ethanol on heating with conc. H2SO4 at 443 K gives —",
+          "options": [
+            "ethene",
+            "diethyl ether",
+            "ethanal",
+            "ethyl hydrogen sulphate only"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "Phenol turns FeCl3 solution —",
+          "options": [
+            "violet",
+            "red",
+            "yellow",
+            "green"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "The product of oxidation of a secondary alcohol is —",
+          "options": [
+            "a ketone",
+            "an aldehyde",
+            "a carboxylic acid",
+            "an ether"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "Which of the following has the highest boiling point?",
+          "options": [
+            "Ethanol",
+            "Methoxymethane",
+            "Propane",
+            "Ethanal"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "Cumene process gives phenol and —",
+          "options": [
+            "acetone",
+            "ethanol",
+            "formaldehyde",
+            "benzene"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark.",
+      "marks": "8 × 2 = 16",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "(a) Name the reagent used in the Lucas test. (b) Which alcohol reacts fastest?",
+          "answer": "(a) Anhydrous ZnCl2 and conc. HCl. (b) Tertiary alcohol (turbidity appears at once).",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "(a) Write the reaction of phenol with CHCl3 and NaOH. (b) Name the product.",
+          "answer": "(a) C6H5OH + CHCl3 + 3NaOH → o-HOC6H4CHO + 3NaCl + 2H2O (followed by acidification). (b) Salicylaldehyde (2-hydroxybenzaldehyde).",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "State true or false: (a) Phenol is more acidic than ethanol. (b) Ethers form hydrogen bonds with each other.",
+          "answer": "(a) True. (b) False – ethers cannot form hydrogen bonds among themselves, since they have no O–H."
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Fill in: (a) Oxidation of ethanol with acidified K2Cr2O7 first gives ______. (b) The functional group of ethers is ______.",
+          "answer": "(a) ethanal (then ethanoic acid). (b) –O– (C–O–C)."
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "Match: (a) Kolbe's reaction (b) Williamson synthesis (c) Lucas test with (i) ether (ii) salicylic acid (iii) alcohol classification.",
+          "answer": "(a)-(ii); (b)-(i); (c)-(iii)."
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "Write (a) the product of the reaction of ethanol with ethanoic acid and (b) the name of this reaction.",
+          "answer": "(a) Ethyl ethanoate (an ester), CH3COOC2H5. (b) Esterification."
+        },
+        {
+          "id": "2.7",
+          "type": "open",
+          "q": "Give (a) the IUPAC name of CH3CH2OCH3 and (b) the isomer of ethanol.",
+          "answer": "(a) Methoxyethane. (b) Methoxymethane (CH3OCH3)."
+        },
+        {
+          "id": "2.8",
+          "type": "open",
+          "q": "Name (a) the starting material for cumene process and (b) the by-product.",
+          "answer": "(a) Cumene (isopropylbenzene). (b) Acetone."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "8 × 2 = 16",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "Describe the Lucas test to distinguish between primary, secondary and tertiary alcohols.",
+          "answer": "The alcohol is shaken with Lucas reagent (conc. HCl + anhydrous ZnCl2). Tertiary: turbidity at once; secondary: turbidity in about five minutes; primary: no turbidity at room temperature (only on heating). The turbidity is due to insoluble alkyl chloride.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "Write the Reimer–Tiemann reaction.",
+          "answer": "Phenol is heated with chloroform in aqueous NaOH, then acidified: C6H5OH + CHCl3 + NaOH → salicylaldehyde. The electrophile is dichlorocarbene :CCl2.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "Why is phenol more acidic than ethanol?",
+          "answer": "The phenoxide ion is stabilised by resonance (the negative charge is delocalised over the ring), while the ethoxide ion has the charge localised on oxygen and is destabilised by the +I effect of the ethyl group."
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "Why do alcohols have higher boiling points than ethers of comparable molecular mass?",
+          "answer": "Alcohols form intermolecular hydrogen bonds; ethers cannot form hydrogen bonds among themselves."
+        },
+        {
+          "id": "3.5",
+          "type": "open",
+          "q": "What happens when ethanol is heated with conc. H2SO4 at (a) 443 K and (b) 413 K?",
+          "answer": "(a) CH3CH2OH → CH2=CH2 + H2O (ethene). (b) 2CH3CH2OH → C2H5OC2H5 + H2O (diethyl ether)."
+        },
+        {
+          "id": "3.6",
+          "type": "open",
+          "q": "Write Kolbe's reaction.",
+          "answer": "Sodium phenoxide with CO2 at 400 K and 4–7 atm, followed by acidification, gives salicylic acid (2-hydroxybenzoic acid)."
+        },
+        {
+          "id": "3.7",
+          "type": "open",
+          "q": "How is phenol prepared by the cumene process?",
+          "answer": "Cumene is oxidised with air to cumene hydroperoxide, which on treatment with dilute acid gives phenol and acetone."
+        },
+        {
+          "id": "3.8",
+          "type": "open",
+          "q": "State the reaction of phenol with bromine water and the observation.",
+          "answer": "C6H5OH + 3Br2 → 2,4,6-tribromophenol (white precipitate) + 3HBr; the bromine colour disappears."
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "6 × 3 = 18",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "Explain the acidic character of alcohols and phenols and compare their acidity.",
+          "answer": "Both react with sodium to give H2, but phenols (pKa about 10) are more acidic than alcohols (pKa 16–18) because the phenoxide ion is resonance stabilised, whereas alkyl groups destabilise alkoxide ions by +I. Electron-withdrawing groups such as –NO2 increase acidity (picric acid is as strong as mineral acids)."
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "How will you convert (a) ethanol to ethanoic acid (b) propene to propan-2-ol (c) phenol to salicylic acid?",
+          "answer": "(a) CH3CH2OH → (K2Cr2O7/H+) → CH3COOH. (b) CH3CH=CH2 + H2O/H+ → CH3CH(OH)CH3. (c) Phenol + NaOH → sodium phenoxide; + CO2, 400 K, then H+ → salicylic acid (Kolbe)."
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "Explain the Williamson synthesis with an example. Why can't tertiary halides be used?",
+          "answer": "Sodium alkoxide reacts with a primary alkyl halide by SN2: CH3CH2ONa + CH3Br → CH3CH2OCH3 + NaBr. A tertiary halide would undergo elimination to an alkene because the alkoxide is a strong base."
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "Write the product when diethyl ether reacts with (a) HI (excess) (b) HI (1 mol), and give reasons for the stability of ethers to bases.",
+          "answer": "(a) C2H5OC2H5 + 2HI → 2C2H5I + H2O. (b) C2H5OC2H5 + HI → C2H5I + C2H5OH. Ethers are stable to bases and reducing agents because the C–O bond is strong and has no acidic hydrogen."
+        },
+        {
+          "id": "4.5",
+          "type": "open",
+          "q": "Compare the oxidation of primary, secondary and tertiary alcohols.",
+          "answer": "Primary: R–CH2OH → aldehyde (with PCC) → carboxylic acid; secondary: ketone; tertiary: resist oxidation under mild conditions (C–C cleavage under drastic conditions)."
+        },
+        {
+          "id": "4.6",
+          "type": "open",
+          "q": "Explain the ortho/para directing effect of –OH in phenol with nitration and bromination.",
+          "answer": "The –OH group donates electrons to the ring by resonance, increasing electron density at o and p positions; so dilute HNO3 gives o- and p-nitrophenol and bromine water gives 2,4,6-tribromophenol."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Long answer questions. Answer in 80–120 words.",
+      "marks": "4 × 5 = 20",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "(a) How will you distinguish 1°, 2° and 3° alcohols by the Lucas test? Write the reactions. (b) Explain the ease of dehydration of alcohols. (c) Give two uses of methanol and ethanol.",
+          "answer": "(a) ROH + HCl (ZnCl2) → RCl + H2O: (CH3)3COH gives immediate cloudiness; (CH3)2CHOH in about 5 min; CH3CH2OH none at room temperature.\n(b) Dehydration order 3° > 2° > 1° as it follows an E1 mechanism through the carbocation (3° most stable).\n(c) Methanol: solvent, fuel and making formaldehyde; ethanol: beverages, solvent, antiseptic and fuel (gasohol).",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "(a) Explain Kolbe's reaction and Reimer–Tiemann reaction with equations. (b) Give the reaction of phenol with FeCl3 and with benzene diazonium chloride.",
+          "answer": "(a) Kolbe: C6H5ONa + CO2 (400 K, 4–7 atm) → sodium salicylate, then H+ → salicylic acid. Reimer–Tiemann: C6H5OH + CHCl3 + aq. NaOH (340 K) → salicylaldehyde (via :CCl2).\n(b) Neutral FeCl3 gives violet colour due to a complex; with C6H5N2+Cl− in alkaline medium it gives the orange p-hydroxyazobenzene (azo dye)."
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "(a) Discuss the preparation of alcohols from alkenes, carbonyl compounds and Grignard reagents. (b) Write two chemical reactions of alcohols showing O–H bond cleavage and C–O bond cleavage.",
+          "answer": "(a) Alkene hydration: CH3CH=CH2 + H2O/H+ → CH3CH(OH)CH3. Reduction: CH3CHO + NaBH4 → CH3CH2OH. Grignard: RMgX + HCHO → RCH2OH after hydrolysis.\n(b) O–H cleavage: 2ROH + 2Na → 2RONa + H2 (or esterification). C–O cleavage: ROH + HX → RX + H2O."
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "(a) Describe the preparation and chemical reactions of ethers. (b) Why are ethers soluble in water but have low boiling points? (c) Write the IUPAC names of CH3OCH2CH3 and C6H5OCH3.",
+          "answer": "(a) Prepared by dehydration of alcohol (413 K, excess alcohol) and Williamson synthesis. Reactions: cleavage with HI (R–O–R' + HI → RI + R'OH), electrophilic substitution of aromatic ethers (anisole gives o/p products) and peroxide formation in air.\n(b) The oxygen forms hydrogen bonds with water, but there is no hydrogen bonding among ether molecules, giving low boiling points.\n(c) Methoxyethane and methoxybenzene (anisole)."
+        }
+      ]
+    }
+  ]
+}

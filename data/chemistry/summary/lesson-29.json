@@ -1,0 +1,69 @@
+{
+  "subject": "chemistry",
+  "lesson": 29,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 29: Biomolecules — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Carbohydrates"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Carbohydrates are polyhydroxy aldehydes or ketones (or compounds giving them on hydrolysis) with the general formula Cx(H2O)y. Monosaccharides (glucose, fructose, galactose; glucose is an aldohexose and fructose a ketohexose, C6H12O6), disaccharides (sucrose = glucose + fructose joined by an α,β-glycosidic linkage, maltose = glucose + glucose, lactose = glucose + galactose) and polysaccharides (starch, cellulose, glycogen). Glucose has an open-chain structure with five –OH groups and a –CHO group; it exists mainly as cyclic hemiacetal (pyranose) forms, α-D- and β-D-glucose (anomers, differing at C-1). Reducing sugars (glucose, fructose, maltose, lactose) reduce Tollens' and Fehling's; sucrose is non-reducing. Starch has amylose (α-1,4 links, unbranched) and amylopectin (branched with α-1,6 links); cellulose is a β-1,4 polymer of glucose in plants; glycogen is the stored form in animals. Sucrose on hydrolysis gives invert sugar (a mixture of glucose and fructose)."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Proteins and amino acids"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Amino acids contain –NH2 and –COOH; the 20 α-amino acids in proteins exist as zwitterions (H3N+–CHR–COO−); isoelectric point is the pH at which the amino acid has no net charge. Essential amino acids (valine, leucine, lysine, etc.) cannot be made by the body and must come from the diet. A peptide bond (–CO–NH–) links amino acids: dipeptide, tripeptide, polypeptide. Protein structure: primary (sequence of amino acids), secondary (α-helix and β-pleated sheet, held by hydrogen bonds), tertiary (folding into a 3D shape with disulphide bridges, ionic and hydrophobic interactions) and quaternary (assembly of subunits, e.g. haemoglobin). Fibrous proteins (keratin, collagen) and globular proteins (albumin, haemoglobin, enzymes). Denaturation (by heat, acid, alkali) destroys the secondary and tertiary structure, e.g. coagulation of egg white. Enzymes are biological catalysts that are specific, e.g. amylase, maltase and invertase."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Vitamins, hormones and nucleic acids"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Vitamins are organic compounds needed in small amounts: fat-soluble (A, D, E, K) and water-soluble (B group, C). Deficiency diseases: A – night blindness, B1 – beri-beri, C – scurvy, D – rickets, K – blood clotting disorder, B12 – pernicious anaemia. Hormones are chemical messengers secreted by endocrine glands and carried by the blood to the target organs: steroid hormones (sex hormones, cortisol), polypeptide hormones (insulin, vasopressin, oxytocin – contraction of the uterus during childbirth and milk ejection) and amino acid derivatives (thyroxine, adrenaline). Nucleic acids: DNA and RNA are polymers of nucleotides (a pentose sugar + a phosphate + a nitrogen base). DNA: deoxyribose, bases A, G, C, T, double helix, stores genetic information; RNA: ribose, bases A, G, C, U, single strand (mRNA, tRNA, rRNA) – protein synthesis. In DNA, A pairs with T by two hydrogen bonds and G with C by three."
+        ]
+      ]
+    }
+  ]
+}

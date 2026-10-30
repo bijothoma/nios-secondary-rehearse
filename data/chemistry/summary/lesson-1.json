@@ -1,0 +1,69 @@
+{
+  "subject": "chemistry",
+  "lesson": 1,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 1: Atoms, Molecules and Chemical Arithmetic — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Basic ideas and laws of chemical combination"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Matter is made of atoms; Dalton's atomic theory (1808) says that atoms are indivisible, atoms of one element are identical, atoms of different elements differ in mass, compounds form by combination of atoms in simple whole-number ratios, and atoms are neither created nor destroyed in a reaction. Laws of chemical combination: conservation of mass (Lavoisier – total mass of reactants equals total mass of products), constant proportions (Proust – a compound always contains the same elements in the same mass ratio), multiple proportions (Dalton – when two elements form more than one compound, the masses of one that combine with a fixed mass of the other are in a simple whole-number ratio), Gay-Lussac's law of gaseous volumes and Avogadro's law (equal volumes of gases at the same temperature and pressure contain equal numbers of molecules)."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Atomic mass, mole and molar mass"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "One atomic mass unit (amu or u) is 1/12 of the mass of one carbon-12 atom (1.66 × 10^-27 kg). Relative atomic mass is the average mass of an atom compared with 1/12 of C-12. A mole is the amount of substance containing as many particles as there are atoms in 12 g of C-12, i.e. 6.022 × 10^23 (Avogadro constant, N_A). Molar mass is the mass of one mole in grams (numerically equal to the atomic/molecular mass in u). Number of moles = mass / molar mass = number of particles / N_A = volume at STP / 22.4 L. One mole of any gas occupies 22.4 L at STP (273 K, 1 bar nearly)."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Formulae and stoichiometry"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Percentage composition = (mass of the element / molar mass) × 100. The empirical formula is the simplest whole-number ratio of atoms; the molecular formula = (empirical formula)n where n = molar mass / empirical formula mass. Steps for the empirical formula: percentage → divide by atomic mass → divide by the smallest → make whole numbers. Stoichiometry uses a balanced equation: the coefficients give the mole ratios; the limiting reagent is the reactant that is completely used up and decides the amount of product. SI base units: metre, kilogram, second, ampere, kelvin, mole, candela. Concentration units: molarity (mol per litre of solution, changes with temperature), molality (mol per kg of solvent, independent of temperature) and mole fraction (independent of temperature)."
+        ]
+      ]
+    }
+  ]
+}

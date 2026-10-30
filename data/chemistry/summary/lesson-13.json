@@ -1,0 +1,69 @@
+{
+  "subject": "chemistry",
+  "lesson": 13,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 13: Electrochemistry — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Electrochemical cells"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "A redox reaction is the sum of an oxidation half (loss of electrons at the anode) and a reduction half (gain of electrons at the cathode). A galvanic (voltaic) cell converts chemical energy into electrical energy; in the Daniell cell Zn | Zn^2+ (1 M) || Cu^2+ (1 M) | Cu, the Zn electrode is the anode (negative) and the Cu electrode is the cathode (positive). The salt bridge (KCl or KNO3 in agar) completes the inner circuit, maintains electrical neutrality and prevents the accumulation of charge in the half cells; the external circuit is completed by the wire. Cell notation: anode on the left, cathode on the right; E°cell = E°cathode − E°anode. The standard hydrogen electrode (SHE: Pt, H2 (1 bar) | H+ (1 M)) is assigned E° = 0 V and used as the reference. A higher (more positive) reduction potential means a stronger oxidising agent; the electrochemical series arranges elements by E°."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Nernst equation, Gibbs energy and electrolysis"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Nernst equation: E = E° − (0.059/n) log Q at 298 K, e.g. for Zn + Cu^2+ → Zn^2+ + Cu, E = E° − (0.059/2) log([Zn^2+]/[Cu^2+]). At equilibrium E = 0 and E° = (0.059/n) log K_c. ΔG° = −nFE° (F = 96500 C mol^-1). Electrolysis: Faraday's first law m = ZIt (mass deposited is proportional to the charge), second law (masses deposited by the same charge are proportional to equivalent masses). 1 faraday = 96500 C; to deposit one mole of Cu from Cu^2+ requires 2 F. Products of electrolysis depend on electrode potentials, concentration and nature of electrodes: molten NaCl gives Na at cathode and Cl2 at anode; aqueous NaCl gives H2 and Cl2."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Conductance of electrolytic solutions and batteries"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Resistance R = ρ l/A; conductance G = 1/R (siemens); conductivity κ = 1/ρ (S m^-1). Molar conductivity Λm = κ/C (in S m² mol^-1, with C in mol m^-3) or Λm = κ × 1000/C (S cm² mol^-1, C in mol L^-1). Factors affecting conductivity of an electrolyte: nature of the electrolyte, temperature and concentration; for strong electrolytes Λm increases slightly on dilution (Debye–Hückel–Onsager: Λm = Λ°m − A√C); for weak electrolytes Λm rises sharply on dilution because the degree of ionisation increases. Kohlrausch's law: Λ°m = λ°+ + λ°− (limiting molar conductivity is the sum of ionic contributions); e.g. Λ°m(CH3COOH) = Λ°m(CH3COONa) + Λ°m(HCl) − Λ°m(NaCl). Degree of dissociation α = Λm/Λ°m. Batteries: primary (dry cell, mercury cell) and secondary (lead–acid battery; Ni–Cd cell). Fuel cells (H2–O2) convert fuel energy directly to electricity. Corrosion (rusting of iron) is an electrochemical process; prevention by painting, galvanising and cathodic protection."
+        ]
+      ]
+    }
+  ]
+}

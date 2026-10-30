@@ -1,0 +1,69 @@
+{
+  "subject": "chemistry",
+  "lesson": 12,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 12: Ionic Equilibrium — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Acids, bases and their strength"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Arrhenius: acids give H+ and bases give OH− in water. Brønsted–Lowry: an acid is a proton donor and a base is a proton acceptor; every acid has a conjugate base (HCl/Cl−, NH4+/NH3, H3O+/H2O) and every base has a conjugate acid; the stronger the acid, the weaker its conjugate base. Lewis: an acid accepts an electron pair and a base donates one (BF3, NH3). Strong electrolytes ionise completely; weak ones partly. Ostwald's dilution law: for a weak acid HA, K_a = Cα²/(1 − α) ≈ Cα², α = √(K_a/C): the degree of ionisation increases with dilution. For a weak base, K_b = Cα². A polyprotic (diprotic) acid such as H2SO3 or H2CO3 ionises in steps, with K1 > K2 because it is harder to remove H+ from a negative ion. Ionic product of water K_w = [H+][OH−] = 1 × 10^-14 at 298 K; pH = −log[H+]; pH + pOH = 14. pK_a = −log K_a; K_a × K_b = K_w for a conjugate pair."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Buffers, hydrolysis and solubility product"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Common ion effect: the ionisation of a weak electrolyte is suppressed by adding a strong electrolyte having a common ion. A buffer solution resists a change in pH on adding small amounts of acid or alkali: acidic buffer (weak acid + its salt, e.g. CH3COOH + CH3COONa), pH = pK_a + log([salt]/[acid]) (Henderson–Hasselbalch); basic buffer (weak base + its salt, e.g. NH4OH + NH4Cl), pOH = pK_b + log([salt]/[base]). Salt hydrolysis: salt of strong acid + strong base is neutral (NaCl); weak acid + strong base is basic (CH3COONa); strong acid + weak base is acidic (NH4Cl); weak acid + weak base depends on K_a and K_b."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Solubility product"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "For a sparingly soluble salt A_xB_y ⇌ xA^y+ + yB^x−, K_sp = [A^y+]^x[B^x−]^y. For AgCl, K_sp = s² (unit mol² L^-2); for CaF2 or Ag2CrO4 K_sp = 4s³ (unit mol³ L^-3); for Al(OH)3 K_sp = 27s⁴. A precipitate forms when the ionic product exceeds K_sp. Selective precipitation in qualitative analysis (Group II sulphides in acidic medium, Group IV in ammoniacal medium) uses the common ion effect. pH of strong acid of concentration C: pH = −log C; for a weak acid [H+] = √(K_a C)."
+        ]
+      ]
+    }
+  ]
+}

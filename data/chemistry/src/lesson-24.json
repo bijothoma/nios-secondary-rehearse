@@ -1,0 +1,60 @@
+{
+ "lesson": 24, "title": "Hydrocarbons", "module": 7,
+ "summary": [
+  "## Alkanes",
+  "Alkanes (CnH2n+2) are saturated hydrocarbons with only C–C and C–H σ bonds (sp³ carbon, tetrahedral, bond angle 109.5°). Preparation: hydrogenation of alkenes and alkynes (Sabatier–Senderens, Ni at 473 K), Wurtz reaction (2R–X + 2Na → R–R + 2NaX in dry ether), decarboxylation (RCOONa + NaOH/CaO → R–H + Na2CO3), Kolbe's electrolysis and reduction of haloalkanes. Properties: non-polar, low reactivity (paraffins); combustion (CH4 + 2O2 → CO2 + 2H2O); halogenation – a free-radical substitution with Cl2 in sunlight (initiation, propagation, termination), the reactivity order of H being 3° > 2° > 1° and Cl2 > Br2 (F2 explosive, I2 does not react); nitration, pyrolysis (cracking) of alkanes at high temperature gives lower alkanes and alkenes; conformations of ethane: staggered (more stable) and eclipsed (torsional strain).",
+  "## Alkenes and alkynes",
+  "Alkenes (CnH2n) have a C=C (sp², planar, 120°; one σ and one π bond). Preparation: dehydration of alcohols (conc. H2SO4 at 443 K), dehydrohalogenation of haloalkanes with alc. KOH (Saytzeff's rule: the more substituted alkene is the major product), partial hydrogenation of alkynes (Lindlar's catalyst gives cis-alkene; Na/liquid NH3 gives trans). Properties: electrophilic addition of H2, X2 (bromine water test), HX (Markovnikov's rule: the hydrogen adds to the carbon already having more hydrogens; anti-Markovnikov addition of HBr in the presence of a peroxide – Kharasch effect), H2O/H+ (hydration), cold dilute alkaline KMnO4 (Baeyer's reagent) gives a vicinal diol (glycol) with decolourisation of the purple colour, ozonolysis (O3, then Zn/H2O) gives aldehydes or ketones (ethene gives 2 HCHO), and polymerisation (polythene). Alkynes (CnH2n−2, C≡C: one σ and two π bonds, sp, linear 180°): ethyne is prepared from calcium carbide (CaC2 + 2H2O → C2H2 + Ca(OH)2); terminal alkynes are acidic (they form red precipitate with ammoniacal Cu2Cl2 and white precipitate with ammoniacal AgNO3 – Tollens' reagent); addition of H2O with HgSO4/H2SO4 gives acetaldehyde (propyne gives acetone); polymerisation gives benzene (red-hot iron tube, 873 K).",
+  "## Aromatic hydrocarbons"
+  ,
+  "Benzene (C6H6) is a planar hexagon with sp² carbons, six delocalised π electrons (Hückel's 4n + 2 rule, n = 1) and resonance energy about 150 kJ mol^-1, so all C–C bonds are 139 pm long. It is prepared by trimerisation of ethyne, decarboxylation of sodium benzoate and from coal tar. It undergoes electrophilic substitution (nitration with conc. HNO3 + conc. H2SO4 gives nitrobenzene; sulphonation; halogenation with Cl2/FeCl3; Friedel–Crafts alkylation and acylation with AlCl3) and addition only under drastic conditions (hydrogenation to cyclohexane, chlorination in sunlight to C6H6Cl6). Directing effects: –OH, –NH2, –CH3, –X are ortho/para directing (activating, except halogens deactivating); –NO2, –CHO, –COOH, –CN are meta directing (deactivating). Toluene on oxidation with alkaline KMnO4 gives benzoic acid."
+ ],
+ "mcq": [
+  ["Ethyne reacts with cold alkaline KMnO4 to give —", ["oxalic acid (via oxidation)", "ethane", "ethene", "methane"], "A", ["April 2026"]],
+  ["The reaction of ethene with cold alkaline KMnO4 gives —", ["ethylene glycol", "ethanol", "ethanal", "ethanoic acid"], "A"],
+  ["The product of ozonolysis of ethene (followed by Zn/H2O) is —", ["methanal", "ethanal", "ethanol", "methanoic acid"], "A", ["October 2025"]],
+  ["The hybridisation of carbon atoms in ethyne is —", ["sp", "sp²", "sp³", "sp³d"], "A"],
+  ["Markovnikov's rule is applicable to the addition of HBr to —", ["propene", "ethene", "ethyne in presence of peroxide", "benzene"], "A"],
+  ["The reaction of RX with sodium in dry ether is called —", ["Wurtz reaction", "Friedel–Crafts reaction", "Kolbe's reaction", "Sandmeyer reaction"], "A"],
+  ["Which of the following is a meta-directing group?", ["–NO2", "–OH", "–CH3", "–Cl"], "A"],
+  ["Pyrolysis of alkanes gives —", ["smaller alkanes and alkenes", "only hydrogen", "only carbon", "higher alkanes"], "A", ["October 2025"]],
+  ["The number of π electrons in benzene is —", ["6", "4", "3", "8"], "A"],
+  ["Calcium carbide on reaction with water gives —", ["ethyne", "ethene", "methane", "ethane"], "A"],
+  ["Free radical substitution is shown by —", ["alkanes", "alkenes", "alkynes", "benzene (electrophilic)"], "A"],
+  ["Which reagent is used to distinguish ethyne from ethene?", ["ammoniacal silver nitrate", "bromine water", "Baeyer's reagent", "ozone"], "A"]
+ ],
+ "objective": [
+  ["(a) Name the product of ethyne with cold alkaline KMnO4 (b) State Markovnikov's rule.", "(a) Oxidised to oxalic acid (sodium oxalate), decolourising the purple colour. (b) The negative part of an unsymmetrical reagent adds to the carbon of the double bond with fewer hydrogens.", ["April 2026"]],
+  ["(a) What is the product of ozonolysis of ethene? (b) What is pyrolysis of alkanes?", "(a) Two molecules of methanal (HCHO). (b) Decomposition of alkanes on heating to high temperature in the absence of air into lower alkanes and alkenes.", ["October 2025"]],
+  ["State true or false: (a) Benzene undergoes electrophilic substitution reactions. (b) Alkenes show addition reactions due to the presence of σ bonds.", "(a) True. (b) False – due to the π bond."],
+  ["Fill in: (a) The hybridisation of carbon in ethene is ______. (b) The shape of ethyne is ______.", "(a) sp². (b) linear."],
+  ["Match: (a) Wurtz reaction (b) Baeyer's reagent (c) Lindlar's catalyst with (i) partial hydrogenation of alkyne (ii) 2RX + 2Na (iii) cold alkaline KMnO4.", "(a)-(ii); (b)-(iii); (c)-(i)."],
+  ["Write (a) the reaction of calcium carbide with water and (b) the general formula of alkynes.", "(a) CaC2 + 2H2O → C2H2 + Ca(OH)2. (b) CnH2n−2."],
+  ["Name (a) the product of nitration of benzene and (b) the catalyst for Friedel–Crafts reactions.", "(a) Nitrobenzene. (b) Anhydrous AlCl3."],
+  ["Write (a) the product of the addition of Br2 to ethene and (b) the colour change observed.", "(a) 1,2-Dibromoethane. (b) The reddish-brown colour of bromine water is decolourised."]
+ ],
+ "vsa": [
+  ["Write the product obtained when ethyne reacts with cold alkaline KMnO4 and state the observation.", "Ethyne is oxidised, first to a diketone and then to oxalic acid/sodium oxalate; the purple colour of KMnO4 disappears and brown MnO2 may separate.", ["April 2026"]],
+  ["Describe the ozonolysis of ethene with equations.", "CH2=CH2 + O3 → ozonide; ozonide + Zn/H2O → 2HCHO + ZnO (two molecules of methanal).", ["October 2025"]],
+  ["What is pyrolysis (cracking) of alkanes? Give an example.", "Heating alkanes at high temperature in the absence of air to break them into smaller hydrocarbons: C6H14 → C3H6 + C3H8 (also C2H4 + C4H10).", ["October 2025"]],
+  ["State Markovnikov's rule with an example.", "In the addition of an unsymmetrical reagent to an unsymmetrical alkene, the negative part adds to the carbon carrying fewer hydrogens. CH3CH=CH2 + HBr → CH3CHBrCH3."],
+  ["Why is benzene less reactive in addition but gives substitution reactions?", "The delocalised π electron cloud gives great resonance stability (about 150 kJ mol^-1); addition would destroy aromaticity, whereas substitution retains it."],
+  ["Write the Wurtz reaction for the preparation of ethane.", "2CH3Br + 2Na → CH3–CH3 + 2NaBr (dry ether)."],
+  ["What is the cause of the acidic nature of terminal alkynes? How is it shown?", "The sp carbon is more electronegative (50% s character), making the C–H bond more polar; terminal alkynes give white (Ag) or red (Cu) precipitates with ammoniacal AgNO3 or Cu2Cl2."],
+  ["Distinguish between ethene and ethane by a chemical test.", "Ethene decolourises bromine water (or Baeyer's reagent) while ethane does not."]
+ ],
+ "sa": [
+  ["Explain the mechanism of free-radical chlorination of methane.", "Initiation: Cl2 → 2Cl• (UV). Propagation: Cl• + CH4 → HCl + •CH3; •CH3 + Cl2 → CH3Cl + Cl•. Termination: Cl• + Cl• → Cl2; •CH3 + •CH3 → C2H6; •CH3 + Cl• → CH3Cl."],
+  ["Explain the addition of HBr to propene with and without peroxide.", "Without peroxide (Markovnikov): CH3CH=CH2 + HBr → CH3CHBrCH3 (2-bromopropane). With peroxide (anti-Markovnikov, free radical, Kharasch effect): CH3CH=CH2 + HBr → CH3CH2CH2Br (1-bromopropane)."],
+  ["Write the structure and bonding of benzene and explain its aromatic character.", "A planar hexagon of sp² carbons with six delocalised π electrons above and below the ring; all C–C bonds are equal (139 pm); resonance between two Kekulé structures; it follows Hückel's rule (4n + 2 = 6 π electrons), hence is aromatic and unusually stable."],
+  ["How will you convert (a) ethyne to benzene (b) ethene to ethanol (c) benzene to nitrobenzene?", "(a) Passing ethyne through a red-hot iron tube (873 K) – trimerisation. (b) Hydration of ethene with water in the presence of H3PO4 or by H2SO4 followed by hydrolysis. (c) Treating benzene with a mixture of conc. HNO3 and conc. H2SO4 at 323–333 K."],
+  ["Explain the directive influence of –OH and –NO2 on electrophilic substitution of benzene.", "–OH is electron-releasing by resonance (activating), so it directs the incoming group to ortho and para positions. –NO2 is electron-withdrawing (deactivating) and directs the incoming electrophile to the meta position."],
+  ["Distinguish between alkanes, alkenes and alkynes on the basis of hybridisation, shape and type of bond.", "Alkanes: sp³, tetrahedral, only σ bonds; alkenes: sp², planar, one σ and one π; alkynes: sp, linear, one σ and two π bonds."]
+ ],
+ "la": [
+  ["(a) How is ethene prepared in the laboratory? (b) Give the reactions of ethene with (i) HBr (ii) cold alkaline KMnO4 (iii) ozone followed by Zn/H2O. (c) Name the test used to distinguish alkenes from alkanes.", "(a) By heating ethanol with conc. H2SO4 at 443 K: CH3CH2OH → CH2=CH2 + H2O.\n(b) (i) CH2=CH2 + HBr → CH3CH2Br. (ii) CH2=CH2 + [O] + H2O → HOCH2CH2OH (the purple colour disappears). (iii) CH2=CH2 + O3 → ozonide → 2HCHO.\n(c) Bromine water or Baeyer's test (decolourisation).", ["April 2026"]],
+  ["(a) Discuss the halogenation of alkanes: mechanism and reactivity. (b) Write the products of monochlorination of propane.", "(a) A free-radical chain reaction: initiation by sunlight forming Cl•; propagation by H abstraction and attack on Cl2; termination by radical coupling. The reactivity order of H is 3° > 2° > 1° and of halogens F2 > Cl2 > Br2 > I2.\n(b) CH3CH2CH3 + Cl2 → CH3CH2CH2Cl (1-chloropropane) + CH3CHClCH3 (2-chloropropane) + HCl.", ["April 2026"]],
+  ["(a) Describe the preparation of ethyne. (b) Explain its acidic character and give reactions with ammoniacal silver nitrate and water (HgSO4/H2SO4). (c) Write two uses.", "(a) CaC2 + 2H2O → HC≡CH + Ca(OH)2.\n(b) The sp C–H bond is polar so the H is acidic: HC≡CH + 2[Ag(NH3)2]+ → AgC≡CAg (white) + ...; hydration: HC≡CH + H2O (HgSO4, H2SO4) → CH3CHO via the enol.\n(c) Oxy-acetylene welding and manufacture of ethanal and PVC."],
+  ["(a) Explain the electrophilic substitution of benzene: nitration, halogenation, Friedel–Crafts alkylation and acylation. (b) Write the mechanism of nitration.", "(a) Nitration: C6H6 + HNO3 (H2SO4) → C6H5NO2. Halogenation: C6H6 + Cl2 (FeCl3) → C6H5Cl + HCl. Alkylation: C6H6 + CH3Cl (AlCl3) → C6H5CH3. Acylation: C6H6 + CH3COCl (AlCl3) → C6H5COCH3.\n(b) HNO3 + 2H2SO4 → NO2+ + H3O+ + 2HSO4−; NO2+ attacks benzene to give the arenium ion, which loses H+ to restore aromaticity."]
+ ]
+}

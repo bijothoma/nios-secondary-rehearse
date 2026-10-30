@@ -1,0 +1,402 @@
+{
+  "subject": "chemistry",
+  "lesson": 22,
+  "title": "Coordination Compounds",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "12 × 1 = 12",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "The coordination number of Co in [CoCl2(en)2]+ is —",
+          "options": [
+            "6",
+            "4",
+            "2",
+            "5"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "The IUPAC name of [PtCl6]^2− is —",
+          "options": [
+            "hexachloridoplatinate(IV)",
+            "hexachloroplatinum(II)",
+            "hexachloridoplatinate(II)",
+            "platinum hexachloride"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "Ethylenediamine (en) is a —",
+          "options": [
+            "bidentate ligand",
+            "monodentate ligand",
+            "tridentate ligand",
+            "ambidentate ligand"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "The oxidation state of Fe in K3[Fe(CN)6] is —",
+          "options": [
+            "+3",
+            "+2",
+            "+6",
+            "+1"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "Which complex is paramagnetic?",
+          "options": [
+            "[Fe(CN)6]^3−",
+            "[Fe(CN)6]^4−",
+            "[Ni(CN)4]^2−",
+            "[Zn(NH3)4]^2+"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "Linkage isomerism is shown by complexes containing —",
+          "options": [
+            "ambidentate ligands",
+            "bidentate ligands",
+            "monodentate ligands only",
+            "polydentate ligands"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "An outer-orbital (high-spin) octahedral complex uses the hybridisation —",
+          "options": [
+            "sp³d²",
+            "d²sp³",
+            "dsp²",
+            "sp³"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "[Ni(CN)4]^2− has the geometry —",
+          "options": [
+            "square planar",
+            "tetrahedral",
+            "octahedral",
+            "linear"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "The number of geometrical isomers of [Pt(NH3)2Cl2] is —",
+          "options": [
+            "2",
+            "1",
+            "3",
+            "4"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "Which of the following is a strong field ligand?",
+          "options": [
+            "CN−",
+            "I−",
+            "Br−",
+            "H2O"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "The central metal ion in chlorophyll is —",
+          "options": [
+            "Mg",
+            "Fe",
+            "Co",
+            "Cu"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "The drug cis-platin contains —",
+          "options": [
+            "platinum",
+            "palladium",
+            "iron",
+            "cobalt"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark.",
+      "marks": "8 × 2 = 16",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "(a) Write the IUPAC name of K[Ag(CN)2]. (b) Write the oxidation state of silver in it.",
+          "answer": "(a) Potassium dicyanidoargentate(I). (b) +1.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "State true or false: (a) [Fe(CN)6]^3− is paramagnetic. (b) Transition metal ions in complexes are usually coloured.",
+          "answer": "(a) True (one unpaired electron). (b) True – due to d–d transitions.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "Name the type of isomerism in (a) [Co(NH3)5NO2]^2+ and [Co(NH3)5ONO]^2+ (b) [Co(NH3)6][Cr(C2O4)3] and [Cr(NH3)6][Co(C2O4)3].",
+          "answer": "(a) Linkage isomerism. (b) Coordination isomerism.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Fill in: (a) The hybridisation of Ni in [Ni(CN)4]^2− is ______. (b) The geometry of [NiCl4]^2− is ______.",
+          "answer": "(a) dsp². (b) tetrahedral."
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "Match: (a) EDTA (b) cis-platin (c) Haemoglobin with (i) Fe (ii) cancer therapy (iii) hexadentate ligand.",
+          "answer": "(a)-(iii); (b)-(ii); (c)-(i)."
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "Identify (a) the ligands and (b) the counter ion in [Co(NH3)6]Cl3.",
+          "answer": "(a) Six NH3 (ammine) ligands. (b) Cl− (three)."
+        },
+        {
+          "id": "2.7",
+          "type": "open",
+          "q": "Write (a) the coordination number and (b) the oxidation state of Co in [Co(en)3]^3+.",
+          "answer": "(a) 6 (three bidentate ligands). (b) +3."
+        },
+        {
+          "id": "2.8",
+          "type": "open",
+          "q": "State (a) the type of ligand SCN− and (b) the donor atoms.",
+          "answer": "(a) Ambidentate. (b) S (thiocyanato) or N (isothiocyanato)."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "8 × 2 = 16",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "Write the IUPAC names of [PtCl6]^2− and K[Ag(CN)2].",
+          "answer": "[PtCl6]^2−: hexachloridoplatinate(IV); K[Ag(CN)2]: potassium dicyanidoargentate(I).",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "What is meant by linkage isomerism? Give an example.",
+          "answer": "Isomerism due to ambidentate ligands that can attach through different donor atoms. [Co(NH3)5NO2]^2+ (N-bonded nitro) and [Co(NH3)5ONO]^2+ (O-bonded nitrito).",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "What are outer-orbital and inner-orbital complexes? Give an example of each.",
+          "answer": "Outer-orbital: octahedral complex using sp³d² (nd orbitals), high spin, e.g. [FeF6]^3−. Inner-orbital: uses d²sp³ ((n−1)d orbitals), low spin, e.g. [Fe(CN)6]^3−.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "Why is a solution of [Ni(H2O)6]^2+ green while [Ni(CN)4]^2− is colourless?",
+          "answer": "In [Ni(H2O)6]^2+ (Ni^2+, d⁸) two unpaired electrons undergo d–d transitions absorbing visible light. In [Ni(CN)4]^2− the strong-field CN− pairs all electrons (dsp², square planar, diamagnetic), so there is no d–d absorption in the visible region.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "3.5",
+          "type": "open",
+          "q": "Why is [Fe(CN)6]^3− paramagnetic?",
+          "answer": "Fe^3+ is d⁵; with strong CN− ligands the electrons pair up to d²sp³, leaving one unpaired electron.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "3.6",
+          "type": "open",
+          "q": "What is a chelate? Give an example.",
+          "answer": "A complex in which a polydentate ligand binds the metal through two or more donor atoms forming a ring, such as [Co(en)3]^3+ or the EDTA complex of Ca^2+."
+        },
+        {
+          "id": "3.7",
+          "type": "open",
+          "q": "Define coordination number and give an example.",
+          "answer": "The number of donor atoms bonded to the central metal in a complex; it is 6 in [Co(NH3)6]^3+."
+        },
+        {
+          "id": "3.8",
+          "type": "open",
+          "q": "Name the complex [Co(NH3)5Cl]Cl2 and state its coordination number.",
+          "answer": "Pentaamminechloridocobalt(III) chloride; coordination number 6."
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "6 × 3 = 18",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "For the complex [CoCl2(en)2]+: (a) how many geometrical isomers exist? (b) Is optical isomerism possible?",
+          "answer": "(a) Two geometrical isomers: cis (Cl groups adjacent) and trans (Cl groups opposite).\n(b) The cis form lacks a plane of symmetry and exists as a pair of non-superimposable mirror images (d and l); the trans form is optically inactive. So three stereoisomers exist.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "Write the isomers of [Co(NH3)6][Cr(C2O4)3] and the type of isomerism shown.",
+          "answer": "[Cr(NH3)6][Co(C2O4)3] is the isomer, formed by exchange of the metals between cation and anion. This is coordination isomerism.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "Explain the bonding in [Fe(CN)6]^4− and [FeF6]^3− on the basis of valence bond theory.",
+          "answer": "[Fe(CN)6]^4−: Fe^2+ is d⁶; strong CN− pairs the electrons, using two 3d, one 4s and three 4p orbitals (d²sp³), diamagnetic, inner orbital. [FeF6]^3−: Fe^3+ d⁵; weak F− does not pair them, using 4s, 4p and two 4d (sp³d²), five unpaired electrons, outer orbital, paramagnetic."
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "Explain crystal field splitting in octahedral complexes and the difference between high spin and low spin.",
+          "answer": "In an octahedral field the d orbitals split into t2g (lower) and eg (higher). If Δo is greater than the pairing energy (strong-field ligand), electrons pair up in t2g (low spin); if Δo is smaller (weak-field ligand), electrons occupy eg before pairing (high spin)."
+        },
+        {
+          "id": "4.5",
+          "type": "open",
+          "q": "Write the IUPAC names and the oxidation states of the metals in [Co(NH3)4Cl2]Cl, K4[Fe(CN)6] and [Ni(CO)4].",
+          "answer": "Tetraamminedichloridocobalt(III) chloride (+3); potassium hexacyanidoferrate(II) (+2); tetracarbonylnickel(0) (0)."
+        },
+        {
+          "id": "4.6",
+          "type": "open",
+          "q": "State three applications of coordination compounds.",
+          "answer": "EDTA is used to estimate Ca^2+ and Mg^2+ (hardness) and in lead poisoning; cis-platin is an anticancer drug; extraction of silver and gold by cyanide complexes; haemoglobin, chlorophyll and vitamin B12 are coordination compounds."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Long answer questions. Answer in 80–120 words.",
+      "marks": "4 × 5 = 20",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "(a) Give the IUPAC names of (i) [PtCl6]^2− (ii) K[Ag(CN)2]. (b) For [CoCl2(en)2]+ (i) identify the number of geometrical isomers and draw their structures; (ii) state whether optical isomers exist.",
+          "answer": "(a) (i) Hexachloridoplatinate(IV); (ii) potassium dicyanidoargentate(I).\n(b) (i) Two: cis – the two Cl on adjacent corners of the octahedron with the two en rings spanning the remaining positions; trans – the two Cl on opposite corners (axial) with both en rings in the plane. (ii) The cis isomer has no plane of symmetry and shows optical isomerism (d and l forms); the trans isomer is optically inactive.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "(a) Write the isomers of [Co(NH3)6][Cr(C2O4)3] and name the type of isomerism. (b) A solution of [Ni(H2O)6]^2+ is green but a solution of [Ni(CN)4]^2− is colourless. Explain (Ni = 28).",
+          "answer": "(a) [Cr(NH3)6][Co(C2O4)3]; coordination isomerism (the ligands are distributed differently between the cationic and anionic parts).\n(b) Ni^2+ is 3d⁸. In [Ni(H2O)6]^2+, H2O is a weak ligand, so two unpaired electrons remain, sp³d² (outer), and d–d transitions give green colour. In [Ni(CN)4]^2−, CN− is a strong ligand which pairs the electrons, dsp² square planar, diamagnetic – no d–d transition in the visible region, hence colourless.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "(a) Explain Werner's theory. (b) Name the types of isomerism in coordination compounds with one example of each.",
+          "answer": "(a) Metals show two types of valence: primary (ionisable, equal to the oxidation state) and secondary (non-ionisable, equal to coordination number, directed in space to give geometry such as octahedral); e.g. CoCl3·6NH3 has 3 primary and 6 secondary valences and gives 3 Cl− with AgNO3.\n(b) Ionisation – [Co(NH3)5Br]SO4 and [Co(NH3)5SO4]Br; hydrate – [Cr(H2O)6]Cl3 and [Cr(H2O)5Cl]Cl2·H2O; linkage – nitro and nitrito; coordination – [Co(NH3)6][Cr(CN)6] and [Cr(NH3)6][Co(CN)6]; geometrical – cis/trans-[Pt(NH3)2Cl2]; optical – [Co(en)3]^3+."
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "(a) Explain the geometry and magnetic behaviour of [Ni(CN)4]^2−, [NiCl4]^2− and [Fe(CN)6]^3− using VBT. (b) State two biological importances of complexes.",
+          "answer": "(a) [Ni(CN)4]^2−: Ni^2+ d⁸, strong ligand pairs electrons, dsp², square planar, diamagnetic. [NiCl4]^2−: weak ligand, sp³, tetrahedral, two unpaired electrons, paramagnetic. [Fe(CN)6]^3−: Fe^3+ d⁵ with CN−, d²sp³, octahedral, one unpaired electron, paramagnetic.\n(b) Chlorophyll (Mg) in photosynthesis and haemoglobin (Fe) in oxygen transport."
+        }
+      ]
+    }
+  ]
+}

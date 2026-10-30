@@ -1,0 +1,399 @@
+{
+  "subject": "chemistry",
+  "lesson": 7,
+  "title": "Solutions",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "12 × 1 = 12",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "The ratio of the moles of one component to the total number of moles of the solution is called —",
+          "options": [
+            "mole fraction",
+            "molarity",
+            "molality",
+            "normality"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "Which concentration term is independent of temperature?",
+          "options": [
+            "Molality",
+            "Molarity",
+            "Normality",
+            "Mass per unit volume"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "Raoult's law is applicable to —",
+          "options": [
+            "ideal solutions of volatile components",
+            "all solutions",
+            "non-volatile solutes only",
+            "gases only"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "The van't Hoff factor for K2SO4 on complete dissociation is —",
+          "options": [
+            "3",
+            "2",
+            "1",
+            "4"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "The unit of molal elevation constant K_b is —",
+          "options": [
+            "K kg mol^-1",
+            "K mol kg^-1",
+            "mol kg^-1",
+            "kg K^-1 mol"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "A solution showing negative deviation from Raoult's law has —",
+          "options": [
+            "ΔH_mix < 0",
+            "ΔH_mix > 0",
+            "ΔV_mix > 0",
+            "ΔH_mix = 0"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "Which pair forms an ideal solution?",
+          "options": [
+            "Benzene and toluene",
+            "Ethanol and acetone",
+            "Chloroform and acetone",
+            "Water and HNO3"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "Osmosis is the flow of solvent through a semipermeable membrane from —",
+          "options": [
+            "dilute to concentrated solution",
+            "concentrated to dilute solution",
+            "high temperature to low",
+            "solid to liquid"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "The osmotic pressure of a solution is given by —",
+          "options": [
+            "π = CRT",
+            "π = C/RT",
+            "π = RT/C",
+            "π = CR/T"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "Two solutions having the same osmotic pressure are called —",
+          "options": [
+            "isotonic",
+            "hypertonic",
+            "hypotonic",
+            "azeotropic"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "On adding a non-volatile solute to a solvent, its freezing point —",
+          "options": [
+            "decreases",
+            "increases",
+            "remains the same",
+            "becomes zero"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "The solubility of a gas in a liquid increases with —",
+          "options": [
+            "increase of pressure",
+            "increase of temperature",
+            "decrease of pressure",
+            "decrease of the volume of liquid only"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark.",
+      "marks": "8 × 2 = 16",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "State true or false: (a) Raoult's law is applicable only if the liquids are volatile and miscible. (b) The boiling point of a liquid is the temperature at which its vapour pressure becomes zero.",
+          "answer": "(a) True. (b) False – it is the temperature at which the vapour pressure equals the external (atmospheric) pressure.",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "(a) What is the van't Hoff factor of K2SO4? (b) Write the expression for the elevation of boiling point of an electrolyte using it.",
+          "answer": "(a) i = 3 (2K+ + SO4^2−). (b) ΔT_b = i · K_b · m.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "Fill in: (a) The molar concentration of solute particles is related to osmotic pressure by π = ______. (b) A solution with positive deviation has ΔH_mix ______ than zero.",
+          "answer": "(a) CRT (i.e. π = nRT/V). (b) greater."
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Match: (a) ΔT_b (b) π (c) Henry's law with (i) CRT (ii) K_b·m (iii) gas solubility.",
+          "answer": "(a)-(ii); (b)-(i); (c)-(iii)."
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "Define (a) molarity (b) molality.",
+          "answer": "(a) Moles of solute dissolved per litre of solution. (b) Moles of solute dissolved per kilogram of solvent."
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "Name the type of deviation shown by (a) ethanol–acetone mixture (b) chloroform–acetone mixture.",
+          "answer": "(a) Positive deviation. (b) Negative deviation.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "2.7",
+          "type": "open",
+          "q": "State true or false: (a) Ideal solutions have ΔV_mix = 0. (b) Reverse osmosis uses pressure smaller than the osmotic pressure.",
+          "answer": "(a) True. (b) False – larger than the osmotic pressure."
+        },
+        {
+          "id": "2.8",
+          "type": "open",
+          "q": "Fill in: (a) Depression of freezing point ΔT_f = ______. (b) The colligative properties depend on the ______ of the solute particles.",
+          "answer": "(a) K_f · m. (b) number."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "8 × 2 = 16",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "State Raoult's law for a solution of a volatile liquid.",
+          "answer": "The partial vapour pressure of each component in a solution is directly proportional to its mole fraction: p_A = x_A · p°_A; the total pressure is the sum of the partial pressures.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "Calculate the van't Hoff factor of K2SO4 if it dissociates completely, and explain its meaning.",
+          "answer": "K2SO4 → 2K+ + SO4^2−, so i = 3. It is the ratio of the observed colligative property (number of particles) to the value calculated assuming no dissociation or association.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "What are non-ideal solutions? Which pair of liquids shows positive deviation?",
+          "answer": "Solutions that do not obey Raoult's law over the whole range of concentration (ΔH_mix and ΔV_mix are not zero). Ethanol + acetone shows positive deviation.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "What are colligative properties? Name any two.",
+          "answer": "Properties of dilute solutions that depend on the number of solute particles and not on their nature, for example relative lowering of vapour pressure and osmotic pressure (also boiling point elevation and freezing point depression).",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "3.5",
+          "type": "open",
+          "q": "What is osmotic pressure? Write its expression.",
+          "answer": "The excess pressure that must be applied to the solution side to stop osmosis of the solvent through a semipermeable membrane. π = CRT.",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "3.6",
+          "type": "open",
+          "q": "What is meant by relative lowering of vapour pressure? Write the relation with mole fraction.",
+          "answer": "(p° − p)/p° is the relative lowering of vapour pressure; it equals the mole fraction of the non-volatile solute, x_B."
+        },
+        {
+          "id": "3.7",
+          "type": "open",
+          "q": "Why does the freezing point of a solvent decrease on adding a non-volatile solute?",
+          "answer": "The vapour pressure of the solution is lower than that of the pure solvent, so the solution's vapour pressure curve meets that of the solid solvent at a lower temperature."
+        },
+        {
+          "id": "3.8",
+          "type": "open",
+          "q": "State Henry's law and give one application.",
+          "answer": "At constant temperature the solubility of a gas in a liquid is proportional to the pressure of the gas above the liquid (p = K_H·x). Application: soda water is bottled under high CO2 pressure; scuba divers use diluted air to avoid bends."
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "6 × 3 = 18",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "A solution containing 12.5 g of a non-electrolyte in 175 g of water gave a boiling point elevation of 0.70 K. Calculate the molar mass of the solute (K_b for water = 0.52 K kg mol^-1).",
+          "answer": "M_B = K_b × w_B × 1000 / (ΔT_b × w_A)\n= 0.52 × 12.5 × 1000 / (0.70 × 175)\n= 6500 / 122.5 = 53.06 g mol^-1.",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "Calculate the molar mass of K2SO4 if a solution of 2.5 g of it in 100 mL has an osmotic pressure of 10.6 atm at 300 K, assuming complete dissociation (R = 0.0821 L atm K^-1 mol^-1).",
+          "answer": "With complete dissociation i = 3 and π = i (w/M)(RT/V).\nM = i w R T / (π V) = 3 × 2.5 × 0.0821 × 300 / (10.6 × 0.1)\n= 184.7 / 1.06 = 174 g mol^-1.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "Differentiate between ideal and non-ideal solutions (three points) with examples.",
+          "answer": "Ideal: obey Raoult's law at all concentrations, ΔH_mix = 0, ΔV_mix = 0 (benzene + toluene). Non-ideal: deviate from Raoult's law, ΔH_mix and ΔV_mix non-zero; positive deviation (ethanol + acetone, A–B attraction weaker) or negative deviation (chloroform + acetone, A–B attraction stronger)."
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "What is the molar concentration of solute particles in human blood if the osmotic pressure is 7.2 atm at 37 °C? (R = 0.0821 L atm K^-1 mol^-1)",
+          "answer": "C = π/RT = 7.2 / (0.0821 × 310) = 7.2 / 25.45 = 0.283 mol L^-1.",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "4.5",
+          "type": "open",
+          "q": "What is abnormal molar mass? Explain with association and dissociation.",
+          "answer": "Molar mass determined from colligative properties that differs from the normal value because the solute dissociates (observed molar mass lower, i > 1; KCl in water) or associates (observed molar mass higher, i < 1; ethanoic acid dimerises in benzene). i = normal molar mass / observed molar mass."
+        },
+        {
+          "id": "4.6",
+          "type": "open",
+          "q": "Explain osmosis and reverse osmosis with a use of each.",
+          "answer": "Osmosis: net flow of solvent from dilute to concentrated solution through a semipermeable membrane (swelling of raisins in water). Reverse osmosis: applying pressure greater than the osmotic pressure on the concentrated side pushes solvent out of it; used for desalination of sea water."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Long answer questions. Answer in 80–120 words.",
+      "marks": "4 × 5 = 20",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "(a) What are non-ideal solutions? (b) What type of liquid pair shows (i) positive deviation (ii) negative deviation from Raoult's law?",
+          "answer": "(a) Solutions which do not obey Raoult's law over the entire range of composition; their enthalpy and volume of mixing are not zero.\n(b) (i) Positive deviation: when A–B interactions are weaker than A–A and B–B (ethanol + acetone; ΔH_mix > 0, vapour pressure higher than expected). (ii) Negative deviation: when A–B interactions are stronger (chloroform + acetone, HNO3 + water; ΔH_mix < 0, vapour pressure lower than expected).",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "Define colligative properties and draw (describe) the vapour pressure–temperature curves showing elevation of boiling point.",
+          "answer": "Colligative properties depend on the number of solute particles in a solution and not on their nature (lowering of vapour pressure, elevation of boiling point, depression of freezing point, osmotic pressure).\nThe vapour pressure curve of the solution lies below that of the pure solvent; it reaches 1 atm at a higher temperature, so the boiling point rises by ΔT_b = T_b − T°_b = K_b·m."
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "(a) State Raoult's law and derive the relative lowering of vapour pressure. (b) The vapour pressure of pure water at 298 K is 23.8 mm Hg; find the vapour pressure when 18 g of glucose is dissolved in 90 g of water.",
+          "answer": "(a) p_A = x_A p°_A; for a non-volatile solute x_A = 1 − x_B, so p = (1 − x_B)p°, hence (p° − p)/p° = x_B.\n(b) n(glucose) = 18/180 = 0.1; n(water) = 90/18 = 5; x(water) = 5/5.1 = 0.980.\np = 0.980 × 23.8 = 23.3 mm Hg."
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "Explain the van't Hoff factor. How does it modify (a) ΔT_b and (b) π? Calculate the freezing point depression of 0.1 m NaCl solution assuming complete dissociation (K_f = 1.86 K kg mol^-1).",
+          "answer": "i = observed colligative property / calculated value = normal molar mass / observed molar mass.\n(a) ΔT_b = i·K_b·m. (b) π = i·CRT.\nFor NaCl i = 2: ΔT_f = 2 × 1.86 × 0.1 = 0.372 K."
+        }
+      ]
+    }
+  ]
+}

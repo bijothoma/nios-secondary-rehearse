@@ -1,0 +1,69 @@
+{
+  "subject": "chemistry",
+  "lesson": 2,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 2: Atomic Structure — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Sub-atomic particles and early models"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Atoms contain electrons (charge −1.602 × 10^-19 C, mass 9.11 × 10^-31 kg, discovered by J.J. Thomson), protons (+1, mass 1.673 × 10^-27 kg, Goldstein) and neutrons (neutral, 1.675 × 10^-27 kg, Chadwick). Thomson's plum-pudding model was replaced by Rutherford's nuclear model after the α-ray scattering experiment: most α-particles passed straight (atom is mostly empty space), a few were deflected at large angles and a very few (about 1 in 20000) rebounded, showing that all the positive charge and nearly all the mass is concentrated in a tiny nucleus. Atomic number Z = number of protons; mass number A = protons + neutrons. Isotopes have the same Z but different A (protium, deuterium, tritium); isobars have the same A; isotones the same number of neutrons; isoelectronic species have the same number of electrons (e.g. Na+, Mg2+, Ne)."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Bohr model and quantum mechanics"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Light behaves as waves (c = νλ) and as photons (E = hν, h = 6.626 × 10^-34 J s). Bohr (1913): electrons move in fixed stationary orbits without radiating; angular momentum is mvr = nh/2π; energy is emitted or absorbed when an electron jumps between orbits (ΔE = hν); radius r_n = 52.9 n²/Z pm and E_n = −13.6 Z²/n² eV. It explains the hydrogen line spectrum (Lyman, Balmer, Paschen, Brackett, Pfund series; 1/λ = R(1/n1² − 1/n2²)) but fails for multi-electron atoms. de Broglie: λ = h/mv (matter waves); Heisenberg's uncertainty principle: Δx · Δp ≥ h/4π, so the exact position and momentum of an electron cannot be known together. Schrödinger's wave equation gives wave functions ψ; ψ² is the probability density; an orbital is the region of high probability of finding an electron."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Quantum numbers and electronic configuration"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Principal quantum number n (1,2,3…; size and energy), azimuthal l (0 to n−1; shape: s, p, d, f), magnetic m_l (−l to +l; orientation, 2l+1 orbitals) and spin m_s (+½ or −½). A subshell holds 2(2l+1) electrons and a shell holds 2n². Rules: Aufbau principle (fill in increasing n + l; if equal, lower n first: 1s 2s 2p 3s 3p 4s 3d 4p …); Pauli exclusion principle (no two electrons have the same four quantum numbers; an orbital holds at most two electrons of opposite spins); Hund's rule (degenerate orbitals are singly filled with parallel spins before pairing). Half-filled and fully filled subshells are extra stable (Cr: [Ar]3d5 4s1; Cu: [Ar]3d10 4s1). Number of radial nodes = n − l − 1; angular nodes = l; total nodes = n − 1."
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "subject": "chemistry",
+  "lesson": 17,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 17: Hydrogen and s-Block Elements — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Hydrogen"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Hydrogen (1s1) has three isotopes: protium (¹H), deuterium (²H or D) and tritium (³H, radioactive). It is placed at the top of group 1 because of ns1 configuration, though it also resembles halogens (forms H−). Preparation: Zn + dilute H2SO4 → ZnSO4 + H2 (laboratory); electrolysis of water; water gas CO + H2 from steam on coke; steam reforming of methane. Properties: colourless, odourless, lightest gas; burns in air to give water; reduces metal oxides (CuO + H2 → Cu + H2O); forms hydrides – ionic (NaH, CaH2), covalent (CH4, NH3, H2O) and interstitial (PdH). Uses: Haber process, hydrogenation of oils, rocket fuel, fuel cells. Water: hard water contains Ca^2+ and Mg^2+; temporary hardness (bicarbonates) is removed by boiling or by Clark's method (lime); permanent hardness (chlorides and sulphates) by washing soda or permutit/ion-exchange. Heavy water D2O (prepared by exhaustive electrolysis of water) is used as a moderator in nuclear reactors and as a tracer. Hydrogen peroxide H2O2 is an oxidising and reducing agent used as a bleach and an antiseptic."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Alkali metals (group 1)"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Li, Na, K, Rb, Cs have ns1 configuration; they are soft, highly electropositive, have the lowest ionisation enthalpies in their periods and form +1 ions; they show characteristic flame colours (Li crimson, Na golden yellow, K violet). Reactivity increases down the group; they react with water to give hydroxide and hydrogen (2Na + 2H2O → 2NaOH + H2), with oxygen to give oxide (Li), peroxide (Na) and superoxide (K, Rb, Cs). Lithium differs from the rest and shows a diagonal relationship with magnesium: both form normal oxides, nitrides on heating in nitrogen, have soluble chlorides in organic solvents and decomposable carbonates and hydroxides. Sodium hydroxide is made in the Castner–Kellner cell: electrolysis of brine with a mercury cathode (Na amalgam) and graphite anode (Cl2 at anode), the amalgam reacting with water to give NaOH and H2. Sodium carbonate by the Solvay process (NaCl + NH3 + CO2 + H2O → NaHCO3 + NH4Cl; 2NaHCO3 → Na2CO3 + H2O + CO2)."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Alkaline earth metals (group 2)"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Be, Mg, Ca, Sr, Ba have ns2 configuration; they form M^2+, are harder and have higher melting points than group 1, and flame colours (Ca brick red, Sr crimson, Ba apple green); Be and Mg do not impart colour. Solubility of sulphates and hydroxides: sulphates decrease down the group (BeSO4, MgSO4 soluble; BaSO4 insoluble) because the lattice enthalpy exceeds the hydration enthalpy; hydroxides increase. Important compounds: quicklime CaO (CaCO3 → CaO + CO2), slaked lime Ca(OH)2, gypsum CaSO4·2H2O, plaster of Paris CaSO4·½H2O (sets to gypsum; used in surgery and casts), cement (calcium silicates and aluminates). Biological importance: Na+/K+ in nerve impulse and sodium–potassium pump, Mg^2+ in chlorophyll, Ca^2+ in bones and blood clotting. Beryllium shows a diagonal relationship with aluminium."
+        ]
+      ]
+    }
+  ]
+}

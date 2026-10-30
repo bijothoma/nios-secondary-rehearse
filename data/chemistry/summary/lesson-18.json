@@ -1,0 +1,69 @@
+{
+  "subject": "chemistry",
+  "lesson": 18,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 18: General Characteristics of the p-block Elements — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "The p-block and periodic trends"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "The p-block contains groups 13 to 18 (general configuration ns² np¹⁻⁶, except He 1s²). It has metals, non-metals and metalloids and the most electronegative element, fluorine. Across a period, atomic size decreases, ionisation enthalpy, electronegativity and non-metallic character increase; down a group, atomic size increases, ionisation enthalpy and electronegativity decrease and metallic character increases. Fluorine is the most electronegative element (4.0) and the electron gain enthalpy of Cl is more negative than that of F because of the very small size of F. Order of electronegativity: F > O > N > Cl > S."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Oxidation states and the inert pair effect"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "p-block elements show a maximum oxidation state equal to the total number of s + p valence electrons (group number − 10) and other states that differ by two (due to the inert pair effect – the reluctance of the ns² electrons to take part in bonding, which becomes more marked down the group). Examples: Tl is stable as +1 and Pb as +2, while B and Al show only +3; N shows −3 to +5, P +3 and +5, and sulphur −2, +2, +4, +6. Elements of the second period (B to F) differ from the rest of their groups because of small size, high electronegativity and absence of d-orbitals: their maximum covalency is limited to four (BF4−) while heavier elements expand it (PCl5, SF6). Anomalous behaviour of N: nitrogen exists as N≡N, forms pπ–pπ multiple bonds, while P exists as P4."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Types of compounds and bonding"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Non-metals form covalent compounds with each other and ionic compounds with metals of low ionisation enthalpy. Halogens form interhalogen compounds (ClF3, IF7). Oxides: acidic (non-metals: SO2, CO2, P4O10), amphoteric (Al2O3, ZnO, PbO) and basic (metal oxides); acidic character increases across a period and decreases down a group. Hydrides: the stability decreases down the group (NH3 > PH3 > AsH3; HF > HCl > HBr > HI in thermal stability) while acidic strength of hydrogen halides increases down the group (HI > HBr > HCl > HF) because of the weaker H–X bond. Boiling points of hydrides of group 15, 16 and 17 show the anomaly of NH3, H2O and HF because of hydrogen bonding. Allotropy: carbon (diamond, graphite, fullerene), phosphorus (white, red, black), sulphur (rhombic, monoclinic)."
+        ]
+      ]
+    }
+  ]
+}

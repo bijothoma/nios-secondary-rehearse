@@ -1,0 +1,69 @@
+{
+  "subject": "chemistry",
+  "lesson": 21,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 21: d-Block and f-Block Elements — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Transition elements"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "The d-block elements (groups 3–12) have the general configuration (n−1)d¹⁻¹⁰ ns¹⁻². The 3d series runs from scandium (Z = 21) to zinc (Z = 30), the 4d series from yttrium to cadmium and the 5d from lanthanum and hafnium to mercury. Transition elements are those having an incomplete d subshell in the atom or its ions, so Zn, Cd and Hg are d-block but not typical transition metals. Characteristics: metallic, hard, high melting point and boiling point and high density because of strong metallic bonding by (n−1)d and ns electrons (melting point rises to the middle of the series; Zn, Cd, Hg are low melting); variable oxidation states differing by one unit (Mn +2 to +7); the lowest common state for Zn is +2 (no variable states); formation of coloured ions due to d–d transitions (Sc^3+, Zn^2+, Cu^+ are colourless as d⁰ or d¹⁰); paramagnetism because of unpaired electrons (magnetic moment μ = √[n(n+2)] BM); catalytic activity (Fe in Haber's process, V2O5 in the Contact process, Ni in hydrogenation); formation of complex compounds, interstitial compounds and alloys."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Important compounds: K2Cr2O7, KMnO4 and alloys"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Potassium dichromate is made from chromite ore FeCr2O4: 4FeCr2O4 + 8Na2CO3 + 7O2 → 8Na2CrO4 + 2Fe2O3 + 8CO2 (fusion with soda ash in air); the sodium chromate is acidified: 2Na2CrO4 + 2H+ → Na2Cr2O7 + 2Na+ + H2O; Na2Cr2O7 + 2KCl → K2Cr2O7 + 2NaCl. In acid it is a strong oxidising agent (Cr2O7^2− + 14H+ + 6e− → 2Cr^3+ + 7H2O, orange to green) oxidising Fe^2+, I− and SO2. Chromate (yellow) and dichromate (orange) interconvert with pH. KMnO4 (purple) is made from MnO2 by fusion with KOH and oxidation to K2MnO4 followed by electrolytic or chemical oxidation; it oxidises in acidic (MnO4− + 8H+ + 5e− → Mn^2+ + 4H2O, colourless), neutral/alkaline media (MnO2). An alloy is a homogeneous mixture of a metal with other metals or non-metals: brass (Cu + Zn), bronze (Cu + Sn), steel (Fe + C), nichrome and German silver."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Inner transition elements (f-block)"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Lanthanoids (Ce to Lu, 4f filling) and actinoids (Th to Lr, 5f filling) have general configuration (n−2)f¹⁻¹⁴(n−1)d⁰⁻¹ns². Lanthanoid contraction is the steady decrease in the size of the atoms and ions with increase of atomic number because the 4f electrons shield the nuclear charge poorly, which causes an increase in the effective nuclear charge; consequences are the similarity of 4d and 5d elements (Zr and Hf), difficult separation of lanthanoids, and decrease in basicity of hydroxides. The common oxidation state of lanthanoids is +3 (Ce +4, Eu +2). Actinoids are radioactive, show a wide range of oxidation states (+3 to +7) and many are man-made. Uses: lanthanoid alloys (misch metal) in lighter flints; actinoids (U, Pu) in nuclear energy."
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,384 @@
+{
+  "subject": "chemistry",
+  "lesson": 23,
+  "title": "Nomenclature and General Principles of Organic Chemistry",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "12 × 1 = 12",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "The IUPAC name of CH3CH2SH is —",
+          "options": [
+            "ethanethiol",
+            "ethanol",
+            "thioethanol",
+            "ethyl sulphide"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "Which of the following is the most stable carbocation?",
+          "options": [
+            "(CH3)3C+",
+            "(CH3)2CH+",
+            "CH3CH2+",
+            "CH3+"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "Which of the following groups shows the –I effect?",
+          "options": [
+            "–NO2",
+            "–CH3",
+            "–C2H5",
+            "–O−"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "Heterolytic fission of a covalent bond gives —",
+          "options": [
+            "ions",
+            "free radicals",
+            "neutral molecules",
+            "atoms"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "The functional group of ketones is —",
+          "options": [
+            ">C=O",
+            "–CHO",
+            "–COOH",
+            "–OH"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "The number of structural isomers of C4H10 is —",
+          "options": [
+            "2",
+            "3",
+            "4",
+            "1"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "The compound that shows geometrical isomerism is —",
+          "options": [
+            "but-2-ene",
+            "propene",
+            "but-1-ene",
+            "ethene"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "Which of the following is a nucleophile?",
+          "options": [
+            "OH−",
+            "H+",
+            "NO2+",
+            "BF3"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "Hyperconjugation involves —",
+          "options": [
+            "delocalisation of σ electrons of C–H",
+            "delocalisation of π electrons only",
+            "movement of lone pairs only",
+            "polarisation of a bond by reagent"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "The IUPAC name of CH3COCH3 is —",
+          "options": [
+            "propanone",
+            "propanal",
+            "propan-2-ol",
+            "ethyl methyl ether"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "Ethanol and methoxymethane are —",
+          "options": [
+            "functional isomers",
+            "chain isomers",
+            "position isomers",
+            "metamers"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "The reagent that detects nitrogen in Lassaigne's test gives a Prussian blue colour due to —",
+          "options": [
+            "Fe4[Fe(CN)6]3",
+            "FeS",
+            "NaCN",
+            "Na2S"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark.",
+      "marks": "8 × 2 = 16",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "(a) Which compound forms the ethyl carbocation? (b) Give two examples of nucleophiles.",
+          "answer": "(a) Bromoethane/chloroethane (C2H5X) by heterolytic fission of the C–X bond: C2H5Br → C2H5+ + Br−. (b) OH−, CN− (also NH3, H2O).",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "(a) Write the IUPAC name of CH3CH2SH. (b) Arrange in decreasing order of stability: CH3+, (CH3)3C+, (CH3)2CH+.",
+          "answer": "(a) Ethanethiol. (b) (CH3)3C+ > (CH3)2CH+ > CH3+.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "State true or false: (a) –NO2 shows the –I effect. (b) Carbocations are planar sp² hybridised.",
+          "answer": "(a) True. (b) True.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Fill in: (a) Cleavage in which each atom takes one electron of the bond is called ______ fission. (b) Carbocations are ______ deficient.",
+          "answer": "(a) homolytic. (b) electron."
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "Match: (a) –OH (b) –CHO (c) –COOH with (i) carboxylic acid (ii) alcohol (iii) aldehyde.",
+          "answer": "(a)-(ii); (b)-(iii); (c)-(i)."
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "Give (a) the IUPAC name of CH3CH(OH)CH3 and (b) its functional group.",
+          "answer": "(a) Propan-2-ol. (b) Hydroxyl (–OH)."
+        },
+        {
+          "id": "2.7",
+          "type": "open",
+          "q": "State the type of isomerism in (a) butane and 2-methylpropane (b) propan-1-ol and propan-2-ol.",
+          "answer": "(a) Chain isomerism. (b) Position isomerism."
+        },
+        {
+          "id": "2.8",
+          "type": "open",
+          "q": "Name (a) an electrophile and (b) a free-radical initiator.",
+          "answer": "(a) NO2+ (or H+, AlCl3). (b) A peroxide, e.g. benzoyl peroxide, or UV light/heat for Cl2."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "8 × 2 = 16",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "What is heterolytic fission? What are the species formed?",
+          "answer": "Cleavage of a covalent bond in which the shared pair goes to one atom, forming a cation and an anion (carbocation or carbanion). They initiate reactions as electrophiles or nucleophiles.",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "What is the –I effect? Give two groups showing it.",
+          "answer": "The permanent displacement of the electron cloud of a σ bond towards a more electronegative atom or group; –NO2 and –COOH (also –CN, –Cl) show –I effect.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "Why is a tertiary carbocation more stable than a primary carbocation?",
+          "answer": "Three alkyl groups release electrons by +I effect and provide more hyperconjugation structures (nine C–H bonds), dispersing the positive charge.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "Write the IUPAC names of CH3CH2SH and CH3CH2CHO.",
+          "answer": "Ethanethiol and propanal.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "3.5",
+          "type": "open",
+          "q": "What is hyperconjugation? Give one example.",
+          "answer": "Delocalisation of σ electrons of a C–H bond adjacent to an unsaturated centre or carbocation; the ethyl carbocation CH3CH2+ is stabilised by it."
+        },
+        {
+          "id": "3.6",
+          "type": "open",
+          "q": "Distinguish between an electrophile and a nucleophile with one example each.",
+          "answer": "An electrophile is electron-deficient (accepts a pair), e.g. NO2+; a nucleophile is electron-rich (donates a pair), e.g. OH−."
+        },
+        {
+          "id": "3.7",
+          "type": "open",
+          "q": "What are isomers? State the isomerism shown by but-2-ene.",
+          "answer": "Compounds having the same molecular formula but different structures; but-2-ene shows cis–trans (geometrical) isomerism."
+        },
+        {
+          "id": "3.8",
+          "type": "open",
+          "q": "What is a homologous series? Give two characteristics.",
+          "answer": "A series of compounds with the same functional group, with successive members differing by a CH2 unit; they have a general formula and similar chemical properties with gradation in physical properties."
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "6 × 3 = 18",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "Write the IUPAC names of (a) CH3CH(CH3)CH2OH (b) CH3CH2CH(Cl)CH3 (c) CH3CH2COOH.",
+          "answer": "(a) 2-Methylpropan-1-ol. (b) 2-Chlorobutane. (c) Propanoic acid."
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "Explain the stability of carbocations with the order of stability and reasons.",
+          "answer": "3° > 2° > 1° > CH3+. Alkyl groups donate electrons through the +I effect and through hyperconjugation (the number of C–H hyperconjugative structures increases from 0 in CH3+ to 9 in (CH3)3C+), which disperses the positive charge."
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "Explain the inductive effect and its effect on the acidity of carboxylic acids.",
+          "answer": "The permanent polarisation of a σ bond by an electronegative group; –I groups such as Cl stabilise the carboxylate and increase the acidity (ClCH2COOH is stronger than CH3COOH), while +I groups (alkyl) decrease it (HCOOH is stronger than CH3COOH)."
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "Distinguish between structural and stereo isomerism with examples of chain and optical isomers.",
+          "answer": "Structural isomers differ in the connectivity of atoms (butane and isobutane). Stereoisomers have the same connectivity but different arrangement in space (cis/trans-but-2-ene, d- and l-lactic acid, which has a chiral carbon)."
+        },
+        {
+          "id": "4.5",
+          "type": "open",
+          "q": "What are free radicals? How are they formed? Give the order of stability.",
+          "answer": "Neutral species with an unpaired electron formed by homolytic fission with heat, light or a peroxide (Cl2 → 2Cl•). Stability: 3° > 2° > 1° > methyl."
+        },
+        {
+          "id": "4.6",
+          "type": "open",
+          "q": "How are organic compounds purified by (a) crystallisation (b) fractional distillation?",
+          "answer": "(a) The impure solid is dissolved in a hot solvent and filtered; on cooling, pure crystals separate. (b) A mixture of liquids with close boiling points is heated through a fractionating column; the component of lower boiling point distils first."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Long answer questions. Answer in 80–120 words.",
+      "marks": "4 × 5 = 20",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "(a) State the IUPAC rules for naming an organic compound. (b) Write the IUPAC names of CH3CH2CH(OH)CH3, CH3COOH, CH3CH2NH2, CH3CH=CHCH3 and CH3CH2SH.",
+          "answer": "(a) Select the longest chain containing the principal functional group; number it to give the lowest locant to the principal group, then to multiple bonds and substituents; name substituents alphabetically; use the suffix of the principal group (-ol, -al, -one, -oic acid, -amine, -thiol, -ene).\n(b) Butan-2-ol; ethanoic acid; ethanamine; but-2-ene; ethanethiol."
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "(a) Explain inductive, resonance and hyperconjugation effects with examples. (b) Arrange CH3COOH, ClCH2COOH and FCH2COOH in increasing order of acidic strength and explain.",
+          "answer": "(a) Inductive: permanent polarisation of σ bonds (–Cl). Resonance: delocalisation of π electrons (carboxylate ion, benzene). Hyperconjugation: C–H σ electrons delocalised into an adjacent empty p orbital (ethyl carbocation).\n(b) CH3COOH < ClCH2COOH < FCH2COOH. The –I effect of F is greater than that of Cl, stabilising the anion more."
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "(a) Distinguish between homolytic and heterolytic fission. (b) What are carbocations, carbanions and free radicals? Give the order of the stability of carbocations. (c) Name two electrophiles and two nucleophiles.",
+          "answer": "(a) Homolytic: each atom gets one electron, giving radicals; heterolytic: the pair goes to one atom, giving ions.\n(b) Carbocation: positive carbon with six electrons (sp², planar); carbanion: negative carbon with a lone pair (sp³, pyramidal); free radical: carbon with an unpaired electron. Stability: 3° > 2° > 1° > CH3+.\n(c) Electrophiles: H+, NO2+; nucleophiles: OH−, CN−."
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "(a) Explain different types of structural isomerism with one example each. (b) Draw the cis and trans isomers of but-2-ene and write the reason for geometrical isomerism.",
+          "answer": "(a) Chain – butane and 2-methylpropane; position – propan-1-ol and propan-2-ol; functional – ethanol and methoxymethane; metamerism – diethyl ether and methyl propyl ether; tautomerism – keto and enol forms.\n(b) cis-but-2-ene has both CH3 groups on the same side of the C=C; trans has them on opposite sides. Geometrical isomerism arises from restricted rotation about the C=C double bond with two different groups on each carbon."
+        }
+      ]
+    }
+  ]
+}

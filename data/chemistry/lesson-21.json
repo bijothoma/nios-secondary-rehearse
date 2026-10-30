@@ -1,0 +1,396 @@
+{
+  "subject": "chemistry",
+  "lesson": 21,
+  "title": "d-Block and f-Block Elements",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "12 × 1 = 12",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "The 3d series of transition elements extends from —",
+          "options": [
+            "scandium to zinc",
+            "yttrium to cadmium",
+            "scandium to copper",
+            "actinium to lawrencium"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "Lanthanoid contraction is due to the increase in —",
+          "options": [
+            "effective nuclear charge",
+            "shielding by 4f electrons",
+            "size of 4f orbitals",
+            "number of shells"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "The minimum oxidation state shown by zinc among its compounds is —",
+          "options": [
+            "+2",
+            "+1",
+            "+3",
+            "0"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "Which of the following ions is colourless?",
+          "options": [
+            "Zn^2+",
+            "Cu^2+",
+            "Fe^3+",
+            "Ni^2+"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "The colour of the permanganate ion is due to —",
+          "options": [
+            "charge transfer",
+            "d–d transition only",
+            "f–f transition",
+            "presence of water"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "The alloy of copper and zinc is —",
+          "options": [
+            "brass",
+            "bronze",
+            "steel",
+            "German silver"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "The highest oxidation state shown by manganese is —",
+          "options": [
+            "+7",
+            "+6",
+            "+5",
+            "+4"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "Transition elements generally have —",
+          "options": [
+            "high melting points",
+            "low density",
+            "low hardness",
+            "no catalytic property"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "The magnetic moment of an ion with 3 unpaired electrons is —",
+          "options": [
+            "3.87 BM",
+            "2.83 BM",
+            "1.73 BM",
+            "5.92 BM"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "The orange colour of the dichromate ion changes to green when it oxidises —",
+          "options": [
+            "Fe^2+",
+            "Cu^2+",
+            "Zn^2+",
+            "Na+"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "The common oxidation state of lanthanoids is —",
+          "options": [
+            "+3",
+            "+2",
+            "+4",
+            "+5"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "Which of the following is used as a catalyst in the Contact process?",
+          "options": [
+            "V2O5",
+            "Fe",
+            "Ni",
+            "MnO2"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark.",
+      "marks": "8 × 2 = 16",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "(a) Which d-block element has the minimum oxidation state of +2 only? (b) Name the alloy of copper and zinc.",
+          "answer": "(a) Zinc (Zn^2+). (b) Brass.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "State true or false: (a) Transition metal ions with unpaired electrons are generally coloured. (b) Zn^2+ is coloured as it has a completely filled d subshell.",
+          "answer": "(a) True. (b) False – a completely filled d¹⁰ configuration has no d–d transition, so it is colourless.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "Fill in: (a) The 3d series starts with ______. (b) The lanthanoid contraction is caused by the poor shielding of ______ electrons.",
+          "answer": "(a) scandium. (b) 4f.",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Write (a) the chief ore of chromium and (b) the colour of the dichromate ion.",
+          "answer": "(a) Chromite, FeCr2O4. (b) Orange."
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "Match: (a) K2Cr2O7 (b) KMnO4 (c) Brass with (i) purple (ii) Cu + Zn (iii) orange.",
+          "answer": "(a)-(iii); (b)-(i); (c)-(ii)."
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "Write (a) the electronic configuration of Cu (Z = 29) and (b) the oxidation states of Mn in KMnO4.",
+          "answer": "(a) [Ar] 3d¹⁰ 4s¹. (b) +7."
+        },
+        {
+          "id": "2.7",
+          "type": "open",
+          "q": "(a) What is an alloy? (b) Give one use of steel.",
+          "answer": "(a) A homogeneous mixture of a metal with other metals or non-metals. (b) Used for building structures, tools and machinery."
+        },
+        {
+          "id": "2.8",
+          "type": "open",
+          "q": "Complete: (a) Actinoids are ______ elements. (b) Cerium commonly shows the oxidation state +3 and ______.",
+          "answer": "(a) radioactive. (b) +4."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "8 × 2 = 16",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "Why are transition metals and their compounds often coloured?",
+          "answer": "The partially filled d orbitals split in energy in the presence of ligands, and electrons absorb visible light for d–d transitions; the transmitted complementary colour is observed.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "What are alloys? Give the composition and one use of brass.",
+          "answer": "Alloys are homogeneous mixtures of metals with other metals or non-metals. Brass = copper + zinc; used for making utensils, musical instruments and decorative items.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "What is lanthanoid contraction? State one consequence.",
+          "answer": "The regular decrease in atomic and ionic radii of lanthanoids with increasing atomic number because 4f electrons shield the nuclear charge poorly. Consequence: Zr and Hf have almost identical radii and properties, and are difficult to separate.",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "Why do transition elements have high melting points and densities?",
+          "answer": "Strong metallic bonding by a large number of unpaired d electrons and small atomic size gives high melting points and close-packed structures with high density.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "3.5",
+          "type": "open",
+          "q": "Why do transition metals show variable oxidation states?",
+          "answer": "The (n−1)d and ns electrons have nearly the same energy and can both take part in bonding; the oxidation states differ by one unit (Mn: +2 to +7)."
+        },
+        {
+          "id": "3.6",
+          "type": "open",
+          "q": "Write the reaction of acidified potassium permanganate with Fe^2+ ions.",
+          "answer": "MnO4− + 8H+ + 5Fe^2+ → Mn^2+ + 4H2O + 5Fe^3+ (purple colour changes to almost colourless).",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "3.7",
+          "type": "open",
+          "q": "Why is Zn not considered a transition element?",
+          "answer": "Zn^2+ has a completely filled d¹⁰ subshell; it has no incomplete d subshell in its atom or its common ion."
+        },
+        {
+          "id": "3.8",
+          "type": "open",
+          "q": "Why are Sc^3+ and Cu^+ colourless?",
+          "answer": "Sc^3+ is d⁰ and Cu^+ is d¹⁰, so neither has a d–d transition."
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "6 × 3 = 18",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "Explain the general characteristics of transition elements: variable oxidation states, catalytic properties and complex formation.",
+          "answer": "Variable oxidation states because (n−1)d and ns electrons both take part; catalytic activity due to variable oxidation states and the surface available for adsorption (Fe in Haber, V2O5 in Contact process); complex formation because of small size, high charge and vacant d orbitals."
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "Write the steps in the manufacture of K2Cr2O7 from chromite ore.",
+          "answer": "1. Chromite is fused with Na2CO3 in air: 4FeCr2O4 + 8Na2CO3 + 7O2 → 8Na2CrO4 + 2Fe2O3 + 8CO2. 2. Sodium chromate is acidified with H2SO4: 2Na2CrO4 + H2SO4 → Na2Cr2O7 + Na2SO4 + H2O. 3. Treating with KCl: Na2Cr2O7 + 2KCl → K2Cr2O7 + 2NaCl; the orange crystals separate."
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "Write the oxidising action of K2Cr2O7 in acidic medium on (a) Fe^2+ (b) I−.",
+          "answer": "Cr2O7^2− + 14H+ + 6Fe^2+ → 2Cr^3+ + 6Fe^3+ + 7H2O; Cr2O7^2− + 14H+ + 6I− → 2Cr^3+ + 3I2 + 7H2O."
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "Calculate the spin-only magnetic moment of Fe^3+ (Z = 26) and Cu^2+ (Z = 29).",
+          "answer": "Fe^3+ = [Ar]3d⁵: n = 5, μ = √(5 × 7) = √35 = 5.92 BM. Cu^2+ = [Ar]3d⁹: n = 1, μ = √(1 × 3) = √3 = 1.73 BM."
+        },
+        {
+          "id": "4.5",
+          "type": "open",
+          "q": "Compare lanthanoids and actinoids (three points).",
+          "answer": "Lanthanoids fill 4f, actinoids 5f; lanthanoids mainly +3 while actinoids show +3 to +7; lanthanoids are non-radioactive (except Pm) while all actinoids are radioactive."
+        },
+        {
+          "id": "4.6",
+          "type": "open",
+          "q": "Explain the interconversion of chromate and dichromate with pH.",
+          "answer": "In acidic solution (low pH), orange Cr2O7^2− is formed: 2CrO4^2− + 2H+ ⇌ Cr2O7^2− + H2O; in alkaline solution (high pH), yellow CrO4^2− is formed."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Long answer questions. Answer in 80–120 words.",
+      "marks": "4 × 5 = 20",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "(a) Describe the manufacture of potassium dichromate from chromite ore. (b) Write the IUPAC-style oxidation states of chromium and write the structure features of the dichromate ion. (c) Give two oxidising reactions of acidified K2Cr2O7.",
+          "answer": "(a) Fusion of chromite with soda ash in air gives Na2CrO4; acidification gives Na2Cr2O7, which on treatment with KCl gives K2Cr2O7 (4FeCr2O4 + 8Na2CO3 + 7O2 → 8Na2CrO4 + 2Fe2O3 + 8CO2; 2Na2CrO4 + 2H+ → Na2Cr2O7 + 2Na+ + H2O; Na2Cr2O7 + 2KCl → K2Cr2O7 + 2NaCl).\n(b) Cr is +6; Cr2O7^2− has two tetrahedral CrO4 units sharing an oxygen (Cr–O–Cr bridge).\n(c) 6Fe^2+ + Cr2O7^2− + 14H+ → 6Fe^3+ + 2Cr^3+ + 7H2O; 3SO2 + Cr2O7^2− + 2H+ → 3SO4^2− + 2Cr^3+ + H2O.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "(a) What are transition elements? Why are Zn, Cd and Hg not considered transition elements? (b) Explain the formation of coloured ions and paramagnetism.",
+          "answer": "(a) Elements with an incomplete d subshell in the atom or ions. Zn, Cd and Hg have d¹⁰ in the atom and in their +2 ions.\n(b) In an ion with partially filled d orbitals, d–d transition absorbs visible light, producing colour (Cu^2+ blue, Ni^2+ green). Unpaired electrons give paramagnetism with μ = √[n(n+2)] BM."
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "(a) State the electronic configuration of lanthanoids and the oxidation states. (b) Explain lanthanoid contraction with its causes and consequences. (c) Name two uses of lanthanoids.",
+          "answer": "(a) [Xe] 4f¹⁻¹⁴ 5d⁰⁻¹ 6s²; +3 common, Ce +4, Eu +2.\n(b) Decrease in atomic and ionic size from La to Lu due to poor shielding by 4f electrons: the effective nuclear charge rises. Consequences: similarity of 4d and 5d elements (Zr–Hf), difficult separation, decrease in basicity of hydroxides.\n(c) Misch metal in alloys for lighter flints; cerium compounds in glass polishing."
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "(a) Describe the preparation of KMnO4 from MnO2. (b) Explain its oxidising action in acidic and alkaline medium with equations. (c) State its use.",
+          "answer": "(a) MnO2 fused with KOH in air gives green K2MnO4 (2MnO2 + 4KOH + O2 → 2K2MnO4 + 2H2O), which is oxidised by electrolysis or Cl2/ozone to purple KMnO4.\n(b) Acidic: MnO4− + 8H+ + 5e− → Mn^2+ + 4H2O. Neutral or alkaline: MnO4− + 2H2O + 3e− → MnO2 + 4OH−.\n(c) Used as an oxidising agent in titrations and as a disinfectant (Condy's crystals)."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "subject": "chemistry",
+  "lesson": 9,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 9: Chemical Thermodynamics — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "System, state functions and the first law"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "A system is the part of the universe under study; the rest is the surroundings. Open systems exchange matter and energy, closed systems exchange only energy, isolated systems exchange neither. State functions (U, H, S, G, P, V, T) depend only on the initial and final states, whereas work and heat are path functions. Types of processes: isothermal (T constant), adiabatic (no heat exchange, q = 0, temperature changes), isobaric, isochoric. First law: energy can neither be created nor destroyed; ΔU = q + w. Work of expansion w = −p_ext ΔV. Enthalpy H = U + pV; at constant pressure q_p = ΔH, and ΔH = ΔU + Δn_g RT. Exothermic reactions have ΔH negative; endothermic reactions have ΔH positive."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Enthalpy changes and Hess's law"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Standard enthalpy changes (at 298 K and 1 bar): of formation ΔfH° (formation of one mole of a compound from its elements in their standard states; zero for elements), of combustion, of neutralisation (about −57.1 kJ mol^-1 for strong acid with strong base), of fusion, vaporisation and sublimation, and of atomisation (one mole of a substance converted into gaseous atoms). Hess's law: the total enthalpy change of a reaction is the same whether it takes place in one step or several steps. ΔrH° = Σ ΔfH°(products) − Σ ΔfH°(reactants). Bond enthalpy: ΔrH = Σ bond enthalpies of reactants broken − Σ bond enthalpies of products formed. Calorimetry: q = m c ΔT."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Spontaneity, entropy and Gibbs energy"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Entropy S is a measure of disorder; ΔS = q_rev/T; entropy rises on melting, vaporisation and dissolving, and for an isolated system the entropy increases in a spontaneous process (second law). Third law: the entropy of a perfectly crystalline substance is zero at absolute zero. Gibbs energy G = H − TS; at constant T and p, ΔG = ΔH − TΔS. ΔG < 0 spontaneous, ΔG = 0 equilibrium, ΔG > 0 non-spontaneous. A reaction with ΔH < 0 and ΔS > 0 is spontaneous at all temperatures; ΔH > 0 and ΔS < 0 is never spontaneous. ΔG° = −2.303 RT log K. Relation between ΔG and the cell potential: ΔG° = −nFE°."
+        ]
+      ]
+    }
+  ]
+}

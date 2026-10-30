@@ -1,0 +1,494 @@
+{
+  "subject": "chemistry",
+  "lesson": 901,
+  "title": "Model Question Paper 1",
+  "meta": "Time: 3 hours · Maximum marks: 80 · Modelled on the April 2026 NIOS paper",
+  "instructions": [
+    "All questions are compulsory. Where a question has OR, answer either one.",
+    "MCQs carry 1 mark; objective questions carry 2 marks (two parts of 1 mark each); very short answers carry 2 marks (30–50 words); short answers 3 marks (50–80 words); long answers 5 marks (80–120 words).",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "16 × 1 = 16",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "The statement 'total mass of reactants equals total mass of products' is the law of —",
+          "options": [
+            "conservation of mass",
+            "constant proportions",
+            "multiple proportions",
+            "reciprocal proportions"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2024"
+          ],
+          "note": "Lesson 1."
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "Rutherford's α-scattering experiment shows that —",
+          "options": [
+            "the positive charge is concentrated in the nucleus",
+            "electrons move in fixed orbits",
+            "the atom is a solid sphere",
+            "neutrons are present in the nucleus"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2024"
+          ],
+          "note": "Lesson 2."
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "The hybridisation of boron in BCl3 is —",
+          "options": [
+            "sp2",
+            "sp3",
+            "sp",
+            "sp3d"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 4."
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "The unit of molal elevation constant K_b is —",
+          "options": [
+            "K kg mol^-1",
+            "K mol kg^-1",
+            "mol kg^-1",
+            "kg K^-1 mol"
+          ],
+          "answer": "A",
+          "note": "Lesson 7."
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "For a spontaneous process at constant T and p —",
+          "options": [
+            "ΔG < 0",
+            "ΔG > 0",
+            "ΔG = 0",
+            "ΔS = 0"
+          ],
+          "answer": "A",
+          "note": "Lesson 9."
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "The pH of a solution with [OH−] = 10^-4 M is —",
+          "options": [
+            "10",
+            "4",
+            "7",
+            "14"
+          ],
+          "answer": "A",
+          "note": "Lesson 12."
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "The Nernst equation at 298 K for a cell reaction involving n electrons is —",
+          "options": [
+            "E = E° − (0.059/n) log Q",
+            "E = E° + 0.059 n log Q",
+            "E = E°/n",
+            "E = nE°"
+          ],
+          "answer": "A",
+          "note": "Lesson 13."
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "Hydrogen peroxide acts as —",
+          "options": [
+            "both oxidising and reducing agent",
+            "only oxidising agent",
+            "only reducing agent",
+            "a dehydrating agent"
+          ],
+          "answer": "A",
+          "fixed": true,
+          "note": "Lesson 17."
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "Elements of group 18 are called —",
+          "options": [
+            "noble gases",
+            "halogens",
+            "chalcogens",
+            "pnictogens"
+          ],
+          "answer": "A",
+          "note": "Lesson 18."
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "Ozone is —",
+          "options": [
+            "a bent molecule, diamagnetic",
+            "linear",
+            "paramagnetic",
+            "a triatomic non-polar molecule"
+          ],
+          "answer": "A",
+          "note": "Lesson 20."
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "Which of the following is used as a catalyst in the Contact process?",
+          "options": [
+            "V2O5",
+            "Fe",
+            "Ni",
+            "MnO2"
+          ],
+          "answer": "A",
+          "note": "Lesson 21."
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "The coordination number of Co in [CoCl2(en)2]+ is —",
+          "options": [
+            "6",
+            "4",
+            "2",
+            "5"
+          ],
+          "answer": "A",
+          "note": "Lesson 22."
+        },
+        {
+          "id": "1.13",
+          "type": "mcq",
+          "q": "Which of the following is the most stable carbocation?",
+          "options": [
+            "(CH3)3C+",
+            "(CH3)2CH+",
+            "CH3CH2+",
+            "CH3+"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 23."
+        },
+        {
+          "id": "1.14",
+          "type": "mcq",
+          "q": "The product of ozonolysis of ethene (followed by Zn/H2O) is —",
+          "options": [
+            "methanal",
+            "ethanal",
+            "ethanol",
+            "methanoic acid"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 24."
+        },
+        {
+          "id": "1.15",
+          "type": "mcq",
+          "q": "The order of reactivity of haloalkanes in SN2 reactions is —",
+          "options": [
+            "1° > 2° > 3°",
+            "3° > 2° > 1°",
+            "2° > 1° > 3°",
+            "all equal"
+          ],
+          "answer": "A",
+          "note": "Lesson 25."
+        },
+        {
+          "id": "1.16",
+          "type": "mcq",
+          "q": "The Reimer–Tiemann reaction of phenol gives —",
+          "options": [
+            "salicylaldehyde",
+            "salicylic acid",
+            "picric acid",
+            "benzaldehyde"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 26."
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark.",
+      "marks": "12 × 2 = 24",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "(a) What is the van't Hoff factor of K2SO4? (b) Write the expression for the elevation of boiling point of an electrolyte using it.",
+          "answer": "(a) i = 3 (2K+ + SO4^2−). (b) ΔT_b = i · K_b · m.",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 7."
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "State true or false: (a) An isolated system exchanges neither energy nor matter. (b) The enthalpy of formation of an element in its standard state is unity.",
+          "answer": "(a) True. (b) False – it is zero.",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 9."
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "Write the K_sp expression for (a) AgCl (b) CaF2.",
+          "answer": "(a) K_sp = [Ag+][Cl−]. (b) K_sp = [Ca^2+][F−]^2.",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 12."
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Fill in: (a) At the anode ______ takes place. (b) The EMF of the cell Zn | Zn^2+ || Cu^2+ | Cu with E°Zn = −0.76 V and E°Cu = +0.34 V is ______.",
+          "answer": "(a) oxidation. (b) 0.34 − (−0.76) = 1.10 V.",
+          "note": "Lesson 13."
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "Match: (a) Quicklime (b) Gypsum (c) Washing soda with (i) Na2CO3·10H2O (ii) CaO (iii) CaSO4·2H2O.",
+          "answer": "(a)-(ii); (b)-(iii); (c)-(i).",
+          "note": "Lesson 17."
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "Give (a) the oxidation states of nitrogen in NH3 and HNO3 and (b) a pair of elements showing the inert pair effect.",
+          "answer": "(a) −3 and +5. (b) Tl (+1 more stable than +3) and Pb (+2 more stable than +4).",
+          "note": "Lesson 18."
+        },
+        {
+          "id": "2.7",
+          "type": "open",
+          "q": "Complete: (a) Noble gases have ______ electron gain enthalpy. (b) The halogen which is liquid at room temperature is ______.",
+          "answer": "(a) positive. (b) bromine.",
+          "note": "Lesson 20."
+        },
+        {
+          "id": "2.8",
+          "type": "open",
+          "q": "(a) Which d-block element has the minimum oxidation state of +2 only? (b) Name the alloy of copper and zinc.",
+          "answer": "(a) Zinc (Zn^2+). (b) Brass.",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 21."
+        },
+        {
+          "id": "2.9",
+          "type": "open",
+          "q": "State true or false: (a) [Fe(CN)6]^3− is paramagnetic. (b) Transition metal ions in complexes are usually coloured.",
+          "answer": "(a) True (one unpaired electron). (b) True – due to d–d transitions.",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 22."
+        },
+        {
+          "id": "2.10",
+          "type": "open",
+          "q": "State true or false: (a) –NO2 shows the –I effect. (b) Carbocations are planar sp² hybridised.",
+          "answer": "(a) True. (b) True.",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 23."
+        },
+        {
+          "id": "2.11",
+          "type": "open",
+          "q": "Fill in: (a) The hybridisation of carbon in ethene is ______. (b) The shape of ethyne is ______.",
+          "answer": "(a) sp². (b) linear.",
+          "note": "Lesson 24."
+        },
+        {
+          "id": "2.12",
+          "type": "open",
+          "q": "Write the products of (a) CH3CH2Br + aq. KOH and (b) CH3CH2Br + alc. KOH.",
+          "answer": "(a) Ethanol, CH3CH2OH. (b) Ethene, CH2=CH2.",
+          "note": "Lesson 25."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "9 × 2 = 18",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "What is a basic buffer? Give an example and explain how it works.",
+          "answer": "A solution of a weak base and its salt with a strong acid (NH4OH + NH4Cl). On adding acid, OH− of the base neutralises it; on adding base, NH4+ neutralises OH−, so the pH changes little.",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 12."
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "Why is the use of a salt bridge necessary in a galvanic cell?",
+          "answer": "It completes the internal circuit by allowing ions to flow, maintains electrical neutrality in the half cells and avoids liquid junction potential, so the current continues.",
+          "note": "Lesson 13."
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "Why are the alkali metals kept in kerosene oil?",
+          "answer": "They are highly reactive and react vigorously with moisture and oxygen of air; kerosene prevents this contact.",
+          "note": "Lesson 17."
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "Why do the p-block elements show variable oxidation states?",
+          "answer": "They have both ns and np electrons available; the np electrons are lost or shared first, followed by the ns pair, giving states that differ by two (e.g. +3 and +5 in P).",
+          "note": "Lesson 18."
+        },
+        {
+          "id": "3.5",
+          "type": "open",
+          "q": "Why are noble gases chemically inert?",
+          "answer": "They have completely filled valence shells (ns² np⁶), very high ionisation enthalpies and positive electron gain enthalpies.",
+          "note": "Lesson 20."
+        },
+        {
+          "id": "3.6",
+          "type": "open",
+          "q": "Why is Zn not considered a transition element?",
+          "answer": "Zn^2+ has a completely filled d¹⁰ subshell; it has no incomplete d subshell in its atom or its common ion.",
+          "note": "Lesson 21."
+        },
+        {
+          "id": "3.7",
+          "type": "open",
+          "q": "Name the complex [Co(NH3)5Cl]Cl2 and state its coordination number.",
+          "answer": "Pentaamminechloridocobalt(III) chloride; coordination number 6.",
+          "note": "Lesson 22."
+        },
+        {
+          "id": "3.8",
+          "type": "open",
+          "q": "What is heterolytic fission? What are the species formed?",
+          "answer": "Cleavage of a covalent bond in which the shared pair goes to one atom, forming a cation and an anion (carbocation or carbanion). They initiate reactions as electrophiles or nucleophiles.",
+          "years": [
+            "October 2024"
+          ],
+          "note": "Lesson 23."
+        },
+        {
+          "id": "3.9",
+          "type": "open",
+          "q": "Describe the ozonolysis of ethene with equations.",
+          "answer": "CH2=CH2 + O3 → ozonide; ozonide + Zn/H2O → 2HCHO + ZnO (two molecules of methanal).",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 24."
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "4 × 3 = 12",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "Explain the oxidising and dehydrating properties of concentrated sulphuric acid with examples.",
+          "answer": "Oxidising: Cu + 2H2SO4 → CuSO4 + SO2 + 2H2O; C + 2H2SO4 → CO2 + 2SO2 + 2H2O. Dehydrating: it removes water from blue vitriol (CuSO4·5H2O → white CuSO4) and chars sugar (C12H22O11 → 12C + 11H2O).",
+          "note": "Lesson 20."
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "Explain the inductive effect and its effect on the acidity of carboxylic acids.",
+          "answer": "The permanent polarisation of a σ bond by an electronegative group; –I groups such as Cl stabilise the carboxylate and increase the acidity (ClCH2COOH is stronger than CH3COOH), while +I groups (alkyl) decrease it (HCOOH is stronger than CH3COOH).",
+          "note": "Lesson 23."
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "Write the product when diethyl ether reacts with (a) HI (excess) (b) HI (1 mol), and give reasons for the stability of ethers to bases.",
+          "answer": "(a) C2H5OC2H5 + 2HI → 2C2H5I + H2O. (b) C2H5OC2H5 + HI → C2H5I + C2H5OH. Ethers are stable to bases and reducing agents because the C–O bond is strong and has no acidic hydrogen.",
+          "note": "Lesson 26."
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "Explain why amino acids behave as amphoteric substances and exist as zwitterions.",
+          "answer": "They have an acidic –COOH and a basic –NH2; in solution the proton transfers from –COOH to –NH2 giving the dipolar ion H3N+–CHR–COO−, which can react with both acids and bases.",
+          "note": "Lesson 29."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Long answer questions. Answer in 80–120 words.",
+      "marks": "2 × 5 = 10",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "(a) Discuss the halogenation of alkanes: mechanism and reactivity. (b) Write the products of monochlorination of propane.",
+          "answer": "(a) A free-radical chain reaction: initiation by sunlight forming Cl•; propagation by H abstraction and attack on Cl2; termination by radical coupling. The reactivity order of H is 3° > 2° > 1° and of halogens F2 > Cl2 > Br2 > I2.\n(b) CH3CH2CH3 + Cl2 → CH3CH2CH2Cl (1-chloropropane) + CH3CHClCH3 (2-chloropropane) + HCl.",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 24."
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "(a) What is aldol condensation? Write the mechanism for ethanal. (b) State the conditions for the Cannizzaro reaction and compare it with aldol condensation.",
+          "answer": "(a) Aldehydes or ketones having α-hydrogen condense in dilute base to give β-hydroxy carbonyl compounds. Mechanism: OH− removes an α-H from CH3CHO to give the enolate −CH2CHO, which attacks the carbonyl carbon of another CH3CHO, forming CH3CH(O−)CH2CHO; protonation gives 3-hydroxybutanal, which dehydrates on heating to but-2-enal.\n(b) Cannizzaro: aldehydes without α-hydrogen (HCHO, C6H5CHO) with conc. NaOH – one molecule is oxidised to carboxylate and the other reduced to alcohol. Aldol needs α-hydrogen and dilute alkali.",
+          "note": "Lesson 27."
+        }
+      ]
+    }
+  ]
+}

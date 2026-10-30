@@ -1,0 +1,61 @@
+{
+ "lesson": 28, "title": "Compounds of Carbon Containing Nitrogen", "module": 7,
+ "summary": [
+  "## Amines",
+  "Amines (R–NH2, R2NH, R3N) are derivatives of ammonia and are classified as primary, secondary and tertiary; the nitrogen is sp³ with a lone pair (pyramidal). Preparation: reduction of nitro compounds (Sn/HCl or H2/Ni: C6H5NO2 → C6H5NH2), ammonolysis of haloalkanes (gives a mixture), reduction of nitriles (LiAlH4) and amides, Gabriel phthalimide synthesis (only 1° aliphatic amines) and Hofmann bromamide degradation (RCONH2 + Br2 + 4NaOH → RNH2 + Na2CO3 + 2NaBr + 2H2O; amine has one carbon less). Properties: lower amines are soluble in water due to H-bonding; boiling points 1° > 2° > 3° (hydrogen bonding). Basic character: amines accept a proton, and the aliphatic amines are stronger bases than ammonia and aromatic amines weaker (the lone pair of aniline is delocalised into the ring); in water the order is (C2H5)2NH > (C2H5)3N > C2H5NH2 > NH3 (solvation and +I). Reactions: alkylation, acylation (RNH2 + CH3COCl → RNHCOCH3, 1° and 2° only), carbylamine reaction (RNH2 + CHCl3 + 3KOH → RNC, foul smell, test for 1° amines), reaction with nitrous acid (1° aliphatic gives alcohol + N2; aromatic 1° gives diazonium salt at 273–278 K), Hinsberg's test (benzenesulphonyl chloride) to distinguish 1°, 2° and 3° amines, and electrophilic substitution of aniline (bromine water gives 2,4,6-tribromoaniline; protect by acetylation).",
+  "## Diazonium salts"
+  ,
+  "Benzenediazonium chloride (C6H5N2+Cl−) is prepared by diazotisation of aniline: C6H5NH2 + NaNO2 + 2HCl at 273–278 K → C6H5N2+Cl− + NaCl + 2H2O. It is stable only in cold solution. Reactions with loss of N2: Sandmeyer (CuCl/HCl, CuBr/HBr, CuCN/KCN give chloro, bromo, cyano benzene), Gattermann (Cu powder with HX), replacement by iodide (KI gives iodobenzene), by fluoride (HBF4 then heat – Balz–Schiemann), by –OH (warm water gives phenol), by –H (H3PO2 or ethanol gives benzene). Reactions without loss of N2: coupling with phenols (alkaline, pH 9–10) and aromatic amines (weakly acidic, pH 4–5) to give brightly coloured azo dyes (p-hydroxyazobenzene, orange; p-aminoazobenzene, yellow). Importance: synthesis of aryl halides, nitriles, phenols and dyes.",
+  "## Nitro compounds and cyanides"
+  ,
+  "Nitroalkanes are prepared by nitration of alkanes or from RX with AgNO2; nitrobenzene by nitration of benzene (conc. HNO3 and H2SO4) and reduced to aniline. Alkyl cyanides (nitriles) are made from RX + KCN; hydrolysis gives acids (via amide); reduction gives amines; isocyanides (R–NC, from AgCN or the carbylamine reaction) have a foul smell and on reduction give secondary amines (methyl amines)."
+ ],
+ "mcq": [
+  ["Diazotisation of aniline is carried out at —", ["273–278 K", "373 K", "298 K", "above 400 K"], "A", ["April 2026"]],
+  ["The reaction of benzenediazonium chloride with Cu powder and HCl is called —", ["Gattermann reaction", "Sandmeyer reaction", "Kolbe reaction", "Wurtz reaction"], "A", ["April 2026"]],
+  ["Iodobenzene is prepared from benzenediazonium chloride by treating it with —", ["KI", "CuI", "NaI/acetone", "I2/HNO3"], "A", ["April 2025"]],
+  ["The reagent used in the Hofmann bromamide reaction is —", ["Br2 and NaOH", "Br2/FeBr3", "NaNO2/HCl", "Zn–Hg"], "A"],
+  ["The most basic amine in aqueous solution is —", ["(C2H5)2NH", "NH3", "C6H5NH2", "C6H5NHCH3"], "A"],
+  ["The carbylamine test is given by —", ["primary amines", "secondary amines", "tertiary amines", "amides"], "A"],
+  ["Aniline reacts with bromine water to give —", ["2,4,6-tribromoaniline", "o-bromoaniline", "p-bromoaniline", "bromobenzene"], "A"],
+  ["The reduction of nitrobenzene with Sn/HCl gives —", ["aniline", "phenol", "benzene", "benzaldehyde"], "A"],
+  ["Aromatic amines are weaker bases than aliphatic amines because —", ["the lone pair is delocalised into the ring", "they are more soluble in water", "they have a higher molecular mass", "benzene is non-polar"], "A"],
+  ["Coupling of benzenediazonium chloride with phenol gives —", ["an azo dye", "aniline", "nitrobenzene", "chlorobenzene"], "A"],
+  ["Gabriel phthalimide synthesis is used to prepare —", ["primary aliphatic amines", "secondary amines", "aromatic amines", "tertiary amines"], "A"],
+  ["The compound which on reaction with HNO2 at 273–278 K gives a diazonium salt is —", ["aniline", "ethylamine", "N-methylaniline", "triethylamine"], "A"]
+ ],
+ "objective": [
+  ["(a) Write the reaction of benzenediazonium chloride with Cu powder and HCl (Gattermann). (b) Write the product.", "(a) C6H5N2+Cl− + Cu/HCl → C6H5Cl + N2 + CuCl. (b) Chlorobenzene.", ["April 2026"]],
+  ["(a) Write the equation for the preparation of iodobenzene from the diazonium salt. (b) Why is Cu not required here?", "(a) C6H5N2+Cl− + KI → C6H5I + N2 + KCl. (b) Iodide is a good nucleophile and displaces N2 directly.", ["April 2025"]],
+  ["State true or false: (a) Benzenediazonium chloride is stable at room temperature. (b) Aniline is a weaker base than ammonia.", "(a) False – it decomposes above 283 K. (b) True – the lone pair is delocalised into the ring."],
+  ["Fill in: (a) The test for primary amines is the ______ test. (b) The coupling of diazonium salt with phenol takes place at pH ______.", "(a) carbylamine. (b) 9–10 (alkaline)."],
+  ["Match: (a) Hofmann bromamide (b) Gabriel (c) Carbylamine with (i) phthalimide (ii) CHCl3/KOH (iii) amide to amine with one carbon less.", "(a)-(iii); (b)-(i); (c)-(ii)."],
+  ["Write (a) the product of CH3NH2 + CH3COCl and (b) the name of the reaction.", "(a) CH3NHCOCH3 (N-methylacetamide). (b) Acylation."],
+  ["Name (a) the compound formed when aniline is diazotised and (b) its use.", "(a) Benzenediazonium chloride. (b) Preparation of aryl halides, phenol and azo dyes."],
+  ["Give (a) the IUPAC name of CH3CH2NH2 and (b) of C6H5NH2.", "(a) Ethanamine. (b) Benzenamine (aniline)."]
+ ],
+ "vsa": [
+  ["What is formed when benzenediazonium chloride couples with phenol?", "In weakly alkaline medium, C6H5N2+ attacks the para position of phenoxide to give p-hydroxyazobenzene, an orange azo dye.", ["April 2026"]],
+  ["Describe the preparation of chlorobenzene from aniline.", "Aniline + NaNO2/HCl (273–278 K) → C6H5N2+Cl−, which with CuCl/HCl (Sandmeyer) or Cu/HCl (Gattermann) gives C6H5Cl + N2.", ["April 2026"]],
+  ["How is iodobenzene prepared from aniline?", "Diazotise aniline to C6H5N2+Cl−, then warm with KI: C6H5N2+Cl− + KI → C6H5I + N2 + KCl.", ["April 2025"]],
+  ["Why is aniline less basic than ethylamine?", "In aniline the lone pair on N is delocalised into the benzene ring by resonance and is less available to accept a proton; in ethylamine the +I effect of ethyl increases electron density on N."],
+  ["Write the Hofmann bromamide degradation reaction for acetamide.", "CH3CONH2 + Br2 + 4NaOH → CH3NH2 + Na2CO3 + 2NaBr + 2H2O (the amine has one carbon less)."],
+  ["What is the carbylamine reaction? Give the equation.", "Primary amines on heating with chloroform and alc. KOH form foul-smelling isocyanides: RNH2 + CHCl3 + 3KOH → RNC + 3KCl + 3H2O."],
+  ["Why is acetylation of aniline done before bromination?", "The –NH2 group is strongly activating and gives 2,4,6-tribromoaniline; acetylation reduces its activating effect so that mono-bromo derivatives are obtained and the amino group is protected."],
+  ["How can primary, secondary and tertiary amines be distinguished by Hinsberg's reagent?", "Benzenesulphonyl chloride gives with 1° amine a sulphonamide soluble in alkali; with 2° amine an insoluble sulphonamide; and no reaction with 3° amines."]
+ ],
+ "sa": [
+  ["Describe the preparation of benzenediazonium chloride and two reactions in which N2 is lost.", "Aniline + NaNO2 + HCl at 273–278 K → C6H5N2+Cl−. Reactions: Sandmeyer – with CuCl/HCl gives chlorobenzene; with KI gives iodobenzene; with H2O (warming) gives phenol; with H3PO2 gives benzene."],
+  ["Compare the basic strength of ammonia, methylamine, dimethylamine and aniline and give reasons.", "Dimethylamine > methylamine > ammonia > aniline in basicity: alkyl groups donate electrons (+I) and increase the availability of the lone pair; aniline's lone pair is delocalised into the ring."],
+  ["How will you convert (a) nitrobenzene to aniline (b) ethanamide to methanamine (c) aniline to phenol?", "(a) C6H5NO2 + Sn/HCl (or H2/Ni) → C6H5NH2. (b) CH3CONH2 + Br2 + KOH → CH3NH2. (c) C6H5NH2 + NaNO2/HCl (273 K) → C6H5N2+Cl−; warm with water → C6H5OH."],
+  ["Explain the electrophilic substitution of aniline: bromination and nitration.", "–NH2 is a strong o,p-director. Bromine water gives 2,4,6-tribromoaniline (white ppt.). Direct nitration gives a mixture because aniline is protonated to the anilinium ion (meta-director); to get the p-nitroaniline, the amino group is first protected by acetylation."],
+  ["Write the structure and the use of azo dyes with an example.", "Compounds with –N=N– linking two aromatic rings, formed by coupling a diazonium salt with a phenol or an aromatic amine, e.g. p-hydroxyazobenzene (orange) and methyl orange; used as dyes in textile and as indicators."],
+  ["What is the Gabriel phthalimide synthesis? Why can it not be used for aromatic amines?", "Phthalimide is treated with KOH to form potassium phthalimide, which reacts with an alkyl halide; hydrolysis gives the primary aliphatic amine. Aryl halides do not undergo nucleophilic substitution with the phthalimide anion, so aromatic amines cannot be made."]
+ ],
+ "la": [
+  ["(a) How is benzenediazonium chloride prepared? (b) Write the reactions by which it is converted into (i) chlorobenzene (ii) iodobenzene (iii) phenol (iv) an azo dye with phenol.", "(a) Diazotisation: C6H5NH2 + NaNO2 + 2HCl → C6H5N2+Cl− + NaCl + 2H2O at 273–278 K.\n(b) (i) With CuCl/HCl (Sandmeyer) or Cu/HCl (Gattermann): C6H5Cl + N2. (ii) With KI: C6H5I + N2 + KCl. (iii) Warm water/dil. H2SO4: C6H5OH + N2 + HCl. (iv) With phenol in NaOH at 273 K: p-HOC6H4N=NC6H5 (orange azo dye).", ["April 2026"]],
+  ["(a) Describe the methods of preparation of primary amines with equations. (b) Write the carbylamine reaction and the Hinsberg test.", "(a) Reduction of nitro compounds or nitriles (C6H5NO2 + 6[H] → C6H5NH2 + 2H2O); ammonolysis of RX (RX + NH3 → RNH2·HX); Hofmann bromamide degradation (RCONH2 + Br2 + 4NaOH → RNH2 + Na2CO3 + 2NaBr + 2H2O); Gabriel synthesis.\n(b) RNH2 + CHCl3 + 3KOH → RNC + 3KCl + 3H2O (foul smell). Hinsberg: C6H5SO2Cl with 1° amine gives a soluble sulphonamide, with 2° an insoluble one and with 3° no reaction."],
+  ["(a) Explain why aliphatic amines are more basic than ammonia while aromatic amines are less basic. (b) Compare the boiling points of amines. (c) Write the reaction of ethylamine with nitrous acid and with acetyl chloride.", "(a) Alkyl groups push electrons (+I) towards N and increase its tendency to accept a proton; aniline's lone pair is delocalised into the ring.\n(b) 1° amines > 2° > 3° (hydrogen bonding is strongest in 1° amines, none in 3° amines); amines boil lower than alcohols of similar mass since N–H···N bonds are weaker than O–H···O.\n(c) C2H5NH2 + HNO2 → C2H5OH + N2 + H2O; C2H5NH2 + CH3COCl → CH3CONHC2H5 + HCl."],
+  ["(a) Write short notes on the Sandmeyer and Gattermann reactions and the coupling reaction. (b) Give any two uses of diazonium salts.", "(a) Sandmeyer: ArN2+X− with CuX gives ArX/ArCN. Gattermann: Cu powder and HX instead of CuX. Coupling: ArN2+ combines with phenols or aromatic amines in suitable pH to give azo compounds.\n(b) Preparation of aryl halides and phenols, and synthesis of azo dyes (methyl orange)."]
+ ]
+}

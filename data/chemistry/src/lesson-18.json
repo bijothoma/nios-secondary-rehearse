@@ -1,0 +1,59 @@
+{
+ "lesson": 18, "title": "General Characteristics of the p-block Elements", "module": 6,
+ "summary": [
+  "## The p-block and periodic trends",
+  "The p-block contains groups 13 to 18 (general configuration ns² np¹⁻⁶, except He 1s²). It has metals, non-metals and metalloids and the most electronegative element, fluorine. Across a period, atomic size decreases, ionisation enthalpy, electronegativity and non-metallic character increase; down a group, atomic size increases, ionisation enthalpy and electronegativity decrease and metallic character increases. Fluorine is the most electronegative element (4.0) and the electron gain enthalpy of Cl is more negative than that of F because of the very small size of F. Order of electronegativity: F > O > N > Cl > S.",
+  "## Oxidation states and the inert pair effect",
+  "p-block elements show a maximum oxidation state equal to the total number of s + p valence electrons (group number − 10) and other states that differ by two (due to the inert pair effect – the reluctance of the ns² electrons to take part in bonding, which becomes more marked down the group). Examples: Tl is stable as +1 and Pb as +2, while B and Al show only +3; N shows −3 to +5, P +3 and +5, and sulphur −2, +2, +4, +6. Elements of the second period (B to F) differ from the rest of their groups because of small size, high electronegativity and absence of d-orbitals: their maximum covalency is limited to four (BF4−) while heavier elements expand it (PCl5, SF6). Anomalous behaviour of N: nitrogen exists as N≡N, forms pπ–pπ multiple bonds, while P exists as P4.",
+  "## Types of compounds and bonding",
+  "Non-metals form covalent compounds with each other and ionic compounds with metals of low ionisation enthalpy. Halogens form interhalogen compounds (ClF3, IF7). Oxides: acidic (non-metals: SO2, CO2, P4O10), amphoteric (Al2O3, ZnO, PbO) and basic (metal oxides); acidic character increases across a period and decreases down a group. Hydrides: the stability decreases down the group (NH3 > PH3 > AsH3; HF > HCl > HBr > HI in thermal stability) while acidic strength of hydrogen halides increases down the group (HI > HBr > HCl > HF) because of the weaker H–X bond. Boiling points of hydrides of group 15, 16 and 17 show the anomaly of NH3, H2O and HF because of hydrogen bonding. Allotropy: carbon (diamond, graphite, fullerene), phosphorus (white, red, black), sulphur (rhombic, monoclinic)."
+ ],
+ "mcq": [
+  ["The most electronegative element among the following is —", ["fluorine", "oxygen", "nitrogen", "sulphur"], "A", ["October 2024"]],
+  ["The general outer electronic configuration of p-block elements is —", ["ns² np¹⁻⁶", "ns¹⁻²", "(n−1)d¹⁻¹⁰ ns¹⁻²", "(n−2)f¹⁻¹⁴"], "A"],
+  ["The inert pair effect is most prominent in —", ["Pb", "C", "Si", "Ge"], "A"],
+  ["The maximum covalency of boron in its compounds is —", ["4", "3", "6", "5"], "A"],
+  ["Which of the following oxides is amphoteric?", ["Al2O3", "SO2", "Na2O", "CO2"], "A"],
+  ["The thermal stability of hydrogen halides decreases in the order —", ["HF > HCl > HBr > HI", "HI > HBr > HCl > HF", "HCl > HF > HBr > HI", "HF > HI > HBr > HCl"], "A"],
+  ["The stable oxidation state of thallium is —", ["+1", "+3", "+2", "−1"], "A"],
+  ["The element showing the maximum number of oxidation states (−3 to +5) is —", ["nitrogen", "boron", "carbon", "neon"], "A"],
+  ["Acidic strength of the hydrogen halides is the highest in —", ["HI", "HF", "HCl", "HBr"], "A"],
+  ["Elements of group 18 are called —", ["noble gases", "halogens", "chalcogens", "pnictogens"], "A"],
+  ["The oxide which is acidic in nature is —", ["P4O10", "MgO", "ZnO", "Na2O"], "A"],
+  ["Which of the following has the highest ionisation enthalpy?", ["Neon", "Oxygen", "Nitrogen", "Fluorine"], "A"]
+ ],
+ "objective": [
+  ["(a) Which is the most electronegative element? (b) Write its electronic configuration.", "(a) Fluorine. (b) 1s² 2s² 2p⁵.", ["October 2024"]],
+  ["State true or false: (a) The inert pair effect increases down a group in the p-block. (b) The heavier members of group 15 can show covalency greater than four.", "(a) True. (b) True (PCl5, due to the availability of d-orbitals).", ["April 2026"]],
+  ["Fill in: (a) The maximum oxidation state of a p-block element of group 17 is ______. (b) The acidic character of oxides ______ across a period.", "(a) +7. (b) increases."],
+  ["Match: (a) Al2O3 (b) CO2 (c) Na2O with (i) acidic (ii) basic (iii) amphoteric.", "(a)-(iii); (b)-(i); (c)-(ii)."],
+  ["Name (a) the group of elements called chalcogens and (b) the group of the halogens.", "(a) Group 16. (b) Group 17."],
+  ["(a) Which hydride is the most stable in group 15? (b) Which is the strongest acid among the hydrogen halides?", "(a) NH3. (b) HI."],
+  ["Give (a) the oxidation states of nitrogen in NH3 and HNO3 and (b) a pair of elements showing the inert pair effect.", "(a) −3 and +5. (b) Tl (+1 more stable than +3) and Pb (+2 more stable than +4)."],
+  ["Complete: (a) The three allotropes of phosphorus are white, red and ______. (b) Allotropes of carbon include diamond, graphite and ______.", "(a) black. (b) fullerene."]
+ ],
+ "vsa": [
+  ["What is the inert pair effect? Give one example.", "The reluctance of the two ns electrons to take part in bonding, which becomes more pronounced down a group. Thus Pb shows +2 as more stable than +4 (thallium +1 more stable than +3).", ["April 2026"]],
+  ["Why does nitrogen differ from the rest of the elements of its group?", "Because of its small size, high electronegativity, absence of d-orbitals and ability to form pπ–pπ multiple bonds (N≡N); maximum covalency is limited to four."],
+  ["Compare the ionisation enthalpy of nitrogen and oxygen and give a reason.", "Nitrogen has higher ionisation enthalpy than oxygen because its half-filled 2p³ configuration is extra stable, whereas oxygen's 2p⁴ has paired electrons that repel each other.", ["April 2026"]],
+  ["Why is the electron gain enthalpy of chlorine more negative than that of fluorine?", "Fluorine's very small size produces strong electron–electron repulsion in the compact 2p subshell, so the incoming electron is accepted less readily than in the larger 3p subshell of chlorine."],
+  ["Why do the p-block elements show variable oxidation states?", "They have both ns and np electrons available; the np electrons are lost or shared first, followed by the ns pair, giving states that differ by two (e.g. +3 and +5 in P)."],
+  ["How does the acidic strength of the hydrogen halides vary in a group? Why?", "HF < HCl < HBr < HI. The H–X bond strength decreases down the group because of larger atomic size, so the release of H+ becomes easier."],
+  ["What is meant by catenation? Name the p-block element showing it most.", "The ability of an element to form bonds with atoms of the same element, producing chains and rings; carbon shows it most because of the strong C–C bond."],
+  ["Classify the oxides as acidic or amphoteric: SO2, ZnO.", "SO2 is acidic; ZnO is amphoteric."]
+ ],
+ "sa": [
+  ["Explain the trend in atomic radii, ionisation enthalpy and electronegativity across a period and down a group in the p-block.", "Across a period: atomic radius decreases because the nuclear charge increases with the same shell; ionisation enthalpy and electronegativity increase. Down a group: radius increases due to additional shells; ionisation enthalpy and electronegativity decrease."],
+  ["Explain the thermal stability and acidic strength of the hydrogen halides.", "Thermal stability decreases from HF to HI as the H–X bond length increases and bond enthalpy falls (HF 568, HCl 431, HBr 366, HI 299 kJ mol^-1). Acidic strength increases from HF to HI because the weaker bond breaks more easily in water."],
+  ["Why are the compounds of the second-period p-block elements different from those of the heavier members?", "The second-period elements are small, have high electronegativity and no d-orbitals; they cannot expand their octet (maximum covalency 4) and form pπ–pπ multiple bonds; heavier elements have vacant d-orbitals and form PCl5, SF6, etc."],
+  ["Discuss the amphoteric and acidic nature of oxides across the period with examples.", "Across period 3: Na2O and MgO are basic, Al2O3 amphoteric, SiO2 weakly acidic, P4O10, SO3 and Cl2O7 strongly acidic; acidic character increases with increasing electronegativity of the element."],
+  ["Explain the inert pair effect with respect to group 13 and group 14.", "In group 13, Tl is stable in the +1 state (Tl+) and Tl3+ is a strong oxidiser, while Al is +3. In group 14, Pb^2+ is more stable than Pb^4+ (PbO2 is an oxidiser) while for C, Si only +4 is observed; the ns² pair becomes inert down the group."],
+  ["Write short notes on the allotropes of carbon.", "Diamond: sp³ hybridised, tetrahedral three-dimensional network, hardest, non-conductor. Graphite: sp², layered with hexagonal rings, soft and conducts electricity. Fullerene (C60): spherical molecule of 60 carbon atoms in 20 hexagons and 12 pentagons."]
+ ],
+ "la": [
+  ["(a) Give the general electronic configuration of the p-block. (b) Explain the oxidation states and the inert pair effect with two examples. (c) Why is fluorine always univalent?", "(a) ns² np¹⁻⁶.\n(b) The maximum oxidation state equals the number of valence electrons; lower states differ by 2 due to the inert pair effect: Tl +1, Pb +2, and Bi +3 are more stable than the higher states. N shows −3 to +5 and S −2, +4, +6.\n(c) Fluorine, being the most electronegative with no d-orbitals, has only −1 and cannot expand its octet."],
+  ["(a) Compare the elements of the second period with those of the third period in the p-block. (b) Explain why N2 is unreactive while P4 is reactive.", "(a) Second-period elements are small, with high electronegativity and no d-orbitals; they form pπ–pπ multiple bonds and have maximum covalency four; third-period elements have d-orbitals and show higher covalency.\n(b) N≡N has a very high bond enthalpy (946 kJ mol^-1) because of strong pπ–pπ overlap, so N2 is inert; P forms single P–P bonds in the strained P4 tetrahedron (60° angles), making it very reactive."],
+  ["(a) Explain trends in the properties of the hydrogen compounds of group 15 (NH3 to BiH3) with respect to thermal stability, boiling point and basic strength. (b) Why is the boiling point of NH3 anomalous?", "(a) Thermal stability and basic strength decrease from NH3 to BiH3 because the E–H bond becomes longer and weaker and the lone pair becomes more diffuse; boiling point increases from PH3 to BiH3 with molecular mass.\n(b) NH3 forms intermolecular hydrogen bonds, hence its boiling point (240 K) is higher than that of PH3 (185 K)."],
+  ["(a) Give the order of the acidic character of the oxides of the third-period elements with their nature. (b) Name the oxide of silicon, aluminium and sulphur and classify each. (c) Why do the oxides of non-metals form acids on reacting with water?", "(a) Na2O < MgO (basic) < Al2O3 (amphoteric) < SiO2 < P4O10 < SO3 < Cl2O7 (acidic).\n(b) SiO2 – weakly acidic; Al2O3 – amphoteric; SO2/SO3 – acidic.\n(c) The non-metal–oxygen bond is covalent and polar; with water the oxide forms an oxoacid which releases H+ (SO3 + H2O → H2SO4)."]
+ ]
+}

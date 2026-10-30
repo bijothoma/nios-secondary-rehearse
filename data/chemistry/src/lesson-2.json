@@ -1,0 +1,59 @@
+{
+ "lesson": 2, "title": "Atomic Structure", "module": 2,
+ "summary": [
+  "## Sub-atomic particles and early models",
+  "Atoms contain electrons (charge −1.602 × 10^-19 C, mass 9.11 × 10^-31 kg, discovered by J.J. Thomson), protons (+1, mass 1.673 × 10^-27 kg, Goldstein) and neutrons (neutral, 1.675 × 10^-27 kg, Chadwick). Thomson's plum-pudding model was replaced by Rutherford's nuclear model after the α-ray scattering experiment: most α-particles passed straight (atom is mostly empty space), a few were deflected at large angles and a very few (about 1 in 20000) rebounded, showing that all the positive charge and nearly all the mass is concentrated in a tiny nucleus. Atomic number Z = number of protons; mass number A = protons + neutrons. Isotopes have the same Z but different A (protium, deuterium, tritium); isobars have the same A; isotones the same number of neutrons; isoelectronic species have the same number of electrons (e.g. Na+, Mg2+, Ne).",
+  "## Bohr model and quantum mechanics",
+  "Light behaves as waves (c = νλ) and as photons (E = hν, h = 6.626 × 10^-34 J s). Bohr (1913): electrons move in fixed stationary orbits without radiating; angular momentum is mvr = nh/2π; energy is emitted or absorbed when an electron jumps between orbits (ΔE = hν); radius r_n = 52.9 n²/Z pm and E_n = −13.6 Z²/n² eV. It explains the hydrogen line spectrum (Lyman, Balmer, Paschen, Brackett, Pfund series; 1/λ = R(1/n1² − 1/n2²)) but fails for multi-electron atoms. de Broglie: λ = h/mv (matter waves); Heisenberg's uncertainty principle: Δx · Δp ≥ h/4π, so the exact position and momentum of an electron cannot be known together. Schrödinger's wave equation gives wave functions ψ; ψ² is the probability density; an orbital is the region of high probability of finding an electron.",
+  "## Quantum numbers and electronic configuration",
+  "Principal quantum number n (1,2,3…; size and energy), azimuthal l (0 to n−1; shape: s, p, d, f), magnetic m_l (−l to +l; orientation, 2l+1 orbitals) and spin m_s (+½ or −½). A subshell holds 2(2l+1) electrons and a shell holds 2n². Rules: Aufbau principle (fill in increasing n + l; if equal, lower n first: 1s 2s 2p 3s 3p 4s 3d 4p …); Pauli exclusion principle (no two electrons have the same four quantum numbers; an orbital holds at most two electrons of opposite spins); Hund's rule (degenerate orbitals are singly filled with parallel spins before pairing). Half-filled and fully filled subshells are extra stable (Cr: [Ar]3d5 4s1; Cu: [Ar]3d10 4s1). Number of radial nodes = n − l − 1; angular nodes = l; total nodes = n − 1."
+ ],
+ "mcq": [
+  ["In the species 199Hg (Z = 80) the numbers of protons, neutrons and electrons are respectively —", ["80, 119, 80", "80, 199, 80", "119, 80, 119", "199, 80, 199"], "A", ["October 2024"]],
+  ["Isoelectronic species among the following are —", ["Na+ and Mg2+", "Na and Na+", "Cl and Cl−", "K+ and Ca"], "A", ["April 2026"]],
+  ["Rutherford's α-scattering experiment shows that —", ["the positive charge is concentrated in the nucleus", "electrons move in fixed orbits", "the atom is a solid sphere", "neutrons are present in the nucleus"], "A", ["October 2024"]],
+  ["The number of orbitals in the d subshell is —", ["5", "3", "7", "1"], "A"],
+  ["The maximum number of electrons in the shell with n = 3 is —", ["18", "8", "32", "9"], "A"],
+  ["The quantum number which determines the shape of an orbital is —", ["azimuthal quantum number", "principal quantum number", "magnetic quantum number", "spin quantum number"], "A"],
+  ["The electronic configuration of chromium (Z = 24) is —", ["[Ar] 3d5 4s1", "[Ar] 3d4 4s2", "[Ar] 3d6", "[Ar] 4s2 4p4"], "A"],
+  ["Which of the following orbitals is filled first?", ["4s", "3d", "4p", "4d"], "A"],
+  ["The de Broglie wavelength of a particle of mass m and velocity v is —", ["h/mv", "mv/h", "hmv", "h/m²v"], "A", ["October 2024"]],
+  ["The number of radial nodes in a 3p orbital is —", ["1", "0", "2", "3"], "A", ["April 2026"]],
+  ["Tritium is an isotope of hydrogen having —", ["1 proton and 2 neutrons", "1 proton and 1 neutron", "2 protons and 1 neutron", "3 protons"], "A", ["October 2025"]],
+  ["Pauli's exclusion principle states that in an atom no two electrons can have —", ["the same set of four quantum numbers", "the same n value", "the same spin", "the same energy"], "A"]
+ ],
+ "objective": [
+  ["(a) Write the mathematical expression of the de Broglie equation. (b) State Heisenberg's uncertainty principle.", "(a) λ = h/mv.\n(b) It is impossible to determine simultaneously the exact position and the exact momentum of a microscopic particle; Δx · Δp ≥ h/4π.", ["October 2024"]],
+  ["State true or false: (a) The number of nodes in a 2s orbital is two. (b) The energy of an electron in a hydrogen atom depends only on n.", "(a) False – 2s has one radial node (n − l − 1 = 1). (b) True.", ["April 2026"]],
+  ["Fill in: (a) The principle that electrons occupy the lowest energy orbitals first is the ______ principle. (b) The maximum number of electrons in a p subshell is ______.", "(a) Aufbau. (b) 6."],
+  ["Give (a) the number of protons and neutrons in 35Cl (Z = 17) and (b) the name of the three isotopes of hydrogen.", "(a) 17 protons, 18 neutrons. (b) Protium, deuterium and tritium."],
+  ["Match: (a) Thomson (b) Chadwick (c) Rutherford with (i) nucleus (ii) neutron (iii) electron.", "(a)-(iii); (b)-(ii); (c)-(i)."],
+  ["Write the values of (a) l for a d orbital and (b) the number of values of m_l for l = 2.", "(a) l = 2. (b) m_l = −2, −1, 0, +1, +2: five values."],
+  ["Write the electronic configuration of (a) Fe (Z = 26) and (b) Cu (Z = 29).", "(a) 1s2 2s2 2p6 3s2 3p6 3d6 4s2 = [Ar] 3d6 4s2.\n(b) [Ar] 3d10 4s1 (fully filled d subshell is extra stable)."],
+  ["Complete: (a) Hund's rule is the rule of maximum ______. (b) The shape of a p orbital is ______.", "(a) multiplicity. (b) dumb-bell."]
+ ],
+ "vsa": [
+  ["If 3d and 4p orbitals are to be filled by an electron, which will be occupied first? Explain on the basis of the Aufbau principle.", "n + l for 3d = 3 + 2 = 5 and for 4p = 4 + 1 = 5. When n + l is equal, the orbital with the lower n is filled first, so 3d is filled before 4p.", ["October 2024"]],
+  ["Which observation of Rutherford's α-ray scattering experiment led to the conclusion that all the positive charge of the atom was contained in the nucleus?", "A very small number of α-particles (about 1 in 20000) were deflected through large angles or even bounced back, showing that they were repelled by a tiny, dense, positively charged centre – the nucleus.", ["October 2024"]],
+  ["What are nodes? How many radial nodes does a 3s orbital have?", "A node is a region where the probability of finding an electron is zero. Radial nodes = n − l − 1 = 3 − 0 − 1 = 2.", ["April 2026"]],
+  ["What are isoelectronic species? Give two examples.", "Species having the same number of electrons. Examples: Na+, Mg2+ and Ne (10 electrons each); also Cl− and Ar (18 electrons).", ["April 2026"]],
+  ["State Hund's rule of maximum multiplicity with an example.", "Pairing of electrons in degenerate orbitals starts only after each orbital has one electron with parallel spin. Nitrogen (2p3) has the three 2p electrons in separate orbitals with the same spin."],
+  ["State Pauli's exclusion principle.", "No two electrons in an atom can have the same values of all four quantum numbers; so an orbital can hold at most two electrons with opposite spins."],
+  ["Why is the configuration of copper 3d10 4s1 and not 3d9 4s2?", "A completely filled d subshell has extra stability due to symmetrical distribution and high exchange energy, so one 4s electron shifts to 3d."],
+  ["Calculate the energy of a photon of frequency 5 × 10^14 Hz (h = 6.626 × 10^-34 J s).", "E = hν = 6.626 × 10^-34 × 5 × 10^14 = 3.313 × 10^-19 J."]
+ ],
+ "sa": [
+  ["Explain the four quantum numbers and the information each gives.", "n (principal) – shell, size and energy; l (azimuthal, 0 to n−1) – subshell and shape of orbital (s, p, d, f); m_l (magnetic, −l to +l) – orientation of the orbital in space; m_s (spin, +½ or −½) – direction of spin of the electron."],
+  ["State the main postulates of Bohr's model of the atom.", "Electrons revolve in fixed circular orbits (stationary states) without radiating energy; the angular momentum is an integral multiple of h/2π (mvr = nh/2π); energy is absorbed or emitted only when an electron jumps between orbits, ΔE = hν."],
+  ["Calculate the de Broglie wavelength of an electron moving with a velocity of 2.19 × 10^6 m s^-1 (m = 9.11 × 10^-31 kg, h = 6.626 × 10^-34 J s).", "λ = h/mv = 6.626 × 10^-34 / (9.11 × 10^-31 × 2.19 × 10^6)\n= 6.626 × 10^-34 / 1.995 × 10^-24 = 3.32 × 10^-10 m (332 pm)."],
+  ["Give the differences between an orbit and an orbital.", "Orbit: a fixed circular path of an electron (Bohr), two-dimensional, any number of electrons can be placed and the path is definite. Orbital: a three-dimensional region of space around the nucleus with maximum probability of finding an electron, holds at most two electrons, and has various shapes."],
+  ["Write the electronic configuration of Cr (Z = 24) and Mn2+ (Z = 25) and account for their stability.", "Cr: [Ar] 3d5 4s1 (half-filled d and s). Mn2+: [Ar] 3d5 – half-filled d subshell. Half-filled and fully filled subshells are stable because of symmetry and exchange energy."],
+  ["Explain with the help of the Rutherford model why it fails and how Bohr's model improves it.", "Rutherford's atom should be unstable because an accelerating electron in orbit would radiate energy and spiral into the nucleus, and it cannot explain line spectra. Bohr proposed non-radiating stationary orbits with quantised energies, which explain the stability of the atom and the spectrum of hydrogen."]
+ ],
+ "la": [
+  ["(a) Explain the Aufbau principle, Pauli's exclusion principle and Hund's rule. (b) Write the electronic configuration of nitrogen (Z = 7) and of Fe (Z = 26).", "(a) Aufbau: orbitals are filled in the order of increasing energy (n + l rule). Pauli: no two electrons in an atom have all four quantum numbers the same. Hund: degenerate orbitals are first filled singly with parallel spins.\n(b) N: 1s2 2s2 2p3 (three p electrons unpaired). Fe: 1s2 2s2 2p6 3s2 3p6 3d6 4s2."],
+  ["Describe Rutherford's α-particle scattering experiment, its observations and conclusions.", "A thin gold foil was bombarded with α-particles. Observations: most passed undeflected; a few deflected by small angles; very few (1 in 20000) rebounded. Conclusions: the atom is mostly empty space; positive charge and mass are concentrated in a very small nucleus; electrons revolve around it."],
+  ["(a) State the de Broglie relation. (b) State Heisenberg's uncertainty principle and give its significance. (c) What is an orbital?", "(a) λ = h/mv: a moving particle has wave character.\n(b) Δx · Δp ≥ h/4π – position and momentum cannot both be measured exactly; the idea of definite orbits is therefore rejected and probability (orbitals) is used.\n(c) An orbital is the three-dimensional region around the nucleus where the probability of finding an electron is high (ψ² gives the probability density)."],
+  ["Explain the shapes of s and p orbitals and the number of nodes in 1s, 2s and 2p. Define the four quantum numbers for the last electron of Na (Z = 11).", "s orbital is spherical; p orbitals are dumb-bell shaped along x, y and z axes. Nodes (radial = n − l − 1, angular = l): 1s – 0; 2s – 1 radial; 2p – 1 angular.\nNa: 1s2 2s2 2p6 3s1; last electron: n = 3, l = 0, m_l = 0, m_s = +½."]
+ ]
+}

@@ -1,0 +1,366 @@
+{
+  "subject": "chemistry",
+  "lesson": 25,
+  "title": "Compounds of Carbon Containing Halogens (Haloalkanes and Haloarenes)",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "12 × 1 = 12",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "The Grignard reagent is —",
+          "options": [
+            "RMgX",
+            "R2Mg",
+            "RMgR",
+            "R–Li"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "The best method to prepare an alkyl chloride from an alcohol is by using —",
+          "options": [
+            "SOCl2",
+            "HCl with ZnCl2",
+            "PCl5",
+            "NaCl"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "The SN1 reaction proceeds through —",
+          "options": [
+            "a carbocation intermediate",
+            "a carbanion",
+            "a free radical",
+            "a concerted step"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "The order of reactivity of haloalkanes in SN2 reactions is —",
+          "options": [
+            "1° > 2° > 3°",
+            "3° > 2° > 1°",
+            "2° > 1° > 3°",
+            "all equal"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "The Finkelstein reaction is used for the preparation of —",
+          "options": [
+            "alkyl iodides",
+            "alkyl fluorides",
+            "aryl halides",
+            "alcohols"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "Chlorobenzene is less reactive than chloroethane towards nucleophilic substitution due to —",
+          "options": [
+            "resonance and sp² carbon",
+            "the presence of a hydrogen bond",
+            "its high molecular mass",
+            "instability of the benzene ring"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "Chloroform is stored in dark bottles to prevent its conversion to —",
+          "options": [
+            "phosgene",
+            "methane",
+            "carbon tetrachloride",
+            "formaldehyde"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "An alkyl halide reacts with alcoholic KOH to give —",
+          "options": [
+            "an alkene",
+            "an alcohol",
+            "an ether",
+            "an alkane"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "The reaction of RMgX with water gives —",
+          "options": [
+            "an alkane",
+            "an alcohol",
+            "an alkene",
+            "a ketone"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "The reagent used for the Sandmeyer reaction is —",
+          "options": [
+            "CuCl / HCl with diazonium salt",
+            "Zn/Hg",
+            "NaOH",
+            "AlCl3"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "The haloalkane with the highest boiling point is —",
+          "options": [
+            "CH3CH2I",
+            "CH3CH2Br",
+            "CH3CH2Cl",
+            "CH3CH2F"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "Which of the following is used as a refrigerant?",
+          "options": [
+            "CCl2F2 (freon)",
+            "CHCl3",
+            "CH2Cl2",
+            "DDT"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark.",
+      "marks": "8 × 2 = 16",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "(a) What is a Grignard reagent? (b) Write the reaction of CH3MgBr with water.",
+          "answer": "(a) An organomagnesium halide, RMgX, prepared from RX and Mg in dry ether. (b) CH3MgBr + H2O → CH4 + Mg(OH)Br.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "State true or false: (a) SN2 reaction takes place with inversion of configuration. (b) Haloarenes are more reactive towards nucleophilic substitution than haloalkanes.",
+          "answer": "(a) True. (b) False – they are less reactive.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "Fill in: (a) The reaction of R–Cl with NaI in acetone is called the ______ reaction. (b) Chloroform is oxidised in air to ______.",
+          "answer": "(a) Finkelstein. (b) phosgene (COCl2)."
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Match: (a) Wurtz reaction (b) Swarts reaction (c) Sandmeyer reaction with (i) AgF (ii) diazonium salt + CuCl (iii) RX + Na.",
+          "answer": "(a)-(iii); (b)-(i); (c)-(ii)."
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "Write the products of (a) CH3CH2Br + aq. KOH and (b) CH3CH2Br + alc. KOH.",
+          "answer": "(a) Ethanol, CH3CH2OH. (b) Ethene, CH2=CH2."
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "Name (a) the insecticide containing chlorine that is not biodegradable and (b) the compound used as an antiseptic.",
+          "answer": "(a) DDT. (b) Iodoform (CHI3)."
+        },
+        {
+          "id": "2.7",
+          "type": "open",
+          "q": "Write (a) the IUPAC name of CH3CHBrCH3 and (b) CH2=CHCl.",
+          "answer": "(a) 2-Bromopropane. (b) Chloroethene (vinyl chloride)."
+        },
+        {
+          "id": "2.8",
+          "type": "open",
+          "q": "Identify (a) the class of (CH3)3CBr and (b) the favoured mechanism.",
+          "answer": "(a) Tertiary haloalkane. (b) SN1."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "8 × 2 = 16",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "What is a Grignard reagent? How is it prepared?",
+          "answer": "An organomagnesium halide, R–Mg–X. It is prepared by reacting an alkyl or aryl halide with magnesium metal in dry ether: R–X + Mg → RMgX.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "Why is chlorobenzene less reactive than chloroethane in nucleophilic substitution?",
+          "answer": "In chlorobenzene the C–Cl bond has a partial double-bond character due to resonance, and the carbon is sp² hybridised (shorter, stronger bond); in addition, the phenyl cation is unstable."
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "Distinguish between SN1 and SN2 reactions (two points).",
+          "answer": "SN1: two steps through a carbocation, rate depends on [RX] only, racemisation, tertiary halides favoured. SN2: single step, rate depends on [RX][Nu], inversion of configuration, primary halides favoured."
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "How is chloroform stored and why?",
+          "answer": "In dark brown bottles filled to the brim because light and air oxidise it to poisonous phosgene gas, COCl2; about 1% ethanol is added to convert phosgene to harmless ethyl carbonate."
+        },
+        {
+          "id": "3.5",
+          "type": "open",
+          "q": "Write the Sandmeyer reaction for the preparation of chlorobenzene from benzene diazonium chloride.",
+          "answer": "C6H5N2+Cl− + CuCl/HCl → C6H5Cl + N2 + CuCl.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "3.6",
+          "type": "open",
+          "q": "What is the Finkelstein reaction? Write an example.",
+          "answer": "Conversion of alkyl chlorides or bromides to iodides with NaI in dry acetone: CH3CH2Br + NaI → CH3CH2I + NaBr (NaBr precipitates)."
+        },
+        {
+          "id": "3.7",
+          "type": "open",
+          "q": "Why are haloalkanes insoluble in water though polar?",
+          "answer": "The energy released on forming new haloalkane–water attraction is less than that needed to break the hydrogen bonds of water and the dipole–dipole attractions of the haloalkane."
+        },
+        {
+          "id": "3.8",
+          "type": "open",
+          "q": "Name two harmful effects of freons and DDT.",
+          "answer": "Freons deplete the ozone layer (cause skin cancer); DDT is non-biodegradable and accumulates in the food chain, harming birds and aquatic life."
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "6 × 3 = 18",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "Explain the mechanism of the SN2 reaction of CH3Br with OH−.",
+          "answer": "The nucleophile OH− attacks the carbon from the side opposite to Br (backside) in a single step through a transition state in which C is partly bonded to both OH and Br; Br− leaves and the configuration is inverted; rate = k[CH3Br][OH−]."
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "Write the reactions of a Grignard reagent with (a) CO2 (b) methanal (c) a ketone.",
+          "answer": "(a) RMgX + CO2 → RCOOMgX → RCOOH (carboxylic acid). (b) RMgX + HCHO → RCH2OMgX → RCH2OH (primary alcohol). (c) RMgX + R'COR' → R3COMgX → tertiary alcohol after hydrolysis."
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "How will you prepare (a) ethyl iodide from ethanol (b) chlorobenzene from aniline (c) 2-chloropropane from propene?",
+          "answer": "(a) C2H5OH + SOCl2 → C2H5Cl, then NaI/acetone gives C2H5I (or red P + I2). (b) Aniline → diazotisation (NaNO2/HCl, 273 K) → C6H5N2+Cl− → CuCl (Sandmeyer). (c) CH3CH=CH2 + HCl → CH3CHClCH3 (Markovnikov)."
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "Give reasons: (a) SN1 reactions are favoured by tertiary halides. (b) Haloalkanes have higher boiling points than alkanes of similar mass.",
+          "answer": "(a) The tertiary carbocation is stabilised by three alkyl groups (+I and hyperconjugation). (b) Haloalkanes are polar with dipole–dipole attractions and greater van der Waals forces than alkanes."
+        },
+        {
+          "id": "4.5",
+          "type": "open",
+          "q": "Compare haloalkanes and haloarenes in respect of nucleophilic substitution, bond length of C–X and dipole moment.",
+          "answer": "Haloalkanes undergo nucleophilic substitution readily (C–X longer, 177 pm in CH3Cl, higher dipole moment 1.85 D); haloarenes resist it (C–X shorter, 169 pm in C6H5Cl, because of resonance and sp² carbon, lower dipole moment 1.69 D)."
+        },
+        {
+          "id": "4.6",
+          "type": "open",
+          "q": "Write short notes on chloroform and iodoform: preparation and uses.",
+          "answer": "Chloroform: ethanol/acetone with bleaching powder (haloform reaction), CH3CH2OH → CHCl3; solvent and used for making freon. Iodoform: ethanol + I2 + NaOH, CHI3 (yellow solid); used as an antiseptic for dressing wounds."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Long answer questions. Answer in 80–120 words.",
+      "marks": "4 × 5 = 20",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "(a) Explain halogenation of alkanes and write the mechanism briefly. (b) Compare haloalkanes and haloarenes with respect to nucleophilic substitution and give reasons. (c) Write the uses of methanol-derived and halogen compounds (CCl4, CHCl3).",
+          "answer": "(a) Alkanes react with Cl2 in sunlight by a free-radical chain mechanism giving a mixture of haloalkanes: initiation (Cl2 → 2Cl•), propagation (Cl• + RH → R• + HCl; R• + Cl2 → RCl + Cl•), termination (radical coupling).\n(b) Haloalkanes undergo nucleophilic substitution (SN1/SN2) readily; haloarenes do not because of the resonance partial double bond, sp² C–X, and repulsion of the nucleophile by the π cloud; nitro groups at o/p positions activate.\n(c) CCl4: dry cleaning and fire extinguishers; CHCl3: solvent, preparation of freon and former anaesthetic.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "(a) Give the preparation of haloalkanes from alcohols, alkenes and halogen exchange. (b) Write the products of RX with aq. KOH, alc. KOH, KCN and AgCN.",
+          "answer": "(a) From alcohols: R–OH + SOCl2 → RCl + SO2 + HCl; from alkenes: addition of HX (Markovnikov); halogen exchange: Finkelstein (RCl + NaI → RI) and Swarts (RCl + AgF → RF).\n(b) aq. KOH → R–OH; alc. KOH → alkene; KCN → R–CN (nitrile); AgCN → R–NC (isocyanide)."
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "(a) Discuss SN1 and SN2 mechanisms with stereochemistry. (b) Predict the order of reactivity of CH3Br, CH3CH2Br, (CH3)2CHBr, (CH3)3CBr in SN2 and SN1.",
+          "answer": "(a) SN2: backside attack, concerted, inversion (Walden), rate = k[RX][Nu]. SN1: ionisation to a planar carbocation then attack on either face, racemisation of an optically active halide, rate = k[RX].\n(b) SN2: CH3Br > CH3CH2Br > (CH3)2CHBr > (CH3)3CBr (steric hindrance). SN1: (CH3)3CBr > (CH3)2CHBr > CH3CH2Br > CH3Br (carbocation stability)."
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "(a) Describe the Sandmeyer and Gattermann reactions and the Wurtz–Fittig reaction with equations. (b) State the environmental effects of CFCs and DDT.",
+          "answer": "(a) Sandmeyer: ArN2+Cl− + CuCl → ArCl + N2 (similarly CuBr). Gattermann: ArN2+X− + Cu/HX → ArX. Wurtz–Fittig: ArX + RX + 2Na → Ar–R + 2NaX (dry ether).\n(b) CFCs release Cl atoms in the stratosphere that destroy ozone; DDT does not degrade, accumulates in fatty tissue and food chains and reduces the eggshell thickness of birds."
+        }
+      ]
+    }
+  ]
+}

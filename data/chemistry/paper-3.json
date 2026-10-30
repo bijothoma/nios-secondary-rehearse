@@ -1,0 +1,487 @@
+{
+  "subject": "chemistry",
+  "lesson": 903,
+  "title": "Model Question Paper 3",
+  "meta": "Time: 3 hours · Maximum marks: 80 · Modelled on the April 2026 NIOS paper",
+  "instructions": [
+    "All questions are compulsory. Where a question has OR, answer either one.",
+    "MCQs carry 1 mark; objective questions carry 2 marks (two parts of 1 mark each); very short answers carry 2 marks (30–50 words); short answers 3 marks (50–80 words); long answers 5 marks (80–120 words).",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "16 × 1 = 16",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "Among the halogens, the strongest single bond is in —",
+          "options": [
+            "Cl2",
+            "F2",
+            "Br2",
+            "I2"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 4."
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "Raoult's law is applicable to —",
+          "options": [
+            "ideal solutions of volatile components",
+            "all solutions",
+            "non-volatile solutes only",
+            "gases only"
+          ],
+          "answer": "A",
+          "note": "Lesson 7."
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "A system that can exchange energy but not matter with the surroundings is a —",
+          "options": [
+            "closed system",
+            "open system",
+            "isolated system",
+            "adiabatic wall"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2024"
+          ],
+          "note": "Lesson 9."
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "An aqueous solution of NH4Cl is —",
+          "options": [
+            "acidic",
+            "basic",
+            "neutral",
+            "amphoteric"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 12."
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "The quantity of electricity required to deposit one mole of Cu from Cu^2+ is —",
+          "options": [
+            "2 F",
+            "1 F",
+            "3 F",
+            "0.5 F"
+          ],
+          "answer": "A",
+          "note": "Lesson 13."
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "Temporary hardness of water is due to —",
+          "options": [
+            "bicarbonates of Ca and Mg",
+            "chlorides of Ca and Mg",
+            "sulphates of Ca and Mg",
+            "sodium chloride"
+          ],
+          "answer": "A",
+          "note": "Lesson 17."
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "The stable oxidation state of thallium is —",
+          "options": [
+            "+1",
+            "+3",
+            "+2",
+            "−1"
+          ],
+          "answer": "A",
+          "note": "Lesson 18."
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "The acid strength is highest in —",
+          "options": [
+            "HClO4",
+            "HClO3",
+            "HClO2",
+            "HOCl"
+          ],
+          "answer": "A",
+          "note": "Lesson 20."
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "The magnetic moment of an ion with 3 unpaired electrons is —",
+          "options": [
+            "3.87 BM",
+            "2.83 BM",
+            "1.73 BM",
+            "5.92 BM"
+          ],
+          "answer": "A",
+          "note": "Lesson 21."
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "The IUPAC name of [PtCl6]^2− is —",
+          "options": [
+            "hexachloridoplatinate(IV)",
+            "hexachloroplatinum(II)",
+            "hexachloridoplatinate(II)",
+            "platinum hexachloride"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 22."
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "Which of the following groups shows the –I effect?",
+          "options": [
+            "–NO2",
+            "–CH3",
+            "–C2H5",
+            "–O−"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 23."
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "The hybridisation of carbon atoms in ethyne is —",
+          "options": [
+            "sp",
+            "sp²",
+            "sp³",
+            "sp³d"
+          ],
+          "answer": "A",
+          "note": "Lesson 24."
+        },
+        {
+          "id": "1.13",
+          "type": "mcq",
+          "q": "The Finkelstein reaction is used for the preparation of —",
+          "options": [
+            "alkyl iodides",
+            "alkyl fluorides",
+            "aryl halides",
+            "alcohols"
+          ],
+          "answer": "A",
+          "note": "Lesson 25."
+        },
+        {
+          "id": "1.14",
+          "type": "mcq",
+          "q": "Which of the following is the most acidic?",
+          "options": [
+            "Phenol",
+            "Ethanol",
+            "Water",
+            "Cyclohexanol"
+          ],
+          "answer": "A",
+          "note": "Lesson 26."
+        },
+        {
+          "id": "1.15",
+          "type": "mcq",
+          "q": "The compound which gives the Cannizzaro reaction is —",
+          "options": [
+            "methanal",
+            "ethanal",
+            "propanone",
+            "ethanol"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 27."
+        },
+        {
+          "id": "1.16",
+          "type": "mcq",
+          "q": "The carbylamine test is given by —",
+          "options": [
+            "primary amines",
+            "secondary amines",
+            "tertiary amines",
+            "amides"
+          ],
+          "answer": "A",
+          "note": "Lesson 28."
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark.",
+      "marks": "12 × 2 = 24",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "Write (a) the relationship between K_a and K_b of a conjugate pair and (b) the Henderson equation for an acidic buffer.",
+          "answer": "(a) K_a × K_b = K_w. (b) pH = pK_a + log([salt]/[acid]).",
+          "note": "Lesson 12."
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Name (a) the anode and (b) the cathode in the Daniell cell.",
+          "answer": "(a) Zinc electrode (oxidation, negative). (b) Copper electrode (reduction, positive).",
+          "note": "Lesson 13."
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "Complete the reactions: (a) 2Na + 2H2O → ______ (b) CaCO3 → (heat) ______.",
+          "answer": "(a) 2NaOH + H2. (b) CaO + CO2.",
+          "note": "Lesson 17."
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "(a) Which is the most electronegative element? (b) Write its electronic configuration.",
+          "answer": "(a) Fluorine. (b) 1s² 2s² 2p⁵.",
+          "years": [
+            "October 2024"
+          ],
+          "note": "Lesson 18."
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "Complete and balance: (a) XeF6 + 2H2O → ______ (b) NaCl + conc. H2SO4 (423 K) → ______.",
+          "answer": "(a) XeOF4 + 2HF. (b) NaHSO4 + HCl.",
+          "years": [
+            "October 2024"
+          ],
+          "note": "Lesson 20."
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "Write (a) the chief ore of chromium and (b) the colour of the dichromate ion.",
+          "answer": "(a) Chromite, FeCr2O4. (b) Orange.",
+          "note": "Lesson 21."
+        },
+        {
+          "id": "2.7",
+          "type": "open",
+          "q": "Match: (a) EDTA (b) cis-platin (c) Haemoglobin with (i) Fe (ii) cancer therapy (iii) hexadentate ligand.",
+          "answer": "(a)-(iii); (b)-(ii); (c)-(i).",
+          "note": "Lesson 22."
+        },
+        {
+          "id": "2.8",
+          "type": "open",
+          "q": "Give (a) the IUPAC name of CH3CH(OH)CH3 and (b) its functional group.",
+          "answer": "(a) Propan-2-ol. (b) Hydroxyl (–OH).",
+          "note": "Lesson 23."
+        },
+        {
+          "id": "2.9",
+          "type": "open",
+          "q": "Name (a) the product of nitration of benzene and (b) the catalyst for Friedel–Crafts reactions.",
+          "answer": "(a) Nitrobenzene. (b) Anhydrous AlCl3.",
+          "note": "Lesson 24."
+        },
+        {
+          "id": "2.10",
+          "type": "open",
+          "q": "Fill in: (a) The reaction of R–Cl with NaI in acetone is called the ______ reaction. (b) Chloroform is oxidised in air to ______.",
+          "answer": "(a) Finkelstein. (b) phosgene (COCl2).",
+          "note": "Lesson 25."
+        },
+        {
+          "id": "2.11",
+          "type": "open",
+          "q": "(a) Name the reagent used in the Lucas test. (b) Which alcohol reacts fastest?",
+          "answer": "(a) Anhydrous ZnCl2 and conc. HCl. (b) Tertiary alcohol (turbidity appears at once).",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 26."
+        },
+        {
+          "id": "2.12",
+          "type": "open",
+          "q": "State true or false: (a) Benzoic acid can be prepared by oxidation of toluene with alkaline KMnO4. (b) In the HVZ reaction, carboxylic acids undergo halogenation at the α-carbon.",
+          "answer": "(a) True. (b) True.",
+          "years": [
+            "October 2024"
+          ],
+          "note": "Lesson 27."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "9 × 2 = 18",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "Why are BaSO4 and SrSO4 insoluble while BeSO4 and MgSO4 are soluble?",
+          "answer": "Down the group, the hydration enthalpy decreases faster than the lattice enthalpy; for the large cations Ba^2+ and Sr^2+ the lattice enthalpy dominates, so sulphates are insoluble.",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 17."
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "What is meant by catenation? Name the p-block element showing it most.",
+          "answer": "The ability of an element to form bonds with atoms of the same element, producing chains and rings; carbon shows it most because of the strong C–C bond.",
+          "note": "Lesson 18."
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "What are interhalogen compounds? Give two examples.",
+          "answer": "Compounds formed between two different halogens, e.g. ClF3 and IF7.",
+          "note": "Lesson 20."
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "Why are transition metals and their compounds often coloured?",
+          "answer": "The partially filled d orbitals split in energy in the presence of ligands, and electrons absorb visible light for d–d transitions; the transmitted complementary colour is observed.",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 21."
+        },
+        {
+          "id": "3.5",
+          "type": "open",
+          "q": "What is meant by linkage isomerism? Give an example.",
+          "answer": "Isomerism due to ambidentate ligands that can attach through different donor atoms. [Co(NH3)5NO2]^2+ (N-bonded nitro) and [Co(NH3)5ONO]^2+ (O-bonded nitrito).",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 22."
+        },
+        {
+          "id": "3.6",
+          "type": "open",
+          "q": "Write the IUPAC names of CH3CH2SH and CH3CH2CHO.",
+          "answer": "Ethanethiol and propanal.",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 23."
+        },
+        {
+          "id": "3.7",
+          "type": "open",
+          "q": "Why is benzene less reactive in addition but gives substitution reactions?",
+          "answer": "The delocalised π electron cloud gives great resonance stability (about 150 kJ mol^-1); addition would destroy aromaticity, whereas substitution retains it.",
+          "note": "Lesson 24."
+        },
+        {
+          "id": "3.8",
+          "type": "open",
+          "q": "Distinguish between SN1 and SN2 reactions (two points).",
+          "answer": "SN1: two steps through a carbocation, rate depends on [RX] only, racemisation, tertiary halides favoured. SN2: single step, rate depends on [RX][Nu], inversion of configuration, primary halides favoured.",
+          "note": "Lesson 25."
+        },
+        {
+          "id": "3.9",
+          "type": "open",
+          "q": "Why do alcohols have higher boiling points than ethers of comparable molecular mass?",
+          "answer": "Alcohols form intermolecular hydrogen bonds; ethers cannot form hydrogen bonds among themselves.",
+          "note": "Lesson 26."
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "4 × 3 = 12",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "Differentiate between molarity, molality and mole fraction.",
+          "answer": "Molarity = moles of solute per litre of solution (changes with temperature). Molality = moles of solute per kg of solvent (independent of temperature). Mole fraction = moles of a component divided by total moles (no unit, independent of temperature).",
+          "note": "Lesson 1."
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "State three applications of coordination compounds.",
+          "answer": "EDTA is used to estimate Ca^2+ and Mg^2+ (hardness) and in lead poisoning; cis-platin is an anticancer drug; extraction of silver and gold by cyanide complexes; haemoglobin, chlorophyll and vitamin B12 are coordination compounds.",
+          "note": "Lesson 22."
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "Explain the mechanism of the SN2 reaction of CH3Br with OH−.",
+          "answer": "The nucleophile OH− attacks the carbon from the side opposite to Br (backside) in a single step through a transition state in which C is partly bonded to both OH and Br; Br− leaves and the configuration is inverted; rate = k[CH3Br][OH−].",
+          "note": "Lesson 25."
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "Compare the basic strength of ammonia, methylamine, dimethylamine and aniline and give reasons.",
+          "answer": "Dimethylamine > methylamine > ammonia > aniline in basicity: alkyl groups donate electrons (+I) and increase the availability of the lone pair; aniline's lone pair is delocalised into the ring.",
+          "note": "Lesson 28."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Long answer questions. Answer in 80–120 words.",
+      "marks": "2 × 5 = 10",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "(a) Describe the preparation and chemical reactions of ethers. (b) Why are ethers soluble in water but have low boiling points? (c) Write the IUPAC names of CH3OCH2CH3 and C6H5OCH3.",
+          "answer": "(a) Prepared by dehydration of alcohol (413 K, excess alcohol) and Williamson synthesis. Reactions: cleavage with HI (R–O–R' + HI → RI + R'OH), electrophilic substitution of aromatic ethers (anisole gives o/p products) and peroxide formation in air.\n(b) The oxygen forms hydrogen bonds with water, but there is no hydrogen bonding among ether molecules, giving low boiling points.\n(c) Methoxyethane and methoxybenzene (anisole).",
+          "note": "Lesson 26."
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "(a) Classify carbohydrates with examples. (b) Explain the structure of glucose (open chain and cyclic). (c) Why is glucose called a reducing sugar?",
+          "answer": "(a) Monosaccharides (glucose, fructose), disaccharides (sucrose, maltose, lactose) and polysaccharides (starch, cellulose, glycogen).\n(b) Open chain: HOCH2–(CHOH)4–CHO, an aldohexose; in the cyclic form the –CHO at C-1 reacts with the –OH at C-5 to give a six-membered pyranose ring (α- and β-anomers).\n(c) It has a free aldehyde (hemiacetal) group which reduces Tollens' and Fehling's reagents.",
+          "note": "Lesson 29."
+        }
+      ]
+    }
+  ]
+}

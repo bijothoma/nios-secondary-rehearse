@@ -1,0 +1,59 @@
+{
+ "lesson": 29, "title": "Biomolecules", "module": 7,
+ "summary": [
+  "## Carbohydrates",
+  "Carbohydrates are polyhydroxy aldehydes or ketones (or compounds giving them on hydrolysis) with the general formula Cx(H2O)y. Monosaccharides (glucose, fructose, galactose; glucose is an aldohexose and fructose a ketohexose, C6H12O6), disaccharides (sucrose = glucose + fructose joined by an α,β-glycosidic linkage, maltose = glucose + glucose, lactose = glucose + galactose) and polysaccharides (starch, cellulose, glycogen). Glucose has an open-chain structure with five –OH groups and a –CHO group; it exists mainly as cyclic hemiacetal (pyranose) forms, α-D- and β-D-glucose (anomers, differing at C-1). Reducing sugars (glucose, fructose, maltose, lactose) reduce Tollens' and Fehling's; sucrose is non-reducing. Starch has amylose (α-1,4 links, unbranched) and amylopectin (branched with α-1,6 links); cellulose is a β-1,4 polymer of glucose in plants; glycogen is the stored form in animals. Sucrose on hydrolysis gives invert sugar (a mixture of glucose and fructose).",
+  "## Proteins and amino acids",
+  "Amino acids contain –NH2 and –COOH; the 20 α-amino acids in proteins exist as zwitterions (H3N+–CHR–COO−); isoelectric point is the pH at which the amino acid has no net charge. Essential amino acids (valine, leucine, lysine, etc.) cannot be made by the body and must come from the diet. A peptide bond (–CO–NH–) links amino acids: dipeptide, tripeptide, polypeptide. Protein structure: primary (sequence of amino acids), secondary (α-helix and β-pleated sheet, held by hydrogen bonds), tertiary (folding into a 3D shape with disulphide bridges, ionic and hydrophobic interactions) and quaternary (assembly of subunits, e.g. haemoglobin). Fibrous proteins (keratin, collagen) and globular proteins (albumin, haemoglobin, enzymes). Denaturation (by heat, acid, alkali) destroys the secondary and tertiary structure, e.g. coagulation of egg white. Enzymes are biological catalysts that are specific, e.g. amylase, maltase and invertase.",
+  "## Vitamins, hormones and nucleic acids",
+  "Vitamins are organic compounds needed in small amounts: fat-soluble (A, D, E, K) and water-soluble (B group, C). Deficiency diseases: A – night blindness, B1 – beri-beri, C – scurvy, D – rickets, K – blood clotting disorder, B12 – pernicious anaemia. Hormones are chemical messengers secreted by endocrine glands and carried by the blood to the target organs: steroid hormones (sex hormones, cortisol), polypeptide hormones (insulin, vasopressin, oxytocin – contraction of the uterus during childbirth and milk ejection) and amino acid derivatives (thyroxine, adrenaline). Nucleic acids: DNA and RNA are polymers of nucleotides (a pentose sugar + a phosphate + a nitrogen base). DNA: deoxyribose, bases A, G, C, T, double helix, stores genetic information; RNA: ribose, bases A, G, C, U, single strand (mRNA, tRNA, rRNA) – protein synthesis. In DNA, A pairs with T by two hydrogen bonds and G with C by three."
+ ],
+ "mcq": [
+  ["Hormones are transported to their site of action by —", ["blood", "lymph only", "nerves", "diffusion through the skin"], "A", ["October 2024"]],
+  ["Oxytocin is a hormone which brings about —", ["contraction of the uterus (childbirth) and milk ejection", "lowering of blood sugar", "growth of bones", "increase in metabolic rate"], "A", ["October 2024"]],
+  ["Glucose is a —", ["aldohexose", "ketohexose", "disaccharide", "polysaccharide"], "A"],
+  ["The disaccharide that does not show reducing properties is —", ["sucrose", "maltose", "lactose", "cellobiose"], "A"],
+  ["The linkage between two amino acids in a protein is —", ["peptide bond", "glycosidic bond", "ester bond", "phosphodiester bond"], "A"],
+  ["The vitamin whose deficiency causes scurvy is —", ["vitamin C", "vitamin A", "vitamin D", "vitamin K"], "A"],
+  ["The base present in RNA but not in DNA is —", ["uracil", "thymine", "adenine", "guanine"], "A"],
+  ["Sucrose on hydrolysis gives —", ["glucose and fructose", "glucose and galactose", "two glucose", "glucose only"], "A"],
+  ["The secondary structure of proteins is stabilised by —", ["hydrogen bonds", "peptide bonds", "glycosidic bonds", "ionic bonds only"], "A"],
+  ["Which of the following is a fat-soluble vitamin?", ["Vitamin D", "Vitamin C", "Vitamin B1", "Vitamin B12"], "A"],
+  ["Denaturation of protein involves loss of —", ["secondary and tertiary structure", "primary structure", "peptide bonds", "amino acids"], "A"],
+  ["The pairing of bases in DNA is —", ["A–T and G–C", "A–G and T–C", "A–U and G–C", "A–C and G–T"], "A"]
+ ],
+ "objective": [
+  ["(a) How are hormones transported to their place of action? (b) State the function of oxytocin.", "(a) Through the blood stream (carried by blood to target organs). (b) It causes contraction of the uterus during childbirth and release of milk.", ["October 2024"]],
+  ["State true or false: (a) Sucrose is a reducing sugar. (b) Insulin is a steroid hormone.", "(a) False – sucrose is non-reducing (the aldehyde and ketone groups are involved in the glycosidic link). (b) False – insulin is a polypeptide hormone.", ["October 2024"]],
+  ["Fill in: (a) A zwitterion has a ______ charge overall. (b) The vitamin deficient in rickets is ______.", "(a) zero (net neutral). (b) vitamin D."],
+  ["Match: (a) Vitamin A (b) Vitamin B1 (c) Vitamin K with (i) beri-beri (ii) night blindness (iii) blood clotting.", "(a)-(ii); (b)-(i); (c)-(iii)."],
+  ["Name (a) the monomers of sucrose and (b) the sugar present in DNA.", "(a) α-D-glucose and β-D-fructose. (b) 2-deoxy-D-ribose."],
+  ["Write (a) the number of hydrogen bonds between A–T and G–C and (b) the type of RNA that carries amino acids.", "(a) Two and three. (b) tRNA (transfer RNA)."],
+  ["Name (a) the polysaccharide that is the storage form in animals and (b) the structural polysaccharide in plants.", "(a) Glycogen. (b) Cellulose."],
+  ["Write (a) the functional groups in an α-amino acid and (b) the structure of glycine.", "(a) –NH2 and –COOH. (b) H2N–CH2–COOH."]
+ ],
+ "vsa": [
+  ["What are hormones? How are they transported?", "Chemical messengers secreted by endocrine glands directly into the blood; they are carried by the blood to the target organs where they produce specific effects.", ["October 2024"]],
+  ["What is meant by the terms (a) anomers (b) invert sugar?", "(a) Cyclic forms of a sugar differing in configuration at C-1 (α- and β-glucose). (b) The equimolar mixture of glucose and fructose obtained by hydrolysis of sucrose; it is laevorotatory."],
+  ["What are essential amino acids? Give two examples.", "Amino acids that cannot be synthesised by the body and must be taken in the diet, e.g. valine and lysine (also leucine)."],
+  ["Distinguish between DNA and RNA (two points).", "DNA contains deoxyribose and the base thymine, and is double-stranded; RNA contains ribose and uracil, and is single-stranded."],
+  ["What is denaturation of proteins? Give an example.", "Loss of the secondary and tertiary structure and biological activity of a protein due to heat, acid, alkali or heavy metals; the coagulation of egg white on boiling is an example."],
+  ["Why is sucrose non-reducing while maltose is reducing?", "In sucrose, the aldehyde of glucose and the ketone of fructose are both used in the glycosidic bond, leaving no free carbonyl; maltose has a free hemiacetal –OH at C-1 of one glucose."],
+  ["Name the deficiency diseases caused by lack of vitamins A, C and D.", "Night blindness (A), scurvy (C) and rickets (D)."],
+  ["What is a peptide bond? Write the structure of a dipeptide of glycine and alanine.", "The –CO–NH– amide linkage formed between –COOH of one amino acid and –NH2 of another. Gly–Ala: H2N–CH2–CO–NH–CH(CH3)–COOH."]
+ ],
+ "sa": [
+  ["Explain the structure of proteins: primary, secondary, tertiary and quaternary.", "Primary: the sequence of amino acids joined by peptide bonds. Secondary: α-helix or β-sheet held by H-bonds. Tertiary: the overall 3D folding stabilised by disulphide, ionic, hydrogen and hydrophobic bonds. Quaternary: arrangement of several polypeptide subunits (haemoglobin)."],
+  ["Describe the structures of starch and cellulose and compare them.", "Starch: α-D-glucose units, amylose (unbranched, α-1,4) and amylopectin (branched, α-1,6), energy reserve of plants. Cellulose: β-D-glucose units joined by β-1,4 links, unbranched, structural material; humans cannot digest it."],
+  ["What are nucleic acids? Describe the components of a nucleotide.", "Polymers of nucleotides that store and transmit genetic information. A nucleotide = a pentose sugar (ribose or deoxyribose) + a nitrogenous base (A, G, C, T/U) + a phosphate group; nucleotides are joined by phosphodiester bonds."],
+  ["Write the classification of vitamins with examples and one deficiency disease each.", "Fat-soluble: A (night blindness), D (rickets), E (sterility in rats), K (blood clotting). Water-soluble: B1 (beri-beri), B12 (pernicious anaemia), C (scurvy)."],
+  ["Explain why amino acids behave as amphoteric substances and exist as zwitterions.", "They have an acidic –COOH and a basic –NH2; in solution the proton transfers from –COOH to –NH2 giving the dipolar ion H3N+–CHR–COO−, which can react with both acids and bases."],
+  ["Write short notes on enzymes.", "Enzymes are protein catalysts of biological reactions; they are highly specific, work at body temperature at an optimum pH and speed up reactions by lowering the activation energy (e.g. amylase digests starch, invertase hydrolyses sucrose, zymase brings about fermentation)."]
+ ],
+ "la": [
+  ["(a) Classify carbohydrates with examples. (b) Explain the structure of glucose (open chain and cyclic). (c) Why is glucose called a reducing sugar?", "(a) Monosaccharides (glucose, fructose), disaccharides (sucrose, maltose, lactose) and polysaccharides (starch, cellulose, glycogen).\n(b) Open chain: HOCH2–(CHOH)4–CHO, an aldohexose; in the cyclic form the –CHO at C-1 reacts with the –OH at C-5 to give a six-membered pyranose ring (α- and β-anomers).\n(c) It has a free aldehyde (hemiacetal) group which reduces Tollens' and Fehling's reagents."],
+  ["(a) What are proteins? Name the types of bonds that stabilise their structures. (b) Describe the four levels of protein structure and denaturation.", "(a) Polymers of α-amino acids joined by peptide bonds; stabilised by hydrogen bonds, disulphide bridges, ionic and hydrophobic interactions.\n(b) Primary – sequence; secondary – α-helix and β-sheet; tertiary – 3D folding; quaternary – assembly of subunits. Denaturation by heat, pH or chemicals destroys the higher structures but not the primary one (egg white coagulates)."],
+  ["(a) Compare DNA and RNA in structure and function. (b) State the base pairing rule and the type of bond that holds the strands.", "(a) DNA: deoxyribose, A, G, C, T, double helix, stores genetic information; RNA: ribose, A, G, C, U, single strand, mRNA, tRNA and rRNA work in protein synthesis.\n(b) A pairs with T (two H-bonds) and G with C (three H-bonds); hydrogen bonds hold the two strands."],
+  ["(a) What are hormones? Classify them with examples. (b) Name the functions of insulin, adrenaline and oxytocin. (c) List the vitamins and the diseases due to the deficiency of A, B1, C and D.", "(a) Chemical messengers secreted by endocrine glands: steroids (sex hormones), polypeptides (insulin, oxytocin, vasopressin) and amino acid derivatives (thyroxine, adrenaline).\n(b) Insulin lowers blood sugar; adrenaline prepares the body for emergency; oxytocin causes uterine contraction and milk ejection.\n(c) A – night blindness; B1 – beri-beri; C – scurvy; D – rickets."]
+ ]
+}

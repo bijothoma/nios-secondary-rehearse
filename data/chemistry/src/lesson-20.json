@@ -1,0 +1,59 @@
+{
+ "lesson": 20, "title": "p-Block Elements and Their Compounds – II", "module": 6,
+ "summary": [
+  "## Group 16 – oxygen family",
+  "O, S, Se, Te, Po (ns² np⁴) are the chalcogens. Oxygen is a gas (O2, diatomic) while sulphur is a solid with S8 rings; oxygen forms strong pπ–pπ double bonds. Ozone (O3) is a bent molecule (117°) prepared by passing silent electric discharge through dry O2 (3O2 ⇌ 2O3, ΔH positive); it is a powerful oxidising agent (PbS + 4O3 → PbSO4 + 4O2; 2KI + O3 + H2O → 2KOH + I2 + O2) and it makes mercury lose its meniscus (tailing of mercury: it forms Hg2O which sticks to the glass). The ozone layer in the stratosphere absorbs UV radiation; CFCs deplete it. Sulphur allotropes: rhombic (α, stable below 369 K) and monoclinic (β). Sulphur dioxide SO2 (S + O2 → SO2 or 4FeS2 + 11O2 → 2Fe2O3 + 8SO2) is a colourless, pungent, acidic gas; it is a reducing agent (decolourises acidified KMnO4, reduces Fe^3+ to Fe^2+, bleaches by reduction) and is used for bleaching and making H2SO4. Sulphuric acid is manufactured by the Contact process: S → SO2 → SO3 (V2O5 catalyst, 673–723 K, 2 bar) → H2S2O7 (oleum, in conc. H2SO4) → H2SO4. Conc. H2SO4 is a strong dehydrating agent (turns blue CuSO4·5H2O white, chars sugar), an oxidising agent, and has a low volatility (NaCl + conc. H2SO4 → NaHSO4 + HCl).",
+  "## Group 17 – halogens",
+  "F, Cl, Br, I, At (ns² np⁵) are the most reactive non-metals; F2 is the strongest oxidising agent, with oxidising power F2 > Cl2 > Br2 > I2; fluorine shows only −1 while others show +1, +3, +5, +7 (in oxoacids and interhalogens). Chlorine is prepared by MnO2 + 4HCl → MnCl2 + Cl2 + 2H2O or the Deacon process, and bleaches by oxidation. HCl is prepared from NaCl and conc. H2SO4 at 420 K; it is a strong acid; aqua regia (3 HCl : 1 HNO3) dissolves gold and platinum. Interhalogens (ClF, ClF3, BrF5, IF7) are more reactive than the halogens (except F2). Oxoacids: HOCl < HClO2 < HClO3 < HClO4 (acid strength increases with oxidation state of Cl).",
+  "## Group 18 – noble gases",
+  "He, Ne, Ar, Kr, Xe, Rn have completely filled ns² np⁶ shells (He 1s²), very high ionisation enthalpies and positive electron gain enthalpies, so they are very unreactive. Xenon forms compounds with fluorine and oxygen: Xe + F2 → XeF2 (Xe in excess F2 at 673 K), XeF4 (1:5, 873 K) and XeF6 (1:20, 573 K, 60–70 atm). Hydrolysis: XeF6 + 3H2O → XeO3 + 6HF; XeF6 + 2H2O → XeOF4 + 2HF (partial); 6XeF4 + 12H2O → 4Xe + 2XeO3 + 24HF + 3O2. Shapes: XeF2 linear, XeF4 square planar, XeF6 distorted octahedral, XeO3 trigonal pyramidal, XeOF4 square pyramidal. Uses: He in balloons and diving gas mixtures, Ne in discharge tubes, Ar in welding and bulbs, Kr/Xe in lamps."
+ ],
+ "mcq": [
+  ["The strongest oxidising agent among the halogens is —", ["F2", "Cl2", "Br2", "I2"], "A"],
+  ["Mercury loses its meniscus and sticks to glass (tailing) in the presence of —", ["ozone", "oxygen", "SO2", "chlorine"], "A", ["April 2026"]],
+  ["In the Contact process the catalyst used is —", ["V2O5", "Fe", "Ni", "Pt (for ammonia)"], "A"],
+  ["The gas which turns acidified K2Cr2O7 solution green is —", ["SO2", "CO2", "O2", "Cl2"], "A"],
+  ["Which halogen exhibits only −1 oxidation state?", ["Fluorine", "Chlorine", "Bromine", "Iodine"], "A"],
+  ["The shape of XeF4 is —", ["square planar", "tetrahedral", "octahedral", "linear"], "A"],
+  ["Aqua regia is a mixture of —", ["3 HCl : 1 HNO3", "1 HCl : 3 HNO3", "3 H2SO4 : 1 HNO3", "HCl and H2SO4"], "A"],
+  ["The acid strength is highest in —", ["HClO4", "HClO3", "HClO2", "HOCl"], "A"],
+  ["Conc. H2SO4 turns blue CuSO4·5H2O white because of its —", ["dehydrating property", "oxidising property", "acidic property", "reducing property"], "A", ["October 2024"]],
+  ["The noble gas used in weather balloons is —", ["helium", "argon", "neon", "krypton"], "A"],
+  ["Ozone is —", ["a bent molecule, diamagnetic", "linear", "paramagnetic", "a triatomic non-polar molecule"], "A"],
+  ["The first noble gas compound to be prepared was —", ["XePtF6", "XeF6", "KrF2", "XeO3"], "A"]
+ ],
+ "objective": [
+  ["(a) Which gas makes mercury lose its meniscus? (b) Write the formula of the compound formed.", "(a) Ozone. (b) Mercury(I) oxide, Hg2O (sticks to glass).", ["April 2026"]],
+  ["Complete and balance: (a) XeF6 + 2H2O → ______ (b) NaCl + conc. H2SO4 (423 K) → ______.", "(a) XeOF4 + 2HF. (b) NaHSO4 + HCl.", ["October 2024"]],
+  ["Fill in: (a) The catalyst in the Contact process is ______. (b) The shape of XeO3 is ______.", "(a) V2O5. (b) trigonal pyramidal."],
+  ["State true or false: (a) SO2 acts as a reducing agent. (b) Oxygen shows an oxidation state of +6 like sulphur.", "(a) True. (b) False – oxygen shows −2 (and −1, +2 in OF2); it has no +6 state.", ["April 2025"]],
+  ["Match: (a) Tailing of mercury (b) Blue CuSO4 → white (c) Yellow crystalline solid with (i) rhombic sulphur (ii) conc. H2SO4 (iii) ozone.", "(a)-(iii); (b)-(ii); (c)-(i).", ["October 2024"]],
+  ["Name (a) the oxidation states shown by chlorine in HClO4 and (b) the geometry of XeF2.", "(a) +7. (b) Linear."],
+  ["Write (a) the formula of oleum and (b) the use of SO2.", "(a) H2S2O7. (b) Bleaching of wool and silk (and making H2SO4)."],
+  ["Complete: (a) Noble gases have ______ electron gain enthalpy. (b) The halogen which is liquid at room temperature is ______.", "(a) positive. (b) bromine."]
+ ],
+ "vsa": [
+  ["Explain why mercury loses its meniscus (tailing) in contact with ozone.", "Ozone oxidises mercury to mercury(I) oxide (2Hg + O3 → Hg2O + O2), which dissolves in mercury and sticks to glass, so the meniscus is lost.", ["April 2026"]],
+  ["Why is SO2 a reducing agent? Give a reaction.", "In SO2 sulphur is in +4 state and can be oxidised to +6. It decolourises acidified KMnO4: 5SO2 + 2MnO4− + 2H2O → 5SO4^2− + 4H+ + 2Mn^2+.", ["April 2026"]],
+  ["Write the reaction of XeF6 with water giving XeO3 and state the shape of XeO3.", "XeF6 + 3H2O → XeO3 + 6HF. XeO3 is trigonal pyramidal with sp³ hybridisation (one lone pair).", ["April 2026"]],
+  ["How does ozone act as an oxidising agent? Give an example.", "Ozone readily gives up an oxygen atom (O3 → O2 + [O]). PbS + 4O3 → PbSO4 + 4O2; it also liberates iodine from KI.", ["April 2025"]],
+  ["Why does sulphur dioxide behave as a reducing agent while sulphur trioxide does not?", "In SO2 sulphur has the oxidation state +4 (can rise to +6); in SO3 sulphur is already in its highest state +6 and can only be reduced.", ["April 2025"]],
+  ["Why are noble gases chemically inert?", "They have completely filled valence shells (ns² np⁶), very high ionisation enthalpies and positive electron gain enthalpies."],
+  ["Write the reaction for the preparation of chlorine from HCl and MnO2.", "MnO2 + 4HCl → MnCl2 + Cl2 + 2H2O."],
+  ["What are interhalogen compounds? Give two examples.", "Compounds formed between two different halogens, e.g. ClF3 and IF7."]
+ ],
+ "sa": [
+  ["Describe the manufacture of sulphuric acid by the Contact process with the reactions.", "Steps: S + O2 → SO2; SO2 is purified and oxidised: 2SO2 + O2 ⇌ 2SO3 over V2O5 at 673–723 K and 2 bar; SO3 is absorbed in conc. H2SO4 to give oleum (SO3 + H2SO4 → H2S2O7) and diluted with water: H2S2O7 + H2O → 2H2SO4."],
+  ["Explain the oxidising and dehydrating properties of concentrated sulphuric acid with examples.", "Oxidising: Cu + 2H2SO4 → CuSO4 + SO2 + 2H2O; C + 2H2SO4 → CO2 + 2SO2 + 2H2O. Dehydrating: it removes water from blue vitriol (CuSO4·5H2O → white CuSO4) and chars sugar (C12H22O11 → 12C + 11H2O)."],
+  ["Write the preparation, structure and reaction with water of XeF6.", "Xe + 3F2 → XeF6 at 573 K and 60–70 atm. Structure: distorted octahedral (sp³d³). Hydrolysis: XeF6 + 3H2O → XeO3 + 6HF, partial hydrolysis gives XeOF4."],
+  ["Compare the oxidising power and oxidation states of the halogens.", "Oxidising power decreases F2 > Cl2 > Br2 > I2 (F2 displaces the others from their halides). Fluorine shows only −1; Cl, Br and I show −1, +1, +3, +5 and +7 in oxoacids and interhalogens."],
+  ["Explain the ozone layer depletion and its harmful effects.", "Ozone in the stratosphere absorbs harmful UV radiation. CFCs release Cl atoms which convert O3 into O2 in a chain reaction (Cl + O3 → ClO + O2). The thinning of the layer causes skin cancer, cataracts and damage to crops and plankton."],
+  ["How is hydrogen chloride prepared in the laboratory? Why is it called a strong acid?", "NaCl + H2SO4 (conc.) → NaHSO4 + HCl at 420 K (and at higher temperature Na2SO4). In water it ionises completely: HCl + H2O → H3O+ + Cl−, hence a strong acid."]
+ ],
+ "la": [
+  ["(a) Explain SO2 as a reducing agent with two reactions. (b) Describe the preparation of XeO3 and its structure.", "(a) 5SO2 + 2KMnO4 + 2H2O → K2SO4 + 2MnSO4 + 2H2SO4 (purple colour discharged); SO2 + 2Fe^3+ + 2H2O → SO4^2− + 4H+ + 2Fe^2+. Sulphur is oxidised from +4 to +6.\n(b) XeF6 + 3H2O → XeO3 + 6HF; XeO3 is a colourless explosive solid, trigonal pyramidal (sp³ with one lone pair).", ["April 2026"]],
+  ["(a) Give the preparation of ozone and write two reactions showing its oxidising property. (b) State two uses of ozone.", "(a) Silent electric discharge through dry oxygen: 3O2 → 2O3. Oxidising reactions: PbS + 4O3 → PbSO4 + 4O2; 2KI + H2O + O3 → 2KOH + I2 + O2; it also converts Hg to Hg2O (tailing).\n(b) Sterilisation of drinking water and bleaching of oils and waxes."],
+  ["(a) Compare the properties of F, Cl, Br and I in oxidising power, bond enthalpy and electronegativity. (b) Write the oxoacids of chlorine in increasing order of acidic strength with reasons.", "(a) Electronegativity and oxidising power decrease from F to I; the bond enthalpy of Cl–Cl (243 kJ mol^-1) exceeds that of F–F (158) due to lone-pair repulsion in the small F2 and then decreases to I2 (151).\n(b) HOCl < HClO2 < HClO3 < HClO4: increasing oxidation state of Cl and number of oxygens stabilise the anion by resonance."],
+  ["(a) Describe the xenon fluorides with conditions of preparation and shapes. (b) Write the hydrolysis of XeF4 and XeF6. (c) State two uses of noble gases.", "(a) XeF2 (Xe : F2 = 2 : 1, 673 K) linear; XeF4 (1 : 5, 873 K, 7 bar) square planar; XeF6 (1 : 20, 573 K, 60–70 bar) distorted octahedral.\n(b) 6XeF4 + 12H2O → 4Xe + 2XeO3 + 24HF + 3O2; XeF6 + 3H2O → XeO3 + 6HF.\n(c) He is used in balloons and for diving (with oxygen); Ar for an inert atmosphere in welding and in electric bulbs."]
+ ]
+}

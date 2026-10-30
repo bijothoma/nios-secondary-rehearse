@@ -1,0 +1,378 @@
+{
+  "subject": "chemistry",
+  "lesson": 4,
+  "title": "Chemical Bonding",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "12 × 1 = 12",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "The number of sigma bonds in ethene (C2H4) is —",
+          "options": [
+            "5",
+            "4",
+            "6",
+            "3"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "Among the halogens, the strongest single bond is in —",
+          "options": [
+            "Cl2",
+            "F2",
+            "Br2",
+            "I2"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "The shape of the ammonia molecule is —",
+          "options": [
+            "trigonal pyramidal",
+            "trigonal planar",
+            "tetrahedral",
+            "bent"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "The hybridisation of boron in BCl3 is —",
+          "options": [
+            "sp2",
+            "sp3",
+            "sp",
+            "sp3d"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "The bond angle in water is about —",
+          "options": [
+            "104.5°",
+            "109.5°",
+            "107°",
+            "120°"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "The bond order of N2 molecule is —",
+          "options": [
+            "3",
+            "2",
+            "1",
+            "2.5"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "Which species is paramagnetic?",
+          "options": [
+            "O2",
+            "N2",
+            "F2",
+            "H2"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "The number of π bonds in ethyne (HC≡CH) is —",
+          "options": [
+            "2",
+            "1",
+            "3",
+            "0"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "The molecule with zero dipole moment is —",
+          "options": [
+            "BF3",
+            "NH3",
+            "H2O",
+            "HF"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "The geometry of SF6 is —",
+          "options": [
+            "octahedral",
+            "tetrahedral",
+            "trigonal bipyramidal",
+            "square planar"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "A coordinate bond is present in —",
+          "options": [
+            "NH4+",
+            "CH4",
+            "NaCl",
+            "H2"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "Which of the following has the highest boiling point due to hydrogen bonding?",
+          "options": [
+            "H2O",
+            "H2S",
+            "H2Se",
+            "H2Te"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark.",
+      "marks": "8 × 2 = 16",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "(a) What is the shape of the ammonia molecule and why? (b) Which type of dipole does it have?",
+          "answer": "(a) Trigonal pyramidal – the central N has three bond pairs and one lone pair (sp3 hybridised), and the lone pair repels the bond pairs.\n(b) NH3 has a net dipole moment (polar molecule).",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "State true or false: (a) Acetylene has one σ and two π bonds between the carbon atoms. (b) Be2 molecule can exist.",
+          "answer": "(a) True. (b) False – bond order is zero (2 bonding and 2 antibonding electron pairs).",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "(a) Name the type of bond in NaCl. (b) Why does NaCl conduct electricity only in the molten or dissolved state?",
+          "answer": "(a) Ionic (electrovalent) bond.\n(b) Ions are free to move only in the molten state or in solution; in the solid state ions are fixed in the lattice.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Fill in: (a) The hybridisation of carbon in methane is ______. (b) The number of lone pairs on oxygen in water is ______.",
+          "answer": "(a) sp3. (b) Two."
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "Write (a) the molecular orbital configuration of O2 and (b) its bond order.",
+          "answer": "(a) σ1s2 σ*1s2 σ2s2 σ*2s2 σ2pz2 π2px2 π2py2 π*2px1 π*2py1.\n(b) Bond order = (10 − 6)/2 = 2."
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "Match: (a) sp (b) sp2 (c) sp3 with (i) tetrahedral (ii) linear (iii) trigonal planar.",
+          "answer": "(a)-(ii); (b)-(iii); (c)-(i)."
+        },
+        {
+          "id": "2.7",
+          "type": "open",
+          "q": "Calculate the bond order of (a) H2 and (b) He2.",
+          "answer": "(a) H2: (2 − 0)/2 = 1. (b) He2: (2 − 2)/2 = 0 – does not exist."
+        },
+        {
+          "id": "2.8",
+          "type": "open",
+          "q": "Name the type of hydrogen bond present in (a) water (b) o-nitrophenol.",
+          "answer": "(a) Intermolecular hydrogen bond. (b) Intramolecular hydrogen bond."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "8 × 2 = 16",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "Why is the shape of the ammonia molecule trigonal pyramidal?",
+          "answer": "N has five valence electrons; three form bonds with H and one lone pair remains. The four electron pairs are tetrahedrally arranged (sp3), but the lone pair occupies one position, so the molecule is pyramidal with angle 107°.",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "Why is the bond angle in water (104.5°) less than that in methane (109.5°)?",
+          "answer": "Water has two lone pairs on oxygen, which repel the bond pairs more strongly than bond pairs repel one another, compressing the H–O–H angle."
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "Distinguish between a sigma and a pi bond.",
+          "answer": "Sigma: formed by head-on (axial) overlap, strong, free rotation, can exist alone. Pi: formed by sideways overlap of p orbitals, weaker, restricts rotation, exists only with a σ bond."
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "Explain why Cl–Cl is stronger than F–F although fluorine is more electronegative.",
+          "answer": "In the very small F2 molecule, the lone pairs on the two F atoms are close together and repel each other strongly, weakening the F–F bond; Cl is larger and has less repulsion.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "3.5",
+          "type": "open",
+          "q": "What is meant by bond order? Calculate it for N2.",
+          "answer": "Bond order = ½(number of bonding electrons − number of antibonding electrons). N2 has 10 bonding and 4 antibonding electrons: (10 − 4)/2 = 3."
+        },
+        {
+          "id": "3.6",
+          "type": "open",
+          "q": "What is a dipole moment? Why is the dipole moment of CO2 zero?",
+          "answer": "Dipole moment μ = charge × distance (unit debye). CO2 is linear, so the two equal C=O dipoles act in opposite directions and cancel."
+        },
+        {
+          "id": "3.7",
+          "type": "open",
+          "q": "Give two conditions favourable for the formation of an ionic bond.",
+          "answer": "Low ionisation enthalpy of the metal, high electron gain enthalpy of the non-metal and high lattice enthalpy."
+        },
+        {
+          "id": "3.8",
+          "type": "open",
+          "q": "What is hybridisation? Name the hybridisation in BeCl2.",
+          "answer": "Mixing of atomic orbitals of nearly equal energy of the same atom to form equal number of new equivalent orbitals. BeCl2 is sp hybridised (linear)."
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "6 × 3 = 18",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "Explain the shapes of BF3 and NH3 on the basis of VSEPR theory.",
+          "answer": "BF3: boron has three bond pairs and no lone pair – trigonal planar, 120°. NH3: nitrogen has three bond pairs and one lone pair – the four pairs are tetrahedral but the shape is trigonal pyramidal, 107°."
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "Explain the formation of the σ and π bonds in ethene with the hybridisation of carbon.",
+          "answer": "Each carbon is sp2 hybridised; its three sp2 orbitals form two C–H σ bonds and one C–C σ bond. The remaining unhybridised p orbitals overlap sideways to form a π bond, giving C=C (one σ + one π)."
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "Write the molecular orbital configuration of N2 and O2 and compare their bond order and magnetic behaviour.",
+          "answer": "N2: σ1s2 σ*1s2 σ2s2 σ*2s2 π2px2 π2py2 σ2pz2, bond order 3, diamagnetic. O2: …σ2pz2 π2px2 π2py2 π*2px1 π*2py1, bond order 2, paramagnetic (two unpaired electrons)."
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "Explain hydrogen bonding and its effect on the properties of water.",
+          "answer": "A hydrogen bond is the attraction between H attached to a highly electronegative atom (F, O, N) and a lone pair on another such atom. In water each molecule bonds to four others, giving a high boiling point, high heat of vaporisation, and ice lower in density than water."
+        },
+        {
+          "id": "4.5",
+          "type": "open",
+          "q": "What is meant by formal charge? Calculate it on N in NH4+.",
+          "answer": "Formal charge = valence electrons − non-bonding electrons − ½ bonding electrons. On N in NH4+: 5 − 0 − ½(8) = +1."
+        },
+        {
+          "id": "4.6",
+          "type": "open",
+          "q": "Compare ionic and covalent compounds on the basis of melting point, solubility and conductivity.",
+          "answer": "Ionic: high melting points, soluble in water, conduct in the molten or dissolved state. Covalent: low melting and boiling points, soluble in non-polar solvents, generally non-conductors."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Long answer questions. Answer in 80–120 words.",
+      "marks": "4 × 5 = 20",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "(a) Explain the postulates of VSEPR theory. (b) Predict the shapes of CH4, NH3 and H2O with bond angles.",
+          "answer": "(a) Electron pairs around the central atom repel and arrange as far apart as possible; repulsion order: lone–lone > lone–bond > bond–bond; the shape depends on the number of bonding and lone pairs; multiple bonds are treated as one pair.\n(b) CH4: four bond pairs – tetrahedral, 109.5°. NH3: three bond pairs + one lone pair – trigonal pyramidal, 107°. H2O: two bond pairs + two lone pairs – bent, 104.5°."
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "Explain sp, sp2 and sp3 hybridisation with one example of each, giving the geometry and bond angle.",
+          "answer": "sp: one s + one p, linear, 180° (BeCl2, ethyne). sp2: one s + two p, trigonal planar, 120° (BCl3, ethene). sp3: one s + three p, tetrahedral, 109.5° (CH4; also NH3 and H2O with lone pairs)."
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "Explain the main features of molecular orbital theory and use it to show that He2 does not exist and O2 is paramagnetic.",
+          "answer": "Atomic orbitals combine to form bonding (lower energy) and antibonding molecular orbitals; electrons fill by Aufbau, Pauli and Hund; bond order = ½(Nb − Na).\nHe2: σ1s2 σ*1s2, bond order 0, so it does not exist. O2: the last two electrons occupy π*2px and π*2py singly, so two unpaired electrons make it paramagnetic; bond order 2."
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "(a) What is an ionic bond? Explain its formation in NaCl. (b) State any three properties of ionic compounds.",
+          "answer": "(a) An ionic bond is the electrostatic attraction between oppositely charged ions formed by electron transfer: Na (2,8,1) → Na+ + e−; Cl (2,8,7) + e− → Cl−; the ions attract to form NaCl crystal lattice.\n(b) High melting and boiling points, soluble in water, conduct electricity in molten and aqueous state; hard and brittle."
+        }
+      ]
+    }
+  ]
+}

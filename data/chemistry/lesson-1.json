@@ -1,0 +1,390 @@
+{
+  "subject": "chemistry",
+  "lesson": 1,
+  "title": "Atoms, Molecules and Chemical Arithmetic",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "12 × 1 = 12",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "One atomic mass unit is equal to —",
+          "options": [
+            "1/12 of the mass of one C-12 atom",
+            "mass of one mole of C-12 atoms",
+            "12 times the mass of one C-12 atom",
+            "mass of one hydrogen molecule"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "The statement 'total mass of reactants equals total mass of products' is the law of —",
+          "options": [
+            "conservation of mass",
+            "constant proportions",
+            "multiple proportions",
+            "reciprocal proportions"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "Dalton's atomic theory could not explain —",
+          "options": [
+            "the existence of isotopes",
+            "law of conservation of mass",
+            "law of constant proportions",
+            "law of multiple proportions"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "The number of molecules in 0.5 mole of a gas is —",
+          "options": [
+            "3.011 × 10^23",
+            "6.022 × 10^23",
+            "1.2 × 10^24",
+            "6.022 × 10^22"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "The volume occupied by 1 mole of any gas at STP is —",
+          "options": [
+            "22.4 L",
+            "11.2 L",
+            "2.24 L",
+            "44.8 L"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "The number of moles in 88 g of CO2 (molar mass 44 g mol^-1) is —",
+          "options": [
+            "2",
+            "1",
+            "4",
+            "0.5"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "Molarity of a solution is the number of moles of solute per —",
+          "options": [
+            "litre of solution",
+            "kilogram of solvent",
+            "litre of solvent",
+            "mole of solution"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "The concentration unit that does NOT change with temperature is —",
+          "options": [
+            "molality",
+            "molarity",
+            "normality",
+            "mass per unit volume"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "The empirical formula of glucose C6H12O6 is —",
+          "options": [
+            "CH2O",
+            "CHO",
+            "C2H4O2",
+            "C3H6O3"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "The number of moles of carbon atoms in one mole of ethane C2H6 is —",
+          "options": [
+            "2",
+            "1",
+            "6",
+            "3"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "The mass number of an atom with 17 protons and 18 neutrons is —",
+          "options": [
+            "35",
+            "17",
+            "18",
+            "1"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "The law of multiple proportions was proposed by —",
+          "options": [
+            "Dalton",
+            "Lavoisier",
+            "Proust",
+            "Avogadro"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2025"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark.",
+      "marks": "8 × 2 = 16",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "Complete: (a) The empirical formula of fructose is ______ (CH2O / CHO / CHO2). (b) The percentage of oxygen in Fe3O4 is ______ (27.59% / 72.41% / 27.89%) (Fe = 56 u, O = 16 u).",
+          "answer": "(a) CH2O – fructose is C6H12O6, simplest ratio C:H:O = 1:2:1.\n(b) Molar mass of Fe3O4 = 3 × 56 + 4 × 16 = 232 g.\n% O = 64/232 × 100 = 27.59%.",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "State true or false: (a) Molality of a solution changes with temperature. (b) One mole of any substance contains 6.022 × 10^23 particles.",
+          "answer": "(a) False – molality uses masses, so it does not change. (b) True.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "Fill in: (a) The law that states that a compound always contains the same elements in the same proportion by mass is the law of ______. (b) 1 amu = ______ kg.",
+          "answer": "(a) constant proportions (definite proportions). (b) 1.66 × 10^-27 kg."
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Match: (a) Lavoisier (b) Proust (c) Dalton with (i) multiple proportions (ii) conservation of mass (iii) constant proportions.",
+          "answer": "(a)-(ii); (b)-(iii); (c)-(i)."
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "Find the number of moles: (a) in 36 g of water (b) in 11.2 L of N2 at STP.",
+          "answer": "(a) Molar mass of H2O = 18 g, so 36/18 = 2 mol.\n(b) 11.2/22.4 = 0.5 mol."
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "Name the SI units of (a) amount of substance (b) thermodynamic temperature.",
+          "answer": "(a) mole (mol). (b) kelvin (K)."
+        },
+        {
+          "id": "2.7",
+          "type": "open",
+          "q": "Complete: (a) Mass of 1 mole of a substance in grams is its ______ mass. (b) The reactant that is completely consumed first in a reaction is called the ______.",
+          "answer": "(a) molar. (b) limiting reagent."
+        },
+        {
+          "id": "2.8",
+          "type": "open",
+          "q": "Write the number of (a) protons and (b) neutrons in 199Hg (atomic number 80).",
+          "answer": "(a) Protons = 80. (b) Neutrons = 199 − 80 = 119.",
+          "years": [
+            "October 2024"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "8 × 2 = 16",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "Define one mole. How many particles does it contain?",
+          "answer": "A mole is the amount of a substance that contains as many elementary entities as there are atoms in 12 g of carbon-12. It contains 6.022 × 10^23 particles (Avogadro constant).",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "State the law of multiple proportions with an example.",
+          "answer": "When two elements combine to form more than one compound, the masses of one element that combine with a fixed mass of the other are in a simple whole-number ratio. Example: carbon and oxygen form CO (12 g C : 16 g O) and CO2 (12 g C : 32 g O); the masses of oxygen are in the ratio 1 : 2.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "What is an atomic mass unit (amu)?",
+          "answer": "It is exactly 1/12 of the mass of one carbon-12 atom, equal to 1.66 × 10^-27 kg. Atomic masses are expressed relative to it.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "Calculate the mole fraction of water in a solution of 10 g glucose in 90 g of water (glucose 180 g mol^-1).",
+          "answer": "Moles of glucose = 10/180 = 0.0556; moles of water = 90/18 = 5.\nMole fraction of water = 5/(5 + 0.0556) = 0.989.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "3.5",
+          "type": "open",
+          "q": "Calculate the number of moles of carbon dioxide formed when 1 mole of carbon is burnt in excess oxygen. State the law used.",
+          "answer": "C + O2 → CO2: 1 mol of C gives 1 mol of CO2 (44 g). The mole ratio is given by the balanced equation (conservation of mass).",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "3.6",
+          "type": "open",
+          "q": "Write any two postulates of Dalton's atomic theory.",
+          "answer": "1. Matter consists of indivisible atoms. 2. Atoms of the same element are identical in mass and properties while atoms of different elements differ. (Also: atoms combine in simple whole-number ratios; atoms are neither created nor destroyed in a reaction.)"
+        },
+        {
+          "id": "3.7",
+          "type": "open",
+          "q": "Why is molality preferred over molarity when temperature changes?",
+          "answer": "Molality is based on the mass of the solvent which does not depend on temperature, whereas molarity depends on the volume of the solution, which expands or contracts with temperature."
+        },
+        {
+          "id": "3.8",
+          "type": "open",
+          "q": "How many grams of oxygen are needed to burn completely 4 g of hydrogen to form water? (H = 1, O = 16)",
+          "answer": "2H2 + O2 → 2H2O. 4 g H2 = 2 mol H2 needs 1 mol O2 = 32 g oxygen."
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "6 × 3 = 18",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "A compound contains 40% carbon, 6.7% hydrogen and 53.3% oxygen. Find its empirical formula. (C = 12, H = 1, O = 16)",
+          "answer": "Moles: C = 40/12 = 3.33; H = 6.7/1 = 6.7; O = 53.3/16 = 3.33.\nDividing by 3.33: C : H : O = 1 : 2 : 1.\nEmpirical formula = CH2O."
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "What is meant by limiting reagent? 10 g of hydrogen is made to react with 64 g of oxygen. Find which is the limiting reagent. (H = 1, O = 16)",
+          "answer": "The limiting reagent is the reactant that is completely used up and decides the amount of product.\n2H2 + O2 → 2H2O. Moles of H2 = 10/2 = 5; moles of O2 = 64/32 = 2.\n2 mol O2 needs 4 mol H2 only, so oxygen is completely used and is the limiting reagent."
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "State and explain the law of conservation of mass with an example.",
+          "answer": "In a chemical reaction the total mass of reactants equals the total mass of products (Lavoisier). Example: 2 g of hydrogen (2H2 + O2 → 2H2O needs 16 g of oxygen) combine with 16 g of oxygen to give 18 g of water; mass before = 18 g = mass after."
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "Calculate the molarity of a solution containing 4 g of NaOH dissolved in 500 mL of solution (Na = 23, O = 16, H = 1).",
+          "answer": "Molar mass of NaOH = 40 g; moles = 4/40 = 0.1 mol.\nVolume = 0.5 L.\nMolarity = 0.1/0.5 = 0.2 mol L^-1."
+        },
+        {
+          "id": "4.5",
+          "type": "open",
+          "q": "The molecular mass of a compound is 180 and its empirical formula is CH2O. Find its molecular formula.",
+          "answer": "Empirical formula mass = 12 + 2 + 16 = 30.\nn = 180/30 = 6.\nMolecular formula = (CH2O)6 = C6H12O6."
+        },
+        {
+          "id": "4.6",
+          "type": "open",
+          "q": "Differentiate between molarity, molality and mole fraction.",
+          "answer": "Molarity = moles of solute per litre of solution (changes with temperature). Molality = moles of solute per kg of solvent (independent of temperature). Mole fraction = moles of a component divided by total moles (no unit, independent of temperature)."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Long answer questions. Answer in 80–120 words.",
+      "marks": "4 × 5 = 20",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "(a) State Dalton's atomic theory. (b) Name two laws of chemical combination and state them.",
+          "answer": "(a) Matter is made of indivisible atoms; atoms of an element are identical in mass and properties and differ from those of other elements; atoms combine in small whole-number ratios to form compounds; atoms are neither created nor destroyed in a reaction.\n(b) Law of conservation of mass: the total mass of reactants equals that of products. Law of constant proportions: a compound always contains the same elements combined in the same mass ratio."
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "Explain the steps of finding the empirical and molecular formula. A compound has 85.7% C and 14.3% H and molar mass 56. Find its molecular formula.",
+          "answer": "Steps: percentage → moles (divide by atomic mass) → divide by the smallest → simple whole numbers; molecular formula = n × empirical formula, n = molar mass / empirical mass.\nC = 85.7/12 = 7.14; H = 14.3/1 = 14.3; ratio C:H = 1:2, so CH2 (mass 14).\nn = 56/14 = 4. Molecular formula C4H8."
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "Define mole and molar mass. Calculate (a) the number of molecules in 4.4 g of CO2 and (b) the volume of 1.6 g of oxygen at STP. (C = 12, O = 16)",
+          "answer": "A mole contains 6.022 × 10^23 particles; molar mass is the mass of one mole in grams.\n(a) Moles = 4.4/44 = 0.1; molecules = 0.1 × 6.022 × 10^23 = 6.022 × 10^22.\n(b) Moles of O2 = 1.6/32 = 0.05; volume = 0.05 × 22.4 = 1.12 L at STP."
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "Explain the concentration terms molarity, molality and mole fraction. Calculate the molality of a solution having 18 g glucose (180 g mol^-1) in 200 g of water.",
+          "answer": "Molarity: moles per litre of solution; molality: moles per kg of solvent; mole fraction: moles of component / total moles.\nMoles of glucose = 18/180 = 0.1; mass of solvent = 0.2 kg.\nMolality = 0.1/0.2 = 0.5 mol kg^-1."
+        }
+      ]
+    }
+  ]
+}

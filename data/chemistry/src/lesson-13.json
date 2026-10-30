@@ -1,0 +1,59 @@
+{
+ "lesson": 13, "title": "Electrochemistry", "module": 5,
+ "summary": [
+  "## Electrochemical cells",
+  "A redox reaction is the sum of an oxidation half (loss of electrons at the anode) and a reduction half (gain of electrons at the cathode). A galvanic (voltaic) cell converts chemical energy into electrical energy; in the Daniell cell Zn | Zn^2+ (1 M) || Cu^2+ (1 M) | Cu, the Zn electrode is the anode (negative) and the Cu electrode is the cathode (positive). The salt bridge (KCl or KNO3 in agar) completes the inner circuit, maintains electrical neutrality and prevents the accumulation of charge in the half cells; the external circuit is completed by the wire. Cell notation: anode on the left, cathode on the right; E°cell = E°cathode − E°anode. The standard hydrogen electrode (SHE: Pt, H2 (1 bar) | H+ (1 M)) is assigned E° = 0 V and used as the reference. A higher (more positive) reduction potential means a stronger oxidising agent; the electrochemical series arranges elements by E°.",
+  "## Nernst equation, Gibbs energy and electrolysis",
+  "Nernst equation: E = E° − (0.059/n) log Q at 298 K, e.g. for Zn + Cu^2+ → Zn^2+ + Cu, E = E° − (0.059/2) log([Zn^2+]/[Cu^2+]). At equilibrium E = 0 and E° = (0.059/n) log K_c. ΔG° = −nFE° (F = 96500 C mol^-1). Electrolysis: Faraday's first law m = ZIt (mass deposited is proportional to the charge), second law (masses deposited by the same charge are proportional to equivalent masses). 1 faraday = 96500 C; to deposit one mole of Cu from Cu^2+ requires 2 F. Products of electrolysis depend on electrode potentials, concentration and nature of electrodes: molten NaCl gives Na at cathode and Cl2 at anode; aqueous NaCl gives H2 and Cl2.",
+  "## Conductance of electrolytic solutions and batteries",
+  "Resistance R = ρ l/A; conductance G = 1/R (siemens); conductivity κ = 1/ρ (S m^-1). Molar conductivity Λm = κ/C (in S m² mol^-1, with C in mol m^-3) or Λm = κ × 1000/C (S cm² mol^-1, C in mol L^-1). Factors affecting conductivity of an electrolyte: nature of the electrolyte, temperature and concentration; for strong electrolytes Λm increases slightly on dilution (Debye–Hückel–Onsager: Λm = Λ°m − A√C); for weak electrolytes Λm rises sharply on dilution because the degree of ionisation increases. Kohlrausch's law: Λ°m = λ°+ + λ°− (limiting molar conductivity is the sum of ionic contributions); e.g. Λ°m(CH3COOH) = Λ°m(CH3COONa) + Λ°m(HCl) − Λ°m(NaCl). Degree of dissociation α = Λm/Λ°m. Batteries: primary (dry cell, mercury cell) and secondary (lead–acid battery; Ni–Cd cell). Fuel cells (H2–O2) convert fuel energy directly to electricity. Corrosion (rusting of iron) is an electrochemical process; prevention by painting, galvanising and cathodic protection."
+ ],
+ "mcq": [
+  ["The factors affecting the conductivity of an electrolyte are —", ["nature of the electrolyte, temperature and concentration", "nature of the electrolyte and temperature only", "temperature and concentration only", "nature of the electrolyte only"], "A", ["October 2024"]],
+  ["Which of the following is NOT a function of the salt bridge?", ["It completes the outer circuit", "It completes the inner circuit", "It maintains electrical neutrality", "It prevents accumulation of charges in the half cells"], "A", ["October 2024"]],
+  ["The standard electrode potential of the standard hydrogen electrode is —", ["zero", "+1 V", "−1 V", "0.34 V"], "A", ["April 2026"]],
+  ["The SI unit of molar conductivity is —", ["S m² mol^-1", "S m^-1", "S m", "ohm m"], "A", ["April 2025"]],
+  ["In a galvanic cell, oxidation occurs at the —", ["anode", "cathode", "salt bridge", "both electrodes"], "A"],
+  ["The quantity of electricity required to deposit one mole of Cu from Cu^2+ is —", ["2 F", "1 F", "3 F", "0.5 F"], "A"],
+  ["The relation between ΔG° and E°cell is —", ["ΔG° = −nFE°", "ΔG° = nFE°", "ΔG° = −E°/nF", "ΔG° = nE°"], "A"],
+  ["The Nernst equation at 298 K for a cell reaction involving n electrons is —", ["E = E° − (0.059/n) log Q", "E = E° + 0.059 n log Q", "E = E°/n", "E = nE°"], "A"],
+  ["On dilution, the molar conductivity of a weak electrolyte —", ["increases sharply", "decreases", "remains constant", "becomes zero"], "A"],
+  ["Which of the following is a secondary cell?", ["Lead storage battery", "Dry cell", "Mercury cell", "Daniell cell"], "A"],
+  ["The reference electrode in electrochemistry is —", ["the standard hydrogen electrode", "the silver electrode", "the zinc electrode", "the copper electrode"], "A"],
+  ["Rusting of iron is prevented by coating with zinc; the process is called —", ["galvanisation", "electroplating with nickel", "vulcanisation", "roasting"], "A"]
+ ],
+ "objective": [
+  ["(a) Write the standard electrode potential of SHE. (b) What is the function of the salt bridge?", "(a) 0.00 V. (b) It completes the inner circuit, maintains electrical neutrality of the two half cells and prevents mixing of solutions.", ["April 2026"]],
+  ["(a) Define molar conductivity. (b) Write its SI unit.", "(a) The conductivity of a solution containing one mole of electrolyte placed between two electrodes one metre apart (Λm = κ/C). (b) S m² mol^-1.", ["April 2025"]],
+  ["State true or false: (a) E°cell = E°cathode − E°anode. (b) Molar conductivity of a strong electrolyte decreases on dilution.", "(a) True. (b) False – it increases slightly on dilution.", ["April 2025"]],
+  ["Calculate (a) the charge in coulombs that corresponds to 0.5 mol of electrons and (b) the mass of Ag deposited by 96500 C (Ag = 108).", "(a) 0.5 × 96500 = 48250 C. (b) 1 F deposits 1 mol of Ag = 108 g."],
+  ["Fill in: (a) At the anode ______ takes place. (b) The EMF of the cell Zn | Zn^2+ || Cu^2+ | Cu with E°Zn = −0.76 V and E°Cu = +0.34 V is ______.", "(a) oxidation. (b) 0.34 − (−0.76) = 1.10 V."],
+  ["Match: (a) Faraday's first law (b) Kohlrausch's law (c) Nernst equation with (i) Λ°m = λ°+ + λ°− (ii) m = ZIt (iii) E = E° − (0.059/n) log Q.", "(a)-(ii); (b)-(i); (c)-(iii)."],
+  ["Name (a) the anode and (b) the cathode in the Daniell cell.", "(a) Zinc electrode (oxidation, negative). (b) Copper electrode (reduction, positive)."],
+  ["Write (a) the unit of conductivity and (b) the relation between conductance and resistance.", "(a) S m^-1 (or S cm^-1). (b) G = 1/R."]
+ ],
+ "vsa": [
+  ["What is the standard hydrogen electrode? Write its half-cell reaction and potential.", "A reference electrode: platinum coated with platinum black dipped in 1 M H+ solution with H2 gas at 1 bar bubbled over it. H+ + e− ⇌ ½H2; E° = 0 V by convention.", ["April 2026"]],
+  ["State Kohlrausch's law of independent migration of ions. Mention one use.", "At infinite dilution each ion contributes independently to the molar conductivity of the electrolyte: Λ°m = λ°+ + λ°−. It is used to find Λ°m of weak electrolytes such as acetic acid.", ["April 2026"]],
+  ["Why is the use of a salt bridge necessary in a galvanic cell?", "It completes the internal circuit by allowing ions to flow, maintains electrical neutrality in the half cells and avoids liquid junction potential, so the current continues."],
+  ["Calculate the cell potential for Zn | Zn^2+ (1 M) || Ag+ (1 M) | Ag. E°Zn^2+/Zn = −0.76 V, E°Ag+/Ag = +0.80 V.", "E°cell = E°cathode − E°anode = 0.80 − (−0.76) = 1.56 V."],
+  ["Define conductivity and write the factor on which it depends.", "Conductivity κ is the conductance of a unit cube of the solution (reciprocal of resistivity), unit S m^-1. It depends on the nature of the electrolyte, concentration and temperature."],
+  ["Why does the molar conductivity of a weak electrolyte rise very sharply on dilution?", "Dilution increases the degree of ionisation (Ostwald), so the number of ions per mole increases greatly."],
+  ["State Faraday's first law of electrolysis.", "The mass of a substance deposited or liberated at an electrode is directly proportional to the quantity of electricity passed (m = ZIt)."],
+  ["Which of the following is a better oxidising agent: Ag+ (E° = +0.80 V) or Cu^2+ (E° = +0.34 V)? Why?", "Ag+, since it has the higher (more positive) reduction potential and so gains electrons more readily."]
+ ],
+ "sa": [
+  ["Calculate Λ°m of acetic acid, given Λ°m(CH3COONa) = 91 S cm² mol^-1, Λ°m(HCl) = 426 S cm² mol^-1 and Λ°m(NaCl) = 126 S cm² mol^-1.", "By Kohlrausch's law, Λ°m(CH3COOH) = Λ°m(CH3COONa) + Λ°m(HCl) − Λ°m(NaCl)\n= 91 + 426 − 126 = 391 S cm² mol^-1.", ["April 2026"]],
+  ["Calculate the reduction potential of the Ag+/Ag electrode in 0.01 M Ag+ solution at 298 K (E° = +0.80 V).", "Ag+ + e− → Ag; E = E° − 0.059 log(1/[Ag+]) = 0.80 + 0.059 log(0.01) = 0.80 + 0.059 × (−2) = 0.80 − 0.118 = 0.682 V.", ["April 2026"]],
+  ["Calculate the standard Gibbs energy change and equilibrium constant of Zn + Cu^2+ → Zn^2+ + Cu (E°cell = 1.10 V, n = 2, F = 96500 C mol^-1).", "ΔG° = −nFE° = −2 × 96500 × 1.10 = −212300 J = −212.3 kJ mol^-1.\nlog K = nE°/0.059 = 2 × 1.10/0.059 = 37.3, so K = 2 × 10^37."],
+  ["How much charge is required to deposit 5.4 g of silver? How long will a current of 2 A take? (Ag = 108)", "Moles of Ag = 5.4/108 = 0.05 mol; charge = 0.05 × 96500 = 4825 C.\nt = Q/I = 4825/2 = 2412.5 s (about 40.2 min)."],
+  ["Describe the working of the lead storage battery with the reactions.", "Anode: Pb + SO4^2− → PbSO4 + 2e−; cathode: PbO2 + 4H+ + SO4^2− + 2e− → PbSO4 + 2H2O; electrolyte 38% H2SO4. On charging the reactions are reversed. It is a secondary cell used in vehicles."],
+  ["What is corrosion? Explain the rusting of iron and state two methods of prevention.", "Corrosion is the gradual destruction of a metal by its environment. In rusting, iron acts as the anode (Fe → Fe^2+ + 2e−) and oxygen is reduced at another spot with moisture; Fe^2+ is oxidised to Fe2O3·xH2O (rust). Prevention: painting or galvanising, and cathodic protection with a sacrificial metal such as Mg or Zn."]
+ ],
+ "la": [
+  ["(a) Describe the construction and working of the Daniell cell, with the half-cell reactions and cell notation. (b) State the function of the salt bridge.", "(a) Zn rod in ZnSO4 solution (anode, oxidation: Zn → Zn^2+ + 2e−) and Cu rod in CuSO4 solution (cathode, reduction: Cu^2+ + 2e− → Cu) joined by a wire and a salt bridge. Notation: Zn | Zn^2+ (1 M) || Cu^2+ (1 M) | Cu; E°cell = 0.34 − (−0.76) = 1.10 V. Electrons flow from Zn to Cu through the wire.\n(b) The salt bridge completes the inner circuit, keeps both half cells electrically neutral and prevents mixing."],
+  ["(a) State the Nernst equation. (b) Calculate the EMF of Zn | Zn^2+ (0.1 M) || Cu^2+ (0.01 M) | Cu at 298 K (E° = 1.10 V).", "(a) E = E° − (0.059/n) log Q, with Q the reaction quotient.\n(b) Zn + Cu^2+ → Zn^2+ + Cu, n = 2; Q = [Zn^2+]/[Cu^2+] = 0.1/0.01 = 10.\nE = 1.10 − (0.059/2) log 10 = 1.10 − 0.0295 = 1.07 V."],
+  ["(a) Define the factors on which conductivity of electrolytes depends. (b) Explain the variation of molar conductivity with dilution for strong and weak electrolytes. (c) State Kohlrausch's law and one application.", "(a) Nature of the electrolyte, temperature and concentration.\n(b) Strong electrolyte: Λm increases slightly on dilution as interionic attraction falls and can be extrapolated to Λ°m. Weak electrolyte: Λm increases sharply on dilution since α increases; Λ°m cannot be found by extrapolation.\n(c) Λ°m = λ°+ + λ°−; used to find Λ°m of weak electrolytes and the degree of dissociation α = Λm/Λ°m."],
+  ["(a) State Faraday's laws of electrolysis. (b) Calculate the mass of copper deposited when a current of 3 A is passed for 30 minutes through CuSO4 solution (Cu = 63.5).", "(a) First law: m ∝ Q (m = ZIt). Second law: the masses of different substances deposited by the same quantity of electricity are proportional to their equivalent masses.\n(b) Q = I × t = 3 × 1800 = 5400 C. Cu^2+ + 2e− → Cu: 2 × 96500 C deposit 63.5 g.\nm = 63.5 × 5400/(2 × 96500) = 1.777 g."]
+ ]
+}

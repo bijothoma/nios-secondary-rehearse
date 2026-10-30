@@ -1,0 +1,69 @@
+{
+  "subject": "chemistry",
+  "lesson": 31,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 31: Soaps, Detergents and Polymers — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Soaps and detergents"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Soaps are sodium or potassium salts of long-chain fatty acids (stearic, palmitic, oleic), made by saponification: fat/oil + NaOH → soap + glycerol; the soap is separated from the mixture by adding common salt (salting out). A soap molecule has a hydrophobic hydrocarbon tail and a hydrophilic ionic head; in water it forms micelles that trap grease in the core, so that the dirt is removed by cleansing action (emulsification). Soaps are ineffective in hard water because Ca^2+ and Mg^2+ give insoluble scum (calcium stearate). Synthetic detergents: anionic (sodium alkylbenzene sulphonates, sodium lauryl sulphate), cationic (quaternary ammonium salts – germicidal, hair conditioners) and non-ionic (polyethylene glycol esters). Detergents work in hard water, as their calcium salts are soluble. Branched-chain detergents are non-biodegradable and cause water pollution (foam), whereas linear-chain (biodegradable) detergents are degraded by bacteria."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Polymers"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "A polymer is a macromolecule made of repeating units (monomers). Classification: by source (natural – starch, proteins, natural rubber; semi-synthetic – cellulose acetate; synthetic – polythene, nylon), by structure (linear, branched and cross-linked), by mode of polymerisation (addition and condensation) and by molecular forces (elastomers – vulcanised rubber, buna-S; fibres – nylon-6,6, terylene; thermoplastics – polythene, PVC, polystyrene; thermosetting – bakelite, melamine). Addition polymers: polythene (LDPE, high pressure, branched, soft; HDPE, Ziegler–Natta, linear, hard), polypropylene, PVC, Teflon (tetrafluoroethene), polyacrylonitrile (orlon), buna-S (butadiene + styrene), neoprene (chloroprene). Condensation polymers: nylon-6,6 (hexamethylenediamine + adipic acid), nylon-6 (caprolactam), terylene (ethylene glycol + terephthalic acid), bakelite (phenol + formaldehyde), melamine-formaldehyde."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Rubber and biodegradable polymers"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Natural rubber is cis-polyisoprene (monomer: isoprene, 2-methylbuta-1,3-diene); it is soft and sticky, so it is vulcanised by heating with sulphur (3–5%), which forms cross-links through sulphur bridges and makes it stronger, elastic and resistant (an elastomer). Synthetic rubbers: neoprene (polychloroprene), buna-N (butadiene + acrylonitrile) and buna-S, butyl rubber (a copolymer of isobutylene with a small amount of isoprene, low permeability to air, used for tyre tubes). Biodegradable polymers: PHBV (poly-β-hydroxybutyrate-co-β-hydroxyvalerate) used in packaging and orthopaedic devices, and nylon-2-nylon-6 (glycine + aminocaproic acid). Disposal of non-biodegradable plastic causes environmental hazards; recycling and the use of biodegradable polymers are preferred. Low-density polythene has branched chains (loosely packed, lower density), whereas high-density polythene has linear chains packed closely."
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,384 @@
+{
+  "subject": "chemistry",
+  "lesson": 20,
+  "title": "p-Block Elements and Their Compounds – II",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "12 × 1 = 12",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "The strongest oxidising agent among the halogens is —",
+          "options": [
+            "F2",
+            "Cl2",
+            "Br2",
+            "I2"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "Mercury loses its meniscus and sticks to glass (tailing) in the presence of —",
+          "options": [
+            "ozone",
+            "oxygen",
+            "SO2",
+            "chlorine"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "In the Contact process the catalyst used is —",
+          "options": [
+            "V2O5",
+            "Fe",
+            "Ni",
+            "Pt (for ammonia)"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "The gas which turns acidified K2Cr2O7 solution green is —",
+          "options": [
+            "SO2",
+            "CO2",
+            "O2",
+            "Cl2"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "Which halogen exhibits only −1 oxidation state?",
+          "options": [
+            "Fluorine",
+            "Chlorine",
+            "Bromine",
+            "Iodine"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "The shape of XeF4 is —",
+          "options": [
+            "square planar",
+            "tetrahedral",
+            "octahedral",
+            "linear"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "Aqua regia is a mixture of —",
+          "options": [
+            "3 HCl : 1 HNO3",
+            "1 HCl : 3 HNO3",
+            "3 H2SO4 : 1 HNO3",
+            "HCl and H2SO4"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "The acid strength is highest in —",
+          "options": [
+            "HClO4",
+            "HClO3",
+            "HClO2",
+            "HOCl"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "Conc. H2SO4 turns blue CuSO4·5H2O white because of its —",
+          "options": [
+            "dehydrating property",
+            "oxidising property",
+            "acidic property",
+            "reducing property"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "The noble gas used in weather balloons is —",
+          "options": [
+            "helium",
+            "argon",
+            "neon",
+            "krypton"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "Ozone is —",
+          "options": [
+            "a bent molecule, diamagnetic",
+            "linear",
+            "paramagnetic",
+            "a triatomic non-polar molecule"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "The first noble gas compound to be prepared was —",
+          "options": [
+            "XePtF6",
+            "XeF6",
+            "KrF2",
+            "XeO3"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark.",
+      "marks": "8 × 2 = 16",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "(a) Which gas makes mercury lose its meniscus? (b) Write the formula of the compound formed.",
+          "answer": "(a) Ozone. (b) Mercury(I) oxide, Hg2O (sticks to glass).",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Complete and balance: (a) XeF6 + 2H2O → ______ (b) NaCl + conc. H2SO4 (423 K) → ______.",
+          "answer": "(a) XeOF4 + 2HF. (b) NaHSO4 + HCl.",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "Fill in: (a) The catalyst in the Contact process is ______. (b) The shape of XeO3 is ______.",
+          "answer": "(a) V2O5. (b) trigonal pyramidal."
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "State true or false: (a) SO2 acts as a reducing agent. (b) Oxygen shows an oxidation state of +6 like sulphur.",
+          "answer": "(a) True. (b) False – oxygen shows −2 (and −1, +2 in OF2); it has no +6 state.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "Match: (a) Tailing of mercury (b) Blue CuSO4 → white (c) Yellow crystalline solid with (i) rhombic sulphur (ii) conc. H2SO4 (iii) ozone.",
+          "answer": "(a)-(iii); (b)-(ii); (c)-(i).",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "Name (a) the oxidation states shown by chlorine in HClO4 and (b) the geometry of XeF2.",
+          "answer": "(a) +7. (b) Linear."
+        },
+        {
+          "id": "2.7",
+          "type": "open",
+          "q": "Write (a) the formula of oleum and (b) the use of SO2.",
+          "answer": "(a) H2S2O7. (b) Bleaching of wool and silk (and making H2SO4)."
+        },
+        {
+          "id": "2.8",
+          "type": "open",
+          "q": "Complete: (a) Noble gases have ______ electron gain enthalpy. (b) The halogen which is liquid at room temperature is ______.",
+          "answer": "(a) positive. (b) bromine."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "8 × 2 = 16",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "Explain why mercury loses its meniscus (tailing) in contact with ozone.",
+          "answer": "Ozone oxidises mercury to mercury(I) oxide (2Hg + O3 → Hg2O + O2), which dissolves in mercury and sticks to glass, so the meniscus is lost.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "Why is SO2 a reducing agent? Give a reaction.",
+          "answer": "In SO2 sulphur is in +4 state and can be oxidised to +6. It decolourises acidified KMnO4: 5SO2 + 2MnO4− + 2H2O → 5SO4^2− + 4H+ + 2Mn^2+.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "Write the reaction of XeF6 with water giving XeO3 and state the shape of XeO3.",
+          "answer": "XeF6 + 3H2O → XeO3 + 6HF. XeO3 is trigonal pyramidal with sp³ hybridisation (one lone pair).",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "How does ozone act as an oxidising agent? Give an example.",
+          "answer": "Ozone readily gives up an oxygen atom (O3 → O2 + [O]). PbS + 4O3 → PbSO4 + 4O2; it also liberates iodine from KI.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "3.5",
+          "type": "open",
+          "q": "Why does sulphur dioxide behave as a reducing agent while sulphur trioxide does not?",
+          "answer": "In SO2 sulphur has the oxidation state +4 (can rise to +6); in SO3 sulphur is already in its highest state +6 and can only be reduced.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "3.6",
+          "type": "open",
+          "q": "Why are noble gases chemically inert?",
+          "answer": "They have completely filled valence shells (ns² np⁶), very high ionisation enthalpies and positive electron gain enthalpies."
+        },
+        {
+          "id": "3.7",
+          "type": "open",
+          "q": "Write the reaction for the preparation of chlorine from HCl and MnO2.",
+          "answer": "MnO2 + 4HCl → MnCl2 + Cl2 + 2H2O."
+        },
+        {
+          "id": "3.8",
+          "type": "open",
+          "q": "What are interhalogen compounds? Give two examples.",
+          "answer": "Compounds formed between two different halogens, e.g. ClF3 and IF7."
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "6 × 3 = 18",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "Describe the manufacture of sulphuric acid by the Contact process with the reactions.",
+          "answer": "Steps: S + O2 → SO2; SO2 is purified and oxidised: 2SO2 + O2 ⇌ 2SO3 over V2O5 at 673–723 K and 2 bar; SO3 is absorbed in conc. H2SO4 to give oleum (SO3 + H2SO4 → H2S2O7) and diluted with water: H2S2O7 + H2O → 2H2SO4."
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "Explain the oxidising and dehydrating properties of concentrated sulphuric acid with examples.",
+          "answer": "Oxidising: Cu + 2H2SO4 → CuSO4 + SO2 + 2H2O; C + 2H2SO4 → CO2 + 2SO2 + 2H2O. Dehydrating: it removes water from blue vitriol (CuSO4·5H2O → white CuSO4) and chars sugar (C12H22O11 → 12C + 11H2O)."
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "Write the preparation, structure and reaction with water of XeF6.",
+          "answer": "Xe + 3F2 → XeF6 at 573 K and 60–70 atm. Structure: distorted octahedral (sp³d³). Hydrolysis: XeF6 + 3H2O → XeO3 + 6HF, partial hydrolysis gives XeOF4."
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "Compare the oxidising power and oxidation states of the halogens.",
+          "answer": "Oxidising power decreases F2 > Cl2 > Br2 > I2 (F2 displaces the others from their halides). Fluorine shows only −1; Cl, Br and I show −1, +1, +3, +5 and +7 in oxoacids and interhalogens."
+        },
+        {
+          "id": "4.5",
+          "type": "open",
+          "q": "Explain the ozone layer depletion and its harmful effects.",
+          "answer": "Ozone in the stratosphere absorbs harmful UV radiation. CFCs release Cl atoms which convert O3 into O2 in a chain reaction (Cl + O3 → ClO + O2). The thinning of the layer causes skin cancer, cataracts and damage to crops and plankton."
+        },
+        {
+          "id": "4.6",
+          "type": "open",
+          "q": "How is hydrogen chloride prepared in the laboratory? Why is it called a strong acid?",
+          "answer": "NaCl + H2SO4 (conc.) → NaHSO4 + HCl at 420 K (and at higher temperature Na2SO4). In water it ionises completely: HCl + H2O → H3O+ + Cl−, hence a strong acid."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Long answer questions. Answer in 80–120 words.",
+      "marks": "4 × 5 = 20",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "(a) Explain SO2 as a reducing agent with two reactions. (b) Describe the preparation of XeO3 and its structure.",
+          "answer": "(a) 5SO2 + 2KMnO4 + 2H2O → K2SO4 + 2MnSO4 + 2H2SO4 (purple colour discharged); SO2 + 2Fe^3+ + 2H2O → SO4^2− + 4H+ + 2Fe^2+. Sulphur is oxidised from +4 to +6.\n(b) XeF6 + 3H2O → XeO3 + 6HF; XeO3 is a colourless explosive solid, trigonal pyramidal (sp³ with one lone pair).",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "(a) Give the preparation of ozone and write two reactions showing its oxidising property. (b) State two uses of ozone.",
+          "answer": "(a) Silent electric discharge through dry oxygen: 3O2 → 2O3. Oxidising reactions: PbS + 4O3 → PbSO4 + 4O2; 2KI + H2O + O3 → 2KOH + I2 + O2; it also converts Hg to Hg2O (tailing).\n(b) Sterilisation of drinking water and bleaching of oils and waxes."
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "(a) Compare the properties of F, Cl, Br and I in oxidising power, bond enthalpy and electronegativity. (b) Write the oxoacids of chlorine in increasing order of acidic strength with reasons.",
+          "answer": "(a) Electronegativity and oxidising power decrease from F to I; the bond enthalpy of Cl–Cl (243 kJ mol^-1) exceeds that of F–F (158) due to lone-pair repulsion in the small F2 and then decreases to I2 (151).\n(b) HOCl < HClO2 < HClO3 < HClO4: increasing oxidation state of Cl and number of oxygens stabilise the anion by resonance."
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "(a) Describe the xenon fluorides with conditions of preparation and shapes. (b) Write the hydrolysis of XeF4 and XeF6. (c) State two uses of noble gases.",
+          "answer": "(a) XeF2 (Xe : F2 = 2 : 1, 673 K) linear; XeF4 (1 : 5, 873 K, 7 bar) square planar; XeF6 (1 : 20, 573 K, 60–70 bar) distorted octahedral.\n(b) 6XeF4 + 12H2O → 4Xe + 2XeO3 + 24HF + 3O2; XeF6 + 3H2O → XeO3 + 6HF.\n(c) He is used in balloons and for diving (with oxygen); Ar for an inert atmosphere in welding and in electric bulbs."
+        }
+      ]
+    }
+  ]
+}

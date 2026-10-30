@@ -1,0 +1,69 @@
+{
+  "subject": "chemistry",
+  "lesson": 28,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 28: Compounds of Carbon Containing Nitrogen — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Amines"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Amines (R–NH2, R2NH, R3N) are derivatives of ammonia and are classified as primary, secondary and tertiary; the nitrogen is sp³ with a lone pair (pyramidal). Preparation: reduction of nitro compounds (Sn/HCl or H2/Ni: C6H5NO2 → C6H5NH2), ammonolysis of haloalkanes (gives a mixture), reduction of nitriles (LiAlH4) and amides, Gabriel phthalimide synthesis (only 1° aliphatic amines) and Hofmann bromamide degradation (RCONH2 + Br2 + 4NaOH → RNH2 + Na2CO3 + 2NaBr + 2H2O; amine has one carbon less). Properties: lower amines are soluble in water due to H-bonding; boiling points 1° > 2° > 3° (hydrogen bonding). Basic character: amines accept a proton, and the aliphatic amines are stronger bases than ammonia and aromatic amines weaker (the lone pair of aniline is delocalised into the ring); in water the order is (C2H5)2NH > (C2H5)3N > C2H5NH2 > NH3 (solvation and +I). Reactions: alkylation, acylation (RNH2 + CH3COCl → RNHCOCH3, 1° and 2° only), carbylamine reaction (RNH2 + CHCl3 + 3KOH → RNC, foul smell, test for 1° amines), reaction with nitrous acid (1° aliphatic gives alcohol + N2; aromatic 1° gives diazonium salt at 273–278 K), Hinsberg's test (benzenesulphonyl chloride) to distinguish 1°, 2° and 3° amines, and electrophilic substitution of aniline (bromine water gives 2,4,6-tribromoaniline; protect by acetylation)."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Diazonium salts"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Benzenediazonium chloride (C6H5N2+Cl−) is prepared by diazotisation of aniline: C6H5NH2 + NaNO2 + 2HCl at 273–278 K → C6H5N2+Cl− + NaCl + 2H2O. It is stable only in cold solution. Reactions with loss of N2: Sandmeyer (CuCl/HCl, CuBr/HBr, CuCN/KCN give chloro, bromo, cyano benzene), Gattermann (Cu powder with HX), replacement by iodide (KI gives iodobenzene), by fluoride (HBF4 then heat – Balz–Schiemann), by –OH (warm water gives phenol), by –H (H3PO2 or ethanol gives benzene). Reactions without loss of N2: coupling with phenols (alkaline, pH 9–10) and aromatic amines (weakly acidic, pH 4–5) to give brightly coloured azo dyes (p-hydroxyazobenzene, orange; p-aminoazobenzene, yellow). Importance: synthesis of aryl halides, nitriles, phenols and dyes."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Nitro compounds and cyanides"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Nitroalkanes are prepared by nitration of alkanes or from RX with AgNO2; nitrobenzene by nitration of benzene (conc. HNO3 and H2SO4) and reduced to aniline. Alkyl cyanides (nitriles) are made from RX + KCN; hydrolysis gives acids (via amide); reduction gives amines; isocyanides (R–NC, from AgCN or the carbylamine reaction) have a foul smell and on reduction give secondary amines (methyl amines)."
+        ]
+      ]
+    }
+  ]
+}

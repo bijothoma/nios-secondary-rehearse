@@ -1,0 +1,69 @@
+{
+  "subject": "chemistry",
+  "lesson": 25,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 25: Compounds of Carbon Containing Halogens (Haloalkanes and Haloarenes) — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Classification, preparation and physical properties"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Haloalkanes (R–X) have the halogen on an sp³ carbon and are primary, secondary or tertiary; haloarenes (Ar–X) have halogen on an sp² carbon of an aromatic ring; allylic and benzylic halides have halogen on the carbon next to a double bond or a benzene ring; vinylic halides have halogen on an sp² carbon of a C=C. Preparation of haloalkanes: from alcohols (R–OH + SOCl2 → R–Cl + SO2 + HCl is the best method; HX with ZnCl2; PCl5, PCl3/P + I2), from alkanes (free-radical halogenation, gives mixtures), from alkenes (HX addition, Markovnikov's rule), halogen exchange (Finkelstein reaction: R–Cl + NaI in acetone → R–I; Swarts: R–Cl + AgF → R–F). Haloarenes: electrophilic halogenation of benzene (Cl2/FeCl3), Sandmeyer reaction (ArN2+Cl− with CuCl or CuBr) and Gattermann reaction (Cu powder + HX). Boiling points rise with molecular mass and fall with branching: RI > RBr > RCl > RF; haloalkanes are insoluble in water but dissolve in organic solvents."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Reactions"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Haloalkanes undergo nucleophilic substitution: SN2 (one step, inversion of configuration, rate = k[RX][Nu], favoured by primary halides and polar aprotic solvent: CH3X > 1° > 2°) and SN1 (two steps via a carbocation, racemisation, rate = k[RX], favoured by tertiary halides and polar protic solvents: 3° > 2° > 1°). Reactions: with aq. KOH → alcohol; alc. KOH → alkene (elimination, Saytzeff); KCN → nitrile; AgCN → isonitrile; NH3 → amine; Na/dry ether (Wurtz); Mg/dry ether → Grignard reagent RMgX (a strong nucleophile and base; with H2O gives alkane: RMgX + H2O → R–H + Mg(OH)X; with CO2 gives carboxylic acid; with HCHO gives a primary alcohol, with other aldehydes secondary alcohol and with ketones tertiary alcohol). Haloarenes are much less reactive in nucleophilic substitution than haloalkanes because: the C–X bond has partial double-bond character due to resonance, the carbon is sp² (shorter, stronger bond) and the phenyl cation is unstable; nitro groups at the ortho/para positions make substitution easier. Haloarenes undergo electrophilic substitution (o,p-directing but deactivating) and Wurtz–Fittig and Fittig reactions."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Polyhalogen compounds and environmental effects"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Dichloromethane (solvent, paint remover), chloroform (CHCl3, anaesthetic earlier; oxidises in air to poisonous phosgene COCl2, so it is stored in dark bottles filled to the brim), iodoform (CHI3, antiseptic), carbon tetrachloride (fire extinguisher, now banned: ozone depletion), freons or CFCs (refrigerants; deplete the ozone layer) and DDT (insecticide, non-biodegradable, accumulates in the food chain). Chloroform with a base and primary amine gives the isocyanide test (carbylamine)."
+        ]
+      ]
+    }
+  ]
+}

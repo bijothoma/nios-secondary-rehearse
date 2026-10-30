@@ -1,0 +1,60 @@
+{
+ "lesson": 31, "title": "Soaps, Detergents and Polymers", "module": 8,
+ "summary": [
+  "## Soaps and detergents",
+  "Soaps are sodium or potassium salts of long-chain fatty acids (stearic, palmitic, oleic), made by saponification: fat/oil + NaOH → soap + glycerol; the soap is separated from the mixture by adding common salt (salting out). A soap molecule has a hydrophobic hydrocarbon tail and a hydrophilic ionic head; in water it forms micelles that trap grease in the core, so that the dirt is removed by cleansing action (emulsification). Soaps are ineffective in hard water because Ca^2+ and Mg^2+ give insoluble scum (calcium stearate). Synthetic detergents: anionic (sodium alkylbenzene sulphonates, sodium lauryl sulphate), cationic (quaternary ammonium salts – germicidal, hair conditioners) and non-ionic (polyethylene glycol esters). Detergents work in hard water, as their calcium salts are soluble. Branched-chain detergents are non-biodegradable and cause water pollution (foam), whereas linear-chain (biodegradable) detergents are degraded by bacteria.",
+  "## Polymers",
+  "A polymer is a macromolecule made of repeating units (monomers). Classification: by source (natural – starch, proteins, natural rubber; semi-synthetic – cellulose acetate; synthetic – polythene, nylon), by structure (linear, branched and cross-linked), by mode of polymerisation (addition and condensation) and by molecular forces (elastomers – vulcanised rubber, buna-S; fibres – nylon-6,6, terylene; thermoplastics – polythene, PVC, polystyrene; thermosetting – bakelite, melamine). Addition polymers: polythene (LDPE, high pressure, branched, soft; HDPE, Ziegler–Natta, linear, hard), polypropylene, PVC, Teflon (tetrafluoroethene), polyacrylonitrile (orlon), buna-S (butadiene + styrene), neoprene (chloroprene). Condensation polymers: nylon-6,6 (hexamethylenediamine + adipic acid), nylon-6 (caprolactam), terylene (ethylene glycol + terephthalic acid), bakelite (phenol + formaldehyde), melamine-formaldehyde.",
+  "## Rubber and biodegradable polymers"
+  ,
+  "Natural rubber is cis-polyisoprene (monomer: isoprene, 2-methylbuta-1,3-diene); it is soft and sticky, so it is vulcanised by heating with sulphur (3–5%), which forms cross-links through sulphur bridges and makes it stronger, elastic and resistant (an elastomer). Synthetic rubbers: neoprene (polychloroprene), buna-N (butadiene + acrylonitrile) and buna-S, butyl rubber (a copolymer of isobutylene with a small amount of isoprene, low permeability to air, used for tyre tubes). Biodegradable polymers: PHBV (poly-β-hydroxybutyrate-co-β-hydroxyvalerate) used in packaging and orthopaedic devices, and nylon-2-nylon-6 (glycine + aminocaproic acid). Disposal of non-biodegradable plastic causes environmental hazards; recycling and the use of biodegradable polymers are preferred. Low-density polythene has branched chains (loosely packed, lower density), whereas high-density polythene has linear chains packed closely."
+ ],
+ "mcq": [
+  ["Vulcanisation of rubber produces —", ["an elastomer with cross-links", "a thermoplastic", "a thermosetting polymer", "a plasticizer"], "A", ["October 2024"]],
+  ["Low-density polythene —", ["has branching in the polymer chains", "has linear chains packed tightly", "is harder and stronger than polypropylene", "is a condensation polymer"], "A", ["October 2024"]],
+  ["Natural rubber is a polymer of —", ["isoprene", "butadiene", "chloroprene", "styrene"], "A", ["April 2026"]],
+  ["Butyl rubber is a copolymer of —", ["isobutylene and a little isoprene", "butadiene and styrene", "chloroprene and acrylonitrile", "ethene and propene"], "A", ["April 2026"]],
+  ["The biodegradable polymer among the following is —", ["PHBV", "polythene", "PVC", "teflon"], "A", ["April 2026"]],
+  ["Soap is the sodium salt of —", ["long-chain fatty acids", "benzenesulphonic acid", "sulphuric acid", "glycerol"], "A"],
+  ["Nylon-6,6 is made from —", ["hexamethylenediamine and adipic acid", "caprolactam only", "phenol and formaldehyde", "ethylene glycol and terephthalic acid"], "A"],
+  ["Bakelite is a —", ["thermosetting polymer", "thermoplastic polymer", "elastomer", "natural polymer"], "A"],
+  ["The monomer of teflon is —", ["tetrafluoroethene", "chloroethene", "propene", "styrene"], "A"],
+  ["Which type of detergent is used in hair conditioners?", ["Cationic", "Anionic", "Non-ionic", "Soap"], "A"],
+  ["The polymer used for making non-stick cookware is —", ["Teflon", "PVC", "nylon", "bakelite"], "A"],
+  ["Buna-S is a copolymer of —", ["butadiene and styrene", "butadiene and acrylonitrile", "isoprene and styrene", "chloroprene and styrene"], "A"]
+ ],
+ "objective": [
+  ["(a) Name the monomer of natural rubber. (b) What is the purpose of vulcanisation?", "(a) Isoprene (2-methylbuta-1,3-diene). (b) To increase the strength, elasticity and heat resistance of rubber by sulphur cross-links.", ["April 2026"]],
+  ["(a) What are biodegradable polymers? (b) Give one example.", "(a) Polymers that are decomposed by microorganisms in the environment. (b) PHBV (or nylon-2-nylon-6).", ["April 2026"]],
+  ["State true or false: (a) Vulcanisation produces an elastomer. (b) Low-density polythene has a linear chain of molecules.", "(a) True. (b) False – LDPE has branched chains.", ["October 2024"]],
+  ["Fill in: (a) The salt added to separate soap from the reaction mixture is ______. (b) The by-product of saponification is ______.", "(a) sodium chloride (salting out). (b) glycerol."],
+  ["Match: (a) Nylon-6,6 (b) Terylene (c) Bakelite with (i) phenol + HCHO (ii) adipic acid + diamine (iii) ethylene glycol + terephthalic acid.", "(a)-(ii); (b)-(iii); (c)-(i)."],
+  ["Write (a) the monomers of buna-S and (b) the type of polymerisation.", "(a) 1,3-Butadiene and styrene. (b) Addition (copolymerisation)."],
+  ["Name (a) a thermoplastic and (b) a thermosetting polymer.", "(a) Polythene (or PVC). (b) Bakelite (or melamine-formaldehyde)."],
+  ["State (a) the type of detergent in sodium lauryl sulphate and (b) one use of cationic detergents.", "(a) Anionic detergent. (b) As germicides/in hair conditioners."]
+ ],
+ "vsa": [
+  ["What is butyl rubber? State one of its properties and use.", "A copolymer of isobutylene with about 2% isoprene; it is impermeable to air and is used for tyre inner tubes.", ["April 2026"]],
+  ["Differentiate between natural rubber and vulcanised rubber.", "Natural rubber is soft, sticky and weak, with cis-polyisoprene chains; vulcanised rubber is heated with sulphur, which cross-links the chains, giving hardness, elasticity and resistance to heat and solvents.", ["April 2026"]],
+  ["What are biodegradable polymers? Give an example and a use.", "Polymers broken down by bacteria into harmless products. PHBV, used in packaging, orthopaedic devices and controlled release of drugs.", ["April 2026"]],
+  ["What is a micelle? How does soap clean?", "An aggregate of soap molecules in water with the hydrocarbon tails inward and ionic heads outward. Grease enters the hydrophobic core and gets emulsified, to be washed away with water."],
+  ["Why are detergents more effective than soaps in hard water?", "Soaps form insoluble calcium and magnesium salts (scum) with hard water; the Ca and Mg salts of synthetic detergents are soluble, so they continue to lather."],
+  ["Give the difference between addition and condensation polymers with an example.", "Addition polymers are formed from unsaturated monomers without loss of any small molecule (polythene); condensation polymers are formed by joining bifunctional monomers with the loss of small molecules such as water (nylon-6,6)."],
+  ["Write the monomer and structure of teflon.", "Tetrafluoroethene, F2C=CF2; polymer –(CF2–CF2)n–, used for non-stick cookware."],
+  ["Why are branched-chain detergents harmful?", "They are not decomposed by bacteria (non-biodegradable) and cause persistent foam and pollution of water bodies."]
+ ],
+ "sa": [
+  ["Explain the cleansing action of soap and the formation of micelles.", "Soap has a hydrophilic carboxylate head and a long hydrophobic hydrocarbon tail. In water the tails collect around the grease with heads facing the water, forming micelles; grease is suspended in water as an emulsion and rinsed away."],
+  ["Write the preparation of nylon-6,6 and terylene with their uses.", "Nylon-6,6: hexamethylenediamine + adipic acid, condensation polymerisation by heating at 553 K under pressure; used in fibres, ropes and bristles. Terylene: ethylene glycol + terephthalic acid at 420–460 K with Zn(OAc)2/Sb2O3; used for fabrics and sails."],
+  ["How is natural rubber vulcanised? Explain how the properties improve.", "Natural rubber (cis-polyisoprene) is heated with 3–5% sulphur at 373–415 K, forming disulphide cross-links between chains; it becomes stronger, more elastic, less sticky, and resistant to heat, abrasion and chemicals."],
+  ["Distinguish between thermoplastic and thermosetting polymers with examples.", "Thermoplastics soften on heating and harden on cooling and can be remoulded (polythene, PVC); thermosetting polymers get permanently hard on heating due to cross-linking and cannot be reshaped (bakelite, melamine)."],
+  ["Compare the low-density and high-density polythene in preparation, structure and use.", "LDPE: free-radical polymerisation of ethene at high pressure (1000–2000 atm) with traces of O2 or peroxide; branched chains; soft, used in films and squeeze bottles. HDPE: Ziegler–Natta catalyst at 6–7 atm, 333–343 K; linear chains; hard, used for buckets and toys."],
+  ["Explain the types of synthetic detergents with examples.", "Anionic: sodium alkylbenzene sulphonate (washing powders); cationic: cetyltrimethylammonium bromide (hair conditioners, germicide); non-ionic: polyethylene glycol stearate (liquid dishwashing)."]
+ ],
+ "la": [
+  ["(a) What is butyl rubber? (b) How does vulcanisation modify natural rubber? (c) Name two uses of rubber.", "(a) A synthetic rubber formed by copolymerisation of isobutylene with a small amount of isoprene; it has very low permeability to air and is used for tyre tubes.\n(b) Natural rubber is heated with sulphur, which forms cross-links between the isoprene chains; the product is harder, elastic, resists temperature and wear.\n(c) Tyres, belts, footwear and gloves.", ["April 2026"]],
+  ["(a) What are biodegradable polymers? Describe PHBV and nylon-2-nylon-6. (b) Why is the disposal of synthetic polymers a problem?", "(a) Polymers degraded by microorganisms. PHBV is a copolymer of 3-hydroxybutanoic and 3-hydroxypentanoic acids, used in packaging and as drug carriers; nylon-2-nylon-6 is an alternating polyamide of glycine and 6-aminohexanoic acid.\n(b) Synthetic polymers such as polythene and PVC are non-biodegradable, persist for years, choke drains and harm animals; burning produces toxic gases.", ["April 2026"]],
+  ["(a) Classify polymers on the basis of their source and structure with examples. (b) Give the preparation of polythene (LDPE and HDPE), PVC and Teflon.", "(a) Natural (cellulose, proteins, rubber), semi-synthetic (rayon) and synthetic (nylon, polythene); linear (HDPE), branched (LDPE) and cross-linked (bakelite).\n(b) LDPE: ethene at high pressure with a trace of O2; HDPE: Ziegler–Natta catalyst (TiCl4 + Al(C2H5)3) at low pressure; PVC: free-radical polymerisation of CH2=CHCl; Teflon: F2C=CF2 with persulphate at high pressure."],
+  ["(a) How is soap manufactured? Write the saponification reaction. (b) Compare soaps and synthetic detergents.", "(a) Fat (triglyceride) is boiled with NaOH: (RCOO)3C3H5 + 3NaOH → 3RCOONa + C3H5(OH)3; soap is separated by adding salt and moulded.\n(b) Soaps are salts of fatty acids, biodegradable, ineffective in hard water and acidic medium; detergents are sulphonates or sulphates, effective in hard water, work in acidic media, and branched ones are non-biodegradable."]
+ ]
+}

@@ -1,0 +1,69 @@
+{
+  "subject": "chemistry",
+  "lesson": 23,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 23: Nomenclature and General Principles of Organic Chemistry — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Classification and IUPAC nomenclature"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Organic compounds are classified as acyclic (open chain) and cyclic (alicyclic and aromatic: benzene and its derivatives); a functional group is the atom or group that determines the chemical properties (–OH alcohol, –CHO aldehyde, >C=O ketone, –COOH acid, –NH2 amine, –SH thiol, –X halide). A homologous series is a family with the same functional group differing by CH2 (e.g. alkanes CnH2n+2, alkenes CnH2n, alkynes CnH2n−2). IUPAC rules: select the longest continuous chain containing the principal functional group; number it from the end giving the lowest locant to the functional group, then to multiple bonds and substituents; write substituents alphabetically; use the suffix for the principal group (-ol, -al, -one, -oic acid, -thiol, -amine) and the prefix for others (halo, nitro, alkoxy). Priority order: –COOH > –SO3H > –COOR > –COCl > –CONH2 > –CN > –CHO > >C=O > –OH > –SH > –NH2 > C=C > C≡C. Examples: CH3CH2SH ethanethiol; CH3CH(OH)CH3 propan-2-ol; CH3COCH3 propanone; (CH3)2CHCOOH 2-methylpropanoic acid."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Isomerism and electronic effects"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Structural isomerism: chain (butane and 2-methylpropane), position (propan-1-ol and propan-2-ol), functional (ethanol and methoxymethane), metamerism (diethyl ether and methyl propyl ether) and tautomerism (keto–enol). Stereoisomerism: geometrical (cis/trans in but-2-ene) and optical (a carbon with four different groups, chiral centre). Inductive effect: permanent polarisation of a σ bond by an electronegative atom or group; –I groups (–NO2, –CN, –COOH, –F, –Cl, –OH, –OR) withdraw electrons and +I groups (alkyl groups) release electrons; order of –I: NO2 > CN > COOH > F > Cl > Br > I. Electromeric effect (temporary, in presence of an attacking reagent), resonance (mesomeric) effect (delocalisation of π electrons/lone pairs, e.g. benzene, carboxylate ion) and hyperconjugation (delocalisation of σ electrons of C–H adjacent to a carbocation, free radical or double bond) explain the stability of species."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Reaction intermediates and types of reactions"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Homolytic fission of a bond gives free radicals (each atom takes one electron); heterolytic fission gives ions – a carbocation (C+, electron deficient, sp² planar) and a carbanion (C−, pyramidal). Stability of carbocations: 3° > 2° > 1° > CH3+ (more alkyl groups give +I and hyperconjugation); free radicals have the same order; stability of carbanions: CH3− > 1° > 2° > 3°. Electrophiles are electron-seeking (H+, NO2+, carbocations, BF3, AlCl3); nucleophiles are electron-rich (OH−, CN−, NH3, H2O, Cl−). Types of reactions: substitution (SN1 and SN2), addition (electrophilic on alkenes, nucleophilic on carbonyls), elimination and rearrangement. Purification of organic compounds: crystallisation, sublimation, distillation (simple, fractional, steam, vacuum), chromatography. Qualitative analysis: Lassaigne's test (N, S and halogens); quantitative: Dumas and Kjeldahl for nitrogen, Carius for halogens."
+        ]
+      ]
+    }
+  ]
+}

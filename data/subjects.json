@@ -2549,6 +2549,152 @@
           "file": "data/biology/paper-3.json"
         }
       ]
+    },
+    {
+      "id": "chemistry",
+      "name": "Chemistry",
+      "label": "",
+      "level": "senior-secondary",
+      "lessons": [
+        {
+          "no": 1,
+          "title": "Atoms, Molecules and Chemical Arithmetic",
+          "file": "data/chemistry/lesson-1.json",
+          "summary": "data/chemistry/summary/lesson-1.json"
+        },
+        {
+          "no": 2,
+          "title": "Atomic Structure",
+          "file": "data/chemistry/lesson-2.json",
+          "summary": "data/chemistry/summary/lesson-2.json"
+        },
+        {
+          "no": 4,
+          "title": "Chemical Bonding",
+          "file": "data/chemistry/lesson-4.json",
+          "summary": "data/chemistry/summary/lesson-4.json"
+        },
+        {
+          "no": 7,
+          "title": "Solutions",
+          "file": "data/chemistry/lesson-7.json",
+          "summary": "data/chemistry/summary/lesson-7.json"
+        },
+        {
+          "no": 9,
+          "title": "Chemical Thermodynamics",
+          "file": "data/chemistry/lesson-9.json",
+          "summary": "data/chemistry/summary/lesson-9.json"
+        },
+        {
+          "no": 12,
+          "title": "Ionic Equilibrium",
+          "file": "data/chemistry/lesson-12.json",
+          "summary": "data/chemistry/summary/lesson-12.json"
+        },
+        {
+          "no": 13,
+          "title": "Electrochemistry",
+          "file": "data/chemistry/lesson-13.json",
+          "summary": "data/chemistry/summary/lesson-13.json"
+        },
+        {
+          "no": 17,
+          "title": "Hydrogen and s-Block Elements",
+          "file": "data/chemistry/lesson-17.json",
+          "summary": "data/chemistry/summary/lesson-17.json"
+        },
+        {
+          "no": 18,
+          "title": "General Characteristics of the p-block Elements",
+          "file": "data/chemistry/lesson-18.json",
+          "summary": "data/chemistry/summary/lesson-18.json"
+        },
+        {
+          "no": 20,
+          "title": "p-Block Elements and Their Compounds – II",
+          "file": "data/chemistry/lesson-20.json",
+          "summary": "data/chemistry/summary/lesson-20.json"
+        },
+        {
+          "no": 21,
+          "title": "d-Block and f-Block Elements",
+          "file": "data/chemistry/lesson-21.json",
+          "summary": "data/chemistry/summary/lesson-21.json"
+        },
+        {
+          "no": 22,
+          "title": "Coordination Compounds",
+          "file": "data/chemistry/lesson-22.json",
+          "summary": "data/chemistry/summary/lesson-22.json"
+        },
+        {
+          "no": 23,
+          "title": "Nomenclature and General Principles of Organic Chemistry",
+          "file": "data/chemistry/lesson-23.json",
+          "summary": "data/chemistry/summary/lesson-23.json"
+        },
+        {
+          "no": 24,
+          "title": "Hydrocarbons",
+          "file": "data/chemistry/lesson-24.json",
+          "summary": "data/chemistry/summary/lesson-24.json"
+        },
+        {
+          "no": 25,
+          "title": "Compounds of Carbon Containing Halogens (Haloalkanes and Haloarenes)",
+          "file": "data/chemistry/lesson-25.json",
+          "summary": "data/chemistry/summary/lesson-25.json"
+        },
+        {
+          "no": 26,
+          "title": "Alcohols, Phenols and Ethers",
+          "file": "data/chemistry/lesson-26.json",
+          "summary": "data/chemistry/summary/lesson-26.json"
+        },
+        {
+          "no": 27,
+          "title": "Aldehydes, Ketones and Carboxylic Acids",
+          "file": "data/chemistry/lesson-27.json",
+          "summary": "data/chemistry/summary/lesson-27.json"
+        },
+        {
+          "no": 28,
+          "title": "Compounds of Carbon Containing Nitrogen",
+          "file": "data/chemistry/lesson-28.json",
+          "summary": "data/chemistry/summary/lesson-28.json"
+        },
+        {
+          "no": 29,
+          "title": "Biomolecules",
+          "file": "data/chemistry/lesson-29.json",
+          "summary": "data/chemistry/summary/lesson-29.json"
+        },
+        {
+          "no": 31,
+          "title": "Soaps, Detergents and Polymers",
+          "file": "data/chemistry/lesson-31.json",
+          "summary": "data/chemistry/summary/lesson-31.json"
+        },
+        {
+          "no": 901,
+          "tag": "Full paper",
+          "title": "Model Question Paper 1",
+          "file": "data/chemistry/paper-1.json"
+        },
+        {
+          "no": 902,
+          "tag": "Full paper",
+          "title": "Model Question Paper 2",
+          "file": "data/chemistry/paper-2.json"
+        },
+        {
+          "no": 903,
+          "tag": "Full paper",
+          "title": "Model Question Paper 3",
+          "file": "data/chemistry/paper-3.json"
+        }
+      ]
     }
   ]
 }

@@ -1,0 +1,69 @@
+{
+  "subject": "chemistry",
+  "lesson": 27,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 27: Aldehydes, Ketones and Carboxylic Acids — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Aldehydes and ketones"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Carbonyl compounds contain the >C=O group (sp² carbon, polar, planar). Aldehydes (R–CHO) and ketones (R–CO–R'). Preparation of aldehydes: oxidation of primary alcohols (PCC), dehydrogenation, Rosenmund reduction of acid chlorides (H2/Pd–BaSO4), Stephen reaction (RCN + SnCl2/HCl then H2O) and ozonolysis of alkenes; ketones: oxidation of secondary alcohols, hydration of alkynes, Friedel–Crafts acylation, and Grignard reagent with nitriles. Reactions: nucleophilic addition (HCN gives cyanohydrin, NaHSO3 gives bisulphite compound, alcohols give hemiacetal/acetal; aldehydes are more reactive than ketones due to less steric hindrance and greater positive charge on carbon), addition–elimination with ammonia derivatives (NH2OH gives oxime, NH2NH2 hydrazone, 2,4-DNP gives red-orange precipitate, semicarbazide gives semicarbazone), reduction to alcohols (NaBH4, LiAlH4), Clemmensen reduction (Zn–Hg/conc. HCl) and Wolff–Kishner reduction (NH2NH2/KOH, ethylene glycol) to alkanes: C=O → CH2. Aldehydes with α-hydrogen undergo aldol condensation in dilute alkali (2CH3CHO → CH3CH(OH)CH2CHO, 3-hydroxybutanal, which on heating gives but-2-enal); aldehydes without α-hydrogen (HCHO, benzaldehyde) undergo Cannizzaro reaction in conc. alkali (2HCHO + NaOH → CH3OH + HCOONa). Tests: aldehydes reduce Tollens' reagent (silver mirror) and Fehling's solution (red Cu2O) and give a pink colour with Schiff's reagent, whereas ketones do not; methyl ketones and ethanal give the iodoform test (yellow CHI3)."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Carboxylic acids"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Carboxylic acids (R–COOH) have the carboxyl group; they form hydrogen-bonded dimers and have high boiling points; the solubility of lower acids in water decreases with chain length (HCOOH > CH3COOH > ... ; aromatic acids are poorly soluble). Preparation: oxidation of primary alcohols and aldehydes, hydrolysis of nitriles and amides, carboxylation of Grignard reagents, and oxidation of alkylbenzenes by alkaline KMnO4 (toluene → benzoic acid). Acidity: the carboxylate ion is stabilised by resonance, so pKa is about 4–5; electron-withdrawing groups (–Cl, –NO2) increase acidity (ClCH2COOH > CH3COOH; HCOOH > CH3COOH). Reactions: salt formation (with NaHCO3 gives CO2 effervescence – test for acids), esterification (RCOOH + R'OH ⇌ RCOOR' + H2O, conc. H2SO4), acid chlorides (with SOCl2, PCl5), acid anhydrides (heating two molecules with P2O5, or acid chloride + sodium carboxylate: 2CH3COOH + P2O5 → (CH3CO)2O), amides (with NH3 then heat), reduction with LiAlH4 to primary alcohols, decarboxylation (soda lime gives alkane), and the Hell–Volhard–Zelinsky (HVZ) reaction – α-halogenation using Cl2 or Br2/red P: CH3COOH → ClCH2COOH."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Uses"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Methanal (formalin, 37–40% aqueous) preserves biological specimens and makes bakelite; ethanal is used for acetic acid and drugs; acetone is a solvent; benzaldehyde is used in perfumes; formic acid in leather and rubber industry; acetic acid (vinegar, 5–8%) in food and as a solvent; benzoic acid as a food preservative; long-chain acids as soaps."
+        ]
+      ]
+    }
+  ]
+}

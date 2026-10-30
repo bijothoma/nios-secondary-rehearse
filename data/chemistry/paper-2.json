@@ -1,0 +1,487 @@
+{
+  "subject": "chemistry",
+  "lesson": 902,
+  "title": "Model Question Paper 2",
+  "meta": "Time: 3 hours · Maximum marks: 80 · Modelled on the April 2026 NIOS paper",
+  "instructions": [
+    "All questions are compulsory. Where a question has OR, answer either one.",
+    "MCQs carry 1 mark; objective questions carry 2 marks (two parts of 1 mark each); very short answers carry 2 marks (30–50 words); short answers 3 marks (50–80 words); long answers 5 marks (80–120 words).",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "16 × 1 = 16",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "The number of moles in 88 g of CO2 (molar mass 44 g mol^-1) is —",
+          "options": [
+            "2",
+            "1",
+            "4",
+            "0.5"
+          ],
+          "answer": "A",
+          "note": "Lesson 1."
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "The electronic configuration of chromium (Z = 24) is —",
+          "options": [
+            "[Ar] 3d5 4s1",
+            "[Ar] 3d4 4s2",
+            "[Ar] 3d6",
+            "[Ar] 4s2 4p4"
+          ],
+          "answer": "A",
+          "note": "Lesson 2."
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "The number of π bonds in ethyne (HC≡CH) is —",
+          "options": [
+            "2",
+            "1",
+            "3",
+            "0"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 4."
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "The osmotic pressure of a solution is given by —",
+          "options": [
+            "π = CRT",
+            "π = C/RT",
+            "π = RT/C",
+            "π = CR/T"
+          ],
+          "answer": "A",
+          "note": "Lesson 7."
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "For an endothermic reaction ΔH is —",
+          "options": [
+            "positive",
+            "negative",
+            "zero",
+            "equal to ΔU"
+          ],
+          "answer": "A",
+          "note": "Lesson 9."
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "The conjugate acid of NH3 is —",
+          "options": [
+            "NH4+",
+            "NH2−",
+            "N2H4",
+            "OH−"
+          ],
+          "answer": "A",
+          "note": "Lesson 12."
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "Rusting of iron is prevented by coating with zinc; the process is called —",
+          "options": [
+            "galvanisation",
+            "electroplating with nickel",
+            "vulcanisation",
+            "roasting"
+          ],
+          "answer": "A",
+          "note": "Lesson 13."
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "[Ni(CN)4]^2− has the geometry —",
+          "options": [
+            "square planar",
+            "tetrahedral",
+            "octahedral",
+            "linear"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 22."
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "Hyperconjugation involves —",
+          "options": [
+            "delocalisation of σ electrons of C–H",
+            "delocalisation of π electrons only",
+            "movement of lone pairs only",
+            "polarisation of a bond by reagent"
+          ],
+          "answer": "A",
+          "note": "Lesson 23."
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "Calcium carbide on reaction with water gives —",
+          "options": [
+            "ethyne",
+            "ethene",
+            "methane",
+            "ethane"
+          ],
+          "answer": "A",
+          "note": "Lesson 24."
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "The haloalkane with the highest boiling point is —",
+          "options": [
+            "CH3CH2I",
+            "CH3CH2Br",
+            "CH3CH2Cl",
+            "CH3CH2F"
+          ],
+          "answer": "A",
+          "note": "Lesson 25."
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "Cumene process gives phenol and —",
+          "options": [
+            "acetone",
+            "ethanol",
+            "formaldehyde",
+            "benzene"
+          ],
+          "answer": "A",
+          "note": "Lesson 26."
+        },
+        {
+          "id": "1.13",
+          "type": "mcq",
+          "q": "Which of the following acids is most soluble in water?",
+          "options": [
+            "HCOOH",
+            "CH3(CH2)3COOH",
+            "p-ClC6H4COOH",
+            "C6H5COOH"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 27."
+        },
+        {
+          "id": "1.14",
+          "type": "mcq",
+          "q": "Diazotisation of aniline is carried out at —",
+          "options": [
+            "273–278 K",
+            "373 K",
+            "298 K",
+            "above 400 K"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 28."
+        },
+        {
+          "id": "1.15",
+          "type": "mcq",
+          "q": "Oxytocin is a hormone which brings about —",
+          "options": [
+            "contraction of the uterus (childbirth) and milk ejection",
+            "lowering of blood sugar",
+            "growth of bones",
+            "increase in metabolic rate"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2024"
+          ],
+          "note": "Lesson 29."
+        },
+        {
+          "id": "1.16",
+          "type": "mcq",
+          "q": "Natural rubber is a polymer of —",
+          "options": [
+            "isoprene",
+            "butadiene",
+            "chloroprene",
+            "styrene"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 31."
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark.",
+      "marks": "12 × 2 = 24",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "Find the number of moles: (a) in 36 g of water (b) in 11.2 L of N2 at STP.",
+          "answer": "(a) Molar mass of H2O = 18 g, so 36/18 = 2 mol.\n(b) 11.2/22.4 = 0.5 mol.",
+          "note": "Lesson 1."
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Write the values of (a) l for a d orbital and (b) the number of values of m_l for l = 2.",
+          "answer": "(a) l = 2. (b) m_l = −2, −1, 0, +1, +2: five values.",
+          "note": "Lesson 2."
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "Calculate the bond order of (a) H2 and (b) He2.",
+          "answer": "(a) H2: (2 − 0)/2 = 1. (b) He2: (2 − 2)/2 = 0 – does not exist.",
+          "note": "Lesson 4."
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Fill in: (a) The molar concentration of solute particles is related to osmotic pressure by π = ______. (b) A solution with positive deviation has ΔH_mix ______ than zero.",
+          "answer": "(a) CRT (i.e. π = nRT/V). (b) greater.",
+          "note": "Lesson 7."
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "(a) Write the Gibbs–Helmholtz equation. (b) What is the sign of ΔG for a spontaneous reaction?",
+          "answer": "(a) ΔG = ΔH − TΔS. (b) Negative.",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 9."
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "Fill in: (a) The pH of pure water at 298 K is ______. (b) pH + pOH = ______.",
+          "answer": "(a) 7. (b) 14.",
+          "note": "Lesson 12."
+        },
+        {
+          "id": "2.7",
+          "type": "open",
+          "q": "Identify (a) the class of (CH3)3CBr and (b) the favoured mechanism.",
+          "answer": "(a) Tertiary haloalkane. (b) SN1.",
+          "note": "Lesson 25."
+        },
+        {
+          "id": "2.8",
+          "type": "open",
+          "q": "Name (a) the starting material for cumene process and (b) the by-product.",
+          "answer": "(a) Cumene (isopropylbenzene). (b) Acetone.",
+          "note": "Lesson 26."
+        },
+        {
+          "id": "2.9",
+          "type": "open",
+          "q": "(a) Write the reagent for Clemmensen reduction. (b) What is the product when acetone undergoes it?",
+          "answer": "(a) Zinc amalgam and concentrated HCl (Zn–Hg/conc. HCl). (b) Propane (CH3COCH3 → CH3CH2CH3).",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 27."
+        },
+        {
+          "id": "2.10",
+          "type": "open",
+          "q": "(a) Write the equation for the preparation of iodobenzene from the diazonium salt. (b) Why is Cu not required here?",
+          "answer": "(a) C6H5N2+Cl− + KI → C6H5I + N2 + KCl. (b) Iodide is a good nucleophile and displaces N2 directly.",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 28."
+        },
+        {
+          "id": "2.11",
+          "type": "open",
+          "q": "Fill in: (a) A zwitterion has a ______ charge overall. (b) The vitamin deficient in rickets is ______.",
+          "answer": "(a) zero (net neutral). (b) vitamin D.",
+          "note": "Lesson 29."
+        },
+        {
+          "id": "2.12",
+          "type": "open",
+          "q": "Fill in: (a) The salt added to separate soap from the reaction mixture is ______. (b) The by-product of saponification is ______.",
+          "answer": "(a) sodium chloride (salting out). (b) glycerol.",
+          "note": "Lesson 31."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "9 × 2 = 18",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "What is an atomic mass unit (amu)?",
+          "answer": "It is exactly 1/12 of the mass of one carbon-12 atom, equal to 1.66 × 10^-27 kg. Atomic masses are expressed relative to it.",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 1."
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "What are isoelectronic species? Give two examples.",
+          "answer": "Species having the same number of electrons. Examples: Na+, Mg2+ and Ne (10 electrons each); also Cl− and Ar (18 electrons).",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 2."
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "What is meant by bond order? Calculate it for N2.",
+          "answer": "Bond order = ½(number of bonding electrons − number of antibonding electrons). N2 has 10 bonding and 4 antibonding electrons: (10 − 4)/2 = 3.",
+          "note": "Lesson 4."
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "What is meant by relative lowering of vapour pressure? Write the relation with mole fraction.",
+          "answer": "(p° − p)/p° is the relative lowering of vapour pressure; it equals the mole fraction of the non-volatile solute, x_B.",
+          "note": "Lesson 7."
+        },
+        {
+          "id": "3.5",
+          "type": "open",
+          "q": "What is entropy? Predict its sign for the evaporation of water.",
+          "answer": "Entropy is a measure of the randomness or disorder of a system. On evaporation, disorder increases, so ΔS is positive.",
+          "note": "Lesson 9."
+        },
+        {
+          "id": "3.6",
+          "type": "open",
+          "q": "Why is carboxylic acid more acidic than phenol?",
+          "answer": "The carboxylate ion is stabilised by resonance with the negative charge shared equally between two electronegative oxygens, whereas in the phenoxide ion the charge is spread onto less electronegative carbons.",
+          "note": "Lesson 27."
+        },
+        {
+          "id": "3.7",
+          "type": "open",
+          "q": "How can primary, secondary and tertiary amines be distinguished by Hinsberg's reagent?",
+          "answer": "Benzenesulphonyl chloride gives with 1° amine a sulphonamide soluble in alkali; with 2° amine an insoluble sulphonamide; and no reaction with 3° amines.",
+          "note": "Lesson 28."
+        },
+        {
+          "id": "3.8",
+          "type": "open",
+          "q": "What are hormones? How are they transported?",
+          "answer": "Chemical messengers secreted by endocrine glands directly into the blood; they are carried by the blood to the target organs where they produce specific effects.",
+          "years": [
+            "October 2024"
+          ],
+          "note": "Lesson 29."
+        },
+        {
+          "id": "3.9",
+          "type": "open",
+          "q": "Differentiate between natural rubber and vulcanised rubber.",
+          "answer": "Natural rubber is soft, sticky and weak, with cis-polyisoprene chains; vulcanised rubber is heated with sulphur, which cross-links the chains, giving hardness, elasticity and resistance to heat and solvents.",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 31."
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "4 × 3 = 12",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "A compound contains 40% carbon, 6.7% hydrogen and 53.3% oxygen. Find its empirical formula. (C = 12, H = 1, O = 16)",
+          "answer": "Moles: C = 40/12 = 3.33; H = 6.7/1 = 6.7; O = 53.3/16 = 3.33.\nDividing by 3.33: C : H : O = 1 : 2 : 1.\nEmpirical formula = CH2O.",
+          "note": "Lesson 1."
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "Calculate the molar mass of K2SO4 if a solution of 2.5 g of it in 100 mL has an osmotic pressure of 10.6 atm at 300 K, assuming complete dissociation (R = 0.0821 L atm K^-1 mol^-1).",
+          "answer": "With complete dissociation i = 3 and π = i (w/M)(RT/V).\nM = i w R T / (π V) = 3 × 2.5 × 0.0821 × 300 / (10.6 × 0.1)\n= 184.7 / 1.06 = 174 g mol^-1.",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 7."
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "Calculate the standard Gibbs energy change and equilibrium constant of Zn + Cu^2+ → Zn^2+ + Cu (E°cell = 1.10 V, n = 2, F = 96500 C mol^-1).",
+          "answer": "ΔG° = −nFE° = −2 × 96500 × 1.10 = −212300 J = −212.3 kJ mol^-1.\nlog K = nE°/0.059 = 2 × 1.10/0.059 = 37.3, so K = 2 × 10^37.",
+          "note": "Lesson 13."
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "How is hydrogen chloride prepared in the laboratory? Why is it called a strong acid?",
+          "answer": "NaCl + H2SO4 (conc.) → NaHSO4 + HCl at 420 K (and at higher temperature Na2SO4). In water it ionises completely: HCl + H2O → H3O+ + Cl−, hence a strong acid.",
+          "note": "Lesson 20."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Long answer questions. Answer in 80–120 words.",
+      "marks": "2 × 5 = 10",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "(a) Define Gibbs energy. (b) Write the conditions of spontaneity. (c) For a reaction ΔH = −40 kJ and ΔS = −100 J K^-1 find the temperature below which it is spontaneous.",
+          "answer": "(a) G = H − TS, the maximum useful (non-expansion) work obtainable from a process at constant T and p.\n(b) ΔG < 0 spontaneous; ΔG = 0 equilibrium; ΔG > 0 non-spontaneous.\n(c) ΔG = ΔH − TΔS = 0 at T = ΔH/ΔS = −40000/−100 = 400 K; below 400 K, ΔG is negative, so the reaction is spontaneous.",
+          "note": "Lesson 9."
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "(a) Explain why BaSO4 is insoluble but MgSO4 soluble. (b) State the uses of quicklime and slaked lime. (c) Write three biological roles of calcium and magnesium.",
+          "answer": "(a) The hydration enthalpy of the small Mg^2+ exceeds the lattice enthalpy and the salt dissolves, whereas for the large Ba^2+ the lattice enthalpy exceeds hydration enthalpy.\n(b) Quicklime: in making cement, glass and steel as flux, drying agent; slaked lime: whitewash, softening of water and mortar.\n(c) Ca^2+ in bones and teeth, blood clotting, muscle contraction; Mg^2+ in chlorophyll and enzyme action.",
+          "note": "Lesson 17."
+        }
+      ]
+    }
+  ]
+}

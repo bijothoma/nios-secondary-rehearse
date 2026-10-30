@@ -1,0 +1,393 @@
+{
+  "subject": "chemistry",
+  "lesson": 12,
+  "title": "Ionic Equilibrium",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "12 × 1 = 12",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "The extent of ionisation of a weak acid and its strength are —",
+          "options": [
+            "directly related to each other",
+            "inversely related",
+            "not related",
+            "exponentially related"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "The Brønsted–Lowry concept of acid and base is based on —",
+          "options": [
+            "donation and acceptance of a proton respectively",
+            "donation of H+ and OH− respectively",
+            "formation of H3O+ and OH−",
+            "acceptance and donation of protons respectively"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "The conjugate base of H2SO4 is —",
+          "options": [
+            "HSO4−",
+            "SO4^2−",
+            "H3SO4+",
+            "OH−"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "The pH of 0.01 M HCl is —",
+          "options": [
+            "2",
+            "1",
+            "12",
+            "7"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "An aqueous solution of NH4Cl is —",
+          "options": [
+            "acidic",
+            "basic",
+            "neutral",
+            "amphoteric"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "The unit of K_sp for AgCl is —",
+          "options": [
+            "mol² L^-2",
+            "mol L^-1",
+            "mol³ L^-3",
+            "L mol^-1"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "The pH of a solution with [OH−] = 10^-4 M is —",
+          "options": [
+            "10",
+            "4",
+            "7",
+            "14"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "Which of the following is an acidic buffer?",
+          "options": [
+            "CH3COOH + CH3COONa",
+            "NH4OH + NH4Cl",
+            "NaCl + HCl",
+            "NaOH + NaCl"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "The Lewis acid among the following is —",
+          "options": [
+            "BF3",
+            "NH3",
+            "OH−",
+            "H2O"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "Which of the following salts gives a basic solution on hydrolysis?",
+          "options": [
+            "CH3COONa",
+            "NaCl",
+            "NH4Cl",
+            "KNO3"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "The conjugate acid of NH3 is —",
+          "options": [
+            "NH4+",
+            "NH2−",
+            "N2H4",
+            "OH−"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "K_w at 298 K is —",
+          "options": [
+            "1 × 10^-14",
+            "1 × 10^-7",
+            "1 × 10^14",
+            "1 × 10^-1"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark.",
+      "marks": "8 × 2 = 16",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "(a) Define Brønsted–Lowry acid. (b) Write the conjugate base of H2O.",
+          "answer": "(a) A substance that donates a proton (H+). (b) OH−.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Identify the conjugate acid–base pairs in: NH3 + H2O ⇌ NH4+ + OH−.",
+          "answer": "NH3 (base) and NH4+ (its conjugate acid); H2O (acid) and OH− (its conjugate base).",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "State true or false: (a) The pH of a neutral solution at 298 K is 7. (b) The solubility product of a salt changes with the concentration of the ions.",
+          "answer": "(a) True. (b) False – K_sp depends only on temperature.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Write the K_sp expression for (a) AgCl (b) CaF2.",
+          "answer": "(a) K_sp = [Ag+][Cl−]. (b) K_sp = [Ca^2+][F−]^2.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "Fill in: (a) The pH of pure water at 298 K is ______. (b) pH + pOH = ______.",
+          "answer": "(a) 7. (b) 14."
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "Match: (a) Strong acid (b) Weak base (c) Acidic buffer with (i) NH4OH (ii) HCl (iii) CH3COOH + CH3COONa.",
+          "answer": "(a)-(ii); (b)-(i); (c)-(iii)."
+        },
+        {
+          "id": "2.7",
+          "type": "open",
+          "q": "Complete: (a) The salt of a weak acid and a strong base gives a ______ solution. (b) The common ion effect ______ the ionisation of a weak electrolyte.",
+          "answer": "(a) basic. (b) suppresses (decreases)."
+        },
+        {
+          "id": "2.8",
+          "type": "open",
+          "q": "Write (a) the relationship between K_a and K_b of a conjugate pair and (b) the Henderson equation for an acidic buffer.",
+          "answer": "(a) K_a × K_b = K_w. (b) pH = pK_a + log([salt]/[acid])."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "8 × 2 = 16",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "What is a conjugate acid–base pair? Write the conjugate acid of a basic buffer's weak base NH3 and the conjugate base of HCl.",
+          "answer": "A pair of species that differ by one proton. The conjugate acid of NH3 is NH4+; the conjugate base of HCl is Cl−.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "What is a basic buffer? Give an example and explain how it works.",
+          "answer": "A solution of a weak base and its salt with a strong acid (NH4OH + NH4Cl). On adding acid, OH− of the base neutralises it; on adding base, NH4+ neutralises OH−, so the pH changes little.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "Why is H2SO3 called a diprotic acid? Which of K1 and K2 is larger?",
+          "answer": "It can donate two protons: H2SO3 ⇌ H+ + HSO3− (K1); HSO3− ⇌ H+ + SO3^2− (K2). K1 is larger because removing a proton from a negative ion is more difficult.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "Define the solubility product. Write its expression for Ag2CrO4.",
+          "answer": "The product of the molar concentrations of the ions of a sparingly soluble salt in a saturated solution, each raised to the power of its coefficient. K_sp = [Ag+]²[CrO4^2−].",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "3.5",
+          "type": "open",
+          "q": "Why is an aqueous solution of NH4Cl acidic?",
+          "answer": "NH4+ ions hydrolyse: NH4+ + H2O ⇌ NH3 + H3O+, producing H3O+ ions, while Cl− does not react with water.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "3.6",
+          "type": "open",
+          "q": "State Ostwald's dilution law.",
+          "answer": "The degree of ionisation of a weak electrolyte increases on dilution; α = √(K_a/C), where C is the concentration."
+        },
+        {
+          "id": "3.7",
+          "type": "open",
+          "q": "Calculate the pH of 0.001 M NaOH.",
+          "answer": "[OH−] = 10^-3, pOH = 3, pH = 14 − 3 = 11."
+        },
+        {
+          "id": "3.8",
+          "type": "open",
+          "q": "What is the common ion effect? Give an example.",
+          "answer": "Suppression of ionisation of a weak electrolyte by adding a strong electrolyte with a common ion; e.g. adding NH4Cl to NH4OH reduces [OH−]."
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "6 × 3 = 18",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "The solubility of silver chloride is 1.3 × 10^-5 mol L^-1. Calculate its solubility product.",
+          "answer": "AgCl ⇌ Ag+ + Cl−; [Ag+] = [Cl−] = s = 1.3 × 10^-5.\nK_sp = s² = (1.3 × 10^-5)² = 1.69 × 10^-10 mol² L^-2.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "Write the two steps of ionisation of H2CO3 with K1 and K2. Which is larger and why? Compare the strengths of the two steps.",
+          "answer": "H2CO3 ⇌ H+ + HCO3− (K1 = 4.3 × 10^-7); HCO3− ⇌ H+ + CO3^2− (K2 = 4.7 × 10^-11). K1 > K2 because the second proton leaves a negatively charged ion, which holds H+ more strongly; so the first step is stronger as an acid.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "Calculate the pH of a buffer containing 0.1 M CH3COOH and 0.1 M CH3COONa (pK_a = 4.76). What is the pH after adding 0.01 M NaOH?",
+          "answer": "pH = pK_a + log([salt]/[acid]) = 4.76 + log(0.1/0.1) = 4.76.\nAfter NaOH: [acid] = 0.09, [salt] = 0.11; pH = 4.76 + log(0.11/0.09) = 4.76 + 0.087 = 4.85."
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "Explain hydrolysis of salts with examples of acidic, basic and neutral salts.",
+          "answer": "Hydrolysis is the reaction of the ions of a salt with water. NH4Cl (strong acid + weak base) gives an acidic solution; CH3COONa (weak acid + strong base) gives a basic solution; NaCl (strong acid + strong base) is neutral as neither ion hydrolyses."
+        },
+        {
+          "id": "4.5",
+          "type": "open",
+          "q": "Calculate the pH of 0.1 M acetic acid (K_a = 1.8 × 10^-5).",
+          "answer": "[H+] = √(K_a C) = √(1.8 × 10^-5 × 0.1) = √(1.8 × 10^-6) = 1.34 × 10^-3 M.\npH = −log(1.34 × 10^-3) = 2.87."
+        },
+        {
+          "id": "4.6",
+          "type": "open",
+          "q": "Explain the Lewis concept of acids and bases with examples.",
+          "answer": "A Lewis acid accepts an electron pair (BF3, AlCl3, H+); a Lewis base donates an electron pair (NH3, OH−, H2O). Their reaction forms a coordinate bond: BF3 + :NH3 → F3B←NH3."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Long answer questions. Answer in 80–120 words.",
+      "marks": "4 × 5 = 20",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "(a) State Ostwald's dilution law for a weak acid. (b) Calculate the degree of ionisation of 0.01 M CH3COOH (K_a = 1.8 × 10^-5). (c) Why does α increase on dilution?",
+          "answer": "(a) For HA ⇌ H+ + A−, K_a = Cα²/(1 − α) ≈ Cα², so α = √(K_a/C).\n(b) α = √(1.8 × 10^-5 / 0.01) = √(1.8 × 10^-3) = 0.0424 (4.24%).\n(c) As C decreases, α = √(K_a/C) increases; ions meet less often, so more ionisation occurs."
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "(a) What is a buffer solution? Name its types with an example. (b) Derive the Henderson equation. (c) Explain how an acidic buffer resists pH change.",
+          "answer": "(a) A solution that resists change in pH on adding small amounts of acid or base; acidic buffer (CH3COOH + CH3COONa) and basic buffer (NH4OH + NH4Cl).\n(b) K_a = [H+][A−]/[HA] → [H+] = K_a[HA]/[A−] → pH = pK_a + log([A−]/[HA]) = pK_a + log([salt]/[acid]).\n(c) Added H+ reacts with CH3COO− to form CH3COOH; added OH− reacts with CH3COOH to form CH3COO− and water; the ratio salt/acid hardly changes."
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "(a) Define the solubility product and its relation to solubility for AB, AB2 and A2B3 type salts. (b) The K_sp of Mg(OH)2 is 1.2 × 10^-11; find its solubility. (c) State the condition for precipitation.",
+          "answer": "(a) K_sp = ionic product in a saturated solution; AB: K_sp = s²; AB2: K_sp = 4s³; A2B3: K_sp = 108s⁵.\n(b) Mg(OH)2 ⇌ Mg^2+ + 2OH−; K_sp = s(2s)² = 4s³, so s³ = 1.2 × 10^-11/4 = 3 × 10^-12 and s = 1.44 × 10^-4 mol L^-1.\n(c) A precipitate forms when the ionic product exceeds K_sp."
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "Explain the Brønsted–Lowry theory with the conjugate pairs. Define amphoteric species and write the conjugate acid and base of HCO3−. Calculate pH of 0.05 M H2SO4 (assume complete ionisation).",
+          "answer": "Acids donate protons and bases accept them; every acid HA gives a conjugate base A−, every base B a conjugate acid BH+; strong acids have weak conjugate bases.\nAmphoteric species can act as both acid and base (H2O, HCO3−). Conjugate acid of HCO3− is H2CO3 and its conjugate base is CO3^2−.\n[H+] = 2 × 0.05 = 0.1 M, pH = 1."
+        }
+      ]
+    }
+  ]
+}

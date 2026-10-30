@@ -1,0 +1,69 @@
+{
+  "subject": "chemistry",
+  "lesson": 24,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 24: Hydrocarbons — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Alkanes"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Alkanes (CnH2n+2) are saturated hydrocarbons with only C–C and C–H σ bonds (sp³ carbon, tetrahedral, bond angle 109.5°). Preparation: hydrogenation of alkenes and alkynes (Sabatier–Senderens, Ni at 473 K), Wurtz reaction (2R–X + 2Na → R–R + 2NaX in dry ether), decarboxylation (RCOONa + NaOH/CaO → R–H + Na2CO3), Kolbe's electrolysis and reduction of haloalkanes. Properties: non-polar, low reactivity (paraffins); combustion (CH4 + 2O2 → CO2 + 2H2O); halogenation – a free-radical substitution with Cl2 in sunlight (initiation, propagation, termination), the reactivity order of H being 3° > 2° > 1° and Cl2 > Br2 (F2 explosive, I2 does not react); nitration, pyrolysis (cracking) of alkanes at high temperature gives lower alkanes and alkenes; conformations of ethane: staggered (more stable) and eclipsed (torsional strain)."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Alkenes and alkynes"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Alkenes (CnH2n) have a C=C (sp², planar, 120°; one σ and one π bond). Preparation: dehydration of alcohols (conc. H2SO4 at 443 K), dehydrohalogenation of haloalkanes with alc. KOH (Saytzeff's rule: the more substituted alkene is the major product), partial hydrogenation of alkynes (Lindlar's catalyst gives cis-alkene; Na/liquid NH3 gives trans). Properties: electrophilic addition of H2, X2 (bromine water test), HX (Markovnikov's rule: the hydrogen adds to the carbon already having more hydrogens; anti-Markovnikov addition of HBr in the presence of a peroxide – Kharasch effect), H2O/H+ (hydration), cold dilute alkaline KMnO4 (Baeyer's reagent) gives a vicinal diol (glycol) with decolourisation of the purple colour, ozonolysis (O3, then Zn/H2O) gives aldehydes or ketones (ethene gives 2 HCHO), and polymerisation (polythene). Alkynes (CnH2n−2, C≡C: one σ and two π bonds, sp, linear 180°): ethyne is prepared from calcium carbide (CaC2 + 2H2O → C2H2 + Ca(OH)2); terminal alkynes are acidic (they form red precipitate with ammoniacal Cu2Cl2 and white precipitate with ammoniacal AgNO3 – Tollens' reagent); addition of H2O with HgSO4/H2SO4 gives acetaldehyde (propyne gives acetone); polymerisation gives benzene (red-hot iron tube, 873 K)."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Aromatic hydrocarbons"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Benzene (C6H6) is a planar hexagon with sp² carbons, six delocalised π electrons (Hückel's 4n + 2 rule, n = 1) and resonance energy about 150 kJ mol^-1, so all C–C bonds are 139 pm long. It is prepared by trimerisation of ethyne, decarboxylation of sodium benzoate and from coal tar. It undergoes electrophilic substitution (nitration with conc. HNO3 + conc. H2SO4 gives nitrobenzene; sulphonation; halogenation with Cl2/FeCl3; Friedel–Crafts alkylation and acylation with AlCl3) and addition only under drastic conditions (hydrogenation to cyclohexane, chlorination in sunlight to C6H6Cl6). Directing effects: –OH, –NH2, –CH3, –X are ortho/para directing (activating, except halogens deactivating); –NO2, –CHO, –COOH, –CN are meta directing (deactivating). Toluene on oxidation with alkaline KMnO4 gives benzoic acid."
+        ]
+      ]
+    }
+  ]
+}

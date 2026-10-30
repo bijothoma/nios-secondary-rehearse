@@ -1,0 +1,69 @@
+{
+  "subject": "chemistry",
+  "lesson": 20,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 20: p-Block Elements and Their Compounds – II — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Group 16 – oxygen family"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "O, S, Se, Te, Po (ns² np⁴) are the chalcogens. Oxygen is a gas (O2, diatomic) while sulphur is a solid with S8 rings; oxygen forms strong pπ–pπ double bonds. Ozone (O3) is a bent molecule (117°) prepared by passing silent electric discharge through dry O2 (3O2 ⇌ 2O3, ΔH positive); it is a powerful oxidising agent (PbS + 4O3 → PbSO4 + 4O2; 2KI + O3 + H2O → 2KOH + I2 + O2) and it makes mercury lose its meniscus (tailing of mercury: it forms Hg2O which sticks to the glass). The ozone layer in the stratosphere absorbs UV radiation; CFCs deplete it. Sulphur allotropes: rhombic (α, stable below 369 K) and monoclinic (β). Sulphur dioxide SO2 (S + O2 → SO2 or 4FeS2 + 11O2 → 2Fe2O3 + 8SO2) is a colourless, pungent, acidic gas; it is a reducing agent (decolourises acidified KMnO4, reduces Fe^3+ to Fe^2+, bleaches by reduction) and is used for bleaching and making H2SO4. Sulphuric acid is manufactured by the Contact process: S → SO2 → SO3 (V2O5 catalyst, 673–723 K, 2 bar) → H2S2O7 (oleum, in conc. H2SO4) → H2SO4. Conc. H2SO4 is a strong dehydrating agent (turns blue CuSO4·5H2O white, chars sugar), an oxidising agent, and has a low volatility (NaCl + conc. H2SO4 → NaHSO4 + HCl)."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Group 17 – halogens"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "F, Cl, Br, I, At (ns² np⁵) are the most reactive non-metals; F2 is the strongest oxidising agent, with oxidising power F2 > Cl2 > Br2 > I2; fluorine shows only −1 while others show +1, +3, +5, +7 (in oxoacids and interhalogens). Chlorine is prepared by MnO2 + 4HCl → MnCl2 + Cl2 + 2H2O or the Deacon process, and bleaches by oxidation. HCl is prepared from NaCl and conc. H2SO4 at 420 K; it is a strong acid; aqua regia (3 HCl : 1 HNO3) dissolves gold and platinum. Interhalogens (ClF, ClF3, BrF5, IF7) are more reactive than the halogens (except F2). Oxoacids: HOCl < HClO2 < HClO3 < HClO4 (acid strength increases with oxidation state of Cl)."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Group 18 – noble gases"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "He, Ne, Ar, Kr, Xe, Rn have completely filled ns² np⁶ shells (He 1s²), very high ionisation enthalpies and positive electron gain enthalpies, so they are very unreactive. Xenon forms compounds with fluorine and oxygen: Xe + F2 → XeF2 (Xe in excess F2 at 673 K), XeF4 (1:5, 873 K) and XeF6 (1:20, 573 K, 60–70 atm). Hydrolysis: XeF6 + 3H2O → XeO3 + 6HF; XeF6 + 2H2O → XeOF4 + 2HF (partial); 6XeF4 + 12H2O → 4Xe + 2XeO3 + 24HF + 3O2. Shapes: XeF2 linear, XeF4 square planar, XeF6 distorted octahedral, XeO3 trigonal pyramidal, XeOF4 square pyramidal. Uses: He in balloons and diving gas mixtures, Ne in discharge tubes, Ar in welding and bulbs, Kr/Xe in lamps."
+        ]
+      ]
+    }
+  ]
+}

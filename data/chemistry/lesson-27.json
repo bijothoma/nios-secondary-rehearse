@@ -1,0 +1,414 @@
+{
+  "subject": "chemistry",
+  "lesson": 27,
+  "title": "Aldehydes, Ketones and Carboxylic Acids",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "12 × 1 = 12",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "The Clemmensen reduction converts a carbonyl compound to —",
+          "options": [
+            "an alkane",
+            "an alcohol",
+            "an alkene",
+            "a carboxylic acid"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "Ethanoic acid heated with P2O5 gives —",
+          "options": [
+            "ethanoic anhydride",
+            "ethyl ethanoate",
+            "ethanal",
+            "ethanol"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "An acid reacts with an alcohol in the presence of conc. H2SO4 to give —",
+          "options": [
+            "an ester",
+            "an ether",
+            "an aldehyde",
+            "a ketone"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "The compound which gives the Cannizzaro reaction is —",
+          "options": [
+            "methanal",
+            "ethanal",
+            "propanone",
+            "ethanol"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "In the HVZ reaction, halogenation occurs at the —",
+          "options": [
+            "α-carbon of the carboxylic acid",
+            "carboxyl carbon",
+            "β-carbon",
+            "oxygen"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "Benzoic acid is obtained by oxidation of toluene with —",
+          "options": [
+            "alkaline KMnO4",
+            "H2/Ni",
+            "LiAlH4",
+            "Zn–Hg/HCl"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "Which of the following gives a silver mirror with Tollens' reagent?",
+          "options": [
+            "Ethanal",
+            "Propanone",
+            "Ethanol",
+            "Benzene"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "Aldol condensation is shown by —",
+          "options": [
+            "ethanal",
+            "methanal",
+            "benzaldehyde",
+            "2,2-dimethylpropanal"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "The most acidic compound among the following is —",
+          "options": [
+            "ClCH2COOH",
+            "CH3COOH",
+            "CH3CH2COOH",
+            "C6H5OH"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "The reagent used for the Rosenmund reduction is —",
+          "options": [
+            "H2 / Pd–BaSO4",
+            "Zn–Hg / HCl",
+            "LiAlH4",
+            "NaBH4"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "The yellow precipitate in the iodoform test is of —",
+          "options": [
+            "CHI3",
+            "CHCl3",
+            "CH3I",
+            "CI4"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "Which of the following acids is most soluble in water?",
+          "options": [
+            "HCOOH",
+            "CH3(CH2)3COOH",
+            "p-ClC6H4COOH",
+            "C6H5COOH"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2025"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark.",
+      "marks": "8 × 2 = 16",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "(a) Write the reagent for Clemmensen reduction. (b) What is the product when acetone undergoes it?",
+          "answer": "(a) Zinc amalgam and concentrated HCl (Zn–Hg/conc. HCl). (b) Propane (CH3COCH3 → CH3CH2CH3).",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "(a) Write the equation for the formation of ethanoic anhydride from ethanoic acid. (b) Name the dehydrating agent.",
+          "answer": "(a) 2CH3COOH → (CH3CO)2O + H2O (with P2O5). (b) P2O5 (phosphorus pentoxide).",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "State true or false: (a) Benzoic acid can be prepared by oxidation of toluene with alkaline KMnO4. (b) In the HVZ reaction, carboxylic acids undergo halogenation at the α-carbon.",
+          "answer": "(a) True. (b) True.",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Write the products of (a) the reaction of ethanal with hydroxylamine (b) the Cannizzaro reaction of methanal.",
+          "answer": "(a) CH3CH=NOH (ethanal oxime) + H2O. (b) CH3OH + HCOONa.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "Fill in: (a) The product of aldol condensation of ethanal is ______. (b) Aldehydes reduce ______ reagent to silver.",
+          "answer": "(a) 3-hydroxybutanal. (b) Tollens'."
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "Match: (a) Fehling's test (b) Schiff's test (c) Iodoform test with (i) pink colour (ii) yellow ppt. (iii) red Cu2O.",
+          "answer": "(a)-(iii); (b)-(i); (c)-(ii)."
+        },
+        {
+          "id": "2.7",
+          "type": "open",
+          "q": "Name (a) the product of the reaction of ethanoic acid with NaHCO3 and (b) the gas evolved.",
+          "answer": "(a) Sodium ethanoate. (b) Carbon dioxide (brisk effervescence)."
+        },
+        {
+          "id": "2.8",
+          "type": "open",
+          "q": "Arrange in increasing acidity: (a) CH3COOH, HCOOH (b) CH3COOH, ClCH2COOH.",
+          "answer": "(a) CH3COOH < HCOOH. (b) CH3COOH < ClCH2COOH."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "8 × 2 = 16",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "Write the chemical equation for the Clemmensen reduction of propanone.",
+          "answer": "CH3COCH3 + 4[H] → CH3CH2CH3 + H2O (Zn–Hg, conc. HCl).",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "What reagents are used to prepare acid anhydrides from carboxylic acids? Write the equation for a symmetrical anhydride.",
+          "answer": "Dehydrating agents such as P2O5 or heating with acetyl chloride; 2CH3COOH → (CH3CO)2O + H2O (acetic anhydride).",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "Write the Hell–Volhard–Zelinsky reaction for ethanoic acid.",
+          "answer": "CH3COOH + Cl2 (red P) → ClCH2COOH + HCl (α-halogenation).",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "Write the equation of the aldol condensation of ethanal.",
+          "answer": "2CH3CHO → (dil. NaOH) CH3CH(OH)CH2CHO (3-hydroxybutanal); on heating → CH3CH=CHCHO + H2O.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "3.5",
+          "type": "open",
+          "q": "Distinguish between ethanal and propanone by one chemical test.",
+          "answer": "Ethanal gives a silver mirror with Tollens' reagent (or red ppt. with Fehling's); propanone does not.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "3.6",
+          "type": "open",
+          "q": "Write the Cannizzaro reaction of benzaldehyde.",
+          "answer": "2C6H5CHO + NaOH (conc.) → C6H5CH2OH + C6H5COONa (benzyl alcohol and sodium benzoate).",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "3.7",
+          "type": "open",
+          "q": "Why is carboxylic acid more acidic than phenol?",
+          "answer": "The carboxylate ion is stabilised by resonance with the negative charge shared equally between two electronegative oxygens, whereas in the phenoxide ion the charge is spread onto less electronegative carbons."
+        },
+        {
+          "id": "3.8",
+          "type": "open",
+          "q": "Why do carboxylic acids have higher boiling points than alcohols of similar mass?",
+          "answer": "They form stable hydrogen-bonded dimers (two H-bonds between two molecules) in addition to higher polarity."
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "6 × 3 = 18",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "Arrange the acids CH3COOH, HCOOH, p-ClC6H4COOH and CH3(CH2)3COOH in the increasing order of their solubility in water.",
+          "answer": "p-ClC6H4COOH < CH3(CH2)3COOH < CH3COOH < HCOOH. Solubility falls as the hydrocarbon part (and the aromatic ring) becomes larger because hydrogen bonding with water is outweighed by the hydrophobic part.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "Describe a chemical test to distinguish aldehydes from ketones with equations.",
+          "answer": "Tollens' test: RCHO + 2[Ag(NH3)2]+ + 3OH− → RCOO− + 2Ag↓ + 4NH3 + 2H2O (silver mirror); ketones do not react. Fehling's test: aldehyde gives red-brown Cu2O; ketones do not.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "Explain the nucleophilic addition of HCN to a carbonyl compound with the mechanism.",
+          "answer": "CN− attacks the electron-deficient carbonyl carbon to give an alkoxide, which takes H+ to give a cyanohydrin: CH3CHO + HCN → CH3CH(OH)CN. Aldehydes are more reactive than ketones because of less steric hindrance and a more positive carbon."
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "Write the reaction of acetic acid with (a) PCl5 (b) NH3 and heat (c) LiAlH4.",
+          "answer": "(a) CH3COOH + PCl5 → CH3COCl + POCl3 + HCl. (b) CH3COOH + NH3 → CH3COONH4 → (heat) CH3CONH2 + H2O. (c) CH3COOH → (LiAlH4) CH3CH2OH."
+        },
+        {
+          "id": "4.5",
+          "type": "open",
+          "q": "Explain the Wolff–Kishner reduction and compare it with the Clemmensen reduction.",
+          "answer": "Wolff–Kishner: the carbonyl compound forms a hydrazone with NH2NH2 which is heated with KOH in ethylene glycol to give the alkane (C=O → CH2). Clemmensen uses Zn–Hg/conc. HCl (acidic medium) and is unsuitable for acid-sensitive compounds, while Wolff–Kishner is in basic medium."
+        },
+        {
+          "id": "4.6",
+          "type": "open",
+          "q": "Explain the acidic strength of carboxylic acids with the effect of substituents.",
+          "answer": "The carboxylate is resonance stabilised, so acids are stronger than alcohols; electron-withdrawing groups (–Cl, –NO2) stabilise the anion and increase acidity (ClCH2COOH > CH3COOH), electron-donating alkyl groups decrease it (HCOOH > CH3COOH)."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Long answer questions. Answer in 80–120 words.",
+      "marks": "4 × 5 = 20",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "(a) Give the chemical equations for (i) Clemmensen reduction (ii) Hell–Volhard–Zelinsky reaction (iii) aldol condensation. (b) (i) Which reagents are used to prepare acid anhydrides from carboxylic acids? (ii) Write the equation for the formation of a symmetrical acid anhydride.",
+          "answer": "(a) (i) CH3COCH3 → (Zn–Hg, HCl) CH3CH2CH3. (ii) CH3COOH + Cl2 (red P) → ClCH2COOH + HCl. (iii) 2CH3CHO → (dil. NaOH) CH3CH(OH)CH2CHO.\n(b) (i) Dehydrating agents: P2O5 (or acid chloride with sodium carboxylate). (ii) 2CH3COOH → (CH3CO)2O + H2O with P2O5.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "(a) Distinguish between aldehydes and ketones by a chemical test and give equations. (b) Give the equations for (i) the formation of an oxime of an aldehyde (ii) the Cannizzaro reaction. (c) Arrange HCOOH, CH3COOH, CH3(CH2)3COOH in increasing order of water solubility.",
+          "answer": "(a) Tollens' reagent: RCHO + 2[Ag(NH3)2]+ + 3OH− → RCOO− + 2Ag + 4NH3 + 2H2O (ketones do not respond).\n(b) (i) CH3CHO + NH2OH → CH3CH=NOH + H2O. (ii) 2HCHO + NaOH → CH3OH + HCOONa.\n(c) CH3(CH2)3COOH < CH3COOH < HCOOH.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "(a) What is aldol condensation? Write the mechanism for ethanal. (b) State the conditions for the Cannizzaro reaction and compare it with aldol condensation.",
+          "answer": "(a) Aldehydes or ketones having α-hydrogen condense in dilute base to give β-hydroxy carbonyl compounds. Mechanism: OH− removes an α-H from CH3CHO to give the enolate −CH2CHO, which attacks the carbonyl carbon of another CH3CHO, forming CH3CH(O−)CH2CHO; protonation gives 3-hydroxybutanal, which dehydrates on heating to but-2-enal.\n(b) Cannizzaro: aldehydes without α-hydrogen (HCHO, C6H5CHO) with conc. NaOH – one molecule is oxidised to carboxylate and the other reduced to alcohol. Aldol needs α-hydrogen and dilute alkali."
+        },
+        {
+          "id": "5.4",
+          "type": "open",
+          "q": "(a) How is acetic anhydride prepared? (b) Describe the reactions of carboxylic acids: esterification, with NaHCO3, with PCl5 and decarboxylation. (c) Write one use each of formic acid and acetic acid.",
+          "answer": "(a) By heating acetic acid with P2O5 or from acetyl chloride and sodium acetate.\n(b) RCOOH + R'OH ⇌ RCOOR' + H2O (H2SO4); RCOOH + NaHCO3 → RCOONa + CO2 + H2O; RCOOH + PCl5 → RCOCl + POCl3 + HCl; RCOONa + NaOH (soda lime) → R–H + Na2CO3.\n(c) Formic acid in leather tanning and rubber coagulation; acetic acid as vinegar for food."
+        }
+      ]
+    }
+  ]
+}

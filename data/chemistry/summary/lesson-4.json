@@ -1,0 +1,69 @@
+{
+  "subject": "chemistry",
+  "lesson": 4,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 4: Chemical Bonding — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Types of bonds"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Atoms combine to attain a stable noble-gas (octet) configuration. Ionic (electrovalent) bond: transfer of electrons from a metal to a non-metal forming cation and anion held by electrostatic attraction (NaCl); favoured by low ionisation enthalpy, high electron gain enthalpy and high lattice enthalpy; ionic compounds are crystalline, hard, have high melting points and conduct when molten or dissolved. Covalent bond: sharing of electron pairs (single, double, triple) – Lewis structures; polar covalent bond has unequal sharing (dipole moment μ = q × d, in debye); coordinate bond: both shared electrons come from one atom (NH4+, H3O+). Formal charge = valence electrons − non-bonding electrons − ½ bonding electrons. Fajans' rules: a covalent character increases with small cation, large anion and high charge."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "VSEPR theory, VBT and hybridisation"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "VSEPR: electron pairs around the central atom repel each other and take positions of minimum repulsion; lone pair–lone pair > lone pair–bond pair > bond pair–bond pair. Shapes: 2 pairs – linear (BeCl2); 3 – trigonal planar (BF3); 4 – tetrahedral (CH4, 109.5°), trigonal pyramidal (NH3, 107°, one lone pair), bent (H2O, 104.5°, two lone pairs); 5 – trigonal bipyramidal (PCl5); 6 – octahedral (SF6). Valence bond theory: a covalent bond forms by overlap of half-filled atomic orbitals; sigma (σ) bond by head-on overlap (strong), pi (π) bond by sideways overlap of p orbitals (weaker). A single bond is one σ; a double bond is one σ + one π; a triple bond is one σ + two π. Hybridisation: mixing of orbitals of one atom: sp (linear, 180°; BeCl2, ethyne), sp2 (trigonal planar, 120°; BCl3, ethene) and sp3 (tetrahedral; CH4, NH3, H2O), sp3d (PCl5), sp3d2 (SF6)."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Molecular orbital theory and other ideas"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Atomic orbitals combine to form molecular orbitals (MOs): bonding (lower energy) and antibonding (higher energy). Bond order = ½(Nb − Na). Order of energy for O2, F2: σ1s < σ*1s < σ2s < σ*2s < σ2pz < π2px = π2py < π*2px = π*2py < σ*2pz (for B2, C2, N2 the π2p MOs lie below σ2pz). Stability increases with bond order; H2 (1), He2 (0, does not exist), N2 (3), O2 (2, paramagnetic with two unpaired electrons), Be2 (0, not formed), F2 (1). Hydrogen bonding (intermolecular in H2O, HF; intramolecular in o-nitrophenol) explains high boiling points; bond length decreases and bond energy increases with bond order; the bond strength of Cl–Cl is greater than that of F–F and Br–Br because of lone pair repulsion in the small F2."
+        ]
+      ]
+    }
+  ]
+}

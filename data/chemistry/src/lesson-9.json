@@ -1,0 +1,59 @@
+{
+ "lesson": 9, "title": "Chemical Thermodynamics", "module": 4,
+ "summary": [
+  "## System, state functions and the first law",
+  "A system is the part of the universe under study; the rest is the surroundings. Open systems exchange matter and energy, closed systems exchange only energy, isolated systems exchange neither. State functions (U, H, S, G, P, V, T) depend only on the initial and final states, whereas work and heat are path functions. Types of processes: isothermal (T constant), adiabatic (no heat exchange, q = 0, temperature changes), isobaric, isochoric. First law: energy can neither be created nor destroyed; ΔU = q + w. Work of expansion w = −p_ext ΔV. Enthalpy H = U + pV; at constant pressure q_p = ΔH, and ΔH = ΔU + Δn_g RT. Exothermic reactions have ΔH negative; endothermic reactions have ΔH positive.",
+  "## Enthalpy changes and Hess's law",
+  "Standard enthalpy changes (at 298 K and 1 bar): of formation ΔfH° (formation of one mole of a compound from its elements in their standard states; zero for elements), of combustion, of neutralisation (about −57.1 kJ mol^-1 for strong acid with strong base), of fusion, vaporisation and sublimation, and of atomisation (one mole of a substance converted into gaseous atoms). Hess's law: the total enthalpy change of a reaction is the same whether it takes place in one step or several steps. ΔrH° = Σ ΔfH°(products) − Σ ΔfH°(reactants). Bond enthalpy: ΔrH = Σ bond enthalpies of reactants broken − Σ bond enthalpies of products formed. Calorimetry: q = m c ΔT.",
+  "## Spontaneity, entropy and Gibbs energy",
+  "Entropy S is a measure of disorder; ΔS = q_rev/T; entropy rises on melting, vaporisation and dissolving, and for an isolated system the entropy increases in a spontaneous process (second law). Third law: the entropy of a perfectly crystalline substance is zero at absolute zero. Gibbs energy G = H − TS; at constant T and p, ΔG = ΔH − TΔS. ΔG < 0 spontaneous, ΔG = 0 equilibrium, ΔG > 0 non-spontaneous. A reaction with ΔH < 0 and ΔS > 0 is spontaneous at all temperatures; ΔH > 0 and ΔS < 0 is never spontaneous. ΔG° = −2.303 RT log K. Relation between ΔG and the cell potential: ΔG° = −nFE°."
+ ],
+ "mcq": [
+  ["Adiabatic processes proceed with —", ["a change in temperature", "no change in temperature", "no change in pressure", "an exchange of heat with the surroundings"], "A", ["October 2024"]],
+  ["The standard enthalpy of atomisation of a substance is the enthalpy change when —", ["one mole of the substance is converted into gaseous atoms", "one molecule is converted into atoms", "one mole of a gas dissociates into ions", "one mole of solid melts"], "A", ["October 2024"]],
+  ["The standard enthalpy of formation of an element in its standard state is —", ["zero", "positive", "negative", "equal to its enthalpy of atomisation"], "A", ["April 2026"]],
+  ["A system that can exchange energy but not matter with the surroundings is a —", ["closed system", "open system", "isolated system", "adiabatic wall"], "A", ["October 2024"]],
+  ["Which of the following is a state function?", ["Enthalpy", "Heat", "Work", "Path length"], "A"],
+  ["For a spontaneous process at constant T and p —", ["ΔG < 0", "ΔG > 0", "ΔG = 0", "ΔS = 0"], "A"],
+  ["The relation between ΔH and ΔU is —", ["ΔH = ΔU + Δn_g RT", "ΔH = ΔU − pV", "ΔH = ΔU", "ΔH = ΔU · RT"], "A"],
+  ["Hess's law is based on the —", ["first law of thermodynamics", "second law", "third law", "law of mass action"], "A"],
+  ["The entropy of a perfectly crystalline solid at 0 K is —", ["zero", "maximum", "one", "infinite"], "A"],
+  ["For an endothermic reaction ΔH is —", ["positive", "negative", "zero", "equal to ΔU"], "A"],
+  ["The entropy increases in —", ["melting of ice", "freezing of water", "condensation of steam", "crystallisation of salt"], "A"],
+  ["A reaction with ΔH < 0 and ΔS > 0 is —", ["spontaneous at all temperatures", "non-spontaneous at all temperatures", "spontaneous only at low T", "at equilibrium always"], "A"]
+ ],
+ "objective": [
+  ["(a) When a system absorbs 50 kJ of heat and does 30 kJ of work, find ΔU. (b) If the bond enthalpies of C–H and C–Cl are 415 and 339 kJ mol^-1, what is the energy released when one mole of CH3Cl is formed from its gaseous atoms (three C–H bonds and one C–Cl bond)?", "(a) ΔU = q + w = +50 − 30 = +20 kJ.\n(b) Energy released = 3 × 415 + 339 = 1245 + 339 = 1584 kJ mol^-1, i.e. ΔH = −1584 kJ mol^-1.", ["October 2024"]],
+  ["Complete: (a) A system that can exchange energy but not matter is called a ______ system. (b) Enthalpy is a ______ function.", "(a) closed. (b) state.", ["October 2024"]],
+  ["State true or false: (a) An isolated system exchanges neither energy nor matter. (b) The enthalpy of formation of an element in its standard state is unity.", "(a) True. (b) False – it is zero.", ["April 2026"]],
+  ["(a) Write the Gibbs–Helmholtz equation. (b) What is the sign of ΔG for a spontaneous reaction?", "(a) ΔG = ΔH − TΔS. (b) Negative.", ["April 2025"]],
+  ["Fill in: (a) Heat absorbed at constant pressure equals ______. (b) Heat absorbed at constant volume equals ______.", "(a) ΔH. (b) ΔU."],
+  ["Match: (a) ΔH > 0 (b) ΔS > 0 (c) ΔG < 0 with (i) spontaneous (ii) endothermic (iii) increased disorder.", "(a)-(ii); (b)-(iii); (c)-(i)."],
+  ["Give the signs of ΔH and ΔS for (a) melting of ice (b) combustion of methane.", "(a) ΔH positive, ΔS positive. (b) ΔH negative, ΔS roughly positive (small change in disorder, gases formed)."],
+  ["State true or false: (a) Work is a state function. (b) ΔG° = −2.303RT log K.", "(a) False – work is a path function. (b) True."]
+ ],
+ "vsa": [
+  ["What is meant by an isolated system? Give an example.", "A system which exchanges neither energy nor matter with its surroundings, e.g. a substance in a perfectly insulated thermos flask.", ["April 2026"]],
+  ["What is the enthalpy of fusion? Write its sign.", "The enthalpy change when one mole of a solid melts to form a liquid at its melting point; ΔfusH is positive (endothermic), e.g. ice: +6.0 kJ mol^-1.", ["April 2026"]],
+  ["State Hess's law of constant heat summation.", "The total enthalpy change of a chemical reaction is the same whether it takes place in one step or in a number of steps, as enthalpy is a state function.", ["April 2025"]],
+  ["Calculate ΔH for H2 + Cl2 → 2HCl using bond enthalpies: H–H 436, Cl–Cl 243, H–Cl 431 kJ mol^-1.", "ΔH = (436 + 243) − 2 × 431 = 679 − 862 = −183 kJ.", ["April 2025"]],
+  ["Differentiate between state function and path function.", "State function depends only on the initial and final states (U, H, S, G); a path function depends on the path followed (work and heat)."],
+  ["Define standard enthalpy of formation. Give an example.", "The enthalpy change when one mole of a compound is formed from its elements in their standard states at 298 K and 1 bar, e.g. C(graphite) + O2(g) → CO2(g), ΔfH° = −393.5 kJ mol^-1."],
+  ["What is entropy? Predict its sign for the evaporation of water.", "Entropy is a measure of the randomness or disorder of a system. On evaporation, disorder increases, so ΔS is positive."],
+  ["Calculate the enthalpy change when 2 mol of water is formed (ΔfH° of H2O(l) = −286 kJ mol^-1).", "2H2 + O2 → 2H2O(l); ΔH = 2 × (−286) = −572 kJ."]
+ ],
+ "sa": [
+  ["Calculate ΔrH° for N2O4(g) + 3CO(g) → N2O(g) + 3CO2(g), given ΔfH° (kJ mol^-1): N2O4 = +9.16, CO = −110.5, N2O = +81.6, CO2 = −393.5.", "ΔrH° = Σ ΔfH°(products) − Σ ΔfH°(reactants)\n= [81.6 + 3(−393.5)] − [9.16 + 3(−110.5)]\n= (81.6 − 1180.5) − (9.16 − 331.5)\n= −1098.9 + 322.34 = −776.6 kJ.", ["April 2026"]],
+  ["State and explain the first law of thermodynamics. Write its mathematical form.", "Energy can neither be created nor destroyed; it can only be converted from one form to another. The change in the internal energy of a system equals the heat absorbed plus the work done on it: ΔU = q + w. For expansion against external pressure, w = −p_ext ΔV."],
+  ["Derive the relation ΔH = ΔU + Δn_g RT and calculate ΔH − ΔU for N2 + 3H2 → 2NH3 at 300 K (R = 8.314 J K^-1 mol^-1).", "H = U + pV, so ΔH = ΔU + Δ(pV) = ΔU + Δn_g RT.\nΔn_g = 2 − 4 = −2.\nΔH − ΔU = −2 × 8.314 × 300 = −4988 J ≈ −4.99 kJ."],
+  ["Explain the spontaneity of a reaction in terms of ΔH, ΔS and ΔG. Discuss the four possible cases.", "ΔG = ΔH − TΔS. (1) ΔH −, ΔS +: always spontaneous. (2) ΔH +, ΔS −: never spontaneous. (3) ΔH −, ΔS −: spontaneous at low temperature. (4) ΔH +, ΔS +: spontaneous at high temperature."],
+  ["Calculate the heat evolved when 35.2 g of CO2 is formed by burning carbon, given C(s) + O2(g) → CO2(g), ΔH = −393.5 kJ mol^-1 (C = 12, O = 16).", "Moles of CO2 = 35.2/44 = 0.8 mol.\nHeat evolved = 0.8 × 393.5 = 314.8 kJ.", ["April 2026"]],
+  ["Differentiate between an open, closed and isolated system with examples.", "Open: exchanges both matter and energy (water in an open beaker). Closed: exchanges only energy (water in a sealed metal vessel). Isolated: exchanges neither (substance in an ideal thermos flask)."]
+ ],
+ "la": [
+  ["(a) What is a state function? Name three. (b) State Hess's law and give two applications. (c) The enthalpies of formation of CO2 and CO are −393.5 and −110.5 kJ mol^-1. Find ΔH for C + ½O2 → CO and CO + ½O2 → CO2 from the data.", "(a) A property that depends only on the state of the system: U, H, S, G, T, P.\n(b) The total enthalpy change is independent of the route; used to find the enthalpy of formation of compounds that cannot be made directly (CO) and in calculating the lattice energy.\n(c) C + ½O2 → CO: ΔH = −110.5 kJ. CO + ½O2 → CO2: ΔH = −393.5 − (−110.5) = −283 kJ."],
+  ["(a) Define the enthalpy of combustion. (b) Explain how the bond enthalpy data are used to calculate ΔH for a reaction. (c) Calculate ΔH for CH4 + 2O2 → CO2 + 2H2O given C–H 414, O=O 498, C=O 804 and O–H 464 kJ mol^-1.", "(a) The enthalpy change when one mole of a substance is completely burnt in oxygen at standard conditions.\n(b) ΔH = Σ bond enthalpies of bonds broken in reactants − Σ bond enthalpies of bonds formed in products.\n(c) Broken: 4 × 414 + 2 × 498 = 1656 + 996 = 2652. Formed: 2 × 804 + 4 × 464 = 1608 + 1856 = 3464.\nΔH = 2652 − 3464 = −812 kJ."],
+  ["(a) Define Gibbs energy. (b) Write the conditions of spontaneity. (c) For a reaction ΔH = −40 kJ and ΔS = −100 J K^-1 find the temperature below which it is spontaneous.", "(a) G = H − TS, the maximum useful (non-expansion) work obtainable from a process at constant T and p.\n(b) ΔG < 0 spontaneous; ΔG = 0 equilibrium; ΔG > 0 non-spontaneous.\n(c) ΔG = ΔH − TΔS = 0 at T = ΔH/ΔS = −40000/−100 = 400 K; below 400 K, ΔG is negative, so the reaction is spontaneous."],
+  ["Explain the first law of thermodynamics and calculate q, w and ΔU when 1 mole of an ideal gas expands isothermally into vacuum; then explain what changes if the process is adiabatic.", "ΔU = q + w; for an ideal gas expanding into vacuum p_ext = 0, so w = 0; isothermal means ΔU = 0 for an ideal gas, hence q = 0.\nIn an adiabatic process q = 0, so ΔU = w: if the gas does work, its internal energy and temperature fall; if work is done on it, its temperature rises."]
+ ]
+}

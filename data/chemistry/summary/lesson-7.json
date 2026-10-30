@@ -1,0 +1,69 @@
+{
+  "subject": "chemistry",
+  "lesson": 7,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 7: Solutions — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Types of solutions and concentration"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "A solution is a homogeneous mixture of two or more substances; the component present in larger amount is the solvent and the other the solute. Solutions may be gaseous, liquid or solid. Concentration terms: mass per cent (w/w), volume per cent, mole fraction x = n_A/(n_A + n_B) (sum of mole fractions is 1), molarity M = moles of solute per litre of solution, molality m = moles of solute per kg of solvent, normality. Molarity changes with temperature while molality and mole fraction do not. Solubility of a gas in a liquid increases with pressure (Henry's law: p = K_H · x) and decreases with rise of temperature."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Vapour pressure and Raoult's law"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Vapour pressure is the pressure of the vapour in equilibrium with its liquid at a given temperature; it increases with temperature, and the boiling point is the temperature at which the vapour pressure equals the external pressure. Raoult's law: the partial vapour pressure of a component in a solution is p_A = x_A · p°_A; for a solution of a non-volatile solute the relative lowering of vapour pressure equals the mole fraction of the solute: (p° − p)/p° = x_B = n_B/(n_A + n_B). Ideal solutions obey Raoult's law at all concentrations (ΔH_mix = 0, ΔV_mix = 0; e.g. benzene + toluene, hexane + heptane). Non-ideal solutions show positive deviation (weaker A–B attraction: ethanol + acetone, ΔH > 0) or negative deviation (stronger A–B attraction: chloroform + acetone, HNO3 + water, ΔH < 0); they form azeotropes."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Colligative properties"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Properties that depend only on the number of solute particles are colligative: relative lowering of vapour pressure, elevation of boiling point ΔT_b = K_b·m, depression of freezing point ΔT_f = K_f·m, and osmotic pressure π = CRT. Molar mass M_B = (K·w_B·1000)/(ΔT·w_A) for boiling/freezing and M_B = w_B RT/(π V) for osmotic pressure. Osmosis is the flow of solvent through a semipermeable membrane from dilute to concentrated solution; solutions with the same osmotic pressure are isotonic; reverse osmosis (pressure larger than π) is used in desalination. Abnormal molar mass: for electrolytes that dissociate (KCl, K2SO4) or solutes that associate (acetic acid in benzene), the van't Hoff factor i = observed colligative property / calculated value = normal molar mass / observed molar mass; the colligative equations become ΔT_b = i·K_b·m, π = i·CRT. i for NaCl is about 2, K2SO4 about 3 and glucose 1."
+        ]
+      ]
+    }
+  ]
+}
