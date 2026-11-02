@@ -1,0 +1,54 @@
+{
+ "lesson": 6,
+ "title": "Nutritional Status",
+ "module": 2,
+ "summary": [
+  "## Nutritional status and malnutrition",
+  "Nutritional status is the condition of health of a person that is influenced by the intake and utilisation of nutrients. A balanced food intake and normal utilisation give a normal nutritional status. A lack or excess of nutrients or faulty utilisation gives malnutrition, which covers undernutrition (lack of one or more nutrients) and overnutrition (excess, e.g. obesity from too much energy-rich food). In practice undernutrition is the more common.",
+  "Causes of malnutrition: decreased availability of food (population growth, low production, exhausted stocks), ignorance (wrong infant feeding, wrong food choices), economic conditions (low purchasing power gives undernutrition; high gives overnutrition), stress conditions (rapid growth in young children, adolescents, pregnancy, lactation and illness raise needs) and poor personal hygiene and sanitation (more infections). Consequences: nutrient deficiencies, infections, poor physical and mental growth, handicaps, low work capacity and death.",
+  "## Assessment of nutritional status",
+  "Three simple ways: (1) measuring physical growth (body weight and height compared with standard references for age; below the reference means retarded growth or malnutrition; above means overnourished; children below five are most susceptible; weigh monthly); (2) dietary intake (record all food eaten in the last 24 hours in household measures, group into food groups and compare with recommended intake for age and sex using the food pyramid); (3) recognising signs and symptoms of nutritional deficiency diseases.",
+  "## Nutritional deficiency diseases",
+  "Protein Energy Malnutrition (PEM) occurs when energy foods are lacking so proteins are burnt for energy; it mainly affects young children. Marasmus: deficiency of both energy and protein, below 12 months, loose wrinkled skin from loss of fat, shrunken abdomen, hunger, diarrhoea. Kwashiorkor: deficiency of protein alone, 1–3 years, oedema (swelling) of face, arms and legs, pot belly, loss of appetite, peeling skin rash, light-coloured easily pulled hair, enlarged liver. Vitamin A deficiency: night blindness (inability to see in the dark), drying of the white of the eye, blindness, respiratory infections. Anaemia: low haemoglobin, caused by iron (also folic acid, vitamin B12) deficiency: weakness, tiredness, breathlessness, loss of appetite, pale tongue, eyes and nails, pins and needles, brittle spoon-shaped nails and reduced work capacity. Iodine deficiency: goitre (swollen neck) and weight gain, tiredness in adults; cretinism, growth and mental retardation, speech and hearing defects in children.",
+  "## National nutrition programmes",
+  "ICDS (Integrated Child Development Services): package of health (immunisation, check-ups, referral, treatment of minor illness), nutrition (supplementary feeding, growth monitoring, nutrition and health education), pre-school education for 3–6 years and convergence of services at Anganwadis; beneficiaries: children below 6 years, adolescent girls 11–18, pregnant and lactating women and women 15–45. Mid Day Meal Programme (MDMP): supplementary meals for primary school children 6–11 years. National Programme for Prevention of Nutritional Blindness due to Vitamin A Deficiency: massive oral doses of vitamin A to children 6 months to 5 years. National Nutritional Anaemia Control Programme (NNACP): iron and folic acid supplements and treatment of severe anaemia. National Iodine Deficiency Disorder Control Programme (NIDDCP): supply of iodised salt, quality control and awareness."
+ ],
+ "mcq": [
+  ["Select the condition of health that is influenced by the intake and utilisation of nutrients:", ["Malnutrition", "Nutritional status", "Balanced nutrition", "Over nutrition"], "B", ["April 2026"]],
+  ["A 2-year-old child has very loose, wrinkled skin and a shrunken stomach. Which disease do these symptoms indicate?", ["Kwashiorkor", "Marasmus", "Anaemia", "Goitre"], "B", ["April 2026"]],
+  ["Identify the incorrect statement about malnutrition:", ["Malnutrition only refers to undernutrition", "Overnutrition can lead to obesity", "Faulty utilisation of nutrients can cause malnutrition", "Both undernutrition and overnutrition are types of malnutrition"], "A", ["October 2025"]],
+  ["To assess the nutritional status of a person, you need to know his:", ["Mental growth", "Social growth", "Physical growth", "Intellectual growth"], "C", ["April 2025"]],
+  ["Growth monitoring of children is done in which of the following programmes?", ["Integrated Child Development Services", "Mid-day Meal Programme", "National Nutritional Anaemia Control Programme", "National Iodine Deficiency Disorder Control Programme"], "A", ["April 2025"]],
+  ["Ram has a swollen neck and feels tired. These may be symptoms of which deficiency disease?", ["Anaemia", "Goitre", "Night blindness", "Marasmus"], "B", ["April 2025"]],
+  ["Which deficiency causes night blindness?", ["Vitamin A", "Iron", "Iodine", "Protein"], "A"],
+  ["Spoon-shaped nails and paleness of the tongue are symptoms of:", ["Anaemia", "Goitre", "Kwashiorkor", "Marasmus"], "A", ["October 2025"]],
+  ["Oedema and light-coloured hair that is easy to pull are signs of:", ["Kwashiorkor", "Marasmus", "Night blindness", "Goitre"], "A"],
+  ["Mid Day Meal Programme provides meals to children of:", ["6 to 11 years", "Below 6 months", "12 to 18 years", "Only adults"], "A"],
+  ["Iron and folic acid supplements are given under:", ["NNACP", "NIDDCP", "MDMP", "Vitamin A programme"], "A"],
+  ["Iodised salt is promoted by:", ["NIDDCP", "ICDS", "MDMP", "NNACP"], "A"],
+  ["A person who eats more energy-rich food than required suffers from:", ["Overnutrition", "Undernutrition", "Anaemia", "Marasmus"], "A"],
+  ["Marasmus affects children:", ["Before 12 months of age", "Aged 6–9 years", "Aged 15–18 years", "Only adults"], "A"]
+ ],
+ "objective": [
+  ["Give one word for the following. (i) A person who eats too much energy-rich food and becomes obese is suffering from ________. (ii) The condition where the body lacks one or more essential nutrients is called ________.", "(i) Overnutrition. (ii) Undernutrition.", ["April 2026"]],
+  ["Match Column I with Column II. I: (1) ICDS (2) Spoon-shaped nails (3) Inability to see in the dark (4) Light-coloured hair. II: (a) Kwashiorkor (b) Night blindness (c) Immunisation (d) Anaemia.", "(1) – (c). (2) – (d). (3) – (b). (4) – (a).", ["October 2025"]],
+  ["Fill in the blanks. (a) Malnutrition covers both ________ and ________. (b) Physical growth is assessed by measuring body ________ and height.", "(a) Undernutrition and overnutrition. (b) Weight.", null],
+  ["True or False. (a) The only beneficiaries of ICDS are children below 5 years. (b) Massive doses of vitamin A are given to children aged 6 months to 5 years.", "(a) False: adolescents, pregnant and lactating women are also covered. (b) True."],
+  ["Rearrange the jumbled names of programmes. (i) DCSI (ii) PMDM (iii) PCNDID (iv) PNANC.", "(i) ICDS. (ii) MDMP. (iii) NIDDCP. (iv) NNACP."]
+ ],
+ "vsa": [
+  ["A community health worker finds children with night blindness and drying of the white of the eye. Which deficiency is indicated and which food items should be promoted?", "Vitamin A deficiency is indicated. Promote vitamin A rich foods such as green leafy vegetables, carrots, papaya, mango, milk and egg.", ["April 2026"], {"or": ["A 10-year-old girl is tired, pale and breathless on activity. Name the deficiency and two food items for her diet.", "Anaemia due to iron deficiency. Include green leafy vegetables, jaggery, dates or liver in her diet."]}],
+  ["What is nutritional status? How can it be assessed?", "It is the condition of health influenced by intake and utilisation of nutrients. It is assessed by measuring physical growth, recording dietary intake and recognising deficiency signs."],
+  ["List any two causes of malnutrition.", "Decreased availability of food due to population growth or low production. Poverty, ignorance and infections from poor hygiene also cause it."],
+  ["What is ICDS? Name two services under it.", "ICDS is the Integrated Child Development Services scheme that gives nutrition, health care and education together through Anganwadis. Services include supplementary feeding and immunisation."],
+  ["Name the national programme for preventing goitre. What does it provide?", "The National Iodine Deficiency Disorder Control Programme. It ensures the supply of iodised salt of standard quality and creates awareness."]
+ ],
+ "sa": [
+  ["How can a person's nutritional status be assessed? Explain any two methods.", "(i) Physical growth: weight and height are measured and compared with the standard reference for age; lower values show malnutrition. (ii) Dietary intake: all foods eaten in 24 hours are recorded, grouped into food groups and compared with the recommended intake for age and sex.", ["October 2025"]],
+  ["Explain the differences between marasmus and kwashiorkor (three points).", "(i) Causes: marasmus is lack of energy and protein; kwashiorkor is lack of protein alone. (ii) Age: marasmus before 12 months; kwashiorkor at 1–3 years. (iii) Symptoms: marasmus gives wrinkled skin and a shrunken abdomen; kwashiorkor gives oedema, pot belly and light, easily pulled hair."],
+  ["Explain the services and beneficiaries of the Mid Day Meal and ICDS programmes (three points).", "(i) The Mid Day Meal programme gives supplementary meals to primary school children aged 6–11 and improves school attendance. (ii) ICDS gives supplementary feeding, health check-ups, immunisation and pre-school education. (iii) ICDS beneficiaries are children below 6, adolescent girls, pregnant and lactating women."]
+ ],
+ "la": [
+  ["How can a person's nutritional status be assessed? Explain the methods.", "(i) Physical growth: measure weight and height and compare with references for age. (ii) Children below the reference are undernourished; above it are overnourished. (iii) Dietary intake: record the 24-hour food intake and group it into food groups. (iv) Compare it with the recommended intake for age and sex using the food pyramid. (v) Recognise signs and symptoms of deficiency diseases. (vi) Weigh regularly, as excessive gain or loss needs attention.", ["October 2025"], {"or": ["Explain the causes and consequences of malnutrition.", "(i) Decreased availability of food. (ii) Ignorance of correct feeding. (iii) Poverty or excess income. (iv) Stress conditions such as pregnancy and growth. (v) Poor hygiene and infections. (vi) Consequences: deficiencies, poor physical and mental growth, handicaps, low work capacity and death."]}]
+ ]
+}

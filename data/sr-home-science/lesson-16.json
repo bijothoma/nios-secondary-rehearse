@@ -1,0 +1,309 @@
+{
+  "subject": "sr-home-science",
+  "lesson": 16,
+  "title": "Household Equipment",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "14 × 1 = 14",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "Suggest a device from the following options to keep cooked food safe for some time.",
+          "options": [
+            "Refrigerator",
+            "Grameen Sheetal",
+            "Ice-box",
+            "Freezer"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "A promise by the manufacturer for the efficient performance of an equipment is a:",
+          "options": [
+            "Guarantee",
+            "Standard mark",
+            "Brand name",
+            "Price tag"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "Which mark ensures the safety of electrical equipment?",
+          "options": [
+            "ISI mark",
+            "AGMARK",
+            "FPO",
+            "Eco Mark"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "A device that cuts off electric supply in case of overload or short circuit is:",
+          "options": [
+            "MCB",
+            "Switch",
+            "Plug",
+            "Wire"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "Which of the following is a non-electrical equipment?",
+          "options": [
+            "Sewing machine",
+            "Toaster",
+            "Mixie",
+            "Geyser"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "Which clothes should not be worn while working in the kitchen?",
+          "options": [
+            "Synthetic (nylon) clothes",
+            "Cotton clothes",
+            "Khadi clothes",
+            "Linen clothes"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "A kerosene stove tank should be filled up to about:",
+          "options": [
+            "2/3",
+            "Full",
+            "1/10",
+            "1/2 only"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "What must be done before cleaning an electrical appliance?",
+          "options": [
+            "Remove the plug",
+            "Wet the plug",
+            "Switch on the supply",
+            "Hold it with wet hands"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "Which is the best way to store a knife?",
+          "options": [
+            "Blade pointing downwards",
+            "Blade pointing upwards",
+            "Loose in the drawer",
+            "On the table"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "Which of the following saves fuel while cooking?",
+          "options": [
+            "Using a pressure cooker with separators",
+            "Cooking in open pans",
+            "Cooking frozen food directly",
+            "Keeping the flame high after the first whistle"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "The vent pipe of a pressure cooker should be:",
+          "options": [
+            "Kept unclogged and clean",
+            "Closed with cloth",
+            "Blocked",
+            "Removed"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "Which of the following should NOT be used in a microwave oven?",
+          "options": [
+            "Metal containers",
+            "Microwave-proof glass",
+            "Microwave-proof ceramic",
+            "Microwave-proof plastic"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.13",
+          "type": "mcq",
+          "q": "For a non-stick pan one should use:",
+          "options": [
+            "Wooden or plastic spoons",
+            "Metal ladles",
+            "Steel wool",
+            "Hard scrubber"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.14",
+          "type": "mcq",
+          "q": "An important safety feature of electrical equipment is:",
+          "options": [
+            "A 3-pin plug and insulated cord",
+            "Exposed metal parts",
+            "Cracked wire",
+            "Loose handles"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark (true/false, match the columns, fill in the blanks or give reasons).",
+      "marks": "4 × 2 = 8",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "State True or False. (a) Only electrical equipments are labour saving. (b) Non-electrical equipments are manually operated. (c) Standardised products ensure safety and durability. (d) Expensive equipment always fulfils family needs better than inexpensive ones.",
+          "answer": "(a) False. (b) True. (c) True. (d) False."
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Fill in the blanks. (a) Efficient use of equipment includes correct selection, operation and ________. (b) The foremost criterion for selecting equipment is that it must be ________ based.",
+          "answer": "(a) Care. (b) Need."
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "True or False. (a) A stove burner does not need regular cleaning. (b) Washing a car with water collected in a bucket saves water. (c) Tube lights and CFLs consume less electricity than bulbs.",
+          "answer": "(a) False. (b) True. (c) True."
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Match Column A with Column B. A: (a) MCB (b) Guarantee card. B: (i) Cuts off supply on overload (ii) Promise of service for a period (iii) Mark of standardisation.",
+          "answer": "(a) – (i). (b) – (ii)."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "5 × 2 = 10",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "Mention four safety tips while using household appliances in your kitchen.",
+          "answer": "Remove the plug before cleaning and keep electrical equipment dry and away from water. Do not wear synthetic clothes, use pans with insulated handles, and replace worn wires or a cracked LPG tube.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "What is a 'grameen sheetal'? Mention its use.",
+          "answer": "It is a wire-mesh cupboard covered with wet jute cloth whose ends dip in bowls of water. It keeps food cool without electricity."
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "List any two points you would check for safety while buying an electrical equipment.",
+          "answer": "Check for the ISI mark and a 3-pin plug with an insulated cord. Make sure it has no exposed metal parts and carries a guarantee."
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "Why should after-sales service be considered while buying equipment?",
+          "answer": "Equipment gets wear and tear and needs repair or replacement of parts. Local service at an affordable price avoids trouble."
+        },
+        {
+          "id": "3.5",
+          "type": "open",
+          "q": "Why should a pressure cooker be used for cooking?",
+          "answer": "It cooks food faster, saving time and fuel. It does not need much supervision and cooks several dishes together with separators."
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "4 × 3 = 12",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "List five factors to be kept in mind while selecting household equipment.",
+          "answer": "(i) It should be need-based. (ii) It should save time, energy and money and be easy to clean. (iii) It should be safe with an ISI mark and a guarantee. (iv) The cost should suit the budget. (v) After-sales service should be available."
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "State four guidelines for proper care and maintenance of equipment.",
+          "answer": "(i) Read and follow the instructions and clean the equipment after every use. (ii) Check wires and plugs and replace worn parts. (iii) Use proper fuses or an MCB and keep the equipment dry. (iv) Store sharp tools safely and oil moving parts."
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "Suggest ways of conserving water at home (three points).",
+          "answer": "(i) Use water used for washing clothes to mop floors and water from washing vegetables for plants. (ii) Use a bucket and mug for bathing, brushing and car washing rather than a shower or running tap. (iii) Do not let the water cooler overflow."
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "Explain how fuel can be conserved while cooking (three points).",
+          "answer": "(i) Soak pulses and cook in a pressure cooker, lowering the flame after the first whistle. (ii) Use separators to cook many dishes together and cover the pan. (iii) Clean burners and use a solar cooker when possible."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Long answer questions. Answer in 80–120 words.",
+      "marks": "1 × 5 = 5",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "Explain the points to be kept in mind for correct use and care of household equipment, with reasons.",
+          "answer": "(i) Follow the instructions and keep electrical equipment away from water and wet hands to avoid shock. (ii) Check wires and plugs and remove the plug before cleaning. (iii) Install proper fuses or an MCB to prevent fire from a short circuit. (iv) Avoid synthetic clothes in the kitchen because nylon melts and burns the skin. (v) Fill a kerosene stove only to 2/3 and replace cracked LPG tubes and hard gaskets. (vi) Keep the cooker vent pipe clean, use only suitable utensils on non-stick pans and in microwave ovens."
+        }
+      ]
+    }
+  ]
+}

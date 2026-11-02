@@ -1,0 +1,56 @@
+{
+ "lesson": 25,
+ "group": "B",
+ "title": "Supporting Operations of Hotel (Module 6B, lesson 22)",
+ "module": 7,
+ "summary": [
+  "## Human Resource Department",
+  "The Personnel and Administration department is now the Human Resource Department (HRD). HR planning forecasts the future demand for the right number and type of people and is the first step before recruitment and selection. Recruitment is searching for and obtaining job applicants from among whom the right people can be selected; HR managers design the programme, place advertisements and ensure equal opportunity. Training imparts specific skills (fire drills, food hygiene, first aid, technical skills, product knowledge, customer service; on-the-job and off-the-job), and development gives learning opportunities for growth. Welfare measures build trust and act as a support system. Performance appraisal assesses actual performance, behaviour and potential to decide training needs, promotion, pay incentives, retention or termination; hotels use the rating scale method.",
+  "## Vigilance and Security Department",
+  "Hotels are public places with high-profile guests and are prone to terror attacks (e.g. Hotel Taj Mahal Palace, Mumbai, 26/11); the Hotel Association of India has framed guidelines. The department protects guests, staff and property through patrolling, monitoring CCTV (Closed-Circuit Television) and investigating; it is headed by a chief security officer, with supervisors and guards. Measures: external access control (limit access points to 2–3 with CCTV, road barriers, patrolling), material access control (scan guest baggage and hotel supplies), people access control (no walk-in guests without reference, guest profiling data, employee verification) and internal access control (restricted entry to parts of the hotel, only housekeeping and security hold room keys, strict key handling, lifts operated by card key). Other measures: explosive detection devices, garbage screening, issue of ID cards and passes, control of unauthorised persons and coordination with the district administration. Hotels are targeted as icons of tourism, for high-profile guests, their hospitality orientation and public accessibility.",
+  "## Maintenance (Engineering) Department",
+  "It keeps the hotel running 24 hours a day; without it there is no hotel (no hot water, lifts, cooling, electricity or laundry). Three major functions: property operations (running machinery, water treatment, boilers, sewage, lighting, trouble-shooting), Planned Preventive Maintenance (PPM; a yearly schedule of preventive actions instead of expensive breakdown maintenance) and fire and life safety (fire pumps, alarm systems, generators, UPS, CCTV, fire doors and evacuation drills). A newer area is environmental and energy management (energy conservation, waste management, green measures). Engineering costs are 10–18% of revenue. Duties: inspection, repairs, preventive and breakdown maintenance, overhaul, construction and clerical work. Basic functions: protect the investment in the plant, control maintenance cost, minimise energy cost and minimise safety problems.",
+  "## Finance and Accounts, Sanitation and Gardening",
+  "Finance and Accounts tracks all revenue and expenditure and gives financial data to managers: checks the daily cashier report, monthly bank balancing, general ledger, accounts payable and receivable, audit, taxes, financial planning, salaries and treasury; the head is the financial controller. Sanitation means practical measures to preserve public health: overall cleanliness, treatment and proper disposal of waste, done by the housekeeping department (led by the executive housekeeper with assistants, supervisors, linen room, room attendants and gardeners). Gardening grows ornamental plants to beautify the hotel and give guests a place to relax; garden-facing rooms (lanai) earn higher rates."
+ ],
+ "mcq": [
+  ["Which of the following is not included in the training and development activities of the hospitality industry?", ["Production of goods", "Food hygiene", "Technical skills", "Customer service"], "A", ["April 2026"]],
+  ["The full form of HRD is:", ["Human Resource Department", "Hotel Rooms Department", "Hospitality Research Division", "Human Rights Department"], "A"],
+  ["The first step before recruitment and selection in the HR process is:", ["HR planning", "Performance appraisal", "Welfare", "Termination"], "A"],
+  ["The method of performance appraisal followed in the hotel industry is:", ["Rating scale method", "Essay method", "Ranking only", "Lottery method"], "A"],
+  ["CCTV stands for:", ["Closed-Circuit Television", "Central Cable Television", "Closed City Television", "Common Camera Television"], "A"],
+  ["The maximum number of access points a hotel should keep, with CCTV monitoring, is about:", ["2 or 3", "10", "20", "As many as possible"], "A"],
+  ["Which hotel department is also called the engineering department?", ["Maintenance", "Housekeeping", "Security", "HR"], "A"],
+  ["PPM in the maintenance department stands for:", ["Planned Preventive Maintenance", "Primary Property Management", "Public Property Maintenance", "Phased Production Method"], "A"],
+  ["Engineering department expenses account for about what percentage of hotel revenue?", ["10 to 18%", "40 to 50%", "1 to 2%", "70%"], "A"],
+  ["Which department checks the daily general cashier report and maintains the general ledger?", ["Finance and accounts", "Security", "Maintenance", "Sanitation"], "A"],
+  ["Which department is responsible for the overall sanitation of a hotel?", ["Housekeeping", "Food production", "Front office", "Sales"], "A"],
+  ["Which of the following is a reason hotels are targeted by terrorists?", ["Public accessibility", "Low room rates", "Small size", "Absence of staff"], "A"],
+  ["Which of the following is a function of the security department?", ["Patrolling and monitoring CCTV", "Cooking", "Sales of rooms", "Laundry"], "A"],
+  ["Rooms facing the hotel garden (lanai) are:", ["Charged a higher rate", "Always free", "Not used", "Charged a lower rate"], "A"]
+ ],
+ "objective": [
+  ["Fill in the blanks. (a) ________ is the process of searching for and obtaining applicants for jobs. (b) The full form of CCTV is ________.", "(a) Recruitment. (b) Closed-Circuit Television.", null],
+  ["True or False. (a) Training and development includes fire drills, food hygiene and first aid. (b) Preventive maintenance waits for machines to fail.", "(a) True. (b) False: it is regular action to avoid breakdowns."],
+  ["Fill in the blanks. (a) The head of the hotel security department is the Chief ________ Officer. (b) The maintenance department is also called the ________ department.", "(a) Security. (b) Engineering.", null],
+  ["Match Column A with Column B. A: (a) PPM (b) Guest profiling. B: (i) Keeping detailed guest data to detect suspicious people (ii) Regular preventive actions on machines (iii) Rating of employees.", "(a) – (ii). (b) – (i)."],
+  ["True or False. (a) Performance appraisal decides training needs and promotion. (b) Gardens in hotels have no value for guests.", "(a) True. (b) False: they beautify the hotel and give guests a place to relax."]
+ ],
+ "vsa": [
+  ["Describe any two functions of the Sanitation department.", "It keeps the hotel clean and promotes health. It treats and disposes of waste properly and looks after the gardens to beautify the hotel."],
+  ["Define recruitment.", "Recruitment is the process of searching for and obtaining job applicants, finding qualified persons and encouraging them to apply, so the right people can be selected."],
+  ["What is performance appraisal?", "It is the assessment of an employee's actual performance, behaviour and potential. It is used to decide training needs, promotions, pay incentives, retention or termination."],
+  ["Why is guest baggage checking important?", "It helps detect explosives and dangerous articles. It protects the guests, staff and the hotel from terror threats."]
+ ],
+ "sa": [
+  ["Describe any three functions of the Sanitation department.", "(i) It keeps the entire hotel clean to protect health. (ii) It ensures treatment and proper disposal of waste. (iii) It maintains gardens and the cleanliness of rooms with the housekeeping staff.", ["April 2026"]],
+  ["Explain the three main functions of the maintenance department of a hotel.", "(i) Property operations: running machinery, water treatment, boilers and lighting round the clock. (ii) Planned preventive maintenance: a yearly schedule to avoid costly breakdowns. (iii) Fire and life safety: fire pumps, alarms, generators and evacuation drills.", ["April 2026"]],
+  ["Explain the role of the Human Resource department in a hotel (three points).", "(i) HR planning and recruitment of the right people. (ii) Training and development for skills such as food hygiene and customer service. (iii) Welfare and performance appraisal to motivate and assess staff."],
+  ["Explain any three security measures taken by a hotel.", "(i) Limit access points and monitor them with CCTV. (ii) Scan guest baggage and hotel supplies. (iii) Guest profiling, employee verification and key control."],
+  ["Explain the role of the finance and accounts department (three points).", "(i) It tracks all revenue and expenditure. (ii) It maintains the ledger, accounts payable and receivable and pays salaries. (iii) It gives financial data to managers for decisions and prepares reports."]
+ ],
+ "la": [
+  ["Explain the role of the security department in a hotel, in six points.", "(i) It protects guests, staff and the hotel property. (ii) It patrols, monitors CCTV and investigates. (iii) It controls external access through limited gates, barriers and patrols. (iv) It checks baggage and supplies and verifies employees and guests. (v) It controls internal access, key handling and lifts by card key. (vi) It issues ID cards, deals with unauthorised persons and coordinates with the district administration.", ["April 2026"]],
+  ["Explain the functions of the Human Resource department, in six points.", "(i) HR planning forecasts the number and type of staff needed. (ii) Recruitment and selection obtain applicants and choose the right ones. (iii) Training teaches skills such as fire drills, food hygiene, first aid and customer service. (iv) Development prepares employees for greater responsibility. (v) Welfare builds trust and supports staff in difficult times. (vi) Performance appraisal with the rating scale method decides promotion, incentives and retention."]
+ ]
+}

@@ -1,0 +1,322 @@
+{
+  "subject": "sr-home-science",
+  "lesson": 30,
+  "title": "Maintenance of Premises (Module 6A, lesson 30)",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "14 × 1 = 14",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "In a flushing cistern, what is the primary reason for a ball valve not rising with the water level?",
+          "options": [
+            "The inlet valve is jammed",
+            "The ball has corroded or punctured",
+            "The washer needs replacement",
+            "The water pressure is too low"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2026",
+            "October 2025"
+          ]
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "Rearrange in correct sequence the repair of an electrical fuse: (i) Put the main switch on (ii) Replace the fuse with new wire (iii) Examine and clean the fuse cut-out (iv) Put the main switch off.",
+          "options": [
+            "(iii), (ii), (iv), (i)",
+            "(i), (ii), (iv), (iii)",
+            "(ii), (iii), (iv), (i)",
+            "(iv), (iii), (ii), (i)"
+          ],
+          "answer": "D",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "A leaking tap is repaired by changing the:",
+          "options": [
+            "Washer",
+            "Handle",
+            "Pipe",
+            "Ball valve"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "If a fan picks up speed after rotating the blades with a stick, the problem is the:",
+          "options": [
+            "Capacitor",
+            "Fuse",
+            "Switch",
+            "Blade"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "A noisy fan usually has:",
+          "options": [
+            "Worn-out bearings",
+            "A faulty plug",
+            "A leaking tap",
+            "A blown fuse"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "In a 3-pin plug the wire used for earthing is usually:",
+          "options": [
+            "Green",
+            "Red",
+            "Yellow",
+            "Black"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "Which should never be used to clean brass cooking utensils?",
+          "options": [
+            "Brasso or chemicals",
+            "Lemon and salt",
+            "Tamarind pulp",
+            "Sifted ash"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "Which should be used to clean glass windows for shine?",
+          "options": [
+            "Newspaper with vinegar water",
+            "Steel wool",
+            "Hot caustic soda",
+            "Sandpaper"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "Grease stains on wallpaper can be removed with:",
+          "options": [
+            "Talcum powder",
+            "Hard scrubbing",
+            "Strong acid",
+            "Washing soda"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "To keep marble white and stain-free it should be rubbed with:",
+          "options": [
+            "Lemon juice",
+            "Washing soda",
+            "Chlorine",
+            "Sandpaper"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "Cane furniture should be washed with:",
+          "options": [
+            "Warm salty water",
+            "Hot caustic soda",
+            "Kerosene always",
+            "Acid"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "Which surface should not be soaked in water?",
+          "options": [
+            "Linoleum and wood",
+            "Steel utensils",
+            "Plastic buckets",
+            "Marble"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.13",
+          "type": "mcq",
+          "q": "The fuse wire is made of an alloy of:",
+          "options": [
+            "Tin, lead and zinc",
+            "Iron only",
+            "Copper only",
+            "Silver"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.14",
+          "type": "mcq",
+          "q": "While carrying out electrical repairs you must always:",
+          "options": [
+            "Disconnect the main supply and wear rubber slippers",
+            "Keep your hands wet",
+            "Stand on a wet floor",
+            "Work with the supply on"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark (true/false, match the columns, fill in the blanks or give reasons).",
+      "marks": "4 × 2 = 8",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "Match the surfaces (Column I) with maintenance (Column II). I: (1) Polished wood (2) Cane (3) Plastics (4) Iron. II: (a) Smear oil and use brick powder (b) Methylated spirit, turpentine or mild ammonia (c) Coat with clear varnish (d) Apply kerosene and keep in the sun.",
+          "answer": "(1) – (b). (2) – (c). (3) – (d). (4) – (a).",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "There are turmeric stains on your marble floor. Part A: What should be the first step to clean the marble floor? (a) Rub with lemon juice (b) Use hot water and detergent (c) Apply kerosene oil (d) Wipe corners and sides daily. Part B: What should be done after cleaning to maintain the marble's whiteness?",
+          "answer": "Part A: (b) use hot water and detergent. Part B: rub with lemon juice.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "Suggest the exact cause. (a) The fuse has blown. (b) The fan is noisy. (c) The tap is leaking.",
+          "answer": "(a) The wire in the cut-out melted on heavy current. (b) Worn-out bearings. (c) The washer needs to be replaced."
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "True or False. (a) Acid should be rinsed immediately from ceramic tiles. (b) Carpets should be rolled up while damp.",
+          "answer": "(a) True. (b) False: they should be dried thoroughly before rolling."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "5 × 2 = 10",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "Explain the steps to clean a coir floor covering (two points) and one precaution.",
+          "answer": "Clean it daily with a coarse broom and shake it out occasionally. If very dirty, wash in soapy water, rinse in cold salty water and dry completely in the open air; do not let it get very dirty."
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "Suggest four ways to prevent electric shock at home.",
+          "answer": "Keep hands dry and wear rubber slippers when handling appliances. Switch off and unplug before repairs, replace worn wires and use ISI marked appliances.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "How will you clean a stained wooden chopping board?",
+          "answer": "Wash it with mild soap and warm water, scrubbing along the grain. Remove stuck food with the back of a knife and dry it in the open air."
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "Why should a non-stick pan be rinsed immediately after use and cleaned with a sponge?",
+          "answer": "Hard scrubbers and steel wool scratch the Teflon coating. Rinsing at once and a sponge with soapy water keep it intact."
+        },
+        {
+          "id": "3.5",
+          "type": "open",
+          "q": "What is the first thing to check when an electrical appliance stops working?",
+          "answer": "The electric supply to it, and the plug and fuse. Always disconnect it from the main supply before any repair."
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "4 × 3 = 12",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "Explain the steps to clean a coir floor covering, including maintenance and precautions.",
+          "answer": "(i) Clean it daily with a coarse broom or brush and occasionally turn it upside down and shake out the dust. (ii) If very dirty, wash with soapy water and rinse in cold salty water. (iii) Dry it completely in open air and do not let it get very dirty.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "Explain the steps to clean a glass surface properly, including maintenance and precautions.",
+          "answer": "(i) Clean with a wad of newspaper and water; add vinegar to the rinse water for shine. (ii) Remove grease stains with ammonia in warm water and fly specks with methylated spirit. (iii) Do not use hard scrubbers or abrasives as they scratch.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "Explain how to change the washer of a leaking tap (three points).",
+          "answer": "(i) Turn off the mains and unscrew the hand-wheel. (ii) Remove the headgear using two wrenches and take out the stem with the washer. (iii) Replace the old washer with a new one and fix everything back."
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "Explain how to maintain a carpet (three points).",
+          "answer": "(i) Clean regularly; once a month shake it or vacuum it. (ii) Wash a colour-fast carpet with a soap lather, rinse and dry in the sun. (iii) Put naphthalene balls in rolled carpets, air them and remove stains at once."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Long answer questions. Answer in 80–120 words.",
+      "marks": "1 × 5 = 5",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "Give suggestions for maintaining at home: carpets, wooden surfaces, brass, glass windows, cane chair and coir flooring.",
+          "answer": "(i) Carpets: shake monthly, vacuum, wash colour-fast ones with lather and dry in the sun. (ii) Wood: wipe with mild soap, dry, rub polished wood with flannel and remove water marks with spirit or ammonia. (iii) Brass: lemon with salt, tamarind or ash with fine steel wool; engraved brass with an old toothbrush. (iv) Glass: newspaper and vinegar water. (v) Cane: warm salty water, dry in the open and varnish. (vi) Coir: sweep daily, wash with soapy water, rinse in salty water and dry."
+        }
+      ]
+    }
+  ]
+}

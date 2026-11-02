@@ -1,0 +1,132 @@
+{
+  "subject": "tourism",
+  "lesson": 4,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 4: Fundamentals of Travel and Tourism Geography — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Why geography matters"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "All travel is not tourism: travel is any journey, tourism is travel for leisure, recreation, enjoyment or rejuvenation. Geography helps tourism by locating a place on the globe or map, finding the time-lag between origin and destination, setting the clock, showing data through maps and charts and by explaining transport, distance, site and location, and the environmental conditions of a destination."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Latitude and longitude"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Latitude is the angular distance north or south of the equator (0° to 90° N and 0° to 90° S). Latitudes run east-west, are parallel (parallels) and are complete circles that get smaller towards the poles. The equator is the only latitude whose plane passes through the centre of the earth, so it is a great circle and the shortest distance along it is the shortest path."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Longitude is the angular distance east or west of the prime meridian (0°, through Greenwich near London), numbered 0° to 180° E and 0° to 180° W. Lines of longitude (meridians) run from the North Pole to the South Pole, are not parallel, are half circles, cut the latitudes at 90° and are closer together towards the poles. The prime meridian and 180° divide the earth into the eastern and western hemispheres; the equator divides it into the northern and southern hemispheres. India lies in the northern and eastern hemispheres."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Geographical time-lag"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "The earth turns 360° in 24 hours, so 15° = 1 hour and 1° = 4 minutes. The standard time of a country is taken from its central meridian. India extends from 68° E to 97° E and its central meridian is 82°30' E (near Naini, Allahabad), so IST is 82.5 × 4 = 330 minutes = 5 hours 30 minutes ahead of Greenwich Mean Time. The local time difference between the east and west ends of India is about two hours. Large countries have several time zones: Australia 3, mainland USA 4, Canada 6, Russia 9. Tourists must adjust their watches and may suffer sleep disorder (jet lag), especially on east-west journeys."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "To calculate time: find the longitude difference (subtract if both are on the same side of 0°, add if on opposite sides), multiply by 4 for minutes and divide by 60 for hours. Add the difference when going east (east is ahead) and subtract when going west. Example: 45° E at 8 am and 120° E: difference 75°, 75 × 4 = 300 minutes = 5 hours, so it is 1 pm at 120° E."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "International Date Line"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "The International Date Line is an imaginary line from the North Pole to the South Pole that separates one calendar day from the next. It follows 180° longitude roughly down the middle of the Pacific Ocean and bends around the Far East of Russia and island groups. Crossing it from west to east (eastbound) takes away one day (the date repeats); crossing it from east to west (westbound) adds a day."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Maps and charts"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Maps are of two kinds: general reference maps (world, countries, rivers, mountains; collected in an atlas) and special or thematic maps (climate, vegetation, rainfall, crops, minerals, roads, railways, air routes). Features of thematic maps useful to tourists: the political map shows boundaries, capitals, cities, ports, roads and railways; the physical map shows elevation by shades (darker for higher); the road map shows roads, petrol pumps and lodging and the distance matrix; the railway map shows gauge, route length, electrified or diesel sections and tracks; the air route map shows airports and routes; the tourist map shows scenic spots, hill stations, monuments, religious places, beaches and sanctuaries; the trekking route map shows paths, heights, camp sites, rivers and mountains. To read a map, check latitude and longitude, the scale, direction and legend."
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Charts: a bar chart compares categories, a line chart shows a trend over time, a pie chart shows proportionate shares of a whole (100%); others are scatter diagrams, histograms and flow charts."
+        ]
+      ]
+    }
+  ]
+}

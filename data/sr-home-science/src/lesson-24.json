@@ -1,0 +1,53 @@
+{
+ "lesson": 24,
+ "title": "Fabric Construction",
+ "module": 5,
+ "summary": [
+  "## Methods of fabric construction",
+  "Fabric is any piece of cloth made from fibres and yarns. Methods: weaving (two sets of yarns interlaced at right angles; firm fabric; poplin, denim, cambric), knitting (one yarn interlooped; stretch and easy care; hosiery, underwear, T-shirts, socks), non-woven (made directly from fibres held by mechanical force, gum or heat; Namada of Kashmir), braided (like braiding hair; trimmings and shoe laces), nets (open-mesh, geometric shapes, knotted yarns; mosquito nets) and laces (yarns criss-crossed, interlooped, interlaced or knotted into open, decorative designs; used as trimmings).",
+  "## Weaving",
+  "Selvedge: the two long finished edges along the length that give strength. Warp (ends): yarns along the length, parallel to the selvedge. Weft (picks or fillings): yarns crosswise, perpendicular to the warp. Thread count: the total number of warps and wefts per square inch; a higher count means better quality and durability, and warps and wefts should be about equal. Process on a loom (like making a chatai): warp yarns laid parallel; some lifted (harness) and the weft carried on a shuttle passed through; the weft is beaten compact with a reed; handloom or power loom.",
+  "Designs come from different yarns and ways of interlacement. Plain weave: the simplest and cheapest; each weft goes alternately over and under the warp (mulmul, organdy, chiffon); firm and wears well with high thread count; variations: rib weave (thin and thick yarns give a line effect) and basket weave (two or more wefts interlaced as a unit with the same number of warps; matting fabric used for cross-stitch). Twill weave: clear diagonal line, very strong and durable (denim, jeans, suits), shows soil less quickly. Satin weave: shiny surface from long warp floats, but the floats snag, so it is weaker than plain or twill. Fancy weaves need special looms: booti designs, corduroy (raised parallel vertical lines), towel (loops).",
+  "## Knitting and comparison",
+  "Knitting makes cloth with needles by interlocking loops with a single yarn; comfortable, stretchable and wrinkle-free; used for sweaters and hosiery; warm because air spaces trap body heat. Courses are successive loops lying crosswise; wales are lengthwise vertical columns of loops. Borders are made with finer needles. Weaving vs knitting: woven uses two sets of yarns at right angles and a loom; knitted uses one yarn interlooped with itself and needles. Woven fabrics are firm, smooth, stable and wrinkle resistant and need ironing; knitted fabrics are stretchable, limp, fit the body and are dried flat. Woven for apparel, upholstery, curtains and linen; knitted for undergarments, hosiery, sweaters, T-shirts and socks."
+ ],
+ "mcq": [
+  ["Which fabric-making technique is used to make socks and T-shirts?", ["Braiding", "Weaving", "Laces", "Knitting"], "D", ["October 2025"]],
+  ["In which fabric are fibres held together by mechanical force, gum or heat?", ["Cambric", "T-shirt", "Namada", "Denim"], "C", ["April 2025"]],
+  ["Which weave has a clear diagonal line on the face of the fabric?", ["Twill", "Plain", "Satin", "Basket"], "A"],
+  ["Which weave gives a shiny surface because of long floats?", ["Satin", "Plain", "Twill", "Rib"], "A"],
+  ["The yarns running along the length of a fabric are called:", ["Warp", "Weft", "Picks", "Courses"], "A"],
+  ["The lengthwise columns of loops in a knitted fabric are called:", ["Wales", "Courses", "Selvedge", "Picks"], "A"],
+  ["Thread count is:", ["Total number of warps and wefts per square inch", "Number of fibres in one yarn", "Number of colours in a fabric", "Length of a fabric"], "A"],
+  ["The simplest and cheapest weave is:", ["Plain weave", "Twill weave", "Satin weave", "Corduroy"], "A"],
+  ["Jeans are made of:", ["Twill weave", "Satin weave", "Net", "Lace"], "A"],
+  ["The finished edge of a fabric along its length is called:", ["Selvedge", "Warp", "Weft", "Wales"], "A", ["April 2025"]],
+  ["Mosquito nets are an example of:", ["Net fabric", "Lace", "Braid", "Non-woven"], "A"],
+  ["Which fabric is used for making shoe laces?", ["Braided fabric", "Satin", "Net", "Namada"], "A", ["April 2025"]],
+  ["The device used to beat the weft yarns compact is called the:", ["Reed", "Shuttle", "Harness", "Needle"], "A"],
+  ["Knitted fabrics are suited to winter wear because they:", ["Trap body heat in air spaces", "Are very thin", "Are stiff", "Do not stretch"], "A"]
+ ],
+ "objective": [
+  ["Draw a figure to show warp and weft yarns. (Describe it.)", "Warp yarns are drawn as parallel vertical lines along the length, parallel to the selvedge. Weft yarns are drawn as horizontal lines passing alternately over and under the warps, at right angles to them.", ["April 2026"]],
+  ["Fill in the blanks. (a) Thread count is the number of ________ and ________ yarns per square inch. (b) Rib weave is made by using ________ yarns with ________ yarns.", "(a) Warp and weft. (b) Thin with thick yarns (or single with doubled yarns).", ["October 2025"]],
+  ["Give one word for the following. (a) A weave in which the surface has diagonal lines (b) A technique used for making shoe laces (c) The finished edge of a fabric along its length (d) One ball of yarn interlooped to get a fabric.", "(a) Twill. (b) Braiding. (c) Selvedge. (d) Knitting.", ["April 2025"]],
+  ["Match Column A with Column B. A: (a) Warp (b) Weft. B: (i) Yarns along the width (ii) Yarns along the length (iii) Looped yarns.", "(a) – (ii). (b) – (i)."],
+  ["Give single words. (a) Interlacing of two sets of yarns at right angles (b) Only one set of yarns interlooped (c) Weave with long floats and shine.", "(a) Weaving. (b) Knitting. (c) Satin weave."]
+ ],
+ "vsa": [
+  ["Explain how laces are constructed.", "Yarns are criss-crossed to create open-mesh designs. The yarns may be interlooped, interlaced or knotted, and laces are used to decorate garments.", ["April 2026"], {"or": ["What are 'courses' and 'wales'? In which type of fabrics are they used?", "Courses are the crosswise rows of loops and wales are the lengthwise columns of loops. They are found in knitted fabrics."]}],
+  ["Why is twill weave used for jeans?", "Twill is a very strong and durable weave. It shows soil less quickly than plain weave."],
+  ["Why is satin weave not as strong as plain or twill weave?", "Satin has long floats on the surface, which snag easily and so weaken the fabric."],
+  ["Why are knitted garments considered appropriate for winter wear?", "Knitted wool has many air spaces which trap body heat. It is also stretchable and comfortable."],
+  ["Write two differences between woven and knitted fabrics.", "Woven fabrics use two sets of yarns and are firm and stable; knitted fabrics use one set of yarn interlooped and are stretchable. Woven fabrics need ironing while knitted fabrics are dried flat."]
+ ],
+ "sa": [
+  ["Enumerate the various methods of fabric making.", "(i) Weaving and knitting. (ii) Non-woven and braided fabrics. (iii) Nets and laces."],
+  ["Describe the process of weaving on a loom (three points).", "(i) Warp yarns are laid parallel and close to each other. (ii) Some warps are lifted and the weft on a shuttle passes through them. (iii) The weft is beaten compact with a reed."],
+  ["Explain the three basic weaves (plain, twill and satin) briefly.", "(i) Plain weave: weft goes alternately over and under the warp; simple and cheap. (ii) Twill weave: diagonal lines; strong and durable. (iii) Satin weave: long floats give a shiny surface but snag easily."],
+  ["Compare weaving and knitting (three points).", "(i) Weaving interlaces two sets of yarns; knitting interloops one yarn. (ii) Woven fabrics are firm and wrinkle resistant; knitted ones are stretchable. (iii) Woven fabrics are used for apparel and linen; knitted for socks, T-shirts and sweaters."]
+ ],
+ "la": [
+  ["Explain the methods of fabric construction in detail.", "(i) Weaving interlaces two sets of yarns at right angles to give a firm fabric. (ii) Knitting interlocks loops of one yarn to give stretch. (iii) Non-woven fabrics like Namada are made directly from fibres. (iv) Braided fabrics are used for trimmings and shoe laces. (v) Nets are open-mesh fabrics used for mosquito nets. (vi) Laces are criss-crossed yarns used to decorate garments."]
+ ]
+}

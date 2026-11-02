@@ -2695,6 +2695,292 @@
           "file": "data/chemistry/paper-3.json"
         }
       ]
+    },
+    {
+      "id": "tourism",
+      "name": "Tourism",
+      "label": "",
+      "level": "senior-secondary",
+      "lessons": [
+        {
+          "no": 3,
+          "title": "Impact of Tourism",
+          "file": "data/tourism/lesson-3.json",
+          "summary": "data/tourism/summary/lesson-3.json"
+        },
+        {
+          "no": 4,
+          "title": "Fundamentals of Travel and Tourism Geography",
+          "file": "data/tourism/lesson-4.json",
+          "summary": "data/tourism/summary/lesson-4.json"
+        },
+        {
+          "no": 5,
+          "title": "Transport for Tourism",
+          "file": "data/tourism/lesson-5.json",
+          "summary": "data/tourism/summary/lesson-5.json"
+        },
+        {
+          "no": 7,
+          "title": "Performing Art Heritage in India",
+          "file": "data/tourism/lesson-7.json",
+          "summary": "data/tourism/summary/lesson-7.json"
+        },
+        {
+          "no": 8,
+          "title": "Indian Architecture as Tourist Attractions",
+          "file": "data/tourism/lesson-8.json",
+          "summary": "data/tourism/summary/lesson-8.json"
+        },
+        {
+          "no": 9,
+          "title": "Culture and Heritages in India-I: Hinduism, Jainism and Buddhism",
+          "file": "data/tourism/lesson-9.json",
+          "summary": "data/tourism/summary/lesson-9.json"
+        },
+        {
+          "no": 10,
+          "title": "Culture and Heritages in India-II: Sikhism, Islam and Christianity",
+          "file": "data/tourism/lesson-10.json",
+          "summary": "data/tourism/summary/lesson-10.json"
+        },
+        {
+          "no": 13,
+          "title": "Growth and Patterns of Tourism in India",
+          "file": "data/tourism/lesson-13.json",
+          "summary": "data/tourism/summary/lesson-13.json"
+        },
+        {
+          "no": 14,
+          "title": "Growth and Patterns of Tourism in World",
+          "file": "data/tourism/lesson-14.json",
+          "summary": "data/tourism/summary/lesson-14.json"
+        },
+        {
+          "no": 18,
+          "title": "Communication and Personality Development",
+          "file": "data/tourism/lesson-18.json",
+          "summary": "data/tourism/summary/lesson-18.json"
+        },
+        {
+          "no": 19,
+          "title": "Tourism Marketing",
+          "file": "data/tourism/lesson-19.json",
+          "summary": "data/tourism/summary/lesson-19.json"
+        },
+        {
+          "no": 20,
+          "title": "Fundamentals of Travel Agency and Tour Operation Business (Module 6A, lesson 20)",
+          "file": "data/tourism/lesson-20.json",
+          "summary": "data/tourism/summary/lesson-20.json"
+        },
+        {
+          "no": 21,
+          "title": "Functions of Travel Agencies and Tour Operations (Module 6A, lesson 21)",
+          "file": "data/tourism/lesson-21.json",
+          "summary": "data/tourism/summary/lesson-21.json"
+        },
+        {
+          "no": 22,
+          "title": "Itinerary Planning and Tour Packaging (Module 6A, lesson 22)",
+          "file": "data/tourism/lesson-22.json",
+          "summary": "data/tourism/summary/lesson-22.json"
+        },
+        {
+          "no": 23,
+          "title": "Hospitality and Catering Industry (Module 6B, lesson 20)",
+          "file": "data/tourism/lesson-23.json",
+          "summary": "data/tourism/summary/lesson-23.json"
+        },
+        {
+          "no": 24,
+          "title": "Front Office Operations (Module 6B, lesson 21)",
+          "file": "data/tourism/lesson-24.json",
+          "summary": "data/tourism/summary/lesson-24.json"
+        },
+        {
+          "no": 25,
+          "title": "Supporting Operations of Hotel (Module 6B, lesson 22)",
+          "file": "data/tourism/lesson-25.json",
+          "summary": "data/tourism/summary/lesson-25.json"
+        },
+        {
+          "no": 901,
+          "tag": "Full paper",
+          "title": "Model Question Paper 1",
+          "file": "data/tourism/paper-1.json"
+        },
+        {
+          "no": 902,
+          "tag": "Full paper",
+          "title": "Model Question Paper 2",
+          "file": "data/tourism/paper-2.json"
+        },
+        {
+          "no": 903,
+          "tag": "Full paper",
+          "title": "Model Question Paper 3",
+          "file": "data/tourism/paper-3.json"
+        }
+      ]
+    },
+    {
+      "id": "sr-home-science",
+      "name": "Home Science",
+      "label": "",
+      "level": "senior-secondary",
+      "lessons": [
+        {
+          "no": 2,
+          "title": "Ethics in Daily Life",
+          "file": "data/sr-home-science/lesson-2.json",
+          "summary": "data/sr-home-science/summary/lesson-2.json"
+        },
+        {
+          "no": 5,
+          "title": "Meal Planning",
+          "file": "data/sr-home-science/lesson-5.json",
+          "summary": "data/sr-home-science/summary/lesson-5.json"
+        },
+        {
+          "no": 6,
+          "title": "Nutritional Status",
+          "file": "data/sr-home-science/lesson-6.json",
+          "summary": "data/sr-home-science/summary/lesson-6.json"
+        },
+        {
+          "no": 9,
+          "title": "Food Preservation",
+          "file": "data/sr-home-science/lesson-9.json",
+          "summary": "data/sr-home-science/summary/lesson-9.json"
+        },
+        {
+          "no": 12,
+          "title": "Space Management",
+          "file": "data/sr-home-science/lesson-12.json",
+          "summary": "data/sr-home-science/summary/lesson-12.json"
+        },
+        {
+          "no": 13,
+          "title": "Income Management",
+          "file": "data/sr-home-science/lesson-13.json",
+          "summary": "data/sr-home-science/summary/lesson-13.json"
+        },
+        {
+          "no": 14,
+          "title": "Energy Conservation",
+          "file": "data/sr-home-science/lesson-14.json",
+          "summary": "data/sr-home-science/summary/lesson-14.json"
+        },
+        {
+          "no": 15,
+          "title": "Environment Management",
+          "file": "data/sr-home-science/lesson-15.json",
+          "summary": "data/sr-home-science/summary/lesson-15.json"
+        },
+        {
+          "no": 16,
+          "title": "Household Equipment",
+          "file": "data/sr-home-science/lesson-16.json",
+          "summary": "data/sr-home-science/summary/lesson-16.json"
+        },
+        {
+          "no": 17,
+          "title": "Consumer Education",
+          "file": "data/sr-home-science/lesson-17.json",
+          "summary": "data/sr-home-science/summary/lesson-17.json"
+        },
+        {
+          "no": 19,
+          "title": "Growth and Development (6-11 Years)",
+          "file": "data/sr-home-science/lesson-19.json",
+          "summary": "data/sr-home-science/summary/lesson-19.json"
+        },
+        {
+          "no": 20,
+          "title": "Adolescence",
+          "file": "data/sr-home-science/lesson-20.json",
+          "summary": "data/sr-home-science/summary/lesson-20.json"
+        },
+        {
+          "no": 21,
+          "title": "Concerns and Issues in Human Development",
+          "file": "data/sr-home-science/lesson-21.json",
+          "summary": "data/sr-home-science/summary/lesson-21.json"
+        },
+        {
+          "no": 24,
+          "title": "Fabric Construction",
+          "file": "data/sr-home-science/lesson-24.json",
+          "summary": "data/sr-home-science/summary/lesson-24.json"
+        },
+        {
+          "no": 26,
+          "title": "Selection of Textiles and Clothing",
+          "file": "data/sr-home-science/lesson-26.json",
+          "summary": "data/sr-home-science/summary/lesson-26.json"
+        },
+        {
+          "no": 27,
+          "title": "Care and Maintenance",
+          "file": "data/sr-home-science/lesson-27.json",
+          "summary": "data/sr-home-science/summary/lesson-27.json"
+        },
+        {
+          "no": 29,
+          "title": "Cleaning and Cleaning Materials (Module 6A, lesson 29)",
+          "file": "data/sr-home-science/lesson-29.json",
+          "summary": "data/sr-home-science/summary/lesson-29.json"
+        },
+        {
+          "no": 30,
+          "title": "Maintenance of Premises (Module 6A, lesson 30)",
+          "file": "data/sr-home-science/lesson-30.json",
+          "summary": "data/sr-home-science/summary/lesson-30.json"
+        },
+        {
+          "no": 31,
+          "title": "Aesthetics at Home (Module 6A, lesson 31)",
+          "file": "data/sr-home-science/lesson-31.json",
+          "summary": "data/sr-home-science/summary/lesson-31.json"
+        },
+        {
+          "no": 32,
+          "title": "The Design (Module 6B, lesson 29)",
+          "file": "data/sr-home-science/lesson-32.json",
+          "summary": "data/sr-home-science/summary/lesson-32.json"
+        },
+        {
+          "no": 33,
+          "title": "Colour (Module 6B, lesson 30)",
+          "file": "data/sr-home-science/lesson-33.json",
+          "summary": "data/sr-home-science/summary/lesson-33.json"
+        },
+        {
+          "no": 34,
+          "title": "Embroidery Stitches (Module 6B, lesson 31)",
+          "file": "data/sr-home-science/lesson-34.json",
+          "summary": "data/sr-home-science/summary/lesson-34.json"
+        },
+        {
+          "no": 901,
+          "tag": "Full paper",
+          "title": "Model Question Paper 1",
+          "file": "data/sr-home-science/paper-1.json"
+        },
+        {
+          "no": 902,
+          "tag": "Full paper",
+          "title": "Model Question Paper 2",
+          "file": "data/sr-home-science/paper-2.json"
+        },
+        {
+          "no": 903,
+          "tag": "Full paper",
+          "title": "Model Question Paper 3",
+          "file": "data/sr-home-science/paper-3.json"
+        }
+      ]
     }
   ]
 }

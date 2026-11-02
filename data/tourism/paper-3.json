@@ -1,0 +1,710 @@
+{
+  "subject": "tourism",
+  "lesson": 903,
+  "title": "Model Question Paper 3",
+  "meta": "Time: 3 hours · Maximum marks: 100 (with one optional module) · Modelled on the April 2026 NIOS paper",
+  "instructions": [
+    "All questions are compulsory. Where a question has OR, answer either one.",
+    "Section A: MCQs carry 1 mark; objective questions carry 2 marks (two parts of 1 mark each).",
+    "Section B: very short answers 2 marks (30–50 words), short answers 3 marks (50–80 words), long answers 6 marks (80–120 words).",
+    "Section C: attempt either Optional Module I (Travel and Tour Operation Business) or Optional Module II (Hospitality Management) in all its questions.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "16 × 1 = 16",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "Street vendors, rickshaw pullers and tea stalls near tourist sites belong to the:",
+          "options": [
+            "Corporate sector",
+            "Informal sector",
+            "Public sector",
+            "Primary sector"
+          ],
+          "answer": "B",
+          "note": "Lesson 3."
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "In all-inclusive package tours about two-thirds of the spending goes to:",
+          "options": [
+            "Local workers",
+            "Local shopkeepers",
+            "Airlines, hotels and other international companies",
+            "The destination's government"
+          ],
+          "answer": "C",
+          "note": "Lesson 3."
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "Which chart is used to study the trend of a phenomenon over a period of time?",
+          "options": [
+            "Pie chart",
+            "Line chart",
+            "Bar chart",
+            "Flow chart"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 4."
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "How many time zones does the mainland of the USA have?",
+          "options": [
+            "Two",
+            "Three",
+            "Four",
+            "Six"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Lesson 4."
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "Which cities are connected by the Golden Quadrilateral highway?",
+          "options": [
+            "Delhi, Bengaluru, Kolkata and Mumbai",
+            "Delhi, Chennai, Guwahati and Mumbai",
+            "Delhi, Chennai, Kolkata and Mumbai",
+            "Delhi, Chennai, Kolkata and Ahmedabad"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Lesson 5."
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "Which musician invented the Dhrupad form of music?",
+          "options": [
+            "Mian Lal Khan",
+            "Kalawant",
+            "Tansen",
+            "Zakir Hussain"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Lesson 7."
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "The stupas of Sanchi and Sarnath are symbols of the achievement of which architecture?",
+          "options": [
+            "Gupta",
+            "Mauryan",
+            "Pallava",
+            "Mughal"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 8."
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "Which Jain religious heritage is where Mahavira attained moksha?",
+          "options": [
+            "Pawapuri, Bihar",
+            "Shatrunjaya, Gujarat",
+            "Girnar, Gujarat",
+            "Shravanabelagola, Karnataka"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Lesson 9."
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "The only bulbous-domed mosque in Kashmir, which holds the Prophet's sacred hair, is:",
+          "options": [
+            "Hazratbal",
+            "Charar-i-Sharif",
+            "Jama Masjid",
+            "Khanqah-i-Moula"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Lesson 10."
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "Tourists spend nearly what part of their money on shopping of handicrafts in India?",
+          "options": [
+            "10%",
+            "20%",
+            "40%",
+            "60%"
+          ],
+          "answer": "C",
+          "note": "Lesson 13."
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "Which of the following is a recreational attraction at a destination?",
+          "options": [
+            "Golf",
+            "Museum",
+            "Mountains",
+            "Trade fair"
+          ],
+          "answer": "A",
+          "note": "Lesson 14."
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "Which of the following is an example of a mega-event attracting tourists worldwide?",
+          "options": [
+            "Olympics",
+            "Local fair",
+            "A museum",
+            "A theme park"
+          ],
+          "answer": "A",
+          "note": "Lesson 14."
+        },
+        {
+          "id": "1.13",
+          "type": "mcq",
+          "q": "Which of the following is not a personality determinant?",
+          "options": [
+            "Heredity",
+            "Environment",
+            "Situation",
+            "Literacy rate"
+          ],
+          "answer": "D",
+          "note": "Lesson 18."
+        },
+        {
+          "id": "1.14",
+          "type": "mcq",
+          "q": "Teams of employees from the same hierarchical level but from different work areas are called:",
+          "options": [
+            "Problem-solving teams",
+            "Cross-functional teams",
+            "Virtual teams",
+            "Self-managed teams"
+          ],
+          "answer": "B",
+          "note": "Lesson 18."
+        },
+        {
+          "id": "1.15",
+          "type": "mcq",
+          "q": "Which of the following is a macro-environment factor?",
+          "options": [
+            "Suppliers",
+            "Consumers",
+            "Demographic environment",
+            "Intermediaries"
+          ],
+          "answer": "C",
+          "years": [
+            "October 2024"
+          ],
+          "note": "Lesson 19."
+        },
+        {
+          "id": "1.16",
+          "type": "mcq",
+          "q": "Sales promotion is:",
+          "options": [
+            "Personal in nature and gives immediate feedback",
+            "Impersonal and aimed at creating demand",
+            "A paid one-way communication by media",
+            "A type of pricing"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 19."
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark (fill in the blanks, true/false, match the columns or one word).",
+      "marks": "14 × 2 = 28",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "Identify True or False. (a) Tourism helps keep local arts and crafts alive through the sale of souvenirs. (b) Terrorism increases the chance of developing tourism.",
+          "answer": "(a) True. (b) False: it reduces the chance.",
+          "note": "Lesson 3."
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Fill in the blanks. (a) ________ is the foundation of attitude. (b) Societal sustainability can be divided into social and ________.",
+          "answer": "(a) Belief. (b) Cultural.",
+          "note": "Lesson 3."
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "Match Column A with Column B. A: (a) Bar chart (b) Pie chart. B: (i) Shows proportionate shares of a whole (ii) Compares values of different categories (iii) Shows a trend over time.",
+          "answer": "(a) – (ii). (b) – (i).",
+          "note": "Lesson 4."
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "State whether True or False. (a) All lines of longitude cut lines of latitude at 90°. (b) Canada has three time zones.",
+          "answer": "(a) True. (b) False: Canada has six time zones (Australia has three).",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 4."
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "Fill in the blanks. (a) The earliest type of boat was the ________. (b) The ________ train has the oldest steam locomotive engine in India.",
+          "answer": "(a) Raft. (b) Fairy Queen.",
+          "note": "Lesson 5."
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "Fill in the blanks. (a) India has the ________ largest railway network in the world. (b) The Golden Quadrilateral connects Delhi, Mumbai, Kolkata and ________.",
+          "answer": "(a) Fourth. (b) Chennai.",
+          "note": "Lesson 5."
+        },
+        {
+          "id": "2.7",
+          "type": "open",
+          "q": "Match Column A with Column B. A: (a) Tabla (b) Shehnai. B: (i) Ustad Bismillah Khan (ii) Ustad Zakir Hussain (iii) Ustad Amjad Ali Khan (iv) Ustad Pyare Khan.",
+          "answer": "(a) – (ii). (b) – (i).",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 7."
+        },
+        {
+          "id": "2.8",
+          "type": "open",
+          "q": "True or False. (a) There were 2,837 towns in India in 1594 (Abul Fazl). (b) Delhi became the capital of British India in 1931.",
+          "answer": "(a) True. (b) False: in 1911 (New Delhi was completed by 1932).",
+          "note": "Lesson 8."
+        },
+        {
+          "id": "2.9",
+          "type": "open",
+          "q": "True or False. (a) The Rath Yatra is held at Puri. (b) Digambaras wear white clothes.",
+          "answer": "(a) True. (b) False: Digambaras are sky-clad and Shwetambaras wear white.",
+          "note": "Lesson 9."
+        },
+        {
+          "id": "2.10",
+          "type": "open",
+          "q": "True or False. (a) Langar is a free kitchen where people eat together. (b) Muslims pray three times a day facing Mecca.",
+          "answer": "(a) True. (b) False: they pray five times a day.",
+          "note": "Lesson 10."
+        },
+        {
+          "id": "2.11",
+          "type": "open",
+          "q": "Identify True or False. (a) In 2014 the country from which India received the largest number of foreign tourists was the UK. (b) The share of foreign tourists in India is less than 1% of world tourists.",
+          "answer": "(a) False: it was the USA. (b) True.",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Lesson 13."
+        },
+        {
+          "id": "2.12",
+          "type": "open",
+          "q": "Identify True or False. (a) Tourist arrivals means the number of persons who get accommodation at a tourist centre for at least 48 hours. (b) In 2012, America recorded the highest growth in total international tourist arrivals.",
+          "answer": "(a) False: for at least a night. (b) False: Asia and the Pacific recorded the highest growth (7%).",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 14."
+        },
+        {
+          "id": "2.13",
+          "type": "open",
+          "q": "True or False. (a) A virtual team uses computer technology to tie together dispersed members. (b) Heredity alone fixes personality at birth.",
+          "answer": "(a) True. (b) False: environment and situation also shape it.",
+          "note": "Lesson 18."
+        },
+        {
+          "id": "2.14",
+          "type": "open",
+          "q": "Fill in the blanks. (a) All those external factors that affect the business and are beyond its control come under the ________ environment. (b) Selling is a ________ oriented approach.",
+          "answer": "(a) Macro. (b) Product.",
+          "years": [
+            "October 2024"
+          ],
+          "note": "Lesson 19."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "10 × 2 = 20",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "Name the 7-S mantras of India's tourism policy.",
+          "answer": "Swagat (welcome), Soochanaa (information), Suvidha (facilitation), Suraksha (security), Sahyog (cooperation), Sanrachnaa (infrastructure) and Safai (cleanliness).",
+          "note": "Lesson 3."
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "Explain the relationship between transportation and tourism in two points.",
+          "answer": "Transport links the tourist-generating area with the destination, so tourism is impossible without it. Its capacity, speed, comfort and safety decide the pace of tourist flow.",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 5."
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "Write any two features of the Santoor.",
+          "answer": "It is a trapezoid-shaped folk instrument of Kashmir made of walnut wood with many strings. It is played with two light hammers (mezrab) and is used in Sufiana kalam.",
+          "note": "Lesson 7."
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "Name the two Buddhist architectural forms and state their use.",
+          "answer": "A stupa is a mound built over Buddha's relics and at sites of his life events. A vihara is a monastery and a chaitya is a congregational hall for preaching and teaching.",
+          "note": "Lesson 8."
+        },
+        {
+          "id": "3.5",
+          "type": "open",
+          "q": "What is Rath Yatra? Where is it held?",
+          "answer": "It is the annual festival at Puri when the idols of Jagannath, Balram and Subhadra are taken in raths to the Gundicha temple and brought back after some days.",
+          "note": "Lesson 9."
+        },
+        {
+          "id": "3.6",
+          "type": "open",
+          "q": "Who was Begum Samru? Why is Sardhana famous?",
+          "answer": "Begum Samru was the Roman Catholic wife of a German mercenary, who commanded his force after his death. She built the beautiful Sardhana church near Meerut, a heritage site visited in March and November.",
+          "note": "Lesson 10."
+        },
+        {
+          "id": "3.7",
+          "type": "open",
+          "q": "Give two reasons for the growth of domestic tourism in India.",
+          "answer": "Rising income levels and purchasing power have grown. The emergence of a dynamic middle class has pushed domestic travel.",
+          "note": "Lesson 13."
+        },
+        {
+          "id": "3.8",
+          "type": "open",
+          "q": "Name any three of the top ten tourist destinations of the world in 2015.",
+          "answer": "France, the United States and Spain (then Italy, the United Kingdom, China, Poland, Mexico, Canada and Hungary).",
+          "note": "Lesson 14."
+        },
+        {
+          "id": "3.9",
+          "type": "open",
+          "q": "Explain 'coherence' as a principle of effective writing.",
+          "answer": "Coherence means relation and clarity among the parts of the writing. It applies to sentences, paragraphs and the whole message.",
+          "years": [
+            "October 2024"
+          ],
+          "note": "Lesson 18."
+        },
+        {
+          "id": "3.10",
+          "type": "open",
+          "q": "Who are the intermediaries in the marketing environment?",
+          "answer": "They are wholesalers, retailers and agents who help bring the product to the consumer and create place and time utility.",
+          "note": "Lesson 19."
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "4 × 3 = 12",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "Explain any three positive economic impacts of tourism.",
+          "answer": "(i) It earns foreign exchange and helps the balance of trade. (ii) The government earns revenue through taxes, entry fees and import duty. (iii) It creates jobs, including informal ones, and encourages investment in infrastructure.",
+          "note": "Lesson 3."
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "What are special or thematic maps? Explain any two thematic maps.",
+          "answer": "Special or thematic maps give information on a theme such as climate or roads. (i) A railway map shows gauge, route length, electrified or diesel sections and single or double track, helping tourists plan train journeys. (ii) A road map shows national and state highways, petrol pumps, lodging and the distance matrix.",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 4."
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "Explain the role of a tourist transport system in three points.",
+          "answer": "(i) It links tourist-generating areas with destinations. (ii) The capacity of the transport system decides the pace of tourist flow. (iii) Comfort, speed, safety, discounts and refreshments act as incentives and good or bad experiences stay in the tourist's mind.",
+          "note": "Lesson 5."
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "Distinguish between advertising and sales promotion (three points).",
+          "answer": "(i) Advertising is impersonal; sales promotion is personal. (ii) Advertising aims at creating demand; sales promotion aims at increasing sales. (iii) Advertising reaches a huge audience but gives no immediate feedback; sales promotion has limited scope and gives immediate feedback.",
+          "note": "Lesson 19."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Long answer questions. Answer in 80–120 words.",
+      "marks": "2 × 6 = 12",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "Explain the process of communication and the barriers to it, in six points.",
+          "answer": "(i) The sender has a message. (ii) Encoding turns it into symbols. (iii) The channel carries it to the receiver. (iv) The receiver decodes it. (v) Feedback completes the process. (vi) Barriers are noise, distance, information overload, language and an unfamiliar medium.",
+          "note": "Lesson 18."
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "Explain the functions of marketing with reference to tourism, in six points.",
+          "answer": "(i) Market research: systematic investigation to know tourists' needs. (ii) Product planning and development: designing and improving products such as tour packages. (iii) Segmentation: grouping tourists by needs, e.g. religious tourists. (iv) Promotion: informing and persuading through advertising, publicity, personal selling and sales promotion. (v) Selling: direct, retail, agency, tele-sales and online. (vi) The marketing mix of the four Ps plus people, physical evidence and process guides these functions.",
+          "note": "Lesson 19."
+        }
+      ]
+    },
+    {
+      "no": 6,
+      "title": "Optional Module I (Travel and Tour Operation Business): Choose the correct answer.",
+      "marks": "4 × 1 = 4",
+      "questions": [
+        {
+          "id": "6.1",
+          "type": "mcq",
+          "q": "Who are called the 'image builders' of a country?",
+          "options": [
+            "Inbound tour operators",
+            "Outbound tour operators",
+            "Retail agents",
+            "Ground handlers"
+          ],
+          "answer": "A",
+          "note": "Lesson 20."
+        },
+        {
+          "id": "6.2",
+          "type": "mcq",
+          "q": "Which of the following is a travel document?",
+          "options": [
+            "Passport",
+            "Ration card",
+            "Voter slip",
+            "Marksheet"
+          ],
+          "answer": "A",
+          "note": "Lesson 21."
+        },
+        {
+          "id": "6.3",
+          "type": "mcq",
+          "q": "Which is the first step in planning a tour itinerary?",
+          "options": [
+            "Research other tours in the market",
+            "Test drive the tour",
+            "Print the brochure",
+            "Sign contracts"
+          ],
+          "answer": "A",
+          "note": "Lesson 22."
+        },
+        {
+          "id": "6.4",
+          "type": "mcq",
+          "q": "Which of these is a supplementary accommodation provider?",
+          "options": [
+            "Homestay",
+            "Five-star hotel",
+            "Resort",
+            "Business hotel"
+          ],
+          "answer": "A",
+          "note": "Lesson 22."
+        }
+      ]
+    },
+    {
+      "no": 7,
+      "title": "Optional Module I (Travel and Tour Operation Business): Objective type questions: each has two parts of 1 mark (fill in the blanks, true/false, match the columns or one word).",
+      "marks": "1 × 2 = 2",
+      "questions": [
+        {
+          "id": "7.1",
+          "type": "open",
+          "q": "Fill in the blanks. (a) A tour in which a firm pays for its employees as a reward is an ________ tour. (b) ________ in package tours means putting all tour documents in a wallet for each tourist.",
+          "answer": "(a) Incentive. (b) Docketing.",
+          "note": "Lesson 22."
+        }
+      ]
+    },
+    {
+      "no": 8,
+      "title": "Optional Module I (Travel and Tour Operation Business): Short answer questions. Answer in 50–80 words.",
+      "marks": "2 × 3 = 6",
+      "questions": [
+        {
+          "id": "8.1",
+          "type": "open",
+          "q": "Why is corporate social responsibility important? Explain in three points.",
+          "answer": "(i) Business should make a direct positive contribution to society. (ii) It supports training, basic amenities in government schools and empowerment of women. (iii) Destination sustainability is possible only when all stakeholders take social responsibility.",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 21."
+        },
+        {
+          "id": "8.2",
+          "type": "open",
+          "q": "Distinguish between GIT and FIT itineraries (three points).",
+          "answer": "(i) GIT follows a fixed itinerary; FIT is flexible. (ii) GIT is cheaper through bulk buying; FIT costs more for the flexibility. (iii) GIT groups share a common affiliation; FIT suits independent travellers who want personal choices.",
+          "note": "Lesson 22."
+        }
+      ]
+    },
+    {
+      "no": 9,
+      "title": "Optional Module II (Hospitality Management): Choose the correct answer.",
+      "marks": "4 × 1 = 4",
+      "questions": [
+        {
+          "id": "9.1",
+          "type": "mcq",
+          "q": "Which type of accommodation offers cheap rooms to tourists at beaches and lakes?",
+          "options": [
+            "Yatri Niwas",
+            "Five-star hotel",
+            "Suite hotel",
+            "Resort"
+          ],
+          "answer": "A",
+          "note": "Lesson 23."
+        },
+        {
+          "id": "9.2",
+          "type": "mcq",
+          "q": "A group rate applies to a group of at least how many people?",
+          "options": [
+            "5",
+            "10",
+            "15",
+            "30"
+          ],
+          "answer": "C",
+          "note": "Lesson 24."
+        },
+        {
+          "id": "9.3",
+          "type": "mcq",
+          "q": "Engineering department expenses account for about what percentage of hotel revenue?",
+          "options": [
+            "10 to 18%",
+            "40 to 50%",
+            "1 to 2%",
+            "70%"
+          ],
+          "answer": "A",
+          "note": "Lesson 25."
+        },
+        {
+          "id": "9.4",
+          "type": "mcq",
+          "q": "Which department is responsible for the overall sanitation of a hotel?",
+          "options": [
+            "Housekeeping",
+            "Food production",
+            "Front office",
+            "Sales"
+          ],
+          "answer": "A",
+          "note": "Lesson 25."
+        }
+      ]
+    },
+    {
+      "no": 10,
+      "title": "Optional Module II (Hospitality Management): Objective type questions: each has two parts of 1 mark (fill in the blanks, true/false, match the columns or one word).",
+      "marks": "1 × 2 = 2",
+      "questions": [
+        {
+          "id": "10.1",
+          "type": "open",
+          "q": "True or False. (a) Training and development includes fire drills, food hygiene and first aid. (b) Preventive maintenance waits for machines to fail.",
+          "answer": "(a) True. (b) False: it is regular action to avoid breakdowns.",
+          "note": "Lesson 25."
+        }
+      ]
+    },
+    {
+      "no": 11,
+      "title": "Optional Module II (Hospitality Management): Short answer questions. Answer in 50–80 words.",
+      "marks": "2 × 3 = 6",
+      "questions": [
+        {
+          "id": "11.1",
+          "type": "open",
+          "q": "Explain the steps of an individual reservation procedure (three points).",
+          "answer": "(i) Receive the request and ask for dates and room type. (ii) Match with room availability on the computerised system and offer alternatives if needed. (iii) Record the guest details and give a confirmation number.",
+          "note": "Lesson 24."
+        },
+        {
+          "id": "11.2",
+          "type": "open",
+          "q": "Explain any three security measures taken by a hotel.",
+          "answer": "(i) Limit access points and monitor them with CCTV. (ii) Scan guest baggage and hotel supplies. (iii) Guest profiling, employee verification and key control.",
+          "note": "Lesson 25."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+ "lesson": 24,
+ "group": "B",
+ "title": "Front Office Operations (Module 6B, lesson 21)",
+ "module": 7,
+ "summary": [
+  "## Front office and room types",
+  "The front office (reception) is the guest's first point of contact. It handles reservation, registration, check-in, check-out, settling accounts, room keys, mail, messages and information; selling rooms gives a hotel its maximum revenue. Room types: single (one single bed, one person), double (a double bed, two persons), twin (two single beds, two persons), twin double (two double beds, two families), lanai (balcony overlooking a garden or scenery, in resorts), suite (drawing room connected to one or more bedrooms, extra facilities, expensive), penthouse (top level, open sky view), adjacent (two rooms with a private connecting door), efficiency (with kitchen, for long stays) and duplex (two levels linked by a staircase).",
+  "## Room tariffs",
+  "Tariff means room rate; an unsold room's revenue is lost forever. Corporate rate (10–20% discount for companies), crib rate (families with a child below 12 years, extra bed), group rate (travel agents booking a group of at least 15), travel agent rate (individual reservations by agents, discount for bulk business), seasonal rate (peak season), off-season rate (to attract guests in low season), government rate (officials on duty), airline rate (airline staff), complimentary rate (free rooms for VVIPs important for the hotel's image) and rack rate (the maximum rate, the one advertised on cards and websites).",
+  "## Reservation",
+  "A reservation is an agreement between guest and hotel that the guest rents the room at a given time for a fixed period. Importance: it sells the main product and increases income, matches guest needs with available rooms and helps estimate future business. Sources: individual guests, travel agents, companies and the hotel's sales and marketing executives. Types: confirmed (the hotel guarantees the room, usually against an advance) and unconfirmed (accepted but availability not guaranteed). Individual reservation steps: receive the request, ask arrival and departure dates and room type, match with availability on the computerised system, offer alternatives if not available, record guest details on the reservation form and give a confirmation number. Group reservation also fixes the rooms kept aside, the cut-off date, meal plans and sends a confirmation letter to the group leader.",
+  "## Sections of the front office",
+  "Reservation (booking rooms in advance and keeping records); reception (welcoming guests, registration, assigning rooms); information (guest mail, parcels, messages, information on city and hotel); communication or telephone (incoming calls, call accounting, directing calls); bell desk (luggage handling on arrival and departure, general purchases such as medicines and stamps, paging, left-luggage room); concierge (personalised services: restaurant reservations, tickets for movies, theatre and sports, special transport by luxury cars, helicopters or aircraft); cash and bills (guest accounts, bills at check-out, settlement by card, cash and traveller's cheques, foreign currency exchange); travel desk (pick-up and drop, taxis, city sightseeing, guides and translators).",
+  "## Handling procedures",
+  "Telephone rules: answer within three rings, greet according to the time of day, give the hotel name and ask 'how may I help you?', talk politely, slowly and clearly, listen, keep a notepad, take messages (caller's name, message, number), never put a caller on hold without checking back every minute and close politely. Outgoing calls: speak clearly, give your name and the company, apologise for a wrong number and leave your name, number and reason. Message handling: when a guest is out, take the message on a slip in duplicate and deliver it quickly; messages for future guests go to the reservation section. Luggage handling: the doorman welcomes, the bell boy takes luggage to the bell desk, escorts to the room after check-in, places it on the luggage rack and explains the room; on departure he collects luggage on a call, waits for check-out and loads the vehicle.",
+  "Emergencies: fire (inform the fire brigade with exact location, alert guests to use stairs not lifts, help the old and handicapped, assemble for roll call), death (inform the general manager, security and doctor, avoid panic, remove the body through the staff entrance, seal the room, contact relatives), sick guest (first aid, call a doctor and keep the guest comfortable), bomb threat (raise the alarm, call security and ask everyone to leave) and theft (door chains, peepholes, proper key control, not giving room numbers to visitors, security rounds and lit corridors). 'The silent complainer never comes back.'"
+ ],
+ "mcq": [
+  ["Which room type is designed for two people with two separate single beds?", ["Twin", "Suite", "Double", "Lanai"], "A", ["April 2026"]],
+  ["Which of the following is not a main function of the front office in a hotel?", ["To take advance booking for rooms", "To handle the phone calls of the hotel", "To provide food to the staff of the hotel", "To assign a room to the guest"], "C", ["April 2025"]],
+  ["Which of the following is not a function of the bell desk in a hotel?", ["Handling guests' luggage during arrival and departure", "Making reservations in restaurants", "Making general purchases like medicines and stamps", "Keeping guests' luggage in the left luggage room"], "B", ["April 2024"]],
+  ["Which of the following is a function of the travel desk in a hotel?", ["Assign a room to the guest", "Locate a guest in a specific area of the hotel", "Provide taxis for guests", "Handle the phone calls"], "C", ["April 2024"]],
+  ["Which section of the front office provides personalised services such as booking theatre tickets?", ["Concierge", "Bell desk", "Cash and bills", "Information"], "A"],
+  ["Which room has two different levels connected by a staircase?", ["Duplex", "Efficiency", "Adjacent", "Penthouse"], "A"],
+  ["A room with kitchen facilities for long-staying guests is called:", ["Efficiency", "Lanai", "Suite", "Twin"], "A"],
+  ["The maximum rate at which a room can be sold is called the:", ["Rack rate", "Crib rate", "Group rate", "Seasonal rate"], "A"],
+  ["Crib rate is offered to families with a child below:", ["5 years", "8 years", "12 years", "18 years"], "C"],
+  ["A group rate applies to a group of at least how many people?", ["5", "10", "15", "30"], "C"],
+  ["A reservation in which the hotel cannot guarantee the room is called:", ["Confirmed", "Unconfirmed", "Guaranteed", "Group"], "B"],
+  ["Within how many rings should an incoming call be answered?", ["Three", "Five", "Seven", "Ten"], "A"],
+  ["Which of the following is the first step in handling a fire situation?", ["Inform the fire-fighting department", "Collect luggage", "Close the hotel gate", "Call the newspaper"], "A"],
+  ["Which room is offered free to VVIPs important to the hotel's image?", ["Complimentary", "Rack", "Corporate", "Crib"], "A"]
+ ],
+ "objective": [
+  ["Fill in the blanks. (a) A ________ room has two single beds and is meant for two persons. (b) A ________ room has a balcony overlooking a garden or scenic beauty, generally in resort hotels.", "(a) Twin. (b) Lanai.", ["April 2026"]],
+  ["True or False. (a) A confirmed reservation guarantees the room, usually against an advance. (b) Message handling means taking guests' luggage to their room.", "(a) True. (b) False: it means receiving and delivering messages to guests."],
+  ["Fill in the blanks. (a) The process of locating a guest in a specific area of the hotel is called ________. (b) A ________ number given to the guest is the proof of confirmation of a reservation.", "(a) Paging. (b) Confirmation.", null],
+  ["Match Column A with Column B. A: (a) Corporate rate (b) Government rate. B: (i) Discount offered to companies sending executives (ii) Rate offered to officials on duty (iii) Maximum advertised rate.", "(a) – (i). (b) – (ii)."],
+  ["True or False. (a) The reservation section is located at the back of the front office. (b) In a fire, guests should be asked to use the lifts.", "(a) True. (b) False: guests should use the staircase."]
+ ],
+ "vsa": [
+  ["Differentiate between a double room and a twin room.", "A double room has one double bed for two persons. A twin room has two single beds for two persons."],
+  ["Why is a suite more expensive than other rooms?", "A suite has a drawing room connected to one or more bedrooms. It has extra facilities such as expensive furniture, a fruit basket and kitchen facilities."],
+  ["What is meant by crib rate and rack rate?", "Crib rate is for families with a child under 12 who need an extra bed. Rack rate is the maximum rate advertised on cards and websites."],
+  ["List any two rules of telephone handling.", "Answer within three rings with a greeting and the hotel's name. Speak slowly and clearly, listen attentively and take messages when the person is not available."]
+ ],
+ "sa": [
+  ["Distinguish between 'Bell desk' and 'Concierge' in a hotel with examples.", "(i) The bell desk handles luggage during arrival and departure, pages guests and makes small purchases such as medicines and stamps. (ii) The concierge gives personalised services like restaurant reservations, tickets for events and special transport. (iii) For example, the bell boy carries the luggage to the room while the concierge books a helicopter or theatre tickets.", ["April 2025"]],
+  ["Explain the importance of the reservation section (three points).", "(i) It sells the main product, rooms, and so increases the hotel's income. (ii) It matches the guest's needs with available rooms. (iii) It helps estimate the level of future business."],
+  ["Explain the steps of an individual reservation procedure (three points).", "(i) Receive the request and ask for dates and room type. (ii) Match with room availability on the computerised system and offer alternatives if needed. (iii) Record the guest details and give a confirmation number."],
+  ["Explain the steps in handling a fire emergency in a hotel (three points).", "(i) Inform the fire-fighting department with exact location and size of the fire. (ii) Alert all guests to use the staircase, not the lift, and help the old and handicapped. (iii) Assemble outside for roll call and use extinguishers."],
+  ["Explain how a hotel prevents theft (three points).", "(i) Security features in rooms such as automatic doors, chains and peepholes. (ii) Proper key control and not giving room numbers to visitors. (iii) Security rounds, lit corridors and prompt reporting of suspicious persons."]
+ ],
+ "la": [
+  ["Explain the different sections of the front office of a hotel, in six points.", "(i) Reservation books rooms in advance and updates records. (ii) Reception welcomes guests, does registration and assigns rooms. (iii) Information deals with mail, messages and city information. (iv) Communication or telephone answers incoming calls and directs them. (v) Bell desk and concierge handle luggage, paging and personalised services. (vi) Cash and bills prepare accounts and bills, and the travel desk arranges taxis, sightseeing and guides."],
+  ["Explain the different types of room tariffs, in six points.", "(i) Corporate rate gives 10–20% discount to companies. (ii) Crib rate is for families with a child below 12 years. (iii) Group rate applies to groups of at least 15 booked by travel agents. (iv) Seasonal and off-season rates match peak and low demand. (v) Government and airline rates are for officials and airline staff. (vi) Complimentary rate is free for VVIPs, and rack rate is the maximum advertised rate."]
+ ]
+}

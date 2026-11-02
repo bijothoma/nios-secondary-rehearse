@@ -1,0 +1,449 @@
+{
+  "subject": "tourism",
+  "lesson": 4,
+  "title": "Fundamentals of Travel and Tourism Geography",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "12 × 1 = 12",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "Which of the following refers to the International Date Line?",
+          "options": [
+            "An imaginary line that runs from the North Pole to the South Pole",
+            "An imaginary line that runs in the east-west direction",
+            "An imaginary line that divides the earth into the northern and southern hemispheres",
+            "An imaginary straight line passing through the meridian of 180° longitude"
+          ],
+          "answer": "D",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "A country spans from 75° E to 90° E longitude. If its standard meridian is 82°30' E, what is its standard time offset from GMT?",
+          "options": [
+            "+7 hours 30 minutes",
+            "+6 hours 30 minutes",
+            "+4 hours 30 minutes",
+            "+5 hours 30 minutes"
+          ],
+          "answer": "D",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Working: 82.5° × 4 minutes = 330 minutes = 5 hours 30 minutes ahead of GMT (east)."
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "The Prime Meridian is:",
+          "options": [
+            "0°",
+            "180°",
+            "90° E",
+            "90° W"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "Approximately how much time does the earth take to complete one rotation on its axis?",
+          "options": [
+            "24 hours",
+            "6 hours",
+            "36 hours",
+            "12 hours"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "If 360 degrees is equal to 24 hours, then 30 degrees will be equal to:",
+          "options": [
+            "One hour",
+            "Two hours",
+            "Three hours",
+            "Four hours"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Working: 360° ÷ 24 = 15° per hour, so 30° = 2 hours."
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "What will happen if a tourist crosses the International Date Line from west to east?",
+          "options": [
+            "One day is reduced",
+            "One day is added",
+            "No change",
+            "None of the above"
+          ],
+          "answer": "A",
+          "fixed": true,
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "Which of the following statements about longitudes is not correct?",
+          "options": [
+            "It is an imaginary line which runs from the North Pole to the South Pole",
+            "It is distance in degrees east or west of the prime meridian",
+            "Points east of the prime meridian are numbered from 0° to 180° west",
+            "All lines of longitude cut lines of latitude at 90°"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2025",
+            "October 2024"
+          ]
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "Which of the following statements is not true about the equator?",
+          "options": [
+            "It is known as a great circle",
+            "It passes through the centre of the earth, between the two poles",
+            "It is the only longitude which passes through the centre of the earth",
+            "Travelling along the equator represents the shortest distance on it"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "Which map shows tracks in mountain areas along with heights and camp sites?",
+          "options": [
+            "Political map",
+            "Road map",
+            "Trekking route map",
+            "Railway map"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "Which chart is used to study the trend of a phenomenon over a period of time?",
+          "options": [
+            "Pie chart",
+            "Line chart",
+            "Bar chart",
+            "Flow chart"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "Place A is at 45° E where the time is 8 am. What is the time at place B at 120° E?",
+          "options": [
+            "10 am",
+            "11 am",
+            "1 pm",
+            "3 pm"
+          ],
+          "answer": "C",
+          "note": "Working: 120° − 45° = 75°; 75 × 4 = 300 minutes = 5 hours; B is east, so 8 am + 5 hours = 1 pm."
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "How many time zones does the mainland of the USA have?",
+          "options": [
+            "Two",
+            "Three",
+            "Four",
+            "Six"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2024"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark (fill in the blanks, true/false, match the columns or one word).",
+      "marks": "9 × 2 = 18",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "Fill in the blanks. (a) ________ is used to study the trend of any phenomenon over a certain time period. (b) India's time is decided by the longitude value of ________.",
+          "answer": "(a) A line chart. (b) 82°30' E (the central meridian near Naini, Allahabad).",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "State whether True or False. (a) The prime meridian divides the earth into two hemispheres. (b) All lines of longitude cut the lines of latitude at 90°.",
+          "answer": "(a) True. (b) True.",
+          "years": [
+            "October 2025",
+            "April 2025"
+          ]
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "State whether True or False. (a) All lines of longitude cut lines of latitude at 90°. (b) Canada has three time zones.",
+          "answer": "(a) True. (b) False: Canada has six time zones (Australia has three).",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Fill in the blanks. (a) The latitude that passes through the centre of the earth is called the ________. (b) The line passing through 0° passes through ________ near London.",
+          "answer": "(a) Equator. (b) Greenwich.",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "Fill in the blanks. (a) From the equator to the North Pole, the area is called the ________ hemisphere. (b) The earth rotates on its axis once in ________ hours.",
+          "answer": "(a) Northern. (b) 24.",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "State whether True or False. (a) The longitudinal extent of India is 68° to 97° West. (b) The local time difference between the easternmost and westernmost points of India is about two hours.",
+          "answer": "(a) False: it is 68° E to 97° E. (b) True.",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "2.7",
+          "type": "open",
+          "q": "State whether True or False. (a) India has two time zones. (b) To find the time difference between two places it is enough to know the longitude of one place.",
+          "answer": "(a) False: India follows one standard time (IST). (b) False: the longitudes of both places are needed.",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "2.8",
+          "type": "open",
+          "q": "Fill in the blanks. (a) The imaginary line that separates one calendar day from the next is the ________. (b) A place lying in the ________ has advanced time compared to a place in the west.",
+          "answer": "(a) International Date Line. (b) East.",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "2.9",
+          "type": "open",
+          "q": "Match Column A with Column B. A: (a) Bar chart (b) Pie chart. B: (i) Shows proportionate shares of a whole (ii) Compares values of different categories (iii) Shows a trend over time.",
+          "answer": "(a) – (ii). (b) – (i)."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "9 × 2 = 18",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "Describe any two features of a General Reference Map.",
+          "answer": "It gives general information about spatial units such as the world, continents, countries, districts, cities, rivers, mountains and oceans. It is found in books and atlases, and an atlas is a collection of such maps.",
+          "years": [
+            "April 2026"
+          ],
+          "or": {
+            "q": "Describe any two features of a Political Map.",
+            "answer": "It shows international, state and coastal boundaries, state capitals, cities, ports, roads and railways. Different colours separate political units but no colour has a special meaning."
+          }
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "How does knowledge of geography help in tourism? Explain in two points.",
+          "answer": "It helps tourists locate a place on the globe or map and find the time-lag between origin and destination. It also gives information about transport, distances and environmental conditions, and helps in reading maps and charts.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "Describe any two geographical factors affecting tourism.",
+          "answer": "Location and climate decide the season, route and distance for a destination. Physical features (mountains, coast, deserts, rivers) and time-lag decide what a place offers and how tourists plan their travel.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "Explain the role of geography in travel and tourism.",
+          "answer": "Geography helps tourists locate places with latitude and longitude, calculate time-lag and set clocks, and read maps and charts. It also explains the climate, relief and transport of a destination.",
+          "years": [
+            "October 2025"
+          ],
+          "or": {
+            "q": "Why should travellers have basic knowledge of latitude and longitude? Explain.",
+            "answer": "They locate any place on earth precisely and help find time differences. Latitude also indicates the climate of a place."
+          }
+        },
+        {
+          "id": "3.5",
+          "type": "open",
+          "q": "Describe any two features of a tourist map.",
+          "answer": "It shows places of tourist interest such as scenic spots, hill stations, monuments, religious places, beaches and sanctuaries. It also shows their location in relation to rivers, lakes, mountains and forests and is prepared from national to local level.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "3.6",
+          "type": "open",
+          "q": "What is a special or thematic map? Name two thematic maps.",
+          "answer": "A special or thematic map gives specific information such as climate, rainfall, vegetation, crops, minerals, roads or railways. Examples are the road map and the railway map (also the trekking route map).",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "3.7",
+          "type": "open",
+          "q": "Define the term 'thematic map'.",
+          "answer": "A thematic map is a special map that shows one theme or topic, such as climate, vegetation, rainfall, industries, roads, railways or air routes.",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "3.8",
+          "type": "open",
+          "q": "What is the International Date Line? What happens when it is crossed?",
+          "answer": "It is an imaginary line along 180° longitude from pole to pole that separates one calendar day from the next. Crossing it eastbound subtracts a day and crossing westbound adds a day."
+        },
+        {
+          "id": "3.9",
+          "type": "open",
+          "q": "Distinguish between latitude and longitude (two points).",
+          "answer": "Latitudes run east-west, are parallel and measure distance north or south of the equator; longitudes run from pole to pole, are not parallel and measure distance east or west of the prime meridian."
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "5 × 3 = 15",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "Describe any three features of a trekking route map.",
+          "answer": "(i) It shows the tracks in mountain areas along which trekking is possible. (ii) It shows the heights at different places and camp pitching grounds. (iii) It also shows rivers and the mountain system, helping adventure tourists plan the trek.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "What are special or thematic maps? Explain any two thematic maps.",
+          "answer": "Special or thematic maps give information on a theme such as climate or roads. (i) A railway map shows gauge, route length, electrified or diesel sections and single or double track, helping tourists plan train journeys. (ii) A road map shows national and state highways, petrol pumps, lodging and the distance matrix.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "How do geographical factors affect tourism? Explain.",
+          "answer": "(i) Location and distance from the source decide cost and time-lag. (ii) Climate and relief decide the season and the type of tourism, such as hill stations in summer. (iii) Natural features such as coasts, mountains and rivers form attractions.",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "Explain how to calculate the time at one place from the time at another, in three points.",
+          "answer": "(i) Find the longitude difference: subtract if both are on the same side of the prime meridian, add if on opposite sides. (ii) Multiply the difference by 4 to get minutes and divide by 60 for hours. (iii) Add the time difference if the other place is east and subtract if it is west."
+        },
+        {
+          "id": "4.5",
+          "type": "open",
+          "q": "Distinguish between a bar chart and a pie chart.",
+          "answer": "(i) A bar chart uses rectangular bars to compare values for different categories such as arrivals at centres. (ii) A pie chart is a circle divided into sectors showing each item's share of a total (100%). (iii) Bars suit comparison and pies suit proportions."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Long answer questions. Answer in 80–120 words.",
+      "marks": "3 × 6 = 18",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "Explain the significance of geography for tourism in six points.",
+          "answer": "(i) It helps in locating a place with latitude and longitude. (ii) It helps calculate the time-lag between source and destination. (iii) It helps set the time of a clock in a global context and adjust for the date line. (iv) Maps and charts show facts about places, transport and distances. (v) It explains the environment, climate and relief of the destination so that seasons can be chosen. (vi) It helps tourists understand and read different maps, such as political, road, railway and tourist maps."
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "Explain how a tourist can find the time difference between two places on the globe, with the effect of the International Date Line, in six points.",
+          "answer": "(i) Earth rotates 360° in 24 hours, so 15° is one hour and 1° is four minutes. (ii) Find the longitude difference by subtracting (same hemisphere) or adding (different hemispheres). (iii) Multiply by 4 for minutes and divide by 60 for hours. (iv) The time is ahead in the east, so add going east and subtract going west. (v) Example: 45° E at 8 am and 120° E gives 75° × 4 = 300 minutes = 5 hours, so 1 pm. (vi) Crossing the International Date Line (180°) eastbound reduces one day and westbound adds one day."
+        },
+        {
+          "id": "5.3",
+          "type": "open",
+          "q": "Explain any four thematic maps useful to tourists, in six points.",
+          "answer": "(i) Political map: boundaries, capitals, ports, roads and railways, to locate places. (ii) Physical map: relief by shades, to prepare for elevation and temperature. (iii) Road map: highways, petrol pumps and lodging, with the distance matrix. (iv) Railway map: gauge, route length and electrified or diesel lines, to plan journeys. (v) Air route map: airports and routes, to find short routes. (vi) Tourist and trekking maps: attractions, paths, heights and camp sites."
+        }
+      ]
+    }
+  ]
+}

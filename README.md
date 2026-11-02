@@ -130,6 +130,16 @@ question's own short note.
   `build_sci.py` (47 questions, 85 marks: 19 MCQs, twelve 2-mark objective questions of four statements or pairs, ten
   2-mark, four 3-mark and two 5-mark answers). Only the 15 public-exam lessons of the NIOS syllabus bifurcation are
   included; past-paper questions of April 2022 to April 2026 are tagged by exam.
+- `tools/build_opt.py`: shared builder for subjects with optional modules; `tools/build_homesci.py` builds Senior Secondary
+  Home Science (321) from `data/sr-home-science/src/lesson-<n>.json` (43 questions, 80 marks: 16 MCQs, twelve 2-mark
+  objective questions, nine 2-mark, four 3-mark and two 5-mark answers, three MCQs, one objective, two very short and one
+  short answer of which come from Optional Module A or B). Only the 16 compulsory and 6 optional public-exam lessons are
+  included (lessons 29-31 of Housekeeping and 32-34 of Creative Hand Embroidery in the app).
+- `tools/build_tourism.py`: builds Senior Secondary Tourism (337) from `data/tourism/src/lesson-<n>.json` with
+  `build_opt.py` (53 questions, 100 marks: 16 MCQs, fourteen 2-mark objective questions, ten 2-mark, four 3-mark and two
+  6-mark answers; Section C has four MCQs, one objective and two short answers from Optional Module I or II). Only the 11
+  compulsory and 6 optional public-exam lessons are included (lessons 20-22 of Travel and Tour Operation and 23-25 of
+  Hospitality Management in the app). Past-paper questions of April 2024 to April 2026 are tagged by exam.
 - `tools/build_painting.py`: builds Secondary Painting (225) from `data/painting/src/lesson-<n>.json` with `build_sci.py`
   (14 questions, 30 marks: 6 MCQs, a passage with five fill-in-the-blanks, a passage with four true/false statements, four
   2-mark, one 3-mark and one 4-mark answer). Only the 6 public-exam lessons are included; `build_sci.py` now supports

@@ -1,0 +1,350 @@
+{
+  "subject": "sr-home-science",
+  "lesson": 5,
+  "title": "Meal Planning",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "14 × 1 = 14",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "Which of the following is a characteristic of a balanced diet?",
+          "options": [
+            "Inclusion of both plant and animal foods",
+            "Inclusion of only expensive foods",
+            "Inclusion of any two food groups",
+            "Inclusion of seasonal and non-seasonal foods"
+          ],
+          "answer": "A",
+          "fixed": true,
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "Ritu is preparing a meal but has run out of wheat flour. Which is the best alternative to wheat flour?",
+          "options": [
+            "Paneer",
+            "Bajra",
+            "Ghee",
+            "Mango"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "A low-fibre diet is suggested for persons suffering from:",
+          "options": [
+            "Diarrhoea",
+            "Constipation",
+            "Fever",
+            "Jaundice"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "Which of the following statements is a fact about diet?",
+          "options": [
+            "Starvation diet is good for fast weight loss",
+            "Turmeric should be avoided in jaundice",
+            "Diabetics should never eat rice or potatoes",
+            "The body needs food to recover from diarrhoea"
+          ],
+          "answer": "D",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "The most important factor in meal planning is:",
+          "options": [
+            "Nutritional adequacy",
+            "Time available",
+            "Religion",
+            "Sex"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "Substituting one food for another in the same group so that the nutrients stay the same is called:",
+          "options": [
+            "Food exchange",
+            "Fortification",
+            "Food adulteration",
+            "Satiety"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "Which of the following food groups mainly supplies energy and fat?",
+          "options": [
+            "Fats and sugars",
+            "Fruits and vegetables",
+            "Pulses",
+            "Milk"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "The feeling of fullness after eating is called:",
+          "options": [
+            "Satiety",
+            "Appetite",
+            "Weaning",
+            "Exchange"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "A high-fibre diet is recommended for a person suffering from:",
+          "options": [
+            "Constipation",
+            "Diarrhoea",
+            "Jaundice",
+            "Fever"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "A low-fat diet is advised in:",
+          "options": [
+            "Jaundice",
+            "Diabetes",
+            "Hypertension",
+            "Fever"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "Which food is to be avoided by a person with high blood pressure?",
+          "options": [
+            "Pickles and papads",
+            "Dal",
+            "Chapati",
+            "Fruits"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "How many meals may a patient need per day for speedy recovery?",
+          "options": [
+            "8 to 10 small meals",
+            "Only 2 large meals",
+            "1 meal",
+            "3 heavy meals"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.13",
+          "type": "mcq",
+          "q": "Weaning foods are started for infants at the age of:",
+          "options": [
+            "6 months",
+            "1 month",
+            "2 months",
+            "18 months"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.14",
+          "type": "mcq",
+          "q": "One chapati can be exchanged with:",
+          "options": [
+            "1 slice of bread",
+            "1 glass of milk",
+            "1 tsp of butter",
+            "1 egg"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark (true/false, match the columns, fill in the blanks or give reasons).",
+      "marks": "5 × 2 = 10",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "State True or False. (a) The frequency of food for a pregnant woman should be increased. (b) One cup of poha gives the same calories as one chapati. (c) Out-of-season food is less nutritious. (d) Food exchange makes diet planning easy.",
+          "answer": "(a) True. (b) False: ½ cup poha equals one chapati. (c) True. (d) True.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Meal planning is influenced by nutritional adequacy and time available. Support this statement with two examples each.",
+          "answer": "Nutritional adequacy: a growing child needs more protein and a pregnant woman needs more calcium. Time available: a working mother can cook one dish like paushtik pulao instead of three or four items.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "Match the diseases with the therapeutic diets. A: (1) Diarrhoea (2) Hypertension (3) Constipation (4) Fever. B: (a) Low salt (b) High fibre (c) Low fibre (d) High calorie, high protein.",
+          "answer": "(1) – (c). (2) – (a). (3) – (b). (4) – (d)."
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Which four food items can Anita include in her seven-month-old child's meal?",
+          "answer": "Mashed banana or potato, porridge, kheer and mashed dal or khichdi.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "Categorise into liquid and semi-solid foods: sago kheer, soup, custard, khichdi, lassi, fruit juice.",
+          "answer": "Liquid: soup, lassi, fruit juice. Semi-solid: sago kheer, custard, khichdi."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "6 × 2 = 12",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "List the five major food groups.",
+          "answer": "Cereals and grains, pulses and legumes, milk and meat products, fruits and vegetables, and fats and sugars.",
+          "years": [
+            "April 2026"
+          ],
+          "or": {
+            "q": "What is therapeutic diet?",
+            "answer": "It is a special modified diet given to a person with a disease to help recovery. It is a modification of the normal diet in consistency, nutrient content or frequency."
+          }
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "Priya is in her second trimester of pregnancy. Identify two modifications in the family meal to meet her increased nutritional needs.",
+          "answer": "Increase protein-rich foods such as milk, pulses and egg, and foods rich in iron, calcium and vitamins A and C. Give small frequent meals with more water and fibre against constipation.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "Explain any two modifications in the diet with one example each.",
+          "answer": "Quantitative modification changes portion size or number of meals; an adolescent boy gets larger portions. Qualitative modification changes the consistency or spices; babies get mashed dal and old people soft, less spicy food.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "A family likes to consume curd daily. Suggest four different ways curd can be served.",
+          "answer": "As plain curd, as raita with vegetables or fruit, as lassi or buttermilk, and as kadhi or in paranthas and dahi vada.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "3.5",
+          "type": "open",
+          "q": "What is food exchange? Give one example.",
+          "answer": "It is replacing one food by another in the same group so that the nutrients stay the same. For example, one chapati can be exchanged with a slice of bread or half a cup of rice."
+        },
+        {
+          "id": "3.6",
+          "type": "open",
+          "q": "Why should a therapeutic diet resemble the family diet?",
+          "answer": "Diets based on the daily diet are better accepted. The patient does not feel that he is eating something completely different."
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "4 × 3 = 12",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "Write short notes on qualitative modification, quantitative modification and food exchange.",
+          "answer": "(i) Qualitative modification changes the nutrients, consistency, spices or fibre, such as mashed khichdi for babies. (ii) Quantitative modification changes the portion size or number of meals, such as smaller more frequent meals for the sick. (iii) Food exchange replaces one food with another of equal nutritive value, such as 1 egg with 1 glass of milk."
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "List the factors you will keep in mind while making a tiffin for school-going children.",
+          "answer": "(i) It should be tasty and attractive, because children skip breakfast and take tiffin. (ii) It should be energy rich and high in protein, vitamins and minerals. (iii) It should suit likes and dislikes, be easy to eat and use seasonal foods economically."
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "Suggest modifications in the diet of a person suffering from fever (three points).",
+          "answer": "(i) Give a liquid or semi-solid diet such as soups, juices, milk, khichdi and dalia. (ii) Give a high-calorie, high-protein diet with milk, egg or chicken. (iii) Give small meals every 2–3 hours and avoid fried and spicy foods."
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "Explain the modification of the family meal for an infant of 6 to 12 months (three points).",
+          "answer": "(i) Mother's milk suffices up to 6 months, then weaning begins gradually. (ii) Liquids (juice, soups) at 6 months, semi-solids (porridge, kheer, mashed banana) at 6–9 months and solids (khichdi, egg, chapati) at 9–12 months. (iii) More calcium and protein foods like milk, egg and green leafy vegetables are given."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Long answer questions. Answer in 80–120 words.",
+      "marks": "1 × 5 = 5",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "How can a person's diet be modified in different diseases? Explain the diet for diarrhoea, diabetes and hypertension with the types of modification.",
+          "answer": "(i) Modifications are in consistency, nutrient content and interval or frequency of feeding. (ii) Diarrhoea: liquid or semi-solid, low fibre, frequent meals every 1–2 hours with fluids. (iii) Take soups, banana, curd and boiled egg; avoid whole cereals, fried foods and leafy vegetables. (iv) Diabetes: normal consistency, no sugar, six small meals at fixed times. (v) Take vegetables, dal, roti, milk and curd; avoid sugar, honey, jam and cold drinks. (vi) Hypertension: low calorie, low cholesterol and low salt; avoid pickles, papad and butter."
+        }
+      ]
+    }
+  ]
+}

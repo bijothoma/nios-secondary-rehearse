@@ -1,0 +1,54 @@
+{
+ "lesson": 14,
+ "title": "Energy Conservation",
+ "module": 3,
+ "summary": [
+  "## Energy and its sources",
+  "Energy is the capacity for doing work. The sun is the source of most natural energy: fossil fuels (coal, oil, natural gas) formed from plant material over millions of years, moving water is part of the sun-driven water cycle, and wind is caused by sun-caused changes in air temperature. Other sources: nuclear fuels (uranium, plutonium) and geothermal energy (solar heat trapped by rocks deep within the earth). Renewable sources have an endless supply (sun, wind, water, geothermal); non-renewable are limited (fossil fuels, wood, nuclear fuels and, because hydro sites are already used up, electricity). Non-conventional sources are the renewable ones and conventional sources are the non-renewable ones.",
+  "## Why conserve energy?",
+  "Energy conservation means using less energy for the same activity (e.g. cooking dal, rice and potatoes together in a pressure cooker). Reasons: demand exceeds supply (population, industrialisation, traffic, automation) and we can only reduce demand; energy saved is energy generated ('Save on Something', S.O.S.); and fuels are limited: natural gas about 30 years (AD 2035), oil about 50 years (AD 2055), coal about 280 years (AD 2285).",
+  "## How to conserve energy",
+  "At home (power): switch off lights and fans when leaving a room; replace bulbs by tubelights (a 40 W tubelight gives twice the light of a 100 W bulb, a 60% saving); electronic chokes use one-third energy; keep fixtures clean (dust reduces light by up to 30%); dimmers; light-coloured walls reduce lighting needs by up to 40%; electronic fan regulators; a refrigerator of the right size (oversized ones use more power), do not open the door often, defrost regularly; use the washing machine at full load; mix hot water in a bucket instead of a geyser; switch on the AC an hour later and off an hour earlier; collect clothes before ironing; avoid non-ISI appliances. Fuel: ISI stoves, the 'unnat chullah' (20–25% more heat efficient), solar cookers, pressure cookers and separators, copper-bottom or sandwich-bottom pans, small burners for small vessels, clean burner holes, switch off the regulator at night and serve food soon after cooking. On the farm: maintain tractors (poor maintenance loses 25% of diesel), prevent leakage (one drop per second wastes 2,000 litres a year), switch off the engine when idle, use the right gear (wrong gear raises diesel use by 30% and cuts work efficiency by 50%), clean the air filter, replace old tyres and dig lengthwise. At the workplace: switch off lights, fans and computers, minimise ACs, avoid unnecessary photocopying and use the stairs. On the road: car pools, slow and constant speed, minimal braking, correct tyre pressure, no fuel leaks, a tuned engine, solar panels and light-sensitive switches for street lights, and solar-powered signs instead of neon.",
+  "## Energy options for the future",
+  "Biogas: methane-rich gas from fermentation of animal manure without air; a plant fed by the manure of 2–3 animals suffices for cooking and lighting for a family of four; the sludge is an excellent fertiliser; keeps surroundings clean, prevents smoke diseases, conserves forests and gives jobs. Solar energy: free and non-polluting; solar cooker (shallow box with black sides and bottom and a glass top; reduces fuel cost, saving about 2 kg of wood a day; safe, needs no constant attention, cooks up to four dishes, easy to use), solar lighting (solar cells with storage batteries for streets, homes and neon signs) and solar heating (water heating, central heating, desalination, drying and small refrigerators for drugs and perishables). Hydel energy: big projects (Bhakra-Nangal, DVC) have used the major sites, so micro-hydel projects on smaller rivers are needed; they need less investment, are easy to maintain, supply remote areas not on the grid, reduce distribution cost and ease pressure on large projects. Wind energy: free and non-polluting, suits isolated and hilly areas; doubling the wind speed increases the energy eightfold; about 20 km/hr is needed for economical electricity and 10 km/hr to run wind pumps. Advantages of non-conventional sources: never-ending supply, easily available, pollution free, locally produced so low distribution cost, small-scale and low investment, and jobs for local people."
+ ],
+ "mcq": [
+  ["What is the main advantage of installing micro hydro projects?", ["Requires heavy investment on installation", "Difficult to maintain", "Increases cost of distribution", "Supplies electricity to far-flung and remote areas"], "D", ["October 2025"]],
+  ["What is an effective way to save electricity at home?", ["Frequently open the refrigerator door", "Use bulbs instead of CFLs", "Switch off lights and fans when leaving a room", "Use high-power appliances unnecessarily"], "C", ["October 2025"]],
+  ["Which of the following statements highlight the advantages of using a solar cooker? (i) It generates employment (ii) It reduces fuel cost (iii) It is totally safe to use (iv) It generates electricity (v) It is very easy to use", ["(ii), (iv), (i)", "(i), (iii), (iv)", "(i), (iv), (v)", "(ii), (iii), (v)"], "D", ["April 2025"]],
+  ["The chief constituent of biogas is:", ["Methane", "Oxygen", "Hydrogen", "Carbon monoxide"], "A"],
+  ["Which of the following is a renewable source of energy?", ["Sunlight", "Coal", "Petroleum", "Natural gas"], "A"],
+  ["Which of the following is a non-renewable source of energy?", ["Wind", "Water", "Fossil fuels", "Sun"], "C"],
+  ["The device used to transform daylight into electrical energy is:", ["Solar cell", "Windmill", "Biogas plant", "Dynamo"], "A"],
+  ["A 40 W tubelight gives as much light as a bulb of:", ["200 W", "100 W", "80 W", "60 W"], "B"],
+  ["Using light colours on walls can reduce the lighting requirement by up to:", ["40%", "5%", "80%", "100%"], "A"],
+  ["Electronic chokes consume what fraction of energy compared with traditional chokes?", ["One third", "Half", "Double", "The same"], "A"],
+  ["Using the wrong gear while driving a tractor increases diesel consumption by:", ["30%", "2%", "10%", "75%"], "A"],
+  ["Which of these is NOT an advantage of biogas?", ["Needs heavy fuel imports", "Sludge is an excellent fertiliser", "Prevents smoke diseases", "Conserves forests"], "A"],
+  ["An average wind speed of about how much is essential for economical electricity production?", ["20 km/hr", "2 km/hr", "10 km/hr", "5 km/hr"], "A"],
+  ["The 'unnat chullah' is more heat efficient than the traditional chullah by about:", ["20–25%", "2%", "90%", "50–60%"], "A"]
+ ],
+ "objective": [
+  ["Write True or False. (i) The sludge left after biogas production is a waste product with no use. (ii) Using light-coloured walls can reduce the lighting requirement of a room by up to 40%. (iii) A major advantage of a solar cooker is that it requires constant attention while cooking. (iv) Driving a tractor in the wrong gear can decrease work efficiency by 50%.", "(i) False: it is an excellent fertiliser. (ii) True. (iii) False: it needs no constant attention. (iv) True.", ["April 2026"]],
+  ["State True or False. (a) Nuclear fuel is a renewable source of energy. (b) A pressure cooker helps to save time. (c) Geothermal energy is the solar heat energy trapped by rocks. (d) A small refrigerator consumes less power than a big refrigerator.", "(a) False: it is non-renewable. (b) True. (c) True. (d) True.", ["April 2025"]],
+  ["Fill in the blanks. (a) Biogas is produced by fermentation of ________ in the absence of air. (b) The motto 'S.O.S.' means Save on ________.", "(a) Animal manure. (b) Something.", null],
+  ["Match Column A with Column B. A: (a) Solar cell (b) Windmill. B: (i) Electricity from wind (ii) Electricity from daylight (iii) Gas from manure.", "(a) – (ii). (b) – (i)."],
+  ["Separate renewable (R) and non-renewable (NR) sources: sunlight, petroleum, steam, charcoal, wind, nuclear fuel.", "R: sunlight, wind. NR: petroleum, steam (produced by burning fuels), charcoal, nuclear fuel."]
+ ],
+ "vsa": [
+  ["What are the four advantages of a solar cooker over a gas stove?", "It reduces fuel cost and is totally safe, with no fire or leaking gas. It needs no constant attention and can cook up to four dishes at a time.", ["October 2025"]],
+  ["Why is it important to conserve energy? Give two reasons.", "Demand for energy exceeds the supply because of population, industry and automation. Fuels like oil and gas are limited and may run out in our lifetime.", null],
+  ["List two uses of biogas.", "It is used for cooking and lighting. It can also pump water and run small motors."],
+  ["What is the difference between a large hydroelectric project and a micro-hydel project?", "A big project uses a big river and needs heavy investment. A micro-hydel project uses smaller rivers, costs less and supplies local remote areas."],
+  ["Mention two ways of saving fuel while cooking.", "Use a pressure cooker with separators to cook many dishes together, and use a solar cooker. Keep burner holes clean and use a small burner for a small vessel."]
+ ],
+ "sa": [
+  ["Explain the importance of conserving energy (three points).", "(i) Demand exceeds supply, so reducing demand is the only option. (ii) Energy saved is energy generated and reduces power cuts. (iii) Fuels are limited: natural gas about 30 years, oil about 50 and coal about 280."],
+  ["List the suggestions to a housewife for conserving energy at home (any three).", "(i) Switch off lights and fans when leaving a room and use tubelights or CFLs. (ii) Use a pressure cooker, a solar cooker and small burners for small vessels. (iii) Use the refrigerator of the right size without opening it often, and use ISI marked appliances."],
+  ["Explain how energy can be saved on the farm (three points).", "(i) Maintain tractors well and prevent diesel leakage. (ii) Drive in the right gear and switch off the engine when not in use. (iii) Keep the air filter clean and plan digging lengthwise."],
+  ["Explain the advantages of non-conventional sources of energy (three points).", "(i) They give a never-ending supply and are easily available. (ii) They are pollution free. (iii) They are locally produced, so low distribution cost, and small-scale units give jobs."]
+ ],
+ "la": [
+  ["Describe the energy options for the future with their advantages.", "(i) Biogas from animal manure is a cheap fuel for cooking and lighting, and the sludge is a fertiliser. (ii) A solar cooker saves fuel and is safe. (iii) Solar cells give lighting and solar heating warms water and dries crops. (iv) Micro-hydel projects supply remote areas with low investment. (v) Wind energy is free and non-polluting and suits hilly areas. (vi) All are renewable, pollution free and give local jobs."]
+ ]
+}

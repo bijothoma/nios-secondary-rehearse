@@ -1,0 +1,330 @@
+{
+  "subject": "tourism",
+  "lesson": 24,
+  "title": "Front Office Operations (Module 6B, lesson 21)",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "14 × 1 = 14",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "Which room type is designed for two people with two separate single beds?",
+          "options": [
+            "Twin",
+            "Suite",
+            "Double",
+            "Lanai"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "Which of the following is not a main function of the front office in a hotel?",
+          "options": [
+            "To take advance booking for rooms",
+            "To handle the phone calls of the hotel",
+            "To provide food to the staff of the hotel",
+            "To assign a room to the guest"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "Which of the following is not a function of the bell desk in a hotel?",
+          "options": [
+            "Handling guests' luggage during arrival and departure",
+            "Making reservations in restaurants",
+            "Making general purchases like medicines and stamps",
+            "Keeping guests' luggage in the left luggage room"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "Which of the following is a function of the travel desk in a hotel?",
+          "options": [
+            "Assign a room to the guest",
+            "Locate a guest in a specific area of the hotel",
+            "Provide taxis for guests",
+            "Handle the phone calls"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "Which section of the front office provides personalised services such as booking theatre tickets?",
+          "options": [
+            "Concierge",
+            "Bell desk",
+            "Cash and bills",
+            "Information"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "Which room has two different levels connected by a staircase?",
+          "options": [
+            "Duplex",
+            "Efficiency",
+            "Adjacent",
+            "Penthouse"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "A room with kitchen facilities for long-staying guests is called:",
+          "options": [
+            "Efficiency",
+            "Lanai",
+            "Suite",
+            "Twin"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "The maximum rate at which a room can be sold is called the:",
+          "options": [
+            "Rack rate",
+            "Crib rate",
+            "Group rate",
+            "Seasonal rate"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "Crib rate is offered to families with a child below:",
+          "options": [
+            "5 years",
+            "8 years",
+            "12 years",
+            "18 years"
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "A group rate applies to a group of at least how many people?",
+          "options": [
+            "5",
+            "10",
+            "15",
+            "30"
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "A reservation in which the hotel cannot guarantee the room is called:",
+          "options": [
+            "Confirmed",
+            "Unconfirmed",
+            "Guaranteed",
+            "Group"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "Within how many rings should an incoming call be answered?",
+          "options": [
+            "Three",
+            "Five",
+            "Seven",
+            "Ten"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.13",
+          "type": "mcq",
+          "q": "Which of the following is the first step in handling a fire situation?",
+          "options": [
+            "Inform the fire-fighting department",
+            "Collect luggage",
+            "Close the hotel gate",
+            "Call the newspaper"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.14",
+          "type": "mcq",
+          "q": "Which room is offered free to VVIPs important to the hotel's image?",
+          "options": [
+            "Complimentary",
+            "Rack",
+            "Corporate",
+            "Crib"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark (fill in the blanks, true/false, match the columns or one word).",
+      "marks": "5 × 2 = 10",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "Fill in the blanks. (a) A ________ room has two single beds and is meant for two persons. (b) A ________ room has a balcony overlooking a garden or scenic beauty, generally in resort hotels.",
+          "answer": "(a) Twin. (b) Lanai.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "True or False. (a) A confirmed reservation guarantees the room, usually against an advance. (b) Message handling means taking guests' luggage to their room.",
+          "answer": "(a) True. (b) False: it means receiving and delivering messages to guests."
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "Fill in the blanks. (a) The process of locating a guest in a specific area of the hotel is called ________. (b) A ________ number given to the guest is the proof of confirmation of a reservation.",
+          "answer": "(a) Paging. (b) Confirmation."
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Match Column A with Column B. A: (a) Corporate rate (b) Government rate. B: (i) Discount offered to companies sending executives (ii) Rate offered to officials on duty (iii) Maximum advertised rate.",
+          "answer": "(a) – (i). (b) – (ii)."
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "True or False. (a) The reservation section is located at the back of the front office. (b) In a fire, guests should be asked to use the lifts.",
+          "answer": "(a) True. (b) False: guests should use the staircase."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "4 × 2 = 8",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "Differentiate between a double room and a twin room.",
+          "answer": "A double room has one double bed for two persons. A twin room has two single beds for two persons."
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "Why is a suite more expensive than other rooms?",
+          "answer": "A suite has a drawing room connected to one or more bedrooms. It has extra facilities such as expensive furniture, a fruit basket and kitchen facilities."
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "What is meant by crib rate and rack rate?",
+          "answer": "Crib rate is for families with a child under 12 who need an extra bed. Rack rate is the maximum rate advertised on cards and websites."
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "List any two rules of telephone handling.",
+          "answer": "Answer within three rings with a greeting and the hotel's name. Speak slowly and clearly, listen attentively and take messages when the person is not available."
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "5 × 3 = 15",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "Distinguish between 'Bell desk' and 'Concierge' in a hotel with examples.",
+          "answer": "(i) The bell desk handles luggage during arrival and departure, pages guests and makes small purchases such as medicines and stamps. (ii) The concierge gives personalised services like restaurant reservations, tickets for events and special transport. (iii) For example, the bell boy carries the luggage to the room while the concierge books a helicopter or theatre tickets.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "Explain the importance of the reservation section (three points).",
+          "answer": "(i) It sells the main product, rooms, and so increases the hotel's income. (ii) It matches the guest's needs with available rooms. (iii) It helps estimate the level of future business."
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "Explain the steps of an individual reservation procedure (three points).",
+          "answer": "(i) Receive the request and ask for dates and room type. (ii) Match with room availability on the computerised system and offer alternatives if needed. (iii) Record the guest details and give a confirmation number."
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "Explain the steps in handling a fire emergency in a hotel (three points).",
+          "answer": "(i) Inform the fire-fighting department with exact location and size of the fire. (ii) Alert all guests to use the staircase, not the lift, and help the old and handicapped. (iii) Assemble outside for roll call and use extinguishers."
+        },
+        {
+          "id": "4.5",
+          "type": "open",
+          "q": "Explain how a hotel prevents theft (three points).",
+          "answer": "(i) Security features in rooms such as automatic doors, chains and peepholes. (ii) Proper key control and not giving room numbers to visitors. (iii) Security rounds, lit corridors and prompt reporting of suspicious persons."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Long answer questions. Answer in 80–120 words.",
+      "marks": "2 × 6 = 12",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "Explain the different sections of the front office of a hotel, in six points.",
+          "answer": "(i) Reservation books rooms in advance and updates records. (ii) Reception welcomes guests, does registration and assigns rooms. (iii) Information deals with mail, messages and city information. (iv) Communication or telephone answers incoming calls and directs them. (v) Bell desk and concierge handle luggage, paging and personalised services. (vi) Cash and bills prepare accounts and bills, and the travel desk arranges taxis, sightseeing and guides."
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "Explain the different types of room tariffs, in six points.",
+          "answer": "(i) Corporate rate gives 10–20% discount to companies. (ii) Crib rate is for families with a child below 12 years. (iii) Group rate applies to groups of at least 15 booked by travel agents. (iv) Seasonal and off-season rates match peak and low demand. (v) Government and airline rates are for officials and airline staff. (vi) Complimentary rate is free for VVIPs, and rack rate is the maximum advertised rate."
+        }
+      ]
+    }
+  ]
+}

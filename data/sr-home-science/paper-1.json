@@ -1,0 +1,714 @@
+{
+  "subject": "sr-home-science",
+  "lesson": 901,
+  "title": "Model Question Paper 1",
+  "meta": "Time: 3 hours · Maximum marks: 80 (with one optional module) · Modelled on the April 2026 NIOS paper",
+  "instructions": [
+    "All questions are compulsory. Where a question has OR, answer either one.",
+    "Section A: MCQs carry 1 mark; objective questions carry 2 marks.",
+    "Section B: very short answers 2 marks (30–50 words), short answers 3 marks (50–80 words), long answers 5 marks (80–120 words).",
+    "Attempt the questions of either Optional Module A (Housekeeping) or Optional Module B (Creative Hand Embroidery) in all sections.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "13 × 1 = 13",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "Ethics deal with:",
+          "options": [
+            "Moral issues and right and wrong behaviour",
+            "Only legal punishments",
+            "Fashion and style",
+            "Money and profit"
+          ],
+          "answer": "A",
+          "note": "Lesson 2."
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "Which of the following is a characteristic of a balanced diet?",
+          "options": [
+            "Inclusion of both plant and animal foods",
+            "Inclusion of only expensive foods",
+            "Inclusion of any two food groups",
+            "Inclusion of seasonal and non-seasonal foods"
+          ],
+          "answer": "A",
+          "fixed": true,
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 5."
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "Select the condition of health that is influenced by the intake and utilisation of nutrients:",
+          "options": [
+            "Malnutrition",
+            "Nutritional status",
+            "Balanced nutrition",
+            "Over nutrition"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 6."
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "Which of the following are principles of food preservation? (i) Killing micro-organisms (ii) Keeping food covered (iii) Stopping the action of enzymes (iv) Increasing the moisture content",
+          "options": [
+            "(i) and (ii)",
+            "(ii) and (iv)",
+            "(i) and (iii)",
+            "(iii) and (iv)"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 9."
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "What is the term used for storing rarely used items in less accessible spaces like high shelves?",
+          "options": [
+            "Functional storage",
+            "Dead storage",
+            "Sequential storage",
+            "Built-in storage"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 12."
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "Which of the following are benefits of maintaining a record of family income and expenditure? (i) It helps in understanding exactly how much is spent and on what (ii) It allows spending on whatever we desire (iii) It allows comparison of expenditures across months (iv) It guarantees an increase in monthly income",
+          "options": [
+            "(i) and (ii)",
+            "(ii) and (iv)",
+            "(i) and (iii)",
+            "(iii) and (iv)"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 13."
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "What is the main advantage of installing micro hydro projects?",
+          "options": [
+            "Requires heavy investment on installation",
+            "Difficult to maintain",
+            "Increases cost of distribution",
+            "Supplies electricity to far-flung and remote areas"
+          ],
+          "answer": "D",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 14."
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "Ravi uses excessive chemical fertilisers and pesticides on his farm. What problem can this cause?",
+          "options": [
+            "Soil fertility will increase",
+            "Soil micro-organisms will die, reducing soil fertility",
+            "Crops will be healthier and yield will increase",
+            "Soil will become more water-retentive"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 15."
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "Suggest a device from the following options to keep cooked food safe for some time.",
+          "options": [
+            "Refrigerator",
+            "Grameen Sheetal",
+            "Ice-box",
+            "Freezer"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 16."
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "Which consumer right gives us information about the quality, quantity and price of goods?",
+          "options": [
+            "Right to be informed",
+            "Right to free home delivery",
+            "Right to discount",
+            "Right to return goods"
+          ],
+          "answer": "A",
+          "note": "Lesson 17."
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "By middle childhood, the number of permanent teeth children typically have is:",
+          "options": [
+            "20",
+            "24",
+            "28",
+            "32"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 19."
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "Adolescents often form their own groups with a unique style of talking, dressing and behaving, which can seem strange to adults. What is this phenomenon commonly known as?",
+          "options": [
+            "Generation gap",
+            "Peer group culture",
+            "Social rebellion",
+            "Identity crisis"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 20."
+        },
+        {
+          "id": "1.13",
+          "type": "mcq",
+          "q": "Which of the following is a common myth about HIV transmission?",
+          "options": [
+            "Sharing needles with an infected person",
+            "Transfusion of infected blood",
+            "Kissing or hugging an infected person",
+            "Unprotected sex with an infected partner"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 21."
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark (true/false, match the columns, fill in the blanks or give reasons).",
+      "marks": "11 × 2 = 22",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "Look at the flowchart: wash the vegetable or fruit, dry thoroughly, cut or slice on a clean board, mix with salt and spices, place in a dry sterilised container, cover with salt and/or oil, close with a tight-fitting lid and store. Identify the method and write the two main purposes of the oil used in the final step.",
+          "answer": "The method is pickling. Oil keeps out air and so prevents micro-organisms from entering, and it prevents the food from coming in contact with air and spoiling.",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 9."
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Fill in the blanks. (a) Work centres should be arranged in a ________ order to assist in the smooth flow of work. (b) Storage bins should be ________ so that contents can be seen.",
+          "answer": "(a) Sequential. (b) Transparent.",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 12."
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "Identify the activities as Money Income (MI), Real Income (RI), Need (N) or Desire (D). (i) Getting free petrol allowance from the company (ii) Purchasing a new video game (iii) Interest received from a fixed deposit (iv) Purchasing medicines during illness.",
+          "answer": "(i) Real income (RI). (ii) Desire (D). (iii) Money income (MI). (iv) Need (N).",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 13."
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Write True or False. (i) The sludge left after biogas production is a waste product with no use. (ii) Using light-coloured walls can reduce the lighting requirement of a room by up to 40%. (iii) A major advantage of a solar cooker is that it requires constant attention while cooking. (iv) Driving a tractor in the wrong gear can decrease work efficiency by 50%.",
+          "answer": "(i) False: it is an excellent fertiliser. (ii) True. (iii) False: it needs no constant attention. (iv) True.",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 14."
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "Fill in the blanks. (a) Poor agricultural practices lead to soil ________ and decrease soil ________. (b) Floods, famine and strong winds are called ________ disasters.",
+          "answer": "(a) Erosion and fertility. (b) Natural.",
+          "note": "Lesson 15."
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "State True or False. (a) Only electrical equipments are labour saving. (b) Non-electrical equipments are manually operated. (c) Standardised products ensure safety and durability. (d) Expensive equipment always fulfils family needs better than inexpensive ones.",
+          "answer": "(a) False. (b) True. (c) True. (d) False.",
+          "note": "Lesson 16."
+        },
+        {
+          "id": "2.7",
+          "type": "open",
+          "q": "Match Column A and Column B. A: (1) ISI mark (2) Green dot on label (3) Agmark (4) Red dot on label. B: (a) Ghee and honey (b) Gas cylinder (c) Non-vegetarian foods (d) Vegetarian foods.",
+          "answer": "(1) – (b). (2) – (d). (3) – (a). (4) – (c).",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 17."
+        },
+        {
+          "id": "2.8",
+          "type": "open",
+          "q": "Look at two children. (i) A four-year-old is shown two lines of ten coins, one long (coins spread out) and one short, and says the long line has more coins. (ii) A ten-year-old is told A is taller than B and B is taller than C and says A is taller than C. Analyse the cognitive behaviour of each child.",
+          "answer": "(i) The four-year-old lacks conservation: he does not know that the number remains the same when coins are spread out. (ii) The ten-year-old shows seriation (logical ordering) and can reason correctly.",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 19."
+        },
+        {
+          "id": "2.9",
+          "type": "open",
+          "q": "State True or False. (i) At 16 years Rahul will get hair on his face. (ii) Priya will gain 2 cm height at the age of 12. (iii) Nocturnal emission is normal for boys. (iv) Most girls and boys suffer from acne during adolescence.",
+          "answer": "(i) True. (ii) False: girls gain about 8 cm in the year. (iii) True. (iv) True.",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 20."
+        },
+        {
+          "id": "2.10",
+          "type": "open",
+          "q": "As a community health worker, you advise a young couple about safe motherhood. Choose two recommendations and give a reason for each: (i) Avoid pregnancy before 18 years and after 35 years. (ii) Plan frequent pregnancies to have more children early. (iii) Keep a gap of more than two years between two pregnancies. (iv) Medical check-ups during pregnancy are not essential.",
+          "answer": "(i) Avoid pregnancy before 18 and after 35: it is unsafe for the mother's and the child's health. (iii) Keep a gap of more than two years: the mother's body recovers and the child gets care.",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 21."
+        },
+        {
+          "id": "2.11",
+          "type": "open",
+          "q": "Draw a figure to show warp and weft yarns. (Describe it.)",
+          "answer": "Warp yarns are drawn as parallel vertical lines along the length, parallel to the selvedge. Weft yarns are drawn as horizontal lines passing alternately over and under the warps, at right angles to them.",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 24."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "7 × 2 = 14",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "Ritu sells pickles to support her family and has also kept a paying guest. Identify this income and give two suggestions to increase it.",
+          "answer": "This is money income from an income generating activity and from renting part of the house. She can take bulk orders and sell through shops, and use the spare room for more paying guests.",
+          "years": [
+            "October 2025"
+          ],
+          "or": {
+            "q": "Ravi grows his own vegetables behind his house and uses public transport. Identify these incomes and give two suggestions to increase them.",
+            "answer": "Growing vegetables is real income (goods) and using public transport saves money, also a real income. He can grow more vegetables and use the surplus and share transport or walk for short trips."
+          },
+          "note": "Lesson 13."
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "What are the four advantages of a solar cooker over a gas stove?",
+          "answer": "It reduces fuel cost and is totally safe, with no fire or leaking gas. It needs no constant attention and can cook up to four dishes at a time.",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 14."
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "How does technical advancement contribute to environmental degradation?",
+          "answer": "Industries, mines and vehicles release toxic wastes, harmful gases and radioactive pollutants. These deplete the ozone layer and kill life in air, water and land.",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 15."
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "Mention four safety tips while using household appliances in your kitchen.",
+          "answer": "Remove the plug before cleaning and keep electrical equipment dry and away from water. Do not wear synthetic clothes, use pans with insulated handles, and replace worn wires or a cracked LPG tube.",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 16."
+        },
+        {
+          "id": "3.5",
+          "type": "open",
+          "q": "Enumerate the six consumer rights.",
+          "answer": "Right to safety, to be informed, to choose, to be heard, to redressal and to consumer education.",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 17."
+        },
+        {
+          "id": "3.6",
+          "type": "open",
+          "q": "Explain the following characteristics of cognitive development in middle childhood with an example each: (i) conservation (ii) egocentrism (iii) seriation.",
+          "answer": "Conservation: knowing that ten coins stay ten however spread out. Egocentrism: a young child cannot see another's point of view, such as nodding to a mother who cannot see. Seriation: arranging bottles or sisters by height in order.",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 19."
+        },
+        {
+          "id": "3.7",
+          "type": "open",
+          "q": "Explain why adolescents need proper sex education and what role parents can play.",
+          "answer": "Adolescents become sexually mature and peers and printed matter give wrong information. Parents should build an open relationship and give correct answers to their questions.",
+          "years": [
+            "April 2026"
+          ],
+          "or": {
+            "q": "Describe the typical characteristics of adolescent thinking that distinguish it from childhood thinking.",
+            "answer": "Adolescents think abstractly and can imagine and think contrary to fact ideas. They consider all alternatives and understand similes and abstract jokes, unlike children who need to see things."
+          },
+          "note": "Lesson 20."
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "3 × 3 = 9",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "How can a person's nutritional status be assessed? Explain any two methods.",
+          "answer": "(i) Physical growth: weight and height are measured and compared with the standard reference for age; lower values show malnutrition. (ii) Dietary intake: all foods eaten in 24 hours are recorded, grouped into food groups and compared with the recommended intake for age and sex.",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 6."
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "Explain the three principles of food preservation with examples.",
+          "answer": "(i) Killing micro-organisms by heat, as in boiling milk or canning. (ii) Preventing or delaying their action by covering, cooling, freezing or adding preservatives such as KMS. (iii) Stopping enzyme action by blanching or mild heat treatment before freezing.",
+          "note": "Lesson 9."
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "Explain space organisation and its significance (three points).",
+          "answer": "(i) It is assigning space to an activity and arranging all the required materials systematically. (ii) It saves time and energy because everything is available on the spot. (iii) It makes effective use of limited space, such as the living room being used for sleeping at night.",
+          "note": "Lesson 12."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Long answer questions. Answer in 80–120 words.",
+      "marks": "2 × 5 = 10",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "How can a person's diet be modified in different diseases? Explain the diet for diarrhoea, diabetes and hypertension with the types of modification.",
+          "answer": "(i) Modifications are in consistency, nutrient content and interval or frequency of feeding. (ii) Diarrhoea: liquid or semi-solid, low fibre, frequent meals every 1–2 hours with fluids. (iii) Take soups, banana, curd and boiled egg; avoid whole cereals, fried foods and leafy vegetables. (iv) Diabetes: normal consistency, no sugar, six small meals at fixed times. (v) Take vegetables, dal, roti, milk and curd; avoid sugar, honey, jam and cold drinks. (vi) Hypertension: low calorie, low cholesterol and low salt; avoid pickles, papad and butter.",
+          "note": "Lesson 5."
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "How can a person's nutritional status be assessed? Explain the methods.",
+          "answer": "(i) Physical growth: measure weight and height and compare with references for age. (ii) Children below the reference are undernourished; above it are overnourished. (iii) Dietary intake: record the 24-hour food intake and group it into food groups. (iv) Compare it with the recommended intake for age and sex using the food pyramid. (v) Recognise signs and symptoms of deficiency diseases. (vi) Weigh regularly, as excessive gain or loss needs attention.",
+          "years": [
+            "October 2025"
+          ],
+          "or": {
+            "q": "Explain the causes and consequences of malnutrition.",
+            "answer": "(i) Decreased availability of food. (ii) Ignorance of correct feeding. (iii) Poverty or excess income. (iv) Stress conditions such as pregnancy and growth. (v) Poor hygiene and infections. (vi) Consequences: deficiencies, poor physical and mental growth, handicaps, low work capacity and death."
+          },
+          "note": "Lesson 6."
+        }
+      ]
+    },
+    {
+      "no": 6,
+      "title": "Optional Module A (Housekeeping): Choose the correct answer.",
+      "marks": "3 × 1 = 3",
+      "questions": [
+        {
+          "id": "6.1",
+          "type": "mcq",
+          "q": "What is the primary reason for ensuring regular cleaning of a house?",
+          "options": [
+            "To make the house look beautiful",
+            "To prevent it from becoming a breeding ground for insects and diseases",
+            "To rearrange furniture frequently for a new look",
+            "To make it inviting for guests"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 29."
+        },
+        {
+          "id": "6.2",
+          "type": "mcq",
+          "q": "In a flushing cistern, what is the primary reason for a ball valve not rising with the water level?",
+          "options": [
+            "The inlet valve is jammed",
+            "The ball has corroded or punctured",
+            "The washer needs replacement",
+            "The water pressure is too low"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2026",
+            "October 2025"
+          ],
+          "note": "Lesson 30."
+        },
+        {
+          "id": "6.3",
+          "type": "mcq",
+          "q": "For a beginner making a flower arrangement, what is the primary advantage of using an oasis compared to a pin-holder?",
+          "options": [
+            "It is more decorative and colourful",
+            "It is easier to handle and balance flowers in it",
+            "It is cheaper and readily available everywhere",
+            "It does not require water to keep flowers fresh"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 31."
+        }
+      ]
+    },
+    {
+      "no": 7,
+      "title": "Optional Module A (Housekeeping): Objective type questions: each has two parts of 1 mark (true/false, match the columns, fill in the blanks or give reasons).",
+      "marks": "1 × 2 = 2",
+      "questions": [
+        {
+          "id": "7.1",
+          "type": "open",
+          "q": "Match Column A (cleaning agents) with Column B (articles). A: (a) Brick powder (b) Tamarind pulp (c) Newspaper (d) Mild detergent. B: (i) Glass (ii) Linoleum (iii) Brass (iv) Iron.",
+          "answer": "(a) – (iv). (b) – (iii). (c) – (i). (d) – (ii).",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 29."
+        }
+      ]
+    },
+    {
+      "no": 8,
+      "title": "Optional Module A (Housekeeping): Very short answer questions. Answer in 30–50 words.",
+      "marks": "2 × 2 = 4",
+      "questions": [
+        {
+          "id": "8.1",
+          "type": "open",
+          "q": "Why is a damp cloth recommended for mopping instead of a very wet one?",
+          "answer": "A damp cloth removes dust and dirt without spreading excess water. Too much water leaves the floor slippery and wet and can damage the floor.",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 29."
+        },
+        {
+          "id": "8.2",
+          "type": "open",
+          "q": "What is the role of twigs and leaves in a flower arrangement?",
+          "answer": "Twigs give a natural look and enhance the shape of the arrangement. Leaves fill gaps, give a background to flowers and resemble nature.",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 31."
+        }
+      ]
+    },
+    {
+      "no": 9,
+      "title": "Optional Module A (Housekeeping): Short answer questions. Answer in 50–80 words.",
+      "marks": "1 × 3 = 3",
+      "questions": [
+        {
+          "id": "9.1",
+          "type": "open",
+          "q": "Which three points should be kept in mind while hanging paintings on walls?",
+          "answer": "(i) Hang paintings according to size and space: big paintings on big walls or a group of small ones in an imaginary rectangle. (ii) Use spot lights and hang them straight and even. (iii) Colour of lamps should match the décor and paintings should not be crowded.",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 31."
+        }
+      ]
+    },
+    {
+      "no": 10,
+      "title": "Optional Module B (Creative Hand Embroidery): Choose the correct answer.",
+      "marks": "3 × 1 = 3",
+      "questions": [
+        {
+          "id": "10.1",
+          "type": "mcq",
+          "q": "Which of the following types of designs is most appropriate for small children's clothes?",
+          "options": [
+            "Abstract design",
+            "Naturalized design",
+            "Geometrical design",
+            "Stylized design"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 32."
+        },
+        {
+          "id": "10.2",
+          "type": "mcq",
+          "q": "Which characteristic of colour refers to its lightness or darkness?",
+          "options": [
+            "Hue",
+            "Value",
+            "Intensity",
+            "Texture"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2025",
+            "April 2026"
+          ],
+          "note": "Lesson 33."
+        },
+        {
+          "id": "10.3",
+          "type": "mcq",
+          "q": "Which stitch is worked from top to bottom and creates loops on the fabric surface?",
+          "options": [
+            "Satin stitch",
+            "Cross stitch",
+            "Chain stitch",
+            "Herringbone stitch"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 34."
+        }
+      ]
+    },
+    {
+      "no": 11,
+      "title": "Optional Module B (Creative Hand Embroidery): Objective type questions: each has two parts of 1 mark (true/false, match the columns, fill in the blanks or give reasons).",
+      "marks": "1 × 2 = 2",
+      "questions": [
+        {
+          "id": "11.1",
+          "type": "open",
+          "q": "Identify the following methods of transferring designs with their descriptions: (i) Uses a glass plate and light to trace the design directly onto the fabric (ii) Involves tracing the design on butter paper and making small holes along it (iii) Drawing the design directly on the fabric with a pencil (iv) Uses carbon paper to transfer the design onto the fabric.",
+          "answer": "(i) Glass plate and light method. (ii) Butter paper (perforated pattern) method. (iii) Direct method. (iv) Carbon paper method.",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 32."
+        }
+      ]
+    },
+    {
+      "no": 12,
+      "title": "Optional Module B (Creative Hand Embroidery): Very short answer questions. Answer in 30–50 words.",
+      "marks": "2 × 2 = 4",
+      "questions": [
+        {
+          "id": "12.1",
+          "type": "open",
+          "q": "What is the main purpose of enlarging or reducing a design?",
+          "answer": "It lets one motif be used on articles of different sizes and shapes. The design size can then fit the size of the article.",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 32."
+        },
+        {
+          "id": "12.2",
+          "type": "open",
+          "q": "Why is it recommended to avoid using a knot at the start of embroidery work? What is the correct way to begin instead?",
+          "answer": "A knot makes a lump and shows on the front and can come undone. Begin with a back stitch, which is strong and neat.",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 34."
+        }
+      ]
+    },
+    {
+      "no": 13,
+      "title": "Optional Module B (Creative Hand Embroidery): Short answer questions. Answer in 50–80 words.",
+      "marks": "1 × 3 = 3",
+      "questions": [
+        {
+          "id": "13.1",
+          "type": "open",
+          "q": "Write the steps of making a satin stitch and a French knot stitch.",
+          "answer": "(i) Satin stitch: work straight stitches slantwise, taking the thread out equally at the front and back so that the surface is smooth, e.g. from top to bottom for straight areas. (ii) French knot: bring the thread up through the fabric and wrap it over and under the needle. (iii) Then insert the needle into the fabric close to where it came up; use double thread for a larger knot.",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 34."
+        }
+      ]
+    }
+  ]
+}

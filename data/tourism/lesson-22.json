@@ -1,0 +1,303 @@
+{
+  "subject": "tourism",
+  "lesson": 22,
+  "title": "Itinerary Planning and Tour Packaging (Module 6A, lesson 22)",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "12 × 1 = 12",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "Which of the following trains is not a luxury travel circuit in India?",
+          "options": [
+            "Deccan Odyssey",
+            "Golden Chariot",
+            "Tiger Express",
+            "The Indian Maharaja"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "In which year was the 'Palace on Wheels' launched by the Indian Railways?",
+          "options": [
+            "1982",
+            "1972",
+            "1992",
+            "1962"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "For which city covered by the Palace on Wheels package is the word 'romanticism' used?",
+          "options": [
+            "Jaipur",
+            "Jaisalmer",
+            "Ranthambore",
+            "Udaipur"
+          ],
+          "answer": "D",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "Which itinerary is given to a particular tourist for reference during the package tour?",
+          "options": [
+            "Tourist's itinerary",
+            "Vendor's itinerary",
+            "Coach driver's itinerary",
+            "Escort's itinerary"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "Which tour is paid for by a firm to reward its employees?",
+          "options": [
+            "Incentive tour",
+            "Freedom tour",
+            "Hosted tour",
+            "Independent tour"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "A tour handled by another agency or ground operator on behalf of a wholesaler is a:",
+          "options": [
+            "Hosted tour",
+            "Freedom tour",
+            "Escorted tour",
+            "Incentive tour"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "A GIT itinerary is generally:",
+          "options": [
+            "Flexible",
+            "Fixed",
+            "Optional",
+            "Absent"
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "Which of the following is proof of payment given to the supplier of a service in a package tour?",
+          "options": [
+            "Tour voucher",
+            "Brochure",
+            "Itinerary",
+            "Docket"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "Which is the first step in planning a tour itinerary?",
+          "options": [
+            "Research other tours in the market",
+            "Test drive the tour",
+            "Print the brochure",
+            "Sign contracts"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "The package element which is called the backbone of a tour package is:",
+          "options": [
+            "Sightseeing",
+            "Insurance",
+            "Ground services",
+            "Brochure"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "Which of these is a supplementary accommodation provider?",
+          "options": [
+            "Homestay",
+            "Five-star hotel",
+            "Resort",
+            "Business hotel"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "Tour programming adds to a package:",
+          "options": [
+            "Activities such as trekking, cooking and festivals",
+            "Higher taxes",
+            "Fewer services",
+            "Fixed schedules only"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark (fill in the blanks, true/false, match the columns or one word).",
+      "marks": "4 × 2 = 8",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "Fill in the blanks. (a) The Palace on Wheels was launched in ________. (b) The Palace on Wheels package typically lasts ________ nights and eight days.",
+          "answer": "(a) 1982. (b) Seven.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Identify True or False. (a) A GIT itinerary leaves enough room for modification. (b) A FIT itinerary is flexible but costs more.",
+          "answer": "(a) False: a GIT itinerary is fixed. (b) True."
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "Fill in the blanks. (a) A tour in which a firm pays for its employees as a reward is an ________ tour. (b) ________ in package tours means putting all tour documents in a wallet for each tourist.",
+          "answer": "(a) Incentive. (b) Docketing."
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Match Column A with Column B. A: (a) Escorted tour (b) Hosted tour. B: (i) Handled by a ground operator on behalf of a wholesaler (ii) A trained guide accompanies the group (iii) Paid by a firm for its staff.",
+          "answer": "(a) – (ii). (b) – (i)."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "4 × 2 = 8",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "What is an itinerary? State its use.",
+          "answer": "An itinerary is a plan of a journey showing the route, places, halts, accommodation and activities. It is a reference for the tourist and a selling point of a package."
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "Name any four types of package tours.",
+          "answer": "Escorted tour, independent tour, hosted tour and incentive tour (also freedom tour)."
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "What is a tour voucher?",
+          "answer": "It is proof of payment made in advance by the client. The supplier accepts it and sends it to the tour operator with an invoice after providing the service."
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "What are the benefits of tour programming?",
+          "answer": "It adds value to the package and makes it more appealing. It opens opportunities for local service providers and meets varied demands."
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "5 × 3 = 15",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "Examine any three types of package tours.",
+          "answer": "(i) Escorted tour: a trained escort or guide accompanies the group and helps at every stage. (ii) Independent tour: tourists choose the components, so it is flexible but costlier. (iii) Incentive tour: a firm pays for its employees as a reward, e.g. a trip to Singapore.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "Examine the elements of package tours.",
+          "answer": "(i) Transportation (air, rail, ship, bus) and accommodation (hotels, resorts, homestays). (ii) Attractions and sightseeing, ground services and guides, and events and activities. (iii) Insurance cover; a profit margin is added to get the price.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "Elaborate on the meaning, importance and types of tour itinerary.",
+          "answer": "(i) An itinerary is a day-by-day plan of the route, halts, accommodation and activities. (ii) It is important because it decides the package quality and sells the package. (iii) Types include the tourist's, tour manager's, escort's, vendor's and coach driver's itineraries; also GIT, FIT, tailor-made and special-interest itineraries.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "Distinguish between GIT and FIT itineraries (three points).",
+          "answer": "(i) GIT follows a fixed itinerary; FIT is flexible. (ii) GIT is cheaper through bulk buying; FIT costs more for the flexibility. (iii) GIT groups share a common affiliation; FIT suits independent travellers who want personal choices."
+        },
+        {
+          "id": "4.5",
+          "type": "open",
+          "q": "Explain the do's of itinerary preparation (three points).",
+          "answer": "(i) Add all places of halt with date and time and the hotel and vehicle names. (ii) Include meal plans, maps and brief summaries of the sights. (iii) Provide local-language names and unique information about the destination."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Long answer questions. Answer in 80–120 words.",
+      "marks": "2 × 6 = 12",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "Explain the package tour formulation process, in six points.",
+          "answer": "(i) Market research of the economy, demand, consumer profile and competitors. (ii) Prepare an itinerary with exciting places and events. (iii) Identify mode of travel, hotels, destinations and dates. (iv) Sign contracts with principal service providers. (v) Cost the package and add a mark-up for the price. (vi) Design a brochure, market the package and prepare the documentation (itinerary, vouchers, tickets)."
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "Explain the steps in developing a tour itinerary, in six points.",
+          "answer": "(i) Research other tours and name your tour. (ii) Map out duration, frequency and departure point. (iii) List the major locations and highlights. (iv) Research the content and list third-party activities and fees. (v) Obtain permission to access private and public properties. (vi) Perfect the timing and test-drive the itinerary."
+        }
+      ]
+    }
+  ]
+}

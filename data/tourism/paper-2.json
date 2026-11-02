@@ -1,0 +1,737 @@
+{
+  "subject": "tourism",
+  "lesson": 902,
+  "title": "Model Question Paper 2",
+  "meta": "Time: 3 hours · Maximum marks: 100 (with one optional module) · Modelled on the April 2026 NIOS paper",
+  "instructions": [
+    "All questions are compulsory. Where a question has OR, answer either one.",
+    "Section A: MCQs carry 1 mark; objective questions carry 2 marks (two parts of 1 mark each).",
+    "Section B: very short answers 2 marks (30–50 words), short answers 3 marks (50–80 words), long answers 6 marks (80–120 words).",
+    "Section C: attempt either Optional Module I (Travel and Tour Operation Business) or Optional Module II (Hospitality Management) in all its questions.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "16 × 1 = 16",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "The maximum number of people who can visit a destination at the same time without harming it is its:",
+          "options": [
+            "Tourist flow",
+            "Tourist carrying capacity",
+            "Tourist density",
+            "Tourist demand"
+          ],
+          "answer": "B",
+          "note": "Lesson 3."
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "What will happen if a tourist crosses the International Date Line from west to east?",
+          "options": [
+            "One day is reduced",
+            "One day is added",
+            "No change",
+            "None of the above"
+          ],
+          "answer": "A",
+          "fixed": true,
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 4."
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "Which luxury train connects small cities of Rajasthan including Shekhawati?",
+          "options": [
+            "Heritage on Wheels",
+            "Fairy Queen",
+            "Bharat Darshan",
+            "Palace on Wheels"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2024"
+          ],
+          "note": "Lesson 5."
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "Bharat Ratna Pandit Ravi Shankar was a renowned player of which instrument?",
+          "options": [
+            "Sitar",
+            "Sarod",
+            "Veena",
+            "Sarangi"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2025",
+            "October 2024"
+          ],
+          "note": "Lesson 7."
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "Which site of the Indus Valley Civilization has the remains of a dockyard?",
+          "options": [
+            "Lothal",
+            "Harappa",
+            "Mohenjodaro",
+            "Banawali"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Lesson 8."
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "The Kailash temple at Ellora was built by:",
+          "options": [
+            "Pallavas",
+            "Rashtrakutas",
+            "Cholas",
+            "Chalukyas"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Lesson 8."
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "Which of the following sacred places is considered the home of Lord Vishnu?",
+          "options": [
+            "Amarnath",
+            "Somnath",
+            "Badrinath",
+            "Rameshwaram"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 9."
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "Which of the following was the residence of Buddhist monks?",
+          "options": [
+            "Gurukul",
+            "Vihara",
+            "Griha",
+            "Parvat"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 9."
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "Who was the last (tenth) Guru of the Sikhs?",
+          "options": [
+            "Guru Teg Bahadur",
+            "Guru Arjan Dev",
+            "Guru Gobind Singh",
+            "Guru Hargobind"
+          ],
+          "answer": "C",
+          "note": "Lesson 10."
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "Which of the following is not included in the five Ks of Sikhism?",
+          "options": [
+            "Kesh",
+            "Kirpan",
+            "Kada",
+            "Kurta"
+          ],
+          "answer": "D",
+          "note": "Lesson 10."
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "On what date was the Ministry of Tourism declared a separate ministry by the Government of India?",
+          "options": [
+            "14 May 2000",
+            "14 May 1990",
+            "14 May 1982",
+            "14 May 1958"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 13."
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "MICE tourism stands for:",
+          "options": [
+            "Meetings, Incentives, Conferences and Exhibitions",
+            "Markets, Industries, Commerce and Exports",
+            "Museums, Institutes, Culture and Events",
+            "Meetings, Inns, Catering and Events"
+          ],
+          "answer": "A",
+          "note": "Lesson 13."
+        },
+        {
+          "id": "1.13",
+          "type": "mcq",
+          "q": "Which region received the largest share (51%) of tourist arrivals in 2015?",
+          "options": [
+            "Asia and Pacific",
+            "Europe",
+            "Americas",
+            "Africa"
+          ],
+          "answer": "B",
+          "note": "Lesson 14."
+        },
+        {
+          "id": "1.14",
+          "type": "mcq",
+          "q": "Which region has the largest share (41%) of international tourism receipts?",
+          "options": [
+            "Europe",
+            "Asia and the Pacific",
+            "The Americas",
+            "Africa"
+          ],
+          "answer": "A",
+          "note": "Lesson 14."
+        },
+        {
+          "id": "1.15",
+          "type": "mcq",
+          "q": "The reaction or response of the receiver to a message is called:",
+          "options": [
+            "Encoding",
+            "Decoding",
+            "Feedback",
+            "Channel"
+          ],
+          "answer": "C",
+          "note": "Lesson 18."
+        },
+        {
+          "id": "1.16",
+          "type": "mcq",
+          "q": "Which of the following is an additional element of the services marketing mix?",
+          "options": [
+            "Place",
+            "Process",
+            "Price",
+            "Product"
+          ],
+          "answer": "B",
+          "note": "Lesson 19."
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark (fill in the blanks, true/false, match the columns or one word).",
+      "marks": "14 × 2 = 28",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "Answer in one word. (a) Which organisation defined tourist carrying capacity? (b) Name one country region where general unrest reduced tourism significantly.",
+          "answer": "(a) UNWTO (United Nations World Tourism Organisation). (b) The Kashmir valley (India).",
+          "note": "Lesson 3."
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Fill in the blanks. (a) From the equator to the North Pole, the area is called the ________ hemisphere. (b) The earth rotates on its axis once in ________ hours.",
+          "answer": "(a) Northern. (b) 24.",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Lesson 4."
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "Match Column A with Column B. A: (a) Palace on Wheels (b) Heritage on Wheels. B: (i) Bikaner, Gajner, Nawalgarh, Mandawa (ii) Seven-day royal train through Rajasthan, Delhi and Agra (iii) Oldest steam engine.",
+          "answer": "(a) – (ii). (b) – (i).",
+          "note": "Lesson 5."
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Fill in the blanks. (a) The bigger form of the dhol played during Puja in Bengal is the ________. (b) The ________ is the national instrument of the Arabs.",
+          "answer": "(a) Dhak. (b) Rabab.",
+          "note": "Lesson 7."
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "Fill in the blanks. (a) The Kandariya Mahadev temple is at ________. (b) Brihadeshwara temple at Tanjore was built by the ________.",
+          "answer": "(a) Khajuraho. (b) Cholas.",
+          "note": "Lesson 8."
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "Identify True or False. (a) Brajbhoomi is associated with God Ram. (b) Buddha gave his first sermon at Lumbini.",
+          "answer": "(a) False: with Lord Krishna. (b) False: at Sarnath.",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 9."
+        },
+        {
+          "id": "2.7",
+          "type": "open",
+          "q": "Fill in the blanks. (a) The word Khalsa means ________. (b) Islam was established in the year ________ at Mecca (as given in the lesson).",
+          "answer": "(a) The pure. (b) 570 CE.",
+          "years": [
+            "October 2024"
+          ],
+          "note": "Lesson 10."
+        },
+        {
+          "id": "2.8",
+          "type": "open",
+          "q": "Fill in the blanks. (a) The foreign exchange earnings during January–April 2013 were US$ 6.878 billion and in the same period of 2012 US$ ________ billion. (b) India captures more than half of the tourist arrivals and about ________ of the tourist receipts of South Asia.",
+          "answer": "(a) 6.145. (b) 75%.",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 13."
+        },
+        {
+          "id": "2.9",
+          "type": "open",
+          "q": "Fill in the blanks. (a) The ranking of India in world tourism improved from 38th position (2011) to ________ in 2015. (b) India is a major tourist destination among the ________ nations.",
+          "answer": "(a) 24th. (b) South Asian.",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 13."
+        },
+        {
+          "id": "2.10",
+          "type": "open",
+          "q": "True or False. (a) The trend of international tourist arrivals is almost continuously on the rise. (b) Europe and America held only 50% of arrivals in 1950.",
+          "answer": "(a) True. (b) False: they held about 95%.",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 14."
+        },
+        {
+          "id": "2.11",
+          "type": "open",
+          "q": "Match Column A with Column B. A: (a) Olympics (b) Casinos. B: (i) Entertainment attraction (ii) Mega sports event (iii) Natural attraction.",
+          "answer": "(a) – (ii). (b) – (i).",
+          "note": "Lesson 14."
+        },
+        {
+          "id": "2.12",
+          "type": "open",
+          "q": "Identify True or False. (a) Communication is a process that involves at least two persons. (b) Oral communication does not provide immediate feedback.",
+          "answer": "(a) True. (b) False: it provides immediate feedback.",
+          "years": [
+            "October 2024"
+          ],
+          "note": "Lesson 18."
+        },
+        {
+          "id": "2.13",
+          "type": "open",
+          "q": "Identify True or False. (a) A notice, agenda and minutes are the steps in convening a meeting. (b) Written communication provides immediate feedback.",
+          "answer": "(a) True. (b) False: it does not.",
+          "note": "Lesson 18."
+        },
+        {
+          "id": "2.14",
+          "type": "open",
+          "q": "Identify True or False. (a) Tourism marketing is the process of achieving voluntary exchanges between tourists and organisations. (b) Market research is the systematic investigation of the facts relevant to various aspects of marketing.",
+          "answer": "(a) True. (b) True.",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 19."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "10 × 2 = 20",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "Why do governments of tourist-sending countries issue travel advisories?",
+          "answer": "Where there is political instability, conflict or terrorism, law and order is weak and tourists are unsafe. The advisory warns their citizens not to go, or to leave at once.",
+          "note": "Lesson 3."
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "Describe any two features of a tourist map.",
+          "answer": "It shows places of tourist interest such as scenic spots, hill stations, monuments, religious places, beaches and sanctuaries. It also shows their location in relation to rivers, lakes, mountains and forests and is prepared from national to local level.",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 4."
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "Give two characteristics of road transport.",
+          "answer": "It is flexible, reliable and cheaper and can take the tourist up to the final destination. Vehicles such as cars, buses, taxis and jeeps connect rail, air and water transport.",
+          "note": "Lesson 5."
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "Mention the incident about Tansen recorded in the Tuzuk-i-Jahangiri.",
+          "answer": "It records that the Sufi Shaikh Salim Chishti of Fatehpur Sikri, at the time of his death, expressed the last wish to hear Tansen sing. Jahangir calls Tansen 'unequalled as a singer'.",
+          "years": [
+            "October 2024"
+          ],
+          "note": "Lesson 7."
+        },
+        {
+          "id": "3.5",
+          "type": "open",
+          "q": "Describe the town planning of the Harappan cities in two points.",
+          "answer": "Cities were built on a grid pattern with roads that cut each other at right angles. They had a citadel on high ground, an advanced drainage system and houses of well-baked bricks.",
+          "note": "Lesson 8."
+        },
+        {
+          "id": "3.6",
+          "type": "open",
+          "q": "Describe the sacred value of Mathura in any two points.",
+          "answer": "Mathura is the birthplace of Lord Krishna on the Yamuna and is known as Brajbhoomi. Holi and Janmashtami draw pilgrims and tourists to Mathura and Vrindavan.",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 9."
+        },
+        {
+          "id": "3.7",
+          "type": "open",
+          "q": "How did Christianity come to India? Explain in two points.",
+          "answer": "St Thomas, a disciple of Jesus, is believed to have reached Muziris on the western coast and founded churches. The Portuguese later brought missionaries such as Francis Xavier to the western coast.",
+          "note": "Lesson 10."
+        },
+        {
+          "id": "3.8",
+          "type": "open",
+          "q": "Differentiate between a domestic and an international tourist.",
+          "answer": "A domestic tourist travels within his own country and stays at least 24 hours away from home. An international tourist visits another country on a foreign passport and stays at least 24 hours without a paid job.",
+          "note": "Lesson 13."
+        },
+        {
+          "id": "3.9",
+          "type": "open",
+          "q": "Elucidate the four stages of team development.",
+          "answer": "Forming: members are cautious and explore. Storming: conflict about goals and roles surfaces. Norming: members agree on decision-making and standards. Performing: the team works together to get results.",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 18."
+        },
+        {
+          "id": "3.10",
+          "type": "open",
+          "q": "What is the marketing mix?",
+          "answer": "It is the set of controllable tools a firm blends to get the response it wants: product, price, promotion and place, with people, physical evidence and process added for services.",
+          "note": "Lesson 19."
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "4 × 3 = 12",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "Describe the main features of Islamic culture (three points).",
+          "answer": "(i) Islam is monotheistic and its five pillars are faith, prayer, zakat, fasting and Hajj. (ii) Muslims pray five times a day facing Mecca. (iii) Sufis preached peace and brotherhood and their dargahs and Urs attract all communities.",
+          "note": "Lesson 10."
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "Describe the pattern of foreign tourist arrivals in India (three points).",
+          "answer": "(i) In 2014 the USA (14.57%), Bangladesh (12.27%) and the UK (10.92%) were the top source countries. (ii) The top ten countries gave about 61.5% of the arrivals. (iii) Tamil Nadu, Maharashtra, Uttar Pradesh and Delhi received most foreign tourists and tourists stay a little over a month.",
+          "note": "Lesson 13."
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "Explain the share of the world regions in international tourist arrivals in 2015 (three points).",
+          "answer": "(i) Europe had the highest share, 609 million (51%). (ii) Asia and the Pacific followed with 278 million (23%), then the Americas with 191 million. (iii) Africa had the minimum, 53 million (5%), and the Middle East 54 million.",
+          "note": "Lesson 14."
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "How should a tourism professional handle customer complaints? (three points)",
+          "answer": "(i) Listen sympathetically, stay calm and do not take it personally. (ii) Record the details and deal with written complaints at once. (iii) Offer repair, replacement or refund, follow up and report back with a solution.",
+          "note": "Lesson 18."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Long answer questions. Answer in 80–120 words.",
+      "marks": "2 × 6 = 12",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "Discuss the major Jain heritage sites of India, in six points.",
+          "answer": "(i) Mount Parsvanatha in Bihar, where twenty Tirthankaras attained moksha. (ii) Pawapuri, where Mahavira attained nirvana. (iii) Dilwara temples at Mount Abu in white marble. (iv) Ranakpur with 1,444 carved pillars. (v) Girnar and Shatrunjaya in Gujarat. (vi) Shravanabelagola with the 57-ft Bahubali statue.",
+          "note": "Lesson 9."
+        },
+        {
+          "id": "5.2",
+          "type": "open",
+          "q": "Describe five important Christian heritage sites in India, in six points.",
+          "answer": "(i) Basilica of Bom Jesus (Old Goa), with St Francis Xavier's relics. (ii) St Thomas Mount and San Thomas Basilica in Chennai. (iii) Velankanni church in Tamil Nadu. (iv) Thomas Church at Kodungallur in Kerala. (v) Skinner's church in Delhi, the Holy Christ Church in Shimla and the Sardhana church. (vi) The Presbyterian church at Ross Island and Solomon's Temple at Aizawl.",
+          "note": "Lesson 10."
+        }
+      ]
+    },
+    {
+      "no": 6,
+      "title": "Optional Module I (Travel and Tour Operation Business): Choose the correct answer.",
+      "marks": "4 × 1 = 4",
+      "questions": [
+        {
+          "id": "6.1",
+          "type": "mcq",
+          "q": "Who transported 16,500 people to and from the Crystal Palace?",
+          "options": [
+            "John Mason Cook",
+            "Thomas Cook",
+            "Pallonji Katgara",
+            "Jamshedji Dastoor"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Lesson 20."
+        },
+        {
+          "id": "6.2",
+          "type": "mcq",
+          "q": "In which year was IRCTC incorporated?",
+          "options": [
+            "1999",
+            "1989",
+            "1979",
+            "1969"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 21."
+        },
+        {
+          "id": "6.3",
+          "type": "mcq",
+          "q": "Railneer bottled water is a product of:",
+          "options": [
+            "IRCTC",
+            "TAAI",
+            "IATA",
+            "PATA"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 21."
+        },
+        {
+          "id": "6.4",
+          "type": "mcq",
+          "q": "Which tour is paid for by a firm to reward its employees?",
+          "options": [
+            "Incentive tour",
+            "Freedom tour",
+            "Hosted tour",
+            "Independent tour"
+          ],
+          "answer": "A",
+          "note": "Lesson 22."
+        }
+      ]
+    },
+    {
+      "no": 7,
+      "title": "Optional Module I (Travel and Tour Operation Business): Objective type questions: each has two parts of 1 mark (fill in the blanks, true/false, match the columns or one word).",
+      "marks": "1 × 2 = 2",
+      "questions": [
+        {
+          "id": "7.1",
+          "type": "open",
+          "q": "True or False. (a) Travel agencies should be truthful in marketing and publicity. (b) IRCTC was incorporated in 1989.",
+          "answer": "(a) True. (b) False: on 27 September 1999.",
+          "note": "Lesson 21."
+        }
+      ]
+    },
+    {
+      "no": 8,
+      "title": "Optional Module I (Travel and Tour Operation Business): Short answer questions. Answer in 50–80 words.",
+      "marks": "2 × 3 = 6",
+      "questions": [
+        {
+          "id": "8.1",
+          "type": "open",
+          "q": "Distinguish between a retail travel agency and a wholesale travel agency with an example.",
+          "answer": "(i) A retail agency sells packages directly to tourists and earns commission; a wholesale agency buys in bulk and does not sell directly. (ii) A retail agency works on commission and mark-up; a wholesale agency earns through discounts on bulk reservations. (iii) For example, a local agency booking a Goa trip is a retailer while a firm that blocks hotel rooms and flight seats to make packages is a wholesaler.",
+          "years": [
+            "October 2025",
+            "April 2025"
+          ],
+          "note": "Lesson 20."
+        },
+        {
+          "id": "8.2",
+          "type": "open",
+          "q": "Explain the importance of disaster preparedness for travel agencies (three points).",
+          "answer": "(i) Safety and security of visitors is the prime responsibility. (ii) Disasters such as floods, earthquakes and terror strikes are uncertain. (iii) Trained teams coordinate with local disaster management teams to prevent harm.",
+          "note": "Lesson 21."
+        }
+      ]
+    },
+    {
+      "no": 9,
+      "title": "Optional Module II (Hospitality Management): Choose the correct answer.",
+      "marks": "4 × 1 = 4",
+      "questions": [
+        {
+          "id": "9.1",
+          "type": "mcq",
+          "q": "Which one of the following is a function of the housekeeping department?",
+          "options": [
+            "Take care of the cleanliness of rooms",
+            "Assign a room to the guest",
+            "Maintain the room records",
+            "Provide food and beverage facilities"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Lesson 23."
+        },
+        {
+          "id": "9.2",
+          "type": "mcq",
+          "q": "Which section of the front office provides personalised services such as booking theatre tickets?",
+          "options": [
+            "Concierge",
+            "Bell desk",
+            "Cash and bills",
+            "Information"
+          ],
+          "answer": "A",
+          "note": "Lesson 24."
+        },
+        {
+          "id": "9.3",
+          "type": "mcq",
+          "q": "A room with kitchen facilities for long-staying guests is called:",
+          "options": [
+            "Efficiency",
+            "Lanai",
+            "Suite",
+            "Twin"
+          ],
+          "answer": "A",
+          "note": "Lesson 24."
+        },
+        {
+          "id": "9.4",
+          "type": "mcq",
+          "q": "CCTV stands for:",
+          "options": [
+            "Closed-Circuit Television",
+            "Central Cable Television",
+            "Closed City Television",
+            "Common Camera Television"
+          ],
+          "answer": "A",
+          "note": "Lesson 25."
+        }
+      ]
+    },
+    {
+      "no": 10,
+      "title": "Optional Module II (Hospitality Management): Objective type questions: each has two parts of 1 mark (fill in the blanks, true/false, match the columns or one word).",
+      "marks": "1 × 2 = 2",
+      "questions": [
+        {
+          "id": "10.1",
+          "type": "open",
+          "q": "Match Column A with Column B. A: (a) Corporate rate (b) Government rate. B: (i) Discount offered to companies sending executives (ii) Rate offered to officials on duty (iii) Maximum advertised rate.",
+          "answer": "(a) – (i). (b) – (ii).",
+          "note": "Lesson 24."
+        }
+      ]
+    },
+    {
+      "no": 11,
+      "title": "Optional Module II (Hospitality Management): Short answer questions. Answer in 50–80 words.",
+      "marks": "2 × 3 = 6",
+      "questions": [
+        {
+          "id": "11.1",
+          "type": "open",
+          "q": "Explain any three expectations of guests during their arrival at the hotel.",
+          "answer": "(i) A warm and friendly greeting and welcome. (ii) An efficient and quick check-in with clean, well-maintained rooms. (iii) Efficient luggage handling by the bell desk from car to room.",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 23."
+        },
+        {
+          "id": "11.2",
+          "type": "open",
+          "q": "Explain the steps in handling a fire emergency in a hotel (three points).",
+          "answer": "(i) Inform the fire-fighting department with exact location and size of the fire. (ii) Alert all guests to use the staircase, not the lift, and help the old and handicapped. (iii) Assemble outside for roll call and use extinguishers.",
+          "note": "Lesson 24."
+        }
+      ]
+    }
+  ]
+}

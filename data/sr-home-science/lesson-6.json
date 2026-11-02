@@ -1,0 +1,345 @@
+{
+  "subject": "sr-home-science",
+  "lesson": 6,
+  "title": "Nutritional Status",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "14 × 1 = 14",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "Select the condition of health that is influenced by the intake and utilisation of nutrients:",
+          "options": [
+            "Malnutrition",
+            "Nutritional status",
+            "Balanced nutrition",
+            "Over nutrition"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "A 2-year-old child has very loose, wrinkled skin and a shrunken stomach. Which disease do these symptoms indicate?",
+          "options": [
+            "Kwashiorkor",
+            "Marasmus",
+            "Anaemia",
+            "Goitre"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "Identify the incorrect statement about malnutrition:",
+          "options": [
+            "Malnutrition only refers to undernutrition",
+            "Overnutrition can lead to obesity",
+            "Faulty utilisation of nutrients can cause malnutrition",
+            "Both undernutrition and overnutrition are types of malnutrition"
+          ],
+          "answer": "A",
+          "fixed": true,
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "To assess the nutritional status of a person, you need to know his:",
+          "options": [
+            "Mental growth",
+            "Social growth",
+            "Physical growth",
+            "Intellectual growth"
+          ],
+          "answer": "C",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "Growth monitoring of children is done in which of the following programmes?",
+          "options": [
+            "Integrated Child Development Services",
+            "Mid-day Meal Programme",
+            "National Nutritional Anaemia Control Programme",
+            "National Iodine Deficiency Disorder Control Programme"
+          ],
+          "answer": "A",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "Ram has a swollen neck and feels tired. These may be symptoms of which deficiency disease?",
+          "options": [
+            "Anaemia",
+            "Goitre",
+            "Night blindness",
+            "Marasmus"
+          ],
+          "answer": "B",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "Which deficiency causes night blindness?",
+          "options": [
+            "Vitamin A",
+            "Iron",
+            "Iodine",
+            "Protein"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "Spoon-shaped nails and paleness of the tongue are symptoms of:",
+          "options": [
+            "Anaemia",
+            "Goitre",
+            "Kwashiorkor",
+            "Marasmus"
+          ],
+          "answer": "A",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "Oedema and light-coloured hair that is easy to pull are signs of:",
+          "options": [
+            "Kwashiorkor",
+            "Marasmus",
+            "Night blindness",
+            "Goitre"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "Mid Day Meal Programme provides meals to children of:",
+          "options": [
+            "6 to 11 years",
+            "Below 6 months",
+            "12 to 18 years",
+            "Only adults"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "Iron and folic acid supplements are given under:",
+          "options": [
+            "NNACP",
+            "NIDDCP",
+            "MDMP",
+            "Vitamin A programme"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "Iodised salt is promoted by:",
+          "options": [
+            "NIDDCP",
+            "ICDS",
+            "MDMP",
+            "NNACP"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.13",
+          "type": "mcq",
+          "q": "A person who eats more energy-rich food than required suffers from:",
+          "options": [
+            "Overnutrition",
+            "Undernutrition",
+            "Anaemia",
+            "Marasmus"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.14",
+          "type": "mcq",
+          "q": "Marasmus affects children:",
+          "options": [
+            "Before 12 months of age",
+            "Aged 6–9 years",
+            "Aged 15–18 years",
+            "Only adults"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark (true/false, match the columns, fill in the blanks or give reasons).",
+      "marks": "5 × 2 = 10",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "Give one word for the following. (i) A person who eats too much energy-rich food and becomes obese is suffering from ________. (ii) The condition where the body lacks one or more essential nutrients is called ________.",
+          "answer": "(i) Overnutrition. (ii) Undernutrition.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Match Column I with Column II. I: (1) ICDS (2) Spoon-shaped nails (3) Inability to see in the dark (4) Light-coloured hair. II: (a) Kwashiorkor (b) Night blindness (c) Immunisation (d) Anaemia.",
+          "answer": "(1) – (c). (2) – (d). (3) – (b). (4) – (a).",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "Fill in the blanks. (a) Malnutrition covers both ________ and ________. (b) Physical growth is assessed by measuring body ________ and height.",
+          "answer": "(a) Undernutrition and overnutrition. (b) Weight."
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "True or False. (a) The only beneficiaries of ICDS are children below 5 years. (b) Massive doses of vitamin A are given to children aged 6 months to 5 years.",
+          "answer": "(a) False: adolescents, pregnant and lactating women are also covered. (b) True."
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "Rearrange the jumbled names of programmes. (i) DCSI (ii) PMDM (iii) PCNDID (iv) PNANC.",
+          "answer": "(i) ICDS. (ii) MDMP. (iii) NIDDCP. (iv) NNACP."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "5 × 2 = 10",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "A community health worker finds children with night blindness and drying of the white of the eye. Which deficiency is indicated and which food items should be promoted?",
+          "answer": "Vitamin A deficiency is indicated. Promote vitamin A rich foods such as green leafy vegetables, carrots, papaya, mango, milk and egg.",
+          "years": [
+            "April 2026"
+          ],
+          "or": {
+            "q": "A 10-year-old girl is tired, pale and breathless on activity. Name the deficiency and two food items for her diet.",
+            "answer": "Anaemia due to iron deficiency. Include green leafy vegetables, jaggery, dates or liver in her diet."
+          }
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "What is nutritional status? How can it be assessed?",
+          "answer": "It is the condition of health influenced by intake and utilisation of nutrients. It is assessed by measuring physical growth, recording dietary intake and recognising deficiency signs."
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "List any two causes of malnutrition.",
+          "answer": "Decreased availability of food due to population growth or low production. Poverty, ignorance and infections from poor hygiene also cause it."
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "What is ICDS? Name two services under it.",
+          "answer": "ICDS is the Integrated Child Development Services scheme that gives nutrition, health care and education together through Anganwadis. Services include supplementary feeding and immunisation."
+        },
+        {
+          "id": "3.5",
+          "type": "open",
+          "q": "Name the national programme for preventing goitre. What does it provide?",
+          "answer": "The National Iodine Deficiency Disorder Control Programme. It ensures the supply of iodised salt of standard quality and creates awareness."
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "3 × 3 = 9",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "How can a person's nutritional status be assessed? Explain any two methods.",
+          "answer": "(i) Physical growth: weight and height are measured and compared with the standard reference for age; lower values show malnutrition. (ii) Dietary intake: all foods eaten in 24 hours are recorded, grouped into food groups and compared with the recommended intake for age and sex.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "Explain the differences between marasmus and kwashiorkor (three points).",
+          "answer": "(i) Causes: marasmus is lack of energy and protein; kwashiorkor is lack of protein alone. (ii) Age: marasmus before 12 months; kwashiorkor at 1–3 years. (iii) Symptoms: marasmus gives wrinkled skin and a shrunken abdomen; kwashiorkor gives oedema, pot belly and light, easily pulled hair."
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "Explain the services and beneficiaries of the Mid Day Meal and ICDS programmes (three points).",
+          "answer": "(i) The Mid Day Meal programme gives supplementary meals to primary school children aged 6–11 and improves school attendance. (ii) ICDS gives supplementary feeding, health check-ups, immunisation and pre-school education. (iii) ICDS beneficiaries are children below 6, adolescent girls, pregnant and lactating women."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Long answer questions. Answer in 80–120 words.",
+      "marks": "1 × 5 = 5",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "How can a person's nutritional status be assessed? Explain the methods.",
+          "answer": "(i) Physical growth: measure weight and height and compare with references for age. (ii) Children below the reference are undernourished; above it are overnourished. (iii) Dietary intake: record the 24-hour food intake and group it into food groups. (iv) Compare it with the recommended intake for age and sex using the food pyramid. (v) Recognise signs and symptoms of deficiency diseases. (vi) Weigh regularly, as excessive gain or loss needs attention.",
+          "years": [
+            "October 2025"
+          ],
+          "or": {
+            "q": "Explain the causes and consequences of malnutrition.",
+            "answer": "(i) Decreased availability of food. (ii) Ignorance of correct feeding. (iii) Poverty or excess income. (iv) Stress conditions such as pregnancy and growth. (v) Poor hygiene and infections. (vi) Consequences: deficiencies, poor physical and mental growth, handicaps, low work capacity and death."
+          }
+        }
+      ]
+    }
+  ]
+}

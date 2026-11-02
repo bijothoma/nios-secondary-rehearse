@@ -1,0 +1,53 @@
+{
+ "lesson": 16,
+ "title": "Household Equipment",
+ "module": 3,
+ "summary": [
+  "## Classification",
+  "Anything that aids you in doing work is an equipment. Electrical equipment needs electricity (toaster, mixie, immersion rod, iron, refrigerator, washing machine, geyser); non-electrical equipment is manually operated or uses another fuel (utensils, sewing machine, cooking stove, solar cooker). A 'grameen sheetal' is a wire-mesh cupboard covered with jute cloth (taat) whose ends dip in bowls of water so the cloth stays wet; it keeps food cool without electricity but is cheaper and cannot do all that a refrigerator can. Efficient use includes correct selection, operation and care.",
+  "## Selection",
+  "Points to consider: (1) need-based (not because others have it or it is cheap), (2) saves time, money and energy (a pressure cooker saves time, fuel and supervision; a sharp knife saves energy), (3) easy to clean (stainless steel over iron; toaster with removable crumb tray), (4) safe (ISI mark guarantees safety of electrical goods; 3-pin plug and insulated cord; no exposed metal; no sharp edges or loose handles; guarantee of service: a promise that the manufacturer will repair free for a stated period, e.g. 5 years for refrigerators, 7 for fans; the guarantee card should be filled, signed and stamped), (5) cost (costlier equipment performs more functions but a simple model may suit your need), (6) after-sales service available locally. Standardised products meet minimum standards of safety, durability and performance.",
+  "## Correct use, care and maintenance",
+  "Read and follow the instructions; check wires and plugs; remove the plug before cleaning; keep electrical equipment away from water taps; do not touch with wet hands; stop using equipment that gives even a light shock; keep wires out of the walking path; use proper fuses or an MCB (mini circuit breaker, which cuts off supply on overload, short circuit or sudden voltage rise); do not wear synthetic clothes in the kitchen (nylon melts and sticks to skin); use pans with bakelite or wooden handles and tongs or a napkin (never the pallu); clean equipment after every use; fill a kerosene stove only up to 2/3 and never refill while on; replace a cracked LPG tube, worn wires and a hard pressure-cooker gasket; turn off the LPG knob when not in use; store knives with the blade pointing down; keep the cooker vent pipe clean and wait for the hissing to stop before opening; no metal spoons or hard scrubbers for non-stick pans; oil sewing machines; use only microwave-proof containers in a microwave oven.",
+  "## Conserving fuel, electricity and water",
+  "Fuel: clean burners, bring frozen food to room temperature, soak pulses and rice, use a pressure cooker (lower the flame after the first whistle) and separators, cover the pan, cool hot food before refrigerating and use a solar cooker. Electricity: avoid frequent fridge door opening, switch off lights and fans, use low-wattage tubelights and CFLs, minimise geyser, washing machine and mixer use, repair defects, use solar lantern, cooker and water heater, and use TVs and computers sparingly. Water: reuse clothes-washing water for mopping and vegetable-washing water for plants, use a bucket and mug instead of a shower or running tap, water plants and wash the car with a bucket rather than a pipe and do not let the water cooler overflow."
+ ],
+ "mcq": [
+  ["Suggest a device from the following options to keep cooked food safe for some time.", ["Refrigerator", "Grameen Sheetal", "Ice-box", "Freezer"], "B", ["April 2026"]],
+  ["A promise by the manufacturer for the efficient performance of an equipment is a:", ["Guarantee", "Standard mark", "Brand name", "Price tag"], "A"],
+  ["Which mark ensures the safety of electrical equipment?", ["ISI mark", "AGMARK", "FPO", "Eco Mark"], "A"],
+  ["A device that cuts off electric supply in case of overload or short circuit is:", ["MCB", "Switch", "Plug", "Wire"], "A", ["April 2025"]],
+  ["Which of the following is a non-electrical equipment?", ["Sewing machine", "Toaster", "Mixie", "Geyser"], "A"],
+  ["Which clothes should not be worn while working in the kitchen?", ["Synthetic (nylon) clothes", "Cotton clothes", "Khadi clothes", "Linen clothes"], "A"],
+  ["A kerosene stove tank should be filled up to about:", ["2/3", "Full", "1/10", "1/2 only"], "A"],
+  ["What must be done before cleaning an electrical appliance?", ["Remove the plug", "Wet the plug", "Switch on the supply", "Hold it with wet hands"], "A"],
+  ["Which is the best way to store a knife?", ["Blade pointing downwards", "Blade pointing upwards", "Loose in the drawer", "On the table"], "A"],
+  ["Which of the following saves fuel while cooking?", ["Using a pressure cooker with separators", "Cooking in open pans", "Cooking frozen food directly", "Keeping the flame high after the first whistle"], "A"],
+  ["The vent pipe of a pressure cooker should be:", ["Kept unclogged and clean", "Closed with cloth", "Blocked", "Removed"], "A"],
+  ["Which of the following should NOT be used in a microwave oven?", ["Metal containers", "Microwave-proof glass", "Microwave-proof ceramic", "Microwave-proof plastic"], "A"],
+  ["For a non-stick pan one should use:", ["Wooden or plastic spoons", "Metal ladles", "Steel wool", "Hard scrubber"], "A"],
+  ["An important safety feature of electrical equipment is:", ["A 3-pin plug and insulated cord", "Exposed metal parts", "Cracked wire", "Loose handles"], "A"]
+ ],
+ "objective": [
+  ["State True or False. (a) Only electrical equipments are labour saving. (b) Non-electrical equipments are manually operated. (c) Standardised products ensure safety and durability. (d) Expensive equipment always fulfils family needs better than inexpensive ones.", "(a) False. (b) True. (c) True. (d) False.", null],
+  ["Fill in the blanks. (a) Efficient use of equipment includes correct selection, operation and ________. (b) The foremost criterion for selecting equipment is that it must be ________ based.", "(a) Care. (b) Need.", null],
+  ["True or False. (a) A stove burner does not need regular cleaning. (b) Washing a car with water collected in a bucket saves water. (c) Tube lights and CFLs consume less electricity than bulbs.", "(a) False. (b) True. (c) True."],
+  ["Match Column A with Column B. A: (a) MCB (b) Guarantee card. B: (i) Cuts off supply on overload (ii) Promise of service for a period (iii) Mark of standardisation.", "(a) – (i). (b) – (ii)."]
+ ],
+ "vsa": [
+  ["Mention four safety tips while using household appliances in your kitchen.", "Remove the plug before cleaning and keep electrical equipment dry and away from water. Do not wear synthetic clothes, use pans with insulated handles, and replace worn wires or a cracked LPG tube.", ["April 2025"]],
+  ["What is a 'grameen sheetal'? Mention its use.", "It is a wire-mesh cupboard covered with wet jute cloth whose ends dip in bowls of water. It keeps food cool without electricity."],
+  ["List any two points you would check for safety while buying an electrical equipment.", "Check for the ISI mark and a 3-pin plug with an insulated cord. Make sure it has no exposed metal parts and carries a guarantee."],
+  ["Why should after-sales service be considered while buying equipment?", "Equipment gets wear and tear and needs repair or replacement of parts. Local service at an affordable price avoids trouble."],
+  ["Why should a pressure cooker be used for cooking?", "It cooks food faster, saving time and fuel. It does not need much supervision and cooks several dishes together with separators."]
+ ],
+ "sa": [
+  ["List five factors to be kept in mind while selecting household equipment.", "(i) It should be need-based. (ii) It should save time, energy and money and be easy to clean. (iii) It should be safe with an ISI mark and a guarantee. (iv) The cost should suit the budget. (v) After-sales service should be available."],
+  ["State four guidelines for proper care and maintenance of equipment.", "(i) Read and follow the instructions and clean the equipment after every use. (ii) Check wires and plugs and replace worn parts. (iii) Use proper fuses or an MCB and keep the equipment dry. (iv) Store sharp tools safely and oil moving parts."],
+  ["Suggest ways of conserving water at home (three points).", "(i) Use water used for washing clothes to mop floors and water from washing vegetables for plants. (ii) Use a bucket and mug for bathing, brushing and car washing rather than a shower or running tap. (iii) Do not let the water cooler overflow."],
+  ["Explain how fuel can be conserved while cooking (three points).", "(i) Soak pulses and cook in a pressure cooker, lowering the flame after the first whistle. (ii) Use separators to cook many dishes together and cover the pan. (iii) Clean burners and use a solar cooker when possible."]
+ ],
+ "la": [
+  ["Explain the points to be kept in mind for correct use and care of household equipment, with reasons.", "(i) Follow the instructions and keep electrical equipment away from water and wet hands to avoid shock. (ii) Check wires and plugs and remove the plug before cleaning. (iii) Install proper fuses or an MCB to prevent fire from a short circuit. (iv) Avoid synthetic clothes in the kitchen because nylon melts and burns the skin. (v) Fill a kerosene stove only to 2/3 and replace cracked LPG tubes and hard gaskets. (vi) Keep the cooker vent pipe clean, use only suitable utensils on non-stick pans and in microwave ovens."]
+ ]
+}

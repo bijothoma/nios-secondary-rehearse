@@ -1,0 +1,324 @@
+{
+  "subject": "sr-home-science",
+  "lesson": 15,
+  "title": "Environment Management",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Choose the correct answer.",
+      "marks": "14 × 1 = 14",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "mcq",
+          "q": "Ravi uses excessive chemical fertilisers and pesticides on his farm. What problem can this cause?",
+          "options": [
+            "Soil fertility will increase",
+            "Soil micro-organisms will die, reducing soil fertility",
+            "Crops will be healthier and yield will increase",
+            "Soil will become more water-retentive"
+          ],
+          "answer": "B",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "1.2",
+          "type": "mcq",
+          "q": "Environmental degradation refers to:",
+          "options": [
+            "An unfavourable change of our surroundings",
+            "Only water pollution",
+            "Only land degradation",
+            "Human interactions"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.3",
+          "type": "mcq",
+          "q": "The ozone layer protects the earth from:",
+          "options": [
+            "Ultraviolet rays of the sun",
+            "Rain",
+            "Wind",
+            "Meteors"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.4",
+          "type": "mcq",
+          "q": "Acid rain affects the marble of the:",
+          "options": [
+            "Taj Mahal",
+            "Red Fort",
+            "Qutub Minar",
+            "India Gate"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.5",
+          "type": "mcq",
+          "q": "Forests are referred to as:",
+          "options": [
+            "Oxygen banks",
+            "Water banks",
+            "Carbon banks",
+            "Fuel banks"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.6",
+          "type": "mcq",
+          "q": "The Eco Mark is given by:",
+          "options": [
+            "Bureau of Indian Standards",
+            "AGMARK",
+            "FPO",
+            "Bank"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.7",
+          "type": "mcq",
+          "q": "Which of the following is eco-friendly?",
+          "options": [
+            "Paper bag",
+            "Polythene bag",
+            "Thermocol glass",
+            "Leaded petrol"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.8",
+          "type": "mcq",
+          "q": "Which of the following is non-biodegradable?",
+          "options": [
+            "Polythene",
+            "Paper",
+            "Vegetable peel",
+            "Cotton cloth"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.9",
+          "type": "mcq",
+          "q": "The gases responsible for global warming include:",
+          "options": [
+            "Carbon dioxide and methane",
+            "Oxygen and nitrogen",
+            "Helium and neon",
+            "Argon only"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.10",
+          "type": "mcq",
+          "q": "Which of the following is a natural cause of environmental degradation?",
+          "options": [
+            "Volcanic eruptions",
+            "Industries",
+            "Smoking",
+            "Overgrazing"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.11",
+          "type": "mcq",
+          "q": "Foam on water bodies is harmful because it:",
+          "options": [
+            "Cuts off oxygen supply to aquatic life",
+            "Adds oxygen",
+            "Cleans water",
+            "Kills mosquitoes"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.12",
+          "type": "mcq",
+          "q": "The 'farmer's friends' in the soil are:",
+          "options": [
+            "Micro-organisms that decompose wastes",
+            "Earthworms only",
+            "Chemical fertilisers",
+            "Pesticides"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.13",
+          "type": "mcq",
+          "q": "Which practice helps convert kitchen waste into useful form?",
+          "options": [
+            "Making a compost pit",
+            "Burning in the open",
+            "Dumping on the street",
+            "Throwing in a river"
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "1.14",
+          "type": "mcq",
+          "q": "Sulabh Shauchalayas are built to:",
+          "options": [
+            "Stop open-air defecation",
+            "Store grain",
+            "Burn waste",
+            "Save water"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Objective type questions: each has two parts of 1 mark (true/false, match the columns, fill in the blanks or give reasons).",
+      "marks": "5 × 2 = 10",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "Fill in the blanks. (a) Poor agricultural practices lead to soil ________ and decrease soil ________. (b) Floods, famine and strong winds are called ________ disasters.",
+          "answer": "(a) Erosion and fertility. (b) Natural."
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Match Column A with Column B. A: (a) Polythene bags (b) Traditional chullah. B: (i) Smokeless chullah (ii) Paper bags (iii) Leaded petrol.",
+          "answer": "(a) – (ii). (b) – (i)."
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "True or False. (a) Chemical fertilisers kill soil micro-organisms. (b) The Eco Mark certifies minimum pollution standards in production, packaging and disposal.",
+          "answer": "(a) True. (b) True."
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Rearrange the letters. (i) Avoid cutting trees: NTOSIFEAORTED (ii) Eco-friendly cooking fuel: SGAOIB (iii) Recycling household waste: EAMUNR.",
+          "answer": "(i) Afforestation (or deforestation to be avoided). (ii) Biogas. (iii) Manure."
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "Name the practices that cause air degradation and the one that causes land degradation. Choose from smoking, spitting, loud music, open defecation.",
+          "answer": "Air degradation: smoking and loud music. Land degradation: spitting and open defecation."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Very short answer questions. Answer in 30–50 words.",
+      "marks": "6 × 2 = 12",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "How does technical advancement contribute to environmental degradation?",
+          "answer": "Industries, mines and vehicles release toxic wastes, harmful gases and radioactive pollutants. These deplete the ozone layer and kill life in air, water and land.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "Ramesh wants to dispose of dry leaves and kitchen waste from his garden in an eco-friendly way. Which practice should he adopt and what is one benefit?",
+          "answer": "He should make compost in a compost pit. The compost is a manure that increases soil fertility and saves on chemical fertilisers.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "What do you understand by 'environmental degradation'? Mention its three natural causes.",
+          "answer": "It is an unfavourable change of our surroundings. Natural causes are earthquakes, volcanic eruptions and floods (also famine and strong winds).",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "Why are forests called 'oxygen banks'?",
+          "answer": "Forests supply oxygen, influence rainfall and temperature, and prevent soil erosion. They also recharge water sources and shelter wildlife."
+        },
+        {
+          "id": "3.5",
+          "type": "open",
+          "q": "Name any two effects of the depletion of the ozone layer.",
+          "answer": "More ultraviolet rays reach the earth, causing skin cancer and eye problems like cataract. They also stunt the growth of plants."
+        },
+        {
+          "id": "3.6",
+          "type": "open",
+          "q": "What is 'eco friendly'? Give two examples.",
+          "answer": "Products and practices not harmful to the environment in production, use and disposal. Paper bags and unleaded petrol are examples."
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Short answer questions. Answer in 50–80 words.",
+      "marks": "4 × 3 = 12",
+      "questions": [
+        {
+          "id": "4.1",
+          "type": "open",
+          "q": "Explain the causes of environmental degradation (any three).",
+          "answer": "(i) Uncontrolled population growth increases demand for food, fuel and space and leads to deforestation and slums. (ii) Technical advancement releases toxic wastes and harmful gases. (iii) Poor agricultural practices and improper personal habits degrade soil, water and air."
+        },
+        {
+          "id": "4.2",
+          "type": "open",
+          "q": "Explain the effects of deforestation (three points).",
+          "answer": "(i) Landslides, floods and soil erosion. (ii) No rainfall and drying of springs, lakes and rivers, changing the climate. (iii) Extinction of wildlife and reduced availability of land."
+        },
+        {
+          "id": "4.3",
+          "type": "open",
+          "q": "How can an individual help in environmental conservation? (three points)",
+          "answer": "(i) Follow the 3 R's of reduce, reuse and recycle and use solar cookers. (ii) Use public transport or share cars and plant a tree. (iii) Keep the family small, save water and avoid smoking and loud speakers."
+        },
+        {
+          "id": "4.4",
+          "type": "open",
+          "q": "Explain the role of the government in controlling environmental degradation (three points).",
+          "answer": "(i) Enforce strict pollution control laws and ensure waste treatment plants in industries. (ii) Provide efficient waste disposal and promote biogas and solar devices. (iii) Educate people, promote healthy farm practices and tree planting, and conserve wildlife."
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Long answer questions. Answer in 80–120 words.",
+      "marks": "1 × 5 = 5",
+      "questions": [
+        {
+          "id": "5.1",
+          "type": "open",
+          "q": "Explain the effects of air and water degradation on human life.",
+          "answer": "(i) Air: acid rain damages plants, animals and monuments like the Taj Mahal. (ii) The ozone layer is depleted, causing skin cancer and eye problems. (iii) Global warming raises temperature and makes rainfall unpredictable. (iv) Man-made disasters such as Bhopal and Chernobyl kill and harm life. (v) Water: sewage causes jaundice, diarrhoea, typhoid and malaria. (vi) Industrial wastes cause cancer, leukaemia and allergies and foam cuts oxygen for aquatic life."
+        }
+      ]
+    }
+  ]
+}
