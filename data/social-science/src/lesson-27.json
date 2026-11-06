@@ -28,41 +28,219 @@
     "Support to the UN: India is one of the 51 founding members; it supports UN efforts for peace, peacekeeping and disarmament, wants disputes settled by negotiation, and seeks an active UN role in development. India has a strong case for permanent membership of the Security Council — its size, democracy, growing economy, peacekeeping record and leadership of developing countries."
   ],
   "mcq": [
-    ["What does the inclusion of Peace and Security in the Directive Principles of State Policy indicate?", ["These are just historical references.", "These are legally enforceable rights.", "The State should aim to ensure peace and security while making laws and policies.", "Only the judiciary is responsible for maintaining peace and security."], "C", ["April 2026"]],
-    ["In its most basic sense, security implies freedom from —", ["taxes", "extremely dangerous threats", "all kinds of work", "government control"], "B", ["April 2024"]],
-    ["Which Article of the Indian Constitution asks the State to promote international peace and security?", ["Article 14", "Article 32", "Article 51", "Article 356"], "C"],
-    ["Which one of the following is a threat in the new (non-traditional) notion of security but NOT in the traditional notion?", ["Military attack by another country", "Health epidemics", "Border war", "Occupation of territory"], "B"],
-    ["The Naxalite movement began in 1967 in —", ["Bihar", "Andhra Pradesh", "West Bengal", "Chhattisgarh"], "C"],
-    ["Which of these leaders is NOT regarded as a founder of the Non-Aligned Movement?", ["Jawaharlal Nehru", "Josip Broz Tito", "Gamal Abdel Nasser", "Winston Churchill"], "D"],
-    ["The policy of non-alignment means —", ["joining the western bloc", "joining the Soviet bloc", "not joining any military bloc and judging issues on merit", "staying away from all international affairs"], "C", ["April 2024"]],
-    ["Terrorism is best described as —", ["a peaceful protest for a demand", "a criminal act to cause deadly injury to civilians and spread fear for a political or ideological purpose", "a strike by workers", "a war declared between two nations"], "B", ["October 2021"]],
-    ["India is one of the ____ founding members of the United Nations.", ["51", "100", "15", "193"], "A"],
-    ["The terrorist attack on Mumbai, popularly known as 26/11, took place in —", ["2001", "2006", "2008", "2011"], "C"]
+    [
+      "What does the inclusion of Peace and Security in the Directive Principles of State Policy indicate?",
+      [
+        "These are just historical references.",
+        "These are legally enforceable rights.",
+        "The State should aim to ensure peace and security while making laws and policies.",
+        "Only the judiciary is responsible for maintaining peace and security."
+      ],
+      "C",
+      [
+        "April 2026"
+      ]
+    ],
+    [
+      "In its most basic sense, security implies freedom from —",
+      [
+        "taxes",
+        "extremely dangerous threats",
+        "all kinds of work",
+        "government control"
+      ],
+      "B",
+      [
+        "April 2024"
+      ]
+    ],
+    [
+      "Which Article of the Indian Constitution asks the State to promote international peace and security?",
+      [
+        "Article 14",
+        "Article 32",
+        "Article 51",
+        "Article 356"
+      ],
+      "C"
+    ],
+    [
+      "Which one of the following is a threat in the new (non-traditional) notion of security but NOT in the traditional notion?",
+      [
+        "Military attack by another country",
+        "Health epidemics",
+        "Border war",
+        "Occupation of territory"
+      ],
+      "B"
+    ],
+    [
+      "The Naxalite movement began in 1967 in —",
+      [
+        "Bihar",
+        "Andhra Pradesh",
+        "West Bengal",
+        "Chhattisgarh"
+      ],
+      "C"
+    ],
+    [
+      "Which of these leaders is NOT regarded as a founder of the Non-Aligned Movement?",
+      [
+        "Jawaharlal Nehru",
+        "Josip Broz Tito",
+        "Gamal Abdel Nasser",
+        "Winston Churchill"
+      ],
+      "D"
+    ],
+    [
+      "The policy of non-alignment means —",
+      [
+        "joining the western bloc",
+        "joining the Soviet bloc",
+        "not joining any military bloc and judging issues on merit",
+        "staying away from all international affairs"
+      ],
+      "C",
+      [
+        "April 2024"
+      ]
+    ],
+    [
+      "Terrorism is best described as —",
+      [
+        "a peaceful protest for a demand",
+        "a criminal act to cause deadly injury to civilians and spread fear for a political or ideological purpose",
+        "a strike by workers",
+        "a war declared between two nations"
+      ],
+      "B",
+      [
+        "October 2021"
+      ]
+    ],
+    [
+      "India is one of the ____ founding members of the United Nations.",
+      [
+        "51",
+        "100",
+        "15",
+        "193"
+      ],
+      "A"
+    ],
+    [
+      "The terrorist attack on Mumbai, popularly known as 26/11, took place in —",
+      [
+        "2001",
+        "2006",
+        "2008",
+        "2011"
+      ],
+      "C"
+    ]
   ],
   "objective": [
-    ["Fill in the blanks: Security implies ____ from dangerous threats and it also relates to protecting those ____ core values like Human Rights.", "freedom; endangered (threatened)", ["April 2026"]],
-    ["Fill in the blanks: India has been experiencing violent activities under the garb of terrorism, ____ and the ____ movement.", "insurgency; Naxalite"],
-    ["True or False: (a) Non-alignment means neutrality and isolation from world affairs. (b) Peace and security are a precondition for development.", "(a) False — it means not joining military blocs but taking an independent stand. (b) True"],
-    ["Fill in the blanks: Insurgency in India is of two types — movements with ____ motives and movements for social and ____ justice.", "political; economic"],
-    ["Answer in one word each: (a) Which country did Tito lead? (b) Which Indian leader is called the prime architect of non-alignment?", "(a) Yugoslavia (b) Jawaharlal Nehru"],
-    ["Fill in the blanks: Article 51 directs the State to encourage settlement of international disputes by ____ and to foster respect for ____ law.", "arbitration; international"]
+    [
+      "Fill in the blanks: Security implies ____ from dangerous threats and it also relates to protecting those ____ core values like Human Rights.",
+      "freedom; endangered (threatened)",
+      [
+        "April 2026"
+      ]
+    ],
+    [
+      "Fill in the blanks: India has been experiencing violent activities under the garb of terrorism, ____ and the ____ movement.",
+      "insurgency; Naxalite"
+    ],
+    [
+      "True or False: (a) Non-alignment means neutrality and isolation from world affairs. (b) Peace and security are a precondition for development.",
+      "(a) False — it means not joining military blocs but taking an independent stand. (b) True"
+    ],
+    [
+      "Fill in the blanks: Insurgency in India is of two types — movements with ____ motives and movements for social and ____ justice.",
+      "political; economic"
+    ],
+    [
+      "Answer in one word each: (a) Which country did Tito lead? (b) Which Indian leader is called the prime architect of non-alignment?",
+      "(a) Yugoslavia (b) Jawaharlal Nehru"
+    ],
+    [
+      "Fill in the blanks: Article 51 directs the State to encourage settlement of international disputes by ____ and to foster respect for ____ law.",
+      "arbitration; international"
+    ]
   ],
   "vsa": [
-    ["'Peace and security are inseparable.' Explain.", "Peace cannot exist where people live under threat, and security is meaningless without harmony. Together they create a condition where individuals, institutions, nations and the world move ahead without threat; conflict creates fear and hampers progress.", ["April 2024"]],
-    ["How does the new notion of security differ from the traditional notion? Give two points.", "(1) The traditional notion is about military threats to a nation's territory and sovereignty; the new one covers threats like terrorism, hunger, disease, environmental damage and denial of human rights. (2) The new notion focuses on individuals and humankind, not just States, and treats security as a precondition of development and dignity."],
-    ["What contribution did the freedom movement make to India's approach to peace and security?", "Leaders realised democracy and development need peace, pledged that free India would promote international peace, supported anti-colonial and anti-racist movements, and chose social justice and secularism to prevent internal threats.", ["October 2016"]],
-    ["Why did India adopt the policy of non-alignment?", "To keep its independence in foreign policy during the Cold War by not joining the US or Soviet military blocs, to judge each issue on merit, to promote world peace and to focus on its own development with help from all."]
+    [
+      "'Peace and security are inseparable.' Explain.",
+      "(1) Peace cannot exist where people live under threat, and security is meaningless without harmony. (2) Conflict not only generates threat and fear, but also hampers economic, social, or political advancement. It is a condition where individuals, institutions, regions, nations and the world move ahead without any threat.",
+      [
+        "April 2024"
+      ]
+    ],
+    [
+      "How does the new notion of security differ from the traditional notion? Give two points.",
+      "(1) In this background the new notion of peace and security is based on threats beyond military attacks. The new notion of peace and security also includes freedom of individuals from hunger, freedom from wants, diseases and epidemics, environmental degradation, exploitation and sub-human treatment. (2) In fact, peace and security is to be seen as the precondition to socio-economic development and to the maintenance of human dignity. But the new notion is focused on human peace and security or global peace and security."
+    ],
+    [
+      "What contribution did the freedom movement make to India's approach to peace and security?",
+      "(1) The leadership of the freedom movement announced that India would promote the policy of international peace, because it would be essential for the socio-economic development. (2) They extended support to all the anti-colonial and anti-racist movements in the world and championed the cause of democracy. The consensus that emerged for adopting socialistic approach to socio-economic development, laying emphasis on social justice and secularism was aimed at creating conditions that promote security against internal threats to peace.",
+      [
+        "October 2016"
+      ]
+    ],
+    [
+      "Why did India adopt the policy of non-alignment?",
+      "Non-alignment has been regarded as the most important feature of India’s foreign policy. Non-alignment aimed at maintaining national independence in foreign affairs by not joining any of the two military alliances formed by the USA and Soviet Union."
+    ]
   ],
   "sa": [
-    ["Why are peace and security essential for the progress of individuals, nations and the world? Explain.", "(1) Development needs peace — no economic or social progress is possible amid violence or war; resources go to defence instead. (2) Democracy needs peace — elections, democratic institutions and people's participation can work only in peaceful conditions. (3) Individuals can live with dignity, free from fear, enjoy rights and plan their lives; at world level, peace allows trade and cooperation.", ["April 2026", "October 2024"]],
-    ["Describe the strategy of the Government of India to deal with terrorism, insurgency and the Naxalite movement.", "(1) Terrorism — support and seek international cooperation and put diplomatic pressure on Pakistan and neighbours to stop support to terrorist groups. (2) Insurgency — tackle it diplomatically through treaties with Myanmar and Bangladesh to stop help to insurgents, along with security measures. (3) Naxalism — treated as a socio-economic problem, not just law and order: speed up development in affected areas and bring youth into the mainstream.", ["April 2017"]],
-    ["Explain the relationship between peace and security on one hand and democracy and development on the other.", "(1) Without peace elections and democratic institutions cannot function and development cannot take place. (2) Democracies rarely go to war and give all citizens a chance to participate, removing causes of discontent. (3) Development improves quality of life and removes the sense of deprivation that leads to protests and violence; the 2005 World Summit called them interlinked and mutually reinforcing."],
-    ["What are the causes of the Naxalite movement? How can it be solved?", "Causes: social discrimination and economic deprivation of tribals, SCs and dalits; the fruits of development not reaching them; disputes over land and forests. Solutions: faster development — roads, schools, jobs — in affected areas; land reforms and protection of forest rights; dialogue to bring youth into the mainstream along with firm action against violence."],
-    ["Explain any three basic objectives of India's foreign policy.", "(1) Promotion of international peace and security and support to the United Nations. (2) Good relations with all nations, especially neighbours, while keeping freedom in policy formulation (non-alignment). (3) Disarmament; opposition to colonialism, imperialism and racism; and cooperation among developing nations."],
-    ["How has India supported the United Nations? Why does India deserve permanent membership of the Security Council?", "Support: a founding member; contributes troops to UN peacekeeping; supports disarmament and settlement of disputes by negotiation; wants an active UN role in development of poor countries. Claim: largest democracy and huge population, fast-growing economy, long peacekeeping record and leadership of developing countries.", ["October 2022"]]
+    [
+      "Why are peace and security essential for the progress of individuals, nations and the world? Explain.",
+      "(1) No development activity is possible if there is disturbance, violence or war. (2) Peace and security is an essential condition for democracy and development. (3) Conflict not only generates threat and fear, but also hampers economic, social, or political advancement. It is through development that nations can ensure social and economic progress for the people and improve their quality of life.",
+      [
+        "April 2026",
+        "October 2024"
+      ]
+    ],
+    [
+      "Describe the strategy of the Government of India to deal with terrorism, insurgency and the Naxalite movement.",
+      "(1) Diplomatically it is trying to put international pressure on Pakistan and other neighbouring countries to extend their active cooperation in ensuring that the support to such terrorist groups does not come from them. (2) Insurgency — tackle it diplomatically through treaties with Myanmar and Bangladesh to stop help to insurgents, along with security measures. (3) In respect of the Naxalite movement in the initial phase the State governments treated it as a law and order problem. development in those areas and to bring the youth in to the mainstream.",
+      [
+        "April 2017"
+      ]
+    ],
+    [
+      "Explain the relationship between peace and security on one hand and democracy and development on the other.",
+      "(1) In the absence of peace and security, democracy cannot function and development cannot take place. It is necessary to have peace for holding of elections. The democratic institutions cannot function if there is no peace. (2) Democracies rarely go to war and give all citizens a chance to participate, removing causes of discontent. (3) This ensures that people do not suffer from a sense of deprivation which leads them to indulge in protests and violent activities. The 2005 World Summit on MDGs universally recognized that “development, peace and security, and Human Rights are interlinked and mutually reinforcing”."
+    ],
+    [
+      "What are the causes of the Naxalite movement? How can it be solved?",
+      "Causes: The youth who are engaged in violent activities of the movement belong to the sections of society, mostly the scheduled tribes, scheduled castes and dalits, that have been bearing the brunt of social discrimination and economic deprivation since ages. Solutions: Efforts are being made to accelerate the pace of development in those areas and to bring the youth in to the mainstream. The government should formulate a national policy about naxalite movement to prevent them effectively from disturbing peace and security, accelerate development activities in those areas, so that there is no discontent among youth and to motivate the naxalites to shun violence and join the mainstream."
+    ],
+    [
+      "Explain any three basic objectives of India's foreign policy.",
+      "(1) At the international level, it adopted a policy aimed at promotion of international peace and security. India has been extending all out support to United Nations in its peacekeeping operations and other endeavours like disarmament. (2) (i) Maintenance of freedom in policy formulation; (ii) promotion of international peace and security; (iii) good relationships with other nations and especially with our neighbours; (iv) support to the United Nations; (v) disarmament; opposition to colonialism, imperialism and racism; and (vi) cooperation among developing nations. The policy of non-alignment provided an opportunity to developing nations for protecting their sovereignty as also retaining their freedom of action during the (3) Disarmament; opposition to colonialism, imperialism and racism; and cooperation among developing nations."
+    ],
+    [
+      "How has India supported the United Nations? Why does India deserve permanent membership of the Security Council?",
+      "Support: India has been extending all out support to United Nations in its peacekeeping operations and other endeavours like disarmament. Moreover, India has advocated active role for UN in development effort of the developing countries. Claim: Since India has emerged as the second fastest growing economy and also because of the leadership it has provided at all international forums, its contribution to UN peacekeeping, and its track record in espousing the cause of the developing world, India has a strong case for becoming a permanent member in the Security Council.",
+      [
+        "October 2022"
+      ]
+    ]
   ],
   "la": [
-    ["What is meant by peace and security? How is the traditional notion different from the new notion? Explain.", "Peace is a condition of harmony ensuring development of individuals, society and the nation — not merely absence of war but presence of socio-cultural and economic understanding. Security is freedom from fear and dangerous threats, including threats to human rights. Traditional notion: (1) focuses on military threats from another nation; (2) concerns the nation's sovereignty and territory; (3) remedies are treaties, defence build-up, alliances and balance of power. New notion: (4) broader — terrorism, insurgency, genocide, epidemics, narcotics, environmental damage; (5) centred on individuals and humankind; (6) a precondition for development and human dignity — freedom from hunger, want, disease and exploitation."],
-    ["Examine the relevance of the Non-Aligned Movement and India's role in maintaining world peace through the UN.", "NAM: (1) founded by Nehru, Tito and Nasser during the Cold War so new nations could stay free of military blocs; (2) after the Cold War it checks the dominance of a unipolar world; (3) it is a forum for North–South dialogue and South–South cooperation, raising the bargaining power of developing countries; (4) it presses for UN reform. UN: (5) India, a founding member, supports UN peacekeeping and disarmament and wants disputes solved by talks; (6) it seeks a UN role in development and a permanent seat in a reformed Security Council.", ["April 2024"]]
+    [
+      "What is meant by peace and security? How is the traditional notion different from the new notion? Explain.",
+      "(1) Peace is a condition of harmony ensuring development of individuals, society and the nation — not merely absence of war but presence of socio-cultural and economic understanding. Security is freedom from fear and dangerous threats, including threats to human rights. Traditional notion: (2) There is absence of constant threat to the safety and security of the people and the nation. In this background the new notion of peace and security is based on threats beyond military attacks. Article 51 of the Constitution states: “The state shall endeavour to: (a) promote international peace and security; (b) maintain just and honorable relations between nations; (c) foster respect for international law and treaty obligations in the dealings of organized peoples with one another; and (d) encourage settlement of international disputes by arbitration.” (3) They are freely conveying their concerns to the government. The policy of non-alignment provided an opportunity to developing nations for protecting their sovereignty as also retaining their freedom of action during the (4) The nations also take preventive measures by increasing their defence capabilities, deploying more armed forces on borders. Some also adopt balance of power approach through entering into a treaty with other nations to take joint action in the case of military attack on any one of them. The government wants to build pucca roads inside the villages and forests but the Naxals discourage any development work in the area. But the new notion is focused on human peace and security or global peace and security. (5) But the new or non-traditional notion of peace and security is much broader and goes beyond military threats to include wide range of dangers and threats to human existence. The new notion of peace and security also includes freedom of individuals from hunger, freedom from wants, diseases and epidemics, environmental degradation, exploitation and sub-human treatment. These threats may be from terrorism, insurgency, genocide, denial of human rights, health epidemics, narcotics trade and irrational use of natural resources. (6) centred on individuals and humankind; (7) In fact, peace and security is to be seen as the precondition to socio-economic development and to the maintenance of human dignity."
+    ],
+    [
+      "Examine the relevance of the Non-Aligned Movement and India's role in maintaining world peace through the UN.",
+      "(1) the founding fathers of the Non-Aligned Movement (NAM). (2) In this background the new notion of peace and security is based on threats beyond military attacks. It was a known as period of cold war between the two camps. Among the non-aligned nations, Nehru had evolved special relationship with President Tito of Yugoslavia and Nasser of Egypt. (3) After studying this lesson you will be able to: First, with the disintegration of Soviet Union, the world faces a threat from unipolar world. The NAM can act as a check against US dominance. (4) The NAM remains a very relevant forum for developing countries to engage with the developed nations in a productive dialogue. Moreover, the NAM can prove to be powerful instrument for South-South cooperation. Such a thing is essential if the developing countries are to increase their bargaining power vis-a-vis the developed world. (5) Finally, the developing countries united under the banner of NAM have to fight for the reform of UN and change it according to the requirements of the 21st century. India has been extending all out support to UN in its ...........................and (6) India, a founding member, supports UN peacekeeping and disarmament and wants disputes solved by talks; (7) Moreover, India has advocated active role for UN in development effort of the developing countries. becoming a permanent member in the Security Council.",
+      [
+        "April 2024"
+      ]
+    ]
   ]
 }

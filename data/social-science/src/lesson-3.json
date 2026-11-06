@@ -28,53 +28,388 @@
     "The Industrial Revolution created an unequal society. Karl Marx and Friedrich Engels gave the ideas of socialism; in Das Capital Marx said history is the history of class struggle, and that capitalism would give way to socialism with the state owning the means of production. Russia under the autocratic Tsar Nicholas II was backward; the 1905 revolution created the Duma but little changed. Defeats in World War I, famine, inflation and the writings of Marx and Tolstoy led to strikes. In February 1917 the Tsar was deposed; in October 1917 the Bolshevik Party led by Lenin seized power. This produced the first socialist government in the world and the USSR."
   ],
   "mcq": [
-    ["Reformation is best described as —", ["a routine church event", "a peaceful religious meeting", "a major turning point leading to religious revival", "a political agreement among rulers"], "C", ["April 2026"]],
-    ["What was the main consequence of Vasco da Gama's discovery of the sea route to India in 1498?", ["European powers like the English, French, Portuguese and Dutch came to India for trade and missionary work", "Dutch came to India for spices", "India became a Portuguese colony", "Vasco da Gama ruled India for the Portuguese"], "A", ["April 2026"]],
-    ["In which year did the German priest Martin Luther first challenge the authority of the Roman Catholic Church?", ["1517", "1617", "1817", "1417"], "A", ["October 2024"]],
-    ["Where did the Glorious Revolution of 1688, which proved a source of inspiration for the world, take place?", ["England", "France", "Germany", "Poland"], "A", ["October 2024"]],
-    ["Europe witnessed profound changes in which of the following areas during the Renaissance?", ["Cultural sphere", "Economic sphere", "Political sphere", "Religious sphere"], "A", ["April 2024"]],
-    ["Which one of the following periods is associated with the Renaissance in Europe?", ["Period of darkness", "Period of scientific inquiry", "Period of ignorance", "Period of irrationality"], "B", ["April 2024"]],
-    ["In which year did the French Revolution take place?", ["1780", "1789", "1798", "1790"], "B", ["April 2021"]],
-    ["Who founded the 'Society of Jesus' during the Counter Reformation?", ["Martin Luther", "John Calvin", "Ignatius Loyola", "Huldreich Zwingli"], "C"],
-    ["Who discovered the circulation of blood during the Renaissance?", ["William Harvey", "Michael Servetus", "Galileo", "Copernicus"], "B"],
-    ["Who was the first explorer to lead an expedition around the world?", ["Bartholomew Diaz", "Christopher Columbus", "Ferdinand Magellan", "Vasco da Gama"], "C"],
-    ["The Third Estate in France consisted of the —", ["Nobility", "Clergy", "Commoners", "Monarchy"], "C"],
-    ["Who wrote 'The Prince', a famous Renaissance work on politics?", ["Dante", "Erasmus", "Machiavelli", "Cervantes"], "C"],
-    ["Who became the King of a united Italy in 1861?", ["Victor Emmanuel", "Cavour", "Garibaldi", "Mazzini"], "A"],
-    ["Which Portuguese prince sponsored voyages of discovery and was called 'the Navigator'?", ["Prince Henry", "Prince Manuel", "Prince John", "Prince Philip"], "A"]
+    [
+      "Reformation is best described as —",
+      [
+        "a routine church event",
+        "a peaceful religious meeting",
+        "a major turning point leading to religious revival",
+        "a political agreement among rulers"
+      ],
+      "C",
+      [
+        "April 2026"
+      ]
+    ],
+    [
+      "What was the main consequence of Vasco da Gama's discovery of the sea route to India in 1498?",
+      [
+        "European powers like the English, French, Portuguese and Dutch came to India for trade and missionary work",
+        "Dutch came to India for spices",
+        "India became a Portuguese colony",
+        "Vasco da Gama ruled India for the Portuguese"
+      ],
+      "A",
+      [
+        "April 2026"
+      ]
+    ],
+    [
+      "In which year did the German priest Martin Luther first challenge the authority of the Roman Catholic Church?",
+      [
+        "1517",
+        "1617",
+        "1817",
+        "1417"
+      ],
+      "A",
+      [
+        "October 2024"
+      ]
+    ],
+    [
+      "Where did the Glorious Revolution of 1688, which proved a source of inspiration for the world, take place?",
+      [
+        "England",
+        "France",
+        "Germany",
+        "Poland"
+      ],
+      "A",
+      [
+        "October 2024"
+      ]
+    ],
+    [
+      "Europe witnessed profound changes in which of the following areas during the Renaissance?",
+      [
+        "Cultural sphere",
+        "Economic sphere",
+        "Political sphere",
+        "Religious sphere"
+      ],
+      "A",
+      [
+        "April 2024"
+      ]
+    ],
+    [
+      "Which one of the following periods is associated with the Renaissance in Europe?",
+      [
+        "Period of darkness",
+        "Period of scientific inquiry",
+        "Period of ignorance",
+        "Period of irrationality"
+      ],
+      "B",
+      [
+        "April 2024"
+      ]
+    ],
+    [
+      "In which year did the French Revolution take place?",
+      [
+        "1780",
+        "1789",
+        "1798",
+        "1790"
+      ],
+      "B",
+      [
+        "April 2021"
+      ]
+    ],
+    [
+      "Who founded the 'Society of Jesus' during the Counter Reformation?",
+      [
+        "Martin Luther",
+        "John Calvin",
+        "Ignatius Loyola",
+        "Huldreich Zwingli"
+      ],
+      "C"
+    ],
+    [
+      "Who discovered the circulation of blood during the Renaissance?",
+      [
+        "William Harvey",
+        "Michael Servetus",
+        "Galileo",
+        "Copernicus"
+      ],
+      "B"
+    ],
+    [
+      "Who was the first explorer to lead an expedition around the world?",
+      [
+        "Bartholomew Diaz",
+        "Christopher Columbus",
+        "Ferdinand Magellan",
+        "Vasco da Gama"
+      ],
+      "C"
+    ],
+    [
+      "The Third Estate in France consisted of the —",
+      [
+        "Nobility",
+        "Clergy",
+        "Commoners",
+        "Monarchy"
+      ],
+      "C"
+    ],
+    [
+      "Who wrote 'The Prince', a famous Renaissance work on politics?",
+      [
+        "Dante",
+        "Erasmus",
+        "Machiavelli",
+        "Cervantes"
+      ],
+      "C"
+    ],
+    [
+      "Who became the King of a united Italy in 1861?",
+      [
+        "Victor Emmanuel",
+        "Cavour",
+        "Garibaldi",
+        "Mazzini"
+      ],
+      "A"
+    ],
+    [
+      "Which Portuguese prince sponsored voyages of discovery and was called 'the Navigator'?",
+      [
+        "Prince Henry",
+        "Prince Manuel",
+        "Prince John",
+        "Prince Philip"
+      ],
+      "A"
+    ]
   ],
   "objective": [
-    ["Two major developments took place in Europe towards the later part of the Renaissance. The first was the ____ Reformation and the second was the ____ Reformation (also called the Counter Reformation).", ["Protestant, Catholic", "Lutheran, Jesuit", "Calvinist, Papal", "Protestant, Lutheran"], "A", ["April 2026"]],
-    ["The literal meaning of Renaissance is ____; it started in ____ around the 14th century A.D.", ["Origin, France", "Rebirth, Italy", "Rebirth, England", "Reorigin, Germany"], "B", ["October 2024"]],
-    ["The first great ____ sculptor was ____ who made the statue 'David'.", ["renaissance, Martin Luther", "democracy, Titian", "renaissance, Donatello", "democracy, Leonardo"], "C", ["October 2024"]],
-    ["Fill in the blanks: The representatives of the 13 colonies called the meeting of the First Continental Congress at Philadelphia in ____ and appealed to the King of England not to impose ____ without their consent.", "1774; taxes", ["October 2024"]],
-    ["The ____ Revolution tore down the medieval structures of Europe and brought in new ideas of liberalism and nationalism. France became a republic under ____ Bonaparte.", ["American, Bismarck", "French, Napoleon", "Russian, Lenin", "French, Bismarck"], "B", ["April 2025"]],
-    ["True or False: (a) The American War of Independence and the French Revolution popularised the feeling of nationalism all over the world. (b) The French revolutionaries were inspired by the ideas of Enlightenment thinkers such as Voltaire, Montesquieu and Rousseau.", "(a) True (b) True", ["April 2025"]],
-    ["Identify the person: (a) He was fearless, believed in the urgent need to unify Germany, and his policy was known as 'Blood and Iron'. (b) The Bolshevik leader who organised the Soviets and replaced the Provisional Government in October 1917.", "(a) Otto von Bismarck (b) Lenin", ["April 2025"]],
-    ["Fill in the blanks: The spirit of ____ found expression in art and literature. The greatest achievements of Renaissance artists were in the field of ____.", "Humanism; painting", ["April 2024"]],
-    ["Complete the sentence: The Bolshevik Party headed by ____ organised the Soviet Revolution in ____.", ["Bismarck, October 1920", "Lenin, October 1917", "Napoleon, October 1922", "Marx, October 1918"], "B", ["October 2025"]],
-    ["Answer in one word each: (a) Which act of the British Parliament (1765) taxed all business documents and newspapers in the American colonies? (b) What name is given to the dumping of East India Company tea into the sea in 1773?", "(a) The Stamp Act (b) The Boston Tea Party"]
+    [
+      "Two major developments took place in Europe towards the later part of the Renaissance. The first was the ____ Reformation and the second was the ____ Reformation (also called the Counter Reformation).",
+      [
+        "Protestant, Catholic",
+        "Lutheran, Jesuit",
+        "Calvinist, Papal",
+        "Protestant, Lutheran"
+      ],
+      "A",
+      [
+        "April 2026"
+      ]
+    ],
+    [
+      "The literal meaning of Renaissance is ____; it started in ____ around the 14th century A.D.",
+      [
+        "Origin, France",
+        "Rebirth, Italy",
+        "Rebirth, England",
+        "Reorigin, Germany"
+      ],
+      "B",
+      [
+        "October 2024"
+      ]
+    ],
+    [
+      "The first great ____ sculptor was ____ who made the statue 'David'.",
+      [
+        "renaissance, Martin Luther",
+        "democracy, Titian",
+        "renaissance, Donatello",
+        "democracy, Leonardo"
+      ],
+      "C",
+      [
+        "October 2024"
+      ]
+    ],
+    [
+      "Fill in the blanks: The representatives of the 13 colonies called the meeting of the First Continental Congress at Philadelphia in ____ and appealed to the King of England not to impose ____ without their consent.",
+      "1774; taxes",
+      [
+        "October 2024"
+      ]
+    ],
+    [
+      "The ____ Revolution tore down the medieval structures of Europe and brought in new ideas of liberalism and nationalism. France became a republic under ____ Bonaparte.",
+      [
+        "American, Bismarck",
+        "French, Napoleon",
+        "Russian, Lenin",
+        "French, Bismarck"
+      ],
+      "B",
+      [
+        "April 2025"
+      ]
+    ],
+    [
+      "True or False: (a) The American War of Independence and the French Revolution popularised the feeling of nationalism all over the world. (b) The French revolutionaries were inspired by the ideas of Enlightenment thinkers such as Voltaire, Montesquieu and Rousseau.",
+      "(a) True (b) True",
+      [
+        "April 2025"
+      ]
+    ],
+    [
+      "Identify the person: (a) He was fearless, believed in the urgent need to unify Germany, and his policy was known as 'Blood and Iron'. (b) The Bolshevik leader who organised the Soviets and replaced the Provisional Government in October 1917.",
+      "(a) Otto von Bismarck (b) Lenin",
+      [
+        "April 2025"
+      ]
+    ],
+    [
+      "Fill in the blanks: The spirit of ____ found expression in art and literature. The greatest achievements of Renaissance artists were in the field of ____.",
+      "Humanism; painting",
+      [
+        "April 2024"
+      ]
+    ],
+    [
+      "Complete the sentence: The Bolshevik Party headed by ____ organised the Soviet Revolution in ____.",
+      [
+        "Bismarck, October 1920",
+        "Lenin, October 1917",
+        "Napoleon, October 1922",
+        "Marx, October 1918"
+      ],
+      "B",
+      [
+        "October 2025"
+      ]
+    ],
+    [
+      "Answer in one word each: (a) Which act of the British Parliament (1765) taxed all business documents and newspapers in the American colonies? (b) What name is given to the dumping of East India Company tea into the sea in 1773?",
+      "(a) The Stamp Act (b) The Boston Tea Party"
+    ]
   ],
   "vsa": [
-    ["Why did the Renaissance begin in Italy in the 14th century?", "Italy was divided into rich city-states such as Venice, which were great trading and intellectual centres where merchants brought wealth and new ideas. These states had political freedom, and new commercial techniques like book-keeping and bills of exchange made Italy prosperous, giving people leisure for study and art.", ["April 2026"], {"or": ["What is Counter Reformation?", "The Counter (Catholic) Reformation was a reform movement within the Roman Catholic Church to reduce corruption and strengthen the Church. It began in Spain, where Ignatius Loyola founded the Society of Jesus, which stressed service of God, charity, chastity and missionary work."]}],
-    ["Why was the Glorious Revolution of 1688 called 'glorious'? Why did King James II lose the support of his countrymen?", "It was called glorious because no blood was shed. James II lost support because of his harsh attitude, the expensive standing army he created and his increasing employment of Roman Catholics in government, army and universities. Parliament replaced him with Mary II and William III.", ["April 2024"]],
-    ["Write two events which marked the beginning of the Modern Age.", "(1) The Renaissance, which began in Italy in the 14th century and brought reason, humanism and the spirit of inquiry. (2) The Reformation started by Martin Luther in 1517 and the voyages of discovery, such as Vasco da Gama reaching India in 1498.", ["April 2024"]],
-    ["Why did Europeans discover new lands during the Renaissance?", "They wanted a direct sea route to the East for spices, silk, cotton and gems instead of the uncertain route through Arab lands (gold). They also wanted to spread Christianity (God) and win fame (glory). The compass, astrolabe and map-making made the voyages possible.", ["April 2024"]],
-    ["Why was the Renaissance period called the Age of Reason?", "Renaissance thinkers rejected blind faith and the authority of tradition. They said knowledge comes from reasoning, observation and experiment, which led to scientific inquiry and discoveries by Copernicus, Galileo and others.", ["October 2019"]],
-    ["Describe the contribution of Michael Servetus and William Harvey to medical science during the Renaissance.", "Michael Servetus, a Spanish doctor, discovered the circulation of blood. William Harvey, an Englishman, explained the function of the heart in purifying blood and circulating it through the veins.", ["October 2017"]],
-    ["Mention any two accomplishments in astronomy during the Renaissance.", "(1) Copernicus argued that the earth and planets move around the sun. (2) Galileo, using his telescope, discovered the moons of Jupiter, the rings of Saturn and sunspots, confirming Copernicus. (Kepler showed that planets move in elliptical orbits.)", ["April 2022"]]
+    [
+      "Why did the Renaissance begin in Italy in the 14th century?",
+      "(1) Italy was divided into small city states at that time. The geographical position of Italian cities made them great trading and intellectual centers. Many great ideas, along with wealth, were brought by merchants from far corners of the globe. (2) These states had political freedom, and new commercial techniques like book-keeping and bills of exchange made Italy prosperous, giving people leisure for study and art.",
+      [
+        "April 2026"
+      ],
+      {
+        "or": [
+          "What is Counter Reformation?",
+          "(1) The second development concerned reforms within the Roman Catholic Church, generally referred to as Catholic Reformation or Counter Reformation. A Reform Movement also took place within the Catholic Church. It aimed to reduce corruption as well as to improve and strengthen Catholic Church. (2) It began in Spain where Ignatious Loyal founded the ‘Society of Jesus’ which stressed upon service of God, charity, chastity and missionary work."
+        ]
+      }
+    ],
+    [
+      "Why was the Glorious Revolution of 1688 called 'glorious'? Why did King James II lose the support of his countrymen?",
+      "(1) It was called the Glorious Revolution because no blood was shed to achieve its success. (2) The Stuart king James II lost the popular support of his countrymen. This was due to his harsh attitude towards the people. The creation of an expensive standing army and increasing employment of Roman Catholics in the government, army and universities had angered the people. (3) The Parliament removed King James II from the throne in favor of his daughter Mary II and her husband William III, Prince of Orange. The autocratic rule of James II was replaced with a constitutional form of government.",
+      [
+        "April 2024"
+      ]
+    ],
+    [
+      "Write two events which marked the beginning of the Modern Age.",
+      "(1) Renaissance also brought about a scientific revolution. The Renaissance or Rebirth that took place in Europe around the middle of the 14th century began with a renewed interest in the cultural achievements of Classical Greece and Roman Civilisations. The spirit of humanism, rationalism and inquiry. (2) The Reformation started by Martin Luther in 1517 and the voyages of discovery, such as Vasco da Gama reaching India in 1498.",
+      [
+        "April 2024"
+      ]
+    ],
+    [
+      "Why did Europeans discover new lands during the Renaissance?",
+      "(1) They wanted a direct sea route to the East for spices, silk, cotton and gems instead of the uncertain route through Arab lands (gold). (2) They wanted the human beings to be painted in realistic form and proportion. The first was the Protestant Reformation which resulted in the split in Christianity. It is said that ‘God, Glory and Gold’ was the main motive behind these discoveries. In addition, the adventurers also hoped to acquire fame by discovering new lands. (3) These voyages had far reaching consequences for a large part of the world. Compass, astrolabe and the art of map making.",
+      [
+        "April 2024"
+      ]
+    ],
+    [
+      "Why was the Renaissance period called the Age of Reason?",
+      "(1) We have already read that the Renaissance thinkers emphasized more on They rejected blind faith in tradition and established beliefs. (2) reason than on blind faith and stressed that knowledge could be gained by observation and experimentation. This resulted in a scientific inquiry that had almost disappeared. It is said that ‘God, Glory and Gold’ was the main motive behind these discoveries. Copernicus, Keplar, Galileo and Newton are remembered for their contributions in this area.",
+      [
+        "October 2019"
+      ]
+    ],
+    [
+      "Describe the contribution of Michael Servetus and William Harvey to medical science during the Renaissance.",
+      "(1) Michael Servetus, a Spanish doctor, discovered the circulation of blood. (2) William Harvey, an Englishman explained the function of the heart in purifying blood and its circulation through veins.",
+      [
+        "October 2017"
+      ]
+    ],
+    [
+      "Mention any two accomplishments in astronomy during the Renaissance.",
+      "(1) Copernicus in his book On the Revolution of the Heavenly Sphere argued that the earth and the planets move around the sun in concentric circles. (2) Kepler further developed this theory and said that the other planets move in elliptical paths around the sun. With his self manufactured telescope, Galileo discovered the moons of Jupiter, the rings of Saturn and spots in the Sun.",
+      [
+        "April 2022"
+      ]
+    ]
   ],
   "sa": [
-    ["What is the literal meaning of Renaissance, and why did it begin in Italy in the 14th century AD?", "Renaissance means 'rebirth'. It began in Italy because: (1) Italian city-states like Venice were rich trading centres where merchants brought wealth and ideas from distant lands; (2) they enjoyed political freedom and a suitable atmosphere for learning and art; (3) new commercial techniques (book-keeping, bills of exchange, public debt) brought prosperity and leisure, and the ruins of Roman buildings revived interest in classical culture.", ["April 2026"]],
-    ["Describe the condition of Italy on the eve of the Renaissance in the 14th century.", "Italy was divided into small city-states, many built on the ruins of Roman buildings. Cities like Venice were great centres of trade and intellectual crossroads. The new political and social organisation gave freedom and a good atmosphere for academic and artistic advancement. Trade brought wealth, and people had more leisure for study.", ["April 2024"]],
-    ["Explain the process of the unification of Germany.", "Germany was a confederation of 39 states. Kaiser William I of Prussia appointed Bismarck, who modernised the army through his 'Blood and Iron' policy. In 1864 Prussia and Austria defeated Denmark over Schleswig-Holstein; then Prussia defeated Austria and formed the North German Confederation, keeping Italy and France neutral. Finally Prussia defeated France in the Franco-Prussian War of 1871, took Alsace-Lorraine, and the remaining states joined a united Germany under Kaiser William I.", ["April 2023", "October 2021", "April 2019"]],
-    ["Explain the consequences of the Franco-Prussian War of 1871.", "(1) France was defeated and Napoleon III abdicated. (2) France had to give up Alsace and Lorraine to Germany. (3) The southern German states joined Prussia and the unification of Germany was completed under Kaiser William I. (4) The unification of Italy was also completed, and Germany emerged as the leading power in Europe.", ["April 2017"]],
-    ["Analyse the contribution of Bismarck to the unification of Germany.", "Bismarck, Prime Minister of Prussia, believed unity could come only by 'Blood and Iron'. He strengthened the army even against Parliament. He used diplomacy to isolate enemies — keeping Italy, France and Russia neutral — and fought three wars: against Denmark (1864), Austria (1866) and France (1871). After victory over France, Germany was united under Kaiser William I; hence he is called the 'Iron Chancellor'.", ["April 2016"]],
-    ["What were the main causes of the American War of Independence?", "(1) Britain's mercantilist policy did not allow the 13 colonies to set up industries and forced them to sell sugar, tobacco and cotton only to England at fixed prices. (2) Britain taxed the colonies to pay for its wars — the Stamp Act of 1765 and later the tax on tea, which led to the Boston Tea Party (1773). (3) The King treated the Continental Congress's appeal against 'taxation without consent' as rebellion and declared war, leading to the Declaration of Independence in 1776."]
+    [
+      "What is the literal meaning of Renaissance, and why did it begin in Italy in the 14th century AD?",
+      "(1) The literal meaning of Renaissance is ‘rebirth’. This enabled Italy to become the centre of Renaissance. It also became a means for them to serve God. The Industrial Revolution began in England from about 1750 AD. (2) Italian city-states like Venice were rich trading centres where merchants brought wealth and ideas from distant lands; (3) The new form of political and social organization gave political freedom and a suitable atmosphere for academic, artistic and cultural advancement. The third estate demanded equality in taxation and abolition of special privileges enjoyed by the first two estates. Compass, astrolabe and the art of map making. (4) Many of them were built on the ruins of ancient Roman buildings. Many commercial and financial techniques were developed for trade practices like book keeping, bills of exchange and public debt.",
+      [
+        "April 2026"
+      ]
+    ],
+    [
+      "Describe the condition of Italy on the eve of the Renaissance in the 14th century.",
+      "(1) Italy was divided into small city states at that time. Many of them were built on the ruins of ancient Roman buildings. (2) Moreover, the position of Italian cities such as Venice made them centers of trade and intellectual crossroads. (3) The new form of political and social organization gave political freedom and a suitable atmosphere for academic, artistic and cultural advancement. (4) Many great ideas, along with wealth, were brought by merchants from far corners of the globe. People had more leisure time for study and other activities.",
+      [
+        "April 2024"
+      ]
+    ],
+    [
+      "Explain the process of the unification of Germany.",
+      "(1) Germany was a confederation of 39 small states, led by Austria and Prussia. (2) His policy came to be known as ‘Blood and Iron’ policy and earned him the nickname of the ‘Iron Chancellor’. With this improved army, Bismarck encouraged the German population of Schleswig and Holstein to revolt against their ruler Denmark. The unification of Germany was complete under Kaiser William I. (3) In 1864, Bismarck joined hands with Austria against Denmark. Prussia defeated Austria and formed the North German Confederation. (4) The process of unification of Italy began with the Congress of Vienna in 1815 and ended with the Franco-Prussian War in 1871. Prussia invaded France in 1871 and defeated the French. Napoleon III abdicated the throne and France was forced to give up Alsace and Lorraine.",
+      [
+        "April 2023",
+        "October 2021",
+        "April 2019"
+      ]
+    ],
+    [
+      "Explain the consequences of the Franco-Prussian War of 1871.",
+      "(1) Prussia invaded France in 1871 and defeated the French. Napoleon III abdicated the throne and France was forced to give up Alsace and Lorraine. (2) France had to give up Alsace and Lorraine to Germany. (3) The remainder of the German states, except Austria, were annexed and joined with Germany. The unification of Germany was complete under Kaiser William I. (4) Soon Germany emerged as the leading power in Europe, building a colonial empire to further German economic interest and increase German influence in the world. The rise of the feeling of nationalism led to the movements for unification of countries like Germany and Italy.",
+      [
+        "April 2017"
+      ]
+    ],
+    [
+      "Analyse the contribution of Bismarck to the unification of Germany.",
+      "(1) Bismarck, Prime Minister of Prussia, believed unity could come only by 'Blood and Iron'. (2) Even though the theory was imperfect, it aroused thinking and reasoning. He started with the modernisation of the army, defying the parliament in collecting taxes. In 1864, Bismarck joined hands with Austria against Denmark. (3) He used diplomacy to isolate enemies — keeping Italy, France and Russia neutral — and fought three wars: against Denmark (1864), Austria (1866) and France (1871). (4) His policy came to be known as ‘Blood and Iron’ policy and earned him the nickname of the ‘Iron Chancellor’. The unification of Germany was complete under Kaiser William I. Even after the 1905 of Revolution, the civil rights and democratic representation was limited and hence the unrest continued.",
+      [
+        "April 2016"
+      ]
+    ],
+    [
+      "What were the main causes of the American War of Independence?",
+      "(1) They had to export sugar, tobacco and cotton only to England, at prices determined by the mother country England. (2) This incident is known as the Boston Tea Party. The Parliament closed the Port of Boston but the trigger was set for the American War of Independence. (3) The King regarded this as an act of rebellion and declared war."
+    ]
   ],
   "la": [
-    ["Explain any six major causes of the Russian Revolution.", "(1) Tsar Nicholas II was an autocratic and oppressive ruler who denied people political rights. (2) Workers suffered exploitation, inhuman working conditions and heavy taxes. (3) Peasants did not get proper returns for their produce and famines worsened their condition. (4) Russia entered World War I unprepared; thousands of ill-equipped soldiers died. (5) The government printed millions of roubles, causing inflation and food shortages in cities. (6) The writings of Marx and Tolstoy awakened the workers, who formed Soviets; in February 1917 the Tsar was deposed and in October 1917 the Bolsheviks under Lenin took power.", ["April 2025"], {"or": ["Explain the socialist movement and its impact on Russia in six points.", "(1) The Industrial Revolution created an unequal society of exploited workers and privileged capitalists. (2) Socialism aimed at an equal society. (3) Karl Marx and Engels said history is a history of class struggle (Das Capital). (4) Marx predicted capitalism would end and the state would own the means of production. (5) These ideas inspired Russian workers to form Soviets and demand power. (6) The October Revolution of 1917 under Lenin set up the world's first socialist government and the USSR."]}],
-    ["How did the French Revolution influence the world? Explain its causes and impact.", "Causes: (1) French society was divided into three estates; the clergy and nobility enjoyed privileges while the Third Estate (peasants, workers, middle class) bore heavy taxes. (2) Louis XVI and Marie Antoinette's luxury emptied the treasury. (3) In 1789 the Third Estate declared itself the National Assembly. (4) Thinkers like Voltaire, Montesquieu and Rousseau inspired people. Impact: (5) The Declaration of the Rights of Man and Citizen asserted equality, sovereignty of the people and rights to liberty, property and free speech; France became a republic. (6) Its ideals of Liberty, Equality and Fraternity, liberalism and nationalism spread across the world and inspired the unification of Italy."],
-    ["What was the Reformation? Explain its causes and impact on Europe.", "The Reformation was a religious and political movement that questioned the abuses of the Church. Causes: (1) the Church was associated with superstition, corruption and greed — it sold positions and letters of indulgence; (2) the Renaissance spirit of reason questioned blind faith; (3) in 1517 Martin Luther declared that the Bible was the only authority and salvation came through faith. Impact: (4) Christianity split into Protestants and Roman Catholics; (5) in England the Act of Supremacy made the King head of the Church; (6) the Catholic Church reformed itself through the Counter Reformation and the Society of Jesus."]
+    [
+      "Explain any six major causes of the Russian Revolution.",
+      "(1) Tsar was an autocratic and oppressive ruler; hence the workers and the peasants suffered a lot. People were also denied any political rights. The nobility were also dissatisfied with Tsar Nicholas II due to his autocratic ways. (2) Exploitation along with inhuman working conditions and huge amount of taxes had made the people rise against him. (3) Famines further worsened the situation in the country. The army lacked ammunition, the cities lacked food while the peasants failed to get proper return for their produce. (4) Russia had also entered World War I for imperialist gains. Thousands of Russian soldiers were killed in World War I as they were ill equipped with no proper warm uniforms and arms to fight in the cold desert of Siberia. (5) The government in the meantime had printed millions of Rouble notes leading to inflation. (6) This situation was further worsened by the writings of Marx and Tolstoy which influenced the people, especially the workers, and led to their political awakening. In February 1917, Tsar was deposed and a Provisional Government was established under the Another Party called the Bolshevik headed by Lenin organised the Soviets and replaced the Government in October 1917.",
+      [
+        "April 2025"
+      ],
+      {
+        "or": [
+          "Explain the socialist movement and its impact on Russia in six points.",
+          "(1) The Industrial Revolution had led to an unequal society. It created a class of industrial workers/proletariat who were miserably exploited by the capitalists/bourgeoisie. (2) It aimed to reduce corruption as well as to improve and strengthen Catholic Church. The idea of socialism, which tries to establish equal society, began to take root. (3) The most powerful and influential ideas of socialism was given by Karl Marx and Friedrich Engels. In the book Das Capital, Marx pointed out that history of all societies is the history of class struggle. (4) The Pope established their own political rule in what were called the Papal States. He predicted that the struggle will be successful with the end of capitalism and the coming of socialism. This will result in the control of the ownership of the means of production in the hands of the state and the birth of an equal society. (5) It showed that the Parliament had the power to change the monarch. This led to the formation of the Council of Workers called the Soviets. The Russian Revolution was inspired by the ideology of socialism. (6) The first practical example of this was the Russian revolution which resulted in the establishment of the first socialist government of the world. Another Party called the Bolshevik headed by Lenin organised the Soviets and replaced the Government in October 1917."
+        ]
+      }
+    ],
+    [
+      "How did the French Revolution influence the world? Explain its causes and impact.",
+      "(1) Causes: (2) It was divided into three classes or estates. The First Estate of Clergy or Church and the Second Estate of Nobility enjoyed all the luxuries and many privileges over religion and the governance of the country. The Third Estate of the Commoners such as peasantry, city workers and the middle class were heavily burdened with taxes. (3) Louis XVI and his wife Marie Antoinette’s luxurious lifestyles had emptied the treasury and made the country bankrupt. (4) It declared itself a National Assembly and took over the sovereign power from the Emperor. (5) The revolutionaries were inspired by the ideas of many Enlightenment thinkers and philosophers such as Voltaire, Montesquieu and Rousseau. The French Revolution was inspired by the ideas of philosophers such as Montesquieu, Voltaire and Rousseau. (6) The historic French document, ‘Declaration of the Rights of Man and Citizen’ was adopted. Declaration of Independence, asserting the equality of all men, the sovereignty of the people and the rights to liberty, property, security, right to education, to free speech, to be informed, right of the poor to public assistance, a ban on torture and slavery, recognition of the right of the people France became a republic under Napoleon Bonaparte. (7) Its ideals of Liberty, Equality and Fraternity, liberalism and nationalism spread across the world and inspired the unification of Italy."
+    ],
+    [
+      "What was the Reformation? Explain its causes and impact on Europe.",
+      "(1) Reformation was a part of the socio-religious and political movement which led to the emergence of the modern world. Before the Renaissance, it was believed that the Sun revolved around the Earth and whoever questioned this was denounced as a heretic. The Reformation was an attempt to question the abuses that had crept into the practices of the Church. (2) The Medieval Catholic Church came to be associated with superstitions, corruption and greed for money. He protested against some practices of the Church such as the selling of positions in the church, the issuing of the letters of indulgence for works of charity or going on crusades, to the highest bidder. (3) In the new spirit of the Renaissance nothing could be accepted. reason than on blind faith and stressed that knowledge could be gained by observation and experimentation. (4) According to him, the Bible was the only source of religious authority. (a) Martin Luther advocated for salvation through faith on Jesus Christ and not through the blind faith on the church. (5) The first was the Protestant Reformation which resulted in the split in Christianity. It soon led to the division of the Christian World into the Catholics and the Protestants. (6) Thomas Cromwell, the King’s Chief Minister, helped the Parliament to pass the Act in Restraint of Appeals and the Act of Supremacy. It gave a royal headship to the King over the church. During the Renaissance, extraordinary accomplishments were made in the field of science. The Industrial Revolution began in England from about 1750 AD. (7) The second development concerned reforms within the Roman Catholic Church, generally referred to as Catholic Reformation or Counter Reformation."
+    ]
   ]
 }

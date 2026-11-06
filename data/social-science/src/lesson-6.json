@@ -20,47 +20,308 @@
     "The movements spread rational, scientific and humanitarian thinking, criticised caste and untouchability, and improved the status of women: sati and infanticide were made illegal, widow remarriage allowed (1856), inter-caste marriage allowed (1872) and child marriage restricted by the Sharda Act (1929: girls 14, boys 18). They gave Indians self-respect, self-confidence and pride in their country, and created the national consciousness that led to the freedom struggle; many women took part in it. Limitation: they reached mainly the educated few, not the masses of peasants and urban poor."
   ],
   "mcq": [
-    ["Who founded the Arya Samaj in 1875?", ["Keshab Chandra Sen", "Swami Dayanand Saraswati", "Swami Vivekananda", "Bal Gangadhar Tilak"], "B", ["October 2025", "April 2025"]],
-    ["Who founded the Brahmo Samaj in 1828?", ["Raja Ram Mohan Roy", "Ishwar Chandra Vidyasagar", "Jyotiba Phule", "Swami Vivekananda"], "A", ["April 2019"]],
-    ["The Rahnumai Mazdayasnan Sabha (1851) was founded by reformers of which community?", ["Sikhs", "Parsis", "Muslims", "Christians"], "B"],
-    ["Which reformer's efforts led to the Hindu Widow Remarriage Act of 1856?", ["Raja Ram Mohan Roy", "Ishwar Chandra Vidyasagar", "M.G. Ranade", "Sir Syed Ahmed Khan"], "B"],
-    ["Who wrote the song 'Saare jahan se achcha'?", ["Rabindranath Tagore", "Bankim Chandra Chatterji", "Muhammad Iqbal", "Sarojini Naidu"], "C"],
-    ["Which book was written by Swami Dayanand Saraswati?", ["Gita Rahasya", "Satyarth Prakash", "Anandamath", "Gitanjali"], "B"],
-    ["Who founded the Prarthana Samaj in Bombay in 1867?", ["Justice M.G. Ranade", "Jyotiba Phule", "Dadabhai Naoroji", "Pandita Ramabai"], "A"],
-    ["The Mukti Mission at Pune, a refuge for deserted young widows, was started by —", ["Savitribai Phule", "Annie Besant", "Pandita Ramabai", "Sarojini Naidu"], "C"],
-    ["The Akali movement of 1920 aimed to —", ["spread English education among Sikhs", "free the Gurdwaras from corrupt Mahants", "oppose the partition of Bengal", "set up Khalsa College"], "B"],
-    ["The Ahmadiya Movement was founded in 1899 by —", ["Mirza Ghulam Ahmed", "Shariatullah", "Abdul Latif", "Sir Syed Ahmed Khan"], "A"],
-    ["The practice of sati was declared illegal in 1829 with the support of Governor-General —", ["Lord Dalhousie", "Lord William Bentinck", "Lord Cornwallis", "Lord Curzon"], "B"],
-    ["Which of these reformers did NOT emphasise the infallibility of the Vedas?", ["Swami Dayanand Saraswati", "Sir Syed Ahmed Khan", "Both", "Neither"], "B"]
+    [
+      "Who founded the Arya Samaj in 1875?",
+      [
+        "Keshab Chandra Sen",
+        "Swami Dayanand Saraswati",
+        "Swami Vivekananda",
+        "Bal Gangadhar Tilak"
+      ],
+      "B",
+      [
+        "October 2025",
+        "April 2025"
+      ]
+    ],
+    [
+      "Who founded the Brahmo Samaj in 1828?",
+      [
+        "Raja Ram Mohan Roy",
+        "Ishwar Chandra Vidyasagar",
+        "Jyotiba Phule",
+        "Swami Vivekananda"
+      ],
+      "A",
+      [
+        "April 2019"
+      ]
+    ],
+    [
+      "The Rahnumai Mazdayasnan Sabha (1851) was founded by reformers of which community?",
+      [
+        "Sikhs",
+        "Parsis",
+        "Muslims",
+        "Christians"
+      ],
+      "B"
+    ],
+    [
+      "Which reformer's efforts led to the Hindu Widow Remarriage Act of 1856?",
+      [
+        "Raja Ram Mohan Roy",
+        "Ishwar Chandra Vidyasagar",
+        "M.G. Ranade",
+        "Sir Syed Ahmed Khan"
+      ],
+      "B"
+    ],
+    [
+      "Who wrote the song 'Saare jahan se achcha'?",
+      [
+        "Rabindranath Tagore",
+        "Bankim Chandra Chatterji",
+        "Muhammad Iqbal",
+        "Sarojini Naidu"
+      ],
+      "C"
+    ],
+    [
+      "Which book was written by Swami Dayanand Saraswati?",
+      [
+        "Gita Rahasya",
+        "Satyarth Prakash",
+        "Anandamath",
+        "Gitanjali"
+      ],
+      "B"
+    ],
+    [
+      "Who founded the Prarthana Samaj in Bombay in 1867?",
+      [
+        "Justice M.G. Ranade",
+        "Jyotiba Phule",
+        "Dadabhai Naoroji",
+        "Pandita Ramabai"
+      ],
+      "A"
+    ],
+    [
+      "The Mukti Mission at Pune, a refuge for deserted young widows, was started by —",
+      [
+        "Savitribai Phule",
+        "Annie Besant",
+        "Pandita Ramabai",
+        "Sarojini Naidu"
+      ],
+      "C"
+    ],
+    [
+      "The Akali movement of 1920 aimed to —",
+      [
+        "spread English education among Sikhs",
+        "free the Gurdwaras from corrupt Mahants",
+        "oppose the partition of Bengal",
+        "set up Khalsa College"
+      ],
+      "B"
+    ],
+    [
+      "The Ahmadiya Movement was founded in 1899 by —",
+      [
+        "Mirza Ghulam Ahmed",
+        "Shariatullah",
+        "Abdul Latif",
+        "Sir Syed Ahmed Khan"
+      ],
+      "A"
+    ],
+    [
+      "The practice of sati was declared illegal in 1829 with the support of Governor-General —",
+      [
+        "Lord Dalhousie",
+        "Lord William Bentinck",
+        "Lord Cornwallis",
+        "Lord Curzon"
+      ],
+      "B"
+    ],
+    [
+      "Which of these reformers did NOT emphasise the infallibility of the Vedas?",
+      [
+        "Swami Dayanand Saraswati",
+        "Sir Syed Ahmed Khan",
+        "Both",
+        "Neither"
+      ],
+      "B"
+    ]
   ],
   "objective": [
-    ["Sati Pratha was practised in which a ____ woman was compelled to burn herself on the funeral ____ of her husband.", ["widowed, pyre", "married, altar", "childless, riverbank", "elderly, shrine"], "A", ["April 2026"]],
-    ["Fill in the blanks: The first Hindu Widow Remarriage Act was introduced in ____ owing to the relentless efforts of ____.", "1856; Ishwar Chandra Vidyasagar", ["April 2026"]],
-    ["Fill in the blanks: The formation of the two ____ at Amritsar and Lahore in the 1870s was the beginning of the ____ reform movement among the Sikhs.", "Singh Sabhas; religious", ["April 2026"]],
-    ["Complete the sentence: In September 1873 ____ Phule along with his followers formed the ____.", "Jyotirao (Jyotiba); Satya Shodhak Samaj", ["October 2025"]],
-    ["Match: (a) Ahmadiya Movement (b) Mohammedan Literary Society (c) Aligarh (M.A.O.) College (d) Hindu Widow Remarriage Act — (i) 1856 (ii) 1875 (iii) 1899 (iv) 1863", "(a) – (iii) 1899; (b) – (iv) 1863; (c) – (ii) 1875; (d) – (i) 1856", ["October 2025"]],
-    ["Fill in the blanks: (a) Annie Besant became the President of the ____ Society in 1907. (b) ____ established the Mukti Mission in Pune, a refuge for young widows who had been deserted and abused by their families.", "(a) Theosophical (b) Pandita Ramabai", ["April 2025"]],
-    ["Match: (a) Arya Mahila Samaj (b) Satya Shodhak Samaj (c) Ramakrishna Mission (d) Brahmo Samaj — (i) Raja Ram Mohan Roy (ii) Pandita Ramabai (iii) Jyotiba Phule (iv) Swami Vivekananda", "(a) – (ii); (b) – (iii); (c) – (iv); (d) – (i)", ["April 2025"]],
-    ["Identify the person: (a) He and his wife Savitribai Phule are most known for their efforts to educate women, the lower castes and the masses. (b) He founded the Mohammadan Anglo-Oriental College at Aligarh.", "(a) Jyotirao (Jyotiba) Phule (b) Sir Syed Ahmed Khan", ["April 2025"]],
-    ["Answer briefly: (a) Why did Raja Ram Mohan Roy oppose Sati Pratha? (b) Why did Swami Dayanand Saraswati found the Arya Samaj?", "(a) He was moved by his brother's widow being forced to commit sati; it was inhuman and, as he showed from the scriptures, had no sanction in Hindu religion. (b) To reform Hindu religion on the basis of the Vedas and to fight superstition, untouchability and caste rigidity in North India.", ["April 2024"]]
+    [
+      "Sati Pratha was practised in which a ____ woman was compelled to burn herself on the funeral ____ of her husband.",
+      [
+        "widowed, pyre",
+        "married, altar",
+        "childless, riverbank",
+        "elderly, shrine"
+      ],
+      "A",
+      [
+        "April 2026"
+      ]
+    ],
+    [
+      "Fill in the blanks: The first Hindu Widow Remarriage Act was introduced in ____ owing to the relentless efforts of ____.",
+      "1856; Ishwar Chandra Vidyasagar",
+      [
+        "April 2026"
+      ]
+    ],
+    [
+      "Fill in the blanks: The formation of the two ____ at Amritsar and Lahore in the 1870s was the beginning of the ____ reform movement among the Sikhs.",
+      "Singh Sabhas; religious",
+      [
+        "April 2026"
+      ]
+    ],
+    [
+      "Complete the sentence: In September 1873 ____ Phule along with his followers formed the ____.",
+      "Jyotirao (Jyotiba); Satya Shodhak Samaj",
+      [
+        "October 2025"
+      ]
+    ],
+    [
+      "Match: (a) Ahmadiya Movement (b) Mohammedan Literary Society (c) Aligarh (M.A.O.) College (d) Hindu Widow Remarriage Act — (i) 1856 (ii) 1875 (iii) 1899 (iv) 1863",
+      "(a) – (iii) 1899; (b) – (iv) 1863; (c) – (ii) 1875; (d) – (i) 1856",
+      [
+        "October 2025"
+      ]
+    ],
+    [
+      "Fill in the blanks: (a) Annie Besant became the President of the ____ Society in 1907. (b) ____ established the Mukti Mission in Pune, a refuge for young widows who had been deserted and abused by their families.",
+      "(a) Theosophical (b) Pandita Ramabai",
+      [
+        "April 2025"
+      ]
+    ],
+    [
+      "Match: (a) Arya Mahila Samaj (b) Satya Shodhak Samaj (c) Ramakrishna Mission (d) Brahmo Samaj — (i) Raja Ram Mohan Roy (ii) Pandita Ramabai (iii) Jyotiba Phule (iv) Swami Vivekananda",
+      "(a) – (ii); (b) – (iii); (c) – (iv); (d) – (i)",
+      [
+        "April 2025"
+      ]
+    ],
+    [
+      "Identify the person: (a) He and his wife Savitribai Phule are most known for their efforts to educate women, the lower castes and the masses. (b) He founded the Mohammadan Anglo-Oriental College at Aligarh.",
+      "(a) Jyotirao (Jyotiba) Phule (b) Sir Syed Ahmed Khan",
+      [
+        "April 2025"
+      ]
+    ],
+    [
+      "Answer briefly: (a) Why did Raja Ram Mohan Roy oppose Sati Pratha? (b) Why did Swami Dayanand Saraswati found the Arya Samaj?",
+      "(a) He was moved by his brother's widow being forced to commit sati; it was inhuman and, as he showed from the scriptures, had no sanction in Hindu religion. (b) To reform Hindu religion on the basis of the Vedas and to fight superstition, untouchability and caste rigidity in North India.",
+      [
+        "April 2024"
+      ]
+    ]
   ],
   "vsa": [
-    ["Describe any two endeavours of Raja Rammohan Roy in the field of social reform.", "(1) He campaigned against sati, citing scriptures to show it had no religious sanction; with Lord Bentinck's support it was banned in 1829. (2) He advocated widow remarriage, opposed child marriage and idol worship, and promoted English and scientific education (English school in Calcutta, Hindu College).", ["October 2024", "April 2022", "April 2016"], {"or": ["Explain any two endeavours of Jyotirao Govindrao Phule.", "(1) He and Savitribai Phule opened schools for girls (1848, and in Poona in 1851) and educated women and lower castes. (2) In 1873 he founded the Satya Shodhak Samaj to free the lower castes from exploitation; he also promoted widow remarriage."]}],
-    ["Mention any two reforms brought by Swami Dayanand Saraswati in the field of education.", "(1) He preached in Hindi so that ideas reached ordinary people of North India. (2) His followers started the D.A.V. (Dayanand Anglo-Vedic) schools and colleges which taught English and modern science along with Sanskrit and Vedic learning.", ["April 2021"]],
-    ["Who founded the Brahmo Samaj? Mention any two of its principles.", "Raja Ram Mohan Roy founded it in 1828. Principles: (1) worship of one God (monotheism) and opposition to idol worship and meaningless rituals; (2) unity of all religions and opposition to social evils like sati and child marriage.", ["April 2019"]],
-    ["Why did reformers feel that social reform had no meaning without religious reform?", "Most evil social practices like sati, untouchability and child marriage were followed in the name of religion and supported by priests. So reformers first showed from the scriptures that these practices had no religious sanction, and then tried to change society."],
-    ["Write any two limitations of the reform movements.", "(1) They affected only a small percentage of the population, mostly the educated class. (2) They could not reach the vast masses of peasants and the urban poor, who continued to live in the same conditions."]
+    [
+      "Describe any two endeavours of Raja Rammohan Roy in the field of social reform.",
+      "(1) He mobilized public opinion and cited the scriptures to show that this practice had no sanction in Hindu religion. (2) He maintained an English school in Calcutta at his own cost. Raja Ram Mohan Ray helped in the opening of the Hindu college in Calcutta for higher learning. He also protested against child-marriage and campaigned against polygamy.",
+      [
+        "October 2024",
+        "April 2022",
+        "April 2016"
+      ],
+      {
+        "or": [
+          "Explain any two endeavours of Jyotirao Govindrao Phule.",
+          "(1) It also led to the exploitation of the lower castes. He and his wife, Savitribai Phule, are most known for their efforts to educate women and the lower castes as well as the masses. in August 1848.took up the cause of women and started a girls’ school in Poona (Pune) in 1851. Under this movement, a number of schools and colleges were opened all over the country. (2) He is also remembered for his efforts towards promoting widow remarriage. In September 1873, Jyotirao along with his followers formed the Satya Shodhak Samaj (Society of Seekers of Truth) with the main objective of liberating the lower castes and protecting them from exploitation and atrocities."
+        ]
+      }
+    ],
+    [
+      "Mention any two reforms brought by Swami Dayanand Saraswati in the field of education.",
+      "(1) The Arya Samaj founded by Swami Dayanand Saraswati in 1875 undertook the task of reforming Hindu religion in North India. The use of Hindi language in which he wrote and preached made his ideas accessible to the people of Northern India. (2) Some of Swami Dayanand’s followers later started a network of schools and colleges called D.A.V. (Dayanand Anglo Vedic) in the country to impart education on western lines without compromising on the Vedic teachings. They encouraged teaching of English and modern science along with Sanskrit and Vedic education.",
+      [
+        "April 2021"
+      ]
+    ],
+    [
+      "Who founded the Brahmo Samaj? Mention any two of its principles.",
+      "Social: They emphasised the universal and humanitarian character of Islam. Religious: Muhammad Iqbal wrote the famous song ‘Saare jahaan se achcha hindustaan All over the world education was in the hands of a very small number of people.",
+      [
+        "April 2019"
+      ]
+    ],
+    [
+      "Why did reformers feel that social reform had no meaning without religious reform?",
+      "(1) Most of the social practices were done in the name of religion. The Indian society was challenged by issues like superstitious beliefs, backwardness and evil practices such as Sati or widow immolation and untouchability. Sati, Caste System, Child Marriage, Plight of Widows. (2) They studied the religious scriptures and criticized the prevalent religious and social practices. He tried to remove caste rigidities, and untouchability. The persistent efforts of the reformers had immense impact on the society. They found that the scriptures do not sanction rigidity and superstitions."
+    ],
+    [
+      "Write any two limitations of the reform movements.",
+      "(1) (a) It affected a very small percentage of the population, mostly the educated class. (2) It affected a very small percentage of the population, mostly the educated class and could not reach the vast masses of the peasantry and urban poor who continued to live in the same conditions."
+    ]
   ],
   "sa": [
-    ["Who introduced English education among the Muslims? Explain his contribution in this area.", "Sir Syed Ahmed Khan. (1) He believed only modern Western education could bring Muslims progress and advocated English despite orthodox opposition. (2) He opened an English school at Ghazipur (1864) and founded the M.A.O. College at Aligarh (1875), which became Aligarh Muslim University. (3) He set up a scientific society to translate English books, published a journal and started the Mohammadan Educational Conference — the Aligarh Movement.", ["October 2024", "October 2025"]],
-    ["Explain the contribution of Swami Dayanand Saraswati in reforming Hindu religion in India.", "He founded the Arya Samaj in 1875, held the Vedas infallible and rejected ideas against them, wrote Satyarth Prakash and started the Shuddhi movement. He opposed idol worship, untouchability and caste rigidity, worked to improve women's condition, used Hindi to reach the people and inspired the D.A.V. schools; the Arya Samaj also built self-respect and self-reliance that helped the national movement.", ["October 2019"]],
-    ["Explain the contribution of Swami Vivekananda in the religious and social reform movement in India.", "He spread the teachings of Ramakrishna Paramhansa about the unity of religions and founded the Ramakrishna Mission. He stressed that Indians needed both spiritual and secular knowledge and faith in themselves. He fought superstition, caste rigidity and untouchability, worked for women's upliftment and education, and gave primary importance to removing ignorance.", ["April 2021"]],
-    ["Explain the contribution of Ishwar Chandra Vidyasagar in the field of education.", "(1) He helped open about 35 girls' schools in Bengal and was a champion of women's education. (2) He encouraged the study of Sanskrit and Bengali literature and introduced Western thought in the Sanskrit College. (3) He got non-Brahmin students admitted to the Sanskrit College. He also campaigned for widow remarriage, leading to the 1856 Act.", ["October 2017"]],
-    ["Why was Jyotirao Govindrao Phule considered an eminent reformer?", "(1) He fought for equal rights for peasants and lower castes. (2) With Savitribai Phule he started schools for girls and educated women and the masses. (3) He promoted widow remarriage. (4) He founded the Satya Shodhak Samaj (1873) to protect lower castes from exploitation and atrocities.", ["April 2017"]],
-    ["Describe the impact of the social and religious reform movements on Indian society.", "(1) They spread a rational, scientific and humanitarian outlook and criticised caste and untouchability. (2) Laws were passed against sati and infanticide, for widow remarriage (1856) and inter-caste marriage (1872), and against child marriage (1929); women's education spread. (3) They gave Indians self-respect, self-confidence and pride in their country, creating national consciousness that led to the united freedom struggle.", ["October 2022", "October 2017", "October 2016"]]
+    [
+      "Who introduced English education among the Muslims? Explain his contribution in this area.",
+      "(1) Sir Syed Ahmed Khan believed that the religious and social life of the Muslims could be improved only by imbibing modern western scientific knowledge and culture. (2) Throughout his early life, he advocated the study of English language even against the opposition of the orthodox Muslims. He considered that only modern education could lead Muslims towards progress. (3) He established an English school in Ghazipur (present day Uttar Pradesh) in 1864. Under this movement, a number of schools and colleges were opened all over the country. (4) He started the Mohammadan Anglo-Oriental College (M.A.O.) at Aligarh in 1875 which later developed into the Aligarh Muslim University. (5) People became more conscious of their identity as Indian. (6) He also established a scientific society for translating English books. He also published a journal for spreading awareness among the Muslims towards social reforms especially towards modern education. He started the Mohammadan educational conference for spreading liberal ideas among the Muslims.",
+      [
+        "October 2024",
+        "October 2025"
+      ]
+    ],
+    [
+      "Explain the contribution of Swami Dayanand Saraswati in reforming Hindu religion in India.",
+      "(1) The Arya Samaj founded by Swami Dayanand Saraswati in 1875 undertook the task of reforming Hindu religion in North India. He rejected all those religious thoughts which were in conflict with the Vedas. It started the Shuddhi Movement to bring back those Hindus who had converted to Islam and Christianity. Satyarth Prakash was his most important book. (2) He opposed idol worship, untouchability and caste rigidity, worked to improve women's condition, used Hindi to reach the people and inspired the D.A.V. schools; the Arya Samaj also built self-respect and self-reliance that helped the national movement.",
+      [
+        "October 2019"
+      ]
+    ],
+    [
+      "Explain the contribution of Swami Vivekananda in the religious and social reform movement in India.",
+      "(1) Some of these reformers founded organizations to spread the awareness about which you will read now. Vivekananda established the Ramakrishna mission after the name of his guru Ramakrishna Paramhansa. He believed in the spirit of Vedanta and the essential unity and equality of all religions. (2) The history of the world is the history of a few men who had faith in themselves. He felt that Indian masses needed secular as well as spiritual knowledge to empower them to believe in themselves. (3) It fought untouchability and the rigidities of the hereditary caste system and promoted social equality. He motivated the people to respect women while he himself worked for women’s upliftment and education. Vivekananda attached primary importance to the removal of ignorance among the people. Importance was given to education especially women’s education.",
+      [
+        "April 2021"
+      ]
+    ],
+    [
+      "Explain the contribution of Ishwar Chandra Vidyasagar in the field of education.",
+      "(1) He helped open about 35 girls' schools in Bengal and was a champion of women's education. (2) He encouraged the study of Sanskrit and Bengali literature. He also introduced the study of Western thought in the Sanskrit college to inspire the Indians to shake off their age-old beliefs and modernize their ideas. (3) The first Hindu Widow Remarriage Act was introduced in 1856 owing to his relentless efforts. The admission of non-Brahmin students in the Sanskrit College was made possible through his efforts.",
+      [
+        "October 2017"
+      ]
+    ],
+    [
+      "Why was Jyotirao Govindrao Phule considered an eminent reformer?",
+      "(1) It also led to the exploitation of the lower castes. It fought untouchability and the rigidities of the hereditary caste system and promoted social equality. Jyotirao Govindrao Phule from Maharashtra worked to attain equal rights for (2) In certain communities girls were not allowed to be educated. Some of Swami Dayanand’s followers later started a network of schools and colleges called D.A.V. He and his wife, Savitribai Phule, are most known for their efforts to educate women and the lower castes as well as the masses. (3) He is also remembered for his efforts towards promoting widow remarriage. (4) In September 1873, Jyotirao along with his followers formed the Satya Shodhak Samaj (Society of Seekers of Truth) with the main objective of liberating the lower castes and protecting them from exploitation and atrocities. Mirza Ghulam Ahmed had founded the Ahmediya Movement in 1899. (5) to protect lower castes from exploitation and atrocities.",
+      [
+        "April 2017"
+      ]
+    ],
+    [
+      "Describe the impact of the social and religious reform movements on Indian society.",
+      "(1) only by the spread of modern and scientific education especially among the women. He tried to remove caste rigidities, and untouchability. All these movements laid stress on rational understanding of social and religious ideas and encouraged a scientific and humanitarian outlook. (2) For example Sati Pratha and infanticide were declared illegal. Widow Remarriage was made possible by a law passed in 1856 and condition of widows improved. She would probably have been dependant on her parents or in-laws for her survival. (3) A law passed in 1872, sanctioned inter-caste and inter-communal marriages. Sati, Caste System, Child Marriage, Plight of Widows. (4) He also protested against child-marriage and campaigned against polygamy. (5) Importance was given to education especially women’s education. (6) The religious reform movements instilled in the minds of Indians greater self-respect, selfconfidence and pride in their country. It was ultimately responsible for their united struggle against the British in the freedom movement of India. The movements promoted the feelings of self-confidence, self-respect, awareness and patriotism and thereby developed a feeling of national consciousness.",
+      [
+        "October 2022",
+        "October 2017",
+        "October 2016"
+      ]
+    ]
   ],
   "la": [
-    ["How did the socio-religious reform movements lead to the Indian National Movement? Explain in six points.", "(1) They gave Indians self-respect, self-confidence and pride in their culture and country. (2) They spread rational and scientific thinking and modern education, producing an educated class aware of liberty and equality. (3) By attacking caste, untouchability and religious divisions they promoted social unity. (4) Better status and education brought women into public life and the freedom struggle (Sarojini Naidu, Aruna Asaf Ali, Laxmi Sehgal). (5) Organisations like the Arya Samaj and Theosophical Society built self-reliance and political awakening. (6) People became conscious of their identity as Indians, which led to a united struggle against the British; after 1919 the national movement itself carried forward social reform.", ["October 2025"], {"or": ["Who introduced English education among the Muslims? Explain in six points his contribution.", "Sir Syed Ahmed Khan. (1) He believed Muslims could progress only through modern Western scientific knowledge. (2) He advocated learning English despite opposition from orthodox Muslims. (3) He opened an English school at Ghazipur in 1864. (4) He founded the M.A.O. College at Aligarh in 1875, teaching humanities and science through English; it became Aligarh Muslim University. (5) He set up a scientific society to translate English books and published a journal for reform. (6) He started the Mohammadan Educational Conference and worked for women's education against purdah and polygamy — the Aligarh Movement."]}],
-    ["Explain the social practices that existed in 19th-century India and how reformers fought them.", "(1) Female infanticide was common; it was later made illegal. (2) Child marriage was widespread; reformers opposed it and the Sharda Act (1929) fixed minimum ages. (3) Sati: Raja Ram Mohan Roy campaigned and it was banned in 1829. (4) Widows lived miserable lives; Vidyasagar's efforts produced the Widow Remarriage Act (1856), and Pandita Ramabai's Mukti Mission sheltered them. (5) Polygamy and purdah were opposed by Vidyasagar and Sir Syed. (6) Rigid caste and untouchability were attacked by the Arya Samaj, Phule's Satya Shodhak Samaj, Vivekananda and others; education, especially for girls, was the main tool of change."]
+    [
+      "How did the socio-religious reform movements lead to the Indian National Movement? Explain in six points.",
+      "(1) Through his speeches and writings, he brought out the essence of Hindu culture and religion. It aroused political awakening and helped Indians recover their self-confidence and get a sense of pride in their own country. The religious reform movements instilled in the minds of Indians greater self-respect, selfconfidence and pride in their country. (2) only by the spread of modern and scientific education especially among the women. These movements looked for social unity and strived towards liberty, equality and fraternity. (a) It affected a very small percentage of the population, mostly the educated class. (3) It fought untouchability and the rigidities of the hereditary caste system and promoted social equality. They favoured the unity among Hindus and Muslims. (4) The role of women like Captain Laxmi Sehgal of Indian National Army, Sarojini Naidu, Annie Besant, Aruna Asaf Ali and many others was extremely important in the freedom struggle. (5) Arya Samaj also had a major role to play in the national movement as it inculcated a spirit of self respect and self reliance among the people. Annie Besant becamethe President of the Theosophical Society in 1907. (6) People became more conscious of their identity as Indian. It was ultimately responsible for their united struggle against the British in the freedom movement of India. In the 20th century and especially after 1919, the Indian National Movement became the main propagator of social reform.",
+      [
+        "October 2025"
+      ],
+      {
+        "or": [
+          "Who introduced English education among the Muslims? Explain in six points his contribution.",
+          "(1) Sir Syed Ahmed Khan believed that the religious and social life of the Muslims could be improved only by imbibing modern western scientific knowledge and culture. (2) He believed that condition of women could be improved only through their education. He considered that only modern education could lead Muslims towards progress. (3) Despite facing social and financial hardships, Dr. Throughout his early life, he advocated the study of English language even against the opposition of the orthodox Muslims. (4) He established an English school in Ghazipur (present day Uttar Pradesh) in 1864. (5) He started the Mohammadan Anglo-Oriental College (M.A.O.) at Aligarh in 1875 which later developed into the Aligarh Muslim University. It provided education in humanities and science through English medium. (6) He also established a scientific society for translating English books. He also published a journal for spreading awareness among the Muslims towards social reforms especially towards modern education. The college was set up with help from the British. (7) He motivated the people to respect women while he himself worked for women’s upliftment and education. the purdah system, polygamy, easy divorce and lack of education among the girls. He started the Mohammadan educational conference for spreading liberal ideas among the Muslims. It was ultimately responsible for their united struggle against the British in the freedom movement of India."
+        ]
+      }
+    ],
+    [
+      "Explain the social practices that existed in 19th-century India and how reformers fought them.",
+      "(1) Female infanticide or killing of a girl child was a very common practice. It made immense contribution towards the development of Modern India. For example Sati Pratha and infanticide were declared illegal. (2) Child marriage was widespread; reformers opposed it and the Sharda Act (3) fixed minimum ages. (4) Raja Ram Mohan Roy was born in a Brahmin family of Bengal. A law was passed in 1829 making Sati illegal and punishable. They also campaigned against the orthodox practices in Parsi religion. (5) Widows lived miserable lives; Vidyasagar's efforts produced the Widow Remarriage Act (6) According to them society and religion were interlinked. In Maharashtra, Pandita Ramabai, a renowned social reformer, fought for the rights of women and spoke against the practice of child marriage. In 1889, she established the Mukti Mission, in Pune, a refuge for young widows who had been deserted and abused by their families. (7) Sir Syed Ahmed Khan believed that the religious and social life of the Muslims could be improved only by imbibing modern western scientific knowledge and culture. the purdah system, polygamy, easy divorce and lack of education among the girls. Though he was opposed by the orthodox Muslims, he made commendable efforts in promote women’s education. (8) Rigid caste and untouchability were attacked by the Arya Samaj, Phule's Satya Shodhak Samaj, Vivekananda and others; education, especially for girls, was the main tool of change."
+    ]
   ]
 }
