@@ -1,0 +1,383 @@
+{
+  "subject": "bakery",
+  "lesson": 1,
+  "title": "Ingredients and Equipments",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Fill in the blanks and write the correct answers.",
+      "marks": "12 × 1 = 12",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "open",
+          "q": "The ________ portion of milk is called cream.",
+          "answer": "Fat (cream is the skimmed milk fat).",
+          "years": [
+            "April 2026",
+            "April 2024",
+            "October 2022"
+          ]
+        },
+        {
+          "id": "1.2",
+          "type": "open",
+          "q": "________ chambers are cabinets with temperature and humidity control.",
+          "answer": "Proving.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "1.3",
+          "type": "open",
+          "q": "A proving chamber, oven and table are all ________ equipment.",
+          "answer": "Heavy.",
+          "years": [
+            "October 2022"
+          ]
+        },
+        {
+          "id": "1.4",
+          "type": "open",
+          "q": "The chemical name of ________ is sodium chloride.",
+          "answer": "Salt.",
+          "years": [
+            "October 2022"
+          ]
+        },
+        {
+          "id": "1.5",
+          "type": "open",
+          "q": "Whole wheat flour consists of bran, ________ and germ.",
+          "answer": "Endosperm.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "1.6",
+          "type": "open",
+          "q": "________ is obtained by milling of wheat.",
+          "answer": "Flour.",
+          "years": [
+            "October 2024",
+            "October 2025"
+          ]
+        },
+        {
+          "id": "1.7",
+          "type": "open",
+          "q": "Dry ________ is available in granular form.",
+          "answer": "Yeast.",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "1.8",
+          "type": "open",
+          "q": "Yeast is a ________ raising agent.",
+          "answer": "Biological (it is a living micro-organism that produces carbon dioxide).",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "1.9",
+          "type": "open",
+          "q": "In ________ flour the coarser part of the bran is removed.",
+          "answer": "Brown."
+        },
+        {
+          "id": "1.10",
+          "type": "open",
+          "q": "A fresh egg ________ in water while a stale egg floats.",
+          "answer": "Sinks."
+        },
+        {
+          "id": "1.11",
+          "type": "open",
+          "q": "Brown flour is used for making ________.",
+          "answer": "Brown bread."
+        },
+        {
+          "id": "1.12",
+          "type": "open",
+          "q": "Milk contains about ________ per cent water.",
+          "answer": "87."
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "State whether the following statements are True or False.",
+      "marks": "23 × 1 = 23",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "Fresh yeast may be stored at room temperature.",
+          "answer": "False. Fresh yeast is kept in a refrigerator (a couple of weeks) or frozen.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Salt controls yeast activity.",
+          "answer": "True. It controls the speed of fermentation in yeast aerated goods.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "A fresh egg sinks in water.",
+          "answer": "True. A stale egg floats.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Salt contains 40% chlorine and 60% sodium.",
+          "answer": "False. It contains 40% sodium and 60% chlorine.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "Margarine is a type of fat.",
+          "answer": "True. It is a shortening agent made from hydrogenated oils.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "A rolling pin is an electric tool.",
+          "answer": "False. It is a hand tool (light equipment).",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "2.7",
+          "type": "open",
+          "q": "Only steel preparation tables are found in a bakery.",
+          "answer": "False. The table tops may also be made of marble.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "2.8",
+          "type": "open",
+          "q": "Brown sugar is refined sugar.",
+          "answer": "False. Brown sugars are unrefined raw sugars.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "2.9",
+          "type": "open",
+          "q": "Corn flour thickens custards.",
+          "answer": "True. It is used as a thickening agent.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "2.10",
+          "type": "open",
+          "q": "Milk contains about 87% of water.",
+          "answer": "True.",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "2.11",
+          "type": "open",
+          "q": "A 'turn table' is a heavy equipment.",
+          "answer": "False. It is light equipment.",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "2.12",
+          "type": "open",
+          "q": "The temperature of an electric oven cannot be controlled.",
+          "answer": "False. An electric oven has a thermostat which makes temperature regulation easier.",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "2.13",
+          "type": "open",
+          "q": "One high pressure gas burner is a must for a bakery unit.",
+          "answer": "False. One low pressure gas burner is a must.",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "2.14",
+          "type": "open",
+          "q": "Butter contains about 85% fat.",
+          "answer": "True.",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "2.15",
+          "type": "open",
+          "q": "Yeast is available in dry form only.",
+          "answer": "False. It is available both fresh and dry.",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "2.16",
+          "type": "open",
+          "q": "Whole wheat flour is 'atta' in Hindi.",
+          "answer": "True.",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "2.17",
+          "type": "open",
+          "q": "'Caster sugar' is a finer form of grain sugar.",
+          "answer": "True.",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "2.18",
+          "type": "open",
+          "q": "A peeler is used to peel potatoes only.",
+          "answer": "False. It is used to peel vegetables and fruits in general.",
+          "years": [
+            "October 2022"
+          ]
+        },
+        {
+          "id": "2.19",
+          "type": "open",
+          "q": "Milk is 100% water.",
+          "answer": "False. It contains about 87% water.",
+          "years": [
+            "October 2022"
+          ]
+        },
+        {
+          "id": "2.20",
+          "type": "open",
+          "q": "Dry yeast is used in half the quantity of fresh yeast.",
+          "answer": "True. It is more concentrated.",
+          "years": [
+            "October 2022"
+          ]
+        },
+        {
+          "id": "2.21",
+          "type": "open",
+          "q": "Proving chambers have time control only.",
+          "answer": "False. They have temperature and humidity control.",
+          "years": [
+            "October 2022"
+          ]
+        },
+        {
+          "id": "2.22",
+          "type": "open",
+          "q": "The only type of sugar used in a bakery is grain sugar.",
+          "answer": "False. Castor, icing, brown sugar, golden syrup, treacle, honey, glucose and others are also used.",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "2.23",
+          "type": "open",
+          "q": "Self raising flour has higher protein content and is used for making bread.",
+          "answer": "False. Strong flour has higher protein and is used for bread; self raising flour has the raising agent mixed in."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Answer the following questions (five points each).",
+      "marks": "5 × 2.5 = 12.5",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "Mention any 5 small / light equipment with their uses.",
+          "answer": "(i) Palette knife: to spread icing and lift biscuits. (ii) Sieve: to sift flour and remove lumps. (iii) Rolling pin: to roll out dough and pastes. (iv) Whisk: to beat eggs and cream. (v) Piping bag with nozzle: to pipe icing and make designs.",
+          "years": [
+            "April 2026",
+            "October 2022",
+            "April 2024"
+          ]
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "Differentiate between dry and fresh yeast.",
+          "answer": "(i) Fresh yeast is available from bakers and speciality stores; dry yeast from provision stores. (ii) Fresh yeast is sold in 1/2 kg packs wrapped in butter paper; dry yeast in small sachets. (iii) Fresh yeast is pale beige, firm but crumbly with a fruity smell; dry yeast is in granules and a little darker. (iv) Fresh yeast is stored in a refrigerator for a couple of weeks (frozen for months); sealed dry yeast keeps for months in a cool cupboard but should be used within a month of opening. (v) Fresh yeast gives better products; dry yeast is used in half the quantity because it is more concentrated.",
+          "years": [
+            "April 2026",
+            "October 2024"
+          ]
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "Mention any 5 sweeteners used in bakery with their uses.",
+          "answer": "(i) Grain sugar: general sweetening. (ii) Castor sugar: finer, for creaming in cakes. (iii) Icing sugar: very fine powder for icing, glazes, dusting and almond paste. (iv) Brown sugar: gives colour and flavour to rich cakes. (v) Golden syrup / treacle / honey / liquid glucose: for ginger cakes and biscuits, dark fruit cakes, gingerbreads and sugar boiling.",
+          "years": [
+            "October 2025",
+            "April 2024"
+          ]
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "List any five baking ingredients and mention their uses.",
+          "answer": "(i) Flour: forms the bulk and structure of bakery products. (ii) Yeast: ferments sugar and produces carbon dioxide that raises the dough. (iii) Baking powder: chemical raising agent. (iv) Salt: gives flavour, controls the speed of fermentation and strengthens gluten. (v) Eggs: form the structure and give colour; the yolk emulsifies and is used as a glaze.",
+          "years": [
+            "October 2022"
+          ]
+        },
+        {
+          "id": "3.5",
+          "type": "open",
+          "q": "Classify the ingredients used in a bakery according to their keeping quality, with examples.",
+          "answer": "(i) Non-perishable: kept for more than a month at room temperature, e.g. flour, sugar, salt, spices. (ii) Perishable: can be stored for a couple of days at the most at proper temperature, e.g. milk, cream, fresh fruits and vegetables, meat. (iii) Semi-perishable: need proper storage temperature but keep longer than perishables, e.g. butter and other fats, chocolates, eggs, opened tins."
+        }
+      ]
+    }
+  ]
+}

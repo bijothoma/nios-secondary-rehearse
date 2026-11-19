@@ -1,0 +1,61 @@
+{
+ "lesson": 1,
+ "title": "Ingredients and Equipments",
+ "module": 1,
+ "summary": [
+  "## Ingredients and their classes",
+  "Only the best and the freshest raw material can guarantee good results in baking. The commonly used ingredients are flour, yeast, chemical raising agents, salt, cornflour, milk, cream, shortening agents, eggs, sugars, cocoa and chocolate, coffee, nuts, meat and poultry products, fresh and candied fruits, spices and aromatics, alcohol, food colours and essences. Depending on keeping quality, shelf life and storage temperature they are classified as: non-perishable (kept for more than a month at room temperature, e.g. flour, sugar, salt, spices, cocoa and coffee powders, colours, essences, canned products), perishable (kept a couple of days at the most at proper temperature, e.g. milk, cream, fresh fruits and vegetables, poultry and meat) and semi-perishable (need proper storage temperature but keep longer than perishables, e.g. butter and other fats, chocolates, opened tins, eggs).",
+  "## Flour, yeast and raising agents",
+  "Flour is the most important ingredient and is obtained by milling wheat. A wheat grain has bran, endosperm and germ; both bran and germ are removed during milling. Whole meal (whole wheat, 'atta') flour contains all parts of the grain; brown flour has the coarser bran removed and is used for brown bread; white flour ('maida') has most of the bran and germ removed; strong flour has a higher protein content and is used for breads, buns and patties; soft (weak) flour has more starch and less protein and is used for cakes, biscuits and pastries; self raising flour has the raising agent already mixed in. Yeast is a unicellular micro-organism of plant origin (Saccharomyces cerevisiae) which needs air, moisture, warmth and sugar to multiply and produce carbon dioxide that raises the dough. Fresh yeast is pale beige, firm but crumbly, with a pleasant fruity smell, is kept in a refrigerator for a couple of weeks (frozen for months) and gives better products; dried yeast is in granules, a little darker, sold in sachets, keeps for a few months in a cool cupboard (one month after opening) and is used in half the quantity because it is more concentrated. Chemical raising agents: baking powder (sodium bicarbonate, cream of tartar and a separator such as rice, potato or corn starch; the acid neutralises the left-over soda so no after taste is left), ammonium bicarbonate (gives ammonia gas that leaves an off taste) and baking soda (costs less, but the sodium carbonate residue leaves a bad taste and dark colour, so it suits only darker chocolate cakes).",
+  "## Salt, milk, shortenings, eggs and sugars",
+  "Salt (sodium chloride) contains 40% sodium and 60% chlorine; it gives flavour, accentuates other flavours, has a stabilising effect on gluten, controls the speed of fermentation in yeast goods and helps retain moisture. Cornflour (from maize) is a thickening agent in custards and dilutes the strength of flour. Milk contains about 87% water and is a moistening and enriching agent; milk powder saves space and keeps well; condensed milk is made by evaporating water under vacuum. Cream is the fat portion (skimmed milk fat) of milk and must be refrigerated. Shortening agents: butter (made by churning milk, about 85% fat, pleasant aroma, store below 40 F), margarine (a cheaper butter substitute made from hydrogenated oils, no aroma), vanaspati ghee (hydrogenated oils with a grainy texture, less suitable for baked goods) and refined oil (liquid at room temperature, cannot be used for creaming, used for frying and greasing tins). After flour, eggs are the second structure forming material: white whisks easily and makes cakes lighter, yolk emulsifies and is used as a glaze. An average egg weighs 45-50 g; a fresh egg sinks in water and a stale one floats. Sugars: grain sugar (99% carbohydrate), castor sugar (finer, suitable for creaming), icing sugar (very fine powder for icing, glazes, dusting and almond paste), brown sugar (unrefined raw sugar for rich cakes), golden syrup (by-product of sugar refining, for ginger cakes), treacle (darker than golden syrup, for dark fruit cakes and Christmas pudding), honey, liquid glucose (made by boiling starch in water), milk sugar (lactose) and malt sugar (maltose). Cocoa powder is low in fat and has no sugar whereas chocolate has sugar, cocoa butter and milk added.",
+  "## Equipment and its maintenance",
+  "Light equipment: knives, scissors, graters, sieves, strainers, chopping boards, spoons, rolling pin, whisks, measuring jug, bowls, degchi, saucepan, karahi, turntable, cake dummies, lemon squeezer, pastry brush, weighing scale, sugar thermometer, biscuit cutters, piping bags and nozzles, cooling rack, trays, cake tins, moulds, Swiss roll tray, tartlet moulds, flan rings and baking trays. Heavy equipment: oven (gas, coal or electric), proving chamber, refrigerator, dough mixer, deep freezer, work tables, storage cabinet and gas burners. Ovens may be heated by coal, gas, oil or electricity; what matters is that heat is equally distributed and the required temperature is available; an electric oven has a thermostat. A proving chamber is a cabinet with temperature and humidity control used for fermenting bread, rolls and buns. Refrigerators are defrosted weekly and deep freezers at least once a month. Steel or marble work tables are smooth and easy to keep clean; open sides and no drawers are best. One low pressure gas burner is a must in a bakery."
+ ],
+ "fill": [
+  ["The ________ portion of milk is called cream.", "Fat (cream is the skimmed milk fat).", ["April 2026", "April 2024", "October 2022"]],
+  ["________ chambers are cabinets with temperature and humidity control.", "Proving.", ["October 2025"]],
+  ["A proving chamber, oven and table are all ________ equipment.", "Heavy.", ["October 2022"]],
+  ["The chemical name of ________ is sodium chloride.", "Salt.", ["October 2022"]],
+  ["Whole wheat flour consists of bran, ________ and germ.", "Endosperm.", ["October 2025"]],
+  ["________ is obtained by milling of wheat.", "Flour.", ["October 2024", "October 2025"]],
+  ["Dry ________ is available in granular form.", "Yeast.", ["October 2024"]],
+  ["Yeast is a ________ raising agent.", "Biological (it is a living micro-organism that produces carbon dioxide).", ["October 2025"]],
+  ["In ________ flour the coarser part of the bran is removed.", "Brown."],
+  ["A fresh egg ________ in water while a stale egg floats.", "Sinks."],
+  ["Brown flour is used for making ________.", "Brown bread."],
+  ["Milk contains about ________ per cent water.", "87."]
+ ],
+ "tf": [
+  ["Fresh yeast may be stored at room temperature.", "False. Fresh yeast is kept in a refrigerator (a couple of weeks) or frozen.", ["April 2026"]],
+  ["Salt controls yeast activity.", "True. It controls the speed of fermentation in yeast aerated goods.", ["April 2026"]],
+  ["A fresh egg sinks in water.", "True. A stale egg floats.", ["April 2026"]],
+  ["Salt contains 40% chlorine and 60% sodium.", "False. It contains 40% sodium and 60% chlorine.", ["April 2026"]],
+  ["Margarine is a type of fat.", "True. It is a shortening agent made from hydrogenated oils.", ["April 2025"]],
+  ["A rolling pin is an electric tool.", "False. It is a hand tool (light equipment).", ["April 2025"]],
+  ["Only steel preparation tables are found in a bakery.", "False. The table tops may also be made of marble.", ["April 2025"]],
+  ["Brown sugar is refined sugar.", "False. Brown sugars are unrefined raw sugars.", ["October 2025"]],
+  ["Corn flour thickens custards.", "True. It is used as a thickening agent.", ["October 2025"]],
+  ["Milk contains about 87% of water.", "True.", ["October 2024"]],
+  ["A 'turn table' is a heavy equipment.", "False. It is light equipment.", ["April 2024"]],
+  ["The temperature of an electric oven cannot be controlled.", "False. An electric oven has a thermostat which makes temperature regulation easier.", ["April 2024"]],
+  ["One high pressure gas burner is a must for a bakery unit.", "False. One low pressure gas burner is a must.", ["April 2024"]],
+  ["Butter contains about 85% fat.", "True.", ["April 2024"]],
+  ["Yeast is available in dry form only.", "False. It is available both fresh and dry.", ["April 2024"]],
+  ["Whole wheat flour is 'atta' in Hindi.", "True.", ["April 2024"]],
+  ["'Caster sugar' is a finer form of grain sugar.", "True.", ["April 2024"]],
+  ["A peeler is used to peel potatoes only.", "False. It is used to peel vegetables and fruits in general.", ["October 2022"]],
+  ["Milk is 100% water.", "False. It contains about 87% water.", ["October 2022"]],
+  ["Dry yeast is used in half the quantity of fresh yeast.", "True. It is more concentrated.", ["October 2022"]],
+  ["Proving chambers have time control only.", "False. They have temperature and humidity control.", ["October 2022"]],
+  ["The only type of sugar used in a bakery is grain sugar.", "False. Castor, icing, brown sugar, golden syrup, treacle, honey, glucose and others are also used.", ["October 2024"]],
+  ["Self raising flour has higher protein content and is used for making bread.", "False. Strong flour has higher protein and is used for bread; self raising flour has the raising agent mixed in."]
+ ],
+ "sa": [
+  ["Mention any 5 small / light equipment with their uses.", "(i) Palette knife: to spread icing and lift biscuits. (ii) Sieve: to sift flour and remove lumps. (iii) Rolling pin: to roll out dough and pastes. (iv) Whisk: to beat eggs and cream. (v) Piping bag with nozzle: to pipe icing and make designs.", ["April 2026", "October 2022", "April 2024"]],
+  ["Differentiate between dry and fresh yeast.", "(i) Fresh yeast is available from bakers and speciality stores; dry yeast from provision stores. (ii) Fresh yeast is sold in 1/2 kg packs wrapped in butter paper; dry yeast in small sachets. (iii) Fresh yeast is pale beige, firm but crumbly with a fruity smell; dry yeast is in granules and a little darker. (iv) Fresh yeast is stored in a refrigerator for a couple of weeks (frozen for months); sealed dry yeast keeps for months in a cool cupboard but should be used within a month of opening. (v) Fresh yeast gives better products; dry yeast is used in half the quantity because it is more concentrated.", ["April 2026", "October 2024"]],
+  ["Mention any 5 sweeteners used in bakery with their uses.", "(i) Grain sugar: general sweetening. (ii) Castor sugar: finer, for creaming in cakes. (iii) Icing sugar: very fine powder for icing, glazes, dusting and almond paste. (iv) Brown sugar: gives colour and flavour to rich cakes. (v) Golden syrup / treacle / honey / liquid glucose: for ginger cakes and biscuits, dark fruit cakes, gingerbreads and sugar boiling.", ["October 2025", "April 2024"]],
+  ["List any five baking ingredients and mention their uses.", "(i) Flour: forms the bulk and structure of bakery products. (ii) Yeast: ferments sugar and produces carbon dioxide that raises the dough. (iii) Baking powder: chemical raising agent. (iv) Salt: gives flavour, controls the speed of fermentation and strengthens gluten. (v) Eggs: form the structure and give colour; the yolk emulsifies and is used as a glaze.", ["October 2022"]],
+  ["Classify the ingredients used in a bakery according to their keeping quality, with examples.", "(i) Non-perishable: kept for more than a month at room temperature, e.g. flour, sugar, salt, spices. (ii) Perishable: can be stored for a couple of days at the most at proper temperature, e.g. milk, cream, fresh fruits and vegetables, meat. (iii) Semi-perishable: need proper storage temperature but keep longer than perishables, e.g. butter and other fats, chocolates, eggs, opened tins."]
+ ]
+}

@@ -2981,6 +2981,80 @@
           "file": "data/sr-home-science/paper-3.json"
         }
       ]
+    },
+    {
+      "id": "bakery",
+      "name": "Bakery and Confectionery",
+      "label": "",
+      "level": "secondary",
+      "lessons": [
+        {
+          "no": 1,
+          "title": "Ingredients and Equipments",
+          "file": "data/bakery/lesson-1.json",
+          "summary": "data/bakery/summary/lesson-1.json"
+        },
+        {
+          "no": 2,
+          "title": "Biscuits",
+          "file": "data/bakery/lesson-2.json",
+          "summary": "data/bakery/summary/lesson-2.json"
+        },
+        {
+          "no": 3,
+          "title": "Cakes",
+          "file": "data/bakery/lesson-3.json",
+          "summary": "data/bakery/summary/lesson-3.json"
+        },
+        {
+          "no": 4,
+          "title": "Icings",
+          "file": "data/bakery/lesson-4.json",
+          "summary": "data/bakery/summary/lesson-4.json"
+        },
+        {
+          "no": 5,
+          "title": "Pastes or Mixtures",
+          "file": "data/bakery/lesson-5.json",
+          "summary": "data/bakery/summary/lesson-5.json"
+        },
+        {
+          "no": 6,
+          "title": "Breads and Bread Rolls",
+          "file": "data/bakery/lesson-6.json",
+          "summary": "data/bakery/summary/lesson-6.json"
+        },
+        {
+          "no": 7,
+          "title": "Danish Pastries and Croissant",
+          "file": "data/bakery/lesson-7.json",
+          "summary": "data/bakery/summary/lesson-7.json"
+        },
+        {
+          "no": 8,
+          "title": "Accounting Procedures",
+          "file": "data/bakery/lesson-8.json",
+          "summary": "data/bakery/summary/lesson-8.json"
+        },
+        {
+          "no": 901,
+          "tag": "Full paper",
+          "title": "Model Question Paper 1",
+          "file": "data/bakery/paper-1.json"
+        },
+        {
+          "no": 902,
+          "tag": "Full paper",
+          "title": "Model Question Paper 2",
+          "file": "data/bakery/paper-2.json"
+        },
+        {
+          "no": 903,
+          "tag": "Full paper",
+          "title": "Model Question Paper 3",
+          "file": "data/bakery/paper-3.json"
+        }
+      ]
     }
   ]
 }

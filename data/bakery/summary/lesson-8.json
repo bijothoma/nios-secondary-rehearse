@@ -1,0 +1,69 @@
+{
+  "subject": "bakery",
+  "lesson": 8,
+  "blocks": [
+    {
+      "type": "title",
+      "parts": [
+        [
+          "tx",
+          "Lesson 8: Accounting Procedures — Summary"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Accounting terms"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Accounting is the language of the business. A transaction is the give and take in a business; it may be a cash transaction (payment at the time of purchase) or a credit transaction (payment promised later). An account records the transactions relating to a particular person, organisation, thing, income or expenditure under a particular head for a given period. There are three types of accounts: personal account (of persons, companies, institutions, firms, shops), real account (of things or property the business possesses, such as furniture, cash, machinery, goods; these can be seen or felt) and nominal account (items of expenses or losses, income or gains, such as rent, salary, interest, commission; these are abstract). Goods are the main items in which the business deals; the goods account is broken into four parts: purchase account, sales account, purchases return account and sales return account. Debit: the receiver of the benefit, or an expense or loss. Credit: the giver of the benefit, or a gain or income. A debtor is a person who has received something but has not paid for it; a creditor is a person who has given something but has not been paid. In the double entry system every transaction has a double effect, affecting at least two accounts, so it is recorded at two places: one account is debited and the other credited. Assets are what the business possesses (cash, bank balance, machines, land, debtors); liabilities are what the business has to pay (bills payable, creditors); capital is the money or property brought into the business from outside by the proprietor."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Stages of accounting, journal and ledger"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Accounting has three stages: (1) primary entry (recorded first in the journal), (2) secondary entry or classification (posting from the journal into the ledger) and (3) final accounts (profit and loss account and balance sheet). The journal is the book of primary or original entry in which all transactions are recorded in the order of dates, showing each transaction in its two-fold aspect. Its columns are date, particulars, ledger folio, debit amount and credit amount. The process of entering a business transaction in the journal is called journalising; a short description after each entry is the narration. Rules of journalising: personal account - debit the receiver and credit the giver; real account - debit what comes in and credit what goes out; nominal account - debit expenses and losses and credit incomes and gains. Example: goods purchased from Rahul worth Rs. 500: Purchases A/c Dr. 500 To Rahul's A/c 500 (Being goods purchased from Rahul). The ledger is the main book of the business and the second stage of accounting; it has a debit side and a credit side. The process of transferring entries from the journal into the ledger is called posting; on the debit side the word 'To' is used and on the credit side 'By'. Balancing: total both sides, the difference is written as 'balance carried down' (balance c/d) on the lighter side to make the totals equal, and it is reopened as 'balance brought down' (balance b/d) in the next period. A trial balance is a statement prepared from the balances of the ledger accounts to check the arithmetical accuracy of the journal entries and ledger postings; the totals of the debit and credit sides must be equal. Objectives: to check the arithmetical accuracy, to get the balances of all ledger accounts at one place, to make the staff careful and alert and to help in preparing the final accounts."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "parts": [
+        [
+          "tx",
+          "Purchasing, costs, profit and selling price"
+        ]
+      ]
+    },
+    {
+      "type": "para",
+      "parts": [
+        [
+          "tx",
+          "Raw material should be purchased according to requirement, both in quality and quantity, at the minimum possible price; poor purchasing increases the material cost, which directly affects the selling price, and may give a poor quality finished product. Purchasing is done from a supplier (float tenders with clear specifications, give the contract to the supplier quoting the minimum rates and check the material at the time of supply) or from the open market (know the sources, specifications, desirable and undesirable qualities, current market rates, keeping quality and the storing space available). There are three types of costs: material cost (cost of the materials used in a product), overhead cost (rent, rates, gas and electricity charges, telephone, stationery, insurance premium, advertising, repairs and depreciation of assets) and labour cost (wages, salaries, staff meals, accommodation and training). There are two types of profit: gross profit = selling price - material cost (it is not the actual profit) and net profit = selling price - total cost, which equals gross profit - overhead cost - labour cost. Example: cake sold at Rs. 100; material Rs. 27, labour Rs. 17, overhead Rs. 18; total cost Rs. 62; net profit = 100 - 62 = Rs. 38. Fixing the selling price: material cost should not exceed 40% of the selling price, overhead cost 20% and labour cost 15%; the total cost should never be more than 75% of the selling price (try to bring it down to 70% or less). Formula: total cost + profit = selling price. If the material cost is Rs. 36 and the gross profit is to be 60% of the selling price, the material cost is 40% of the selling price, so selling price = 36/40 x 100 = Rs. 90."
+        ]
+      ]
+    }
+  ]
+}

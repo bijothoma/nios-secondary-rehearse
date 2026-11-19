@@ -64,7 +64,7 @@ INSTRUCTIONS_CHAPTER = [
 def section(no, key, questions, passage=None, years=None):
     _, title, marks, words, _ = next(s for s in SECTIONS if s[0] == key)
     sec = {'no': no, 'title': title + (f' Answer in {words}.' if words else ''),
-           'marks': f'{len(questions)} × {marks} = {len(questions) * marks}',
+           'marks': f'{len(questions)} × {marks} = {len(questions) * marks}'.replace('.0', ''),
            'questions': questions}
     if key.startswith('case'):
         sec['fixed'] = True  # the questions follow the passage in order

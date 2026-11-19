@@ -1,0 +1,164 @@
+{
+  "subject": "bakery",
+  "lesson": 7,
+  "title": "Danish Pastries and Croissant",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Fill in the blanks and write the correct answers.",
+      "marks": "8 × 1 = 8",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "open",
+          "q": "Danish pastry is served in ________.",
+          "answer": "Breakfast (as a coffee or breakfast bread).",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "1.2",
+          "type": "open",
+          "q": "Croissant is a rich, yeast based bread dough high in ________.",
+          "answer": "Fat (butter).",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "1.3",
+          "type": "open",
+          "q": "The method of adding fat to croissants is similar to that in ________ pastry.",
+          "answer": "Flaky."
+        },
+        {
+          "id": "1.4",
+          "type": "open",
+          "q": "Croissants are traditionally eaten at ________ time in France.",
+          "answer": "Breakfast."
+        },
+        {
+          "id": "1.5",
+          "type": "open",
+          "q": "Doughnuts are flavoured with ________ powder.",
+          "answer": "Cinnamon."
+        },
+        {
+          "id": "1.6",
+          "type": "open",
+          "q": "________ are a fried item though considered a part of bakery.",
+          "answer": "Doughnuts."
+        },
+        {
+          "id": "1.7",
+          "type": "open",
+          "q": "The commonly used enriching agents in yeast doughs are egg and ________.",
+          "answer": "Butter."
+        },
+        {
+          "id": "1.8",
+          "type": "open",
+          "q": "Brioche dough can be stored for a day or two in a ________.",
+          "answer": "Refrigerator."
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "State whether the following statements are True or False.",
+      "marks": "7 × 1 = 7",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "Croissants are made from leavened puff dough.",
+          "answer": "True.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Danish pastry is made from a yeast puff dough.",
+          "answer": "True."
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "Doughnuts are deep fried.",
+          "answer": "True.",
+          "years": [
+            "October 2024",
+            "October 2025"
+          ]
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Doughnuts are usually tube shaped.",
+          "answer": "False. They are usually ring shaped (cut with a doughnut cutter).",
+          "years": [
+            "October 2022"
+          ]
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "The main ingredient in preparing doughnuts is almond powder.",
+          "answer": "False. It is flour.",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "We cannot store brioche dough in a refrigerator as yeast will die.",
+          "answer": "False. Brioche dough can be stored for a day or two in the refrigerator."
+        },
+        {
+          "id": "2.7",
+          "type": "open",
+          "q": "Richer yeast doughs require longer time for fermentation.",
+          "answer": "True."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Answer the following questions (five points each).",
+      "marks": "3 × 2.5 = 7.5",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "What is a starter dough? Why is it prepared?",
+          "answer": "(i) A starter dough is a small soft dough made by dissolving yeast in lukewarm milk and adding a little flour. (ii) It is kept covered in a warm place for about 30 minutes until it doubles in volume. (iii) It is then mixed into the rest of the dough. (iv) It makes the yeast active and gives richer doughs like brioche and croissant a good rise, flavour and texture. (v) Such doughs need a long, unhurried fermentation."
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "Describe the method of adding fat in making croissants.",
+          "answer": "(i) Roll the dough into a rectangle about 8 mm thick. (ii) Cream 50 g butter or margarine and spread it over two-thirds of the length, leaving a 2 cm margin. (iii) Fold the unbuttered third over half of the buttered part and bring over the remaining part so that there are three layers of dough with two of fat. (iv) Seal the open edges with a rolling pin and roll again lightly so that the fat does not come out. (v) Repeat with the next two lots of 50 g fat and finally give a book fold.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "Write the steps of preparing doughnuts.",
+          "answer": "(i) Prepare a soft yeast dough with flour, sugar, salt, eggs and milk and knead until smooth and elastic. (ii) Let it rise until double and knock back. (iii) Roll it to 1/2 inch and cut with a doughnut cutter. (iv) Prove the doughnuts on a floured duster until double. (v) Deep fry in new oil until golden brown on both sides, drain and roll in cinnamon sugar."
+        }
+      ]
+    }
+  ]
+}

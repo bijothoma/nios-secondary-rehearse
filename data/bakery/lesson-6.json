@@ -1,0 +1,360 @@
+{
+  "subject": "bakery",
+  "lesson": 6,
+  "title": "Breads and Bread Rolls",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Fill in the blanks and write the correct answers.",
+      "marks": "12 × 1 = 12",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "open",
+          "q": "The liquid used in bread dough is ________.",
+          "answer": "Water (or milk).",
+          "years": [
+            "April 2026",
+            "April 2024",
+            "October 2022"
+          ]
+        },
+        {
+          "id": "1.2",
+          "type": "open",
+          "q": "Fermentation is a process where ________ acts on sugar.",
+          "answer": "Yeast.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "1.3",
+          "type": "open",
+          "q": "The ________ characteristics of bread are volume and crust colour.",
+          "answer": "External.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "1.4",
+          "type": "open",
+          "q": "The ________ characteristics of a bread are internal colour, structure and flavour.",
+          "answer": "Internal.",
+          "years": [
+            "October 2022",
+            "April 2024"
+          ]
+        },
+        {
+          "id": "1.5",
+          "type": "open",
+          "q": "The ideal temperature for fermentation of bread dough should be ________.",
+          "answer": "78-80 F (25-30 C).",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "1.6",
+          "type": "open",
+          "q": "If knocking back is not done in bread making, large bubbles of gas make ________ in the finished bread.",
+          "answer": "Large holes.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "1.7",
+          "type": "open",
+          "q": "The ________ found in refined flour is called gluten.",
+          "answer": "Protein.",
+          "years": [
+            "April 2025",
+            "October 2025"
+          ]
+        },
+        {
+          "id": "1.8",
+          "type": "open",
+          "q": "Too dark reddish brown colour of crust in bread is due to too much ________.",
+          "answer": "Salt.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "1.9",
+          "type": "open",
+          "q": "Moistness of bread is influenced by the condition of ________ and starch.",
+          "answer": "Gluten.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "1.10",
+          "type": "open",
+          "q": "________ is a yeast bread rich in fat and eggs.",
+          "answer": "Brioche.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "1.11",
+          "type": "open",
+          "q": "________ by milk or eggs is done by pastry brush.",
+          "answer": "Glazing.",
+          "years": [
+            "October 2022",
+            "April 2024"
+          ]
+        },
+        {
+          "id": "1.12",
+          "type": "open",
+          "q": "Salt controls the rate of ________ in baking.",
+          "answer": "Fermentation.",
+          "years": [
+            "October 2024"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "State whether the following statements are True or False.",
+      "marks": "18 × 1 = 18",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "In making of breads, water is the main ingredient by weight.",
+          "answer": "False. Flour is the main ingredient by weight.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Fats in bread dough act as tenderizers.",
+          "answer": "True.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "Eggs are non essential ingredients in bread making.",
+          "answer": "True. The four essential ingredients are flour, yeast, water and salt.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Single knot and clover leaf are shapes of bread rolls.",
+          "answer": "True.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "'Rope' and 'Moulds' are cake designs.",
+          "answer": "False. They are diseases of bread.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "The crust colour of baked goods is red.",
+          "answer": "False. It should be a pleasant golden brown.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "2.7",
+          "type": "open",
+          "q": "A loaf of bread has yeast in it.",
+          "answer": "True.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "2.8",
+          "type": "open",
+          "q": "The liquid used in breads is always water.",
+          "answer": "False. It may be milk or water.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "2.9",
+          "type": "open",
+          "q": "Steps in bread loaf making are more than 12.",
+          "answer": "True. The recipe has about 20 steps.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "2.10",
+          "type": "open",
+          "q": "'Dough' is a mixture of flour and liquid made into a stiff paste.",
+          "answer": "True.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "2.11",
+          "type": "open",
+          "q": "The bread's volume and shape are internal characteristics.",
+          "answer": "False. They are external characteristics.",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "2.12",
+          "type": "open",
+          "q": "Breads are always baked in a mould.",
+          "answer": "False. They may also be baked open on a tray.",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "2.13",
+          "type": "open",
+          "q": "Brown breads are considered to be nutritionally superior.",
+          "answer": "True.",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "2.14",
+          "type": "open",
+          "q": "Milk breads are made by using milk powder only.",
+          "answer": "False. Both milk powder and liquid milk can be used.",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "2.15",
+          "type": "open",
+          "q": "Kneading of dough helps in gluten formation.",
+          "answer": "True.",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "2.16",
+          "type": "open",
+          "q": "Flour, yeast, water and salt are the essential ingredients in bread making.",
+          "answer": "True.",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "2.17",
+          "type": "open",
+          "q": "Brown bread is made by using brown colour.",
+          "answer": "False. It is made with white flour and whole meal flour in equal quantities.",
+          "years": [
+            "October 2022"
+          ]
+        },
+        {
+          "id": "2.18",
+          "type": "open",
+          "q": "Any bread will remain soft if it is able to retain moisture.",
+          "answer": "True.",
+          "years": [
+            "October 2022"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Answer the following questions (five points each).",
+      "marks": "6 × 2.5 = 15",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "Explain any 5 characteristics of a good bread.",
+          "answer": "(i) Volume: neither too big nor too small for its weight. (ii) Symmetry of shape. (iii) Bloom and an even golden brown crust colour. (iv) Evenness of bake and good oven spring. (v) Internal characteristics: pleasant colour, uniform structure with right sized holes, good flavour and aroma, and proper moistness.",
+          "years": [
+            "April 2026",
+            "October 2025",
+            "April 2024",
+            "October 2022"
+          ]
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "List any 5 terms used in bread making.",
+          "answer": "(i) Dough: a mixture of flour and liquid made into a stiff paste. (ii) Kneading: working the dough to develop gluten. (iii) Fermentation: yeast feeds on sugar and gives carbon dioxide and alcohol. (iv) Knocking back: punching the risen dough to deflate it. (v) Proving and glazing: the second rising after shaping, and brushing a finish of milk, egg or flour before baking.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "Discuss any one bread disease and its prevention.",
+          "answer": "(i) Rope is caused by the bacterium Bacillus mesentericus vulgatus from improperly washed wheat or an unhygienic bakery. (ii) The bread gets a sickening sweet smell, becomes discoloured and sticky and shows thread-like strands. (iii) Prevent it by an acidic medium: acetic acid at 1% of flour or calcium propionate at 0.1%. (iv) Maintain utmost hygiene of equipment, utensils and premises. (v) Prove, bake and cool the bread properly.",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "Mention any three internal characteristics of bread to judge its quality.",
+          "answer": "(i) Internal colour is influenced by the type and quality of flour; a proper crumb structure reflects light. (ii) Structure: gas cells of the right size and evenly distributed, as per the formula of the bread. (iii) Flavour and aroma and moistness: under-fermented bread lacks aroma, over-fermented bread is sourish; stale bread is dry.",
+          "years": [
+            "October 2022"
+          ]
+        },
+        {
+          "id": "3.5",
+          "type": "open",
+          "q": "What are the common faults in bread and their causes? Give any three.",
+          "answer": "(i) Too small a volume: too tight a dough, too little yeast, too little fermentation time or excess salt. (ii) Pale crust colour: excessive fermentation time, lack of salt, too high a dough temperature or excess yeast. (iii) Cracks in buns and rolls: under fermentation, under proofing or too high an oven temperature."
+        },
+        {
+          "id": "3.6",
+          "type": "open",
+          "q": "Distinguish between fresh yeast and dry yeast use in bread making and explain how dry yeast is activated.",
+          "answer": "(i) Fresh compressed yeast gives better results than dry yeast. (ii) Dry yeast is used in 50-70% of the quantity of fresh yeast as it is more concentrated. (iii) To activate it, dissolve it in a little lukewarm water and add some flour to get a thin paste. (iv) Keep it in a warm place for 10-15 minutes; air bubbles show that it is ready. (v) If no bubbles are seen even after half an hour, the yeast is dead and should not be used."
+        }
+      ]
+    }
+  ]
+}

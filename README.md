@@ -135,6 +135,7 @@ question's own short note.
   objective questions, nine 2-mark, four 3-mark and two 5-mark answers, three MCQs, one objective, two very short and one
   short answer of which come from Optional Module A or B). Only the 16 compulsory and 6 optional public-exam lessons are
   included (lessons 29-31 of Housekeeping and 32-34 of Creative Hand Embroidery in the app).
+- `tools/build_bakery.py`: builds Secondary Bakery and Confectionery (256) from `data/bakery/src/lesson-<n>.json` with `build_sci.py` (3 questions, 40 marks, 2 hours: fifteen fill-in-the-blanks and fifteen true/false statements of 1 mark and four 2½-mark short answers of five points). Lessons 1-8 of the NIOS book are included (lesson 9, the glossary, is not examined); past-paper questions of October 2022 to April 2026 are tagged by year.
 - `tools/build_tourism.py`: builds Senior Secondary Tourism (337) from `data/tourism/src/lesson-<n>.json` with
   `build_opt.py` (53 questions, 100 marks: 16 MCQs, fourteen 2-mark objective questions, ten 2-mark, four 3-mark and two
   6-mark answers; Section C has four MCQs, one objective and two short answers from Optional Module I or II). Only the 11

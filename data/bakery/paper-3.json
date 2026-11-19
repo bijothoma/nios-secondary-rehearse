@@ -1,0 +1,341 @@
+{
+  "subject": "bakery",
+  "lesson": 903,
+  "title": "Model Question Paper 3",
+  "meta": "Time: 2 hours · Maximum marks: 40 · Modelled on the April 2026 NIOS paper (code 256)",
+  "instructions": [
+    "All questions are compulsory and carry marks as indicated against each question.",
+    "Question 1: fifteen fill-in-the-blanks (1 mark each). Question 2: fifteen True/False statements (1 mark each). Question 3: four questions of 2½ marks each.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Fill in the blanks and write the correct answers.",
+      "marks": "15 × 1 = 15",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "open",
+          "q": "A fresh egg ________ in water while a stale egg floats.",
+          "answer": "Sinks.",
+          "note": "Lesson 1."
+        },
+        {
+          "id": "1.2",
+          "type": "open",
+          "q": "________ chambers are cabinets with temperature and humidity control.",
+          "answer": "Proving.",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 1."
+        },
+        {
+          "id": "1.3",
+          "type": "open",
+          "q": "Jam tarts are made from ________ paste.",
+          "answer": "Short crust.",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 2."
+        },
+        {
+          "id": "1.4",
+          "type": "open",
+          "q": "A little ________ of soda is sifted with the flour in syrup doughs to lighten the texture.",
+          "answer": "Bicarbonate.",
+          "note": "Lesson 2."
+        },
+        {
+          "id": "1.5",
+          "type": "open",
+          "q": "In Victoria cake, flour, butter and ________ are used in equal proportion.",
+          "answer": "Sugar.",
+          "note": "Lesson 3."
+        },
+        {
+          "id": "1.6",
+          "type": "open",
+          "q": "White spots on the surface of a cake are due to too much ________.",
+          "answer": "Sugar.",
+          "note": "Lesson 3."
+        },
+        {
+          "id": "1.7",
+          "type": "open",
+          "q": "In cream icing the amount of sugar should be ________ per cent of the amount of cream.",
+          "answer": "20.",
+          "note": "Lesson 4."
+        },
+        {
+          "id": "1.8",
+          "type": "open",
+          "q": "________ icing is made from icing sugar and warm water.",
+          "answer": "Glace.",
+          "years": [
+            "April 2026",
+            "April 2025",
+            "October 2022"
+          ],
+          "note": "Lesson 4."
+        },
+        {
+          "id": "1.9",
+          "type": "open",
+          "q": "Eclair is made from ________ paste.",
+          "answer": "Choux.",
+          "years": [
+            "April 2026",
+            "October 2022",
+            "October 2024"
+          ],
+          "note": "Lesson 5."
+        },
+        {
+          "id": "1.10",
+          "type": "open",
+          "q": "The ________ characteristics of a bread are internal colour, structure and flavour.",
+          "answer": "Internal.",
+          "years": [
+            "October 2022",
+            "April 2024"
+          ],
+          "note": "Lesson 6."
+        },
+        {
+          "id": "1.11",
+          "type": "open",
+          "q": "Moistness of bread is influenced by the condition of ________ and starch.",
+          "answer": "Gluten.",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 6."
+        },
+        {
+          "id": "1.12",
+          "type": "open",
+          "q": "________ are a fried item though considered a part of bakery.",
+          "answer": "Doughnuts.",
+          "note": "Lesson 7."
+        },
+        {
+          "id": "1.13",
+          "type": "open",
+          "q": "The method of adding fat to croissants is similar to that in ________ pastry.",
+          "answer": "Flaky.",
+          "note": "Lesson 7."
+        },
+        {
+          "id": "1.14",
+          "type": "open",
+          "q": "________ accounts are prepared from the trial balance.",
+          "answer": "Final.",
+          "years": [
+            "October 2024"
+          ],
+          "note": "Lesson 8."
+        },
+        {
+          "id": "1.15",
+          "type": "open",
+          "q": "Material cost should not exceed more than 40% of the ________ price.",
+          "answer": "Selling.",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 8."
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "State whether the following statements are True or False.",
+      "marks": "15 × 1 = 15",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "Milk is 100% water.",
+          "answer": "False. It contains about 87% water.",
+          "years": [
+            "October 2022"
+          ],
+          "note": "Lesson 1."
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Only steel preparation tables are found in a bakery.",
+          "answer": "False. The table tops may also be made of marble.",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 1."
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "Pastry dough should be kneaded well to get crisp biscuits.",
+          "answer": "False. It should be handled as little as possible.",
+          "years": [
+            "October 2022"
+          ],
+          "note": "Lesson 2."
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "Nuts used in egg white biscuits are generally ground finely.",
+          "answer": "True.",
+          "note": "Lesson 2."
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "Preheating of ovens is not necessary.",
+          "answer": "False. Cakes are baked in a preheated oven.",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 3."
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "Cakes made using the creaming method have no fat.",
+          "answer": "False. Fat is creamed with sugar.",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 3."
+        },
+        {
+          "id": "2.7",
+          "type": "open",
+          "q": "Glace icing can be prepared and kept for later use.",
+          "answer": "False. It sets very quickly and should be used immediately.",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 4."
+        },
+        {
+          "id": "2.8",
+          "type": "open",
+          "q": "A piping bag may be prepared with grease proof paper.",
+          "answer": "True.",
+          "years": [
+            "April 2026"
+          ],
+          "note": "Lesson 4."
+        },
+        {
+          "id": "2.9",
+          "type": "open",
+          "q": "When dough is over rolled, the product becomes hard.",
+          "answer": "True.",
+          "years": [
+            "October 2024"
+          ],
+          "note": "Lesson 5."
+        },
+        {
+          "id": "2.10",
+          "type": "open",
+          "q": "Kneading of dough helps in gluten formation.",
+          "answer": "True.",
+          "years": [
+            "April 2024"
+          ],
+          "note": "Lesson 6."
+        },
+        {
+          "id": "2.11",
+          "type": "open",
+          "q": "Steps in bread loaf making are more than 12.",
+          "answer": "True. The recipe has about 20 steps.",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 6."
+        },
+        {
+          "id": "2.12",
+          "type": "open",
+          "q": "Croissants are made from leavened puff dough.",
+          "answer": "True.",
+          "years": [
+            "April 2025"
+          ],
+          "note": "Lesson 7."
+        },
+        {
+          "id": "2.13",
+          "type": "open",
+          "q": "Richer yeast doughs require longer time for fermentation.",
+          "answer": "True.",
+          "note": "Lesson 7."
+        },
+        {
+          "id": "2.14",
+          "type": "open",
+          "q": "The process of transferring entries from journal to ledger is called journalising.",
+          "answer": "False. It is called posting.",
+          "years": [
+            "April 2025",
+            "April 2024"
+          ],
+          "note": "Lesson 8."
+        },
+        {
+          "id": "2.15",
+          "type": "open",
+          "q": "There are 10 steps to accounting.",
+          "answer": "False. There are three stages.",
+          "years": [
+            "October 2025"
+          ],
+          "note": "Lesson 8."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Answer the following questions (five points each).",
+      "marks": "4 × 2.5 = 10",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "Classify the ingredients used in a bakery according to their keeping quality, with examples.",
+          "answer": "(i) Non-perishable: kept for more than a month at room temperature, e.g. flour, sugar, salt, spices. (ii) Perishable: can be stored for a couple of days at the most at proper temperature, e.g. milk, cream, fresh fruits and vegetables, meat. (iii) Semi-perishable: need proper storage temperature but keep longer than perishables, e.g. butter and other fats, chocolates, eggs, opened tins.",
+          "note": "Lesson 1."
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "Name the four methods of making a cake and explain any two.",
+          "answer": "The four methods are rubbing-in, creaming, whisking and all-in-one. (i) Rubbing-in: chilled fat is cut small and rubbed into sieved flour until it looks like bread crumbs; used when the weight of fat is not more than half that of flour. (ii) All-in-one: all the ingredients are placed together in a bowl and beaten until smooth and creamy; used when quick preparation is wanted.",
+          "note": "Lesson 3."
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "What are the common faults in bread and their causes? Give any three.",
+          "answer": "(i) Too small a volume: too tight a dough, too little yeast, too little fermentation time or excess salt. (ii) Pale crust colour: excessive fermentation time, lack of salt, too high a dough temperature or excess yeast. (iii) Cracks in buns and rolls: under fermentation, under proofing or too high an oven temperature.",
+          "note": "Lesson 6."
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "What is a trial balance? State its objectives.",
+          "answer": "(i) A trial balance is a statement prepared with the balances of the ledger accounts. (ii) It checks the arithmetical accuracy of the journal entries and ledger postings; the debit and credit totals must be equal. (iii) It gives the balances of all ledger accounts at one place. (iv) It makes the staff careful and alert. (v) It helps in preparing the final accounts, the profit and loss account and the balance sheet.",
+          "note": "Lesson 8."
+        }
+      ]
+    }
+  ]
+}

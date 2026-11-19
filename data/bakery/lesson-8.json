@@ -1,0 +1,244 @@
+{
+  "subject": "bakery",
+  "lesson": 8,
+  "title": "Accounting Procedures",
+  "meta": "Lesson practice set · Question types of the April 2026 NIOS paper",
+  "instructions": [
+    "Practice set for this lesson in the question types of the April 2026 paper.",
+    "Where a question has OR, answer either one.",
+    "Questions from previous NIOS papers show the exam they appeared in."
+  ],
+  "sections": [
+    {
+      "no": 1,
+      "title": "Fill in the blanks and write the correct answers.",
+      "marks": "10 × 1 = 10",
+      "questions": [
+        {
+          "id": "1.1",
+          "type": "open",
+          "q": "Net profit is gross profit minus ________ cost.",
+          "answer": "Overhead.",
+          "years": [
+            "April 2026",
+            "April 2024",
+            "October 2022",
+            "October 2024"
+          ]
+        },
+        {
+          "id": "1.2",
+          "type": "open",
+          "q": "The process of transferring entries from journal to ledger is called ________.",
+          "answer": "Posting.",
+          "years": [
+            "April 2026",
+            "April 2024",
+            "October 2022"
+          ]
+        },
+        {
+          "id": "1.3",
+          "type": "open",
+          "q": "There are ________ types of profit.",
+          "answer": "Two (gross profit and net profit).",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "1.4",
+          "type": "open",
+          "q": "________ accounts are prepared from the trial balance.",
+          "answer": "Final.",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "1.5",
+          "type": "open",
+          "q": "Material cost should not exceed more than 40% of the ________ price.",
+          "answer": "Selling.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "1.6",
+          "type": "open",
+          "q": "Gross profit is the selling price minus the ________ cost.",
+          "answer": "Material."
+        },
+        {
+          "id": "1.7",
+          "type": "open",
+          "q": "In a real account, we debit what ________ and credit what goes out.",
+          "answer": "Comes in."
+        },
+        {
+          "id": "1.8",
+          "type": "open",
+          "q": "A person who has received something but has not paid for it is a ________.",
+          "answer": "Debtor."
+        },
+        {
+          "id": "1.9",
+          "type": "open",
+          "q": "Accounting has three stages: primary entry, secondary entry and ________ accounts.",
+          "answer": "Final."
+        },
+        {
+          "id": "1.10",
+          "type": "open",
+          "q": "The process of entering a business transaction in a journal is known as ________.",
+          "answer": "Journalising.",
+          "years": [
+            "October 2022"
+          ]
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "title": "State whether the following statements are True or False.",
+      "marks": "10 × 1 = 10",
+      "questions": [
+        {
+          "id": "2.1",
+          "type": "open",
+          "q": "Primary entry is the first step in accounting.",
+          "answer": "True. The transaction is first recorded in the journal.",
+          "years": [
+            "April 2026"
+          ]
+        },
+        {
+          "id": "2.2",
+          "type": "open",
+          "q": "Property accounts are recorded under real account.",
+          "answer": "True.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "2.3",
+          "type": "open",
+          "q": "Rent and repairs come under overhead costs.",
+          "answer": "True.",
+          "years": [
+            "April 2025"
+          ]
+        },
+        {
+          "id": "2.4",
+          "type": "open",
+          "q": "The process of transferring entries from journal to ledger is called journalising.",
+          "answer": "False. It is called posting.",
+          "years": [
+            "April 2025",
+            "April 2024"
+          ]
+        },
+        {
+          "id": "2.5",
+          "type": "open",
+          "q": "There are 10 steps to accounting.",
+          "answer": "False. There are three stages.",
+          "years": [
+            "October 2025"
+          ]
+        },
+        {
+          "id": "2.6",
+          "type": "open",
+          "q": "Accounting is divided into 3 steps.",
+          "answer": "True. Primary entry, secondary entry (classification) and final accounts.",
+          "years": [
+            "April 2024"
+          ]
+        },
+        {
+          "id": "2.7",
+          "type": "open",
+          "q": "There are four stages of accounting.",
+          "answer": "False. There are three stages.",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "2.8",
+          "type": "open",
+          "q": "There are no stages of accounting.",
+          "answer": "False. There are three.",
+          "years": [
+            "October 2022"
+          ]
+        },
+        {
+          "id": "2.9",
+          "type": "open",
+          "q": "Entering a business transaction in a journal is journalising.",
+          "answer": "True.",
+          "years": [
+            "October 2022"
+          ]
+        },
+        {
+          "id": "2.10",
+          "type": "open",
+          "q": "In a trial balance the total of the debit side must equal the total of the credit side.",
+          "answer": "True. If not, there is a mistake in journal entries or postings."
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Answer the following questions (five points each).",
+      "marks": "6 × 2.5 = 15",
+      "questions": [
+        {
+          "id": "3.1",
+          "type": "open",
+          "q": "Why is purchasing of raw material important in a bakery?",
+          "answer": "(i) Wrong purchasing increases the material cost, which directly affects the selling price. (ii) Poor quality raw material gives a poor quality finished product. (iii) The aim is to buy according to the requirement, in both quality and quantity. (iv) The price paid should be the minimum possible. (v) Purchasing can be done from a supplier by tenders or from the open market after knowing the sources, rates, keeping quality and available storage space.",
+          "years": [
+            "October 2024"
+          ]
+        },
+        {
+          "id": "3.2",
+          "type": "open",
+          "q": "Differentiate between gross profit and net profit. A cake is sold for Rs. 100; material cost is Rs. 27, labour Rs. 17 and overhead Rs. 18. Find the net profit.",
+          "answer": "(i) Gross profit = selling price - material cost; it is not the actual profit. (ii) Net profit = selling price - total cost (material + labour + overhead); it is the actual profit. (iii) Total cost = 27 + 17 + 18 = Rs. 62. (iv) Net profit = 100 - 62 = Rs. 38. (v) Also, gross profit = 100 - 27 = Rs. 73 and net profit = 73 - 18 - 17 = Rs. 38."
+        },
+        {
+          "id": "3.3",
+          "type": "open",
+          "q": "A bakery made sales of Rs. 16,500 in a month and the material cost was Rs. 6,500. Find the gross profit in rupees and as a percentage of sales.",
+          "answer": "(i) Gross profit = selling price - material cost. (ii) = 16,500 - 6,500 = Rs. 10,000. (iii) Percentage = (10,000 / 16,500) x 100. (iv) = 60.6% (approximately) of sales."
+        },
+        {
+          "id": "3.4",
+          "type": "open",
+          "q": "Find the selling price needed to get a gross profit of 65% on selling price if the cost of raw material of a cake is Rs. 18. Also find the net profit when a confectionery has a gross profit of Rs. 1,000, labour cost Rs. 450 and overhead cost Rs. 425.",
+          "answer": "(i) Material cost = 100% - 65% = 35% of the selling price. (ii) 35% = Rs. 18, so 1% = 18/35 and 100% = 18/35 x 100 = Rs. 51.43. (iii) Net profit = gross profit - overhead - labour. (iv) = 1,000 - 425 - 450 = Rs. 125."
+        },
+        {
+          "id": "3.5",
+          "type": "open",
+          "q": "Explain the rules of journalising for the three types of accounts and pass the journal entry for goods purchased from Rahul worth Rs. 500.",
+          "answer": "(i) Personal account: debit the receiver and credit the giver. (ii) Real account: debit what comes in and credit what goes out. (iii) Nominal account: debit expenses and losses and credit incomes and gains. (iv) Goods have come in and Rahul is the giver, so the entry is: Purchases A/c Dr. Rs. 500; To Rahul's A/c Rs. 500. (v) Narration: (Being goods purchased from Rahul worth Rs. 500)."
+        },
+        {
+          "id": "3.6",
+          "type": "open",
+          "q": "What is a trial balance? State its objectives.",
+          "answer": "(i) A trial balance is a statement prepared with the balances of the ledger accounts. (ii) It checks the arithmetical accuracy of the journal entries and ledger postings; the debit and credit totals must be equal. (iii) It gives the balances of all ledger accounts at one place. (iv) It makes the staff careful and alert. (v) It helps in preparing the final accounts, the profit and loss account and the balance sheet."
+        }
+      ]
+    }
+  ]
+}

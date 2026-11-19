@@ -1,0 +1,42 @@
+{
+ "lesson": 2,
+ "title": "Biscuits",
+ "module": 2,
+ "summary": [
+  "## Classification of biscuits",
+  "The taste and crispness of a biscuit depend upon the raw material used and the method of making. Biscuits are made from: (1) pastry dough, (2) creamed dough, (3) egg white mixture, (4) whisked egg dough and (5) doughs rich in honey and other sugar syrups.",
+  "## Biscuits from pastry dough (short crust)",
+  "Two basic pastry doughs can be used: short crust dough and puff dough. Short crust dough basically consists of flour, fat and a moistening liquid. Flour provides the bulk and fat contributes tenderness or shortness; sugar and egg, if included, give richer products. Points to remember: keep ingredients cool; work in a cool area; handle the ingredients as little as possible (too much handling makes rougher biscuits and the fat becomes oily); use ice cold water for binding and do not add too much; chill the dough in a freezer before rolling so that the butter becomes firm and the gluten relaxes, making the dough less elastic and easier to roll. Examples: jam tarts (short crust paste filled with jam up to 2/3 level, baked at 180 C for 12 minutes; the tarts are pricked to prevent puffing) and rich biscuits (baked at 200 C for about 15 minutes; check the undersides, which should be golden, not the tops, which are dark from the glaze).",
+  "## Biscuits from creamed dough",
+  "Creaming is the process of beating together butter and sugar so that air bubbles are forced into the batter. The aerated mixture is moistened with eggs and then flour is added. This dough is very versatile and is the starting point for more biscuits than any other dough: it can be rolled and cut with biscuit cutters into circles, hearts, diamonds and squares, dropped from a spoon, or piped with a piping bag and nozzle. Creaming is the most important step because it aerates the mixture, which should become light and fluffy. A curdled look on adding eggs is not a worry as the flour binds it together. Add flour gently, a little at a time; over working strengthens the gluten and makes the biscuits tough. Example: fruit biscuits baked at 160 C for 10-12 minutes.",
+  "## Biscuits from egg white mixtures, whisked egg dough and syrup doughs",
+  "Egg white mixtures give light biscuits such as macaroons, with a deliciously chewy texture; nuts replace the flour. Separate the egg white meticulously from the yolk because the fat in yolk prevents proper rising of the egg white; use scrupulously clean, grease free utensils; grind nuts finely. Peanut macaroons are piped with a star nozzle and baked at 140 C for 15-20 minutes. Whisked egg dough biscuits contain whole eggs, sugar and flour (fats optional); they have a slightly risen, domed surface because of the expansion of entrapped air (example: orange biscuits). Syrup and honey doughs use honey, treacle and molasses to give extra sweetness, a warm brown colour and a distinctive flavour; a little bicarbonate of soda is sifted with the flour to produce carbon dioxide and lighten the texture; spices like ginger, nutmeg, cinnamon and cardamom are used (example: chocolate cookies). Tips: buy spices whole and grind when needed; warm the syrup slightly if it is too thick; sift flour, soda bicarbonate and spices together."
+ ],
+ "fill": [
+  ["________ method of cake making is used when we want a quick preparation.", "All-in-one.", ["October 2022", "April 2024"]],
+  ["Jam tarts are made from ________ paste.", "Short crust.", ["April 2026"]],
+  ["Macaroons have a ________ texture.", "Chewy (light).", ["April 2026", "October 2024"]],
+  ["Macaroons are made of almond, sugar and ________.", "Egg white.", ["April 2025"]],
+  ["________ is the process of beating together butter and sugar so that air bubbles are forced into the batter.", "Creaming.", ["April 2025"]],
+  ["Creaming method involves creaming of fat with ________.", "Sugar.", ["October 2024"]],
+  ["Biscuits made from egg white mixtures are ________ in texture.", "Light."],
+  ["Too much handling of short crust dough results in the fat becoming ________.", "Oily."],
+  ["Syrups like honey, treacle and molasses are used in biscuits for extra sweetness, a warm brown colour and a distinctive ________.", "Flavour."],
+  ["A little ________ of soda is sifted with the flour in syrup doughs to lighten the texture.", "Bicarbonate."]
+ ],
+ "tf": [
+  ["Pastry dough should be kneaded well to get crisp biscuits.", "False. It should be handled as little as possible.", ["October 2022"]],
+  ["A cold area is more suitable for making biscuits.", "True. Ingredients and the working area should be cool so that the fat does not melt."],
+  ["Chilling the dough before rolling results in a better texture.", "True. The butter becomes firm and the gluten relaxes."],
+  ["Warm water is used for binding the ingredients of short crust dough.", "False. Ice cold water is used."],
+  ["Presence of fat on egg whites hinders rising while whisking.", "True. Egg yolk contains fat which prevents proper rising of egg white."],
+  ["'Knock back' is a process during biscuit preparation.", "False. Knocking back is a process in bread making.", ["October 2024"]],
+  ["Whisked egg dough biscuits have a domed surface.", "True. Entrapped air expands while baking."],
+  ["Nuts used in egg white biscuits are generally ground finely.", "True."]
+ ],
+ "sa": [
+  ["Mention any five points to remember while preparing short crust (pastry) dough for biscuits.", "(i) Keep the ingredients cool and work in a cool area. (ii) Handle the dough as little as possible. (iii) Use ice cold water for binding and do not add too much. (iv) Do not knead; too much handling makes the fat oily and the biscuits rough. (v) Chill the dough before rolling so that the butter becomes firm and the gluten relaxes.", ["October 2024"]],
+  ["Describe the preparation of biscuits by the creaming method.", "(i) Cream fat and sugar until the mixture is light and fluffy, since air bubbles are forced into the batter. (ii) Add egg and beat again. (iii) Sieve flour and baking powder and mix in gently, a little at a time, without kneading. (iv) Roll, cut with biscuit cutters and place on a greased tray. (v) Bake at about 160 C for 10-12 minutes and cool on a cooling rack."],
+  ["Name the five types of biscuits according to the method of preparation and explain any one.", "(i) Biscuits made from pastry dough, (ii) creamed dough, (iii) egg white mixture, (iv) whisked egg dough and (v) doughs rich in honey and other sugar syrups. Macaroons are made from an egg white mixture: egg whites are whisked, sugar and finely ground nuts are folded in, piped and baked, giving a light, chewy texture."]
+ ]
+}
